@@ -1,0 +1,53 @@
+version: '3.8'
+
+services:
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: qdrant
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - qdrant_storage:/qdrant/storage
+      - ./snapshots:/qdrant/snapshots
+    restart: unless-stopped
+    networks:
+      - chatbot-network
+
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: chatbot-backend
+    ports:
+      - "3000:3000"
+    environment:
+      - QDRANT_URL=http://qdrant:6333
+      - DATABASE_URL=${DATABASE_URL:-sqlite:///messages.db}
+      - JWT_SECRET=${JWT_SECRET:-change-this-secret-in-production}
+      - JWT_EXP_MINUTES=${JWT_EXP_MINUTES:-1440}
+      - GOOGLE_CLIENT_ID=${GOOGLE_CLIENT_ID:-}
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY}
+    volumes:
+      - ./messages.db:/app/messages.db
+      - ../sources:/app/sources
+      - ./snapshots:/app/snapshots
+      # Mount only specific files to avoid overwriting entire backend during development
+      - ./system_prompt.txt:/app/system_prompt.txt
+      - ./courses.sqlite:/app/courses.sqlite
+    depends_on:
+      - qdrant
+    restart: unless-stopped
+    networks:
+      - chatbot-network
+    command: >
+      sh -c "python -c 'from agent import *; print(\"Agent initialization check passed\")' &&
+             uvicorn backend.main:app --host 0.0.0.0 --port 3000"
+
+volumes:
+  qdrant_storage:
+    driver: local
+
+networks:
+  chatbot-network:
+    driver: bridge

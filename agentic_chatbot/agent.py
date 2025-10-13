@@ -70,7 +70,9 @@ embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-
 # --- 1. Connect to Existing Qdrant RAG Data Sources ---
 
 # Initialize the Qdrant client to connect to your local instance.
-client = qdrant_client.QdrantClient(url="http://localhost:6333")
+# Use environment variable for Docker compatibility, default to localhost for local dev
+QDRANT_URL = os.environ.get("QDRANT_URL", "http://localhost:6333")
+client = qdrant_client.QdrantClient(url=QDRANT_URL)
 
 # Connect to the existing 'rules' collection
 rules_vector_store = QdrantWithObjectPayload(
