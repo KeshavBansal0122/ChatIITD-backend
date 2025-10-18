@@ -34,7 +34,7 @@ def create_chat(user_id: int, title: str | None = None) -> models.Chat:
 
 def list_chats(user_id: int) -> List[models.Chat]:
     with Session(ENGINE) as sess:
-        stmt = select(models.Chat).where(models.Chat.user_id == user_id).order_by(desc(models.Chat.created_at))
+        stmt = select(models.Chat).where(models.Chat.user_id == user_id).order_by(desc(models.Chat.created_at)) # type: ignore
         return list(sess.exec(stmt).all())
 
 
@@ -54,5 +54,20 @@ def create_message(chat_id: int, sender: str, content: str) -> models.Message:
 
 def list_messages(chat_id: int) -> List[models.Message]:
     with Session(ENGINE) as sess:
-        stmt = select(models.Message).where(models.Message.chat_id == chat_id).order_by(models.Message.created_at)
+        stmt = select(models.Message).where(models.Message.chat_id == chat_id).order_by(models.Message.created_at) # type: ignore
         return list(sess.exec(stmt).all())
+
+def delete_chat(chat_id: int) -> None:
+    with Session(ENGINE) as sess:
+        # Delete messages in bulk
+        stmt_msgs = select(models.Message).where(models.Message.chat_id == chat_id)
+        messages = sess.exec(stmt_msgs).all()
+        for msg in messages:
+            sess.delete(msg)
+
+        # Delete chat
+        chat = sess.get(models.Chat, chat_id)
+        if chat:
+            sess.delete(chat)
+
+        sess.commit()

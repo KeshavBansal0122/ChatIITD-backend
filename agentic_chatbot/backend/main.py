@@ -98,3 +98,12 @@ def get_messages(chat_id: int, current_user: models.User = Depends(auth.get_curr
     if not chat or chat.user_id != current_user.id:
         raise HTTPException(status_code=404, detail="Chat not found")
     return crud.list_messages(chat_id)
+
+@app.delete("/chats/{chat_id}", status_code=204)
+def delete_chat_endpoint(chat_id: int, current_user: models.User = Depends(auth.get_current_user)):
+    chat = crud.get_chat(chat_id)
+    if not chat or chat.user_id != current_user.id:
+        raise HTTPException(status_code=404, detail="Chat not found")
+    
+    crud.delete_chat(chat_id)
+    return {"detail": "Chat deleted"}
