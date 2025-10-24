@@ -11,6 +11,11 @@ class TokenResponse(BaseModel):
     token_type: str = "bearer"
 
 
+class OAuthCallbackRequest(BaseModel):
+    code: str
+    state: str
+
+
 class ChatCreate(BaseModel):
     title: str | None = None
 
@@ -38,3 +43,10 @@ class MessageRead(BaseModel):
 
     class Config:
         orm_mode = True
+
+
+class NewChatResponse(BaseModel):
+    """Response for creating a new chat with first message"""
+    chat: ChatRead
+    message: MessageRead
+    title: str

@@ -5,9 +5,7 @@ from typing import Optional
 from jose import JWTError, jwt
 from fastapi import HTTPException, status, Depends
 from fastapi.security import HTTPAuthorizationCredentials, HTTPBearer
-
-from google.oauth2 import id_token as google_id_token
-from google.auth.transport import requests as google_requests
+import httpx
 
 from . import models
 
@@ -15,22 +13,44 @@ from . import models
 JWT_SECRET = os.environ.get("JWT_SECRET", "change-me-in-prod")
 JWT_ALGO = "HS256"
 JWT_EXP_MINUTES = int(os.environ.get("JWT_EXP_MINUTES", "60"))
-GOOGLE_CLIENT_ID = os.environ.get("GOOGLE_CLIENT_ID")
+DEVCLUB_CLIENT_ID = os.environ.get("CLIENT_ID")
+DEVCLUB_CLIENT_SECRET = os.environ.get("CLIENT_SECRET")
+DEVCLUB_AUTH_URL = "https://iitdoauth.vercel.app/api/auth/resource"
 
 
-def verify_id_token(id_token_str: str) -> Optional[dict]:
-    """Verify an OIDC id_token using google-auth. Returns basic user info dict on success.
+async def verify_devclub_code(auth_code: str, state: str) -> Optional[dict]:
+    """Verify an authorization code with DevClub OAuth server. Returns user info dict on success.
 
-    The function uses GOOGLE_CLIENT_ID env var as expected audience. If not set, verification will still attempt to validate but audience won't be enforced.
+    The function uses CLIENT_ID and CLIENT_SECRET env vars to authenticate with the DevClub OAuth server.
     """
+    if not DEVCLUB_CLIENT_ID or not DEVCLUB_CLIENT_SECRET:
+        return None
+    
     try:
-        request = google_requests.Request()
-        # pass audience if configured (recommended)
-        audience = GOOGLE_CLIENT_ID if GOOGLE_CLIENT_ID else None
-        id_info = google_id_token.verify_oauth2_token(id_token_str, request, audience)
-        # id_info now contains verified token claims
-        return {"email": id_info.get("email"), "name": id_info.get("name"), "picture": id_info.get("picture")}
-    except Exception:
+        async with httpx.AsyncClient() as client:
+            response = await client.post(
+                DEVCLUB_AUTH_URL,
+                json={
+                    "client_id": DEVCLUB_CLIENT_ID,
+                    "client_secret": DEVCLUB_CLIENT_SECRET,
+                    "auth_code": auth_code,
+                    "state": state,
+                    "grant_type": "authorization_code",
+                }
+            )
+            
+            if response.status_code == 200:
+                data = response.json()
+                # Extract user info from the response
+                user = data.get("user", {})
+                return {
+                    "email": user.get("email"),
+                    "name": user.get("name"),
+                    "picture": user.get("picture")
+                }
+            return None
+    except Exception as e:
+        print(f"DevClub OAuth verification failed: {e}")
         return None
 
 
