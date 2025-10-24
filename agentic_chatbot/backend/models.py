@@ -1,4 +1,4 @@
-from typing import Optional
+from typing import Optional,  List
 from datetime import datetime
 import os
 from sqlmodel import SQLModel, Field, create_engine
@@ -12,7 +12,7 @@ class User(SQLModel, table=True):
     email: str
     name: Optional[str] = None
     picture: Optional[str] = None
-
+    
 
 class Chat(SQLModel, table=True):
     id: Optional[int] = Field(default=None, primary_key=True)
@@ -20,6 +20,7 @@ class Chat(SQLModel, table=True):
     title: Optional[str] = None
     created_at: datetime = Field(default_factory=datetime.utcnow)
 
+    
 
 class Message(SQLModel, table=True):
     id: Optional[int] = Field(default=None, primary_key=True)
@@ -28,7 +29,7 @@ class Message(SQLModel, table=True):
     content: str
     created_at: datetime = Field(default_factory=datetime.utcnow)
 
-
+    
 def init_db():
     # create engine with SQLite-specific connect args when using sqlite file
     connect_args = {}
