@@ -3,11 +3,12 @@
 ## Docker setup
 - Create a `.env` file in the project root with the required keys. At minimum:
   - `GOOGLE_API_KEY` for Gemini access
-  - `QDRANT_URL` (defaults to `http://localhost:6333` and should point to your running Qdrant instance)
-- Start Qdrant separately (for example: `docker run -d -p 6333:6333 -p 6334:6334 --restart unless-stopped qdrant/qdrant`).
-- Build and start the backend with `docker compose up --build`.
+- `docker compose` now starts both the FastAPI backend and a Qdrant instance.
+- Place any Qdrant snapshot files inside the top-level `snapshots/` directory before you bring the stack up. They are mounted at `/qdrant/snapshots` in the container for restore operations.
+- Build and start the stack with `docker compose up --build`.
 - The FastAPI backend will be reachable at `http://localhost:3000`.
-- Persistent volume `backend-data` retains the SQLite data created by the service.
+- Qdrant will expose its API at `http://localhost:6333` (dashboard on `/dashboard`).
+- Persistent volumes keep the backend SQLite data (`backend-data`) and the qdrant collection storage (`qdrant-storage`).
 
 ## Manual run (without Docker)
 1) Run qdrant using docker:
