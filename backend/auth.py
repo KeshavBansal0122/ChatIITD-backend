@@ -12,7 +12,7 @@ from . import models
 # Secrets and settings
 JWT_SECRET = os.environ.get("JWT_SECRET", "change-me-in-prod")
 JWT_ALGO = "HS256"
-JWT_EXP_MINUTES = int(os.environ.get("JWT_EXP_MINUTES", "60"))
+JWT_EXP_MINUTES = int(os.environ.get("JWT_EXP_MINUTES", "1440"))
 DEVCLUB_CLIENT_ID = os.environ.get("CLIENT_ID")
 DEVCLUB_CLIENT_SECRET = os.environ.get("CLIENT_SECRET")
 DEVCLUB_AUTH_URL = "https://iitdoauth.vercel.app/api/auth/resource"
