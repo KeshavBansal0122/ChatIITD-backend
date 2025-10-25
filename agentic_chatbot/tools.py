@@ -11,9 +11,9 @@ def read_jsonl(filename):
             res.append(json.loads(line))
     return res
 
-rules_sections = read_jsonl('../sources/jsonl/all_rules.jsonl')
-courses = read_jsonl('../sources/jsonl/courses.jsonl')
-offerings = read_jsonl('../sources/jsonl/courses_offered.jsonl')
+rules_sections = read_jsonl('sources/jsonl/all_rules.jsonl')
+courses = read_jsonl('sources/jsonl/courses.jsonl')
+offerings = read_jsonl('sources/jsonl/courses_offered.jsonl')
 
 # TOOLS
 @tool
@@ -36,7 +36,7 @@ def get_course_data_tool(course_codes: list[str]) -> str:
         return "Course not found."
     
 programme_prompt = ''
-with open('../sources/programme_structures/prompt.md', 'r') as f:
+with open('sources/programme_structures/prompt.md', 'r') as f:
     programme_prompt = f.read()
 
 @tool

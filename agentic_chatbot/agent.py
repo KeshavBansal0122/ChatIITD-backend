@@ -15,7 +15,7 @@ from qdrant_client.http.models import ScoredPoint
 from langchain_core.documents import Document
 import json
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
-from tools import get_rules_section_tool, get_course_data_tool, get_programme_structure_tool, query_sqlite_db_tool
+from .tools import get_rules_section_tool, get_course_data_tool, get_programme_structure_tool, query_sqlite_db_tool
 from langchain_core.runnables import RunnableLambda
 from langchain_core.runnables.history import RunnableWithMessageHistory
 from langchain_community.chat_message_histories import SQLChatMessageHistory
@@ -143,7 +143,7 @@ tools = [rules_tool, courses_tool, get_rules_section_tool, get_course_data_tool,
 # --- 4. Create the Conversational Agent ---
 
 # We'll use a prompt that supports chat history. This is suitable for tool-calling models like Gemini.
-with open('system_prompt.txt', 'r') as file:
+with open('agentic_chatbot/system_prompt.txt', 'r') as file:
     system_prompt = file.read()
 agent_prompt = ChatPromptTemplate.from_messages(
     [
