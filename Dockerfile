@@ -15,7 +15,7 @@ RUN apt-get update \
         git \
     && rm -rf /var/lib/apt/lists/*
 
-COPY backend/requirements.txt /tmp/requirements.txt
+COPY requirements.txt /tmp/requirements.txt
 RUN pip install --upgrade pip \
     && pip install --no-cache-dir -r /tmp/requirements.txt
 
