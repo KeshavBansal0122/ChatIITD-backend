@@ -1,19 +1,19 @@
 services:
-  backend:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    env_file:
-      - .env
-    environment:
-      DATABASE_URL: sqlite:///data/messages.db
-      QDRANT_URL: http://qdrant:6333
-    ports:
-      - "3000:3000"
-    volumes:
-      - backend-data:/app/data
-    depends_on:
-      - qdrant
+  # backend:
+  #   build:
+  #     context: .
+  #     dockerfile: Dockerfile
+  #   env_file:
+  #     - .env
+  #   environment:
+  #     DATABASE_URL: sqlite:///data/messages.db
+  #     QDRANT_URL: http://qdrant:6333
+  #   ports:
+  #     - "3000:3000"
+  #   volumes:
+  #     - backend-data:/app/data
+  #   depends_on:
+  #     - qdrant
   qdrant:
     image: qdrant/qdrant:latest
     restart: unless-stopped
@@ -22,7 +22,18 @@ services:
       - "6334:6334"
     volumes:
       - qdrant-storage:/qdrant/storage
-      - ./snapshots:/qdrant/snapshots
+      # - ./snapshots:/qdrant/snapshots
+
+  qdrant-init:
+    image: python:3.11-slim
+    volumes:
+      - ./snapshots:/snapshots
+    environment:
+      - QDRANT_HOST=qdrant
+    depends_on:
+      - qdrant
+    command: >
+      sh -c "pip install requests && python /snapshots/restore.py"
 
 volumes:
   backend-data:
