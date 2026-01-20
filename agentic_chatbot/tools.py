@@ -3,10 +3,16 @@ from langchain_core.tools import tool
 import sqlite3
 
 
+import os
+
+# Helper to get absolute path relative to project root (assuming tools.py is in agentic_chatbot/)
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
 # load documents
 def read_jsonl(filename):
     res = []
-    with open(filename, 'r') as f:
+    filepath = os.path.join(BASE_DIR, filename)
+    with open(filepath, 'r') as f:
         for line in f:
             res.append(json.loads(line))
     return res
@@ -36,7 +42,9 @@ def get_course_data_tool(course_codes: list[str]) -> str:
         return "Course not found."
     
 programme_prompt = ''
-with open('sources/programme_structures/prompt.md', 'r') as f:
+programme_prompt = ''
+prompt_path = os.path.join(BASE_DIR, 'sources/programme_structures/prompt.md')
+with open(prompt_path, 'r') as f:
     programme_prompt = f.read()
 
 @tool
@@ -72,8 +80,14 @@ def query_sqlite_db_tool(query: str) -> str:
     """
     if not query.strip().lower().startswith('select'):
         return "Invalid. Only SELECT queries are allowed."
+
     try:
-        conn = sqlite3.connect('file:../courses.sqlite?mode=ro', uri=True)
+        db_path = os.path.join(BASE_DIR, 'courses.sqlite')
+        # Use simple path string for sqlite3.connect? 
+        # The uri=True mode expects a URI. 
+        # 'file:/absolute/path/courses.sqlite?mode=ro'
+        # We can just open strictly logic:
+        conn = sqlite3.connect(f'file:{db_path}?mode=ro', uri=True)
         cursor = conn.cursor()
         cursor.execute(query)
         rows = cursor.fetchall()
@@ -111,7 +125,8 @@ def get_programme_structure_tool(programme_code: str) -> str:
     """
     programme_code = programme_code.upper().strip()
     try:
-        with open(f'../sources/programme_structures/{programme_code}.json', 'r') as f:
+        file_path = os.path.join(BASE_DIR, 'sources', 'programme_structures', f'{programme_code}.json')
+        with open(file_path, 'r') as f:
             programme_data = f.read()
         return programme_prompt + "\n\n" + programme_data
     except FileNotFoundError:

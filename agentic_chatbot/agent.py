@@ -1,11 +1,9 @@
 import os
-from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
+from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_community.vectorstores import Qdrant
 import qdrant_client
 from langchain.tools.retriever import create_retriever_tool
-from langchain import hub
-from langchain.agents import create_tool_calling_agent, AgentExecutor
-from langchain_core.messages import AIMessage, HumanMessage
+from langchain_core.messages import AIMessage, HumanMessage, SystemMessage
 from langchain.retrievers import ContextualCompressionRetriever
 from langchain.retrievers.document_compressors import CrossEncoderReranker
 from langchain_community.cross_encoders import HuggingFaceCrossEncoder
@@ -16,9 +14,14 @@ from langchain_core.documents import Document
 import json
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from agentic_chatbot.tools import get_rules_section_tool, get_course_data_tool, get_programme_structure_tool, query_sqlite_db_tool
-from langchain_core.runnables import RunnableLambda
-from langchain_core.runnables.history import RunnableWithMessageHistory
-from langchain_community.chat_message_histories import SQLChatMessageHistory
+
+# LangGraph Imports
+from langgraph.graph import StateGraph, START, END
+from langgraph.graph.message import add_messages
+from langgraph.prebuilt import ToolNode, tools_condition
+from langgraph.checkpoint.memory import MemorySaver
+from typing import Annotated, TypedDict
+from typing_extensions import TypedDict
 
 
 # Load environment variables from a .env file
@@ -140,43 +143,103 @@ courses_tool = create_retriever_tool(
 tools = [rules_tool, courses_tool, get_rules_section_tool, get_course_data_tool, get_programme_structure_tool, query_sqlite_db_tool]
 
 
-# --- 4. Create the Conversational Agent ---
+# --- 4. Create the Conversational Agent (LangGraph) ---
 
-# We'll use a prompt that supports chat history. This is suitable for tool-calling models like Gemini.
+# Define the state of the graph
+class State(TypedDict):
+    messages: Annotated[list, add_messages]
+
+# Define the LLM with tools bound
+llm_with_tools = llm.bind_tools(tools)
+
+# Define the node that calls the model
+def call_model(state: State):
+    return {"messages": [llm_with_tools.invoke(state["messages"])]}
+
+# Initialize the graph
+workflow = StateGraph(State)
+
+# Add nodes
+workflow.add_node("agent", call_model)
+workflow.add_node("tools", ToolNode(tools))
+
+# Add edges
+workflow.add_edge(START, "agent")
+workflow.add_conditional_edges(
+    "agent",
+    tools_condition,
+)
+workflow.add_edge("tools", "agent")
+
+# Initialize memory for the graph
+memory = MemorySaver()
+
+# Compile the graph
+agent_executor = workflow.compile(checkpointer=memory)
+
+# Load System Prompt
 with open('agentic_chatbot/system_prompt.txt', 'r') as file:
-    system_prompt = file.read()
-agent_prompt = ChatPromptTemplate.from_messages(
-    [
-        ("system", system_prompt),
-        MessagesPlaceholder(variable_name="chat_history"),
-        ("human", "{input}"),
-        MessagesPlaceholder(variable_name="agent_scratchpad"),
-    ]
-)
-
-agent = create_tool_calling_agent(llm, tools, agent_prompt)
-agent_executor = AgentExecutor(agent=agent, tools=tools, verbose=True)
-
-def invoke_agent(input_dict):
-    return agent_executor.invoke(input_dict)
-
-runnable_agent = RunnableLambda(invoke_agent)
-runnable_agent_with_history = RunnableWithMessageHistory(
-    # runnable_agent,
-    agent_executor,
-    lambda session_id: SQLChatMessageHistory(
-        session_id=session_id, connection_string="sqlite:///messages.db"
-    ),
-    input_messages_key="input",
-    history_messages_key="chat_history"
-)
+    system_prompt_content = file.read()
+system_message = SystemMessage(content=system_prompt_content)
 
 def invoke_memory_agent(input_dict, session_id=None):
-    if not session_id:
-        return runnable_agent.invoke(input_dict)
-    session_id = str(session_id)
-    config = {"configurable": {"session_id": session_id}}
-    return runnable_agent_with_history.invoke(input_dict, config=config)
+    """
+    Invokes the LangGraph agent.
+    Adapts the input format {"input": "..."} to {"messages": [...]}.
+    """
+    user_input = input_dict.get("input")
+    config = {"configurable": {"thread_id": session_id or "default"}}
+    
+    # We need to prepend the system prompt if it's a new conversation, 
+    # but LangGraph handles history via checkpointer. 
+    # For simplicity, we pass the user message. 
+    # To ensure system prompt is always present, we can check state or just rely on the LLM 
+    # (or prepend it every time if it's a chat model, but simpler to add to graph state initialization if needed).
+    # Here we'll just prepend it to the current input messages if it's the first turn, 
+    # but since we don't easily know if it's the first turn without checking history, 
+    # we can try to optimize. 
+    # BETTER APPROACH: Just send user message. The system prompt should be part of the `messages` list
+    # or we can modify `call_model` to prepend it. 
+    # Let's modify `call_model` slightly to ensure system prompt is there? 
+    # No, let's just prepend it to the input messages list if we want to be safe, 
+    # but `add_messages` merges.
+    # We will pass the system message in the input if it's critical, 
+    # but for now let's just pass user input.
+    
+    # To properly support system prompt:
+    input_messages = [HumanMessage(content=user_input)]
+    
+    # Fetch current state to see if history exists? 
+    # We can just trust the checkpointer. 
+    # But we need the system prompt to be "active".
+    # One way: Always include SystemMessage at the start? 
+    
+    # Let's modify `call_model` to prepend system prompt if not present?
+    # Or simpler: Just define `call_model` to use a prompt template.
+    
+    # Let's stick to simple: Pass System Message + User Message.
+    # If history exists, `add_messages` will append.
+    # If we send SystemMessage every time, it might duplicate.
+    # We should only send it if it's a fresh thread.
+    
+    snapshot = agent_executor.get_state(config)
+    messages_payload = []
+    if not snapshot.values: # Empty history
+        messages_payload.append(system_message)
+    
+    messages_payload.append(HumanMessage(content=user_input))
+    
+    # Run the graph
+    # stream_mode="values" returns the full state at each step. 
+    # We want final output.
+    final_state = agent_executor.invoke(
+        {"messages": messages_payload},
+        config=config
+    )
+    
+    # Extract the last message content
+    last_message = final_state["messages"][-1]
+    return {"output": last_message.content}
 
 print("--- IIT Delhi Academic Chatbot Initialized (Model: Gemini Flash, Reranker: BAAI/bge-reranker-base) ---")
 print("Ask me about courses or institute rules.")

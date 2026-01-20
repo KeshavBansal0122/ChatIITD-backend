@@ -30,3 +30,6 @@ SQLAlchemy==2.0.29
 sqlmodel==0.0.27
 python_jose==3.5.0
 httpx==0.28.1
+langgraph
+langgraph-checkpoint
+langgraph-checkpoint-sqlite
