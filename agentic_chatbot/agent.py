@@ -15,7 +15,7 @@ from qdrant_client.http.models import ScoredPoint
 from langchain_core.documents import Document
 import json
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
-from .tools import get_rules_section_tool, get_course_data_tool, get_programme_structure_tool, query_sqlite_db_tool
+from agentic_chatbot.tools import get_rules_section_tool, get_course_data_tool, get_programme_structure_tool, query_sqlite_db_tool
 from langchain_core.runnables import RunnableLambda
 from langchain_core.runnables.history import RunnableWithMessageHistory
 from langchain_community.chat_message_histories import SQLChatMessageHistory
