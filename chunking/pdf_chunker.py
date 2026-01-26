@@ -5,6 +5,9 @@ from pydantic import BaseModel, Field
 from collections import Counter
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 import re
+import json
+import os
+from pathlib import Path
 
 class Payload(BaseModel):
     content: str
@@ -84,7 +87,7 @@ class PDFSectionChunker:
             return False
         return True
 
-    def _create_payloads_from_section(self, content: str, headers: List[str], base_metadata: Dict) -> List[Payload]:
+    def _create_payloads_from_section(self, content: str, headers: List[str], header_id: int, base_metadata: Dict) -> List[Payload]:
         if not content:
             return []
         
@@ -99,6 +102,7 @@ class PDFSectionChunker:
 
             metadata = base_metadata.copy()
             metadata["headers"] = headers # List of headers from root to leaf
+            metadata["header_id"] = header_id
             metadata["type"] = "text" 
             metadata["chunk_index"] = i
             
@@ -127,8 +131,10 @@ class PDFSectionChunker:
 
         payloads = []
         
-        # Stack of (header_title, font_size)
-        header_stack: List[Tuple[str, float]] = []
+        # Unique header counter
+        header_id_counter = 0
+        # Stack of (header_title, font_size, header_id)
+        header_stack: List[Tuple[str, float, int]] = []
         
         current_content_buffer = []
         current_page_num = 1
@@ -184,12 +190,14 @@ class PDFSectionChunker:
                     full_content = "\n".join(current_content_buffer).strip()
                     if full_content:
                         current_headers = [h[0] for h in header_stack]
+                        current_header_id = header_stack[-1][2] if header_stack else -1
                         if not current_headers:
                             current_headers = ["Introduction"]
                         payloads.extend(
                             self._create_payloads_from_section(
                                 full_content, 
                                 current_headers, 
+                                current_header_id,
                                 {"page": current_page_num, "source_file": file_path}
                             )
                         )
@@ -210,6 +218,7 @@ class PDFSectionChunker:
                         continue
 
                     current_headers = [h[0] for h in header_stack]
+                    current_header_id = header_stack[-1][2] if header_stack else -1
                     if not current_headers:
                         current_headers = ["Introduction"]
 
@@ -230,6 +239,7 @@ class PDFSectionChunker:
                                 metadata={
                                     "page": current_page_num,
                                     "headers": current_headers,
+                                    "header_id": current_header_id,
                                     "type": "table_row",
                                     "table_id": table_id,
                                     "row_index": row_idx,
@@ -293,6 +303,7 @@ class PDFSectionChunker:
                             full_content = "\n".join(current_content_buffer).strip()
                             if full_content:
                                 current_headers = [h[0] for h in header_stack]
+                                current_header_id = header_stack[-1][2] if header_stack else -1
                                 if not current_headers:
                                     current_headers = ["Introduction"]
 
@@ -300,6 +311,7 @@ class PDFSectionChunker:
                                     self._create_payloads_from_section(
                                         full_content, 
                                         current_headers, 
+                                        current_header_id,
                                         {"page": current_page_num, "source_file": file_path} 
                                     )
                                 )
@@ -309,7 +321,11 @@ class PDFSectionChunker:
                                 while header_stack and header_stack[-1][1] <= rounded_size:
                                     header_stack.pop()
                             
-                            header_stack.append((group_text, rounded_size))
+                            # Assign new ID
+                            new_hid = header_id_counter
+                            header_id_counter += 1
+                            
+                            header_stack.append((group_text, rounded_size, new_hid))
                             current_content_buffer = []
 
                         else:
@@ -319,6 +335,7 @@ class PDFSectionChunker:
         if current_content_buffer:
             full_content = "\n".join(current_content_buffer).strip()
             current_headers = [h[0] for h in header_stack]
+            current_header_id = header_stack[-1][2] if header_stack else -1
             if not current_headers:
                 current_headers = ["Introduction"]
 
@@ -326,6 +343,7 @@ class PDFSectionChunker:
                 self._create_payloads_from_section(
                     full_content, 
                     current_headers, 
+                    current_header_id,
                     {"page": current_page_num, "source_file": file_path}
                 )
             )
@@ -343,7 +361,36 @@ if __name__ == "__main__":
     try:
         payloads = chunker.process_pdf(args.pdf_path)
         print(f"Successfully processed {len(payloads)} chunks.")
-        for i, p in enumerate(payloads):
+        
+        # Determine output path
+        pdf_path = Path(args.pdf_path)
+        # Ensure output dir is inside the chunking folder (where this script is)
+        script_dir = Path(__file__).parent
+        output_dir = script_dir / "chunksJsonl"
+        output_dir.mkdir(exist_ok=True)
+        
+        # Calculate document_id
+        # Note: This simply counts existing files. Re-running on existing files may shift IDs if other files were added/removed.
+        existing_files = list(output_dir.glob("*.jsonl"))
+        document_id = len(existing_files)
+        
+        output_filename = f"{pdf_path.stem}.jsonl"
+        output_path = output_dir / output_filename
+        
+        print(f"Saving to {output_path} with document_id={document_id}...")
+        
+        with open(output_path, 'w', encoding='utf-8') as f:
+            for p in payloads:
+                # Add document_id to metadata
+                p.metadata["document_id"] = document_id
+                
+                # Convert pydantic model to dict and then to json string
+                f.write(json.dumps(p.dict()) + "\n")
+                
+        print("Done.")
+        
+        # Preview first few
+        for i, p in enumerate(payloads[:3]):
                  print(f"--- Chunk {i+1} ---")
                  print(f"Metadata: {p.metadata}")
                  content_preview = p.content.encode('ascii', 'replace').decode('ascii')
