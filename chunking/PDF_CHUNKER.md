@@ -22,5 +22,9 @@ Wud print down all the chunks, each having metdata and content
 
 - overlap debug
 - hindi chunking
-- header footer chunking remova
+- header footer chunking removal
 - add headers to chunks
+- embed these chunks using apporporatie models and vector size
+- create function for deleting all the embeddings of a given document
+- create a function to list down all documents used in the database
+- create api for all the three functions 
