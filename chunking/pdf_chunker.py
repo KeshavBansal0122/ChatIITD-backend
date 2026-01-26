@@ -11,7 +11,7 @@ class Payload(BaseModel):
     metadata: Dict[str, Any] = Field(default_factory=dict)
 
 class PDFSectionChunker:
-    def __init__(self, chunk_size: int = 300, chunk_overlap: int = 30):
+    def __init__(self, chunk_size: int = 300, chunk_overlap: int = 50):
         self.text_splitter = RecursiveCharacterTextSplitter(
             chunk_size=chunk_size,
             chunk_overlap=chunk_overlap,
@@ -30,9 +30,32 @@ class PDFSectionChunker:
             for b in blocks:
                 if b['type'] == 0:  # text block
                     for l in b["lines"]:
+                        max_s = 0
                         for s in l["spans"]:
-                            font_sizes.append(s["size"])
+                            if s["size"] > max_s:
+                                max_s = s["size"]
+                        if max_s > 0:
+                            font_sizes.append(max_s)
         
+        if not font_sizes:
+            # Try OCR on the first page to get some stats
+            try:
+                if len(doc) > 0:
+                    page = doc[0]
+                    tp = page.get_textpage_ocr(flags=3, language='eng', dpi=300)
+                    blocks = tp.extractDICT()["blocks"]
+                    for b in blocks:
+                        if b['type'] == 0:
+                            for l in b["lines"]:
+                                max_s = 0
+                                for s in l["spans"]:
+                                    if s["size"] > max_s:
+                                        max_s = s["size"]
+                                if max_s > 0:
+                                    font_sizes.append(max_s)
+            except Exception:
+                pass # OCR might fail or not be available
+
         if not font_sizes:
             return {"body_size": 11.0} # Default fallback
 
@@ -45,51 +68,44 @@ class PDFSectionChunker:
         
         return {"body_size": body_size}
 
+    def _is_valid_chunk(self, content: str) -> bool:
+        if not content:
+            return False
+        total_chars = len(content)
+        if total_chars == 0:
+            return False
+        # The user sees '?' in the output because of .encode('ascii', 'replace')
+        # So we should count how many characters turn into '?' (or are '?')
+        ascii_content = content.encode('ascii', 'replace').decode('ascii')
+        question_marks = ascii_content.count('?')
+        ratio = question_marks / total_chars
+        
+        if ratio > 0.2:
+            return False
+        return True
+
     def _create_payloads_from_section(self, content: str, headers: List[str], base_metadata: Dict) -> List[Payload]:
         if not content:
             return []
         
-        # 1. Pre-process to identify list items (numbered or bulleted)
-        SPLIT_MARKER = "<<<SPLIT_HERE>>>"
-        
-        # Regex for supported list items:
-        # - Numbered: 1., 1), 1?, 1.1, etc.
-        # - Alpha: a), b), a., b.
-        # - Bullets: -, *, ?, etc. (PyMuPDF sometimes outputs unusual chars for bullets)
-        pattern = r'(?:\n|^)\s*(?:(?:(?:\d+|[a-zA-Z])[\.\)\?]+)|[\u2022\u2023\u25E6\u2043\u2212\-\*])\s+'
-        
-        # Substitution to inject split marker
-        content = re.sub(f'({pattern})', f'{SPLIT_MARKER}\\1', content)
-
-        # Split by marker
-        raw_chunks = content.split(SPLIT_MARKER)
+        # Use RecursiveCharacterTextSplitter directly to allow overlap
+        chunks = self.text_splitter.split_text(content)
         
         payloads = []
         
-        # Track overall index if needed, or just per-section index
-        global_chunk_index = 0
-        
-        for raw_chunk in raw_chunks:
-            if not raw_chunk.strip():
+        for i, chunk in enumerate(chunks):
+            if not self._is_valid_chunk(chunk):
                 continue
-                
-            # Now apply size-based splitting to this logical chunk (in case it's huge)
-            sub_chunks = self.text_splitter.split_text(raw_chunk)
+
+            metadata = base_metadata.copy()
+            metadata["headers"] = headers # List of headers from root to leaf
+            metadata["type"] = "text" 
+            metadata["chunk_index"] = i
             
-            for chunk in sub_chunks:
-                metadata = base_metadata.copy()
-                metadata["headers"] = headers # List of headers from root to leaf
-                metadata["type"] = "text" 
-                if len(sub_chunks) > 1:
-                    metadata["chunk_index"] = global_chunk_index
-                else: 
-                     metadata["chunk_index"] = global_chunk_index
-                
-                payloads.append(Payload(
-                    content=chunk,
-                    metadata=metadata
-                ))
-                global_chunk_index += 1
+            payloads.append(Payload(
+                content=chunk,
+                metadata=metadata
+            ))
                 
         return payloads
 
@@ -125,7 +141,15 @@ class PDFSectionChunker:
             tables = tabs.tables
             
             # 2. Get Text Blocks
-            text_blocks = page.get_text("dict")["blocks"]
+            # Check if page has sufficient text, otherwise run OCR
+            text = page.get_text()
+            if len(text.strip()) < 50: # Heuristic for scanned/empty page
+                 # Use OCR
+                 # flags=3 (full OCR), language='eng', dpi=300
+                 tp = page.get_textpage_ocr(flags=3, language='eng', dpi=300)
+                 text_blocks = tp.extractDICT()["blocks"]
+            else:
+                 text_blocks = page.get_text("dict")["blocks"]
 
             # 3. Merge and Sort
             elements = []
@@ -200,17 +224,18 @@ class PDFSectionChunker:
                          # Format: "Val1 | Val2 | Val3"
                          row_content = " | ".join(clean_cells)
                          
-                         payloads.append(Payload(
-                            content=row_content,
-                            metadata={
-                                "page": current_page_num,
-                                "headers": current_headers,
-                                "type": "table_row",
-                                "table_id": table_id,
-                                "row_index": row_idx,
-                                "source_file": file_path
-                            }
-                        ))
+                         if self._is_valid_chunk(row_content):
+                             payloads.append(Payload(
+                                content=row_content,
+                                metadata={
+                                    "page": current_page_num,
+                                    "headers": current_headers,
+                                    "type": "table_row",
+                                    "table_id": table_id,
+                                    "row_index": row_idx,
+                                    "source_file": file_path
+                                }
+                            ))
                     
                 elif el_type == "text":
                     b = el
