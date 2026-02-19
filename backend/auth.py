@@ -88,3 +88,13 @@ def get_current_user(credentials: HTTPAuthorizationCredentials = Depends(HTTPBea
         if not usr:
             raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="User not found")
         return usr
+
+
+def get_current_admin(current_user: models.User = Depends(get_current_user)) -> models.User:
+    """Dependency that ensures the current user has the 'admin' role."""
+    if current_user.role != "admin":
+        raise HTTPException(
+            status_code=status.HTTP_403_FORBIDDEN,
+            detail="Admin access required"
+        )
+    return current_user

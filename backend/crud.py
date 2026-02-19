@@ -71,3 +71,47 @@ def delete_chat(chat_id: int) -> None:
             sess.delete(chat)
 
         sess.commit()
+
+
+# ---------- Document CRUD ----------
+
+def create_document(
+    filename: str,
+    original_name: str,
+    description: str,
+    file_size: int,
+    chunk_count: int,
+    uploaded_by: int,
+) -> models.Document:
+    with Session(ENGINE) as sess:
+        doc = models.Document(
+            filename=filename,
+            original_name=original_name,
+            description=description,
+            file_size=file_size,
+            chunk_count=chunk_count,
+            uploaded_by=uploaded_by,
+        )
+        sess.add(doc)
+        sess.commit()
+        sess.refresh(doc)
+        return doc
+
+
+def list_documents() -> List[models.Document]:
+    with Session(ENGINE) as sess:
+        stmt = select(models.Document).order_by(desc(models.Document.created_at))  # type: ignore
+        return list(sess.exec(stmt).all())
+
+
+def get_document(doc_id: int) -> Optional[models.Document]:
+    with Session(ENGINE) as sess:
+        return sess.get(models.Document, doc_id)
+
+
+def delete_document(doc_id: int) -> None:
+    with Session(ENGINE) as sess:
+        doc = sess.get(models.Document, doc_id)
+        if doc:
+            sess.delete(doc)
+            sess.commit()

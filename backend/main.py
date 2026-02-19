@@ -1,8 +1,19 @@
-from fastapi import FastAPI, Depends, HTTPException, status
+from fastapi import FastAPI, Depends, HTTPException, status, UploadFile, File, Form
 from fastapi.middleware.cors import CORSMiddleware
 from agentic_chatbot.agent import invoke_memory_agent
 
-from . import models, crud, schemas, auth
+from . import models, crud, schemas, auth, qdrant_service
+
+import os
+import uuid
+import logging
+from pathlib import Path
+
+logger = logging.getLogger(__name__)
+
+# Uploads directory for admin-uploaded PDFs
+UPLOADS_DIR = Path(__file__).resolve().parent.parent / "uploads"
+UPLOADS_DIR.mkdir(exist_ok=True)
 
 app = FastAPI(title="IITD Agent Backend")
 
@@ -171,3 +182,143 @@ def delete_chat_endpoint(chat_id: int, current_user: models.User = Depends(auth.
     
     crud.delete_chat(chat_id)
     return {"detail": "Chat deleted"}
+
+
+# ============================================================
+# Admin – Document Management Routes
+# ============================================================
+
+
+@app.post("/admin/documents", response_model=schemas.DocumentUploadResponse)
+async def upload_document(
+    file: UploadFile = File(...),
+    description: str = Form(""),
+    current_user: models.User = Depends(auth.get_current_admin),
+):
+    """Upload a PDF, chunk it, embed chunks and store in Qdrant.
+
+    - **file**: PDF file (application/pdf)
+    - **description**: Admin-supplied description for this document
+    """
+    # Validate file type
+    if file.content_type not in ("application/pdf",):
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail="Only PDF files are accepted",
+        )
+
+    # Save PDF to disk
+    original_name = file.filename or "untitled.pdf"
+    stored_name = f"{uuid.uuid4().hex}_{original_name}"
+    dest_path = UPLOADS_DIR / stored_name
+
+    contents = await file.read()
+    file_size = len(contents)
+    dest_path.write_bytes(contents)
+
+    # Chunk the PDF
+    try:
+        # Import the chunker from the chunking package
+        import sys
+        chunking_dir = str(Path(__file__).resolve().parent.parent / "chunking")
+        if chunking_dir not in sys.path:
+            sys.path.insert(0, chunking_dir)
+        from pdf_chunker import PDFSectionChunker
+
+        chunker = PDFSectionChunker()
+        payloads = chunker.process_pdf(str(dest_path))
+    except Exception as e:
+        # Clean up the saved file on failure
+        dest_path.unlink(missing_ok=True)
+        logger.error("PDF chunking failed: %s", e)
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Failed to chunk PDF: {e}",
+        )
+
+    # Create the Document row first so we get an id
+    if current_user.id is None:
+        raise HTTPException(status_code=500, detail="Invalid user id")
+
+    doc = crud.create_document(
+        filename=stored_name,
+        original_name=original_name,
+        description=description,
+        file_size=file_size,
+        chunk_count=len(payloads),
+        uploaded_by=int(current_user.id),
+    )
+
+    # Embed and upsert to Qdrant
+    try:
+        from datetime import datetime
+
+        qdrant_service.upsert_chunks(
+            file_id=int(doc.id),  # type: ignore[arg-type]
+            file_name=original_name,
+            description=description,
+            upload_date=datetime.utcnow().isoformat(),
+            payloads=payloads,
+        )
+    except Exception as e:
+        # Rollback: remove document row and file
+        crud.delete_document(int(doc.id))  # type: ignore[arg-type]
+        dest_path.unlink(missing_ok=True)
+        logger.error("Qdrant upsert failed: %s", e)
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Failed to store embeddings: {e}",
+        )
+
+    return schemas.DocumentUploadResponse(
+        document=schemas.DocumentRead.model_validate(doc),
+        message=f"Successfully uploaded and indexed {len(payloads)} chunks",
+    )
+
+
+@app.get("/admin/documents", response_model=list[schemas.DocumentRead])
+def list_documents(
+    current_user: models.User = Depends(auth.get_current_admin),
+):
+    """List all uploaded documents (admin only)."""
+    return crud.list_documents()
+
+
+@app.get("/admin/documents/{doc_id}", response_model=schemas.DocumentRead)
+def get_document(
+    doc_id: int,
+    current_user: models.User = Depends(auth.get_current_admin),
+):
+    """Get a single document by ID (admin only)."""
+    doc = crud.get_document(doc_id)
+    if not doc:
+        raise HTTPException(status_code=404, detail="Document not found")
+    return doc
+
+
+@app.delete("/admin/documents/{doc_id}", status_code=204)
+def delete_document(
+    doc_id: int,
+    current_user: models.User = Depends(auth.get_current_admin),
+):
+    """Delete a document, its Qdrant vectors, and the PDF file from disk."""
+    doc = crud.get_document(doc_id)
+    if not doc:
+        raise HTTPException(status_code=404, detail="Document not found")
+
+    # 1. Delete vectors from Qdrant
+    try:
+        qdrant_service.delete_by_file_id(int(doc.id))  # type: ignore[arg-type]
+    except Exception as e:
+        logger.error("Qdrant deletion failed for doc %d: %s", doc_id, e)
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Failed to remove vectors: {e}",
+        )
+
+    # 2. Delete file from disk
+    file_path = UPLOADS_DIR / doc.filename
+    file_path.unlink(missing_ok=True)
+
+    # 3. Delete DB record
+    crud.delete_document(doc_id)

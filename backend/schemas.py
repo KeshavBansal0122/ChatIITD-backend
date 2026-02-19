@@ -1,4 +1,5 @@
 from datetime import datetime
+from typing import List
 from pydantic import BaseModel
 
 
@@ -27,7 +28,7 @@ class ChatRead(BaseModel):
     created_at: datetime
 
     class Config:
-        orm_mode = True
+        from_attributes = True
 
 
 class MessageCreate(BaseModel):
@@ -42,7 +43,7 @@ class MessageRead(BaseModel):
     created_at: datetime
 
     class Config:
-        orm_mode = True
+        from_attributes = True
 
 
 class NewChatResponse(BaseModel):
@@ -50,3 +51,21 @@ class NewChatResponse(BaseModel):
     chat: ChatRead
     message: MessageRead
     title: str
+
+
+class DocumentRead(BaseModel):
+    id: int
+    original_name: str
+    description: str
+    file_size: int
+    chunk_count: int
+    uploaded_by: int
+    created_at: datetime
+
+    class Config:
+        from_attributes = True
+
+
+class DocumentUploadResponse(BaseModel):
+    document: DocumentRead
+    message: str

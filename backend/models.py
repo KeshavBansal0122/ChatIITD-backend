@@ -12,7 +12,19 @@ class User(SQLModel, table=True):
     email: str
     name: Optional[str] = None
     picture: Optional[str] = None
-    
+    role: str = Field(default="user")  # "user" or "admin"
+
+
+class Document(SQLModel, table=True):
+    id: Optional[int] = Field(default=None, primary_key=True)
+    filename: str  # stored filename on disk
+    original_name: str  # user-visible name
+    description: str = Field(default="")
+    file_size: int = 0  # bytes
+    chunk_count: int = 0
+    uploaded_by: int  # user id of the admin who uploaded
+    created_at: datetime = Field(default_factory=datetime.utcnow)
+
 
 class Chat(SQLModel, table=True):
     id: Optional[int] = Field(default=None, primary_key=True)
