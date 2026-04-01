@@ -9,14 +9,41 @@ ENGINE = models.ENGINE
 
 def get_or_create_user(user_info: dict) -> models.User:
     with Session(ENGINE) as sess:
+        # First try to find by email
         stmt = select(models.User).where(models.User.email == user_info.get("email"))
         res = sess.exec(stmt).first()
+        
         if res:
+            # Update existing user with new information from OAuth
+            res.oauth_id = user_info.get("oauth_id")
+            res.name = user_info.get("name") or res.name
+            res.picture = user_info.get("picture") or res.picture
+            res.hostel = user_info.get("hostel") or res.hostel
+            res.kerberos = user_info.get("kerberos") or res.kerberos
+            res.date_of_birth = user_info.get("date_of_birth") or res.date_of_birth
+            res.instagram_id = user_info.get("instagram_id") or res.instagram_id
+            res.mobile_no = user_info.get("mobile_no") or res.mobile_no
+            sess.add(res)
+            sess.commit()
+            sess.refresh(res)
             return res
+            
+        # Create new user
         email = user_info.get("email")
         if not email:
             raise ValueError("user_info must contain an email")
-        user = models.User(email=email, name=user_info.get("name"), picture=user_info.get("picture"))
+            
+        user = models.User(
+            oauth_id=user_info.get("oauth_id"),
+            email=email,
+            name=user_info.get("name"),
+            picture=user_info.get("picture"),
+            hostel=user_info.get("hostel"),
+            kerberos=user_info.get("kerberos"),
+            date_of_birth=user_info.get("date_of_birth"),
+            instagram_id=user_info.get("instagram_id"),
+            mobile_no=user_info.get("mobile_no")
+        )
         sess.add(user)
         sess.commit()
         sess.refresh(user)

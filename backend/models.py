@@ -9,10 +9,17 @@ DATABASE_URL = os.environ.get("DATABASE_URL", "sqlite:///messages.db")
 
 class User(SQLModel, table=True):
     id: Optional[int] = Field(default=None, primary_key=True)
+    oauth_id: Optional[str] = None  # DevClub OAuth ID
     email: str
     name: Optional[str] = None
     picture: Optional[str] = None
     role: str = Field(default="user")  # "user" or "admin"
+    # Additional DevClub OAuth fields
+    hostel: Optional[str] = None
+    kerberos: Optional[str] = None
+    date_of_birth: Optional[str] = None
+    instagram_id: Optional[str] = None
+    mobile_no: Optional[str] = None
 
 
 class Document(SQLModel, table=True):
