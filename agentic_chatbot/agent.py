@@ -144,10 +144,52 @@ tools = [rules_tool, courses_tool, get_rules_section_tool, get_course_data_tool,
 
 # We'll use a prompt that supports chat history. This is suitable for tool-calling models like Gemini.
 with open('agentic_chatbot/system_prompt.txt', 'r') as file:
-    system_prompt = file.read()
+    base_system_prompt = file.read()
+
+
+def build_system_prompt(user_context: dict | None = None) -> str:
+    """Build the system prompt with optional user context."""
+    prompt = base_system_prompt
+    
+    if user_context:
+        user_info_parts = []
+        if user_context.get("name"):
+            user_info_parts.append(f"Name: {user_context['name']}")
+        if user_context.get("email"):
+            user_info_parts.append(f"Email: {user_context['email']}")
+        if user_context.get("kerberos"):
+            user_info_parts.append(f"Kerberos ID: {user_context['kerberos']}")
+        if user_context.get("hostel"):
+            user_info_parts.append(f"Hostel: {user_context['hostel']}")
+        
+        if user_info_parts:
+            user_context_section = "\n\n---\n\n## **User Context**\n\nYou are currently assisting the following user:\n" + "\n".join(f"- {part}" for part in user_info_parts)
+            prompt += user_context_section
+    
+    return prompt
+
+
+def create_agent_with_context(user_context: dict | None = None):
+    """Create an agent executor with optional user context in the system prompt."""
+    system_prompt = build_system_prompt(user_context)
+    
+    agent_prompt = ChatPromptTemplate.from_messages(
+        [
+            ("system", system_prompt),
+            MessagesPlaceholder(variable_name="chat_history"),
+            ("human", "{input}"),
+            MessagesPlaceholder(variable_name="agent_scratchpad"),
+        ]
+    )
+    
+    agent = create_tool_calling_agent(llm, tools, agent_prompt)
+    return AgentExecutor(agent=agent, tools=tools, verbose=True)
+
+
+# Default agent executor (without user context) for backward compatibility
 agent_prompt = ChatPromptTemplate.from_messages(
     [
-        ("system", system_prompt),
+        ("system", base_system_prompt),
         MessagesPlaceholder(variable_name="chat_history"),
         ("human", "{input}"),
         MessagesPlaceholder(variable_name="agent_scratchpad"),
@@ -171,12 +213,71 @@ runnable_agent_with_history = RunnableWithMessageHistory(
     history_messages_key="chat_history"
 )
 
-def invoke_memory_agent(input_dict, session_id=None):
+def invoke_memory_agent(input_dict, session_id=None, user_context: dict | None = None):
+    """
+    Invoke the agent with optional session history and user context.
+    
+    Args:
+        input_dict: The input dictionary containing the user query
+        session_id: Optional session ID for conversation history
+        user_context: Optional user context dict with keys like 'name', 'email', 'kerberos', 'hostel'
+    """
+    if user_context:
+        # Create a new agent executor with user context
+        contextual_agent_executor = create_agent_with_context(user_context)
+        
+        if not session_id:
+            return contextual_agent_executor.invoke(input_dict)
+        
+        session_id = str(session_id)
+        contextual_runnable_with_history = RunnableWithMessageHistory(
+            contextual_agent_executor,
+            lambda sid: SQLChatMessageHistory(
+                session_id=sid, connection_string="sqlite:///messages.db"
+            ),
+            input_messages_key="input",
+            history_messages_key="chat_history"
+        )
+        config = {"configurable": {"session_id": session_id}}
+        return contextual_runnable_with_history.invoke(input_dict, config=config)
+    
+    # Fallback to default agent without user context
     if not session_id:
         return runnable_agent.invoke(input_dict)
     session_id = str(session_id)
     config = {"configurable": {"session_id": session_id}}
     return runnable_agent_with_history.invoke(input_dict, config=config)
+
+
+def generate_chat_title(user_message: str) -> str:
+    """
+    Generate a short chat title from the user's first message using the LLM.
+    
+    Args:
+        user_message: The first message from the user
+        
+    Returns:
+        A short title (3-6 words) for the chat, or 'New Chat' on error
+    """
+    try:
+        prompt = f"""Generate a very short title (3-6 words max) for a chat that starts with this message. 
+The title should summarize the main topic. Do not use quotes or special characters.
+Only respond with the title, nothing else.
+
+User message: {user_message}
+
+Title:"""
+        
+        response = llm.invoke(prompt)
+        title = response.content.strip()
+        
+        # Ensure the title is reasonable
+        if title and len(title) <= 100:
+            return title
+        return "New Chat"
+    except Exception as e:
+        print(f"Failed to generate chat title: {e}")
+        return "New Chat"
 
 print("--- IIT Delhi Academic Chatbot Initialized (Model: Gemini Flash, Reranker: BAAI/bge-reranker-base) ---")
 print("Ask me about courses or institute rules.")

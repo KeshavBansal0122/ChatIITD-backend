@@ -3,7 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.openapi.docs import get_swagger_ui_html
 from fastapi.openapi.utils import get_openapi
 from fastapi.responses import JSONResponse
-from agentic_chatbot.agent import invoke_memory_agent
+from agentic_chatbot.agent import invoke_memory_agent, generate_chat_title
 
 from . import models, crud, schemas, auth, qdrant_service
 
@@ -400,8 +400,8 @@ def create_new_chat_with_message(
         raise HTTPException(status_code=500, detail="Invalid user id")
     user_id = int(current_user.id)
     
-    # Hardcoded title for now - do a call to return one later
-    title_text = "Chat Title"
+    # Generate chat title from the first message using LLM
+    title_text = generate_chat_title(message.content)
     
     # Create the chat with the title
     chat = crud.create_chat(user_id, title_text)
@@ -412,11 +412,19 @@ def create_new_chat_with_message(
     # Store user message
     crud.create_message(chat_id=chat.id, sender="user", content=message.content)
     
+    # Build user context from current user for system prompt
+    user_context = {
+        "name": current_user.name,
+        "email": current_user.email,
+        "kerberos": current_user.kerberos,
+        "hostel": current_user.hostel,
+    }
+    
     # Build input dict as expected by agent
     agent_input = {"input": message.content}
     # pass session id as chat id to persist history
     try:
-        response = invoke_memory_agent(agent_input, session_id=str(chat.id))
+        response = invoke_memory_agent(agent_input, session_id=str(chat.id), user_context=user_context)
         assistant_text = response.get('output') if isinstance(response, dict) else str(response)
         if assistant_text is None:
             assistant_text = ""
@@ -460,12 +468,19 @@ def send_message(
     # store user message
     crud.create_message(chat_id=chat_id, sender="user", content=message.content)
 
+    # Build user context from current user for system prompt
+    user_context = {
+        "name": current_user.name,
+        "email": current_user.email,
+        "kerberos": current_user.kerberos,
+        "hostel": current_user.hostel,
+    }
 
     # Build input dict as expected by agent
     agent_input = {"input": message.content}
     # pass session id as chat id to persist history
     try:
-        response = invoke_memory_agent(agent_input, session_id=str(chat_id))
+        response = invoke_memory_agent(agent_input, session_id=str(chat_id), user_context=user_context)
         assistant_text = response.get('output') if isinstance(response, dict) else str(response)
         if assistant_text is None:
             assistant_text = ""
