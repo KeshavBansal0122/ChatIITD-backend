@@ -38,14 +38,16 @@ class OAuthCallbackRequest(BaseModel):
 
 class OAuthSigninUrlResponse(BaseModel):
     """Response containing OAuth signin URL"""
-    signin_url: str = Field(..., description="Complete DevClub OAuth signin URL")
+    signin_url: str = Field(..., description="Complete IITD OAuth authorization URL with PKCE")
+    state: str = Field(..., description="State parameter stored server-side with PKCE code_verifier")
     instructions: str = Field(..., description="Instructions for using the signin URL")
     
     class Config:
         json_schema_extra = {
             "example": {
-                "signin_url": "https://oauth.devclub.in/signin?client_id=your_client_id&redirect_uri=http://localhost:3000/callback",
-                "instructions": "Redirect user to this URL to initiate OAuth flow"
+                "signin_url": "https://auth.devclub.in/api/oauth/authorize?response_type=code&client_id=your_client_id&redirect_uri=http://localhost:3000/callback&scope=openid%20profile%20email&state=abc123&code_challenge=xyz789&code_challenge_method=S256",
+                "state": "abc123",
+                "instructions": "Redirect user to this URL to initiate OAuth flow. The state is stored server-side with PKCE parameters."
             }
         }
 

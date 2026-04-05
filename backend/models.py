@@ -9,17 +9,25 @@ DATABASE_URL = os.environ.get("DATABASE_URL", "sqlite:///messages.db")
 
 class User(SQLModel, table=True):
     id: Optional[int] = Field(default=None, primary_key=True)
-    oauth_id: Optional[str] = None  # DevClub OAuth ID
+    oauth_id: Optional[str] = None  # IITD OAuth subject ID (sub claim)
     email: str
     name: Optional[str] = None
     picture: Optional[str] = None
     role: str = Field(default="user")  # "user" or "admin"
-    # Additional DevClub OAuth fields
+    # IITD OAuth fields
     hostel: Optional[str] = None
-    kerberos: Optional[str] = None
-    date_of_birth: Optional[str] = None
-    instagram_id: Optional[str] = None
-    mobile_no: Optional[str] = None
+    kerberos: Optional[str] = None  # Derived from entry_number
+    entry_number: Optional[str] = None  # e.g., "2024ME21111"
+    department: Optional[str] = None  # e.g., "Mechanical Engineering"
+    category: Optional[str] = None  # e.g., "student", "faculty"
+
+
+class OAuthState(SQLModel, table=True):
+    """Temporary storage for PKCE code_verifier during OAuth flow"""
+    state: str = Field(primary_key=True)  # Random state string
+    code_verifier: str  # PKCE verifier (43-128 chars)
+    redirect_uri: str  # Original redirect URI from client
+    created_at: datetime = Field(default_factory=datetime.utcnow)
 
 
 class Document(SQLModel, table=True):

@@ -12,3 +12,4 @@ wheels/
 
 qdrant_storage/
 uploads/
+messages.db

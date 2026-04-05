@@ -2,8 +2,8 @@ from fastapi import FastAPI, Depends, HTTPException, status, UploadFile, File, F
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.openapi.docs import get_swagger_ui_html
 from fastapi.openapi.utils import get_openapi
-from fastapi.responses import JSONResponse
-from agentic_chatbot.agent import invoke_memory_agent, generate_chat_title
+from fastapi.responses import JSONResponse, StreamingResponse
+from agentic_chatbot.agent import invoke_memory_agent, generate_chat_title, stream_memory_agent
 
 from . import models, crud, schemas, auth, qdrant_service
 
@@ -11,9 +11,165 @@ import os
 import uuid
 import logging
 import traceback
+import json
 from pathlib import Path
 
 logger = logging.getLogger(__name__)
+
+# Programme code mapping from kerberos prefix to programme name
+PROGRAMME_CODES = {
+    # B.Tech.
+    "am1": "B.Tech. in Engineering and Computational Mechanics",
+    "bb1": "B.Tech. in Biochemical Engineering and Biotechnology",
+    "ch1": "B.Tech. in Chemical Engineering",
+    "cs1": "B.Tech. in Computer Science and Engineering",
+    "ce1": "B.Tech. in Civil Engineering",
+    "ee1": "B.Tech. in Electrical Engineering",
+    "ee3": "B.Tech. in Electrical Engineering (Power and Automation)",
+    "es1": "B.Tech. in Energy Engineering",
+    "ms1": "B.Tech. in Materials Engineering",
+    "mt1": "B.Tech. in Mathematics & Computing",
+    "me1": "B.Tech. in Mechanical Engineering",
+    "me2": "B.Tech. in Production and Industrial Engineering",
+    "ph1": "B.Tech. in Engineering Physics",
+    "tt1": "B.Tech. in Textile Technology",
+    # Dual Degree
+    "ch7": "B.Tech. and M.Tech. in Chemical Engineering",
+    "cs5": "B.Tech. and M.Tech. in Computer Science and Engineering",
+    "mt6": "B.Tech. and M.Tech. in Mathematics & Computing",
+    # M.Tech.
+    "ama": "M.Tech. in Engineering Analysis and Design",
+    "bem": "M.Tech. in Biomolecular and Bioprocess Engineering",
+    "che": "M.Tech. in Chemical Engineering",
+    "cym": "M.Tech. in Molecular Engg.: Chemical Synthesis & Analysis",
+    "ceg": "M.Tech. in Geotechnical and Geoenvironmental Engineering",
+    "ceu": "M.Tech. in Rock Engineering and Underground Structures",
+    "ces": "M.Tech. in Structural Engineering",
+    "cew": "M.Tech. in Water Resources Engineering",
+    "cet": "M.Tech. in Construction Engineering and Management",
+    "cec": "M.Tech. in Construction Technology and Management",
+    "cev": "M.Tech. in Environmental Engineering and Management",
+    "cep": "M.Tech. in Transportation Engineering",
+    "mcs": "M.Tech. in Computer Science and Engineering",
+    "eee": "M.Tech. in Communications Engineering",
+    "eet": "M.Tech. in Computer Technology",
+    "eea": "M.Tech. in Control and Automation",
+    "een": "M.Tech. in Integrated Electronics and Circuits",
+    "eep": "M.Tech. in Power Electronics, Electrical Machines and Drives",
+    "ees": "M.Tech. in Power Systems",
+    "esn": "M.Tech. in Energy & Environment Technologies and Management",
+    "esr": "M.Tech. in Renewable Energy Technologies and Management",
+    "msm": "M.Tech. in Materials Engineering",
+    "msp": "M.Tech. in Polymer Science and Technology",
+    "mem": "M.Tech. in Mechanical Design",
+    "mee": "M.Tech. in Industrial Engineering",
+    "mep": "M.Tech. in Production Engineering",
+    "met": "M.Tech. in Thermal Engineering",
+    "pha": "M.Tech. in Applied Optics",
+    "phm": "M.Tech. in Solid State Materials",
+    "ttf": "M.Tech. in Fibre Science & Technology",
+    "tte": "M.Tech. in Textile Engineering",
+    "ttc": "M.Tech. in Textile Chemical Processing",
+    "crf": "M.Tech. in Radio Frequency Design and Technology",
+    "ast": "M.Tech. in Atmospheric-Oceanic Science and Technology",
+    "cte": "M.Tech. in Electric Mobility",
+    "bmt": "M.Tech. in Biomedical Engineering",
+    "aib": "M.Tech. in Machine Intelligence and Data Science",
+    "jcs": "M.Tech. in Cyber Security",
+    "jes": "M.Tech. in Energy Studies",
+    "jit": "M.Tech. in Industrial Tribology and Maintenance Engineering",
+    "jid": "M.Tech. in Instrument Technology",
+    "jop": "M.Tech. in Optoelectronics and Optical Communication",
+    "jtm": "M.Tech. in Telecommunication Technology Management",
+    "jrb": "M.Tech. in Robotics",
+    "jvl": "M.Tech. in VLSI Design Tools and Technology",
+    # M.S.(R)
+    "siy": "M.S.(R) in Information Technology",
+    "amy": "M.S.(R) in Applied Mechanics",
+    "asy": "M.S.(R) in Atmospheric and Oceanic Sciences",
+    "cty": "M.S.(R) in Automotive Research and Tribology",
+    "bsy": "M.S.(R) in Telecommunication Technology and Management",
+    "bey": "M.S.(R) in Biochemical Engg. and Biotechnology",
+    "chy": "M.S.(R) in Chemical Engineering",
+    "cey": "M.S.(R) in Civil Engineering",
+    "csy": "M.S.(R) in Computer Science and Engineering",
+    "eey": "M.S.(R) in Electrical Engineering",
+    "esy": "M.S.(R) in Energy Science and Engineering",
+    "msy": "M.S.(R) in Materials Science and Engineering",
+    "mey": "M.S.(R) in Mechanical Engineering",
+    "bly": "M.S.(R) in Biological Sciences",
+    "jvy": "M.S.(R) in VLSI Design Tools and Technology",
+    "idy": "M.S.(R) in Sensors, Instrumentation and Cyber-Physical Systems Engineering",
+    "try": "M.S.(R) in Transportation Safety and Injury Prevention",
+    "aiy": "M.S.(R) in Machine Intelligence and Data Science",
+    # M.Des.
+    "dds": "Master of Design in Industrial Design",
+    # MBA
+    "smg": "M.B.A.",
+    "smt": "M.B.A. (with focus on Telecommunication Systems Management)",
+    "smn": "Executive M.B.A. Programme",
+    # M.Sc.
+    "cys": "M.Sc. in Chemistry",
+    "hcs": "M.Sc. in Cognitive Science",
+    "hes": "M.Sc. in Economics",
+    "mas": "M.Sc. in Mathematics",
+    "phs": "M.Sc. in Physics",
+    "bls": "M.Sc. in Biological Sciences",
+    # M.P.P.
+    "ppm": "Master of Public Policy",
+    # M.A.
+    "hst": "M.A. in Culture, Society, and Thought",
+    # P.G. Diploma
+    "amx": "P.G. D.I.I.T (Naval Construction)",
+    "mvx": "Joint P.G. Diploma in Visionary Leadership in Manufacturing",
+}
+
+
+def parse_kerberos(kerberos: str | None) -> dict:
+    """
+    Parse kerberos ID to extract programme code and year of joining.
+    
+    Kerberos format: [3-letter programme code][2-digit year][5-digit roll number]
+    Example: me2241111 -> programme_code=ME2, year_of_joining=2024
+    
+    Returns dict with programme_code, programme_name, and year_of_joining (or None if invalid)
+    """
+    if not kerberos or len(kerberos) < 5:
+        return {"programme_code": None, "programme_name": None, "year_of_joining": None}
+    
+    programme_code = kerberos[:3].upper()
+    year_digits = kerberos[3:5]
+    
+    # Parse year (assume 20xx for now)
+    try:
+        year_of_joining = 2000 + int(year_digits)
+    except ValueError:
+        year_of_joining = None
+    
+    # Look up programme name
+    programme_name = PROGRAMME_CODES.get(kerberos[:3].lower())
+    
+    return {
+        "programme_code": programme_code,
+        "programme_name": programme_name,
+        "year_of_joining": year_of_joining,
+    }
+
+
+def build_user_context(user: models.User) -> dict:
+    """Build user context dict from user model, including parsed kerberos info."""
+    kerberos_info = parse_kerberos(user.kerberos)
+    
+    return {
+        "name": user.name,
+        "email": user.email,
+        "kerberos": user.kerberos,
+        "hostel": user.hostel,
+        "programme_code": kerberos_info["programme_code"],
+        "programme_name": kerberos_info["programme_name"],
+        "year_of_joining": kerberos_info["year_of_joining"],
+    }
+
 
 # Environment variables for URLs
 FRONTEND_URL = os.environ.get("FRONTEND_URL", "http://localhost:5173")
@@ -31,14 +187,14 @@ app = FastAPI(
     
     ## Features
     
-    * **Authentication**: OAuth integration with DevClub (oauth.devclub.in)
+    * **Authentication**: OAuth integration with IITD OAuth (auth.devclub.in)
     * **Chat Management**: Create, manage, and interact with chat sessions
     * **Document Management**: Upload, process, and manage PDF documents (Admin only)
     * **AI Agent Integration**: Interact with memory-enabled AI agents
     
     ## Authentication Flow
     
-    This API uses DevClub OAuth for authentication:
+    This API uses IITD OAuth for authentication:
     
     1. **Get Signin URL**: Use `/auth/signin-url` to get the OAuth URL
     2. **Redirect User**: Send user to the OAuth URL for authentication  
@@ -109,7 +265,7 @@ app = FastAPI(
 ALLOWED_ORIGINS = [
     FRONTEND_URL,
     FRONTEND_URL.replace("http://", "http://127.0.0.1:").replace("localhost:", ""),  # 127.0.0.1 variant
-    "https://oauth.devclub.in",   # DevClub OAuth server
+    "https://auth.devclub.in",   # IITD OAuth server
 ]
 
 # CORS middleware - allows cross-origin requests from frontend and OAuth provider
@@ -248,24 +404,25 @@ def health():
 @app.get("/auth/signin-url", response_model=schemas.OAuthSigninUrlResponse, tags=["Authentication"])
 def get_signin_url(redirect_uri: str):
     """
-    Get the DevClub OAuth signin URL.
+    Get the IITD OAuth signin URL with PKCE.
     
-    This endpoint generates the complete OAuth signin URL that your frontend
-    should redirect users to for authentication.
+    This endpoint generates the complete OAuth authorization URL that your frontend
+    should redirect users to for authentication. Uses PKCE (S256) for security.
     
-    - **redirect_uri**: The URL to redirect to after authentication (must be registered with DevClub)
+    - **redirect_uri**: The URL to redirect to after authentication (must be registered)
     
     Returns:
-        OAuth signin URL for DevClub authentication
+        OAuth signin URL and state parameter
         
     Example:
         GET /auth/signin-url?redirect_uri={FRONTEND_URL}/callback
     """
     try:
-        signin_url = auth.get_oauth_signin_url(redirect_uri)
+        state, signin_url = auth.create_oauth_state(redirect_uri)
         return schemas.OAuthSigninUrlResponse(
             signin_url=signin_url,
-            instructions="Redirect user to this URL to initiate OAuth flow"
+            state=state,
+            instructions="Redirect user to this URL to initiate OAuth flow. The state is stored server-side with PKCE parameters."
         )
     except ValueError as e:
         raise HTTPException(status_code=500, detail=str(e))
@@ -279,42 +436,36 @@ def get_signin_url(redirect_uri: str):
           })
 async def auth_callback(payload: schemas.OAuthCallbackRequest):
     """
-    OAuth callback endpoint for DevClub authentication.
+    OAuth callback endpoint for IITD authentication.
     
     This endpoint handles the OAuth callback after successful authentication
-    with DevClub and returns a JWT access token.
+    with IITD OAuth and returns an access token.
     
     - **code**: Authorization code from OAuth provider
-    - **state**: State parameter for CSRF protection
+    - **state**: State parameter for CSRF protection and PKCE lookup
     
     Returns:
-        JWT access token and token type for subsequent API calls
+        Access token and token type for subsequent API calls
     """
     code = payload.code
     state = payload.state
 
     # Validate incoming parameters
-    print("Auth callback received code:", code, "state:", state)
+    print("Auth callback received code:", code[:20] + "...", "state:", state)
     if not code or not state:
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST,
             detail="Missing code or state in the request"
         )
     
-    # Verify the authorization code with DevClub OAuth server
-    user_info = await auth.verify_devclub_code(code, state)
-    if not user_info:
-        raise HTTPException(
-            status_code=status.HTTP_401_UNAUTHORIZED,
-            detail="Error during authentication"
-        )
+    # Exchange authorization code for access token (with PKCE verification)
+    access_token, user_info = await auth.exchange_code_for_token(code, state)
     
     # Get or create user in database
     user = crud.get_or_create_user(user_info)
-    print("Authenticated user:", user)
+    print("Authenticated user:", user.email, "oauth_id:", user.oauth_id)
     
-    # Create JWT access token
-    access_token = auth.create_access_token({"sub": str(user.id)})
+    return {"access_token": access_token, "token_type": "bearer"}
     
     return {"access_token": access_token, "token_type": "bearer"}
 
@@ -413,12 +564,7 @@ def create_new_chat_with_message(
     crud.create_message(chat_id=chat.id, sender="user", content=message.content)
     
     # Build user context from current user for system prompt
-    user_context = {
-        "name": current_user.name,
-        "email": current_user.email,
-        "kerberos": current_user.kerberos,
-        "hostel": current_user.hostel,
-    }
+    user_context = build_user_context(current_user)
     
     # Build input dict as expected by agent
     agent_input = {"input": message.content}
@@ -469,12 +615,7 @@ def send_message(
     crud.create_message(chat_id=chat_id, sender="user", content=message.content)
 
     # Build user context from current user for system prompt
-    user_context = {
-        "name": current_user.name,
-        "email": current_user.email,
-        "kerberos": current_user.kerberos,
-        "hostel": current_user.hostel,
-    }
+    user_context = build_user_context(current_user)
 
     # Build input dict as expected by agent
     agent_input = {"input": message.content}
@@ -491,6 +632,136 @@ def send_message(
 
     assistant_msg = crud.create_message(chat_id=chat_id, sender="assistant", content=assistant_text)
     return assistant_msg
+
+
+@app.post("/chats/{chat_id}/messages/stream", tags=["Messages"])
+async def send_message_stream(
+    chat_id: int, 
+    message: schemas.MessageCreate, 
+    current_user: models.User = Depends(auth.get_current_user)
+):
+    """
+    Send a message to an existing chat session with streaming response.
+    
+    Sends a user message to the AI agent and streams the agent's response
+    using Server-Sent Events (SSE). The conversation history is maintained.
+    
+    - **chat_id**: ID of the chat session to send the message to
+    - **content**: Message content to send to the AI agent
+    
+    Returns:
+        SSE stream of the agent's response tokens
+    """
+    chat = crud.get_chat(chat_id)
+    if not chat or chat.user_id != current_user.id:
+        raise HTTPException(status_code=404, detail="Chat not found")
+
+    # store user message
+    crud.create_message(chat_id=chat_id, sender="user", content=message.content)
+
+    # Build user context from current user for system prompt
+    user_context = build_user_context(current_user)
+
+    # Build input dict as expected by agent
+    agent_input = {"input": message.content}
+    
+    async def generate_stream():
+        """Generate SSE stream of agent response tokens."""
+        full_response = ""
+        try:
+            async for token in stream_memory_agent(agent_input, session_id=str(chat_id), user_context=user_context):
+                full_response += token
+                # Send each token as an SSE event
+                yield f"data: {json.dumps({'token': token})}\n\n"
+            
+            # Store the complete assistant message after streaming finishes
+            assistant_msg = crud.create_message(chat_id=chat_id, sender="assistant", content=full_response)
+            
+            # Send completion event with message metadata
+            yield f"data: {json.dumps({'done': True, 'message_id': str(assistant_msg.id)})}\n\n"
+        except Exception as e:
+            print("Agent streaming failed:", e)
+            yield f"data: {json.dumps({'error': str(e)})}\n\n"
+    
+    return StreamingResponse(
+        generate_stream(),
+        media_type="text/event-stream",
+        headers={
+            "Cache-Control": "no-cache",
+            "Connection": "keep-alive",
+            "X-Accel-Buffering": "no",  # Disable nginx buffering
+        }
+    )
+
+
+@app.post("/chats/new/stream", tags=["Chat Management"])
+async def create_new_chat_with_message_stream(
+    message: schemas.MessageCreate, 
+    current_user: models.User = Depends(auth.get_current_user)
+):
+    """
+    Create a new chat session and send the first message with streaming response.
+    
+    This endpoint creates a new chat, sends the first message,
+    and streams the AI agent's response using Server-Sent Events (SSE).
+    
+    - **content**: The first message content to send to the AI agent
+    
+    Returns:
+        SSE stream starting with chat metadata, then response tokens
+    """
+    if current_user.id is None:
+        raise HTTPException(status_code=500, detail="Invalid user id")
+    user_id = int(current_user.id)
+    
+    # Generate chat title from the first message using LLM
+    title_text = generate_chat_title(message.content)
+    
+    # Create the chat with the title
+    chat = crud.create_chat(user_id, title_text)
+    
+    if chat.id is None:
+        raise HTTPException(status_code=500, detail="Failed to create chat")
+    
+    # Store user message
+    crud.create_message(chat_id=chat.id, sender="user", content=message.content)
+    
+    # Build user context from current user for system prompt
+    user_context = build_user_context(current_user)
+    
+    # Build input dict as expected by agent
+    agent_input = {"input": message.content}
+    
+    async def generate_stream():
+        """Generate SSE stream starting with chat info, then agent response tokens."""
+        # First, send the chat metadata
+        yield f"data: {json.dumps({'chat': {'id': str(chat.id), 'title': title_text}})}\n\n"
+        
+        full_response = ""
+        try:
+            async for token in stream_memory_agent(agent_input, session_id=str(chat.id), user_context=user_context):
+                full_response += token
+                # Send each token as an SSE event
+                yield f"data: {json.dumps({'token': token})}\n\n"
+            
+            # Store the complete assistant message after streaming finishes
+            assistant_msg = crud.create_message(chat_id=chat.id, sender="assistant", content=full_response)
+            
+            # Send completion event with message metadata
+            yield f"data: {json.dumps({'done': True, 'message_id': str(assistant_msg.id)})}\n\n"
+        except Exception as e:
+            print("Agent streaming failed:", e)
+            yield f"data: {json.dumps({'error': str(e)})}\n\n"
+    
+    return StreamingResponse(
+        generate_stream(),
+        media_type="text/event-stream",
+        headers={
+            "Cache-Control": "no-cache",
+            "Connection": "keep-alive",
+            "X-Accel-Buffering": "no",  # Disable nginx buffering
+        }
+    )
 
 
 @app.get("/chats/{chat_id}/messages", response_model=list[schemas.MessageRead], tags=["Messages"])

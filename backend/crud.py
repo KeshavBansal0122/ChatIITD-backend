@@ -1,48 +1,194 @@
+from datetime import datetime, timedelta
 from sqlmodel import Session, select
 from sqlalchemy import desc
 from . import models
+from . import auth as auth_module
 from typing import List, Optional
 
 # Use the shared engine exposed by models
 ENGINE = models.ENGINE
 
 
-def get_or_create_user(user_info: dict) -> models.User:
-    with Session(ENGINE) as sess:
-        # First try to find by email
-        stmt = select(models.User).where(models.User.email == user_info.get("email"))
-        res = sess.exec(stmt).first()
+# ---------- OAuth State CRUD (PKCE) ----------
+
+def create_oauth_state(state: str, code_verifier: str, redirect_uri: str) -> models.OAuthState:
+    """
+    Store PKCE state for OAuth flow.
+    
+    Args:
+        state: Random state string for CSRF protection
+        code_verifier: PKCE code verifier to store
+        redirect_uri: Original redirect URI from client
         
-        if res:
-            # Update existing user with new information from OAuth
-            res.oauth_id = user_info.get("oauth_id")
-            res.name = user_info.get("name") or res.name
-            res.picture = user_info.get("picture") or res.picture
-            res.hostel = user_info.get("hostel") or res.hostel
-            res.kerberos = user_info.get("kerberos") or res.kerberos
-            res.date_of_birth = user_info.get("date_of_birth") or res.date_of_birth
-            res.instagram_id = user_info.get("instagram_id") or res.instagram_id
-            res.mobile_no = user_info.get("mobile_no") or res.mobile_no
-            sess.add(res)
-            sess.commit()
-            sess.refresh(res)
-            return res
+    Returns:
+        Created OAuthState object
+    """
+    with Session(ENGINE) as sess:
+        oauth_state = models.OAuthState(
+            state=state,
+            code_verifier=code_verifier,
+            redirect_uri=redirect_uri,
+        )
+        sess.add(oauth_state)
+        sess.commit()
+        sess.refresh(oauth_state)
+        return oauth_state
+
+
+def get_and_delete_oauth_state(state: str) -> Optional[models.OAuthState]:
+    """
+    Retrieve and delete OAuth state (one-time use).
+    Also cleans up expired states.
+    
+    Args:
+        state: State string to look up
+        
+    Returns:
+        OAuthState if found and not expired, None otherwise
+    """
+    with Session(ENGINE) as sess:
+        # Get the state
+        oauth_state = sess.get(models.OAuthState, state)
+        
+        if oauth_state:
+            # Check if expired (10 minutes)
+            age = datetime.utcnow() - oauth_state.created_at
+            if age > timedelta(minutes=10):
+                sess.delete(oauth_state)
+                sess.commit()
+                return None
             
-        # Create new user
+            # Delete after retrieval (one-time use)
+            sess.delete(oauth_state)
+            sess.commit()
+            
+            # Return detached copy
+            return models.OAuthState(
+                state=oauth_state.state,
+                code_verifier=oauth_state.code_verifier,
+                redirect_uri=oauth_state.redirect_uri,
+                created_at=oauth_state.created_at,
+            )
+        
+        return None
+
+
+def cleanup_expired_oauth_states(max_age_minutes: int = 10) -> int:
+    """
+    Delete expired OAuth states.
+    
+    Args:
+        max_age_minutes: Maximum age in minutes before state expires
+        
+    Returns:
+        Number of deleted states
+    """
+    with Session(ENGINE) as sess:
+        cutoff = datetime.utcnow() - timedelta(minutes=max_age_minutes)
+        stmt = select(models.OAuthState).where(models.OAuthState.created_at < cutoff)
+        expired = sess.exec(stmt).all()
+        count = len(expired)
+        for state in expired:
+            sess.delete(state)
+        sess.commit()
+        return count
+
+
+# ---------- User CRUD ----------
+
+def get_user_by_oauth_id(oauth_id: str) -> Optional[models.User]:
+    """
+    Find user by OAuth subject ID.
+    
+    Args:
+        oauth_id: OAuth subject ID (sub claim)
+        
+    Returns:
+        User if found, None otherwise
+    """
+    with Session(ENGINE) as sess:
+        stmt = select(models.User).where(models.User.oauth_id == oauth_id)
+        return sess.exec(stmt).first()
+
+
+def get_or_create_user(user_info: dict) -> models.User:
+    """
+    Get existing user or create new one from OAuth user info.
+    
+    Maps IITD OAuth claims to User model fields:
+    - sub -> oauth_id
+    - email -> email
+    - name -> name
+    - hostel -> hostel
+    - entry_number -> entry_number, kerberos (derived)
+    - department -> department
+    - category -> category
+    
+    Args:
+        user_info: Dictionary with OAuth claims
+        
+    Returns:
+        User object (existing or newly created)
+    """
+    with Session(ENGINE) as sess:
+        # First try to find by oauth_id (sub claim)
+        oauth_id = user_info.get("sub")
+        if oauth_id:
+            stmt = select(models.User).where(models.User.oauth_id == oauth_id)
+            res = sess.exec(stmt).first()
+            if res:
+                # Update existing user with latest info
+                res.name = user_info.get("name") or res.name
+                res.email = user_info.get("email") or res.email
+                res.hostel = user_info.get("hostel") or res.hostel
+                res.entry_number = user_info.get("entry_number") or res.entry_number
+                res.department = user_info.get("department") or res.department
+                res.category = user_info.get("category") or res.category
+                # Derive kerberos from entry_number
+                if res.entry_number:
+                    res.kerberos = auth_module.entry_number_to_kerberos(res.entry_number)
+                sess.add(res)
+                sess.commit()
+                sess.refresh(res)
+                return res
+        
+        # Try to find by email as fallback
         email = user_info.get("email")
+        if email:
+            stmt = select(models.User).where(models.User.email == email)
+            res = sess.exec(stmt).first()
+            if res:
+                # Update existing user
+                res.oauth_id = oauth_id or res.oauth_id
+                res.name = user_info.get("name") or res.name
+                res.hostel = user_info.get("hostel") or res.hostel
+                res.entry_number = user_info.get("entry_number") or res.entry_number
+                res.department = user_info.get("department") or res.department
+                res.category = user_info.get("category") or res.category
+                if res.entry_number:
+                    res.kerberos = auth_module.entry_number_to_kerberos(res.entry_number)
+                sess.add(res)
+                sess.commit()
+                sess.refresh(res)
+                return res
+        
+        # Create new user
         if not email:
             raise ValueError("user_info must contain an email")
-            
+        
+        entry_number = user_info.get("entry_number")
+        kerberos = auth_module.entry_number_to_kerberos(entry_number) if entry_number else None
+        
         user = models.User(
-            oauth_id=user_info.get("oauth_id"),
+            oauth_id=oauth_id,
             email=email,
             name=user_info.get("name"),
             picture=user_info.get("picture"),
             hostel=user_info.get("hostel"),
-            kerberos=user_info.get("kerberos"),
-            date_of_birth=user_info.get("date_of_birth"),
-            instagram_id=user_info.get("instagram_id"),
-            mobile_no=user_info.get("mobile_no")
+            kerberos=kerberos,
+            entry_number=entry_number,
+            department=user_info.get("department"),
+            category=user_info.get("category"),
         )
         sess.add(user)
         sess.commit()
