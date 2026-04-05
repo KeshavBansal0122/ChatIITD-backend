@@ -144,9 +144,8 @@ def get_or_create_user(user_info: dict) -> models.User:
                 res.entry_number = user_info.get("entry_number") or res.entry_number
                 res.department = user_info.get("department") or res.department
                 res.category = user_info.get("category") or res.category
-                # Derive kerberos from entry_number
-                if res.entry_number:
-                    res.kerberos = auth_module.entry_number_to_kerberos(res.entry_number)
+                if res.email:
+                    res.kerberos = auth_module.email_to_kerberos(res.email)
                 sess.add(res)
                 sess.commit()
                 sess.refresh(res)
@@ -165,8 +164,8 @@ def get_or_create_user(user_info: dict) -> models.User:
                 res.entry_number = user_info.get("entry_number") or res.entry_number
                 res.department = user_info.get("department") or res.department
                 res.category = user_info.get("category") or res.category
-                if res.entry_number:
-                    res.kerberos = auth_module.entry_number_to_kerberos(res.entry_number)
+                if res.email:
+                    res.kerberos = auth_module.email_to_kerberos(email)
                 sess.add(res)
                 sess.commit()
                 sess.refresh(res)
@@ -177,7 +176,7 @@ def get_or_create_user(user_info: dict) -> models.User:
             raise ValueError("user_info must contain an email")
         
         entry_number = user_info.get("entry_number")
-        kerberos = auth_module.entry_number_to_kerberos(entry_number) if entry_number else None
+        kerberos = auth_module.email_to_kerberos(email) if email else None
         
         user = models.User(
             oauth_id=oauth_id,

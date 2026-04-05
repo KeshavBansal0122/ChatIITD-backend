@@ -59,30 +59,24 @@ def generate_pkce_pair() -> Tuple[str, str]:
     return code_verifier, code_challenge
 
 
-def entry_number_to_kerberos(entry_number: str) -> Optional[str]:
+def email_to_kerberos(email: str) -> Optional[str]:
     """
-    Convert entry number to kerberos ID.
-    
-    Example: "2024ME21111" → "me22411111"
-    Format: YYYY + DEPT(3 chars) + NNNNN
-    Kerberos: dept (lowercase) + YY + NNNNN
-    
+    Convert email number to kerberos ID.
     Args:
-        entry_number: Entry number like "2024ME21111"
+        email: The IITD Webmail ID
         
     Returns:
-        Kerberos ID like "me22411111" or None if invalid
+        Kerberos ID like "me2241111" or None if invalid
     """
-    if not entry_number or len(entry_number) < 12:
-        return None
-    
-    try:
-        year = entry_number[2:4]         # "24" from "2024"
-        dept = entry_number[4:7].lower()  # "me2" from "ME2"
-        number = entry_number[7:]         # "1111"
-        
-        return f"{dept}{year}{number}"    # "me2241111"
-    except (IndexError, AttributeError):
+    if not email:
+        print(f"[entry_number_to_kerberos] email is None or empty")
+        return None    
+    try:        
+        kerberos = email.split('@')[0]
+        print(f"[entry_number_to_kerberos] Derived kerberos: {kerberos}")
+        return kerberos
+    except (IndexError, AttributeError) as e:
+        print(f"[entry_number_to_kerberos] Error deriving kerberos: {e}")
         return None
 
 
@@ -203,6 +197,8 @@ async def exchange_code_for_token(code: str, state: str) -> Tuple[str, dict]:
             if not user_info:
                 # Fetch from userinfo endpoint
                 user_info = await fetch_user_info(access_token)
+            
+            print(f"[exchange_code_for_token] User info received: {user_info}")
             
             return access_token, user_info
             

@@ -1,9 +1,9 @@
-from fastapi import FastAPI, Depends, HTTPException, status, UploadFile, File, Form, Request
+from fastapi import FastAPI, Depends, HTTPException, status, UploadFile, File, Form, Request, WebSocket, WebSocketDisconnect
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.openapi.docs import get_swagger_ui_html
 from fastapi.openapi.utils import get_openapi
 from fastapi.responses import JSONResponse, StreamingResponse
-from agentic_chatbot.agent import invoke_memory_agent, generate_chat_title, stream_memory_agent
+from agentic_chatbot.agent import invoke_memory_agent, generate_chat_title, stream_memory_agent, stream_memory_agent_with_status
 
 from . import models, crud, schemas, auth, qdrant_service
 
@@ -12,6 +12,7 @@ import uuid
 import logging
 import traceback
 import json
+import asyncio
 from pathlib import Path
 
 logger = logging.getLogger(__name__)
@@ -160,15 +161,21 @@ def build_user_context(user: models.User) -> dict:
     """Build user context dict from user model, including parsed kerberos info."""
     kerberos_info = parse_kerberos(user.kerberos)
     
-    return {
+    context = {
         "name": user.name,
         "email": user.email,
         "kerberos": user.kerberos,
         "hostel": user.hostel,
+        "entry_number": user.entry_number,
+        "department": user.department,
+        "category": user.category,
         "programme_code": kerberos_info["programme_code"],
         "programme_name": kerberos_info["programme_name"],
         "year_of_joining": kerberos_info["year_of_joining"],
     }
+    
+    print(f"[build_user_context] User context: {context}")
+    return context
 
 
 # Environment variables for URLs
@@ -995,3 +1002,275 @@ def delete_document(
 
     # 3. Delete DB record
     crud.delete_document(doc_id)
+
+
+# =====================
+# WebSocket Chat Endpoints
+# =====================
+
+async def authenticate_websocket(websocket: WebSocket) -> models.User | None:
+    """
+    Authenticate a WebSocket connection using the token from query params or cookies.
+    Returns the user if authenticated, None otherwise.
+    """
+    # Try to get token from query params first, then cookies
+    token = websocket.query_params.get("token")
+    if not token:
+        token = websocket.cookies.get("access_token")
+    
+    if not token:
+        return None
+    
+    try:
+        # Remove "Bearer " prefix if present
+        if token.startswith("Bearer "):
+            token = token[7:]
+        
+        # Verify token and get payload (sync function, not async)
+        payload = auth.verify_access_token(token)
+        
+        # Get user from database using oauth_id (sub claim)
+        oauth_id = payload.get("sub")
+        if not oauth_id:
+            return None
+        
+        user = crud.get_user_by_oauth_id(oauth_id)
+        return user
+    except Exception as e:
+        logger.error(f"WebSocket authentication failed: {e}")
+        return None
+
+
+@app.websocket("/ws/chat/new")
+async def websocket_new_chat(websocket: WebSocket):
+    """
+    WebSocket endpoint for creating a new chat and streaming the response.
+    
+    Client sends: { type: "message", content: "..." } or { type: "stop" }
+    Server sends: { type: "chat", id: "...", title: "..." }
+                  { type: "status", status: "thinking" | "tool_call", tool?: "..." }
+                  { type: "token", content: "..." }
+                  { type: "done", message_id: "..." }
+                  { type: "error", message: "..." }
+    """
+    await websocket.accept()
+    
+    # Authenticate
+    current_user = await authenticate_websocket(websocket)
+    if not current_user:
+        await websocket.send_json({"type": "error", "message": "Unauthorized"})
+        await websocket.close(code=4001)
+        return
+    
+    cancel_event = asyncio.Event()
+    
+    try:
+        # Wait for the first message
+        data = await websocket.receive_json()
+        
+        if data.get("type") != "message" or not data.get("content"):
+            await websocket.send_json({"type": "error", "message": "Invalid message format"})
+            await websocket.close()
+            return
+        
+        user_message = data["content"]
+        
+        # Generate title
+        title_text = generate_chat_title(user_message)
+        
+        # Create the chat
+        chat = crud.create_chat(user_id=current_user.id, title=title_text)
+        if not chat:
+            await websocket.send_json({"type": "error", "message": "Failed to create chat"})
+            await websocket.close()
+            return
+        
+        # Send chat metadata
+        await websocket.send_json({"type": "chat", "id": str(chat.id), "title": title_text})
+        
+        # Store user message
+        crud.create_message(chat_id=chat.id, sender="user", content=user_message)
+        
+        # Build user context
+        user_context = build_user_context(current_user)
+        agent_input = {"input": user_message}
+        
+        # Create a task to listen for stop commands
+        async def listen_for_stop():
+            try:
+                while True:
+                    msg = await websocket.receive_json()
+                    if msg.get("type") == "stop":
+                        cancel_event.set()
+                        break
+            except WebSocketDisconnect:
+                cancel_event.set()
+            except Exception:
+                pass
+        
+        # Start listening for stop commands in background
+        stop_listener = asyncio.create_task(listen_for_stop())
+        
+        # Stream the agent response
+        full_response = ""
+        try:
+            async for event in stream_memory_agent_with_status(
+                agent_input, 
+                session_id=str(chat.id), 
+                user_context=user_context,
+                cancel_event=cancel_event
+            ):
+                if event["type"] == "token":
+                    full_response += event["content"]
+                await websocket.send_json(event)
+                
+                if event["type"] in ("done", "error"):
+                    break
+        except WebSocketDisconnect:
+            logger.info(f"WebSocket disconnected during streaming for chat {chat.id}")
+        finally:
+            stop_listener.cancel()
+        
+        # Store the complete assistant message
+        if full_response:
+            assistant_msg = crud.create_message(chat_id=chat.id, sender="assistant", content=full_response)
+            # Send final done with message_id if not already sent
+            if not cancel_event.is_set():
+                try:
+                    await websocket.send_json({"type": "done", "message_id": str(assistant_msg.id)})
+                except:
+                    pass
+    
+    except WebSocketDisconnect:
+        logger.info("WebSocket disconnected")
+    except Exception as e:
+        logger.error(f"WebSocket error: {e}", exc_info=True)
+        try:
+            await websocket.send_json({"type": "error", "message": str(e)})
+        except:
+            pass
+
+
+@app.websocket("/ws/chat/{chat_id}")
+async def websocket_existing_chat(websocket: WebSocket, chat_id: int):
+    """
+    WebSocket endpoint for sending messages to an existing chat.
+    
+    Client sends: { type: "message", content: "..." } or { type: "stop" }
+    Server sends: { type: "status", status: "thinking" | "tool_call", tool?: "..." }
+                  { type: "token", content: "..." }
+                  { type: "done", message_id: "..." }
+                  { type: "error", message: "..." }
+    """
+    await websocket.accept()
+    
+    # Authenticate
+    current_user = await authenticate_websocket(websocket)
+    if not current_user:
+        await websocket.send_json({"type": "error", "message": "Unauthorized"})
+        await websocket.close(code=4001)
+        return
+    
+    # Verify chat ownership
+    chat = crud.get_chat(chat_id)
+    if not chat or chat.user_id != current_user.id:
+        await websocket.send_json({"type": "error", "message": "Chat not found"})
+        await websocket.close(code=4004)
+        return
+    
+    cancel_event = asyncio.Event()
+    
+    try:
+        while True:
+            # Wait for message
+            data = await websocket.receive_json()
+            
+            if data.get("type") == "stop":
+                cancel_event.set()
+                continue
+            
+            if data.get("type") != "message" or not data.get("content"):
+                await websocket.send_json({"type": "error", "message": "Invalid message format"})
+                continue
+            
+            # Reset cancel event for new message
+            cancel_event.clear()
+            
+            user_message = data["content"]
+            
+            # Store user message
+            crud.create_message(chat_id=chat.id, sender="user", content=user_message)
+            
+            # Build user context
+            user_context = build_user_context(current_user)
+            agent_input = {"input": user_message}
+            
+            # Create a task to listen for stop commands during this response
+            stop_received = asyncio.Event()
+            
+            async def listen_for_stop():
+                try:
+                    while not stop_received.is_set():
+                        msg = await asyncio.wait_for(websocket.receive_json(), timeout=0.1)
+                        if msg.get("type") == "stop":
+                            cancel_event.set()
+                            stop_received.set()
+                            break
+                except asyncio.TimeoutError:
+                    pass
+                except WebSocketDisconnect:
+                    cancel_event.set()
+                    stop_received.set()
+                except Exception:
+                    pass
+            
+            # Stream the agent response
+            full_response = ""
+            try:
+                async for event in stream_memory_agent_with_status(
+                    agent_input, 
+                    session_id=str(chat.id), 
+                    user_context=user_context,
+                    cancel_event=cancel_event
+                ):
+                    # Check for stop in between events
+                    try:
+                        # Non-blocking check for stop message
+                        msg = await asyncio.wait_for(websocket.receive_json(), timeout=0.01)
+                        if msg.get("type") == "stop":
+                            cancel_event.set()
+                    except asyncio.TimeoutError:
+                        pass
+                    except Exception:
+                        pass
+                    
+                    if event["type"] == "token":
+                        full_response += event["content"]
+                    await websocket.send_json(event)
+                    
+                    if event["type"] in ("done", "error"):
+                        break
+            except WebSocketDisconnect:
+                logger.info(f"WebSocket disconnected during streaming for chat {chat_id}")
+                return
+            
+            # Store the complete assistant message
+            if full_response:
+                assistant_msg = crud.create_message(chat_id=chat.id, sender="assistant", content=full_response)
+                # Send final done with message_id if not already sent
+                if not cancel_event.is_set():
+                    try:
+                        await websocket.send_json({"type": "done", "message_id": str(assistant_msg.id)})
+                    except:
+                        pass
+            
+            stop_received.set()  # Signal to stop listener
+    
+    except WebSocketDisconnect:
+        logger.info(f"WebSocket disconnected for chat {chat_id}")
+    except Exception as e:
+        logger.error(f"WebSocket error: {e}", exc_info=True)
+        try:
+            await websocket.send_json({"type": "error", "message": str(e)})
+        except:
+            pass

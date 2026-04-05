@@ -453,72 +453,292 @@ async def stream_memory_agent(input_dict: dict, session_id: str | None = None, u
             # Continue the loop to get the next response
             continue
         else:
-            # No tool calls, we have the final response
-            logger.info("[stream_memory_agent] No tool calls, returning final response")
+            # No tool calls - make a streaming call for the final response
+            logger.info("[stream_memory_agent] No tool calls, making streaming call for final response")
             
-            # Get content from the response, fall back to reasoning if content is None
-            # Some models (like z-ai/glm-4.5-air:free) put output in reasoning instead of content
-            final_content = assistant_message.content
-            if final_content is None and hasattr(assistant_message, 'reasoning') and assistant_message.reasoning:
-                logger.info("[stream_memory_agent] Content is None, using reasoning field as fallback")
-                final_content = assistant_message.reasoning
-            
-            if final_content:
-                logger.info(f"[stream_memory_agent] Yielding response of length: {len(final_content)}")
+            try:
+                logger.info(f"[stream_memory_agent] Calling OpenRouter API (streaming) with model: {MODEL}")
+                stream = await async_client.chat.completions.create(
+                    model=MODEL,
+                    messages=messages,
+                    tools=TOOLS,
+                    tool_choice="none",  # Don't allow tools in final response
+                    stream=True,
+                    extra_headers={
+                        "HTTP-Referer": "https://chatiitd.devclub.in",
+                        "X-OpenRouter-Title": "ChatIITD Academic Assistant",
+                    }
+                )
+                
+                full_response = ""
+                chunk_count = 0
+                async for chunk in stream:
+                    chunk_count += 1
+                    if chunk.choices and chunk.choices[0].delta.content:
+                        content = chunk.choices[0].delta.content
+                        full_response += content
+                        yield content
+                
+                logger.info(f"[stream_memory_agent] Streaming complete. Received {chunk_count} chunks, total length: {len(full_response)}")
+                
                 # Save assistant message to history
-                if session_id:
+                if session_id and full_response:
                     add_message_to_history(session_id, {
                         "role": "assistant",
-                        "content": final_content
+                        "content": full_response
                     })
-                yield final_content
-            else:
-                logger.warning("[stream_memory_agent] No content in response, making a new streaming call")
-                # Only make a new streaming call if we truly have no content
-                try:
-                    logger.info(f"[stream_memory_agent] Calling OpenRouter API (streaming) with model: {MODEL}")
-                    stream = await async_client.chat.completions.create(
-                        model=MODEL,
-                        messages=messages,
-                        tools=TOOLS,
-                        tool_choice="none",  # Don't allow tools in final response
-                        stream=True,
-                        extra_headers={
-                            "HTTP-Referer": "https://chatiitd.devclub.in",
-                            "X-OpenRouter-Title": "ChatIITD Academic Assistant",
-                        }
-                    )
-                    
-                    full_response = ""
-                    chunk_count = 0
-                    async for chunk in stream:
-                        chunk_count += 1
-                        if chunk.choices and chunk.choices[0].delta.content:
-                            content = chunk.choices[0].delta.content
-                            full_response += content
-                            yield content
-                    
-                    logger.info(f"[stream_memory_agent] Streaming complete. Received {chunk_count} chunks, total length: {len(full_response)}")
-                    
-                    # Save assistant message to history
-                    if session_id and full_response:
-                        add_message_to_history(session_id, {
-                            "role": "assistant",
-                            "content": full_response
-                        })
-                    
-                    if not full_response:
-                        yield "I apologize, but I was unable to generate a response. Please try again."
-                    
-                except Exception as e:
-                    logger.error(f"[stream_memory_agent] Streaming failed: {e}", exc_info=True)
-                    yield "Sorry, I encountered an error while streaming the response."
+                
+                if not full_response:
+                    yield "I apologize, but I was unable to generate a response. Please try again."
+                
+            except Exception as e:
+                logger.error(f"[stream_memory_agent] Streaming failed: {e}", exc_info=True)
+                yield "Sorry, I encountered an error while streaming the response."
             
             return
     
     # Max iterations reached
     logger.warning(f"[stream_memory_agent] Maximum tool iterations ({MAX_TOOL_ITERATIONS}) reached")
     yield "I apologize, but I couldn't complete the request within the allowed number of steps."
+
+
+def format_tool_status(tool_name: str, arguments: dict) -> str:
+    """
+    Format tool call status for display.
+    Shows tool name and arguments if they're short enough.
+    """
+    # Format arguments for display (truncate if too long)
+    args_str = ""
+    if arguments:
+        args_items = []
+        for k, v in arguments.items():
+            v_str = str(v)
+            if len(v_str) > 50:
+                v_str = v_str[:47] + "..."
+            args_items.append(f"{k}={v_str}")
+        args_str = ", ".join(args_items)
+        if len(args_str) > 100:
+            args_str = ""  # Skip arguments if too long
+    
+    if args_str:
+        return f"{tool_name}({args_str})"
+    return tool_name
+
+
+async def stream_memory_agent_with_status(
+    input_dict: dict, 
+    session_id: str | None = None, 
+    user_context: dict | None = None,
+    cancel_event: "asyncio.Event | None" = None
+) -> AsyncGenerator[dict, None]:
+    """
+    Stream the agent response with status events for WebSocket.
+    
+    Args:
+        input_dict: The input dictionary containing the user query under 'input' key
+        session_id: Optional session ID for conversation history
+        user_context: Optional user context dict
+        cancel_event: Optional asyncio.Event to signal cancellation
+        
+    Yields:
+        Dict events with types: 'status', 'token', 'done', 'error'
+        - status: { type: 'status', status: 'thinking' | 'tool_call', tool?: string }
+        - token: { type: 'token', content: string }
+        - done: { type: 'done' }
+        - error: { type: 'error', message: string }
+    """
+    import asyncio
+    
+    user_message = input_dict.get("input", "")
+    logger.info(f"[stream_with_status] Starting for message: {user_message[:100]}...")
+    
+    system_prompt = build_system_prompt(user_context)
+    
+    # Build messages list
+    messages = [{"role": "system", "content": system_prompt}]
+    
+    # Add chat history if session_id is provided
+    if session_id:
+        history = get_chat_history(session_id)
+        logger.info(f"[stream_with_status] Loaded {len(history)} messages from history")
+        messages.extend(history)
+    
+    # Add the current user message
+    user_msg = {"role": "user", "content": user_message}
+    messages.append(user_msg)
+    
+    # Save user message to history
+    if session_id:
+        add_message_to_history(session_id, user_msg)
+    
+    # Agentic loop with tool calling
+    iteration = 0
+    while iteration < MAX_TOOL_ITERATIONS:
+        # Check for cancellation
+        if cancel_event and cancel_event.is_set():
+            logger.info("[stream_with_status] Cancelled by user")
+            yield {"type": "error", "message": "Generation stopped by user"}
+            return
+        
+        iteration += 1
+        logger.info(f"[stream_with_status] Iteration {iteration}/{MAX_TOOL_ITERATIONS}")
+        
+        # Emit thinking status
+        yield {"type": "status", "status": "thinking"}
+        
+        try:
+            response = await async_client.chat.completions.create(
+                model=MODEL,
+                messages=messages,
+                tools=TOOLS,
+                tool_choice="auto",
+                extra_headers={
+                    "HTTP-Referer": "https://chatiitd.devclub.in",
+                    "X-OpenRouter-Title": "ChatIITD Academic Assistant",
+                }
+            )
+        except Exception as e:
+            logger.error(f"[stream_with_status] API call failed: {e}", exc_info=True)
+            yield {"type": "error", "message": f"API error: {str(e)}"}
+            return
+        
+        if not response.choices:
+            yield {"type": "error", "message": "Empty response from AI service"}
+            return
+        
+        assistant_message = response.choices[0].message
+        finish_reason = response.choices[0].finish_reason
+        
+        logger.info(f"[stream_with_status] finish_reason={finish_reason}, has_tool_calls={bool(assistant_message.tool_calls)}, content_length={len(assistant_message.content) if assistant_message.content else 0}")
+        
+        # Check if we need to process tool calls
+        if finish_reason == "tool_calls" or assistant_message.tool_calls:
+            logger.info(f"[stream_with_status] Processing {len(assistant_message.tool_calls)} tool calls")
+            
+            assistant_msg_dict = {
+                "role": "assistant",
+                "content": assistant_message.content,
+                "tool_calls": assistant_message.tool_calls
+            }
+            messages.append(assistant_msg_dict)
+            
+            # Process each tool call with status updates
+            tool_messages = []
+            for tool_call in assistant_message.tool_calls:
+                # Check for cancellation before each tool
+                if cancel_event and cancel_event.is_set():
+                    logger.info("[stream_with_status] Cancelled by user during tool calls")
+                    yield {"type": "error", "message": "Generation stopped by user"}
+                    return
+                
+                tool_name = tool_call.function.name
+                try:
+                    arguments = json.loads(tool_call.function.arguments)
+                except json.JSONDecodeError:
+                    arguments = {}
+                
+                # Emit tool call status
+                tool_display = format_tool_status(tool_name, arguments)
+                yield {"type": "status", "status": "tool_call", "tool": tool_display}
+                
+                logger.info(f"[Tool Call] {tool_name}: {arguments}")
+                
+                # Execute the tool
+                result = execute_tool(tool_name, arguments)
+                
+                logger.info(f"[Tool Result] {tool_name}: {result[:200]}..." if len(result) > 200 else f"[Tool Result] {tool_name}: {result}")
+                
+                tool_messages.append({
+                    "role": "tool",
+                    "tool_call_id": tool_call.id,
+                    "content": result
+                })
+            
+            messages.extend(tool_messages)
+            
+            # Save to history
+            if session_id:
+                add_message_to_history(session_id, assistant_msg_dict)
+                for tool_msg in tool_messages:
+                    add_message_to_history(session_id, tool_msg)
+            
+            # Continue the loop to get the next response
+            continue
+        else:
+            # No tool calls - make a streaming call for the final response
+            logger.info("[stream_with_status] Making streaming call for final response")
+            
+            # If the non-streaming response already has content, use it
+            if assistant_message.content:
+                logger.info(f"[stream_with_status] Using existing content from non-streaming response: {len(assistant_message.content)} chars")
+                yield {"type": "token", "content": assistant_message.content}
+                
+                # Save assistant message to history
+                if session_id:
+                    add_message_to_history(session_id, {
+                        "role": "assistant",
+                        "content": assistant_message.content
+                    })
+                
+                yield {"type": "done"}
+                return
+            
+            # No content yet - try streaming
+            logger.info("[stream_with_status] No content in non-streaming response, attempting streaming call")
+            
+            try:
+                stream = await async_client.chat.completions.create(
+                    model=MODEL,
+                    messages=messages,
+                    tools=TOOLS,
+                    tool_choice="none",
+                    stream=True,
+                    extra_headers={
+                        "HTTP-Referer": "https://chatiitd.devclub.in",
+                        "X-OpenRouter-Title": "ChatIITD Academic Assistant",
+                    }
+                )
+                
+                full_response = ""
+                async for chunk in stream:
+                    # Check for cancellation during streaming
+                    if cancel_event and cancel_event.is_set():
+                        logger.info("[stream_with_status] Cancelled during streaming")
+                        # Save partial response if any
+                        if session_id and full_response:
+                            add_message_to_history(session_id, {
+                                "role": "assistant",
+                                "content": full_response + "\n\n[Response stopped by user]"
+                            })
+                        yield {"type": "error", "message": "Generation stopped by user"}
+                        return
+                    
+                    if chunk.choices and chunk.choices[0].delta.content:
+                        content = chunk.choices[0].delta.content
+                        full_response += content
+                        yield {"type": "token", "content": content}
+                
+                # Save assistant message to history
+                if session_id and full_response:
+                    add_message_to_history(session_id, {
+                        "role": "assistant",
+                        "content": full_response
+                    })
+                
+                if not full_response:
+                    yield {"type": "token", "content": "I apologize, but I was unable to generate a response. Please try again."}
+                
+                yield {"type": "done"}
+                
+            except Exception as e:
+                logger.error(f"[stream_with_status] Streaming failed: {e}", exc_info=True)
+                yield {"type": "error", "message": f"Streaming error: {str(e)}"}
+            
+            return
+    
+    # Max iterations reached
+    logger.warning(f"[stream_with_status] Maximum tool iterations ({MAX_TOOL_ITERATIONS}) reached")
+    yield {"type": "error", "message": "Maximum processing steps reached"}
 
 
 def generate_chat_title(user_message: str) -> str:
