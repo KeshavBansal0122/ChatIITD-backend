@@ -1,5 +1,5 @@
 from datetime import datetime
-from typing import List
+from typing import List, Dict, Optional
 from pydantic import BaseModel, Field
 
 
@@ -188,3 +188,132 @@ class DocumentUploadResponse(BaseModel):
                 "message": "Successfully uploaded and indexed 45 chunks"
             }
         }
+
+
+# ---------- User Profile & Courses Schemas ----------
+
+class UserProfileResponse(BaseModel):
+    """User profile data"""
+    id: int = Field(..., description="User ID")
+    email: str = Field(..., description="User email")
+    name: Optional[str] = Field(None, description="User's full name")
+    kerberos: Optional[str] = Field(None, description="Kerberos ID (derived from entry_number)")
+    entry_number: Optional[str] = Field(None, description="Entry number (e.g., 2024ME21111)")
+    department: Optional[str] = Field(None, description="Department name")
+    hostel: Optional[str] = Field(None, description="Hostel name")
+    category: Optional[str] = Field(None, description="Category (student, faculty, etc.)")
+    programme_code: Optional[str] = Field(None, description="Programme code (e.g., ME2)")
+    programme_name: Optional[str] = Field(None, description="Programme name")
+    year_of_joining: Optional[int] = Field(None, description="Year of joining")
+    max_semesters: int = Field(8, description="Maximum semesters for the programme")
+    
+    class Config:
+        from_attributes = True
+        json_schema_extra = {
+            "example": {
+                "id": 1,
+                "email": "me2241111@iitd.ac.in",
+                "name": "John Doe",
+                "kerberos": "me2241111",
+                "entry_number": "2024ME21111",
+                "department": "Mechanical Engineering",
+                "hostel": "Aravali",
+                "category": "student",
+                "programme_code": "ME2",
+                "programme_name": "B.Tech in Production and Industrial Engineering",
+                "year_of_joining": 2024,
+                "max_semesters": 8
+            }
+        }
+
+
+class UserCoursesResponse(BaseModel):
+    """User courses grouped by semester"""
+    courses: Dict[str, List[str]] = Field(..., description="Courses by semester (keys are semester numbers as strings)")
+    
+    class Config:
+        json_schema_extra = {
+            "example": {
+                "courses": {
+                    "1": ["COL100", "MTL100", "PYL101"],
+                    "2": ["APL100", "CML101", "ELL101"]
+                }
+            }
+        }
+
+
+class UserCoursesUpdateRequest(BaseModel):
+    """Request to update user courses"""
+    courses: Dict[str, List[str]] = Field(..., description="Courses by semester (keys are semester numbers as strings)")
+    
+    class Config:
+        json_schema_extra = {
+            "example": {
+                "courses": {
+                    "1": ["COL100", "MTL100", "PYL101"],
+                    "2": ["APL100", "CML101", "ELL101"]
+                }
+            }
+        }
+
+
+class CourseValidationResult(BaseModel):
+    """Result of course validation"""
+    valid: List[str] = Field(default_factory=list, description="Valid course codes")
+    invalid: List[str] = Field(default_factory=list, description="Invalid course codes")
+
+
+class UserCoursesUpdateResponse(BaseModel):
+    """Response after updating user courses"""
+    courses: Dict[str, List[str]] = Field(..., description="Saved courses by semester")
+    validation: CourseValidationResult = Field(..., description="Validation results")
+    
+    class Config:
+        json_schema_extra = {
+            "example": {
+                "courses": {
+                    "1": ["COL100", "MTL100"],
+                    "2": ["APL100"]
+                },
+                "validation": {
+                    "valid": ["COL100", "MTL100", "APL100"],
+                    "invalid": ["INVALID101"]
+                }
+            }
+        }
+
+
+class DefaultCoursesResponse(BaseModel):
+    """Default courses from programme structure"""
+    programme_code: Optional[str] = Field(None, description="Programme code")
+    programme_name: Optional[str] = Field(None, description="Programme name")
+    year_of_joining: Optional[int] = Field(None, description="Year of joining")
+    current_semester: int = Field(..., description="Estimated current semester")
+    courses: Dict[str, List[str]] = Field(..., description="Recommended courses by semester (up to current)")
+    
+    class Config:
+        json_schema_extra = {
+            "example": {
+                "programme_code": "ME2",
+                "programme_name": "B.Tech in Production and Industrial Engineering",
+                "year_of_joining": 2022,
+                "current_semester": 4,
+                "courses": {
+                    "1": ["COL100", "MTL100", "PYL101"],
+                    "2": ["APL100", "CML101"],
+                    "3": ["MCL111", "MCL141"],
+                    "4": ["MCL132", "MCL133"]
+                }
+            }
+        }
+
+
+class CourseSearchResult(BaseModel):
+    """Course search result for autocomplete"""
+    code: str = Field(..., description="Course code")
+    name: str = Field(..., description="Course name")
+
+
+class CourseSearchResponse(BaseModel):
+    """Response for course search"""
+    courses: List[CourseSearchResult] = Field(..., description="Matching courses")

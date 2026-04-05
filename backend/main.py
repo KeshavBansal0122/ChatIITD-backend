@@ -3,19 +3,23 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.openapi.docs import get_swagger_ui_html
 from fastapi.openapi.utils import get_openapi
 from fastapi.responses import JSONResponse, StreamingResponse
-from agentic_chatbot.agent import invoke_memory_agent, generate_chat_title, stream_memory_agent, stream_memory_agent_with_status
 
 from . import models, crud, schemas, auth, qdrant_service
+from .logging_config import setup_logging, get_logger
 
 import os
 import uuid
-import logging
 import traceback
 import json
 import asyncio
 from pathlib import Path
 
-logger = logging.getLogger(__name__)
+# Set up logging before anything else
+setup_logging()
+logger = get_logger(__name__)
+
+# Import agent functions after logging is configured
+from agentic_chatbot.agent import invoke_memory_agent, generate_chat_title, stream_memory_agent, stream_memory_agent_with_status
 
 # Programme code mapping from kerberos prefix to programme name
 PROGRAMME_CODES = {
@@ -158,8 +162,15 @@ def parse_kerberos(kerberos: str | None) -> dict:
 
 
 def build_user_context(user: models.User) -> dict:
-    """Build user context dict from user model, including parsed kerberos info."""
+    """Build user context dict from user model, including parsed kerberos info and courses done."""
     kerberos_info = parse_kerberos(user.kerberos)
+    
+    # Get user's courses
+    courses_done = {}
+    if user.id:
+        courses_by_semester = crud.get_user_courses(int(user.id))
+        # Convert to string keys for JSON compatibility
+        courses_done = {str(k): v for k, v in courses_by_semester.items()}
     
     context = {
         "name": user.name,
@@ -172,9 +183,10 @@ def build_user_context(user: models.User) -> dict:
         "programme_code": kerberos_info["programme_code"],
         "programme_name": kerberos_info["programme_name"],
         "year_of_joining": kerberos_info["year_of_joining"],
+        "courses_done": courses_done,
     }
     
-    print(f"[build_user_context] User context: {context}")
+    logger.debug(f"Built user context for {user.email}: programme={kerberos_info['programme_code']}")
     return context
 
 
@@ -386,16 +398,12 @@ async def get_advanced_docs():
 @app.on_event("startup")
 def on_startup():
     models.init_db()
-    print("\n" + "="*60)
-    print("🚀 IITD Agent Backend API Server Started")
-    print("="*60)
-    print("📖 API Documentation Available:")
-    print(f"   • Swagger UI:          {BACKEND_URL}/docs")
-    print(f"   • Enhanced Swagger:    {BACKEND_URL}/docs-advanced")
-    print(f"   • ReDoc:              {BACKEND_URL}/redoc")
-    print(f"   • OpenAPI Schema:     {BACKEND_URL}/openapi.json")
-    print("\n💡 Tip: Use the 'Enhanced Swagger' for the best testing experience!")
-    print("="*60 + "\n")
+    logger.info("=" * 60)
+    logger.info("IITD Agent Backend API Server Started")
+    logger.info("=" * 60)
+    logger.info(f"Swagger UI: {BACKEND_URL}/docs")
+    logger.info(f"ReDoc: {BACKEND_URL}/redoc")
+    logger.info("=" * 60)
 
 
 @app.get("/health", tags=["System"])
@@ -458,7 +466,7 @@ async def auth_callback(payload: schemas.OAuthCallbackRequest):
     state = payload.state
 
     # Validate incoming parameters
-    print("Auth callback received code:", code[:20] + "...", "state:", state)
+    logger.info(f"Auth callback received for state: {state}")
     if not code or not state:
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST,
@@ -470,11 +478,219 @@ async def auth_callback(payload: schemas.OAuthCallbackRequest):
     
     # Get or create user in database
     user = crud.get_or_create_user(user_info)
-    print("Authenticated user:", user.email, "oauth_id:", user.oauth_id)
+    logger.info(f"Authenticated user: {user.email}")
     
     return {"access_token": access_token, "token_type": "bearer"}
+
+
+# ---------- User Profile & Courses Endpoints ----------
+
+# Path to programme structures
+_BACKEND_DIR = Path(__file__).resolve().parent.parent
+_PROGRAMME_DIR = _BACKEND_DIR / "sources" / "programme_structures"
+
+
+def get_programme_structure(programme_code: str) -> dict | None:
+    """Load programme structure JSON for a given programme code."""
+    programme_file = _PROGRAMME_DIR / f'{programme_code.upper()}.json'
+    try:
+        with open(programme_file, 'r') as f:
+            return json.load(f)
+    except FileNotFoundError:
+        return None
+
+
+def get_max_semesters(programme_code: str | None) -> int:
+    """Get maximum semesters for a programme (8 for B.Tech, 10 for Dual/M.Tech)."""
+    if not programme_code:
+        return 8
     
-    return {"access_token": access_token, "token_type": "bearer"}
+    programme = get_programme_structure(programme_code)
+    if programme and programme.get("dual"):
+        return 10
+    
+    # Check if M.Tech or Dual based on code patterns
+    code_lower = programme_code.lower()
+    if any(code_lower.startswith(p) for p in ["ch7", "cs5", "mt6"]):  # Dual degrees
+        return 10
+    if len(code_lower) == 3 and code_lower[2].isalpha():  # M.Tech patterns like "che", "mcs"
+        return 4  # M.Tech is typically 4 semesters
+    
+    return 8  # Default for B.Tech
+
+
+def calculate_current_semester(year_of_joining: int | None) -> int:
+    """Calculate estimated current semester based on year of joining."""
+    if not year_of_joining:
+        return 1
+    
+    from datetime import datetime
+    current_year = datetime.now().year
+    current_month = datetime.now().month
+    
+    # Academic year starts in August
+    academic_years_completed = current_year - year_of_joining
+    if current_month >= 8:  # After August, new academic year
+        academic_years_completed += 1
+    
+    # Each academic year has 2 semesters
+    current_semester = academic_years_completed * 2
+    if current_month >= 1 and current_month < 8:
+        # Spring semester (Jan-May) is the even semester
+        pass  # Already correct
+    else:
+        # Fall semester (Aug-Dec) is the odd semester
+        current_semester -= 1
+    
+    return max(1, min(current_semester, 10))
+
+
+@app.get("/user/profile", response_model=schemas.UserProfileResponse, tags=["User Profile"])
+def get_user_profile(current_user: models.User = Depends(auth.get_current_user)):
+    """
+    Get the current user's profile information.
+    
+    Returns user data including parsed kerberos info and programme details.
+    """
+    kerberos_info = parse_kerberos(current_user.kerberos)
+    programme_code = kerberos_info.get("programme_code")
+    
+    return schemas.UserProfileResponse(
+        id=current_user.id,
+        email=current_user.email,
+        name=current_user.name,
+        kerberos=current_user.kerberos,
+        entry_number=current_user.entry_number,
+        department=current_user.department,
+        hostel=current_user.hostel,
+        category=current_user.category,
+        programme_code=programme_code,
+        programme_name=kerberos_info.get("programme_name"),
+        year_of_joining=kerberos_info.get("year_of_joining"),
+        max_semesters=get_max_semesters(programme_code),
+    )
+
+
+@app.get("/user/courses", response_model=schemas.UserCoursesResponse, tags=["User Profile"])
+def get_user_courses(current_user: models.User = Depends(auth.get_current_user)):
+    """
+    Get the current user's courses grouped by semester.
+    """
+    if current_user.id is None:
+        raise HTTPException(status_code=500, detail="Invalid user id")
+    
+    courses = crud.get_user_courses(int(current_user.id))
+    # Convert int keys to string keys for JSON
+    courses_str_keys = {str(k): v for k, v in courses.items()}
+    return schemas.UserCoursesResponse(courses=courses_str_keys)
+
+
+@app.put("/user/courses", response_model=schemas.UserCoursesUpdateResponse, tags=["User Profile"])
+def update_user_courses(
+    request: schemas.UserCoursesUpdateRequest,
+    current_user: models.User = Depends(auth.get_current_user)
+):
+    """
+    Update the current user's courses.
+    
+    Validates each course code against the courses database.
+    Invalid courses are reported but not saved.
+    """
+    if current_user.id is None:
+        raise HTTPException(status_code=500, detail="Invalid user id")
+    
+    user_id = int(current_user.id)
+    
+    # Validate all courses first
+    valid_courses: dict[int, list[str]] = {}
+    all_valid: list[str] = []
+    all_invalid: list[str] = []
+    
+    for semester_str, course_codes in request.courses.items():
+        try:
+            semester = int(semester_str)
+        except ValueError:
+            continue  # Skip invalid semester keys
+        
+        valid_courses[semester] = []
+        for code in course_codes:
+            code = code.upper().strip()
+            if not code:
+                continue
+            if crud.validate_course_code(code):
+                valid_courses[semester].append(code)
+                all_valid.append(code)
+            else:
+                all_invalid.append(code)
+    
+    # Save valid courses
+    saved = crud.set_user_courses(user_id, valid_courses)
+    saved_str_keys = {str(k): v for k, v in saved.items()}
+    
+    return schemas.UserCoursesUpdateResponse(
+        courses=saved_str_keys,
+        validation=schemas.CourseValidationResult(valid=all_valid, invalid=all_invalid)
+    )
+
+
+@app.get("/user/courses/defaults", response_model=schemas.DefaultCoursesResponse, tags=["User Profile"])
+def get_default_courses(current_user: models.User = Depends(auth.get_current_user)):
+    """
+    Get default courses from programme structure for completed semesters.
+    
+    Returns the recommended courses from the user's programme structure
+    for semesters 1 through (current semester - 1).
+    """
+    kerberos_info = parse_kerberos(current_user.kerberos)
+    programme_code = kerberos_info.get("programme_code")
+    year_of_joining = kerberos_info.get("year_of_joining")
+    
+    current_semester = calculate_current_semester(year_of_joining)
+    completed_semesters = max(0, current_semester - 1)
+    
+    courses: dict[str, list[str]] = {}
+    programme_name = kerberos_info.get("programme_name")
+    
+    if programme_code:
+        programme = get_programme_structure(programme_code)
+        if programme:
+            programme_name = programme.get("name", programme_name)
+            recommended = programme.get("recommended", [])
+            
+            # Get courses for completed semesters only
+            for i, semester_courses in enumerate(recommended):
+                semester_num = i + 1  # 1-indexed
+                if semester_num <= completed_semesters:
+                    courses[str(semester_num)] = semester_courses
+    
+    return schemas.DefaultCoursesResponse(
+        programme_code=programme_code,
+        programme_name=programme_name,
+        year_of_joining=year_of_joining,
+        current_semester=current_semester,
+        courses=courses,
+    )
+
+
+@app.get("/courses/search", response_model=schemas.CourseSearchResponse, tags=["User Profile"])
+def search_courses(
+    q: str,
+    current_user: models.User = Depends(auth.get_current_user)
+):
+    """
+    Search courses by code prefix for autocomplete.
+    
+    - **q**: Course code prefix to search (e.g., "COL", "MT")
+    
+    Returns up to 20 matching courses.
+    """
+    if len(q) < 2:
+        return schemas.CourseSearchResponse(courses=[])
+    
+    results = crud.search_courses_by_prefix(q)
+    return schemas.CourseSearchResponse(
+        courses=[schemas.CourseSearchResult(code=r["code"], name=r["name"]) for r in results]
+    )
 
 
 @app.post("/chats", response_model=schemas.ChatRead, tags=["Chat Management"])
@@ -582,8 +798,7 @@ def create_new_chat_with_message(
         if assistant_text is None:
             assistant_text = ""
     except Exception as e:
-        # Log the exception (print for now). In production, integrate structured logging.
-        print("Agent invocation failed:", e)
+        logger.error(f"Agent invocation failed: {e}", exc_info=True)
         raise HTTPException(status_code=502, detail="Agent failed to respond")
     
     assistant_msg = crud.create_message(chat_id=chat.id, sender="assistant", content=assistant_text)
@@ -633,8 +848,7 @@ def send_message(
         if assistant_text is None:
             assistant_text = ""
     except Exception as e:
-        # Log the exception (print for now). In production, integrate structured logging.
-        print("Agent invocation failed:", e)
+        logger.error(f"Agent invocation failed: {e}", exc_info=True)
         raise HTTPException(status_code=502, detail="Agent failed to respond")
 
     assistant_msg = crud.create_message(chat_id=chat_id, sender="assistant", content=assistant_text)
@@ -687,7 +901,7 @@ async def send_message_stream(
             # Send completion event with message metadata
             yield f"data: {json.dumps({'done': True, 'message_id': str(assistant_msg.id)})}\n\n"
         except Exception as e:
-            print("Agent streaming failed:", e)
+            logger.error(f"Agent streaming failed: {e}", exc_info=True)
             yield f"data: {json.dumps({'error': str(e)})}\n\n"
     
     return StreamingResponse(
@@ -757,7 +971,7 @@ async def create_new_chat_with_message_stream(
             # Send completion event with message metadata
             yield f"data: {json.dumps({'done': True, 'message_id': str(assistant_msg.id)})}\n\n"
         except Exception as e:
-            print("Agent streaming failed:", e)
+            logger.error(f"Agent streaming failed: {e}", exc_info=True)
             yield f"data: {json.dumps({'error': str(e)})}\n\n"
     
     return StreamingResponse(
@@ -1085,6 +1299,8 @@ async def websocket_new_chat(websocket: WebSocket):
             await websocket.close()
             return
         
+        logger.info(f"[WEBSOCKET NEW] Created new chat_id={chat.id}, session_id={str(chat.id)}, user_id={current_user.id}")
+        
         # Send chat metadata
         await websocket.send_json({"type": "chat", "id": str(chat.id), "title": title_text})
         
@@ -1177,6 +1393,8 @@ async def websocket_existing_chat(websocket: WebSocket, chat_id: int):
         await websocket.send_json({"type": "error", "message": "Chat not found"})
         await websocket.close(code=4004)
         return
+    
+    logger.info(f"[WEBSOCKET EXISTING] chat_id={chat_id}, session_id={str(chat.id)}, user_id={current_user.id}")
     
     cancel_event = asyncio.Event()
     

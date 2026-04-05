@@ -1,0 +1,119 @@
+INFO:     Will watch for changes in these directories: ['/home/devansh/projects/chatiitd/backend']
+INFO:     Uvicorn running on http://0.0.0.0:3000 (Press CTRL+C to quit)
+INFO:     Started reloader process [2573591] using WatchFiles
+INFO:agentic_chatbot.agent:OpenRouter API Key configured: Yes
+INFO:agentic_chatbot.agent:Using model: qwen/qwen3.5-flash-02-23
+INFO:agentic_chatbot.agent:--- IIT Delhi Academic Chatbot Module Loaded (Model: qwen/qwen3.5-flash-02-23) ---
+INFO:     Started server process [2573594]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2573594]
+INFO:     Stopping reloader process [2573591]
+2026-04-05 18:34:58 - agentic_chatbot.agent - INFO - OpenRouter API Key configured: Yes
+2026-04-05 18:34:58 - agentic_chatbot.agent - INFO - Using model: qwen/qwen3.5-flash-02-23
+2026-04-05 18:34:58 - agentic_chatbot.agent - INFO - --- IIT Delhi Academic Chatbot Module Loaded (Model: qwen/qwen3.5-flash-02-23) ---
+2026-04-05 18:35:08 - agentic_chatbot.agent - INFO - OpenRouter API Key configured: Yes
+2026-04-05 18:35:08 - agentic_chatbot.agent - INFO - Using model: qwen/qwen3.5-flash-02-23
+2026-04-05 18:35:08 - agentic_chatbot.agent - INFO - --- IIT Delhi Academic Chatbot Module Loaded (Model: qwen/qwen3.5-flash-02-23) ---
+2026-04-05 18:35:17 - agentic_chatbot.agent - INFO - OpenRouter API Key configured: Yes
+2026-04-05 18:35:17 - agentic_chatbot.agent - INFO - Using model: qwen/qwen3.5-flash-02-23
+2026-04-05 18:35:17 - agentic_chatbot.agent - INFO - --- IIT Delhi Academic Chatbot Module Loaded (Model: qwen/qwen3.5-flash-02-23) ---
+2026-04-05 18:35:17 - backend.main - INFO - ============================================================
+2026-04-05 18:35:17 - backend.main - INFO - IITD Agent Backend API Server Started
+2026-04-05 18:35:17 - backend.main - INFO - ============================================================
+2026-04-05 18:35:17 - backend.main - INFO - Swagger UI: http://localhost:8000/docs
+2026-04-05 18:35:17 - backend.main - INFO - ReDoc: http://localhost:8000/redoc
+2026-04-05 18:35:17 - backend.main - INFO - ============================================================
+2026-04-05 18:35:26 - agentic_chatbot.agent - INFO - OpenRouter API Key configured: Yes
+2026-04-05 18:35:26 - agentic_chatbot.agent - INFO - Using model: qwen/qwen3.5-flash-02-23
+2026-04-05 18:35:27 - agentic_chatbot.agent - INFO - --- IIT Delhi Academic Chatbot Module Loaded (Model: qwen/qwen3.5-flash-02-23) ---
+2026-04-05 18:35:27 - backend.main - INFO - ============================================================
+2026-04-05 18:35:27 - backend.main - INFO - IITD Agent Backend API Server Started
+2026-04-05 18:35:27 - backend.main - INFO - ============================================================
+2026-04-05 18:35:27 - backend.main - INFO - Swagger UI: http://localhost:8000/docs
+2026-04-05 18:35:27 - backend.main - INFO - ReDoc: http://localhost:8000/redoc
+2026-04-05 18:35:27 - backend.main - INFO - ============================================================
+2026-04-05 18:35:36 - agentic_chatbot.agent - INFO - OpenRouter API Key configured: Yes
+2026-04-05 18:35:36 - agentic_chatbot.agent - INFO - Using model: qwen/qwen3.5-flash-02-23
+2026-04-05 18:35:36 - agentic_chatbot.agent - INFO - --- IIT Delhi Academic Chatbot Module Loaded (Model: qwen/qwen3.5-flash-02-23) ---
+2026-04-05 18:35:36 - backend.main - INFO - ============================================================
+2026-04-05 18:35:36 - backend.main - INFO - IITD Agent Backend API Server Started
+2026-04-05 18:35:36 - backend.main - INFO - ============================================================
+2026-04-05 18:35:36 - backend.main - INFO - Swagger UI: http://localhost:8000/docs
+2026-04-05 18:35:36 - backend.main - INFO - ReDoc: http://localhost:8000/redoc
+2026-04-05 18:35:36 - backend.main - INFO - ============================================================
+2026-04-05 18:35:45 - agentic_chatbot.agent - INFO - OpenRouter API Key configured: Yes
+2026-04-05 18:35:45 - agentic_chatbot.agent - INFO - Using model: qwen/qwen3.5-flash-02-23
+2026-04-05 18:35:45 - agentic_chatbot.agent - INFO - --- IIT Delhi Academic Chatbot Module Loaded (Model: qwen/qwen3.5-flash-02-23) ---
+2026-04-05 18:35:45 - backend.main - INFO - ============================================================
+2026-04-05 18:35:45 - backend.main - INFO - IITD Agent Backend API Server Started
+2026-04-05 18:35:45 - backend.main - INFO - ============================================================
+2026-04-05 18:35:45 - backend.main - INFO - Swagger UI: http://localhost:8000/docs
+2026-04-05 18:35:45 - backend.main - INFO - ReDoc: http://localhost:8000/redoc
+2026-04-05 18:35:45 - backend.main - INFO - ============================================================
+2026-04-05 18:36:03 - agentic_chatbot.agent - INFO - OpenRouter API Key configured: Yes
+2026-04-05 18:36:03 - agentic_chatbot.agent - INFO - Using model: qwen/qwen3.5-flash-02-23
+2026-04-05 18:36:03 - agentic_chatbot.agent - INFO - --- IIT Delhi Academic Chatbot Module Loaded (Model: qwen/qwen3.5-flash-02-23) ---
+2026-04-05 18:36:03 - backend.main - INFO - ============================================================
+2026-04-05 18:36:03 - backend.main - INFO - IITD Agent Backend API Server Started
+2026-04-05 18:36:03 - backend.main - INFO - ============================================================
+2026-04-05 18:36:03 - backend.main - INFO - Swagger UI: http://localhost:8000/docs
+2026-04-05 18:36:03 - backend.main - INFO - ReDoc: http://localhost:8000/redoc
+2026-04-05 18:36:03 - backend.main - INFO - ============================================================
+2026-04-05 18:36:17 - agentic_chatbot.agent - INFO - OpenRouter API Key configured: Yes
+2026-04-05 18:36:17 - agentic_chatbot.agent - INFO - Using model: qwen/qwen3.5-flash-02-23
+2026-04-05 18:36:17 - agentic_chatbot.agent - INFO - --- IIT Delhi Academic Chatbot Module Loaded (Model: qwen/qwen3.5-flash-02-23) ---
+2026-04-05 18:36:17 - backend.main - INFO - ============================================================
+2026-04-05 18:36:17 - backend.main - INFO - IITD Agent Backend API Server Started
+2026-04-05 18:36:17 - backend.main - INFO - ============================================================
+2026-04-05 18:36:17 - backend.main - INFO - Swagger UI: http://localhost:8000/docs
+2026-04-05 18:36:17 - backend.main - INFO - ReDoc: http://localhost:8000/redoc
+2026-04-05 18:36:17 - backend.main - INFO - ============================================================
+2026-04-05 18:36:27 - agentic_chatbot.agent - INFO - OpenRouter API Key configured: Yes
+2026-04-05 18:36:27 - agentic_chatbot.agent - INFO - Using model: qwen/qwen3.5-flash-02-23
+2026-04-05 18:36:27 - agentic_chatbot.agent - INFO - --- IIT Delhi Academic Chatbot Module Loaded (Model: qwen/qwen3.5-flash-02-23) ---
+2026-04-05 18:36:28 - backend.main - INFO - ============================================================
+2026-04-05 18:36:28 - backend.main - INFO - IITD Agent Backend API Server Started
+2026-04-05 18:36:28 - backend.main - INFO - ============================================================
+2026-04-05 18:36:28 - backend.main - INFO - Swagger UI: http://localhost:8000/docs
+2026-04-05 18:36:28 - backend.main - INFO - ReDoc: http://localhost:8000/redoc
+2026-04-05 18:36:28 - backend.main - INFO - ============================================================
+2026-04-05 18:36:37 - agentic_chatbot.agent - INFO - OpenRouter API Key configured: Yes
+2026-04-05 18:36:37 - agentic_chatbot.agent - INFO - Using model: qwen/qwen3.5-flash-02-23
+2026-04-05 18:36:37 - agentic_chatbot.agent - INFO - --- IIT Delhi Academic Chatbot Module Loaded (Model: qwen/qwen3.5-flash-02-23) ---
+2026-04-05 18:36:37 - backend.main - INFO - ============================================================
+2026-04-05 18:36:37 - backend.main - INFO - IITD Agent Backend API Server Started
+2026-04-05 18:36:37 - backend.main - INFO - ============================================================
+2026-04-05 18:36:37 - backend.main - INFO - Swagger UI: http://localhost:8000/docs
+2026-04-05 18:36:37 - backend.main - INFO - ReDoc: http://localhost:8000/redoc
+2026-04-05 18:36:37 - backend.main - INFO - ============================================================
+2026-04-05 18:36:46 - agentic_chatbot.agent - INFO - OpenRouter API Key configured: Yes
+2026-04-05 18:36:46 - agentic_chatbot.agent - INFO - Using model: qwen/qwen3.5-flash-02-23
+2026-04-05 18:36:46 - agentic_chatbot.agent - INFO - --- IIT Delhi Academic Chatbot Module Loaded (Model: qwen/qwen3.5-flash-02-23) ---
+2026-04-05 18:36:46 - backend.main - INFO - ============================================================
+2026-04-05 18:36:46 - backend.main - INFO - IITD Agent Backend API Server Started
+2026-04-05 18:36:46 - backend.main - INFO - ============================================================
+2026-04-05 18:36:46 - backend.main - INFO - Swagger UI: http://localhost:8000/docs
+2026-04-05 18:36:46 - backend.main - INFO - ReDoc: http://localhost:8000/redoc
+2026-04-05 18:36:46 - backend.main - INFO - ============================================================
+2026-04-05 18:36:55 - agentic_chatbot.agent - INFO - OpenRouter API Key configured: Yes
+2026-04-05 18:36:55 - agentic_chatbot.agent - INFO - Using model: qwen/qwen3.5-flash-02-23
+2026-04-05 18:36:55 - agentic_chatbot.agent - INFO - --- IIT Delhi Academic Chatbot Module Loaded (Model: qwen/qwen3.5-flash-02-23) ---
+2026-04-05 18:36:55 - backend.main - INFO - ============================================================
+2026-04-05 18:36:55 - backend.main - INFO - IITD Agent Backend API Server Started
+2026-04-05 18:36:55 - backend.main - INFO - ============================================================
+2026-04-05 18:36:55 - backend.main - INFO - Swagger UI: http://localhost:8000/docs
+2026-04-05 18:36:55 - backend.main - INFO - ReDoc: http://localhost:8000/redoc
+2026-04-05 18:36:55 - backend.main - INFO - ============================================================
+2026-04-05 19:52:10 - agentic_chatbot.agent - INFO - OpenRouter API Key configured: Yes
+2026-04-05 19:52:10 - agentic_chatbot.agent - INFO - Using model: qwen/qwen3.5-flash-02-23
+2026-04-05 19:52:10 - agentic_chatbot.agent - INFO - --- IIT Delhi Academic Chatbot Module Loaded (Model: qwen/qwen3.5-flash-02-23) ---
+2026-04-05 19:52:10 - backend.main - INFO - ============================================================
+2026-04-05 19:52:10 - backend.main - INFO - IITD Agent Backend API Server Started
+2026-04-05 19:52:10 - backend.main - INFO - ============================================================
+2026-04-05 19:52:10 - backend.main - INFO - Swagger UI: http://localhost:8000/docs
+2026-04-05 19:52:10 - backend.main - INFO - ReDoc: http://localhost:8000/redoc
+2026-04-05 19:52:10 - backend.main - INFO - ============================================================

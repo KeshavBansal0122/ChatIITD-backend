@@ -21,9 +21,10 @@ RUN pip install --upgrade pip \
 
 COPY . /app
 
-RUN mkdir -p /app/data
+RUN mkdir -p /app/data /app/uploads
 
-ENV DATABASE_URL=sqlite:///data/messages.db
-EXPOSE 3000
+# Default to PostgreSQL (override with environment variable)
+ENV DATABASE_URL=postgresql://chatiitd:chatiitd_dev@postgres:5432/chatiitd
+EXPOSE 8000
 
-CMD ["uvicorn", "backend.main:app", "--host", "0.0.0.0", "--port", "3000"]
+CMD ["uvicorn", "backend.main:app", "--host", "0.0.0.0", "--port", "8000"]
