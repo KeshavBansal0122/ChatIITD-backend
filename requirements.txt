@@ -12,6 +12,7 @@ openai>=1.102.0
 # Database
 SQLAlchemy==2.0.29
 sqlmodel==0.0.27
+psycopg2-binary>=2.9.9  # PostgreSQL driver
 qdrant-client==1.10.1
 
 # Authentication

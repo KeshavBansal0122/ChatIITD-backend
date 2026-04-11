@@ -1,19 +1,21 @@
 services:
-  # backend:
-  #   build:
-  #     context: .
-  #     dockerfile: Dockerfile
-  #   env_file:
-  #     - .env
-  #   environment:
-  #     DATABASE_URL: sqlite:///data/messages.db
-  #     QDRANT_URL: http://qdrant:6333
-  #   ports:
-  #     - "3000:3000"
-  #   volumes:
-  #     - backend-data:/app/data
-  #   depends_on:
-  #     - qdrant
+  postgres:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: chatiitd
+      POSTGRES_PASSWORD: chatiitd_dev
+      POSTGRES_DB: chatiitd
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U chatiitd -d chatiitd"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
   qdrant:
     image: qdrant/qdrant:latest
     restart: unless-stopped
@@ -22,7 +24,6 @@ services:
       - "6334:6334"
     volumes:
       - qdrant-storage:/qdrant/storage
-      # - ./snapshots:/qdrant/snapshots
 
   qdrant-init:
     image: python:3.11-slim
@@ -35,6 +36,24 @@ services:
     command: >
       sh -c "pip install requests && python /snapshots/restore.py"
 
+  # Uncomment to run backend in Docker
+  # backend:
+  #   build:
+  #     context: .
+  #     dockerfile: Dockerfile
+  #   env_file:
+  #     - .env
+  #   environment:
+  #     DATABASE_URL: postgresql://chatiitd:chatiitd_dev@postgres:5432/chatiitd
+  #     QDRANT_URL: http://qdrant:6333
+  #   ports:
+  #     - "8000:8000"
+  #   depends_on:
+  #     postgres:
+  #       condition: service_healthy
+  #     qdrant:
+  #       condition: service_started
+
 volumes:
-  backend-data:
+  postgres-data:
   qdrant-storage:

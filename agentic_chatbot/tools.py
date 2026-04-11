@@ -4,22 +4,21 @@ These are plain Python functions with OpenAI-compatible tool schemas.
 """
 
 import json
-import sqlite3
 from pathlib import Path
+from backend.courses_db import run_select_query, get_courses_by_codes, get_offerings_for_codes
 
 # Get the directory containing this file (agentic_chatbot/)
 _THIS_DIR = Path(__file__).parent.resolve()
 # Get the backend directory (parent of agentic_chatbot/)
 _BACKEND_DIR = _THIS_DIR.parent
 
-# Paths to data files
+# Paths to static data files (rules and programme structures — not in DB)
 _SOURCES_DIR = _BACKEND_DIR / "sources"
 _JSONL_DIR = _SOURCES_DIR / "jsonl"
 _PROGRAMME_DIR = _SOURCES_DIR / "programme_structures"
-_COURSES_DB = _BACKEND_DIR / "courses.sqlite"
 
 
-# Load documents
+# Load static documents (rules only — courses/offerings come from PostgreSQL)
 def read_jsonl(filename):
     res = []
     with open(filename, 'r') as f:
@@ -29,8 +28,6 @@ def read_jsonl(filename):
 
 
 rules_sections = read_jsonl(_JSONL_DIR / 'all_rules.jsonl')
-courses = read_jsonl(_JSONL_DIR / 'courses.jsonl')
-offerings = read_jsonl(_JSONL_DIR / 'courses_offered.jsonl')
 
 # Load programme prompt
 programme_prompt = ''
@@ -46,21 +43,13 @@ def get_course_data(course_codes: list[str]) -> str:
     """
     Fetches information about specific courses offered at IIT Delhi.
     """
-    codes = [code.strip().lower() for code in course_codes]
-    courses_found = [course for course in courses if course['code'].lower() in codes]
+    codes = [code.strip() for code in course_codes]
+    courses_found = get_courses_by_codes(codes)
     if courses_found:
-        offered = [
-            {
-                'course_code': o['course_code'],
-                'year': o['year'],
-                'semester': o['semester'],
-                'instructor': o['instructor']
-            }
-            for o in offerings if o['course_code'].lower().startswith(tuple(codes))
-        ]
+        offered = get_offerings_for_codes(codes)
         return json.dumps({
             "courses": courses_found,
-            "offerings": offered
+            "offerings": offered,
         })
     else:
         return "Course not found."
@@ -71,20 +60,7 @@ def query_sqlite_db(query: str) -> str:
     Executes SQL queries on the 'courses.sqlite' database.
     Only SELECT queries are allowed.
     """
-    if not query.strip().lower().startswith('select'):
-        return "Invalid. Only SELECT queries are allowed."
-    try:
-        db_uri = f'file:{_COURSES_DB}?mode=ro'
-        conn = sqlite3.connect(db_uri, uri=True)
-        cursor = conn.cursor()
-        cursor.execute(query)
-        rows = cursor.fetchall()
-        columns = [description[0] for description in cursor.description]
-        results = [dict(zip(columns, row)) for row in rows]
-        conn.close()
-        return json.dumps(results)
-    except Exception as e:
-        return f"An error occurred: {str(e)}"
+    return run_select_query(query)
 
 
 def get_programme_structure(programme_code: str) -> str:
@@ -142,24 +118,37 @@ def search_courses(query: str) -> str:
     """
     Searches for courses that match the query string in name or description.
     """
-    query_lower = query.lower()
-    matching_courses = []
-    
-    for course in courses:
-        name = course.get('name', '').lower()
-        description = course.get('description', '').lower()
-        code = course.get('code', '').lower()
-        
-        if query_lower in name or query_lower in description or query_lower in code:
-            matching_courses.append({
-                'code': course.get('code'),
-                'name': course.get('name'),
-                'credits': course.get('credits'),
-                'description': course.get('description', '')[:300] + '...' if len(course.get('description', '')) > 300 else course.get('description', '')
-            })
-    
-    if matching_courses:
-        return json.dumps(matching_courses[:10])  # Return top 10 matches
+    from backend.models import Course, get_session
+    from sqlmodel import select, or_
+
+    query_lower = f"%{query.lower()}%"
+    try:
+        with get_session() as sess:
+            stmt = (
+                select(Course)
+                .where(
+                    or_(
+                        Course.name.ilike(query_lower),       # type: ignore[attr-defined]
+                        Course.description.ilike(query_lower), # type: ignore[attr-defined]
+                        Course.code.ilike(query_lower),        # type: ignore[attr-defined]
+                    )
+                )
+                .limit(10)
+            )
+            results = sess.exec(stmt).all()
+            if results:
+                matching_courses = [
+                    {
+                        "code": c.code,
+                        "name": c.name,
+                        "credits": c.credits,
+                        "description": (c.description or "")[:300] + "..." if len(c.description or "") > 300 else (c.description or ""),
+                    }
+                    for c in results
+                ]
+                return json.dumps(matching_courses)
+    except Exception as e:
+        return f"An error occurred while searching courses: {str(e)}"
     return "No matching courses found."
 
 
@@ -204,21 +193,22 @@ OUTPUT: JSON with course details (name, credits, description, prerequisites) and
 WHEN TO USE: Use when querying courses by structured fields like department, slot, credits, instructor, or year - NOT for topic-based searches.
 
 SCHEMA:
-- courses(code, name, description, hours_lecture, hours_tutorial, hours_practical, credits, prereq, overlap)
-- offerings(id, code, year, semester, coordinator, slot)
+- course(code, name, description, hours_lecture, hours_tutorial, hours_practical, credits, prereq, overlap)
+- courseoffering(id, code, year, semester, instructor, slot)
+- courseoverlap(id, code_1, code_2)
 
 COMMON QUERIES:
-1. Courses by department: SELECT code, name, credits FROM courses WHERE code LIKE 'CO%'
-2. Courses by slot: SELECT c.code, c.name FROM courses c JOIN offerings o ON c.code = o.code WHERE o.slot = 'A'
-3. Courses by credits: SELECT code, name FROM courses WHERE credits = 4
-4. Course offerings: SELECT * FROM offerings WHERE code = 'COL100'
-5. Courses by instructor: SELECT code FROM offerings WHERE coordinator LIKE '%Kumar%'
+1. Courses by department: SELECT code, name, credits FROM course WHERE code LIKE 'CO%'
+2. Courses by slot: SELECT c.code, c.name FROM course c JOIN courseoffering o ON c.code = o.code WHERE o.slot = 'A'
+3. Courses by credits: SELECT code, name FROM course WHERE credits = 4
+4. Course offerings: SELECT * FROM courseoffering WHERE code = 'COL100'
+5. Courses by instructor: SELECT code FROM courseoffering WHERE instructor LIKE '%Kumar%'
 
 DEPARTMENT PREFIXES: CO (CS), EL (EE), MC (ME), CV (CE), CL (CH), MT (Math), PY (Physics), CM (Chemistry), BB (Biotech), AP (Applied Mech), TX (Textile), DD (Design), HU/HS (HSS), MS (Materials), AI (AI), ES (Energy)
 
 NOTE: 
 - Only SELECT queries allowed
-- Avoid SELECT * on courses; exclude 'description' field unless specifically needed""",
+- Avoid SELECT * on course; exclude 'description' field unless specifically needed""",
             "parameters": {
                 "type": "object",
                 "properties": {

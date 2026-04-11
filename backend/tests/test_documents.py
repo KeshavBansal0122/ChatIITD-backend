@@ -63,12 +63,12 @@ TEST_DB_PATH = PROJECT_ROOT / "test_messages.db"
 def fresh_db():
     """Create a fresh database for every test, tearing down afterwards."""
     TEST_DB_PATH.unlink(missing_ok=True)
-    # Reset engines so they pick up the fresh file
+    # Reset the engine singleton so it picks up the fresh test database
     models.DATABASE_URL = "sqlite:///test_messages.db"
-    models.ENGINE = models.get_engine()
-    crud.ENGINE = models.ENGINE
+    models._engine = None  # force get_engine() to recreate with new URL
     models.init_db()
     yield
+    models._engine = None  # reset after test
     TEST_DB_PATH.unlink(missing_ok=True)
 
 
@@ -80,8 +80,8 @@ def admin_user():
         "name": "Admin User",
         "picture": None,
     })
-    from sqlmodel import Session
-    with Session(models.ENGINE) as sess:
+    from backend.models import get_session
+    with get_session() as sess:
         db_user = sess.get(models.User, user.id)
         db_user.role = "admin"
         sess.add(db_user)

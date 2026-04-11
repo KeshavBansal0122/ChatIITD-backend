@@ -7,18 +7,21 @@ with the OpenAI SDK. It implements a ReAct-style agent with tool calling capabil
 
 import os
 import json
-import sqlite3
-import logging
 from typing import AsyncGenerator
+from pathlib import Path
 from openai import OpenAI, AsyncOpenAI
 from dotenv import load_dotenv
 
 from .tools import TOOLS, TOOL_MAPPING, execute_tool
 
-
-# Set up logging
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
+# Import logging from backend if available, otherwise use standard logging
+try:
+    from backend.logging_config import get_logger
+    logger = get_logger(__name__)
+except ImportError:
+    import logging
+    logging.basicConfig(level=logging.INFO)
+    logger = logging.getLogger(__name__)
 
 
 # Load environment variables from a .env file
@@ -54,7 +57,8 @@ async_client = AsyncOpenAI(
 # =====================
 
 # Load the base system prompt
-with open('agentic_chatbot/system_prompt.txt', 'r') as file:
+_AGENT_DIR = Path(__file__).resolve().parent
+with open(_AGENT_DIR / 'system_prompt.txt', 'r') as file:
     BASE_SYSTEM_PROMPT = file.read()
 
 
@@ -78,6 +82,8 @@ def build_system_prompt(user_context: dict | None = None) -> str:
             user_info_parts.append(f"Year of Joining: {user_context['year_of_joining']}")
         if user_context.get("hostel"):
             user_info_parts.append(f"Hostel: {user_context['hostel']}")
+        if user_context.get("courses_done"):
+            user_info_parts.append(f"Courses Done: {json.dumps(user_context['courses_done'])}")
         
         if user_info_parts:
             user_context_section = "\n\n---\n\n## **User Context**\n\nYou are currently assisting the following user:\n" + "\n".join(f"- {part}" for part in user_info_parts)
@@ -87,79 +93,51 @@ def build_system_prompt(user_context: dict | None = None) -> str:
 
 
 # =====================
-# Chat History Management (SQLite)
+# Chat History Management (via central database)
 # =====================
 
-def get_db_connection():
-    """Get a connection to the messages database."""
-    return sqlite3.connect('messages.db')
-
-
-def init_message_history_db():
-    """Initialize the message history database if it doesn't exist."""
-    conn = get_db_connection()
-    cursor = conn.cursor()
-    cursor.execute('''
-        CREATE TABLE IF NOT EXISTS message_history (
-            id INTEGER PRIMARY KEY AUTOINCREMENT,
-            session_id TEXT NOT NULL,
-            role TEXT NOT NULL,
-            content TEXT,
-            tool_calls TEXT,
-            tool_call_id TEXT,
-            name TEXT,
-            created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-        )
-    ''')
-    conn.commit()
-    conn.close()
-
-
-# Initialize the database on module load
-init_message_history_db()
-
-
 def get_chat_history(session_id: str) -> list[dict]:
-    """Retrieve chat history for a session."""
-    conn = get_db_connection()
-    cursor = conn.cursor()
-    cursor.execute('''
-        SELECT role, content, tool_calls, tool_call_id, name
-        FROM message_history
-        WHERE session_id = ?
-        ORDER BY created_at ASC
-    ''', (session_id,))
+    """Retrieve chat history for a session from the central database."""
+    from backend.models import MessageHistory, get_session
+    from sqlmodel import select
+    
+    logger.info(f"[GET_CHAT_HISTORY] Retrieving history for session_id={session_id}")
     
     messages = []
-    for row in cursor.fetchall():
-        role, content, tool_calls, tool_call_id, name = row
-        message = {"role": role}
+    with get_session() as session:
+        statement = select(MessageHistory).where(
+            MessageHistory.session_id == session_id
+        ).order_by(MessageHistory.created_at)
         
-        if content is not None:
-            message["content"] = content
+        results = session.exec(statement).all()
         
-        if tool_calls:
-            message["tool_calls"] = json.loads(tool_calls)
-            # For assistant messages with tool_calls, content should be null or omitted
-            if role == "assistant" and not content:
-                message["content"] = None
-        
-        if tool_call_id:
-            message["tool_call_id"] = tool_call_id
-        
-        if name:
-            message["name"] = name
+        for row in results:
+            message = {"role": row.role}
             
-        messages.append(message)
+            if row.content is not None:
+                message["content"] = row.content
+            
+            if row.tool_calls:
+                message["tool_calls"] = json.loads(row.tool_calls)
+                # For assistant messages with tool_calls, content should be null or omitted
+                if row.role == "assistant" and not row.content:
+                    message["content"] = None
+            
+            if row.tool_call_id:
+                message["tool_call_id"] = row.tool_call_id
+            
+            if row.name:
+                message["name"] = row.name
+                
+            messages.append(message)
     
-    conn.close()
+    logger.info(f"[GET_CHAT_HISTORY] Retrieved {len(messages)} messages for session_id={session_id}")
     return messages
 
 
 def add_message_to_history(session_id: str, message: dict):
-    """Add a message to the chat history."""
-    conn = get_db_connection()
-    cursor = conn.cursor()
+    """Add a message to the chat history in the central database."""
+    from backend.models import MessageHistory, get_session
     
     tool_calls_json = None
     if "tool_calls" in message:
@@ -183,29 +161,28 @@ def add_message_to_history(session_id: str, message: dict):
                 tool_calls.append(tc)
         tool_calls_json = json.dumps(tool_calls)
     
-    cursor.execute('''
-        INSERT INTO message_history (session_id, role, content, tool_calls, tool_call_id, name)
-        VALUES (?, ?, ?, ?, ?, ?)
-    ''', (
-        session_id,
-        message.get("role"),
-        message.get("content"),
-        tool_calls_json,
-        message.get("tool_call_id"),
-        message.get("name")
-    ))
-    
-    conn.commit()
-    conn.close()
+    with get_session() as session:
+        history_entry = MessageHistory(
+            session_id=session_id,
+            role=message.get("role"),
+            content=message.get("content"),
+            tool_calls=tool_calls_json,
+            tool_call_id=message.get("tool_call_id"),
+            name=message.get("name")
+        )
+        session.add(history_entry)
+        session.commit()
 
 
 def clear_chat_history(session_id: str):
     """Clear chat history for a session."""
-    conn = get_db_connection()
-    cursor = conn.cursor()
-    cursor.execute('DELETE FROM message_history WHERE session_id = ?', (session_id,))
-    conn.commit()
-    conn.close()
+    from backend.models import MessageHistory, get_session
+    from sqlmodel import delete
+    
+    with get_session() as session:
+        statement = delete(MessageHistory).where(MessageHistory.session_id == session_id)
+        session.exec(statement)
+        session.commit()
 
 
 # =====================
@@ -253,10 +230,8 @@ def invoke_memory_agent(input_dict: dict, session_id: str | None = None, user_co
     Returns:
         dict with 'output' key containing the agent's response
     """
-    print('AGENT INVOKED, USER CONTEXT', user_context)
     user_message = input_dict.get("input", "")
-    logger.info(f"[invoke_memory_agent] Starting for message: {user_message[:100]}...")
-    logger.info(f"[invoke_memory_agent] Session ID: {session_id}")
+    logger.info(f"[invoke_memory_agent] Starting for session_id={session_id}, message: {user_message[:100]}...")
     
     system_prompt = build_system_prompt(user_context)
     
@@ -550,7 +525,7 @@ async def stream_memory_agent_with_status(
     import asyncio
     
     user_message = input_dict.get("input", "")
-    logger.info(f"[stream_with_status] Starting for message: {user_message[:100]}...")
+    logger.info(f"[STREAM_AGENT] Starting for session_id={session_id}, message: {user_message[:100]}...")
     
     system_prompt = build_system_prompt(user_context)
     
@@ -560,7 +535,7 @@ async def stream_memory_agent_with_status(
     # Add chat history if session_id is provided
     if session_id:
         history = get_chat_history(session_id)
-        logger.info(f"[stream_with_status] Loaded {len(history)} messages from history")
+        logger.info(f"[STREAM_AGENT] session_id={session_id}, loaded {len(history)} messages from history")
         messages.extend(history)
     
     # Add the current user message
