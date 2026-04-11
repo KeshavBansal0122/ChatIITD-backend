@@ -155,6 +155,7 @@ _**B.**_ _**Bachelor of Technology: (B.Tech.)**_
 |Electrical Engineering|B.Tech. in Electrical Engineering (Power and Automation)|~~**`EE3`**~~<br>|
 |Energy Science and Engineering|B.Tech. in Energy Engineering|~~**`ES1`**~~<br>|
 |Materials Science and Engineering|B.Tech. in Materials Engineering|~~**`MS1`**~~|
+2
 **common rules** Courses of Study 2024-2025
 |Mathematics|B. Tech. in Mathematics & Computing|MT1|
 |---|---|---|
@@ -218,7 +219,7 @@ Courses of Study 2024-2025 **common rules**
 |Interdisciplinary Programme|M.Tech. in Telecommunication Technology Management|~~**`JTM`**~~<br>|
 |Interdisciplinary Programme|M.Tech. in Robotics|~~**`JRB`**~~<br>|
 |Interdisciplinary Programme|M.Tech. in VLSI Design Tools and Technology (*)|~~**`JVL`**~~|
-**NOTE:** ***** **Sponsored programmes.** **[#]** **Temporarily suspended.**
+**NOTE: *Sponsored programmes.** **[#]** **Temporarily suspended.**
 |E. Master of Science (Research): M.S.(R)|Col2|Col3|
 |---|---|---|
 |**Department/Centre/School**|**Programme**|**Code**<br>|
@@ -306,10 +307,9 @@ may run for part of the semester. A student registers in advance for courses tha
 end of the semester a grade is awarded. On obtaining a pass grade, the student earns all the credits associated
 with the course while a fail grade does not get any credit. Partial credits are not awarded.
 Each course is denoted by a unique code consisting of three alphabets followed by three numerals:
-#### **`E L L 1 0 0`**
 |1 0 0|Col2|
 |---|---|
-|Level of the course as determined by<br>pre-requisite courses or number of earned<br>credits.<br><br>Unique identifcation<br>number for each course<br>}|Level of the course as determined by<br>pre-requisite courses or number of earned<br>credits.<br><br>Unique identifcation<br>number for each course<br>}|
+|Level of the course as determined by<br>pre-requisite courses or number of earned<br>credits.<br> <br>Unique identifcation<br>number for each course<br>}|Level of the course as determined by<br>pre-requisite courses or number of earned<br>credits.<br> <br>Unique identifcation<br>number for each course<br>}|
 |||
 ||Level of the course as determined by<br>pre-requisite courses or number of earned<br>credits.|
 |||
@@ -538,7 +538,8 @@ until he/she obtains the ‘S’ grade. The specific courses in which ‘S’ or
 students are:
 (i) Introduction to Engineering and Programme
 (ii) Language and Writing skills
-(iii) NCC / NSO OOo / NSS
+OOo
+(iii) NCC / NSO / NSS
 (iv) Professional Ethics and Social Responsibility
 (v) Communication Skills / Seminar
 (vi) Design / Practical Experience
@@ -553,8 +554,8 @@ The Earned Credits (E.C.) are defined as the sum of credits for courses in which
 grades. Points secured in a semester =Σ (Course credits × Grade point for all courses in which pass grade has
 been obtained). The SGPA is calculated on the basis of grades obtained in all courses the student registered for,
 in the particular semester, except audit courses.
-_Points secured in the semester_
 SGPA =
+_Points secured in the semester_
 _Credits registered in the semester, excluding audit and S/Z grade courses_
 The CGPA is calculated on the basis of pass grades obtained in all completed semesters, except audit courses
 and courses in which S/Z grade is awarded.
@@ -580,17 +581,18 @@ Earned credits in the semester (total of column 4) = 17
 Earned credits in the semester excluding audit and S/Z grade courses = 15
 Points secured in the semester (total of column 6) = 114
 Points secured in the semester in all passed courses _(total of column 6 and pass grade)_ = 106
-_Points secured in the semester_
+=
 114
 SGPA =
 = = 6.000
 _Credits registered in the semester, excluding audit and S/Z grade courses_ 19
+_Points secured in the semester_
+=
 106
 CGPA =
 = = 7.067
 _Cumulative earned credits, excluding audit and S/Z grade courses_ 15
 _Cumulative points secured in courses with pass grades_
-=
 Semester performance: Earned credits (E.C.) = 17 SGPA = 6.000
 Cumulative performance: Earned credits (E.C.) = 17 CGPA = 7.067
 _**Table 4 (b): Typical academic performance calculations -**_ **semester II**
@@ -614,17 +616,18 @@ Courses of Study 2024-2025 **common rules**
 Points secured in this semester in all passed courses _(total of column 6 & A-D grade)_ = 154
 Cumulative points secured = 106 (I semester) + 154 (this sem.) = 260
 Cumulative earned credits = 17 (I semester) + 20 (this sem.) = 37
-_Points secured in the semester_
+=
 154
 SGPA =
 CGPA =
-= = 7.647
-_Cumulative earned credits, excluding audit and S/Z grade courses_ 15 + 19
 = = 8.105
 _Credits registered in the semester, excluding audit and S/Z grade courses_ 19
+= = 7.647
+_Cumulative earned credits, excluding audit and S/Z grade courses_ 15 + 19
+_Points secured in the semester_
 _Cumulative points secured in courses with pass grades_
-106 + 154
 =
+106 + 154
 Semester performance: Earned credits (E.C.) = 20 SGPA = 8.105
 Cumulative performance: Earned credits (E.C.) = 37 CGPA = 7.647
 On completing all the degree requirements, the degree grade point average, DGPA, will be calculated and this

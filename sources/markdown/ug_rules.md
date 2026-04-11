@@ -194,7 +194,7 @@ _**Table 3: Components of Non-Graded Core Requirement for B.Tech. and Dual Degre
 |5|Professional Ethics and Social Responsibility|1|2|
 |6|Design and Practical Experience|3|5|
 ||**_Total_**|**_11_**|**_11_**|
-***** **NGU in case of B.Des. programme will be updated later.**
+***NGU in case of B.Des. programme will be updated later.**
 The 11 units listed in Table 3 will be core requirement for students of all undergraduate programmes with entry
 year 2020 or later. A student must earn these 11 units over the complete duration of the programme with special
 requirements for each component as explained in Section 4. A student must get ‘S’ grades to earn these units.
@@ -604,8 +604,7 @@ of the Minor Area or Departmental / Interdisciplinary specialization. A student 
 Specialization being applied for.
 The maximum number of credits per semester may be relaxed upto 28 by Dean, Acaemics for those students who
 apply for capability-linked option through proper channel.
-## **2.1 Minor Areas**
-**2.1.1 Minor Area in Atmospheric Sciences (Centre for**
+**Minor Area in Atmospheric Sciences (Centre for**
 **Atmospheric Sciences)**
 **Minor Area Core**
 ASL320 Climate Change: Impacts, Adaptation and 3 0 2 4
@@ -649,7 +648,7 @@ ASV892 An Introduction to Renewable Energy 1 0 0 1
 Meteorology
 ASL822 Climate Variability 3 0 0 3
 ASL823 Geophysical Fluid Dynamics 3 0 0 3
-**2.1.2 Minor Area in Biological Sciences (Kusuma School**
+**Minor Area in Biological Sciences (Kusuma School**
 **of Biological Sciences)**
 **Minor Area Core**
 SBL201 High-Dimensional Biology 3 0 0 3
@@ -693,7 +692,7 @@ Identification
 SBL802 Macromolecular Structure and Data Processing 3 0 0 3
 SBV898 Techniques in Mammalian Cell Culture 3 0 0 3
 SBV899 Assays in Drug Development 1 0 0 1
-**2.1.3 Minor Area in Business Management (Department of**
+**Minor Area in Business Management (Department of**
 **Management Studies)**
 **Minor Area Core (All four courses leading to 12 credits)**
 MSL301 Organizational & People Management 3 0 0 3
@@ -853,7 +852,7 @@ MSL718 Management of Blockchain Technology 1.5 0 0 1.5
 MSL782 Business Cycles and Global Economy 1.5 0 0 1.5
 MSL783 Global Economic Development 1.5 0 0 1.5
 MSL784 Sovereign Debt and Default 3 0 0 3
-**2.1.4 Minor Area in Entrepreneurship (Department of**
+**Minor Area in Entrepreneurship (Department of**
 **Management Studies)**
 **Minor Area Core : 5 Courses (Total of 12 Credits)**
 MSL305 New Venture Creation 2 0 2 3
@@ -884,7 +883,7 @@ MSL720 Macroeconomic Environment of Business 3 0 0 3
 MSL721 Econometrics 3 0 0 3
 MSL734 Management of Small & Medium Scale 3 0 0 3
 Industrial Enterprises
-**2.1.5 Minor Area in Economics (Department of Humanities**
+**Minor Area in Economics (Department of Humanities**
 **and Social Sciences)**
 **Minor Area Core (Minimum of 8 credits)**
 HUL211 Introduction to Economics 3 1 0 4
@@ -932,7 +931,7 @@ HSL816 Game Theory 3 0 0 3
 HSL817 Health Economics 3 0 0 3
 HSL818 Labor Economics 3 0 0 3
 HSL820 Advanced Topics in Economics 3 0 0 3
-**2.1.6 Minor Area in Computational Mechanics (Department**
+**Minor Area in Computational Mechanics (Department**
 **of Applied Mechanics)**
 **Minor Area Core**
 APL300 Computational Mechanics 3 0 2 4
@@ -949,7 +948,7 @@ APL440 Parallel Processing in Computational Mechanics 3 0 2 4
 APL705 Finite Element Method 3 0 2 4
 APL710 Computer Aided Design 3 0 2 4
 APL736 Multiscale Modelling of Crystalline Materials 3 0 2 4
-**2.1.7 Minor Area in Design (Department of Design)**
+**Minor Area in Design (Department of Design)**
 **Minor Area Core (10 credits)**
 DSP721 Design and Innovation Methods 1 0 4 3
 DSL751 Form and Aesthetics 2 0 2 3
@@ -981,7 +980,7 @@ BML741 Medical Device Design 2 0 2 4
 BMD742 Minor Biodesign Project 0 0 8 4
 APL775 Design Methods 3 0 0 3
 MCL744 Design for Manufacture and Assembly 3 0 2 4
-**2.1.8 Minor Area Non Departmental Electives in Material**
+**Minor Area Non Departmental Electives in Material**
 **Science**
 **Minor Area Electives**
 MCL336 Advances in Wedding 3 0 2 4
@@ -990,7 +989,7 @@ MCL780 Casting Technology 3 0 2 4
 MCL787 Welding Science and Technology 3 0 2 4
 MCL791 Processing and Mechanics of Composites 3 0 2 4
 MLL720 Polymer Processing 3 0 0 3
-**2.1.9 Minor Area in Computer Science (Department of**
+**Minor Area in Computer Science (Department of**
 **Computer Science and Engineering)**
 _Note : A student needs to do a minimum of three courses out of Minor_
 _Area Core and remaining courses from Minor Area Electives._
@@ -1102,7 +1101,7 @@ COV886 Special Module in Algorithms 1 0 0 1
 COV887 Special Module in High Speed Networks 1 0 0 1
 COV888 Special Module in Database Systems 1 0 0 1
 COV889 Special Module in Concurrency 1 0 0 1
-**2.1.10 Minor Area in Cogeneration and Energy Efficiency**
+**Minor Area in Cogeneration and Energy Efficiency**
 **(Department of Energy Science and Engineering)**
 **Minor Area Core**
 ESL748 Economics of Energy Conservation 3 0 0 3
@@ -1117,7 +1116,7 @@ ESL726 Waste Heat Recovery 3 0 0 3
 ESL776 Industrial Energy and Environmental Analysis 3 0 0 3
 ESL875 Alternative Fuels for Transportation 3 0 0 3
 ESL786 Exergy Analysis 3 0 0 3
-**2.1.11 Minor Area in Renewable Energy (Department of**
+**Minor Area in Renewable Energy (Department of**
 **Energy Science and Engineering)**
 **Minor Area Electives**
 ESP713 Energy Laboratories 0 0 6 3
@@ -1131,7 +1130,7 @@ ESL770 Solar Energy Utilization 3 0 0 3
 ESL840 Solar Architecture 3 0 0 3
 ESL875 Alternative Fuels for Transportation 3 0 0 3
 ESL880 Solar Thermal Power Generation 3 0 0 3
-**2.1.12 Minor Area in Technologies for Sustainable Rural**
+**Minor Area in Technologies for Sustainable Rural**
 **Development (Centre for Rural Development and**
 **Technology)**
 **Minor Area Core (Any three of the following courses)**
@@ -1161,7 +1160,7 @@ RDL761 Value Chain in Agro-Food Processing 2 0 2 3
 RDL770 Rural Value Chain and Technologies for Holistic 2 0 2 3
 Development
 16
-**2.1.13 Minor Area / Departmental Specialization in**
+**Minor Area / Departmental Specialization in**
 **Biopharmaceuticals and Fine Chemicals (Department**
 **of Chemical Engineering)**
 **Minor Area / Specialization Core**
@@ -1188,7 +1187,7 @@ CLL792 Chemical Product Development and 3 0 0 3
 Commercialization
 CLL793 Membrane Science and Engineering 3 0 0 3
 SBL705 Biology of Proteins 3 0 0 3
-**2.1.14 Minor Area / Departmental Specialization in Complex**
+**Minor Area / Departmental Specialization in Complex**
 **Fluids and Materials (Department of Chemical**
 **Engineering)**
 **Minor Area / Specialization Core**
@@ -1206,7 +1205,7 @@ CLL774 Simulation Techniques for Complex Fluids 3 0 0 3
 CLL775 Polymerization Process Modeling 3 0 0 3
 CLL776 Granular Materials 3 0 0 3
 CLL777 Complex Fluids Technology 3 0 0 3
-**2.1.15 Minor Area / Departmental Specialization in Energy and**
+**Minor Area / Departmental Specialization in Energy and**
 **Environment (Department of Chemical Engineering)**
 **Minor Area / Specialization Core**
 CLD412 Major Project in Energy and Environment 0 0 10 5
@@ -1239,7 +1238,7 @@ Fluid Dynamics
 CLL769 Applications of Computational Fluid Dynamics 2 0 2 3
 CLL793 Membrane Science and Engineering 3 0 0 3
 CLL794 Petroleum Refinery Engineering 3 0 0 3
-**2.1.16 Minor Area / Departmental Specialization in Process**
+**Minor Area / Departmental Specialization in Process**
 **Engineering, Modelling and Optimization (Department**
 **of Chemical Engineering)**
 **Minor Area / Specialization Core**
@@ -1276,7 +1275,7 @@ CLL791 Chemical Product and Process Integration 3 0 0 3
 CLL792 Chemical Product Development and 3 0 0 3
 Commercialization
 CLL793 Membrane Science and Engineering 3 0 0 3
-**2.1.17 Minor Area / Departmental Specialization in Nano-**
+**Minor Area / Departmental Specialization in Nano-**
 **science and Technology (Department of Physics)**
 **Minor Area / Specialization Core**
 PYL122 Quantum Mechanics 3 1 0 4
@@ -1294,7 +1293,7 @@ PYL423 Nanoscale Energy Materials & Devices 3 0 0 3
 PYV428 Selected Topics in Nanotechnology 2 0 0 2
 PYV429 Special Topics in Nanotechnology 1 0 0 1
 PYD414 Project-III 0 0 8 4
-**2.1.18 Minor Area / Departmental Specialization in Photonics**
+**Minor Area / Departmental Specialization in Photonics**
 **Technology (Department of Physics)**
 **Minor Area / Specialization Core**
 PYL122 Quantum Mechanics 3 1 0 4
@@ -1311,7 +1310,7 @@ PYD414 Project-III 0 0 8 4
 PYL414 Engineering Optics 3 0 0 3
 PYV418 Selected Topics in Photonics 2 0 0 2
 PYV419 Special Topics in Photonics 1 0 0 1
-**2.1.19 Minor Area / Departmental Specialization in Quantum**
+**Minor Area / Departmental Specialization in Quantum**
 **Technologies (Department of Physics)**
 **Minor Area / Specialization Core**
 PYL122 Quantum Mechanics 3 1 0 4
@@ -1343,7 +1342,7 @@ PYL762 Statistical Optics and Optical Coherence Theory 3 0 0 3
 PYV4XX Selected topics in Cold Atoms and 2 0 0 2
 Quantum Technologies
 PYD414 Project-III 0 0 8 4
-**2.1.20 Minor Area / Departmental Specialization in**
+**Minor Area / Departmental Specialization in**
 **Theoretical and Computational Techniques in**
 **Physics (Department of Physics)**
 **Minor Area / Specialization Core**
@@ -1366,7 +1365,7 @@ PYV438 Selected Topics in Theoretical and
 Computational Physics 2 0 0 2
 PYV439 Special Topics in Theoretical and
 Computational Physics 1 0 0 1
-**2.1.21 Interdisciplinary Specialization in Biodesign**
+**Interdisciplinary Specialization in Biodesign**
 **Specialization Core**
 BML741 Medical Device Design 2 0 4 4
 BMD742 Minor Biodesign Project 0 0 8 4
@@ -1392,7 +1391,7 @@ BML830 Biosensor Technology 3 0 2 4
 CLL779 Molecular Biotechnology and in-vitro Diagnostics 3 0 0 3
 MCL442 Thermofluid Analysis of Biosystems 3 0 0 3
 TXL773 Medical Textiles 3 0 0 3
-**2.1.22 Interdisciplinary Specialization in Robotics**
+**Interdisciplinary Specialization in Robotics**
 **Specialization Core**
 _**Core 1**_
 MCL111 [+] Kinematics and Dynamics of Machines 3 0 2 4
@@ -1452,9 +1451,7 @@ MCL797 Freedom and Constraints in Design 3 0 0 3
 MCL798 Medical Robotics 2 0 2 3
 MCL837 Advanced Mechanisms 2 0 2 3
 MCL845 Advanced Robotics 2 0 2 3
-
-## **2.2 Departmental Specialisations**
-**2.2.1 Departmental Specialization in Applications and**
+**Departmental Specialization in Applications and**
 **Information Technology (Department of Computer**
 **Science and Engineering)**
 **Specialization Core**
@@ -1496,7 +1493,7 @@ Computer Interaction
 **Undergraduate Programme Rules** Courses of Study 2024-2025
 SIV895 Special Module on Intelligent 1 0 0 1
 Information Processing
-**2.2.2 Departmental Specialization in Architecture and**
+**Departmental Specialization in Architecture and**
 **Embedded Systems (Department of Computer**
 **Science and Engineering)**
 **Specialization Core**
@@ -1514,7 +1511,7 @@ COP820 Processor Design Laboratory 0 0 8 4
 COL821 Reconfigurable Computing 3 0 0 3
 COL861 Special Topics in Hardware Systems 3 0 0 3
 COV881 Special Module in Hardware Systems 1 0 0 1
-**2.2.3 Departmental Specialization in Data Analytics and**
+**Departmental Specialization in Data Analytics and**
 **Artificial Intelligence (Department of Computer**
 **Science and Engineering)**
 **Specialization Core**
@@ -1547,7 +1544,7 @@ COV878 Special Module in Machine Learning 1 0 0 1
 COV884 Special Module in Artificial Intelligence 1 0 0 1
 COV888 Special Module in Database Systems 1 0 0 1
 COV889 Special Module in Concurrency 1 0 0 1
-**2.2.4 Departmental Specialization in Graphics and Vision**
+**Departmental Specialization in Graphics and Vision**
 **(Department of Computer Science and Engineering)**
 **Specialization Core**
 COD494 B.Tech. Project Part-II 0 0 16 8
@@ -1562,7 +1559,8 @@ COL785 Virtual and Augmented Reality 3 0 2 4
 COL829 Advanced Computer Graphics 3 0 2 4
 COV877 Special Module on Visual Computing 1 0 0 1
 SIL801 Special Topics in Multimedia System 3 0 0 3
-**2.2.5 Departmental Specialization in Software Systems (Department of Computer Science and Engineering)**
+**Departmental Specialization in Software Systems**
+**(Department of Computer Science and Engineering)**
 **Specialization Core**
 COD494 B.Tech. Project Part-II 0 0 16 8
 COL703 Logic for Computer Science 3 0 2 4
@@ -1597,7 +1595,9 @@ COV887 Special Module in High Speed Networks 1 0 0 1
 SIL765 Networks & System Security 3 0 2 4
 SIL769 Internet Traffic -Measurement, 3 0 2 4
 Modeling & Analysis
-**2.2.6 Departmental Specialization in Theoretical Computer Science (Department of Computer Science and Engineering)**
+**Departmental Specialization in Theoretical Computer**
+**Science (Department of Computer Science and**
+**Engineering)**
 **Specialization Core**
 COD494 B.Tech. Project Part-II 0 0 16 8
 COL703 Logic for Computer Science 3 0 2 4
@@ -1632,7 +1632,9 @@ COL876 Special Topics in Formal Methods 3 0 0 3
 COV879 Special Module in Financial Algorithms 2 0 0 2
 COV883 Special Module in Theoretical Computer Science 1 0 0 1
 COV886 Special Module in Algorithms 1 0 0 1
-**2.2.7 Departmental Specialization in Environmental Engineering (Department of Civil Engineering) Specialization Core**
+**Departmental Specialization in Environmental**
+**Engineering (Department of Civil Engineering)**
+**Specialization Core**
 CVD412 B.Tech. Project Part-II 0 0 12 6
 CVL313 Air and Noise Pollution 3 0 0 3
 CVL721 Solid Waste Engineering 3 0 0 3
@@ -1647,7 +1649,8 @@ CVL822 Emerging Technologies for 3 0 0 3
 Environmental Management
 CVL823 Thermal Techniques for Waste Mgmt. 3 0 0 3
 CVL824 Life Cycle Analysis & Design for Environment 3 0 0 3
-**2.2.8 Departmental Specialization in Geotechnical Engineering (Department of Civil Engineering)**
+**Departmental Specialization in Geotechnical**
+**Engineering (Department of Civil Engineering)**
 **Specialization Core**
 CVD412 B.Tech. Project Part-II 0 0 12 6
 CVL421 Ground Engineering 3 0 0 3
@@ -1661,7 +1664,8 @@ CVL432 Stability of Slopes 2 0 0 2
 CVL433 FEM in Geotechnical Engineering 3 0 0 3
 CVL434 Geotechnical Design Studio 0 0 4 2
 CVL435 Underground Structures 2 0 0 2
-**2.2.9 Departmental Specialization in Structural Engineering (Department of Civil Engineering)**
+**Departmental Specialization in Structural Engineering**
+**(Department of Civil Engineering)**
 **Specialization Core**
 CVD412 B.Tech. Project Part-II 0 0 12 6
 CVL441 Structural Design 3 0 0 3
@@ -1684,7 +1688,8 @@ CVL858 Theory of Plates and Shells 3 0 0 3
 CVL859 Theory of Structural Stability 3 0 0 3
 CVL862 Design of Offshore Structures 3 0 0 3
 CVL866 Wind Resistant Design of Structures 3 0 0 3
-**2.2.10 Departmental Specialization in Transportation Engineering (Department of Civil Engineering)**
+**Departmental Specialization in Transportation**
+**Engineering (Department of Civil Engineering)**
 **Specialization Core**
 CVD412 B.Tech. Project Part-II 0 0 12 6
 CVL740 Pavement Materials and Design of Pavements 2 0 2 3
@@ -1702,7 +1707,8 @@ CVL746 Public Transportation Systems 3 0 0 3
 CVL841 Advanced Transportation Modelling 2 0 2 3
 CVL842 Geometric Design of Roads 2 0 2 3
 CVL847 Transportation Economics 3 0 0 3
-**2.2.11 Departmental Specialization in Water Resources Engineering (Department of Civil Engineering)**
+**Departmental Specialization in Water Resources**
+**Engineering (Department of Civil Engineering)**
 **Specialization Core**
 CVL382 Groundwater 2 0 0 2
 CVL481 Water Resources Management 3 0 0 3
@@ -1721,7 +1727,8 @@ CVP484 Computational Aspects in Water Resources 1 0 4 3
 CVL485 River Mechanics 2 0 2 3
 CVL486 Geo-informatics 2 0 2 3
 CVL837 Mechanics of Sediment Transport 3 0 0 3
-**2.2.12 Departmental Specialization in Automotive Design (Department of Mechanical Engineering)**
+**Departmental Specialization in Automotive Design**
+**(Department of Mechanical Engineering)**
 **Specialization Core**
 MCD412 B.Tech. Project-II 0 0 14 7
 MCL321 Automotive Systems 3 0 2 4
@@ -1737,7 +1744,9 @@ MCL724 Biomechanics of Trauma in Automotive Design 3 0 0 3
 MCL725 Design Electronic Assist Systems in Automobiles 3 0 0 3
 MCL726 Design of Steering Systems 3 0 0 3
 **Undergraduate Programme Rules** Courses of Study 2024-2025
-**2.2.13 Departmental Specialization in Technical and Innovative Textiles (Department of Textile and Fibre Engineering)**
+**Departmental Specialization in Technical and**
+**Innovative Textiles (Department of Textile and Fibre**
+**Engineering)**
 **Specialization Electives**
 TXD402 Major Project Part-II 0 0 16 8
 TXL710 High Performance and Specialty Fibres 3 0 0 3
@@ -1750,7 +1759,9 @@ TXL775 Technical Textiles 3 0 0 3
 TXL776 Design & Manuf. of Text. Reinforced Composites 3 0 0 3
 TXL780 Principles of Characterization of 3 0 0 3
 Functional and Technical Textiles
-**2.2.14 Departmental Specialization in Textile Business Management (Department of Textile and Fibre Engineering)**
+**Departmental Specialization in Textile Business**
+**Management (Department of Textile and Fibre**
+**Engineering)**
 **Specialization Electives**
 MCL756 Supply Chain Management 3 0 0 3
 MCL760 Project Management 3 0 0 3
@@ -1761,7 +1772,8 @@ TXL782 Production and Operations 3 0 0 3
 Management in Textile Industry
 TXL783 Design of Experiments and Statistical Techniques 3 0 0 3
 TXV702 Management of Textile Business 1 0 0 1
-**2.2.15 Departmental Specialization in Appliance Engineering (Department of Electrical Engineering)**
+**Departmental Specialization in Appliance Engineering**
+**(Department of Electrical Engineering)**
 **Specialization Electives**
 ELD451 BTP Part-II 0 0 16 8
 ELL319 Digital Signal Processing 3 0 2 4
@@ -1773,7 +1785,8 @@ ELL762 Intelligent Motor Controllers 3 0 0 3
 ELL766 Appliance System 3 0 0 3
 ELL767 Mechatronics 3 0 0 3
 ELV750 Special Modules in AE–I 1 0 0 1
-**2.2.16 Departmental Specialization in Cognitive and Intelligent Systems (Department of Electrical Engg.)**
+**Departmental Specialization in Cognitive and**
+**Intelligent Systems (Department of Electrical Engg.)**
 **Specialization Electives**
 ELD457 BTP Part-II 0 0 16 8
 ELL409 Machine Intelligence and Learning 3 0 2 4
@@ -1807,7 +1820,8 @@ ELL893 Cyber-Physical Systems 3 0 0 3
 ELV780 Special Modules in Computers 1 0 0 1
 ELV781 Special Module in Information Processing-I 1 0 0 1
 ELV832 Special Module in Machine Learning 1 0 0 1
-**2.2.17 Departmental Specialization in Communication Systems and Networking (Dept. of Electrical Engg.)**
+**Departmental Specialization in Communication**
+**Systems and Networking (Dept. of Electrical Engg.)**
 **Specialization Electives**
 ELD458 BTP Part-II 0 0 16 8
 ELL411 Digital Communications 3 0 2 4
@@ -1820,7 +1834,8 @@ ELL723 Broadband Communication Systems 3 0 0 3
 ELL725 Wireless Communications 3 0 0 3
 ELL785 Computer Communication Networks 3 0 0 3
 ELV720 Special Modules in CS&N–I 1 0 0 1
-**2.2.18 Departmental Specialization in Electric Transportation (Department of Electrical Engineering)**
+**Departmental Specialization in Electric Transportation**
+**(Department of Electrical Engineering)**
 **Specialization Electives**
 ELD454 BTP Part-II 0 0 16 8
 ELL334 DSP Based Control of Drives 3 0 2 4
@@ -1831,7 +1846,8 @@ ELL754 Permanent Magnet Machines 3 0 0 3
 ELL755 Variable Reluctance Machines 3 0 0 3
 ELL764 Electric Vehicles 3 0 0 3
 ELV753 Special Modules in ET–I 1 0 0 1
-**2.2.19 Departmental Specialization in Energy-Efficient Technologies (Department of Electrical Engineering)**
+**Departmental Specialization in Energy-Efficient**
+**Technologies (Department of Electrical Engineering)**
 **Specialization Electives**
 ELD453 BTP Part-II 0 0 16 8
 ELL408 Low Power Circuit Design 3 0 0 3
@@ -1843,7 +1859,8 @@ ELL763 Advanced Electrical Drives 3 0 0 3
 ELL765 Smart Grid Technology 3 0 0 3
 ELL797 Energy Efficient Computing 3 0 0 3
 ELV752 Special Modules in EET–I 1 0 0 1
-**2.2.20 Departmental Specialization in Information Processing (Department of Electrical Engineering)**
+**Departmental Specialization in Information**
+**Processing (Department of Electrical Engineering)**
 **Specialization Electives**
 ELD459 BTP Part-II 0 0 16 8
 ELL459 Special Topics in IP–I 3 0 0 3
@@ -1863,7 +1880,8 @@ ELL884 Deep Learning for Natural Language 3 0 0 3
 Processing
 ELV781 Special Modules in IP–I 1 0 0 1
 CRL707 Human and Machine Speech Communications 3 0 0 3
-**2.2.21 Departmental Specialization in Nano-electronic and Photonic Systems (Department of Electrical Engg.)**
+**Departmental Specialization in Nano-electronic and**
+**Photonic Systems (Department of Electrical Engg.)**
 **Specialization Electives**
 ELD456 BTP Part-II 0 0 16 8
 ELL456 Special Topics in NE&PS–I 3 0 0 3
@@ -1873,14 +1891,15 @@ ELL737 Flexible Electronics 3 0 0 3
 ELL738 Micro and Nano Photonics 3 0 0 3
 ELL739 Advanced Semiconductor Devices 3 0 0 3
 ELL740 Compact Modeling of Semiconductor Devices 3 0 2 4
-ELP740 On-wafer Device Characterization Laborator y 0 0 6 3
+ELP740 On-wafer Device Characterization Laboratory 0 0 6 3
 ELL741 Neuromorphic Engineering 3 0 0 3
 ELL742 Introduction to MEMS Design 3 0 0 3
 ELL743 Photovoltaics 3 0 0 3
 ELL744 Electronic and Photonic Nanomaterials 3 0 0 3
 ELL745 Quantum Electronics 3 0 0 3
 ELV731 Special Modules in NE&PS–I 1 0 0 1
-**2.2.22 Departmental Specialization in Smart Grid and Renewable Energy (Department of Electrical Engg.)**
+**Departmental Specialization in Smart Grid and**
+**Renewable Energy (Department of Electrical Engg.)**
 **Specialization Electives**
 ELD452 BTP Part-II 0 0 16 8
 ELL402 Computer Communications 3 0 0 3
@@ -1894,7 +1913,8 @@ ELL774 Flexible AC Transmission Systems 3 0 0 3
 ELL775 Power System Dynamics 3 0 0 3
 ELL789 Intelligent Systems 3 0 0 3
 ELV451 Special Modules in SG&RE–I 1 0 0 1
-**2.2.23 Departmental Specialization in Systems and Control (Department of Electrical Engineering)**
+**Departmental Specialization in Systems and Control**
+**(Department of Electrical Engineering)**
 **Specialization Electives**
 ELD450 BTP Part-II 0 0 16 8
 ELL436 Digital Control 3 0 0 3
@@ -1907,7 +1927,8 @@ ELL707 Systems Biology 3 0 0 3
 ELL708 Selected Topics in Systems and Control 3 0 0 3
 ELL762 Intelligent Motor Controllers 3 0 0 3
 ELV700 Special Modules in Systems and Control 1 0 0 1
-**2.2.24 Departmental Specialization in VLSI and Embedded Systems (Department of Electrical Engineering)**
+**Departmental Specialization in VLSI and Embedded**
+**Systems (Department of Electrical Engineering)**
 **Specialization Electives**
 ELD455 BTP Part-II 0 0 16 8
 ELL365 Embedded Systems 3 0 0 3
@@ -1921,14 +1942,15 @@ ELL734 MOS VLSI Design 3 0 0 3
 ELL735 Analog Integrated Circuits 3 0 0 3
 ELL736 Solid State Imaging Sensors 3 0 0 3
 ELL740 Compact Modeling of Semiconductor Devices 3 0 2 4
-ELP740 On-wafer Device Characterization Laborator y 0 0 6 3
+ELP740 On-wafer Device Characterization Laboratory 0 0 6 3
 ELL741 Neuromorphic Engineering 3 0 0 3
 ELL747 Active and Passive Filter Design 3 0 0 3
 ELL748 System-on-Chip Design and Test 3 0 0 3
 ELL749 Semiconductor Memory Design 3 0 0 3
 ELL833 CMOS RF IC Design 3 0 0 3
 ELV730 Special Modules in V&ES–I 1 0 0 1
-**2.2.25 Departmental Specialization in Polymeric Materials (Department of Materials Science and Engineering)**
+**Departmental Specialization in Polymeric Materials**
+**(Department of Materials Science and Engineering)**
 **Specialization Core**
 MLL342 Physical Chemistry of Polymers 3 0 0 3
 MLL343 Polymer and Elastomer Technology 3 0 0 3
@@ -1943,7 +1965,8 @@ MLL729 Polymer Blends and Composites 3 0 0 3
 MLL741 Biodegradable Polymeric Materials 3 0 0 3
 MLL733 Polymer Reaction Engineering 3 0 0 3
 MLL735 Polymer Product and Mould Design 2 0 2 3
-**2.1.26 Departmental Specialization in Metallurgy (Department of Materials Science and Engineering)**
+**Departmental Specialization in Metallurgy**
+**(Department of Materials Science and Engineering)**
 **Specialization Core**
 MLL361 Iron and Steel Making 2 0 0 2
 MLP362 Metallography Lab 0 0 4 2
@@ -2041,7 +2064,7 @@ society.
 - Do-it-yourself projects in teams.
 - Lectures by faculty, visitors, alumni on some exciting topics.
 This non-graded unit is administered in the form of one non-graded course of one unit:
-NIN100 Introduction to Engineering and Programme in the first semester of the undergraduate
+- NIN100 Introduction to Engineering and Programme in the first semester of the undergraduate
 programme.
 The course coordinator of NIN100 would be identified by the Dean Academics. Apart from the main coordinator,
 each department offering a UG programme, will identify a departmental coordinator for this course. The
@@ -2146,7 +2169,6 @@ completion of the work, the student can apply on the NGU portal for earning NEN2
 supervisor, who can certify the completion of the concerned activity.
 Table 3.2 summarizes the requirements of the non-graded component on Professional Ethics and Social
 Responsibility.
-_**Table 3.2 : Summary of Requirements of the Non-Graded Component on Professional Ethics and**_
 |T|Table 3.2 : Summar|ry of Requirem|ments of the Non-Graded Comp Social Responsibility|ponent on Professional Et|thics and|
 |---|---|---|---|---|---|
 |**S.**<br>**No.**|**Course**|**Period of**<br>**Activity**|**Description**|**Requirement for ‘S’**<br>**grade**|**No. of**<br>**units**|
@@ -2158,11 +2180,26 @@ _**Table 3.2 : Summary of Requirements of the Non-Graded Component on Profession
 |4.|NEN212: PESR<br>Workshops|**If in-person:** <br>Mid-<br>semester<br>breaks /<br>summer /<br>winter<br>vacations.<br>**If online:** <br>can be held<br>during the<br>semester as<br>well|Participation in intense<br>ON-CAMPUS workshops<br>approved by Dean<br>Academics, of 5 days duration<br>if in-person and 40 hours<br>duration if online conducted<br>by professional resource<br>persons, with special<br>emphasis on themes related<br>to PESR.|‘S’ grade to be awarded<br>only for attending<br>the workshop for full<br>duration.|1|
 26
 **Undergraduate Programme Rules** Courses of Study 2024-2025
+Prior approval of project
+proposal by PESR
+coordinator explicitly
+specifying deliverables
+and work share of each
+student in case of group
+projects; Completion
+of the project
+deliverables identified
+in the proposal - It must
+involve at least 40 hours
+of work by each student
+along with submission
+of a report on the NGU
+portal.
+1
 5. NEN213: PESR Summer /
 Projects winter
 vacation
-/ mid
-semester
+/ midsemester
 break or
 during a
 semester.
@@ -2195,22 +2232,6 @@ water / electricity / paper / other
 resources, waste
 management, promoting use
 of bicycles, etc.
-Prior approval of project
-proposal by PESR
-coordinator explicitly
-specifying deliverables
-and work share of each
-student in case of group
-projects; Completion
-of the project
-deliverables identified
-in the proposal - It must
-involve at least 40 hours
-of work by each student
-along with submission
-of a report on the NGU
-portal.
-1
 **3.5 Communication Skills / Seminar**
 The objective of this non-graded component is to provide the students with an opportunity to develop their skills
 in preparing write-ups, making presentations, and reading / listening to others’ write-ups / presentations. A student
@@ -2233,7 +2254,7 @@ with 100% attendance in all sessions on all days of the workshop for award of �
 (iv) By submitting documentary evidence of excellence in debating and / or writing as certified by faculty
 in-charge of these activities, to the Dean, Academics. In all such cases, the student should submit
 documentary evidence online, as detailed below:
-A student who wins first, second or third position in any event / competition conducted at inter-hostel
+- A student who wins first, second or third position in any event / competition conducted at inter-hostel
 level, by BRCA or by BSP or by BSW would qualify for this option. The event / competition must
 27
 Courses of Study 2024-2025 **Undergraduate Programme Rules**
@@ -2345,7 +2366,7 @@ is offered by faculty of other Departments / Centres / Schools, the faculty supe
 the students to register for NDN35y Minor Design Project. In either case, the project would be evaluated by
 the faculty supervisor.
 The courses XXD351 – XXD355 would be Minor Design Projects with 1 non-graded DPE unit, and XXD356
-– XXD358 would be Minor Design Projects with 2 non-graded units each. Courses NDN351 – 358 would also
+- XXD358 would be Minor Design Projects with 2 non-graded units each. Courses NDN351 – 358 would also
 follow a similar definition.
 **3.6.2.3 Regular Courses with Optional Design / Practical Experience Component (Maximum 2 Units)**
 Course coordinators of regular core and elective courses can also offer optional design component in their

@@ -9,4 +9,7 @@ wheels/
 # Virtual environments
 .venv
 .env
-qdrant_storage
+
+qdrant_storage/
+uploads/
+messages.db
