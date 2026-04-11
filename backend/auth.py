@@ -13,6 +13,9 @@ from jose import JWTError, jwt
 from jose.backends import RSAKey
 
 from . import models
+from .logging_config import get_logger
+
+logger = get_logger(__name__)
 
 # =============================================================================
 # IITD OAuth Configuration
@@ -69,14 +72,14 @@ def email_to_kerberos(email: str) -> Optional[str]:
         Kerberos ID like "me2241111" or None if invalid
     """
     if not email:
-        print(f"[entry_number_to_kerberos] email is None or empty")
+        logger.warning("[email_to_kerberos] email is None or empty")
         return None    
     try:        
         kerberos = email.split('@')[0]
-        print(f"[entry_number_to_kerberos] Derived kerberos: {kerberos}")
+        logger.debug(f"[email_to_kerberos] Derived kerberos: {kerberos}")
         return kerberos
     except (IndexError, AttributeError) as e:
-        print(f"[entry_number_to_kerberos] Error deriving kerberos: {e}")
+        logger.error(f"[email_to_kerberos] Error deriving kerberos: {e}")
         return None
 
 
@@ -107,6 +110,7 @@ def create_oauth_state(redirect_uri: str) -> Tuple[str, str]:
     
     # Store in database
     crud.create_oauth_state(state, code_verifier, redirect_uri)
+    logger.info(f"[create_oauth_state] Created OAuth state={state} for redirect_uri={redirect_uri}")
     
     # Build authorization URL
     params = {
@@ -120,6 +124,7 @@ def create_oauth_state(redirect_uri: str) -> Tuple[str, str]:
     }
     
     authorize_url = f"{AUTHORIZE_ENDPOINT}?{urlencode(params)}"
+    logger.info(f"[create_oauth_state] Authorize URL built: {authorize_url}")
     
     return state, authorize_url
 
@@ -150,6 +155,8 @@ async def exchange_code_for_token(code: str, state: str) -> Tuple[str, dict]:
             detail="OAuth credentials not configured"
         )
     
+    logger.info(f"[exchange_code_for_token] Exchanging code for token, state={state}")
+    
     # Retrieve and delete PKCE state (one-time use)
     oauth_state = crud.get_and_delete_oauth_state(state)
     if not oauth_state:
@@ -177,7 +184,7 @@ async def exchange_code_for_token(code: str, state: str) -> Tuple[str, dict]:
             if response.status_code != 200:
                 error_data = response.json() if response.headers.get("content-type", "").startswith("application/json") else {}
                 error_msg = error_data.get("error_description", error_data.get("error", "Token exchange failed"))
-                print(f"Token exchange failed: {response.status_code} - {error_msg}")
+                logger.error(f"[exchange_code_for_token] Token exchange failed: {response.status_code} - {error_msg}")
                 raise HTTPException(
                     status_code=status.HTTP_401_UNAUTHORIZED,
                     detail=f"Authentication failed: {error_msg}"
@@ -198,12 +205,12 @@ async def exchange_code_for_token(code: str, state: str) -> Tuple[str, dict]:
                 # Fetch from userinfo endpoint
                 user_info = await fetch_user_info(access_token)
             
-            print(f"[exchange_code_for_token] User info received: {user_info}")
+            logger.info(f"[exchange_code_for_token] User info received for sub={user_info.get('sub', 'unknown')}")
             
             return access_token, user_info
             
     except httpx.RequestError as e:
-        print(f"OAuth token exchange request failed: {e}")
+        logger.error(f"[exchange_code_for_token] Request failed: {e}")
         raise HTTPException(
             status_code=status.HTTP_502_BAD_GATEWAY,
             detail="Failed to communicate with OAuth server"
@@ -228,13 +235,14 @@ async def fetch_user_info(access_token: str) -> dict:
             )
             
             if response.status_code == 200:
+                logger.info("[fetch_user_info] User info fetched successfully")
                 return response.json()
             else:
-                print(f"Userinfo fetch failed: {response.status_code}")
+                logger.error(f"[fetch_user_info] Failed: {response.status_code}")
                 return {}
                 
     except httpx.RequestError as e:
-        print(f"Userinfo request failed: {e}")
+        logger.error(f"[fetch_user_info] Request failed: {e}")
         return {}
 
 
@@ -264,9 +272,10 @@ async def get_jwks() -> dict:
             if response.status_code == 200:
                 _jwks_cache = response.json()
                 _jwks_cache_time = datetime.utcnow()
+                logger.info("[get_jwks] JWKS fetched and cached")
                 return _jwks_cache
             else:
-                print(f"JWKS fetch failed: {response.status_code}")
+                logger.error(f"[get_jwks] Fetch failed: {response.status_code}")
                 # Return cached version if available
                 if _jwks_cache:
                     return _jwks_cache
@@ -275,7 +284,7 @@ async def get_jwks() -> dict:
                     detail="Failed to fetch JWKS"
                 )
     except httpx.RequestError as e:
-        print(f"JWKS request failed: {e}")
+        logger.error(f"[get_jwks] Request failed: {e}")
         if _jwks_cache:
             return _jwks_cache
         raise HTTPException(
@@ -306,7 +315,7 @@ def get_jwks_sync() -> dict:
                 _jwks_cache_time = datetime.utcnow()
                 return _jwks_cache
     except httpx.RequestError as e:
-        print(f"JWKS sync request failed: {e}")
+        logger.error(f"[get_jwks_sync] Request failed: {e}")
     
     if _jwks_cache:
         return _jwks_cache
@@ -368,7 +377,7 @@ def verify_access_token(token: str) -> dict:
         return payload
         
     except JWTError as e:
-        print(f"Token verification failed: {e}")
+        logger.error(f"[verify_access_token] Token verification failed: {e}")
         raise HTTPException(
             status_code=status.HTTP_401_UNAUTHORIZED,
             detail="Invalid or expired token"
@@ -400,7 +409,7 @@ def get_current_user(credentials: HTTPAuthorizationCredentials = Depends(HTTPBea
                 demo_user = crud.get_or_create_user(demo_user_info)
                 return demo_user
             except Exception as e:
-                print(f"Demo user creation failed: {e}")
+                logger.error(f"[get_current_user] Demo user creation failed: {e}")
                 return models.User(
                     id=1,
                     email="demo@iitd.ac.in",

@@ -1,21 +1,14 @@
 from datetime import datetime, timedelta
-from sqlmodel import Session, select
+from sqlmodel import select
 from sqlalchemy import desc
 from . import models
 from . import auth as auth_module
+from . import courses_db
+from .models import get_session
 from typing import List, Optional, Dict
-import sqlite3
-from pathlib import Path
 import logging
 
 logger = logging.getLogger(__name__)
-
-# Use the shared engine exposed by models
-ENGINE = models.ENGINE
-
-# Path to courses database (same as in tools.py)
-_BACKEND_DIR = Path(__file__).parent.parent
-_COURSES_DB = _BACKEND_DIR / "courses.sqlite"
 
 
 # ---------- OAuth State CRUD (PKCE) ----------
@@ -32,7 +25,7 @@ def create_oauth_state(state: str, code_verifier: str, redirect_uri: str) -> mod
     Returns:
         Created OAuthState object
     """
-    with Session(ENGINE) as sess:
+    with get_session() as sess:
         oauth_state = models.OAuthState(
             state=state,
             code_verifier=code_verifier,
@@ -55,7 +48,7 @@ def get_and_delete_oauth_state(state: str) -> Optional[models.OAuthState]:
     Returns:
         OAuthState if found and not expired, None otherwise
     """
-    with Session(ENGINE) as sess:
+    with get_session() as sess:
         # Get the state
         oauth_state = sess.get(models.OAuthState, state)
         
@@ -92,7 +85,7 @@ def cleanup_expired_oauth_states(max_age_minutes: int = 10) -> int:
     Returns:
         Number of deleted states
     """
-    with Session(ENGINE) as sess:
+    with get_session() as sess:
         cutoff = datetime.utcnow() - timedelta(minutes=max_age_minutes)
         stmt = select(models.OAuthState).where(models.OAuthState.created_at < cutoff)
         expired = sess.exec(stmt).all()
@@ -115,7 +108,7 @@ def get_user_by_oauth_id(oauth_id: str) -> Optional[models.User]:
     Returns:
         User if found, None otherwise
     """
-    with Session(ENGINE) as sess:
+    with get_session() as sess:
         stmt = select(models.User).where(models.User.oauth_id == oauth_id)
         return sess.exec(stmt).first()
 
@@ -139,7 +132,7 @@ def get_or_create_user(user_info: dict) -> models.User:
     Returns:
         User object (existing or newly created)
     """
-    with Session(ENGINE) as sess:
+    with get_session() as sess:
         # First try to find by oauth_id (sub claim)
         oauth_id = user_info.get("sub")
         if oauth_id:
@@ -206,7 +199,7 @@ def get_or_create_user(user_info: dict) -> models.User:
 
 def create_chat(user_id: int, title: str | None = None) -> models.Chat:
     logger.info(f"[CREATE_CHAT] user_id={user_id}, title={title}")
-    with Session(ENGINE) as sess:
+    with get_session() as sess:
         chat = models.Chat(user_id=user_id, title=title)
         sess.add(chat)
         sess.commit()
@@ -216,18 +209,18 @@ def create_chat(user_id: int, title: str | None = None) -> models.Chat:
 
 
 def list_chats(user_id: int) -> List[models.Chat]:
-    with Session(ENGINE) as sess:
+    with get_session() as sess:
         stmt = select(models.Chat).where(models.Chat.user_id == user_id).order_by(desc(models.Chat.created_at)) # type: ignore
         return list(sess.exec(stmt).all())
 
 
 def get_chat(chat_id: int) -> Optional[models.Chat]:
-    with Session(ENGINE) as sess:
+    with get_session() as sess:
         return sess.get(models.Chat, chat_id)
 
 
 def create_message(chat_id: int, sender: str, content: str) -> models.Message:
-    with Session(ENGINE) as sess:
+    with get_session() as sess:
         msg = models.Message(chat_id=chat_id, sender=sender, content=content)
         sess.add(msg)
         sess.commit()
@@ -236,12 +229,12 @@ def create_message(chat_id: int, sender: str, content: str) -> models.Message:
 
 
 def list_messages(chat_id: int) -> List[models.Message]:
-    with Session(ENGINE) as sess:
+    with get_session() as sess:
         stmt = select(models.Message).where(models.Message.chat_id == chat_id).order_by(models.Message.created_at) # type: ignore
         return list(sess.exec(stmt).all())
 
 def delete_chat(chat_id: int) -> None:
-    with Session(ENGINE) as sess:
+    with get_session() as sess:
         # Delete messages in bulk
         stmt_msgs = select(models.Message).where(models.Message.chat_id == chat_id)
         messages = sess.exec(stmt_msgs).all()
@@ -266,7 +259,7 @@ def create_document(
     chunk_count: int,
     uploaded_by: int,
 ) -> models.Document:
-    with Session(ENGINE) as sess:
+    with get_session() as sess:
         doc = models.Document(
             filename=filename,
             original_name=original_name,
@@ -282,18 +275,18 @@ def create_document(
 
 
 def list_documents() -> List[models.Document]:
-    with Session(ENGINE) as sess:
+    with get_session() as sess:
         stmt = select(models.Document).order_by(desc(models.Document.created_at))  # type: ignore
         return list(sess.exec(stmt).all())
 
 
 def get_document(doc_id: int) -> Optional[models.Document]:
-    with Session(ENGINE) as sess:
+    with get_session() as sess:
         return sess.get(models.Document, doc_id)
 
 
 def delete_document(doc_id: int) -> None:
-    with Session(ENGINE) as sess:
+    with get_session() as sess:
         doc = sess.get(models.Document, doc_id)
         if doc:
             sess.delete(doc)
@@ -312,17 +305,7 @@ def validate_course_code(course_code: str) -> bool:
     Returns:
         True if course exists, False otherwise
     """
-    try:
-        db_uri = f'file:{_COURSES_DB}?mode=ro'
-        conn = sqlite3.connect(db_uri, uri=True)
-        cursor = conn.cursor()
-        cursor.execute("SELECT 1 FROM courses WHERE code = ? LIMIT 1", (course_code.upper(),))
-        exists = cursor.fetchone() is not None
-        conn.close()
-        return exists
-    except Exception as e:
-        print(f"[validate_course_code] Error: {e}")
-        return False
+    return courses_db.validate_course_code(course_code)
 
 
 def search_courses_by_prefix(prefix: str, limit: int = 20) -> List[Dict]:
@@ -336,20 +319,7 @@ def search_courses_by_prefix(prefix: str, limit: int = 20) -> List[Dict]:
     Returns:
         List of course dicts with code and name
     """
-    try:
-        db_uri = f'file:{_COURSES_DB}?mode=ro'
-        conn = sqlite3.connect(db_uri, uri=True)
-        cursor = conn.cursor()
-        cursor.execute(
-            "SELECT code, name FROM courses WHERE code LIKE ? ORDER BY code LIMIT ?",
-            (f"{prefix.upper()}%", limit)
-        )
-        results = [{"code": row[0], "name": row[1]} for row in cursor.fetchall()]
-        conn.close()
-        return results
-    except Exception as e:
-        print(f"[search_courses_by_prefix] Error: {e}")
-        return []
+    return courses_db.search_courses_by_prefix(prefix, limit)
 
 
 def get_user_courses(user_id: int) -> Dict[int, List[str]]:
@@ -362,7 +332,7 @@ def get_user_courses(user_id: int) -> Dict[int, List[str]]:
     Returns:
         Dict mapping semester number to list of course codes
     """
-    with Session(ENGINE) as sess:
+    with get_session() as sess:
         stmt = select(models.UserCourse).where(models.UserCourse.user_id == user_id).order_by(models.UserCourse.semester)
         user_courses = sess.exec(stmt).all()
         
@@ -389,7 +359,7 @@ def add_user_course(user_id: int, course_code: str, semester: int) -> Optional[m
     """
     course_code = course_code.upper().strip()
     
-    with Session(ENGINE) as sess:
+    with get_session() as sess:
         # Check if already exists
         stmt = select(models.UserCourse).where(
             models.UserCourse.user_id == user_id,
@@ -425,7 +395,7 @@ def remove_user_course(user_id: int, course_code: str, semester: int) -> bool:
     """
     course_code = course_code.upper().strip()
     
-    with Session(ENGINE) as sess:
+    with get_session() as sess:
         stmt = select(models.UserCourse).where(
             models.UserCourse.user_id == user_id,
             models.UserCourse.course_code == course_code,
@@ -450,7 +420,7 @@ def set_user_courses(user_id: int, courses_by_semester: Dict[int, List[str]]) ->
     Returns:
         The courses that were actually saved (after validation)
     """
-    with Session(ENGINE) as sess:
+    with get_session() as sess:
         # Delete all existing courses for this user
         stmt = select(models.UserCourse).where(models.UserCourse.user_id == user_id)
         existing = sess.exec(stmt).all()

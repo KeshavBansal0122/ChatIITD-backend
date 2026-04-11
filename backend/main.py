@@ -1,3 +1,10 @@
+import os
+from pathlib import Path
+from dotenv import load_dotenv
+
+# Load .env from the backend root directory (one level up from this package)
+load_dotenv(Path(__file__).resolve().parent.parent / ".env")
+
 from fastapi import FastAPI, Depends, HTTPException, status, UploadFile, File, Form, Request, WebSocket, WebSocketDisconnect
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.openapi.docs import get_swagger_ui_html
@@ -7,12 +14,10 @@ from fastapi.responses import JSONResponse, StreamingResponse
 from . import models, crud, schemas, auth, qdrant_service
 from .logging_config import setup_logging, get_logger
 
-import os
 import uuid
 import traceback
 import json
 import asyncio
-from pathlib import Path
 
 # Set up logging before anything else
 setup_logging()
@@ -403,6 +408,12 @@ def on_startup():
     logger.info("=" * 60)
     logger.info(f"Swagger UI: {BACKEND_URL}/docs")
     logger.info(f"ReDoc: {BACKEND_URL}/redoc")
+    # Log auth configuration status
+    client_id = os.environ.get("CLIENT_ID")
+    client_secret = os.environ.get("CLIENT_SECRET")
+    logger.info(f"CLIENT_ID configured: {bool(client_id)} ({'set' if client_id else 'MISSING - auth will fail'})")
+    logger.info(f"CLIENT_SECRET configured: {bool(client_secret)} ({'set' if client_secret else 'MISSING - auth will fail'})")
+    logger.info(f"DEMO_MODE: {os.environ.get('DEMO_MODE', 'false')}")
     logger.info("=" * 60)
 
 
@@ -432,14 +443,17 @@ def get_signin_url(redirect_uri: str):
     Example:
         GET /auth/signin-url?redirect_uri={FRONTEND_URL}/callback
     """
+    logger.info(f"[get_signin_url] Request received with redirect_uri={redirect_uri}")
     try:
         state, signin_url = auth.create_oauth_state(redirect_uri)
+        logger.info(f"[get_signin_url] Returning signin_url for state={state}")
         return schemas.OAuthSigninUrlResponse(
             signin_url=signin_url,
             state=state,
             instructions="Redirect user to this URL to initiate OAuth flow. The state is stored server-side with PKCE parameters."
         )
     except ValueError as e:
+        logger.error(f"[get_signin_url] Failed: {e}")
         raise HTTPException(status_code=500, detail=str(e))
 
 

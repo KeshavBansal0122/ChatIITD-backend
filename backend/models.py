@@ -7,11 +7,12 @@ Supports both SQLite (development) and PostgreSQL (production).
 from typing import Optional
 from datetime import datetime
 import os
-from sqlmodel import SQLModel, Field, create_engine, Session, text
-from sqlalchemy import Index
+import sqlite3
+import logging
+from pathlib import Path
+from sqlmodel import SQLModel, Field, create_engine, Session, select, text
 
 # Database URL - defaults to PostgreSQL for development with docker-compose
-# For SQLite (legacy): sqlite:///messages.db
 DATABASE_URL = os.environ.get(
     "DATABASE_URL",
     "postgresql://chatiitd:chatiitd_dev@localhost:5432/chatiitd"
@@ -99,6 +100,45 @@ class MessageHistory(SQLModel, table=True):
     created_at: datetime = Field(default_factory=datetime.utcnow)
 
 
+# ---------------------------------------------------------------------------
+# Course catalogue tables (migrated from courses.sqlite)
+# ---------------------------------------------------------------------------
+
+class Course(SQLModel, table=True):
+    """IITD course catalogue entry."""
+    code: str = Field(primary_key=True)  # e.g. "COL100"
+    name: Optional[str] = None
+    description: Optional[str] = None
+    hours_lecture: Optional[int] = None
+    hours_tutorial: Optional[int] = None
+    hours_practical: Optional[int] = None
+    credits: Optional[int] = None
+    prereq: Optional[str] = None   # raw text from source
+    overlap: Optional[str] = None  # raw text from source
+
+
+class CourseOffering(SQLModel, table=True):
+    """A specific semester offering of a course."""
+    __tablename__ = "courseoffering"
+
+    id: Optional[int] = Field(default=None, primary_key=True)
+    code: str = Field(index=True)   # FK → Course.code
+    year: Optional[str] = None      # e.g. "2024-25"
+    semester: Optional[int] = None  # 1 or 2
+    coordinator: Optional[str] = None
+    instructor: Optional[str] = None  # from JSONL (may differ from coordinator)
+    slot: Optional[str] = None
+
+
+class CourseOverlap(SQLModel, table=True):
+    """Pair of courses that overlap (cannot be taken together)."""
+    __tablename__ = "courseoverlap"
+
+    id: Optional[int] = Field(default=None, primary_key=True)
+    code_1: str = Field(index=True)
+    code_2: str = Field(index=True)
+
+
 # Engine singleton
 _engine = None
 
@@ -114,16 +154,77 @@ def get_engine():
     return _engine
 
 
+_COURSES_SQLITE = Path(__file__).resolve().parent.parent / "courses.sqlite"
+_log = logging.getLogger(__name__)
+
+
+def _seed_courses_from_sqlite() -> None:
+    """
+    Populate Course, CourseOffering, and CourseOverlap tables from courses.sqlite.
+    Only runs when the Course table is empty. Safe to call on every startup.
+    """
+    if not _COURSES_SQLITE.exists():
+        _log.warning("courses.sqlite not found at %s — skipping course seed", _COURSES_SQLITE)
+        return
+
+    with get_session() as sess:
+        if sess.exec(select(Course)).first() is not None:
+            return  # already seeded
+
+    _log.info("Seeding course catalogue from %s ...", _COURSES_SQLITE)
+    conn = sqlite3.connect(f"file:{_COURSES_SQLITE}?mode=ro", uri=True)
+    conn.row_factory = sqlite3.Row
+
+    with get_session() as sess:
+        # ── Courses ──────────────────────────────────────────────────────────
+        rows = conn.execute("SELECT * FROM courses").fetchall()
+        for row in rows:
+            sess.add(Course(
+                code=row["code"],
+                name=row["name"],
+                description=row["description"],
+                hours_lecture=row["hours_lecture"],
+                hours_tutorial=row["hours_tutorial"],
+                hours_practical=row["hours_practical"],
+                credits=row["credits"],
+                prereq=row["prereq"],
+                overlap=row["overlap"],
+            ))
+        sess.commit()
+        _log.info("  courses: %d rows inserted", len(rows))
+
+        # ── Offerings ────────────────────────────────────────────────────────
+        rows = conn.execute("SELECT * FROM offerings").fetchall()
+        for row in rows:
+            sess.add(CourseOffering(
+                code=(row["code"] or "").upper(),
+                year=row["year"] or "",
+                semester=row["semester"] or 0,
+                coordinator=row["coordinator"],
+                instructor=row["coordinator"],  # same source; JSONL merge optional
+                slot=row["slot"],
+            ))
+        sess.commit()
+        _log.info("  offerings: %d rows inserted", len(rows))
+
+        # ── Overlaps ─────────────────────────────────────────────────────────
+        rows = conn.execute("SELECT * FROM overlaps").fetchall()
+        for row in rows:
+            sess.add(CourseOverlap(code_1=row["code_1"], code_2=row["code_2"]))
+        sess.commit()
+        _log.info("  overlaps: %d rows inserted", len(rows))
+
+    conn.close()
+    _log.info("Course catalogue seeding complete.")
+
+
 def init_db():
-    """Initialize database tables."""
+    """Initialize database tables and seed static data."""
     engine = get_engine()
     SQLModel.metadata.create_all(engine)
+    _seed_courses_from_sqlite()
 
 
 def get_session():
-    """Get a new database session."""
+    """Get a new database session. Always use this as the single point of DB access."""
     return Session(get_engine())
-
-
-# For backward compatibility
-ENGINE = get_engine()
