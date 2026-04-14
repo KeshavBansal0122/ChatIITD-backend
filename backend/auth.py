@@ -446,6 +446,22 @@ def get_current_user(credentials: HTTPAuthorizationCredentials = Depends(HTTPBea
     return user
 
 
+def get_optional_user(credentials: HTTPAuthorizationCredentials = Depends(HTTPBearer(auto_error=False))) -> models.User | None:
+    """
+    FastAPI dependency that returns the current user if authenticated, or None for guests.
+    
+    Unlike get_current_user(), this does NOT raise 401 — it silently returns None
+    when no token is provided or the token is invalid.
+    """
+    if credentials is None:
+        return None
+    
+    try:
+        return get_current_user(credentials)
+    except HTTPException:
+        return None
+
+
 def get_current_admin(current_user: models.User = Depends(get_current_user)) -> models.User:
     """Dependency that ensures the current user has the 'admin' role."""
     if current_user.role != "admin":

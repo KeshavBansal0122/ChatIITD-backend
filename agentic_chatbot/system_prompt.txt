@@ -95,47 +95,6 @@ Format: `XXX###` (3 letters + 3 digits)
 
 ---
 
-## Rules Section Quick Reference
-
-### General Rules (prefix: numbered sections)
-
-| Topic | Section Name |
-|-------|--------------|
-| Course codes explained | 2.1 Course Numbering Scheme |
-| Credit system | 2.2 Credit System |
-| Grading | 2.9 Grading System |
-| Grade points (A=10, B=8...) | 2.9.1 Grade points |
-| Grade descriptions (E, F, I, W, X, S, Z) | 2.9.2 Description of grades |
-| SGPA/CGPA calculation | 2.10 Evaluation of Performance |
-| Registration | 3.1 Registration |
-| Add/Drop/Audit/Withdrawal | 3.7 Add/Drop, Audit and Withdrawal of Courses |
-| Semester withdrawal | 3.8 Semester Withdrawal |
-| Credit limits | 3.13 Limits on Registration |
-| Attendance | 3.16 Attendance Rule |
-
-### UG Specific Rules
-
-| Topic | Section Name |
-|-------|--------------|
-| B.Tech requirements | 1.1.1 Overall Requirements: B.Tech. |
-| Dual degree requirements | 1.1.3 Overall Requirements: Dual degree programmes |
-| Credit breakup | 1.2.1 Breakup of Degree Requirements: Earned Credit Requirements for B.Tech. |
-| DGPA requirement | 1.2.3 Breakup of Degree Requirements: Degree Grade Point Average (DGPA) Requirement |
-| Max duration | 1.4 Minimum and Maximum Durations for Completing Degree Requirements |
-| Probation/Termination | 1.6 Conditions for Continuation of Registration, Termination/Re-start, Probation |
-| Branch change | 1.9 Change of Programme at the End of the First Year |
-| Minors & Specializations | 2. CAPABILITY-LINKED OPTIONS FOR UNDERGRADUATE STUDENTS |
-
-### PG Specific Rules
-
-| Topic | Section Name |
-|-------|--------------|
-| PG degree requirements | 1.1 Degree Requirements |
-| PG continuation | 1.2 Continuation Requirements |
-| Ph.D. regulations | 1.13 Doctor of Philosophy (Ph.D.) Regulations |
-
----
-
 ## Examples
 
 ### Example 1: Specific course code
@@ -170,6 +129,7 @@ Format: `XXX###` (3 letters + 3 digits)
 2. **No assumptions**: Always use tools to verify information. Never guess course codes, professor names, or policy details.
 3. **Cite sources**: Always mention which tool provided the information (e.g., "According to the course catalog..." or "As per the rules section...").
 4. **Use markdown formatting**: Format responses with headers, lists, and tables for readability.
+5. **Concise formal tone**: Convey all useful information with minimal filler words. Maintain a formal and respectful tone. Don't repeat yourself.
 
 ---
 

@@ -9,7 +9,7 @@ import os
 import json
 from typing import AsyncGenerator
 from pathlib import Path
-from openai import OpenAI, AsyncOpenAI
+from openai import OpenAI, AsyncOpenAI, PermissionDeniedError, AuthenticationError, RateLimitError, APITimeoutError, BadRequestError, APIStatusError
 from dotenv import load_dotenv
 
 from .tools import TOOLS, TOOL_MAPPING, execute_tool
@@ -27,6 +27,56 @@ except ImportError:
 # Load environment variables from a .env file
 load_dotenv('../.env')
 load_dotenv('.env')
+
+
+# =====================
+# Error Classification
+# =====================
+
+def classify_openrouter_error(e: Exception) -> dict:
+    """
+    Classify an OpenRouter/OpenAI API exception into a structured error event
+    with a user-friendly message and a stable error_code.
+    
+    Returns a dict suitable for yielding as a WebSocket error event:
+    {"type": "error", "message": "...", "error_code": "..."}
+    """
+    # Try to extract HTTP status code from the exception
+    status_code = None
+    if isinstance(e, APIStatusError):
+        status_code = e.status_code
+    
+    # Also check the error body for OpenRouter-style {"error": {"code": N}}
+    if status_code is None and hasattr(e, 'body') and isinstance(e.body, dict):
+        status_code = e.body.get('error', {}).get('code')
+
+    error_map = {
+        400: ("bad_request", "The request was invalid. Please try again."),
+        401: ("unauthorized", "API authentication failed. Please contact the administrator."),
+        402: ("insufficient_credits", "The AI service has run out of credits. Please contact the administrator."),
+        403: ("forbidden", "The AI service key limit has been exceeded. Please contact the administrator."),
+        408: ("timeout", "The AI service timed out. Please try again."),
+        429: ("rate_limited", "Too many requests to the AI service. Please wait a moment and try again."),
+        502: ("model_unavailable", "The AI model is currently unavailable. Please try again later."),
+        503: ("service_unavailable", "The AI service is unavailable. Please try again later."),
+    }
+
+    if status_code in error_map:
+        error_code, message = error_map[status_code]
+    elif isinstance(e, AuthenticationError):
+        error_code, message = "unauthorized", "API authentication failed. Please contact the administrator."
+    elif isinstance(e, PermissionDeniedError):
+        error_code, message = "forbidden", "The AI service key limit has been exceeded. Please contact the administrator."
+    elif isinstance(e, RateLimitError):
+        error_code, message = "rate_limited", "Too many requests to the AI service. Please wait a moment and try again."
+    elif isinstance(e, APITimeoutError):
+        error_code, message = "timeout", "The AI service timed out. Please try again."
+    elif isinstance(e, BadRequestError):
+        error_code, message = "bad_request", "The request was invalid. Please try again."
+    else:
+        error_code, message = "api_error", "An unexpected error occurred with the AI service. Please try again."
+
+    return {"type": "error", "message": message, "error_code": error_code}
 
 
 # =====================
@@ -552,7 +602,7 @@ async def stream_memory_agent_with_status(
         # Check for cancellation
         if cancel_event and cancel_event.is_set():
             logger.info("[stream_with_status] Cancelled by user")
-            yield {"type": "error", "message": "Generation stopped by user"}
+            yield {"type": "error", "message": "Generation stopped by user", "error_code": "cancelled"}
             return
         
         iteration += 1
@@ -574,11 +624,11 @@ async def stream_memory_agent_with_status(
             )
         except Exception as e:
             logger.error(f"[stream_with_status] API call failed: {e}", exc_info=True)
-            yield {"type": "error", "message": f"API error: {str(e)}"}
+            yield classify_openrouter_error(e)
             return
         
         if not response.choices:
-            yield {"type": "error", "message": "Empty response from AI service"}
+            yield {"type": "error", "message": "Empty response from AI service", "error_code": "empty_response"}
             return
         
         assistant_message = response.choices[0].message
@@ -603,7 +653,7 @@ async def stream_memory_agent_with_status(
                 # Check for cancellation before each tool
                 if cancel_event and cancel_event.is_set():
                     logger.info("[stream_with_status] Cancelled by user during tool calls")
-                    yield {"type": "error", "message": "Generation stopped by user"}
+                    yield {"type": "error", "message": "Generation stopped by user", "error_code": "cancelled"}
                     return
                 
                 tool_name = tool_call.function.name
@@ -685,7 +735,7 @@ async def stream_memory_agent_with_status(
                                 "role": "assistant",
                                 "content": full_response + "\n\n[Response stopped by user]"
                             })
-                        yield {"type": "error", "message": "Generation stopped by user"}
+                        yield {"type": "error", "message": "Generation stopped by user", "error_code": "cancelled"}
                         return
                     
                     if chunk.choices and chunk.choices[0].delta.content:
@@ -707,13 +757,13 @@ async def stream_memory_agent_with_status(
                 
             except Exception as e:
                 logger.error(f"[stream_with_status] Streaming failed: {e}", exc_info=True)
-                yield {"type": "error", "message": f"Streaming error: {str(e)}"}
+                yield classify_openrouter_error(e)
             
             return
     
     # Max iterations reached
     logger.warning(f"[stream_with_status] Maximum tool iterations ({MAX_TOOL_ITERATIONS}) reached")
-    yield {"type": "error", "message": "Maximum processing steps reached"}
+    yield {"type": "error", "message": "Maximum processing steps reached", "error_code": "max_iterations"}
 
 
 def generate_chat_title(user_message: str) -> str:

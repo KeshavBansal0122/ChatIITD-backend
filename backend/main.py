@@ -24,7 +24,7 @@ setup_logging()
 logger = get_logger(__name__)
 
 # Import agent functions after logging is configured
-from agentic_chatbot.agent import invoke_memory_agent, generate_chat_title, stream_memory_agent, stream_memory_agent_with_status
+from agentic_chatbot.agent import invoke_memory_agent, generate_chat_title, stream_memory_agent, stream_memory_agent_with_status, classify_openrouter_error
 
 # Programme code mapping from kerberos prefix to programme name
 PROGRAMME_CODES = {
@@ -166,8 +166,26 @@ def parse_kerberos(kerberos: str | None) -> dict:
     }
 
 
-def build_user_context(user: models.User) -> dict:
-    """Build user context dict from user model, including parsed kerberos info and courses done."""
+def build_user_context(user: models.User | None) -> dict:
+    """Build user context dict from user model, including parsed kerberos info and courses done.
+    
+    If user is None (guest mode), returns a dict with all fields set to None.
+    """
+    if user is None:
+        return {
+            "name": None,
+            "email": None,
+            "kerberos": None,
+            "hostel": None,
+            "entry_number": None,
+            "department": None,
+            "category": None,
+            "programme_code": None,
+            "programme_name": None,
+            "year_of_joining": None,
+            "courses_done": {},
+        }
+    
     kerberos_info = parse_kerberos(user.kerberos)
     
     # Get user's courses
@@ -763,35 +781,58 @@ def get_chat(chat_id: int, current_user: models.User = Depends(auth.get_current_
 @app.post("/chats/new", response_model=schemas.NewChatResponse, tags=["Chat Management"],
           responses={
               200: {"description": "Chat created successfully with AI response"},
-              401: {"description": "Authentication required"},
               500: {"description": "Internal server error"},
               502: {"description": "AI agent failed to respond"},
           })
 def create_new_chat_with_message(
     message: schemas.MessageCreate, 
-    current_user: models.User = Depends(auth.get_current_user)
+    current_user: models.User | None = Depends(auth.get_optional_user)
 ):
     """
     Create a new chat session and send the first message.
     
-    This endpoint creates a new chat, sends the first message,
-    and returns the AI agent's response along with the chat details.
+    Authenticated users get a persisted chat; guests get an ephemeral response.
     
     - **content**: The first message content to send to the AI agent
     
     Returns:
-        - chat: The created chat session
+        - chat: The created chat session (or ephemeral placeholder for guests)
         - message: The AI agent's response message  
         - title: Generated or default title for the chat
     """
-    if current_user.id is None:
-        raise HTTPException(status_code=500, detail="Invalid user id")
-    user_id = int(current_user.id)
+    is_guest = current_user is None
     
     # Generate chat title from the first message using LLM
     title_text = generate_chat_title(message.content)
     
-    # Create the chat with the title
+    if is_guest:
+        # Guest mode: no DB persistence
+        import uuid
+        guest_session_id = f"guest-{uuid.uuid4()}"
+        user_context = build_user_context(None)
+        agent_input = {"input": message.content}
+        
+        try:
+            response = invoke_memory_agent(agent_input, session_id=None, user_context=user_context)
+            assistant_text = response.get('output') if isinstance(response, dict) else str(response)
+            if assistant_text is None:
+                assistant_text = ""
+        except Exception as e:
+            logger.error(f"Agent invocation failed (guest): {e}", exc_info=True)
+            raise HTTPException(status_code=502, detail="Agent failed to respond")
+        
+        # Return ephemeral response (no real IDs)
+        return {
+            "chat": {"id": guest_session_id, "user_id": None, "title": title_text, "created_at": None},
+            "message": {"id": guest_session_id, "chat_id": guest_session_id, "sender": "assistant", "content": assistant_text, "created_at": None},
+            "title": title_text
+        }
+    
+    # Authenticated user: persist to DB
+    if current_user.id is None:
+        raise HTTPException(status_code=500, detail="Invalid user id")
+    user_id = int(current_user.id)
+    
     chat = crud.create_chat(user_id, title_text)
     
     if chat.id is None:
@@ -932,27 +973,56 @@ async def send_message_stream(
 @app.post("/chats/new/stream", tags=["Chat Management"])
 async def create_new_chat_with_message_stream(
     message: schemas.MessageCreate, 
-    current_user: models.User = Depends(auth.get_current_user)
+    current_user: models.User | None = Depends(auth.get_optional_user)
 ):
     """
     Create a new chat session and send the first message with streaming response.
     
-    This endpoint creates a new chat, sends the first message,
-    and streams the AI agent's response using Server-Sent Events (SSE).
+    Authenticated users get a persisted chat; guests get an ephemeral stream.
     
     - **content**: The first message content to send to the AI agent
     
     Returns:
         SSE stream starting with chat metadata, then response tokens
     """
-    if current_user.id is None:
-        raise HTTPException(status_code=500, detail="Invalid user id")
-    user_id = int(current_user.id)
+    is_guest = current_user is None
     
     # Generate chat title from the first message using LLM
     title_text = generate_chat_title(message.content)
     
-    # Create the chat with the title
+    if is_guest:
+        import uuid
+        guest_session_id = f"guest-{uuid.uuid4()}"
+        user_context = build_user_context(None)
+        agent_input = {"input": message.content}
+        
+        async def generate_guest_stream():
+            yield f"data: {json.dumps({'chat': {'id': guest_session_id, 'title': title_text}})}\n\n"
+            full_response = ""
+            try:
+                async for token in stream_memory_agent(agent_input, session_id=None, user_context=user_context):
+                    full_response += token
+                    yield f"data: {json.dumps({'token': token})}\n\n"
+                yield f"data: {json.dumps({'done': True, 'message_id': guest_session_id})}\n\n"
+            except Exception as e:
+                logger.error(f"Agent streaming failed (guest): {e}", exc_info=True)
+                yield f"data: {json.dumps({'error': str(e)})}\n\n"
+        
+        return StreamingResponse(
+            generate_guest_stream(),
+            media_type="text/event-stream",
+            headers={
+                "Cache-Control": "no-cache",
+                "Connection": "keep-alive",
+                "X-Accel-Buffering": "no",
+            }
+        )
+    
+    # Authenticated user: persist to DB
+    if current_user.id is None:
+        raise HTTPException(status_code=500, detail="Invalid user id")
+    user_id = int(current_user.id)
+    
     chat = crud.create_chat(user_id, title_text)
     
     if chat.id is None:
@@ -1283,12 +1353,11 @@ async def websocket_new_chat(websocket: WebSocket):
     """
     await websocket.accept()
     
-    # Authenticate
+    # Authenticate — guests get None
     current_user = await authenticate_websocket(websocket)
-    if not current_user:
-        await websocket.send_json({"type": "error", "message": "Unauthorized"})
-        await websocket.close(code=4001)
-        return
+    is_guest = current_user is None
+    
+    # Allow guest connections (no 4001 close)
     
     cancel_event = asyncio.Event()
     
@@ -1306,77 +1375,130 @@ async def websocket_new_chat(websocket: WebSocket):
         # Generate title
         title_text = generate_chat_title(user_message)
         
-        # Create the chat
-        chat = crud.create_chat(user_id=current_user.id, title=title_text)
-        if not chat:
-            await websocket.send_json({"type": "error", "message": "Failed to create chat"})
-            await websocket.close()
-            return
-        
-        logger.info(f"[WEBSOCKET NEW] Created new chat_id={chat.id}, session_id={str(chat.id)}, user_id={current_user.id}")
-        
-        # Send chat metadata
-        await websocket.send_json({"type": "chat", "id": str(chat.id), "title": title_text})
-        
-        # Store user message
-        crud.create_message(chat_id=chat.id, sender="user", content=user_message)
-        
-        # Build user context
-        user_context = build_user_context(current_user)
-        agent_input = {"input": user_message}
-        
-        # Create a task to listen for stop commands
-        async def listen_for_stop():
+        if is_guest:
+            import uuid
+            guest_session_id = f"guest-{uuid.uuid4()}"
+            
+            logger.info(f"[WEBSOCKET NEW] Guest session: {guest_session_id}")
+            
+            # Send chat metadata (ephemeral)
+            await websocket.send_json({"type": "chat", "id": guest_session_id, "title": title_text})
+            
+            user_context = build_user_context(None)
+            agent_input = {"input": user_message}
+            
+            # Create a task to listen for stop commands
+            async def listen_for_stop():
+                try:
+                    while True:
+                        msg = await websocket.receive_json()
+                        if msg.get("type") == "stop":
+                            cancel_event.set()
+                            break
+                except WebSocketDisconnect:
+                    cancel_event.set()
+                except Exception:
+                    pass
+            
+            stop_listener = asyncio.create_task(listen_for_stop())
+            
+            full_response = ""
             try:
-                while True:
-                    msg = await websocket.receive_json()
-                    if msg.get("type") == "stop":
-                        cancel_event.set()
+                async for event in stream_memory_agent_with_status(
+                    agent_input, 
+                    session_id=None,  # No DB persistence for guests
+                    user_context=user_context,
+                    cancel_event=cancel_event
+                ):
+                    if event["type"] == "token":
+                        full_response += event["content"]
+                    await websocket.send_json(event)
+                    
+                    if event["type"] in ("done", "error"):
                         break
             except WebSocketDisconnect:
-                cancel_event.set()
-            except Exception:
-                pass
-        
-        # Start listening for stop commands in background
-        stop_listener = asyncio.create_task(listen_for_stop())
-        
-        # Stream the agent response
-        full_response = ""
-        try:
-            async for event in stream_memory_agent_with_status(
-                agent_input, 
-                session_id=str(chat.id), 
-                user_context=user_context,
-                cancel_event=cancel_event
-            ):
-                if event["type"] == "token":
-                    full_response += event["content"]
-                await websocket.send_json(event)
-                
-                if event["type"] in ("done", "error"):
-                    break
-        except WebSocketDisconnect:
-            logger.info(f"WebSocket disconnected during streaming for chat {chat.id}")
-        finally:
-            stop_listener.cancel()
-        
-        # Store the complete assistant message
-        if full_response:
-            assistant_msg = crud.create_message(chat_id=chat.id, sender="assistant", content=full_response)
-            # Send final done with message_id if not already sent
-            if not cancel_event.is_set():
+                logger.info(f"WebSocket disconnected during streaming for guest session {guest_session_id}")
+            finally:
+                stop_listener.cancel()
+            
+            # Send final done for guest (no message_id since not persisted)
+            if full_response and not cancel_event.is_set():
                 try:
-                    await websocket.send_json({"type": "done", "message_id": str(assistant_msg.id)})
+                    await websocket.send_json({"type": "done", "message_id": guest_session_id})
                 except:
                     pass
+        else:
+            # Authenticated user: persist to DB
+            chat = crud.create_chat(user_id=current_user.id, title=title_text)
+            if not chat:
+                await websocket.send_json({"type": "error", "message": "Failed to create chat"})
+                await websocket.close()
+                return
+            
+            logger.info(f"[WEBSOCKET NEW] Created new chat_id={chat.id}, session_id={str(chat.id)}, user_id={current_user.id}")
+            
+            # Send chat metadata
+            await websocket.send_json({"type": "chat", "id": str(chat.id), "title": title_text})
+            
+            # Store user message
+            crud.create_message(chat_id=chat.id, sender="user", content=user_message)
+            
+            # Build user context
+            user_context = build_user_context(current_user)
+            agent_input = {"input": user_message}
+            
+            # Create a task to listen for stop commands
+            async def listen_for_stop():
+                try:
+                    while True:
+                        msg = await websocket.receive_json()
+                        if msg.get("type") == "stop":
+                            cancel_event.set()
+                            break
+                except WebSocketDisconnect:
+                    cancel_event.set()
+                except Exception:
+                    pass
+            
+            # Start listening for stop commands in background
+            stop_listener = asyncio.create_task(listen_for_stop())
+            
+            # Stream the agent response
+            full_response = ""
+            try:
+                async for event in stream_memory_agent_with_status(
+                    agent_input, 
+                    session_id=str(chat.id), 
+                    user_context=user_context,
+                    cancel_event=cancel_event
+                ):
+                    if event["type"] == "token":
+                        full_response += event["content"]
+                    await websocket.send_json(event)
+                    
+                    if event["type"] in ("done", "error"):
+                        break
+            except WebSocketDisconnect:
+                logger.info(f"WebSocket disconnected during streaming for chat {chat.id}")
+            finally:
+                stop_listener.cancel()
+            
+            # Store the complete assistant message
+            if full_response:
+                assistant_msg = crud.create_message(chat_id=chat.id, sender="assistant", content=full_response)
+                # Send final done with message_id if not already sent
+                if not cancel_event.is_set():
+                    try:
+                        await websocket.send_json({"type": "done", "message_id": str(assistant_msg.id)})
+                    except:
+                        pass
     
     except WebSocketDisconnect:
         logger.info("WebSocket disconnected")
     except Exception as e:
         logger.error(f"WebSocket error: {e}", exc_info=True)
         try:
-            await websocket.send_json({"type": "error", "message": str(e)})
+            await websocket.send_json(classify_openrouter_error(e))
         except:
             pass
 
@@ -1503,6 +1625,6 @@ async def websocket_existing_chat(websocket: WebSocket, chat_id: int):
     except Exception as e:
         logger.error(f"WebSocket error: {e}", exc_info=True)
         try:
-            await websocket.send_json({"type": "error", "message": str(e)})
+            await websocket.send_json(classify_openrouter_error(e))
         except:
             pass
