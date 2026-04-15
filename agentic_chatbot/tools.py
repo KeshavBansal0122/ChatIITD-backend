@@ -4,7 +4,9 @@ These are plain Python functions with OpenAI-compatible tool schemas.
 """
 
 import json
+import re
 from pathlib import Path
+import mwclient
 from backend.courses_db import run_select_query, get_courses_by_codes, get_offerings_for_codes
 
 # Get the directory containing this file (agentic_chatbot/)
@@ -150,6 +152,59 @@ def search_courses(query: str) -> str:
     except Exception as e:
         return f"An error occurred while searching courses: {str(e)}"
     return "No matching courses found."
+
+
+def _clean_wikitext(text: str) -> str:
+    """Strip metadata/embed wikitext markup; preserve wikilinks, bold/italic, headings, tables."""
+    # Remove [[File:...]] and [[Image:...]] embeds (but keep other wikilinks intact)
+    text = re.sub(r'\[\[(?:File|Image):[^\]]*\]\]', '', text, flags=re.IGNORECASE)
+    # Remove {{template...}} blocks
+    text = re.sub(r'\{\{[^{}]*\}\}', '', text)
+    # Unwrap external links: [http://... label] -> label, bare [http://...] -> remove
+    text = re.sub(r'\[https?://\S+\s+([^\]]+)\]', r'\1', text)
+    text = re.sub(r'\[https?://\S+\]', '', text)
+    # Collapse 3+ blank lines to 2
+    text = re.sub(r'\n{3,}', '\n\n', text)
+    return text.strip()
+
+
+def get_wiki_page(page_title: str, max_chars: int = 3000) -> str:
+    """
+    Fetches a page from the IITD community wiki (wiki.devclub.in) by its exact title.
+    """
+    try:
+        site = mwclient.Site('wiki.devclub.in', path='/')
+        page = site.pages[page_title]
+        if not page.exists:
+            return f"Page '{page_title}' not found on the wiki."
+        text = _clean_wikitext(page.text())
+        if len(text) > max_chars:
+            return text[:max_chars] + f"\n\n[...content truncated at {max_chars} characters. Use a more specific query or request a section if more detail is needed.]"
+        return text
+    except Exception as e:
+        return f"Error fetching wiki page '{page_title}': {str(e)}"
+
+
+def search_wiki(query: str) -> str:
+    """
+    Searches the IITD community wiki (wiki.devclub.in) for pages matching the query.
+    Returns up to 5 results with titles and text snippets.
+    """
+    try:
+        site = mwclient.Site('wiki.devclub.in', path='/')
+        raw_results = list(site.search(query, what='text', api_chunk_size=5, max_items=5))
+        if not raw_results:
+            return "No wiki pages found for that query."
+        results = []
+        for r in raw_results:
+            title = r.get('title', '')
+            snippet = r.get('snippet', '')
+            # Strip HTML span tags from snippets (e.g. <span class="searchmatch">)
+            snippet = re.sub(r'<[^>]+>', '', snippet).strip()
+            results.append({"title": title, "snippet": snippet})
+        return json.dumps(results, indent=2)
+    except Exception as e:
+        return f"Error searching the wiki for '{query}': {str(e)}"
 
 
 # =====================
@@ -344,6 +399,71 @@ EXAMPLES:
                 "required": ["query"]
             }
         }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "get_wiki_page",
+            "description": """Fetches a page from the IITD community wiki (wiki.devclub.in) by its exact title.
+
+WHEN TO USE: For questions about campus life, student resources, clubs, campus facilities, and general IITD info NOT covered by other tools
+
+DO NOT USE for:
+- Course details → use get_course_data / search_courses / query_sqlite_db
+- Academic rules/policies → use get_rules_section / search_rules
+- Programme structures → use get_programme_structure
+
+If you don't know the exact page title, use search_wiki first.
+
+FOLLOWING LINKS: The returned wikitext preserves [[Wikilink]] and [[Page|label]] syntax.
+The page title inside [[ ]] can be passed directly to get_wiki_page to fetch that linked page.
+
+KNOWN TOP LEVEL PAGE TITLES (use these exactly):
+Hostels, Clubs_and_Societies, Student_Bodies, Buildings, Sports_Facilities,
+Mess_and_Food, Placements, Internships, Scholarships, Library, Health_Services,
+Transportation, Faculty_Directory, Important_Contacts, Rules_and_Regulations,
+Fee_Structure, Courses, Departments, Centres, Schools, Academic_Calendar,
+Grading_System, Main_Page""",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "page_title": {
+                        "type": "string",
+                        "description": "Exact wiki page title (e.g., 'Hostels', 'Clubs_and_Societies')"
+                    },
+                    "max_chars": {
+                        "type": "integer",
+                        "description": "Maximum characters to return (default 3000)"
+                    }
+                },
+                "required": ["page_title"]
+            }
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "search_wiki",
+            "description": """Searches the IITD community wiki (wiki.devclub.in) for pages matching the query.
+
+WHEN TO USE:
+- When you don't know the exact wiki page title
+- For exploratory queries about campus life, facilities, or student resources
+- As a fallback when get_wiki_page returns "Page not found"
+
+Returns up to 5 results with page titles and text snippets.
+After finding the relevant title, call get_wiki_page with that title to get the full content.""",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "query": {
+                        "type": "string",
+                        "description": "Search query to find relevant wiki pages"
+                    }
+                },
+                "required": ["query"]
+            }
+        }
     }
 ]
 
@@ -355,6 +475,8 @@ TOOL_MAPPING = {
     "get_rules_section": get_rules_section,
     "search_rules": search_rules,
     "search_courses": search_courses,
+    "get_wiki_page": get_wiki_page,
+    "search_wiki": search_wiki,
 }
 
 
@@ -371,3 +493,6 @@ def execute_tool(tool_name: str, arguments: dict) -> str:
         return tool_func(**arguments)
     except Exception as e:
         return f"Error executing tool '{tool_name}': {str(e)}"
+
+if __name__ == '__main__':
+    search_wiki('ARIES')

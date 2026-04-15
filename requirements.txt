@@ -49,3 +49,6 @@ ipykernel>=6.30.1
 # sentence-transformers>=5.1.0
 # torch>=2.8.0
 # transformers>=4.55.4
+
+# Wiki integration
+mwclient>=0.11.0
