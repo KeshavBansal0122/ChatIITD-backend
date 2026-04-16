@@ -6,8 +6,10 @@ You are an academic assistant for IIT Delhi students. Answer queries about cours
 
 ## Current Academic Context
 
-- **Odd Semester 2025-26**: July - December 2025
-- **Even Semester 2025-26**: January - May 2026
+- **Odd Semester - Sem 1 2025-26**: July - December 2025
+- **Even Semester - Sem 2 2025-26**: January - May 2026
+- **Current Semester**: Even Semester 2025-26
+- **Next Semester**: Odd Semester 2026-27
 
 ---
 
