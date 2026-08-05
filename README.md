@@ -7,89 +7,96 @@ FastAPI backend providing REST endpoints for authentication (DevClub OAuth), cha
 ```bash
 python -m venv .venv
 source .venv/bin/activate
-pip install -r backend/requirements.txt
+pip install -r requirements.txt
+cp .env.example .env   # fill in secrets
 ```
 
-Start Qdrant first (required):
+Start infra (Postgres + Qdrant + snapshot restore):
 
 ```bash
-docker compose up qdrant
+docker compose up -d postgres qdrant
+docker compose up qdrant-init
 ```
 
 Run the backend:
 
 ```bash
-uvicorn backend.main:app --host 127.0.0.1 --port 3000 --reload
+uvicorn backend.main:app --host 127.0.0.1 --port 8000 --reload
 ```
 
 ## Docker Setup
 
-Build and start the full stack (backend + Qdrant):
+Build and start the full backend stack (Postgres + Qdrant + restore + API):
 
 ```bash
+cp .env.example .env   # fill in secrets
 docker compose up --build
 ```
 
-- Place any Qdrant snapshot files in `snapshots/` before starting — they are mounted at `/qdrant/snapshots` in the container for restore operations.
-- FastAPI backend: `http://localhost:3000`
+- Place any Qdrant snapshot files in `snapshots/` before starting — `qdrant-init` mounts them at `/snapshots` and restores into Qdrant.
+- FastAPI backend: `http://localhost:8000`
 - Qdrant API: `http://localhost:6333` (dashboard at `/dashboard`)
-- Persistent volumes: `backend-data` (SQLite) and `qdrant-storage` (Qdrant collections)
+- Postgres: `localhost:5432` (`chatiitd` / `chatiitd_dev`)
+- Persistent volumes: `postgres-data`, `qdrant-storage`, `backend-uploads`
 
-## Manual Run (without Docker)
+For the SPA, use `frontend/docker-compose.yml` (serves on `http://localhost:3000`). Backend CORS defaults allow both Vite (`:5173`) and Docker frontend (`:3000`).
 
-1. Start Qdrant:
+## Manual Run (without full Docker stack)
+
+1. Start Postgres + Qdrant:
 
 ```bash
-sudo docker run -d -p 6333:6333 -p 6334:6334 --restart unless-stopped qdrant/qdrant
+docker compose up -d postgres qdrant
+docker compose up qdrant-init
 ```
 
-2. Upload snapshots at `http://localhost:6333/dashboard`.
+2. Create `.env` in the project root (see Environment Variables below / `.env.example`).
 
-3. Create `.env` in the project root (see Environment Variables below).
-
-4. Install and run:
+3. Install and run:
 
 ```bash
-pip install -r backend/requirements.txt
-uvicorn backend.main:app --host 127.0.0.1 --port 3000
+pip install -r requirements.txt
+uvicorn backend.main:app --host 127.0.0.1 --port 8000
 ```
 
 ## Environment Variables
 
-Create a `.env` file in the project root:
+Create a `.env` file in the project root (see `.env.example`):
 
 ```bash
-# Google Gemini LLM (REQUIRED)
-GOOGLE_API_KEY=your_google_api_key_here
+# OpenRouter LLM (REQUIRED)
+OPENROUTER_API_KEY=your_openrouter_api_key_here
+OPENROUTER_MODEL=openai/gpt-oss-120b:free
 
 # DevClub OAuth (REQUIRED)
 CLIENT_ID=your_devclub_client_id_here
 CLIENT_SECRET=your_devclub_client_secret_here
 
-# JWT
-JWT_SECRET=change-me-in-prod
-JWT_EXP_MINUTES=1440
-
-# Database
-DATABASE_URL=sqlite:///messages.db
+# Database (Postgres recommended)
+DATABASE_URL=postgresql://chatiitd:chatiitd_dev@localhost:5432/chatiitd
 
 # Qdrant
 QDRANT_URL=http://localhost:6333
+
+# CORS / URLs
+FRONTEND_URL=http://localhost:5173,http://localhost:3000
+BACKEND_URL=http://localhost:8000
 
 # Optional: bypass auth for demos
 DEMO_MODE=false
 ```
 
-| Variable          | Description                      | Default                 |
-| ----------------- | -------------------------------- | ----------------------- |
-| `GOOGLE_API_KEY`  | Gemini LLM API key               | —                       |
-| `CLIENT_ID`       | DevClub OAuth client ID          | —                       |
-| `CLIENT_SECRET`   | DevClub OAuth client secret      | —                       |
-| `JWT_SECRET`      | Secret for signing JWTs          | `change-me-in-prod`     |
-| `JWT_EXP_MINUTES` | JWT expiration in minutes        | `1440`                  |
-| `DATABASE_URL`    | SQLModel DB URL                  | `sqlite:///messages.db` |
-| `QDRANT_URL`      | Qdrant server URL                | `http://localhost:6333` |
-| `DEMO_MODE`       | Bypass auth for demos            | `false`                 |
+| Variable             | Description                     | Default                 |
+| -------------------- | ------------------------------- | ----------------------- |
+| `OPENROUTER_API_KEY` | OpenRouter LLM API key          | —                       |
+| `OPENROUTER_MODEL`   | OpenRouter model id             | see `.env.example`      |
+| `CLIENT_ID`          | DevClub OAuth client ID         | —                       |
+| `CLIENT_SECRET`      | DevClub OAuth client secret     | —                       |
+| `DATABASE_URL`       | SQLModel DB URL                 | Postgres URL above      |
+| `QDRANT_URL`         | Qdrant server URL               | `http://localhost:6333` |
+| `FRONTEND_URL`       | CORS origin(s), comma-separated | `http://localhost:5173` |
+| `BACKEND_URL`        | Public backend URL              | `http://localhost:8000` |
+| `DEMO_MODE`          | Bypass auth for demos           | `false`                 |
 
 ## API Documentation
 
@@ -97,10 +104,10 @@ Interactive documentation is available once the server is running:
 
 | URL | Description |
 | --- | --- |
-| `http://localhost:3000/docs` | Standard Swagger UI |
-| `http://localhost:3000/docs-advanced` | Enhanced Swagger UI (persistent auth, deep linking) |
-| `http://localhost:3000/redoc` | ReDoc (clean, readable format) |
-| `http://localhost:3000/openapi.json` | Raw OpenAPI 3.0 schema |
+| `http://localhost:8000/docs` | Standard Swagger UI |
+| `http://localhost:8000/docs-advanced` | Enhanced Swagger UI (persistent auth, deep linking) |
+| `http://localhost:8000/redoc` | ReDoc (clean, readable format) |
+| `http://localhost:8000/openapi.json` | Raw OpenAPI 3.0 schema |
 
 ## Authentication
 
@@ -188,7 +195,7 @@ Each Qdrant point payload has:
 
 ## Production Notes
 
-- Use Secrets Manager or Parameter Store for `JWT_SECRET`, `CLIENT_ID`, `CLIENT_SECRET`.
+- Use Secrets Manager or Parameter Store for `CLIENT_ID`, `CLIENT_SECRET`, and `OPENROUTER_API_KEY`.
 - Use managed PostgreSQL (RDS or similar) for production DB.
 - Ensure Qdrant is reachable from the backend (Qdrant Cloud or self-hosted on ECS).
-- The `uploads/` directory should be on a persistent volume or object storage (S3) in production.
+- The `uploads/` directory should be on a persistent volume or object storage (S3) in production (`backend-uploads` volume in Compose).

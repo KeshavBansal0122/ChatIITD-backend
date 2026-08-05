@@ -21,9 +21,9 @@ RUN pip install --upgrade pip \
 
 COPY . /app
 
-RUN mkdir -p /app/data /app/uploads
+RUN mkdir -p /app/uploads
 
-# Default to PostgreSQL (override with environment variable)
+# Default to PostgreSQL (compose overrides host to `postgres`)
 ENV DATABASE_URL=postgresql://chatiitd:chatiitd_dev@postgres:5432/chatiitd
 EXPOSE 8000
 

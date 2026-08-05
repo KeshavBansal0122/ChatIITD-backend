@@ -24,36 +24,58 @@ services:
       - "6334:6334"
     volumes:
       - qdrant-storage:/qdrant/storage
+    # Official image has no wget/curl — probe the TCP port with bash
+    healthcheck:
+      test: ["CMD-SHELL", "bash -c 'exec 3<>/dev/tcp/127.0.0.1/6333'"]
+      interval: 5s
+      timeout: 5s
+      retries: 12
+      start_period: 5s
 
   qdrant-init:
     image: python:3.11-slim
     volumes:
       - ./snapshots:/snapshots
     environment:
-      - QDRANT_HOST=qdrant
+      QDRANT_HOST: qdrant
+      QDRANT_PORT: "6333"
     depends_on:
-      - qdrant
+      qdrant:
+        condition: service_healthy
     command: >
-      sh -c "pip install requests && python /snapshots/restore.py"
+      sh -c "pip install --quiet requests && python /snapshots/restore.py"
+    restart: on-failure
 
-  # Uncomment to run backend in Docker
-  # backend:
-  #   build:
-  #     context: .
-  #     dockerfile: Dockerfile
-  #   env_file:
-  #     - .env
-  #   environment:
-  #     DATABASE_URL: postgresql://chatiitd:chatiitd_dev@postgres:5432/chatiitd
-  #     QDRANT_URL: http://qdrant:6333
-  #   ports:
-  #     - "8000:8000"
-  #   depends_on:
-  #     postgres:
-  #       condition: service_healthy
-  #     qdrant:
-  #       condition: service_started
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    env_file:
+      - .env
+    environment:
+      DATABASE_URL: postgresql://chatiitd:chatiitd_dev@postgres:5432/chatiitd
+      QDRANT_URL: http://qdrant:6333
+      # Comma-separated origins OK. Defaults cover Vite (:5173) and Docker frontend (:3000).
+      FRONTEND_URL: ${FRONTEND_URL:-http://localhost:5173,http://localhost:3000}
+      BACKEND_URL: ${BACKEND_URL:-http://localhost:8000}
+    ports:
+      - "8000:8000"
+    volumes:
+      - backend-uploads:/app/uploads
+    depends_on:
+      postgres:
+        condition: service_healthy
+      qdrant-init:
+        condition: service_completed_successfully
+    healthcheck:
+      test: ["CMD-SHELL", "python -c \"import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health')\""]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 20s
+    restart: unless-stopped
 
 volumes:
   postgres-data:
   qdrant-storage:
+  backend-uploads:

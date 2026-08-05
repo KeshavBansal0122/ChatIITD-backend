@@ -214,7 +214,10 @@ def build_user_context(user: models.User | None) -> dict:
 
 
 # Environment variables for URLs
-FRONTEND_URL = os.environ.get("FRONTEND_URL", "http://localhost:5173")
+# FRONTEND_URL may be a single origin or comma-separated list (Vite :5173 + Docker :3000)
+_FRONTEND_URL_RAW = os.environ.get("FRONTEND_URL", "http://localhost:5173")
+FRONTEND_ORIGINS = [o.strip() for o in _FRONTEND_URL_RAW.split(",") if o.strip()]
+FRONTEND_URL = FRONTEND_ORIGINS[0] if FRONTEND_ORIGINS else "http://localhost:5173"
 BACKEND_URL = os.environ.get("BACKEND_URL", "http://localhost:8000")
 
 # Uploads directory for admin-uploaded PDFs
@@ -304,11 +307,14 @@ app = FastAPI(
 )
 
 # Allowed origins for CORS
-ALLOWED_ORIGINS = [
-    FRONTEND_URL,
-    FRONTEND_URL.replace("http://", "http://127.0.0.1:").replace("localhost:", ""),  # 127.0.0.1 variant
-    "https://auth.devclub.in",   # IITD OAuth server
-]
+ALLOWED_ORIGINS = []
+for origin in FRONTEND_ORIGINS:
+    ALLOWED_ORIGINS.append(origin)
+    # Also allow the 127.0.0.1 variant of localhost origins
+    if "localhost" in origin:
+        ALLOWED_ORIGINS.append(origin.replace("localhost", "127.0.0.1"))
+ALLOWED_ORIGINS.append("https://auth.devclub.in")  # IITD OAuth server
+ALLOWED_ORIGINS = list(dict.fromkeys(ALLOWED_ORIGINS))
 
 # CORS middleware - allows cross-origin requests from frontend and OAuth provider
 app.add_middleware(
