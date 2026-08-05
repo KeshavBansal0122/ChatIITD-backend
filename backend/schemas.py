@@ -45,7 +45,7 @@ class OAuthSigninUrlResponse(BaseModel):
     class Config:
         json_schema_extra = {
             "example": {
-                "signin_url": "https://auth.devclub.in/api/oauth/authorize?response_type=code&client_id=your_client_id&redirect_uri=http://localhost:3000/callback&scope=openid%20profile%20email&state=abc123&code_challenge=xyz789&code_challenge_method=S256",
+                "signin_url": "https://auth.devclub.in/api/oauth/authorize?response_type=code&client_id=your_client_id&redirect_uri=http://localhost:5173/callback&scope=openid%20profile%20email%20hostel%20entry_number%20kerberos&state=abc123&code_challenge=xyz789&code_challenge_method=S256",
                 "state": "abc123",
                 "instructions": "Redirect user to this URL to initiate OAuth flow. The state is stored server-side with PKCE parameters."
             }

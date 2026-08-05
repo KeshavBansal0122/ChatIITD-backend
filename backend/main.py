@@ -235,7 +235,7 @@ app = FastAPI(
     
     ## Features
     
-    * **Authentication**: OAuth integration with IITD OAuth (auth.devclub.in)
+    * **Authentication**: OIDC via DevClub (https://auth.devclub.in) — PKCE S256
     * **Chat Management**: Create, manage, and interact with chat sessions
     * **Document Management**: Upload, process, and manage PDF documents (Admin only)
     * **AI Agent Integration**: Interact with memory-enabled AI agents
@@ -514,13 +514,17 @@ async def auth_callback(payload: schemas.OAuthCallbackRequest):
             detail="Missing code or state in the request"
         )
     
-    # Exchange authorization code for access token (with PKCE verification)
-    access_token, user_info = await auth.exchange_code_for_token(code, state)
-    
+    # Exchange authorization code with DevClub OIDC (PKCE + client_secret_post)
+    _idp_access_token, user_info = await auth.exchange_code_for_token(code, state)
+
     # Get or create user in database
     user = crud.get_or_create_user(user_info)
     logger.info(f"Authenticated user: {user.email}")
-    
+
+    # Mint our own API JWT (frontend keeps receiving { access_token, token_type })
+    subject = user.oauth_id or str(user.id)
+    access_token = auth.create_access_token({"sub": subject})
+
     return {"access_token": access_token, "token_type": "bearer"}
 
 
