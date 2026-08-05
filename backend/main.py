@@ -219,6 +219,8 @@ _FRONTEND_URL_RAW = os.environ.get("FRONTEND_URL", "http://localhost:5173")
 FRONTEND_ORIGINS = [o.strip() for o in _FRONTEND_URL_RAW.split(",") if o.strip()]
 FRONTEND_URL = FRONTEND_ORIGINS[0] if FRONTEND_ORIGINS else "http://localhost:5173"
 BACKEND_URL = os.environ.get("BACKEND_URL", "http://localhost:8000")
+# Public path prefix when behind nginx (e.g. /backend → strips to app routes)
+ROOT_PATH = os.environ.get("ROOT_PATH", "").rstrip("/")
 
 # Uploads directory for admin-uploaded PDFs
 UPLOADS_DIR = Path(__file__).resolve().parent.parent / "uploads"
@@ -227,6 +229,7 @@ UPLOADS_DIR.mkdir(exist_ok=True)
 # Enhanced FastAPI app with comprehensive documentation
 app = FastAPI(
     title="IITD Agent Backend API",
+    root_path=ROOT_PATH,
     description="""
     A comprehensive backend API for the IITD Chat Agent system.
     
@@ -400,7 +403,7 @@ async def get_advanced_docs():
     Enhanced Swagger UI with additional features for API testing.
     """
     return get_swagger_ui_html(
-        openapi_url=app.openapi_url,
+        openapi_url=f"{ROOT_PATH}{app.openapi_url}",
         title=f"{app.title} - Enhanced API Documentation",
         swagger_js_url="https://cdn.jsdelivr.net/npm/swagger-ui-dist@5.10.5/swagger-ui-bundle.js",
         swagger_css_url="https://cdn.jsdelivr.net/npm/swagger-ui-dist@5.10.5/swagger-ui.css",

@@ -57,7 +57,19 @@ services:
       QDRANT_URL: http://qdrant:6333
       # Comma-separated origins OK. Defaults cover Vite (:5173) and Docker frontend (:3000).
       FRONTEND_URL: ${FRONTEND_URL:-http://localhost:5173,http://localhost:3000}
-      BACKEND_URL: ${BACKEND_URL:-http://localhost:8000}
+      # Public URL as seen by clients (include /backend when using the nginx path prefix)
+      BACKEND_URL: ${BACKEND_URL:-http://35.154.241.94/backend}
+      ROOT_PATH: ${ROOT_PATH:-/backend}
+    command:
+      - uvicorn
+      - backend.main:app
+      - --host
+      - "0.0.0.0"
+      - --port
+      - "8000"
+      - --proxy-headers
+      - --root-path
+      - ${ROOT_PATH:-/backend}
     ports:
       - "8000:8000"
     volumes:
