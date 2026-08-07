@@ -1,0 +1,52 @@
+# syntax=docker/dockerfile:1
+# Preloads catalog, instructors, LDAP enrollments, hostels, and usercourse
+# into a Postgres dump baked into the image (loaded on first container start
+# when the data volume is empty).
+
+ARG POSTGRES_VERSION=16
+
+FROM postgres:${POSTGRES_VERSION}-bookworm AS seeder
+
+ARG SEED_ACTIVATE=2601
+ARG SEED_SKIP_ENROLLMENTS=0
+ENV SEED_ACTIVATE=${SEED_ACTIVATE} \
+    SEED_SKIP_ENROLLMENTS=${SEED_SKIP_ENROLLMENTS} \
+    POSTGRES_USER=chatiitd \
+    POSTGRES_PASSWORD=chatiitd_dev \
+    POSTGRES_DB=chatiitd \
+    PGDATA=/var/lib/postgresql/data
+
+USER root
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends \
+        python3 \
+        python3-pip \
+        python3-venv \
+        build-essential \
+        libpq-dev \
+    && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+
+COPY requirements-seed.txt /tmp/requirements-seed.txt
+RUN python3 -m venv /opt/venv \
+    && /opt/venv/bin/pip install --upgrade pip \
+    && /opt/venv/bin/pip install --no-cache-dir -r /tmp/requirements-seed.txt
+
+# App tables + seed scripts + catalog CSVs + LDAP JSON (PII; must exist locally)
+COPY backend/ /app/backend/
+COPY sources/ /app/sources/
+COPY db/ /app/db/
+COPY courses.sqlite /app/courses.sqlite
+COPY docker/build_postgres_seed.sh /build_postgres_seed.sh
+
+RUN chmod +x /build_postgres_seed.sh \
+    && /build_postgres_seed.sh
+
+FROM postgres:${POSTGRES_VERSION}-alpine
+
+ENV POSTGRES_USER=chatiitd \
+    POSTGRES_PASSWORD=chatiitd_dev \
+    POSTGRES_DB=chatiitd
+
+COPY --from=seeder /seed/01_chatiitd_seed.sql /docker-entrypoint-initdb.d/01_chatiitd_seed.sql

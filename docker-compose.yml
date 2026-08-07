@@ -1,6 +1,13 @@
 services:
   postgres:
-    image: postgres:16-alpine
+    build:
+      context: .
+      dockerfile: Dockerfile.postgres
+      args:
+        # Requires sources/classgrid_catalog/ldap_exports/ on the build machine
+        SEED_ACTIVATE: ${SEED_ACTIVATE:-2601}
+        SEED_SKIP_ENROLLMENTS: ${SEED_SKIP_ENROLLMENTS:-0}
+    image: chatiitd-postgres:seeded
     restart: unless-stopped
     environment:
       POSTGRES_USER: chatiitd
@@ -9,12 +16,16 @@ services:
     ports:
       - "5432:5432"
     volumes:
+      # First start loads /docker-entrypoint-initdb.d seed dump.
+      # Re-seed after rebuild: docker compose down -v && docker compose up -d --build
       - postgres-data:/var/lib/postgresql/data
     healthcheck:
       test: ["CMD-SHELL", "pg_isready -U chatiitd -d chatiitd"]
       interval: 5s
       timeout: 5s
-      retries: 5
+      retries: 12
+      # First boot applies ~28MB seed SQL from the image
+      start_period: 90s
 
   qdrant:
     image: qdrant/qdrant:latest

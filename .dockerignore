@@ -2,8 +2,6 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
-*.db
-*.sqlite3
 *.log
 .env
 .env.*
@@ -14,3 +12,13 @@ __pycache__/
 .mypy_cache/
 .pytest_cache/
 .DS_Store
+.venv/
+venv/
+uploads/
+qdrant_storage/
+snapshots/
+*.egg-info/
+backend.log
+install.log
+nginx.conf
+# Keep seed inputs: courses_offered/, ldap_exports/, courses.sqlite, student_hostels.csv

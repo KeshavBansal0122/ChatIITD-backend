@@ -23,7 +23,9 @@ COPY . /app
 
 RUN mkdir -p /app/uploads
 
-# Default to PostgreSQL (compose overrides host to `postgres`)
+# Default to PostgreSQL (compose overrides host to `postgres`).
+# Catalog / enrollments / usercourse are preloaded by Dockerfile.postgres at
+# image build time — see docker-compose `postgres` service.
 ENV DATABASE_URL=postgresql://chatiitd:chatiitd_dev@postgres:5432/chatiitd
 EXPOSE 8000
 

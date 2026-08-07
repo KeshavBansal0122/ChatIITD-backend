@@ -1,0 +1,5 @@
+# Minimal deps for Docker DB seed (no torch / sentence-transformers)
+SQLAlchemy==2.0.29
+sqlmodel==0.0.27
+psycopg2-binary>=2.9.9
+httpx==0.28.1
