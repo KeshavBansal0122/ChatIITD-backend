@@ -24,7 +24,16 @@ setup_logging()
 logger = get_logger(__name__)
 
 # Import agent functions after logging is configured
-from agentic_chatbot.agent import invoke_memory_agent, generate_chat_title, stream_memory_agent, stream_memory_agent_with_status, classify_openrouter_error
+from agentic_chatbot.agent import (
+    invoke_memory_agent,
+    generate_chat_title,
+    stream_memory_agent,
+    stream_memory_agent_with_status,
+    stream_memory_agent_data_stream,
+    message_history_to_thread_messages,
+    classify_openrouter_error,
+)
+from agentic_chatbot import data_stream as ds
 
 # Programme code mapping from kerberos prefix to programme name
 PROGRAMME_CODES = {
@@ -324,7 +333,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=ALLOWED_ORIGINS,
     allow_credentials=True,
-    allow_methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    allow_methods=["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"],
     allow_headers=["*"],
     expose_headers=["*"],
 )
@@ -430,6 +439,11 @@ async def get_advanced_docs():
 @app.on_event("startup")
 def on_startup():
     models.init_db()
+    try:
+        from .quota import ensure_usage_tables
+        ensure_usage_tables()
+    except Exception as e:
+        logger.warning(f"Could not ensure llm_usage tables: {e}")
     logger.info("=" * 60)
     logger.info("IITD Agent Backend API Server Started")
     logger.info("=" * 60)
@@ -441,6 +455,7 @@ def on_startup():
     logger.info(f"CLIENT_ID configured: {bool(client_id)} ({'set' if client_id else 'MISSING - auth will fail'})")
     logger.info(f"CLIENT_SECRET configured: {bool(client_secret)} ({'set' if client_secret else 'MISSING - auth will fail'})")
     logger.info(f"DEMO_MODE: {os.environ.get('DEMO_MODE', 'false')}")
+    logger.info(f"RATE_LIMIT_ENABLED: {os.environ.get('RATE_LIMIT_ENABLED', 'true')}")
     logger.info("=" * 60)
 
 
@@ -736,6 +751,80 @@ def search_courses(
     return schemas.CourseSearchResponse(
         courses=[schemas.CourseSearchResult(code=r["code"], name=r["name"]) for r in results]
     )
+
+
+@app.get("/user/usage", response_model=schemas.UsageStatusResponse, tags=["User Profile"])
+def get_user_usage(
+    request: Request,
+    current_user: models.User | None = Depends(auth.get_optional_user),
+):
+    """Rolling token window status (prompt + completion)."""
+    from .chat_gate import gate_chat_request  # noqa: F401
+    from . import llm_clients, quota
+    from .device_id import ensure_device_cookie
+
+    device = ensure_device_cookie(request, None)
+    user_id = int(current_user.id) if current_user and current_user.id is not None else None
+    has_byok = llm_clients.user_has_byok(user_id) if user_id else False
+    status = quota.check_quota(
+        user_id=user_id,
+        device_fingerprint=device.fingerprint,
+        has_byok=has_byok,
+    )
+    return schemas.UsageStatusResponse(
+        used=status.used,
+        limit=status.limit,
+        remaining=status.remaining,
+        window_hours=status.window_hours,
+        resets_at=status.resets_at.isoformat() if status.resets_at else None,
+        byok=status.byok,
+        providers=list(llm_clients.PROVIDER_PRESETS.keys()),
+    )
+
+
+@app.get("/user/llm-credentials", tags=["User Profile"])
+def get_llm_credentials(current_user: models.User = Depends(auth.get_current_user)):
+    from . import llm_clients
+
+    view = llm_clients.credentials_public_view(int(current_user.id))
+    if not view:
+        return {"connected": False, "credentials": None}
+    return {"connected": True, "credentials": view}
+
+
+@app.put("/user/llm-credentials", tags=["User Profile"])
+async def put_llm_credentials(
+    body: schemas.LlmCredentialsUpsert,
+    current_user: models.User = Depends(auth.get_current_user),
+):
+    """Store encrypted BYOK credentials. Never returns the raw key."""
+    from . import llm_clients
+
+    try:
+        await llm_clients.validate_credentials(
+            body.provider, body.api_key, body.base_url, body.model
+        )
+    except Exception as e:
+        raise HTTPException(status_code=400, detail=f"Credential validation failed: {e}")
+    try:
+        saved = llm_clients.save_user_credentials(
+            int(current_user.id),
+            provider=body.provider,
+            api_key=body.api_key,
+            base_url=body.base_url,
+            model=body.model,
+        )
+    except ValueError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+    return {"connected": True, "credentials": saved}
+
+
+@app.delete("/user/llm-credentials", tags=["User Profile"])
+def delete_llm_credentials(current_user: models.User = Depends(auth.get_current_user)):
+    from . import llm_clients
+
+    deleted = llm_clients.delete_user_credentials(int(current_user.id))
+    return {"connected": False, "deleted": deleted}
 
 
 @app.post("/chats", response_model=schemas.ChatRead, tags=["Chat Management"])
@@ -1116,6 +1205,200 @@ def delete_chat_endpoint(chat_id: int, current_user: models.User = Depends(auth.
     
     crud.delete_chat(chat_id)
     return {"detail": "Chat deleted"}
+
+
+@app.patch("/chats/{chat_id}", response_model=schemas.ChatRead, tags=["Chat Management"])
+def patch_chat(
+    chat_id: int,
+    request: schemas.ChatCreate,
+    current_user: models.User = Depends(auth.get_current_user),
+):
+    """Rename a chat (title)."""
+    chat = crud.get_chat(chat_id)
+    if not chat or chat.user_id != current_user.id:
+        raise HTTPException(status_code=404, detail="Chat not found")
+    updated = crud.update_chat_title(chat_id, request.title or "New Chat")
+    if not updated:
+        raise HTTPException(status_code=404, detail="Chat not found")
+    return updated
+
+
+@app.post("/chats/{chat_id}/title", tags=["Chat Management"])
+def generate_title_for_chat(
+    chat_id: int,
+    body: dict,
+    current_user: models.User = Depends(auth.get_current_user),
+):
+    """Generate a title from the first user message (assistant-ui ThreadList adapter)."""
+    chat = crud.get_chat(chat_id)
+    if not chat or chat.user_id != current_user.id:
+        raise HTTPException(status_code=404, detail="Chat not found")
+
+    messages = body.get("messages") or []
+    user_text = ""
+    for m in messages:
+        if m.get("role") == "user":
+            content = m.get("content")
+            if isinstance(content, str):
+                user_text = content
+            elif isinstance(content, list):
+                user_text = " ".join(
+                    p.get("text", "") for p in content if isinstance(p, dict) and p.get("type") == "text"
+                )
+            break
+    if not user_text:
+        user_text = chat.title or "New Chat"
+
+    title = generate_chat_title(user_text)
+    crud.update_chat_title(chat_id, title)
+    return {"title": title}
+
+
+@app.get("/chats/{chat_id}/aui-messages", tags=["Messages"])
+def get_aui_messages(chat_id: int, current_user: models.User = Depends(auth.get_current_user)):
+    """
+    Return ThreadMessageLike[] reconstructed from MessageHistory
+    (includes tool-call parts + results for assistant-ui history reload).
+    """
+    chat = crud.get_chat(chat_id)
+    if not chat or chat.user_id != current_user.id:
+        raise HTTPException(status_code=404, detail="Chat not found")
+    return message_history_to_thread_messages(str(chat_id))
+
+
+@app.post("/assistant/chat", tags=["Assistant UI"])
+async def assistant_chat(
+    request: Request,
+    current_user: models.User | None = Depends(auth.get_optional_user),
+):
+    """
+    Data-stream protocol endpoint for assistant-ui (`useDataStreamRuntime`).
+
+    Body: { messages, threadId?, ... }
+    Response: text/plain data-stream v1 (x-vercel-ai-data-stream: v1)
+    """
+    from .chat_gate import gate_chat_request
+    from .device_id import attach_device_cookie
+
+    try:
+        body = await request.json()
+    except Exception:
+        raise HTTPException(status_code=400, detail="Invalid JSON body")
+
+    messages = body.get("messages") or []
+    thread_id = body.get("threadId")
+
+    # Extract last user text from assistant-ui / AI SDK message shapes
+    user_message = ""
+    for m in reversed(messages):
+        if m.get("role") != "user":
+            continue
+        content = m.get("content")
+        if isinstance(content, str):
+            user_message = content
+        elif isinstance(content, list):
+            parts = []
+            for p in content:
+                if isinstance(p, dict):
+                    if p.get("type") == "text":
+                        parts.append(p.get("text") or "")
+                    elif "text" in p:
+                        parts.append(str(p["text"]))
+            user_message = "".join(parts)
+        break
+
+    if not user_message.strip():
+        raise HTTPException(status_code=400, detail="No user message found")
+
+    # Scope + quota + device id (cookie attached on final response)
+    gate = gate_chat_request(
+        request=request,
+        response=None,
+        message=user_message,
+        user=current_user,
+    )
+    if not gate.allowed:
+        resp = JSONResponse(
+            status_code=400,
+            content={"detail": gate.refusal, "error": "out_of_scope"},
+        )
+        if gate.device:
+            attach_device_cookie(resp, gate.device)
+        return resp
+
+    is_guest = current_user is None
+    session_id: str | None = None
+    chat = None
+
+    if is_guest:
+        session_id = None
+    else:
+        if thread_id is None or str(thread_id).startswith("guest-"):
+            title_text = generate_chat_title(user_message, agent_ctx=gate.agent_ctx)
+            chat = crud.create_chat(user_id=current_user.id, title=title_text)
+            session_id = str(chat.id)
+            thread_id = session_id
+            if gate.agent_ctx:
+                gate.agent_ctx.chat_id = chat.id
+        else:
+            try:
+                chat_id_int = int(thread_id)
+            except (TypeError, ValueError):
+                raise HTTPException(status_code=400, detail="Invalid threadId")
+            chat = crud.get_chat(chat_id_int)
+            if not chat or chat.user_id != current_user.id:
+                raise HTTPException(status_code=404, detail="Chat not found")
+            session_id = str(chat.id)
+            if gate.agent_ctx:
+                gate.agent_ctx.chat_id = chat.id
+            if not chat.title or chat.title in ("New Chat", "Untitled"):
+                title_text = generate_chat_title(user_message, agent_ctx=gate.agent_ctx)
+                crud.update_chat_title(chat.id, title_text)
+
+        crud.create_message(chat_id=chat.id, sender="user", content=user_message)
+
+    user_context = build_user_context(current_user)
+    agent_input = {"input": user_message}
+    cancel_event = asyncio.Event()
+
+    async def generate():
+        full_response = ""
+        try:
+            if chat is not None:
+                yield ds.data([{"type": "thread-id", "threadId": str(chat.id)}])
+
+            async for line in stream_memory_agent_data_stream(
+                agent_input,
+                session_id=session_id,
+                user_context=user_context,
+                cancel_event=cancel_event,
+                agent_ctx=gate.agent_ctx,
+            ):
+                if await request.is_disconnected():
+                    cancel_event.set()
+                    break
+                if line.startswith("0:"):
+                    try:
+                        full_response += json.loads(line[2:])
+                    except Exception:
+                        pass
+                yield line
+        except Exception as e:
+            logger.error(f"[assistant/chat] stream failed: {e}", exc_info=True)
+            yield ds.error(str(e))
+        finally:
+            if chat is not None and full_response:
+                try:
+                    crud.create_message(chat_id=chat.id, sender="assistant", content=full_response)
+                except Exception as e:
+                    logger.error(f"[assistant/chat] failed to persist assistant message: {e}")
+
+    streaming = StreamingResponse(
+        generate(), headers=ds.DATA_STREAM_HEADERS, media_type="text/plain; charset=utf-8"
+    )
+    if gate.device:
+        attach_device_cookie(streaming, gate.device)
+    return streaming
 
 
 # ============================================================

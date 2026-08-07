@@ -126,12 +126,25 @@ def get_or_create_user(user_info: dict) -> models.User:
     - department -> department
     - category -> category
     
-    Args:
-        user_info: Dictionary with OAuth claims
-        
-    Returns:
-        User object (existing or newly created)
+    Also matches LDAP stub users by kerberos/email and seeds usercourse
+    from student_enrollments when the profile has no courses yet.
     """
+    user = _get_or_create_user_core(user_info)
+    try:
+        from .enrollment_sync import seed_user_courses_from_ldap
+        seeded = seed_user_courses_from_ldap(user, only_if_empty=True)
+        if seeded:
+            logger.info(
+                "[get_or_create_user] seeded %s course rows from LDAP for user_id=%s",
+                seeded,
+                user.id,
+            )
+    except Exception as e:
+        logger.warning("[get_or_create_user] LDAP course seed failed: %s", e)
+    return user
+
+
+def _get_or_create_user_core(user_info: dict) -> models.User:
     with get_session() as sess:
         # First try to find by oauth_id (sub claim)
         oauth_id = user_info.get("sub")
@@ -155,7 +168,7 @@ def get_or_create_user(user_info: dict) -> models.User:
                 sess.refresh(res)
                 return res
         
-        # Try to find by email as fallback
+        # Try to find by email as fallback (includes LDAP stubs)
         email = user_info.get("email")
         if email:
             stmt = select(models.User).where(models.User.email == email)
@@ -176,15 +189,34 @@ def get_or_create_user(user_info: dict) -> models.User:
                 sess.commit()
                 sess.refresh(res)
                 return res
+
+        # Match LDAP stubs by kerberos
+        kerberos_hint = user_info.get("kerberos") or (
+            auth_module.email_to_kerberos(email) if email else None
+        )
+        if kerberos_hint:
+            kid = kerberos_hint.lower().strip()
+            stmt = select(models.User).where(models.User.kerberos == kid)
+            res = sess.exec(stmt).first()
+            if res:
+                res.oauth_id = oauth_id or res.oauth_id
+                res.email = email or res.email
+                res.name = user_info.get("name") or res.name
+                res.hostel = user_info.get("hostel") or res.hostel
+                res.entry_number = user_info.get("entry_number") or res.entry_number
+                res.department = user_info.get("department") or res.department
+                res.category = user_info.get("category") or res.category
+                sess.add(res)
+                sess.commit()
+                sess.refresh(res)
+                return res
         
         # Create new user
         if not email:
             raise ValueError("user_info must contain an email")
         
         entry_number = user_info.get("entry_number")
-        kerberos = user_info.get("kerberos") or (
-            auth_module.email_to_kerberos(email) if email else None
-        )
+        kerberos = kerberos_hint
         
         user = models.User(
             oauth_id=oauth_id,
@@ -247,12 +279,31 @@ def delete_chat(chat_id: int) -> None:
         for msg in messages:
             sess.delete(msg)
 
+        # Delete agent history for this session
+        stmt_hist = select(models.MessageHistory).where(
+            models.MessageHistory.session_id == str(chat_id)
+        )
+        for row in sess.exec(stmt_hist).all():
+            sess.delete(row)
+
         # Delete chat
         chat = sess.get(models.Chat, chat_id)
         if chat:
             sess.delete(chat)
 
         sess.commit()
+
+
+def update_chat_title(chat_id: int, title: str) -> Optional[models.Chat]:
+    with get_session() as sess:
+        chat = sess.get(models.Chat, chat_id)
+        if not chat:
+            return None
+        chat.title = title
+        sess.add(chat)
+        sess.commit()
+        sess.refresh(chat)
+        return chat
 
 
 # ---------- Document CRUD ----------
