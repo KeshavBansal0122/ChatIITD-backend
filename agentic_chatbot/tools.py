@@ -249,20 +249,29 @@ WHEN TO USE: Use when querying courses by structured fields like department, slo
 
 SCHEMA:
 - course(code, name, description, hours_lecture, hours_tutorial, hours_practical, credits, prereq, overlap)
-- courseoffering(id, code, year, semester, instructor, slot)
+- courseoffering(id, code, year, semester, instructor, slot)  -- legacy; prefer catalog_courses
 - courseoverlap(id, code_1, code_2)
+- semesters(code, label, classes_start, last_teaching_day, is_active)
+- catalog_courses(semester_code, course_code, course_data JSONB)
+  course_data keys: courseCode, courseName, instructor, instructorEmail,
+  instructors[{name,email}], totalCredits, creditStructure, slot{name,lectureTimingStr,...}
 
 COMMON QUERIES:
 1. Courses by department: SELECT code, name, credits FROM course WHERE code LIKE 'CO%'
-2. Courses by slot: SELECT c.code, c.name FROM course c JOIN courseoffering o ON c.code = o.code WHERE o.slot = 'A'
+2. Courses by slot: SELECT course_code, course_data->>'courseName' AS name
+   FROM catalog_courses WHERE course_data->'slot'->>'name' = 'A' AND semester_code = '2601'
 3. Courses by credits: SELECT code, name FROM course WHERE credits = 4
-4. Course offerings: SELECT * FROM courseoffering WHERE code = 'COL100'
-5. Courses by instructor: SELECT code FROM courseoffering WHERE instructor LIKE '%Kumar%'
+4. Course offerings: SELECT semester_code, course_data->>'instructor' AS instructor
+   FROM catalog_courses WHERE course_code = 'COL100' ORDER BY semester_code DESC
+5. Courses by instructor: SELECT course_code, semester_code FROM catalog_courses
+   WHERE course_data->>'instructor' ILIKE '%Kumar%'
+   OR course_data::text ILIKE '%Kumar%'
 
 DEPARTMENT PREFIXES: CO (CS), EL (EE), MC (ME), CV (CE), CL (CH), MT (Math), PY (Physics), CM (Chemistry), BB (Biotech), AP (Applied Mech), TX (Textile), DD (Design), HU/HS (HSS), MS (Materials), AI (AI), ES (Energy)
 
 NOTE: 
 - Only SELECT queries allowed
+- Prefer catalog_courses for instructors/slots/semester history; course table for descriptions/prereqs
 - Avoid SELECT * on course; exclude 'description' field unless specifically needed""",
             "parameters": {
                 "type": "object",

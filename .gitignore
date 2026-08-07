@@ -15,3 +15,7 @@ uploads/
 messages.db
 backend.log
 nginx.conf
+# LDAP enrollment dumps (PII)
+sources/classgrid_catalog/ldap_exports/
+
+sources/classgrid_catalog/ldap_import.log

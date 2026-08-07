@@ -110,9 +110,28 @@ def get_offerings_for_codes(codes: List[str]) -> List[Dict]:
     """
     Fetch all offerings for the given course codes.
 
-    Returns:
-        List of offering dicts
+    Prefers Classgrid-format `catalog_courses` when populated; falls back to
+    legacy `courseoffering` rows.
     """
+    from . import catalog_db
+
+    catalog = catalog_db.get_catalog_offerings_for_codes(codes)
+    if catalog:
+        return [
+            {
+                "course_code": o["course_code"],
+                "year": o.get("year"),
+                "semester": o.get("semester"),
+                "semester_code": o.get("semester_code"),
+                "instructor": o.get("instructor"),
+                "instructor_email": o.get("instructor_email"),
+                "instructors": o.get("instructors") or [],
+                "slot": o.get("slot"),
+                "course_name": o.get("course_name"),
+            }
+            for o in catalog
+        ]
+
     upper_codes = [c.upper() for c in codes]
     try:
         with get_session() as sess:
@@ -138,11 +157,13 @@ def get_offerings_for_codes(codes: List[str]) -> List[Dict]:
 # Arbitrary SELECT queries against the course catalogue (used by the LLM tool)
 # ---------------------------------------------------------------------------
 
-# Map of SQLite table names to PostgreSQL table names
+# Map of SQLite / logical table names to PostgreSQL table names
 _TABLE_MAP = {
     "courses": "course",
     "offerings": "courseoffering",
     "overlaps": "courseoverlap",
+    "catalog_courses": "catalog_courses",
+    "semesters": "semesters",
 }
 
 
