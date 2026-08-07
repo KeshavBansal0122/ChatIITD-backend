@@ -317,3 +317,29 @@ class CourseSearchResult(BaseModel):
 class CourseSearchResponse(BaseModel):
     """Response for course search"""
     courses: List[CourseSearchResult] = Field(..., description="Matching courses")
+
+
+class LlmCredentialsUpsert(BaseModel):
+    provider: str = Field(..., description="openai | anthropic | openrouter | google | groq | custom")
+    api_key: str = Field(..., min_length=8)
+    base_url: Optional[str] = Field(None, description="Required for custom; optional override otherwise")
+    model: Optional[str] = None
+
+
+class LlmCredentialsPublic(BaseModel):
+    provider: str
+    base_url: str
+    model: Optional[str] = None
+    key_fingerprint: str
+    created_at: Optional[str] = None
+    updated_at: Optional[str] = None
+
+
+class UsageStatusResponse(BaseModel):
+    used: int
+    limit: int
+    remaining: int
+    window_hours: float
+    resets_at: Optional[str] = None
+    byok: bool
+    providers: List[str] = Field(default_factory=list)

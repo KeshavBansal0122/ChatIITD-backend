@@ -33,8 +33,8 @@ pandas>=2.3.2
 ipykernel>=6.30.1
 
 # Optional - for compatibility with other parts of the codebase
-# Remove these if not used elsewhere:
-# anthropic>=0.64.0
+anthropic>=0.40.0
+cryptography>=42.0.0
 # litellm>=1.76.0
 # tiktoken>=0.11.0
 
