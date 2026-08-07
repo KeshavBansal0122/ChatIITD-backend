@@ -8,9 +8,13 @@ ARG POSTGRES_VERSION=16
 FROM postgres:${POSTGRES_VERSION}-bookworm AS seeder
 
 ARG SEED_ACTIVATE=2601
+# 0 = import enrollments when ldap_exports/ is present; skip (don't fail) when absent
+# Set SEED_REQUIRE_ENROLLMENTS=1 to fail the build without LDAP JSON
 ARG SEED_SKIP_ENROLLMENTS=0
+ARG SEED_REQUIRE_ENROLLMENTS=0
 ENV SEED_ACTIVATE=${SEED_ACTIVATE} \
     SEED_SKIP_ENROLLMENTS=${SEED_SKIP_ENROLLMENTS} \
+    SEED_REQUIRE_ENROLLMENTS=${SEED_REQUIRE_ENROLLMENTS} \
     POSTGRES_USER=chatiitd \
     POSTGRES_PASSWORD=chatiitd_dev \
     POSTGRES_DB=chatiitd \
@@ -33,7 +37,7 @@ RUN python3 -m venv /opt/venv \
     && /opt/venv/bin/pip install --upgrade pip \
     && /opt/venv/bin/pip install --no-cache-dir -r /tmp/requirements-seed.txt
 
-# App tables + seed scripts + catalog CSVs + LDAP JSON (PII; must exist locally)
+# App tables + seed scripts + catalog CSVs (+ optional ldap_exports if present)
 COPY backend/ /app/backend/
 COPY sources/ /app/sources/
 COPY db/ /app/db/

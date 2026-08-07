@@ -4,9 +4,11 @@ services:
       context: .
       dockerfile: Dockerfile.postgres
       args:
-        # Requires sources/classgrid_catalog/ldap_exports/ on the build machine
+        # ldap_exports/ is gitignored — build seeds catalog always; enrollments
+        # only when that directory is present on the build machine.
         SEED_ACTIVATE: ${SEED_ACTIVATE:-2601}
         SEED_SKIP_ENROLLMENTS: ${SEED_SKIP_ENROLLMENTS:-0}
+        SEED_REQUIRE_ENROLLMENTS: ${SEED_REQUIRE_ENROLLMENTS:-0}
     image: chatiitd-postgres:seeded
     restart: unless-stopped
     environment:

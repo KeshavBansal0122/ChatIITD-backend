@@ -342,16 +342,18 @@ Catalog CSVs, instructors, LDAP enrollment JSON, hostels, and `usercourse` stubs
 
 ```bash
 cd backend
-# ldap_exports/ must exist locally (gitignored PII) for a full seed
 docker compose build postgres
 # Fresh volume required to re-apply the dump after a rebuild:
 docker compose down -v
 docker compose up -d
 ```
 
+`ldap_exports/` is gitignored (PII). Deploy/CI builds seed **catalog only** when it is absent. To bake enrollments into the image, copy LDAP JSON onto the build machine before `docker compose build`, or set `SEED_REQUIRE_ENROLLMENTS=1` to fail closed.
+
 Build args:
 - `SEED_ACTIVATE` (default `2601`)
-- `SEED_SKIP_ENROLLMENTS=1` — catalog-only image (no LDAP JSON required)
+- `SEED_SKIP_ENROLLMENTS=1` — never import enrollments
+- `SEED_REQUIRE_ENROLLMENTS=1` — fail if LDAP JSON is missing
 
 Orchestrator: `sources/classgrid_catalog/seed_all.py` (also usable against a running DB).
 
@@ -386,7 +388,7 @@ backend/
       historical/*.csv       ← mirror of courses_offered/
       Courses_Offered_XXXX.csv
       student_hostels.csv
-      ldap_exports/          ← gitignored PII JSON (required for Docker full seed)
+      ldap_exports/          ← gitignored PII JSON (optional for Docker; catalog-only if absent)
     courses_offered.csv     ← legacy offerings import
     programme_structures/   ← profile “Load Defaults”
   courses.sqlite            ← seed for course / overlaps
