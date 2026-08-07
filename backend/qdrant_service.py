@@ -1,9 +1,11 @@
 """Qdrant vector-database helpers for admin-uploaded documents."""
 
+from __future__ import annotations
+
 import os
 import uuid
 import logging
-from typing import List, Any, Dict
+from typing import List, Any, Dict, TYPE_CHECKING
 
 from qdrant_client import QdrantClient
 from qdrant_client.models import (
@@ -14,7 +16,9 @@ from qdrant_client.models import (
     FieldCondition,
     MatchValue,
 )
-from sentence_transformers import SentenceTransformer
+
+if TYPE_CHECKING:
+    from sentence_transformers import SentenceTransformer
 
 logger = logging.getLogger(__name__)
 
@@ -39,6 +43,13 @@ def _get_client() -> QdrantClient:
 def _get_model() -> SentenceTransformer:
     global _model
     if _model is None:
+        try:
+            from sentence_transformers import SentenceTransformer
+        except ImportError as e:
+            raise RuntimeError(
+                "sentence-transformers is required for document embeddings. "
+                "Install it with: uv pip install sentence-transformers"
+            ) from e
         _model = SentenceTransformer(EMBEDDING_MODEL_NAME)
     return _model
 
