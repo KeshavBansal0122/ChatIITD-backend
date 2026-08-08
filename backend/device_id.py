@@ -22,7 +22,11 @@ COOKIE_MAX_AGE = 60 * 60 * 24 * 400  # ~400 days
 
 
 def _signing_secret() -> bytes:
-    raw = os.environ.get("DEVICE_ID_SECRET") or os.environ.get("JWT_SECRET") or "dev-device-secret"
+    raw = (
+        os.environ.get("DEVICE_ID_SECRET")
+        or os.environ.get("JWT_SECRET")
+        or "dev-device-secret"
+    )
     return raw.encode("utf-8")
 
 
@@ -58,6 +62,28 @@ def device_fingerprint_hash(device_id: str) -> str:
     return hashlib.sha256(f"did:{device_id}".encode()).hexdigest()
 
 
+def request_is_https(request: Request | None) -> bool:
+    """Honor X-Forwarded-Proto when behind a reverse proxy."""
+    if request is None:
+        return False
+    proto = (request.headers.get("x-forwarded-proto") or "").split(",")[0].strip().lower()
+    if proto:
+        return proto == "https"
+    return request.url.scheme == "https"
+
+
+def cookie_secure_flag(request: Request | None = None) -> bool:
+    """
+    Secure cookies are required on HTTPS, but must be off for plain HTTP
+    (local Vite + http:// deploy). Browsers silently drop Secure cookies
+    on http://, which breaks guest device identity every request.
+    """
+    raw = os.environ.get("COOKIE_SECURE")
+    if raw is not None and raw.strip() != "":
+        return raw.strip().lower() in ("1", "true", "yes", "on")
+    return request_is_https(request)
+
+
 @dataclass
 class DeviceContext:
     device_id: str
@@ -80,19 +106,27 @@ def ensure_device_cookie(request: Request, response: Response | None = None) -> 
         is_new=is_new,
     )
     if response is not None:
-        attach_device_cookie(response, ctx)
+        attach_device_cookie(response, ctx, request=request)
     return ctx
 
 
-def attach_device_cookie(response: Response, ctx: DeviceContext) -> None:
+def attach_device_cookie(
+    response: Response,
+    ctx: DeviceContext,
+    *,
+    request: Request | None = None,
+) -> None:
     """Always re-attach so max-age refreshes; value is server-signed."""
-    secure = os.environ.get("COOKIE_SECURE", "true").lower() != "false"
+    secure = cookie_secure_flag(request)
+    # Cross-site frontends (different host than API) need SameSite=None; Secure.
+    # Same host / localhost ports: Lax is enough and works on HTTP.
+    same_site = "none" if secure and os.environ.get("COOKIE_SAMESITE", "").lower() == "none" else "lax"
     response.set_cookie(
         key=COOKIE_NAME,
         value=ctx.device_id,
         max_age=COOKIE_MAX_AGE,
         httponly=True,
         secure=secure,
-        samesite="lax",
+        samesite=same_site,
         path="/",
     )

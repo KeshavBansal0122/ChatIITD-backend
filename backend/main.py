@@ -3,9 +3,10 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 # Load .env from the backend root directory (one level up from this package)
-load_dotenv(Path(__file__).resolve().parent.parent / ".env")
+# override=True so --reload picks up .env edits (e.g. RATE_LIMIT_GUEST_TOKENS)
+load_dotenv(Path(__file__).resolve().parent.parent / ".env", override=True)
 
-from fastapi import FastAPI, Depends, HTTPException, status, UploadFile, File, Form, Request, WebSocket, WebSocketDisconnect
+from fastapi import FastAPI, Depends, HTTPException, status, UploadFile, File, Form, Request, Response, WebSocket, WebSocketDisconnect
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.openapi.docs import get_swagger_ui_html
 from fastapi.openapi.utils import get_openapi
@@ -180,6 +181,8 @@ def build_user_context(user: models.User | None) -> dict:
     
     If user is None (guest mode), returns a dict with all fields set to None.
     """
+    from backend.curriculum.generation import generation_from_entry_year
+
     if user is None:
         return {
             "name": None,
@@ -192,6 +195,7 @@ def build_user_context(user: models.User | None) -> dict:
             "programme_code": None,
             "programme_name": None,
             "year_of_joining": None,
+            "curriculum_generation": None,
             "courses_done": {},
         }
     
@@ -204,6 +208,7 @@ def build_user_context(user: models.User | None) -> dict:
         # Convert to string keys for JSON compatibility
         courses_done = {str(k): v for k, v in courses_by_semester.items()}
     
+    year = kerberos_info["year_of_joining"]
     context = {
         "name": user.name,
         "email": user.email,
@@ -214,7 +219,8 @@ def build_user_context(user: models.User | None) -> dict:
         "category": user.category,
         "programme_code": kerberos_info["programme_code"],
         "programme_name": kerberos_info["programme_name"],
-        "year_of_joining": kerberos_info["year_of_joining"],
+        "year_of_joining": year,
+        "curriculum_generation": generation_from_entry_year(year),
         "courses_done": courses_done,
     }
     
@@ -756,14 +762,14 @@ def search_courses(
 @app.get("/user/usage", response_model=schemas.UsageStatusResponse, tags=["User Profile"])
 def get_user_usage(
     request: Request,
+    response: Response,
     current_user: models.User | None = Depends(auth.get_optional_user),
 ):
     """Rolling token window status (prompt + completion)."""
-    from .chat_gate import gate_chat_request  # noqa: F401
     from . import llm_clients, quota
     from .device_id import ensure_device_cookie
 
-    device = ensure_device_cookie(request, None)
+    device = ensure_device_cookie(request, response)
     user_id = int(current_user.id) if current_user and current_user.id is not None else None
     has_byok = llm_clients.user_has_byok(user_id) if user_id else False
     status = quota.check_quota(
@@ -915,7 +921,7 @@ def create_new_chat_with_message(
         agent_input = {"input": message.content}
         
         try:
-            response = invoke_memory_agent(agent_input, session_id=None, user_context=user_context)
+            response = invoke_memory_agent(agent_input, session_id=guest_session_id, user_context=user_context)
             assistant_text = response.get('output') if isinstance(response, dict) else str(response)
             if assistant_text is None:
                 assistant_text = ""
@@ -1102,7 +1108,9 @@ async def create_new_chat_with_message_stream(
             yield f"data: {json.dumps({'chat': {'id': guest_session_id, 'title': title_text}})}\n\n"
             full_response = ""
             try:
-                async for token in stream_memory_agent(agent_input, session_id=None, user_context=user_context):
+                async for token in stream_memory_agent(
+                    agent_input, session_id=guest_session_id, user_context=user_context
+                ):
                     full_response += token
                     yield f"data: {json.dumps({'token': token})}\n\n"
                 yield f"data: {json.dumps({'done': True, 'message_id': guest_session_id})}\n\n"
@@ -1311,7 +1319,7 @@ async def assistant_chat(
     if not user_message.strip():
         raise HTTPException(status_code=400, detail="No user message found")
 
-    # Scope + quota + device id (cookie attached on final response)
+    # Scope + quota + device id (cookie attached on every response path)
     gate = gate_chat_request(
         request=request,
         response=None,
@@ -1319,12 +1327,27 @@ async def assistant_chat(
         user=current_user,
     )
     if not gate.allowed:
-        resp = JSONResponse(
-            status_code=400,
-            content={"detail": gate.refusal, "error": "out_of_scope"},
-        )
+        status = gate.http_status or 400
+        content: dict = {
+            "detail": gate.refusal,
+            "error": gate.error_code or "forbidden",
+        }
+        if gate.quota_status is not None:
+            q = gate.quota_status
+            content.update(
+                {
+                    "used": q.used,
+                    "limit": q.limit,
+                    "remaining": q.remaining,
+                    "window_hours": q.window_hours,
+                    "resets_at": q.resets_at.isoformat() if q.resets_at else None,
+                    "byok": q.byok,
+                    "message": gate.refusal,
+                }
+            )
+        resp = JSONResponse(status_code=status, content=content)
         if gate.device:
-            attach_device_cookie(resp, gate.device)
+            attach_device_cookie(resp, gate.device, request=request)
         return resp
 
     is_guest = current_user is None
@@ -1332,7 +1355,16 @@ async def assistant_chat(
     chat = None
 
     if is_guest:
-        session_id = None
+        # Keep multi-turn memory + prompt-cache affinity without a DB chat row.
+        # Prefer the client threadId (guest-...); mint one if missing.
+        if thread_id and str(thread_id).strip():
+            session_id = str(thread_id).strip()
+        else:
+            session_id = f"guest-{uuid.uuid4()}"
+        if gate.agent_ctx:
+            # No numeric chat_id for guests
+            gate.agent_ctx.chat_id = None
+        logger.info("[assistant/chat] guest session_id=%s", session_id)
     else:
         if thread_id is None or str(thread_id).startswith("guest-"):
             title_text = generate_chat_title(user_message, agent_ctx=gate.agent_ctx)
@@ -1369,6 +1401,8 @@ async def assistant_chat(
         try:
             if chat is not None:
                 yield ds.data([{"type": "thread-id", "threadId": str(chat.id)}])
+            elif is_guest and session_id:
+                yield ds.data([{"type": "thread-id", "threadId": session_id}])
 
             async for line in stream_memory_agent_data_stream(
                 agent_input,
@@ -1400,7 +1434,7 @@ async def assistant_chat(
         generate(), headers=ds.DATA_STREAM_HEADERS, media_type="text/plain; charset=utf-8"
     )
     if gate.device:
-        attach_device_cookie(streaming, gate.device)
+        attach_device_cookie(streaming, gate.device, request=request)
     return streaming
 
 
@@ -1705,7 +1739,7 @@ async def websocket_new_chat(websocket: WebSocket):
             try:
                 async for event in stream_memory_agent_with_status(
                     agent_input, 
-                    session_id=None,  # No DB persistence for guests
+                    session_id=guest_session_id,
                     user_context=user_context,
                     cancel_event=cancel_event
                 ):

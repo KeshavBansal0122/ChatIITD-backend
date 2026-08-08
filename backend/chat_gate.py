@@ -5,12 +5,12 @@ from __future__ import annotations
 from dataclasses import dataclass
 from typing import Optional
 
-from fastapi import HTTPException, Request, Response
+from fastapi import Request, Response
 
 from agentic_chatbot.agent_context import AgentContext
 
 from . import llm_clients, quota
-from .device_id import DeviceContext, attach_device_cookie, ensure_device_cookie
+from .device_id import DeviceContext, ensure_device_cookie
 from .models import User
 from .scope_guard import REFUSAL_MESSAGE, check_academic_scope
 
@@ -22,16 +22,20 @@ class ChatGateResult:
     device: DeviceContext | None = None
     agent_ctx: AgentContext | None = None
     quota_status: quota.QuotaStatus | None = None
+    error_code: str | None = None  # out_of_scope | quota_exceeded | missing_device
+    http_status: int = 400
 
 
 def gate_chat_request(
     *,
     request: Request,
-    response: Response,
+    response: Response | None,
     message: str,
     user: Optional[User],
     chat_id: Optional[int] = None,
 ) -> ChatGateResult:
+    # Always mint/verify device id up front so guests get a stable cookie even
+    # when we later refuse for scope/quota.
     device = ensure_device_cookie(request, response)
 
     scope = check_academic_scope(message)
@@ -40,6 +44,8 @@ def gate_chat_request(
             allowed=False,
             refusal=scope.message or REFUSAL_MESSAGE,
             device=device,
+            error_code="out_of_scope",
+            http_status=400,
         )
 
     user_id = int(user.id) if user and user.id is not None else None
@@ -50,20 +56,26 @@ def gate_chat_request(
         has_byok=has_byok,
     )
     if not q.allowed:
-        detail = {
-            "error": "quota_exceeded",
-            "message": (
+        if q.reason == "missing_device":
+            msg = "Could not establish a device session. Please enable cookies and try again."
+        elif user_id is None:
+            msg = (
+                f"Guest token limit reached ({q.used}/{q.limit} in {q.window_hours:g}h). "
+                "Sign in or wait for the window to reset."
+            )
+        else:
+            msg = (
                 f"Token limit reached ({q.used}/{q.limit} in {q.window_hours:g}h). "
                 "Add your own API key in Profile to continue, or wait for the window to reset."
-            ),
-            "used": q.used,
-            "limit": q.limit,
-            "remaining": q.remaining,
-            "window_hours": q.window_hours,
-            "resets_at": q.resets_at.isoformat() if q.resets_at else None,
-            "byok": q.byok,
-        }
-        raise HTTPException(status_code=429, detail=detail)
+            )
+        return ChatGateResult(
+            allowed=False,
+            refusal=msg,
+            device=device,
+            quota_status=q,
+            error_code="quota_exceeded" if q.reason != "missing_device" else "missing_device",
+            http_status=429,
+        )
 
     runtime = llm_clients.resolve_runtime(user_id)
     agent_ctx = AgentContext(

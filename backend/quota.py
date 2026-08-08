@@ -50,8 +50,10 @@ def quota_config(*, is_authenticated: bool) -> tuple[int, float]:
     if is_authenticated:
         limit = _env_int("RATE_LIMIT_TOKENS", 10_000)
     else:
-        # Strict guest / device limits
-        limit = _env_int("RATE_LIMIT_GUEST_TOKENS", 1_500)
+        # Guests share the pool via signed device cookie. One agent turn often
+        # costs several thousand uncached prompt tokens, so the default must
+        # allow more than a single message.
+        limit = _env_int("RATE_LIMIT_GUEST_TOKENS", 20_000)
     return limit, window
 
 
