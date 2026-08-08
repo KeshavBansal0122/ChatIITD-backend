@@ -1286,7 +1286,8 @@ async def assistant_chat(
         raise HTTPException(status_code=400, detail="Invalid JSON body")
 
     messages = body.get("messages") or []
-    thread_id = body.get("threadId")
+    # Prefer explicit threadId; fall back to fields some clients send
+    thread_id = body.get("threadId") or body.get("thread_id") or body.get("chatId")
 
     # Extract last user text from assistant-ui / AI SDK message shapes
     user_message = ""
@@ -1338,6 +1339,7 @@ async def assistant_chat(
             chat = crud.create_chat(user_id=current_user.id, title=title_text)
             session_id = str(chat.id)
             thread_id = session_id
+            logger.info("[assistant/chat] created chat_id=%s (no threadId in request)", chat.id)
             if gate.agent_ctx:
                 gate.agent_ctx.chat_id = chat.id
         else:
@@ -1349,6 +1351,7 @@ async def assistant_chat(
             if not chat or chat.user_id != current_user.id:
                 raise HTTPException(status_code=404, detail="Chat not found")
             session_id = str(chat.id)
+            logger.info("[assistant/chat] continuing chat_id=%s", chat.id)
             if gate.agent_ctx:
                 gate.agent_ctx.chat_id = chat.id
             if not chat.title or chat.title in ("New Chat", "Untitled"):

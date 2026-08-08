@@ -85,6 +85,47 @@ def _note_anthropic_usage(ctx: AgentContext | None, response) -> None:
     ctx.add_usage(pt, ct)
 
 
+def _is_anthropic_model(model: str | None) -> bool:
+    m = (model or "").lower()
+    return m.startswith("anthropic/") or "claude" in m
+
+
+def _tools_for_model(model: str | None) -> list[dict]:
+    """Copy tool defs; pin a cache breakpoint on the last tool for Anthropic."""
+    tools = [dict(t) for t in TOOLS]
+    if tools and _is_anthropic_model(model):
+        tools[-1] = {**tools[-1], "cache_control": {"type": "ephemeral"}}
+    return tools
+
+
+def _openrouter_call_kwargs(
+    runtime,
+    session_id: str | None = None,
+) -> dict[str, Any]:
+    """
+    Sticky routing + prompt-cache affinity for OpenRouter (and no-ops elsewhere).
+
+    session_id / prompt_cache_key keep multi-turn agent loops on the same
+    provider endpoint so automatic or explicit caches can hit.
+    """
+    headers = dict(runtime.extra_headers or {})
+    extra_body: dict[str, Any] = {}
+    if session_id:
+        sid = f"chatiitd-{session_id}"
+        extra_body["session_id"] = sid
+        extra_body["prompt_cache_key"] = sid
+        headers["x-session-id"] = sid
+    if _is_anthropic_model(runtime.model):
+        # OpenRouter Anthropic: top-level auto cache breakpoint
+        extra_body.setdefault("cache_control", {"type": "ephemeral"})
+    out: dict[str, Any] = {}
+    if headers:
+        out["extra_headers"] = headers
+    if extra_body:
+        out["extra_body"] = extra_body
+    return out
+
+
 # =====================
 # Error Classification
 # =====================
@@ -151,20 +192,19 @@ _USER_CONTEXT_FIELDS = [
 
 def build_system_message(model: str = MODEL) -> dict:
     """
-    Static base system prompt. For Anthropic-routed models, wraps content in the
-    structured-array form with cache_control:ephemeral so the system + tool schemas
-    prefix is cached across requests. Other providers get plain string content.
+    Static base system prompt with an explicit cache breakpoint.
+
+    OpenRouter maps Anthropic-style cache_control ↔ OpenAI prompt_cache_breakpoint
+    depending on the routed provider, so this helps both Claude and GPT-5.6+.
     """
-    if model.startswith("anthropic/"):
-        return {
-            "role": "system",
-            "content": [{
-                "type": "text",
-                "text": BASE_SYSTEM_PROMPT,
-                "cache_control": {"type": "ephemeral"},
-            }],
-        }
-    return {"role": "system", "content": BASE_SYSTEM_PROMPT}
+    return {
+        "role": "system",
+        "content": [{
+            "type": "text",
+            "text": BASE_SYSTEM_PROMPT,
+            "cache_control": {"type": "ephemeral"},
+        }],
+    }
 
 
 def build_user_context_message(user_context: dict | None) -> dict | None:
@@ -212,9 +252,10 @@ def _build_initial_messages(
     user_message: str,
     session_id: str | None,
     user_context: dict | None,
+    model: str = MODEL,
 ) -> list[dict]:
     """Assemble the prompt prefix and persist the user message."""
-    messages: list[dict] = [build_system_message(MODEL)]
+    messages: list[dict] = [build_system_message(model)]
 
     if session_id:
         messages.extend(get_chat_history(session_id))
@@ -404,8 +445,8 @@ def invoke_memory_agent(
     user_message = input_dict.get("input", "")
     logger.info(f"[invoke] session={session_id} msg={_truncate(user_message, 100)}")
 
-    messages = _build_initial_messages(user_message, session_id, user_context)
     runtime = _rt(agent_ctx)
+    messages = _build_initial_messages(user_message, session_id, user_context, model=runtime.model)
 
     try:
         if runtime.sdk == "anthropic":
@@ -415,7 +456,7 @@ def invoke_memory_agent(
                 openai_tools_to_anthropic,
             )
 
-            tools = openai_tools_to_anthropic()
+            tools = openai_tools_to_anthropic(cache=True)
             for iteration in range(1, MAX_TOOL_ITERATIONS + 1):
                 system, anth_msgs = openai_messages_to_anthropic(messages)
                 response = runtime.sync_client.messages.create(
@@ -466,9 +507,9 @@ def invoke_memory_agent(
                 response = runtime.sync_client.chat.completions.create(
                     model=runtime.model,
                     messages=messages,
-                    tools=TOOLS,
+                    tools=_tools_for_model(runtime.model),
                     tool_choice="auto",
-                    extra_headers=runtime.extra_headers or None,
+                    **_openrouter_call_kwargs(runtime, session_id),
                 )
             except Exception as e:
                 logger.error(f"[invoke] API call failed: {e}", exc_info=True)
@@ -531,8 +572,8 @@ async def stream_memory_agent_with_status(
     user_message = input_dict.get("input", "")
     logger.info(f"[stream] session={session_id} msg={_truncate(user_message, 100)}")
 
-    messages = _build_initial_messages(user_message, session_id, user_context)
     runtime = _rt(agent_ctx)
+    messages = _build_initial_messages(user_message, session_id, user_context, model=runtime.model)
 
     def _cancelled() -> bool:
         return cancel_event is not None and cancel_event.is_set()
@@ -545,7 +586,7 @@ async def stream_memory_agent_with_status(
             openai_tools_to_anthropic,
         )
 
-        tools = openai_tools_to_anthropic()
+        tools = openai_tools_to_anthropic(cache=True)
         for iteration in range(1, MAX_TOOL_ITERATIONS + 1):
             if _cancelled():
                 yield {"type": "error", "message": "Generation stopped by user", "error_code": "cancelled"}
@@ -603,23 +644,23 @@ async def stream_memory_agent_with_status(
             stream = await runtime.async_client.chat.completions.create(
                 model=runtime.model,
                 messages=messages,
-                tools=TOOLS,
+                tools=_tools_for_model(runtime.model),
                 tool_choice="auto",
                 stream=True,
                 stream_options={"include_usage": True},
                 max_tokens=FINAL_RESPONSE_MAX_TOKENS,
-                extra_headers=runtime.extra_headers or None,
+                **_openrouter_call_kwargs(runtime, session_id),
             )
         except TypeError:
             # Some providers reject stream_options
             stream = await runtime.async_client.chat.completions.create(
                 model=runtime.model,
                 messages=messages,
-                tools=TOOLS,
+                tools=_tools_for_model(runtime.model),
                 tool_choice="auto",
                 stream=True,
                 max_tokens=FINAL_RESPONSE_MAX_TOKENS,
-                extra_headers=runtime.extra_headers or None,
+                **_openrouter_call_kwargs(runtime, session_id),
             )
         except Exception as e:
             logger.error(f"[stream] API call failed: {e}", exc_info=True)
@@ -789,8 +830,8 @@ async def stream_memory_agent_data_stream(
     user_message = input_dict.get("input", "")
     logger.info(f"[data-stream] session={session_id} msg={_truncate(user_message, 100)}")
 
-    messages = _build_initial_messages(user_message, session_id, user_context)
     runtime = _rt(agent_ctx)
+    messages = _build_initial_messages(user_message, session_id, user_context, model=runtime.model)
 
     def _cancelled() -> bool:
         return cancel_event is not None and cancel_event.is_set()
@@ -802,7 +843,7 @@ async def stream_memory_agent_data_stream(
             openai_tools_to_anthropic,
         )
 
-        tools = openai_tools_to_anthropic()
+        tools = openai_tools_to_anthropic(cache=True)
         for _iteration in range(1, MAX_TOOL_ITERATIONS + 1):
             if _cancelled():
                 yield ds.error("Generation stopped by user")
@@ -878,22 +919,22 @@ async def stream_memory_agent_data_stream(
                 stream = await runtime.async_client.chat.completions.create(
                     model=runtime.model,
                     messages=messages,
-                    tools=TOOLS,
+                    tools=_tools_for_model(runtime.model),
                     tool_choice="auto",
                     stream=True,
                     stream_options={"include_usage": True},
                     max_tokens=FINAL_RESPONSE_MAX_TOKENS,
-                    extra_headers=runtime.extra_headers or None,
+                    **_openrouter_call_kwargs(runtime, session_id),
                 )
             except TypeError:
                 stream = await runtime.async_client.chat.completions.create(
                     model=runtime.model,
                     messages=messages,
-                    tools=TOOLS,
+                    tools=_tools_for_model(runtime.model),
                     tool_choice="auto",
                     stream=True,
                     max_tokens=FINAL_RESPONSE_MAX_TOKENS,
-                    extra_headers=runtime.extra_headers or None,
+                    **_openrouter_call_kwargs(runtime, session_id),
                 )
         except Exception as e:
             logger.error(f"[data-stream] API call failed: {e}", exc_info=True)
@@ -1108,7 +1149,7 @@ def generate_chat_title(
             model=runtime.model,
             messages=[{"role": "user", "content": prompt}],
             max_tokens=200,
-            extra_headers=runtime.extra_headers or None,
+            **_openrouter_call_kwargs(runtime),
         )
         _note_openai_usage(agent_ctx, response)
     except Exception as e:

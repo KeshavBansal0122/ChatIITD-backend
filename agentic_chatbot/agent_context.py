@@ -44,15 +44,24 @@ class AgentContext:
 
 
 def usage_from_openai_response(response) -> tuple[int, int]:
+    """Return (billable_prompt, completion). Cached prompt tokens are excluded."""
     usage = getattr(response, "usage", None)
     if not usage:
         return 0, 0
-    return int(getattr(usage, "prompt_tokens", 0) or 0), int(
-        getattr(usage, "completion_tokens", 0) or 0
-    )
+    prompt = int(getattr(usage, "prompt_tokens", 0) or 0)
+    completion = int(getattr(usage, "completion_tokens", 0) or 0)
+    cached = 0
+    details = getattr(usage, "prompt_tokens_details", None)
+    if details is not None:
+        if isinstance(details, dict):
+            cached = int(details.get("cached_tokens") or 0)
+        else:
+            cached = int(getattr(details, "cached_tokens", 0) or 0)
+    return max(0, prompt - cached), completion
 
 
 def usage_from_anthropic_response(response) -> tuple[int, int]:
+    """Anthropic input_tokens already excludes cache reads; count those."""
     usage = getattr(response, "usage", None)
     if not usage:
         return 0, 0

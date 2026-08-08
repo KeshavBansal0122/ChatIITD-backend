@@ -8,7 +8,7 @@ from typing import Any
 from .tools import TOOLS, execute_tool
 
 
-def openai_tools_to_anthropic() -> list[dict]:
+def openai_tools_to_anthropic(*, cache: bool = False) -> list[dict]:
     out = []
     for t in TOOLS:
         fn = t.get("function") or {}
@@ -20,20 +20,31 @@ def openai_tools_to_anthropic() -> list[dict]:
                 or {"type": "object", "properties": {}},
             }
         )
+    if cache and out:
+        out[-1] = {**out[-1], "cache_control": {"type": "ephemeral"}}
     return out
 
 
-def openai_messages_to_anthropic(messages: list[dict]) -> tuple[str, list[dict]]:
-    """Split system text and convert chat messages to Anthropic format."""
-    system_parts: list[str] = []
+def openai_messages_to_anthropic(messages: list[dict]) -> tuple[Any, list[dict]]:
+    """Split system (string or cached content blocks) and convert chat messages."""
+    system_blocks: list[dict] = []
     out: list[dict] = []
 
     for msg in messages:
         role = msg.get("role")
         if role == "system":
             content = msg.get("content") or ""
-            if content:
-                system_parts.append(content)
+            if isinstance(content, list):
+                for block in content:
+                    if not isinstance(block, dict):
+                        continue
+                    if block.get("type") == "text" and block.get("text"):
+                        b: dict[str, Any] = {"type": "text", "text": block["text"]}
+                        if block.get("cache_control"):
+                            b["cache_control"] = block["cache_control"]
+                        system_blocks.append(b)
+            elif content:
+                system_blocks.append({"type": "text", "text": content})
             continue
 
         if role == "user":
@@ -76,7 +87,13 @@ def openai_messages_to_anthropic(messages: list[dict]) -> tuple[str, list[dict]]
                 out.append({"role": "user", "content": [block]})
             continue
 
-    return "\n\n".join(system_parts), out
+    if not system_blocks:
+        system: Any = "You are a helpful assistant."
+    elif len(system_blocks) == 1 and "cache_control" not in system_blocks[0]:
+        system = system_blocks[0]["text"]
+    else:
+        system = system_blocks
+    return system, out
 
 
 def anthropic_response_to_openai_assistant(response) -> dict:
