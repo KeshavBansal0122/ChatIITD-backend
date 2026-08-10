@@ -98,6 +98,11 @@ def get_courses_by_codes(codes: List[str]) -> List[Dict]:
                     },
                     "prereqs": c.prereq,
                     "overlap": c.overlap,
+                    "generation": c.generation,
+                    "academic_unit": c.academic_unit,
+                    "learning_outcomes": c.learning_outcomes,
+                    "source": c.source,
+                    "source_url": c.source_url,
                 }
                 for c in courses
             ]

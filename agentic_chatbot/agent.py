@@ -20,7 +20,7 @@ from openai import (
 )
 from dotenv import load_dotenv
 
-from .tools import TOOLS, execute_tool
+from .tools import TOOLS, execute_tool, set_tool_user_context
 from .agent_context import (
     AgentContext,
     usage_from_anthropic_response,
@@ -186,6 +186,7 @@ _USER_CONTEXT_FIELDS = [
     ("programme_code", "Programme Code"),
     ("programme_name", "Programme"),
     ("year_of_joining", "Year of Joining"),
+    ("curriculum_generation", "Curriculum Generation"),
     ("hostel", "Hostel"),
 ]
 
@@ -208,7 +209,7 @@ def build_system_message(model: str = MODEL) -> dict:
 
 
 def build_user_context_message(user_context: dict | None) -> dict | None:
-    """Per-user context as a separate user-role message (kept out of the cached prefix)."""
+    """Per-turn context as a separate user-role message (kept out of the cached prefix)."""
     if not user_context:
         return None
 
@@ -219,8 +220,31 @@ def build_user_context_message(user_context: dict | None) -> dict | None:
     if not parts:
         return None
 
-    body = "User profile (for the assistant's reference, do not recap unless asked):\n" + "\n".join(f"- {p}" for p in parts)
+    gen = user_context.get("curriculum_generation")
+    if gen == "legacy":
+        corpus = (
+            "Retrieval gate: LEGACY curriculum (entry ≤2024). "
+            "Use CoS 2024 PDFs / legacy programmes via hybrid_search(generation='legacy')."
+        )
+    elif gen == "2025":
+        corpus = (
+            "Retrieval gate: 2025+ curriculum (entry ≥2025). "
+            "Use CoS 2025 PDFs + curriculum.iitd.ac.in via hybrid_search(generation='2025')."
+        )
+    else:
+        corpus = (
+            "Retrieval gate: entry year unknown. Ask whether they joined ≤2024 or ≥2025 "
+            "before answering rules/curriculum questions."
+        )
+
+    body = (
+        "User profile (for the assistant's reference, do not recap unless asked):\n"
+        + "\n".join(f"- {p}" for p in parts)
+        + f"\n- {corpus}"
+        + "\n- Always cite PDF filename + page number (or source URL) for factual claims from retrieval."
+    )
     return {"role": "user", "content": body}
+
 
 
 def maybe_clarify_hint(user_message: str) -> dict | None:
@@ -255,6 +279,7 @@ def _build_initial_messages(
     model: str = MODEL,
 ) -> list[dict]:
     """Assemble the prompt prefix and persist the user message."""
+    set_tool_user_context(user_context)
     messages: list[dict] = [build_system_message(model)]
 
     if session_id:

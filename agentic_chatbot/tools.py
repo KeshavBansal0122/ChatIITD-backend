@@ -3,38 +3,61 @@ Tools for the IIT Delhi Academic Chatbot.
 These are plain Python functions with OpenAI-compatible tool schemas.
 """
 
+from __future__ import annotations
+
 import json
 import re
+from contextvars import ContextVar
 from pathlib import Path
+from typing import Optional
+
 import mwclient
+
 from backend.courses_db import run_select_query, get_courses_by_codes, get_offerings_for_codes
+from backend.curriculum.generation import resolve_generation
 
-# Get the directory containing this file (agentic_chatbot/)
 _THIS_DIR = Path(__file__).parent.resolve()
-# Get the backend directory (parent of agentic_chatbot/)
 _BACKEND_DIR = _THIS_DIR.parent
-
-# Paths to static data files (rules and programme structures — not in DB)
 _SOURCES_DIR = _BACKEND_DIR / "sources"
 _JSONL_DIR = _SOURCES_DIR / "jsonl"
 _PROGRAMME_DIR = _SOURCES_DIR / "programme_structures"
 
+_user_context_var: ContextVar[Optional[dict]] = ContextVar("agent_user_context", default=None)
 
-# Load static documents (rules only — courses/offerings come from PostgreSQL)
+
+def set_tool_user_context(user_context: dict | None) -> None:
+    _user_context_var.set(user_context)
+
+
+def get_tool_user_context() -> dict:
+    return _user_context_var.get() or {}
+
+
 def read_jsonl(filename):
     res = []
-    with open(filename, 'r') as f:
+    with open(filename, "r") as f:
         for line in f:
             res.append(json.loads(line))
     return res
 
 
-rules_sections = read_jsonl(_JSONL_DIR / 'all_rules.jsonl')
+_rules_path = _JSONL_DIR / "all_rules.jsonl"
+rules_sections = read_jsonl(_rules_path) if _rules_path.exists() else []
 
-# Load programme prompt
-programme_prompt = ''
-with open(_PROGRAMME_DIR / 'prompt.md', 'r') as f:
-    programme_prompt = f.read()
+programme_prompt = ""
+_prompt_path = _PROGRAMME_DIR / "prompt.md"
+if _prompt_path.exists():
+    with open(_prompt_path, "r") as f:
+        programme_prompt = f.read()
+
+
+def _active_generation(explicit: str | None = None) -> str | None:
+    ctx = get_tool_user_context()
+    return resolve_generation(
+        explicit=explicit,
+        year_of_joining=ctx.get("year_of_joining") or ctx.get("curriculum_entry_year"),
+        default=ctx.get("curriculum_generation"),
+    )
 
 
 # =====================
@@ -65,14 +88,105 @@ def query_sqlite_db(query: str) -> str:
     return run_select_query(query)
 
 
-def get_programme_structure(programme_code: str) -> str:
-    """
-    Fetches the programme structure for a given programme code.
-    """
+def get_programme_structure(programme_code: str, generation: str | None = None) -> str:
+    """Fetches programme structure from Postgres (both generations) with JSON fallback."""
     programme_code = programme_code.upper().strip()
-    programme_file = _PROGRAMME_DIR / f'{programme_code}.json'
+    gen = _active_generation(generation)
+
     try:
-        with open(programme_file, 'r') as f:
+        from sqlmodel import select
+        from backend.models import (
+            Programme,
+            ProgrammeCourse,
+            ProgrammeCreditReq,
+            ProgrammeOutcome,
+            ProgrammeSemester,
+            get_session,
+        )
+
+        with get_session() as sess:
+            q = select(Programme).where(Programme.code == programme_code)
+            if gen:
+                q = q.where(Programme.generation == gen)
+            rows = list(sess.exec(q).all())
+            if not rows and gen:
+                rows = list(
+                    sess.exec(select(Programme).where(Programme.code == programme_code)).all()
+                )
+            if rows:
+                payloads = []
+                for prog in rows:
+                    credits = list(
+                        sess.exec(
+                            select(ProgrammeCreditReq).where(
+                                ProgrammeCreditReq.programme_code == prog.code,
+                                ProgrammeCreditReq.generation == prog.generation,
+                            )
+                        ).all()
+                    )
+                    courses = list(
+                        sess.exec(
+                            select(ProgrammeCourse).where(
+                                ProgrammeCourse.programme_code == prog.code,
+                                ProgrammeCourse.generation == prog.generation,
+                            )
+                        ).all()
+                    )
+                    semesters = list(
+                        sess.exec(
+                            select(ProgrammeSemester).where(
+                                ProgrammeSemester.programme_code == prog.code,
+                                ProgrammeSemester.generation == prog.generation,
+                            )
+                        ).all()
+                    )
+                    outcomes = list(
+                        sess.exec(
+                            select(ProgrammeOutcome).where(
+                                ProgrammeOutcome.programme_code == prog.code,
+                                ProgrammeOutcome.generation == prog.generation,
+                            )
+                        ).all()
+                    )
+                    by_cat: dict[str, list[str]] = {}
+                    for c in courses:
+                        by_cat.setdefault(c.category, []).append(c.course_code)
+                    payloads.append(
+                        {
+                            "code": prog.code,
+                            "generation": prog.generation,
+                            "name": prog.name,
+                            "degree_type": prog.degree_type,
+                            "dual": prog.dual,
+                            "source_url": prog.source_url,
+                            "credits": {
+                                c.category: c.credits_or_units
+                                for c in credits
+                                if c.kind == "graded"
+                            },
+                            "ngu": {
+                                c.category: c.credits_or_units
+                                for c in credits
+                                if c.kind == "ngu"
+                            },
+                            "courses": by_cat,
+                            "recommended": [
+                                s.entries
+                                for s in sorted(semesters, key=lambda x: x.semester)
+                            ],
+                            "outcomes": [
+                                {"id": o.outcome_id, "text": o.text} for o in outcomes
+                            ],
+                        }
+                    )
+                body = json.dumps(payloads if len(payloads) > 1 else payloads[0], indent=2)
+                return programme_prompt + "\n\n" + body
+    except Exception as e:
+        print(f"[get_programme_structure] DB lookup failed: {e}")
+
+    programme_file = _PROGRAMME_DIR / f"{programme_code}.json"
+    try:
+        with open(programme_file, "r") as f:
             programme_data = f.read()
         return programme_prompt + "\n\n" + programme_data
     except FileNotFoundError:
@@ -80,63 +194,94 @@ def get_programme_structure(programme_code: str) -> str:
 
 
 def get_rules_section(section_name: str) -> str:
-    """
-    Fetches a specific section from the rules collection.
-    """
-    sections = [sec for sec in rules_sections if sec['section'].lower().strip() == section_name.lower().strip()]
-    print(f'---get_rules_section called with section_name="{section_name}"---')
-    print("Found sections:")
-    print(sections)
+    sections = [
+        sec
+        for sec in rules_sections
+        if sec["section"].lower().strip() == section_name.lower().strip()
+    ]
     if sections:
         return json.dumps(sections[0])
-    else:
-        return "Section not found."
+    return "Section not found. Prefer hybrid_search for official CoS PDF rules."
 
 
 def search_rules(query: str) -> str:
-    """
-    Searches for rules sections that contain the query string.
-    Returns matching sections based on keyword matching.
-    """
+    """Legacy JSONL keyword search — prefer hybrid_search for CoS PDFs."""
     query_lower = query.lower()
     matching_sections = []
-    
     for sec in rules_sections:
-        section_text = sec.get('section', '').lower()
-        content = json.dumps(sec.get('content', '')).lower() if sec.get('content') else ''
-        
+        section_text = sec.get("section", "").lower()
+        content = json.dumps(sec.get("content", "")).lower() if sec.get("content") else ""
         if query_lower in section_text or query_lower in content:
-            matching_sections.append({
-                'section': sec.get('section', ''),
-                'preview': str(sec.get('content', ''))[:500] + '...' if len(str(sec.get('content', ''))) > 500 else str(sec.get('content', ''))
-            })
-    
+            matching_sections.append(
+                {
+                    "section": sec.get("section", ""),
+                    "preview": str(sec.get("content", ""))[:500],
+                }
+            )
     if matching_sections:
-        return json.dumps(matching_sections[:5])  # Return top 5 matches
-    return "No matching sections found."
+        return json.dumps(matching_sections[:5])
+    return "No matching sections found. Use hybrid_search instead."
 
 
-def search_courses(query: str) -> str:
+def hybrid_search(
+    query: str,
+    doc_types: list[str] | None = None,
+    generation: str | None = None,
+    limit: int = 6,
+) -> str:
+    """Hybrid dense + BM25 search over CoS PDFs and curriculum text."""
+    gen = _active_generation(generation)
+    if not gen:
+        return (
+            "Entry year / curriculum generation unknown. "
+            "Ask whether the student joined in 2024-or-earlier (legacy) or 2025-or-later (new), "
+            "then call hybrid_search again with generation='legacy' or generation='2025'."
+        )
+    try:
+        from backend.knowledge_service import format_hit_citation, hybrid_search as _hs
+
+        hits = _hs(query, generation=gen, doc_types=doc_types, limit=limit or 6)
+    except Exception as e:
+        return f"Error running hybrid_search: {e}"
+    if not hits:
+        return f"No hybrid results for generation={gen}."
+    blocks = [
+        f"curriculum_generation={gen} (entry ≤2024 → legacy; ≥2025 → 2025)",
+        f"results={len(hits)}",
+        "",
+    ]
+    for i, hit in enumerate(hits, start=1):
+        blocks.append(f"### Hit {i}")
+        blocks.append(format_hit_citation(hit))
+        blocks.append("")
+    blocks.append(
+        "Cite each factual claim with source filename + page (or URL for website hits)."
+    )
+    return "\n".join(blocks)
+
+
+def search_courses(query: str, generation: str | None = None) -> str:
     """
     Searches for courses that match the query string in name or description.
+    Optionally filter by curriculum generation (legacy | 2025).
     """
     from backend.models import Course, get_session
     from sqlmodel import select, or_
 
     query_lower = f"%{query.lower()}%"
+    gen = _active_generation(generation)
     try:
         with get_session() as sess:
-            stmt = (
-                select(Course)
-                .where(
-                    or_(
-                        Course.name.ilike(query_lower),       # type: ignore[attr-defined]
-                        Course.description.ilike(query_lower), # type: ignore[attr-defined]
-                        Course.code.ilike(query_lower),        # type: ignore[attr-defined]
-                    )
+            conditions = [
+                or_(
+                    Course.name.ilike(query_lower),  # type: ignore[attr-defined]
+                    Course.description.ilike(query_lower),  # type: ignore[attr-defined]
+                    Course.code.ilike(query_lower),  # type: ignore[attr-defined]
                 )
-                .limit(10)
-            )
+            ]
+            if gen:
+                conditions.append(Course.generation == gen)
+            stmt = select(Course).where(*conditions).limit(10)
             results = sess.exec(stmt).all()
             if results:
                 matching_courses = [
@@ -144,7 +289,14 @@ def search_courses(query: str) -> str:
                         "code": c.code,
                         "name": c.name,
                         "credits": c.credits,
-                        "description": (c.description or "")[:300] + "..." if len(c.description or "") > 300 else (c.description or ""),
+                        "generation": c.generation,
+                        "academic_unit": c.academic_unit,
+                        "source": c.source,
+                        "description": (
+                            (c.description or "")[:300] + "..."
+                            if len(c.description or "") > 300
+                            else (c.description or "")
+                        ),
                     }
                     for c in results
                 ]
@@ -218,21 +370,23 @@ TOOLS = [
             "name": "get_course_data",
             "description": """Fetches detailed information about specific courses by their course codes.
 
-WHEN TO USE: Use this tool ONLY when you have one or more specific course codes (e.g., COL100, MTL101, ELL201).
+WHEN TO USE: Use this tool ONLY when you have one or more specific course codes (e.g., COL100, MTL101, ELL201, COL1000).
 
 DO NOT USE when:
 - Searching for courses by topic/description → use search_courses instead
 - Querying courses by department/slot/credits → use query_sqlite_db instead
 
 INPUT: List of course codes (e.g., ["COL100", "MTL101"])
-OUTPUT: JSON with course details (name, credits, description, prerequisites) and offerings (year, semester, instructor, slot)""",
+OUTPUT: JSON with course details (name, credits, description, prerequisites, generation,
+academic_unit, learning_outcomes, source) and offerings from catalog_courses when available
+(year, semester, instructor, slot).""",
             "parameters": {
                 "type": "object",
                 "properties": {
                     "course_codes": {
                         "type": "array",
                         "items": {"type": "string"},
-                        "description": "List of course codes to look up (e.g., ['COL100', 'ELL101'])"
+                        "description": "List of course codes to look up (e.g., ['COL100', 'ELL101', 'COL1000'])"
                     }
                 },
                 "required": ["course_codes"]
@@ -248,31 +402,39 @@ OUTPUT: JSON with course details (name, credits, description, prerequisites) and
 WHEN TO USE: Use when querying courses by structured fields like department, slot, credits, instructor, or year - NOT for topic-based searches.
 
 SCHEMA:
-- course(code, name, description, hours_lecture, hours_tutorial, hours_practical, credits, prereq, overlap)
+- course(code, name, description, hours_lecture, hours_tutorial, hours_practical,
+  credits, prereq, overlap, generation, academic_unit, learning_outcomes JSONB,
+  source, source_url)
+  generation: 'legacy' (≤2024 entry / 3-digit codes) | '2025' (≥2025 / often 4-digit)
+  source: sqlite | curriculum_web | courses_iitd | pdf
 - courseoffering(id, code, year, semester, instructor, slot)  -- legacy; prefer catalog_courses
 - courseoverlap(id, code_1, code_2)
 - semesters(code, label, classes_start, last_teaching_day, is_active)
+  semester codes are YYTT (e.g. 2601 = Odd Sem 2026-27)
 - catalog_courses(semester_code, course_code, course_data JSONB)
   course_data keys: courseCode, courseName, instructor, instructorEmail,
   instructors[{name,email}], totalCredits, creditStructure, slot{name,lectureTimingStr,...}
 
 COMMON QUERIES:
-1. Courses by department: SELECT code, name, credits FROM course WHERE code LIKE 'CO%'
-2. Courses by slot: SELECT course_code, course_data->>'courseName' AS name
-   FROM catalog_courses WHERE course_data->'slot'->>'name' = 'A' AND semester_code = '2601'
+1. Courses by department: SELECT code, name, credits, generation FROM course WHERE code LIKE 'CO%'
+2. Slot this semester: SELECT course_code, course_data->>'courseName' AS name
+   FROM catalog_courses WHERE course_data->'slot'->>'name' = 'A'
+   AND semester_code = (SELECT code FROM semesters WHERE is_active LIMIT 1)
 3. Courses by credits: SELECT code, name FROM course WHERE credits = 4
 4. Course offerings: SELECT semester_code, course_data->>'instructor' AS instructor
    FROM catalog_courses WHERE course_code = 'COL100' ORDER BY semester_code DESC
 5. Courses by instructor: SELECT course_code, semester_code FROM catalog_courses
    WHERE course_data->>'instructor' ILIKE '%Kumar%'
    OR course_data::text ILIKE '%Kumar%'
+6. 2025-gen courses: SELECT code, name FROM course WHERE generation = '2025' AND code LIKE 'CO%'
 
 DEPARTMENT PREFIXES: CO (CS), EL (EE), MC (ME), CV (CE), CL (CH), MT (Math), PY (Physics), CM (Chemistry), BB (Biotech), AP (Applied Mech), TX (Textile), DD (Design), HU/HS (HSS), MS (Materials), AI (AI), ES (Energy)
 
-NOTE: 
+NOTE:
 - Only SELECT queries allowed
-- Prefer catalog_courses for instructors/slots/semester history; course table for descriptions/prereqs
-- Avoid SELECT * on course; exclude 'description' field unless specifically needed""",
+- Prefer catalog_courses for instructors/slots/semester history; course table for descriptions/prereqs/CLOs
+- Filter by generation when the student's curriculum generation is known
+- Avoid SELECT * on course; exclude 'description' unless specifically needed""",
             "parameters": {
                 "type": "object",
                 "properties": {
@@ -308,9 +470,56 @@ Dual Degree: CH7 (Chemical), CS5 (CSE), MT6 (Math & Computing)""",
                     "programme_code": {
                         "type": "string",
                         "description": "The programme code to look up (e.g., 'CS1', 'EE1')"
+                    },
+                    "generation": {
+                        "type": "string",
+                        "enum": ["legacy", "2025"],
+                        "description": "Curriculum generation; omit to use entry year"
                     }
                 },
                 "required": ["programme_code"]
+            }
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "hybrid_search",
+            "description": """Primary retrieval for academic rules, CoS policies, and curriculum narrative.
+
+Hybrid dense + BM25 over official CoS PDFs and curriculum.iitd.ac.in text.
+Hard-gated by curriculum generation from year of joining:
+- entry ≤2024 → legacy (CoS 2024 PDFs)
+- entry ≥2025 → 2025 (CoS 2025 PDFs + curriculum website)
+
+Returns snippets with source filename, page numbers, section path, and source_url.
+ALWAYS cite those in your reply.""",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "query": {
+                        "type": "string",
+                        "description": "Natural language or keyword query"
+                    },
+                    "doc_types": {
+                        "type": "array",
+                        "items": {
+                            "type": "string",
+                            "enum": ["rule", "course", "programme"]
+                        },
+                        "description": "Optional document-type filter"
+                    },
+                    "generation": {
+                        "type": "string",
+                        "enum": ["legacy", "2025"],
+                        "description": "Override generation if entry year unknown"
+                    },
+                    "limit": {
+                        "type": "integer",
+                        "description": "Max hits (default 6)"
+                    }
+                },
+                "required": ["query"]
             }
         }
     },
@@ -391,11 +600,12 @@ DO NOT USE when:
 - You have a specific course code → use get_course_data
 - Filtering by slot/credits/department → use query_sqlite_db
 
-Returns top 10 matching courses with code, name, credits, and description preview.
+Returns top 10 matching courses with code, name, credits, generation, and description preview.
+Covers both legacy CoS courses and courses.iitd.ac.in / curriculum.iitd.ac.in (2025) entries.
 
 EXAMPLES:
 - search_courses("machine learning") → finds AI/ML related courses
-- search_courses("optimization") → finds optimization courses across departments
+- search_courses("optimization", generation="2025") → 2025-gen optimization courses
 - search_courses("database") → finds database-related courses""",
             "parameters": {
                 "type": "object",
@@ -403,6 +613,11 @@ EXAMPLES:
                     "query": {
                         "type": "string",
                         "description": "The search query to find relevant courses"
+                    },
+                    "generation": {
+                        "type": "string",
+                        "enum": ["legacy", "2025"],
+                        "description": "Optional curriculum generation filter; omit to use entry year"
                     }
                 },
                 "required": ["query"]
@@ -481,6 +696,7 @@ TOOL_MAPPING = {
     "get_course_data": get_course_data,
     "query_sqlite_db": query_sqlite_db,
     "get_programme_structure": get_programme_structure,
+    "hybrid_search": hybrid_search,
     "get_rules_section": get_rules_section,
     "search_rules": search_rules,
     "search_courses": search_courses,
