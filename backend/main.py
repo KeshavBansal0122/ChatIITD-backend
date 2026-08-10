@@ -344,6 +344,10 @@ app.add_middleware(
     expose_headers=["*"],
 )
 
+from .admin_portal import router as portal_router
+
+app.include_router(portal_router)
+
 
 # Global exception handler to ensure CORS headers are included in error responses
 @app.exception_handler(Exception)
