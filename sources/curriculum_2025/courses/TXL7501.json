@@ -1,0 +1,16 @@
+{
+  "code": "TXL7501",
+  "name": "Technical Textiles",
+  "description": "Definition, classification, products, market overview and growth projections of technical textiles; fibres, yarns and fabric structures in technical textiles and their relevant properties; type and important characteristics of sewing threads, cords, ropes, braids and narrow fabrics; textile and other filter media for dry and wet filtration; fibre and fabric selection for filtration; types and application of geosynthetics; fibres and fabric selection criteria for geotextile applications; application of textiles in automobiles; requirement and design for pneumatic tyres, airbags and belts; clothing requirements for thermal protection, and ballistic protection; materials used in bullet proof and cut resistant clothing; material, method of production and areas of application of agrotextiles; different types of fabrics used for packaging; methods of production and properties of textiles used in these applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL7501"
+}

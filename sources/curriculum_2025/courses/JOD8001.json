@@ -1,0 +1,16 @@
+{
+  "code": "JOD8001",
+  "name": "Major Project - I",
+  "description": "Analysis/design/simulation/experimental study on topics in the board area of optoelectronics and optical communication, offered by the faculty.",
+  "credits": 6.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 12.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "J",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=J#JOD8001"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "COL7333",
+  "name": "Introduction to Artificial Intelligence",
+  "description": "Introduction, problem solving with search, game trees, constraint satisfaction, logic and knowledge representation, planning, bayesian networks, Markov decision processes (MDPs), reinforcement learning, partially observable MDPs, multi-agent/hierarchical decision making, statistical learning, neural networks, deep/representation learning, generative AI, emerging trends/applications, ethical and societal impact.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL7333"
+}

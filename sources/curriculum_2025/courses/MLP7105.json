@@ -1,0 +1,16 @@
+{
+  "code": "MLP7105",
+  "name": "Polymer Chemistry Laboratory",
+  "description": "Experiments: purification of monomers; suspension, emulsion, solution and bulk polymerization; unsaturated polyester resin technology; preparation of nylon 6 and nylon 10 by interfacial polymerization; copolymerization and determination of reactivity ratios; epoxide equivalent; molecular weight determination by viscometry; atom transfer radical polymerization of styrene; thermal characterization by DSC and TGA; GPC; FTIR and NMR.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ML",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ML#MLP7105"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CVL7204",
+  "name": "Geoenvironmental Engineering",
+  "description": "Introduction: sources and effects of subsurface contamination; physical, chemical and biological characteristics of solid wastes; soil-waste interaction: contaminant transport; laboratory and field evaluation of permeability; factors affecting permeability; waste disposal on land. Landfills: types, siting criteria, waste containment principles, types of barrier materials. Planning and design aspects relating to waste disposal in landfills, in ash ponds and tailing ponds, and in rocks. Environmental monitoring around landfills. Detection, control and remediation of subsurface contamination. Engineering properties and geotechnical reuse of waste materials such as coal ash, mining waste, demolition waste, etc. Reclamation of old waste dumps. Regulations and case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7204"
+}

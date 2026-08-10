@@ -1,0 +1,16 @@
+{
+  "code": "CTP7006",
+  "name": "EV Electrical System Lab.",
+  "description": "Motor control and testing, powertrain integration, battery management systems, regenerative braking, vehicle communication protocols (including CAN bus), sensor integration, data acquisition, and advanced driver assistance systems (ADAS). The curriculum also addresses EV safety systems, drive control units, power distribution, and thermal management. Students will gain hands-on experience through practical sessions, exploring the intricacies of EV components and systems across various vehicle types. The course aims to provide a comprehensive understanding of EV technologies, from individual components to system-level integration, preparing students for the evolving field of electric mobility.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CT#CTP7006"
+}

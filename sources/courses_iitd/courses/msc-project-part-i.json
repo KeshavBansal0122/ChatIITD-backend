@@ -1,0 +1,22 @@
+{
+  "code": "MTD6010",
+  "name": "M.Sc. Project Part I",
+  "description": "It is an independent research project engaging students in systematic research themes, strong foundation and analysis, experimental/computational work, data analysis, developing critical problem-solving skills, and advanced research and technical knowledge in their specialized project domain.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "M.Sc. Project Part I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "M.Sc. Project Part I"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/msc-project-part-i",
+  "slug": "msc-project-part-i"
+}

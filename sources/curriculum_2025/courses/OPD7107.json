@@ -1,0 +1,16 @@
+{
+  "code": "OPD7107",
+  "name": "MS (R) Project Part 3",
+  "description": "Conduct project work on selected topic under supervision of faculty member(s). All aspects including theoretical study, simulation/modeling, experiments, system building as required by the project goals may be carried out.",
+  "credits": 12.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 24.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "OP",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=OP#OPD7107"
+}

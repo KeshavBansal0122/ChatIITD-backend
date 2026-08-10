@@ -1,0 +1,22 @@
+{
+  "code": "PYL3005",
+  "name": "Artificial Intelligence and its Applications in Physics",
+  "description": "Statistics: random variables: discrete and continuous probability distributions. Law of large numbers, central limit theorems. Sampling: estimation of mean, variance, mean with unknown variance, median, quantiles. Statistical inference (Frequentist): likelihoods, MLE, hypothesis testing, statistical inference (Bayesian): priors and posterior, likelihood Bayesian updating, parameter estimation, marginalization, linear regression, Resampling. Artificial intelligence: types of learning: supervised, unsupervised, reinforced. Supervised models: decision trees, kNN. Classification: support vector machine and principal component analysis. Optimization (grad descent and ADAM), regression, loss function. Perceptron model, activation function, deep neural networks. Backpropagation and regularization. Convolution neural networks.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Artificial Intelligence and its Applications in Physics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Artificial Intelligence and its Applications in Physics"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/artificial-intelligence-and-its-applications-physics",
+  "slug": "artificial-intelligence-and-its-applications-physics"
+}

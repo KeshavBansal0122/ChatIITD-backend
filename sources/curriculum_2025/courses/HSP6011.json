@@ -1,0 +1,16 @@
+{
+  "code": "HSP6011",
+  "name": "Advanced Economics Lab",
+  "description": "Nonparametric estimation: (a) regression tree and random forest (RF) (b) deep learning (DL). Panel data: (a) pooled OLS (b) random effect (c) fixed effect. Binary classification: (a) plug-in approach (b) support vector machine. Causal inference: (a) randomized controlled trials (b) unconfoundedness and the propensity score (c) efficient treatment effect estimation via augmented IPW (d) regression discontinuity designs (e) difference in differences and synthetic control (f) policy learning. Causal inference with ML and AI: (a) Neyman orthogonality and robust inference (b) via high-dimensional linear regression (c) via nonlinear regression models (RF, DL, RT) (d) heterogenous treatment effect and robust estimation.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSP6011"
+}

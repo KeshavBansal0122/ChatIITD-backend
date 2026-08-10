@@ -1,0 +1,22 @@
+{
+  "code": "ELL7603",
+  "name": "Elements of Smart and Sustainable Power Systems",
+  "description": "Smart grids, demand side management, load characteristics, hybrid electric vehicles, energy markets, deregulation, wide area monitoring, smart metering, power line carrier communication and networking, architectures and standards, modeling and control of wind turbine generators, solar PV systems, battery energy storage, and other distributed generation through converters (grid-following and grid-forming technologies).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Elements of Smart and Sustainable Power Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Elements of Smart and Sustainable Power Systems"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/elements-smart-and-sustainable-power-systems",
+  "slug": "elements-smart-and-sustainable-power-systems"
+}

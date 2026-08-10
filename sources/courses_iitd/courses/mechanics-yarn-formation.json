@@ -1,0 +1,22 @@
+{
+  "code": "TXL7202",
+  "name": "Mechanics of Yarn Formation",
+  "description": "Mechanics of opening and cleaning of fibre tuft; blending Eelay time; uniformity of mixing and blending; classical theory of carding operation; analysis of load on various sections of the cylinder; fibre transfer efficiency and its theoretical aspects; ideal drafting mechanics; geometrical analysis of fibre movement during drafting; drafting force in ideal drafting; mechanics of drafting wave generation; theory of draft distribution; nipping of sliver by rollers: roller eccentricity; roller slip; mechanics of hook removal in the draw frame; fractionation of fibres of the specified length and noil theory; detaching roller motion through epicyclic gear arrangement; winding on the roving bobbin and differential gear arrangement; cone-drum belt shifting; winding tension in flyer leading roving frames for jute/flax; forces acting on the traveller; spinning balloons and balloon tension; yarn tension in ring spinning; spinning geometry and spinning triangle; ring-traveller speed relationship and twist compensation; twist insertion and cyclic fibre aggregation in rotor spinning; mechanics of formation of friction-spun yarn structures; twist insertion in friction spinning.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Mechanics of Yarn Formation | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mechanics of Yarn Formation"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mechanics-yarn-formation",
+  "slug": "mechanics-yarn-formation"
+}

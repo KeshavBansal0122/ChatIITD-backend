@@ -1,0 +1,16 @@
+{
+  "code": "AIL7025",
+  "name": "Introduction to Artificial Intelligence",
+  "description": "Introduction, problem solving with search, game trees, constraint satisfaction, logic and knowledge representation, planning, bayesian networks, Markov decision processes (MDPs), reinforcement learning, partially observable MDPs, statistical learning, neural networks, generative AI, emerging trends/applications, ethical and societal impact.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AI",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AI#AIL7025"
+}

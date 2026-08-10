@@ -1,0 +1,22 @@
+{
+  "code": "AIL7051",
+  "name": "Bayesian Statistical Modelling and Computation",
+  "description": "The course will cover the use of Bayesian statistical models for a range of standard settings including regression, causal inference, and generalised linear models; in this context it will introduce key conceptual ideas like sampling, inference, confounding, Bayesian regularisation and model comparison, and also draw contrasts with frequentist ways of thinking about these notions.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "MTL1106/MTL2008",
+  "overlap": null,
+  "learning_outcomes": [
+    "Bayesian Statistical Modelling and Computation | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Bayesian Statistical Modelling and Computation"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/bayesian-statistical-modelling-and-computation",
+  "slug": "bayesian-statistical-modelling-and-computation"
+}

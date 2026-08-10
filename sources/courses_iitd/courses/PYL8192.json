@@ -1,0 +1,22 @@
+{
+  "code": "PYL8192",
+  "name": "Guided Wave Photonic Sensors",
+  "description": "Review of propagation characteristics of single and multimode optical fibers and integrated optical waveguides. Surface plasmon modes supported by a single metal/dielectric interface and metal/dielectric waveguides. Fiber optic sensors: intensity, phase, polarization and wavelength modulation schemes. Intensity based sensors: using microbends and tapers in multimode fibers, multi mode overlay waveguide coupler, Mach-Zehnder interferometer sensors, fiber optic gyroscope, fiber optic current sensor, photonic crystal based sensors. Sensors based on Bragg and long period gratings in fiber and integrated optical waveguides, sensors based on modal interference: applications in temperature, strain and refractive index sensing, single mode- multi mode-single mode fiber (SMS structure) based sensors distributed sensors based on Raman and Brillouin scattering. Surface plasmon resonance (SPR) bio-sensors based on Krechman and Otto configurations, coupling with optical fiber modes, grating coupled, localised SPR, plasmonic nanoparticles, interferometry. Signal processing, noise factors in sensors and sensor networking.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "PYL7091",
+  "overlap": null,
+  "learning_outcomes": [
+    "Guided Wave Photonic Sensors | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Guided Wave Photonic Sensors"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/guided-wave-photonic-sensors",
+  "slug": "guided-wave-photonic-sensors"
+}

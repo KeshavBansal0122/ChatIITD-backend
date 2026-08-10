@@ -1,0 +1,22 @@
+{
+  "code": "MEL2002",
+  "name": "Kinematics and Dynamics of Machines",
+  "description": "Mechanisms as set of kinematic pairs, Kinematic diagram and inversions of chains. Mobility and range of movements. Graphical and analytical methods for displacement, velocity and acceleration analysis of planar linkages. Dimensional synthesis for motion, function, and path generation using 4R mechanisms. Two D.O.F. mechanisms. Cam profile synthesis, graphical and analytical design of cam profiles. Laws of gearing, standard tooth profiles, interference and undercutting of gear pairs. Gear configurations, gear trains including compound epicyclic gears. Dynamic analysis of mechanisms, estimation of inertia forces, shaking forces and couples. Balancing of unbalance for rotating and reciprocating machines. Analysis of flywheel, governor, and gyroscope. Free and forced vibration of single D.O.F. system. Introduction to two D.O.F systems, vibration absorbers. Special lower pair and higher pair mechanisms.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Kinematics and Dynamics of Machines | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Kinematics and Dynamics of Machines"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/kinematics-and-dynamics-machines",
+  "slug": "kinematics-and-dynamics-machines"
+}

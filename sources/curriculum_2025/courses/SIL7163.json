@@ -1,0 +1,16 @@
+{
+  "code": "SIL7163",
+  "name": "Introduction to Blockchains, Cryptocurrencies, and Smart Contracts",
+  "description": "Blockchains, cryptocurrencies, and smart contracts; core ingredients of blockchains (P2P networking and cryptographic primitives); the Bitcoin blockchain structure; consensus protocols; mining strategies and attacks; anonymity and traceability; and scalability solutions, including sharding, segregated witness, and the lightning network; Ethereum, smart contracts, and \u201cblockchain as a service\u201d along with emerging applications across finance, identity, supply chains, and public infrastructure.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SI",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SI#SIL7163"
+}

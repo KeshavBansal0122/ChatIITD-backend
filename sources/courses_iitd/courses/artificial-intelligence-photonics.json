@@ -1,0 +1,22 @@
+{
+  "code": "OPL7720",
+  "name": "Artificial Intelligence for Photonics",
+  "description": "This course will focus on the applications of AI in photonics. Introduction to machine learning and python. Generation of relevant datasets from real photonics experiments to train a machinelearning model. Applications of Al in light matter interaction such as quasi-phase imaging and optical sensors (image sensors and vision processors). Modelling and compensation of nonlinear effects in next-generation optical transmission systems based on multi-core and hollow-core fibers by establishing deep neural networks (DNNs). Machine learning tools for photonic material discovery.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Artificial Intelligence for Photonics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Artificial Intelligence for Photonics"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/artificial-intelligence-photonics",
+  "slug": "artificial-intelligence-photonics"
+}

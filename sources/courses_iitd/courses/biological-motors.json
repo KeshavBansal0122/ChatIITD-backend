@@ -1,0 +1,22 @@
+{
+  "code": "SBL7026",
+  "name": "Biological Motors",
+  "description": "Introduction to molecular motors and biological motor proteins, historical perspectives, basic principles and broad functions; polymerization motors: actin, tubulin and intermediary filaments \u2013 their structure-function, dynamics \u2013 from in-vivo and in-vitro studies and regulation; force generators: Myosins, dyneins and kinesisn - their structure-function and regulation. Rotational motors \u2013 FoF1ATP synthase and bacterial flagella (structure and function). Eukaryotic cilia/flagella; DNA helicase and polymerase; viral assembly \u2013 with specific examples of bacteriophages and retroviruses; recent advances (research articles) on organelle transport; nuclear motors; molecular motors associated with disease \u2013 with emphasis on myosin, dynein and kinesin; methodologies used to study biological motor proteins; motors in futuristic design.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "SBL1100/SBL1102",
+  "overlap": null,
+  "learning_outcomes": [
+    "Biological Motors | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Biological Motors"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/biological-motors",
+  "slug": "biological-motors"
+}

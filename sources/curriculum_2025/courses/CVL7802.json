@@ -1,0 +1,16 @@
+{
+  "code": "CVL7802",
+  "name": "Advanced Hydraulics",
+  "description": "Energy and momentum principles in open channel, curvilinear flows, backwater computations, controls, rapidly varied flows, spatially varied flows, unsteady flow, surges, flood wave passage, roll waves, sediment transport, incipient motion criteria, resistance to flow and bed forms, bed load theory, stratified flows, fluvial systems, industrial hydraulics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7802"
+}

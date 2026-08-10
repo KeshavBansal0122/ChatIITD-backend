@@ -1,0 +1,16 @@
+{
+  "code": "CHL7311",
+  "name": "Safety and Hazards in Process Industries",
+  "description": "Accident and loss statistics; fires, explosions, prevention of fires and explosions; static electricity; risk assessment; hazard identification; event tree analysis; fault tree analysis; toxicology; industrial hygiene; accident case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CH",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CH#CHL7311"
+}

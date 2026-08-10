@@ -1,0 +1,22 @@
+{
+  "code": "ASP7660",
+  "name": "Atmospheric Measurements and Analysis Hands-on",
+  "description": "Fundamental principles and techniques used in atmospheric measurements of aerosols, trace gases, greenhouse gases, meteorological parameters, and noise pollution. Setting-up, operating, maintaining, analysing, and interpreting datasets from low-cost sensors to state-of-art atmospheric instrumentation. Carrying out hands-on project work which will cover scientific and technical aspects of atmospheric measurements and train the students to do high quality atmospheric measurements that will directly feed in to their own research projects and interests.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Atmospheric Measurements and Analysis Hands-on | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Atmospheric Measurements and Analysis Hands-on"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/atmospheric-measurements-and-analysis-hands",
+  "slug": "atmospheric-measurements-and-analysis-hands"
+}

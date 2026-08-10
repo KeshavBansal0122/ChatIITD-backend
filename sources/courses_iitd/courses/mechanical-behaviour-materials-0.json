@@ -1,0 +1,22 @@
+{
+  "code": "MLL7202",
+  "name": "Mechanical Behaviour of Materials",
+  "description": "Various types of material deformations and measurement methods. Elastic properties of crystalline materials and its origin. Continuum plasticity: stress versus strain relationships, yield criteria. Defects in crystals: point, line and surface. Slip and twin as a micromechanisms of plastic deformation, five independent slip systems. Dislocations as micromechanism of slip. Geometry of dislocations, dislocation motion, source of dislocation and dislocation interactions. Mechanics of dislocations, single and polycrystal deformation. Crystallographic texture. Strengthening mechanisms in crystals: work hardening, grain size hardening, solid solution hardening and precipitation hardening. Fracture modes, fracture mechanics, mechanisms of toughening, microstructural aspects of fracture toughness, fracture testing. Creep and fatigue of engineering materials. Nanomechanical behavior of materials (nanoindentation, nanoscale wear, in-situ electron microscopy (SEM/TEM). Correlation of mechanical behavior at different length scales. Practical activities: tensile test on metals, polymers and ceramics, compression tests and flexural tests, elastic modulus determination, hardness test, impact toughness, fatigue test, fracture toughness test, creep test, dynamic mechanical analysis, strain hardening analysis.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Mechanical Behaviour of Materials | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mechanical Behaviour of Materials"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mechanical-behaviour-materials-0",
+  "slug": "mechanical-behaviour-materials-0"
+}

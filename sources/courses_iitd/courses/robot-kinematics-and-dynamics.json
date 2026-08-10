@@ -1,0 +1,22 @@
+{
+  "code": "JRL7030",
+  "name": "Robot Kinematics and Dynamics",
+  "description": "Type and components of robots; classification of closed- and open-loop kinematic systems; definition of mechanisms and manipulators; kinematic constraints; degrees of freedom and mobility; rotation representation; coordinate transformation; DH parameters; matrix methods for forward and inverse kinematics analyses; Jacobian and singularity; dynamic modeling; Euler-Lagrange and Newton-Euler equations of motion for serial type manipulators; DeNOC-based dynamic formulation; inverse and forward dynamics algorithms; parallel robots; inverse and forward kinematics of parallel robots; gain singularity of parallel robots; introduction to control of robotic systems.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Robot Kinematics and Dynamics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Robot Kinematics and Dynamics"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/robot-kinematics-and-dynamics",
+  "slug": "robot-kinematics-and-dynamics"
+}

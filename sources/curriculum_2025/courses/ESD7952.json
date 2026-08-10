@@ -1,0 +1,16 @@
+{
+  "code": "ESD7952",
+  "name": "Cornerstone Project (Winter)",
+  "description": "As a cornerstone project, the students will develop some experimental/simulation tools as a group in association with department faculty members.",
+  "credits": 5.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 10.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ES",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ES#ESD7952"
+}

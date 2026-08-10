@@ -1,0 +1,22 @@
+{
+  "code": "MEL3022",
+  "name": "Introduction to Metrology",
+  "description": "Introduction to metrology, elements of engineering measurement, line and end standards, limits, fits and tolerances- interchangeability, selective assembly, Indian standard specifications, limit gauging- Taylor\u2019s principles of limit gauging, types of comparators- mechanical, optical, pneumatic and electric comparators, angular measurements- protractors, sine bar, angle gauges, optical instruments for angular measurements- auto collimators and interferometers.\nMeasurement of surface finish using experimental methods, measurement of screw threads, thread gauges for internal and external threads, gear inspection.\nFeature inspection- straightness, flatness, parallelism, squareness, circularity and roundness using Coordinate Measuring Machine and Vision Measuring Machine.",
+  "credits": 2.5,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 1.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Metrology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Metrology"
+  ],
+  "department": "Manufacturing Processes II",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-metrology",
+  "slug": "introduction-metrology"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CVP7801",
+  "name": "Hydraulic Modelling Laboratory",
+  "description": "Mathematical hydraulic modelling of 1D river flow under steady and unsteady conditions, coupled 1D-2D unsteady flow in rivers and floodplains, modeling hydraulic structures and dam break analysis using HEC-RAS, 3D CFD modelling of rapidly varied and spatially varied open channel flow using the VOF method, 3D VOF-DPM coupled CFD modelling for sediment transport in open channel flow, 3D CFD-based Eulerian modelling of industrial slurry pipeline flow using Ansys FLUENT software, physical hydraulic modelling of hydraulic jump and slurry pipeline flow.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVP7801"
+}

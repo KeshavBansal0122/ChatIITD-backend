@@ -1,0 +1,16 @@
+{
+  "code": "ELL7405",
+  "name": "Basic Information Theory",
+  "description": "CLO1: Basics of Entropy, Relative Entropy and Mutual Information, Entropy, joint entropy and conditional entropy, Relative entropy, mutual information and associated chain rules, Jensen's inequality and applications, Data processing inequality, Fano's inequality, Binary hypothesis testing and Pinsker's inequality, Random process, Markov chains and entropy rates, Asymptotic Equipartition Property, Weak Law of large numbers, Typical sets and properties, Application of typical sets to data compression\r\nCLO2: Data Compression, Kraft's inequality, Optimal codes and bounds on code length, practical codes such as HUffman codes and arithmetic codes.\r\nCLO3: Channel Capacity, Introduction to binary symmetric channels and binary erasure channels, Jointly typical sequences and capacity, Channel coding theorem, Fano's inequality and converse to the coding theorem\r\nCLO1: Differential Entropy, Definitions, AEP for continuous random variables, Relation between differential entropy and discrete entropy, Mutual information and its properties\r\nCLO3: Gaussian Channel, Definitions, Coding theorem for Gaussian channels, Band-limited channels\r\nCLO4: Introduction to Information theory for multi-terminal networks. Introduction to application of Information theory tools to compute and machine-learning use cases.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7405"
+}

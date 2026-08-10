@@ -1,0 +1,16 @@
+{
+  "code": "MTL8880",
+  "name": "Parameterized Algorithms for NP-hard Problems",
+  "description": "Review of NP-completeness and reductions. Introduction to parameterized complexity,\r\nparameterized algorithms through bounded search trees, iterative compression,\r\nrandomized methods in parameterized algorithms, dynamic programming over subsets,\r\ntreewidth and parameterized algorithms for bounded treewidth graphs, algebraic\r\ntechniques in parameterized complexity, Matroids and representative sets, lower\r\nbounds for parameterized algorithms based on Exponential Time Hypothesis and\r\nStrong Exponential Time Hypothesis.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTL8880"
+}

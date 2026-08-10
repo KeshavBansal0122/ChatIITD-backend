@@ -1,0 +1,16 @@
+{
+  "code": "SBV8084",
+  "name": "Elements of Neuroscience",
+  "description": "Introduction to cell biology of neurons; presynaptic and post synaptic mechanisms, Na and K pumps, Hodgkin-Huxley experiments; memory and learning, addiction, prosthetics and brain machine interfaces, neurodegenerative diseases; intelligence, models of brain functions, cognition and consciousness.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBV8084"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ELL7507",
+  "name": "Power Electronic Converters for Renewable Energy Systems",
+  "description": "Current status and future developments in renewable energy. Requirements for solar and wind power generation from the grid including relevant standards, Solar Power \u2013 PV system configurations, Solar cell technologies, Maximum power point tracking, Photovoltaic Inverters different types of topologies and control strategies. Single phase PV converters. Wind power \u2013 Wind power energy system, types of wind turbines- fixed speed and variable speed, different types of converters \u2013 AC-DC-AC converters, multilevel converter etc. Different control techniques of converters. Green hydrogen based fuel cells and battery energy storage systems. Grid synchronization and PLL, Grid regulations. Islanding operation. Control of converters for fault operation. Grid forming converters.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Power Electronic Converters for Renewable Energy Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Power Electronic Converters for Renewable Energy Systems"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/power-electronic-converters-renewable-energy-systems",
+  "slug": "power-electronic-converters-renewable-energy-systems"
+}

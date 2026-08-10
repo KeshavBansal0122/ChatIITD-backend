@@ -1,0 +1,22 @@
+{
+  "code": "MED4001",
+  "name": "B.Tech Project (BTP) - I",
+  "description": "This project involves hands-on, practical work. The student should meet with their supervisor at least once a week to review and discuss the progress of the project. The project can be taken up individually or in a group of two to three students. The specific scope of the project will differ depending on the topic and will be determined by the supervisor. In addition to background research and development tasks, the student is expected to dedicate approximately six hours per week to laboratory work.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "B.Tech Project (BTP) - I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "B.Tech Project (BTP) - I"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/btech-project-btp-i",
+  "slug": "btech-project-btp-i"
+}

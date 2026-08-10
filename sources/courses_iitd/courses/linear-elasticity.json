@@ -1,0 +1,22 @@
+{
+  "code": "AML3010",
+  "name": "Linear Elasticity",
+  "description": "Mathematics preliminaries, three dimensional strain and stress using index notation, linear elasticity, linear elasticity boundary value problem, strain energy, variational methods, two-dimensional approximations, cartesian co-ordinates, polar co-ordinates basics and applications, advanced topics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "AML2010",
+  "overlap": null,
+  "learning_outcomes": [
+    "Linear Elasticity | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Linear Elasticity"
+  ],
+  "department": "Theory of Linear and Nonlinear Elastic Solids",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/linear-elasticity",
+  "slug": "linear-elasticity"
+}

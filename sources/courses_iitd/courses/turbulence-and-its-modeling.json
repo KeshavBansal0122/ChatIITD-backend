@@ -1,0 +1,22 @@
+{
+  "code": "AML7420",
+  "name": "Turbulence and its Modeling",
+  "description": "Introduction to turbulence, governing equations, statistical description of turbulence, Reynolds-averaged Navier-Stokes equations, Kolmogorov\u2019s hypotheses, turbulence closure modelling, Reynolds-stress transport models, large eddy simulation, hybrid RANS-LES models, numerical treatment.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "AML7040/AML5030/AML2020",
+  "overlap": null,
+  "learning_outcomes": [
+    "Turbulence and its Modeling | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Turbulence and its Modeling"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/turbulence-and-its-modeling",
+  "slug": "turbulence-and-its-modeling"
+}

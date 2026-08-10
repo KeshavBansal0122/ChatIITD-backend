@@ -1,0 +1,21 @@
+{
+  "code": "ESL7134",
+  "name": "Nuclear Energy",
+  "description": "Introduction: Scope of nuclear energy (fission and fusion energy), typical reactions and conservation laws, Basics Concepts: Binding Energy, nuclear stability and radioactive decay, radioactivity calculations; Interaction of Neutrons with Matter, The Fission Reactors, Reactor Theory, Group diffusion method, Health Hazards, Nuclear Fusion, Plasma Concepts, Plasma Confinement Schemes",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Nuclear Energy | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Energy Resources and Utilization",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/nuclear-energy",
+  "slug": "nuclear-energy"
+}

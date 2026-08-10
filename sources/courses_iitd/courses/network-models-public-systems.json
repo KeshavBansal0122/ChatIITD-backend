@@ -1,0 +1,22 @@
+{
+  "code": "MEL7115",
+  "name": "Network Models for Public Systems",
+  "description": "Introduction to complex networked public systems. Centrality measures. Metrics for network evaluation. Power-law distribution of node degrees. Structure of real-world networks. Network construction. Erdos-Renyi and Watts-Strogatz random graph model. Configuration model. Generating function-based network methods. Exponential random graph models. Preferential attachment network formation model. Barabasi-Albert model. Structural optimization of networks. Percolation and network resilience. Network-based supervised learning. Community detection methods. Unsupervised network representation learning. Network-based semi-supervised learning. Network spatial analysis. Networked markets.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Network Models for Public Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Network Models for Public Systems"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/network-models-public-systems",
+  "slug": "network-models-public-systems"
+}

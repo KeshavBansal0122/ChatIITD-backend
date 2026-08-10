@@ -1,0 +1,22 @@
+{
+  "code": "BML8860",
+  "name": "Fundamentals of Electrochemistry for Clinical Application",
+  "description": "The course covers the fundamentals of electrochemistry, including electrode types, electrode potential, iontronic interfaces and electron transfer theory. It explores ionic conduction, electrode reactions, and essential electrochemical techniques, including voltammetry, amperometry, and impedance spectroscopy. Key topics include electrochemical kinetics, double-layer effects, electrode passivation, and the role of conductive polymers. Students will also learn surface characterisation methods like QCM, X-ray, and scanning probe techniques. The course concludes with biomedical applications, focusing on electrochemical biosensors, glucometers, and other diagnostic devices.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Fundamentals of Electrochemistry for Clinical Application | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fundamentals of Electrochemistry for Clinical Application"
+  ],
+  "department": "Point of Care Medical Diagnostic Devices",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fundamentals-electrochemistry-clinical-application",
+  "slug": "fundamentals-electrochemistry-clinical-application"
+}

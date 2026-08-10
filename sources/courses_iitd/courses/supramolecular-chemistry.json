@@ -1,0 +1,22 @@
+{
+  "code": "CML4080",
+  "name": "Supramolecular Chemistry",
+  "description": "Introduction to non-covalent forces, the strength of the bonds, Types of Non-covalent interactions, Concept of preorganization, relation with biological systems, Host-Guest binding, binding constants and its determination, Design of hosts, cyclic and acyclic hosts, Molecular recognition, design of sensors, Thermodynamics of binding, solvent effects, Crystal engineering, material designs, Application of supramolecular chemistry to biology and material science.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Supramolecular Chemistry | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Supramolecular Chemistry"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/supramolecular-chemistry",
+  "slug": "supramolecular-chemistry"
+}

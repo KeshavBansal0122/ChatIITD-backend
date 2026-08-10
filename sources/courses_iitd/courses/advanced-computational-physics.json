@@ -1,0 +1,22 @@
+{
+  "code": "PYL4135",
+  "name": "Advanced Computational Physics",
+  "description": "Introduction to computer simulation, model systems and interaction potential, relation of physics and computer simulations, basic Monte Carlo simulation in equilibrium and non-equilibrium systems, introduction to molecular dynamics, molecular dynamics in equilibrium and non-equilibrium systems. Analysis of the results.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": "PYL3025",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Computational Physics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Computational Physics"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-computational-physics",
+  "slug": "advanced-computational-physics"
+}

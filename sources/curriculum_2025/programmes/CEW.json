@@ -1,0 +1,455 @@
+{
+  "code": "CEW",
+  "name": "M.Tech. in Water Resources Engineering",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=CEW",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 46.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Design multidisciplinary solutions and impart knowledge in planning, engineering design and development of water resources projects involving water supply, irrigation, hydropower, flood control, drainage, water conservation and slurry transport."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Evaluate the role of surface water and groundwater resources including snow and glacial water in holistic development through critical assessment of their impact on sustainability."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Address dynamic challenges in water resource management to develop resilient and climate-adaptive water systems."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "CVD7891",
+        "title": "Cornerstone Project in Water Resources Engineering",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVD7897",
+        "title": "Minor Project in Water Resources Engineering",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CVD7898",
+        "title": "Major Project Part-1",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "12"
+        },
+        "credits": "6"
+      },
+      {
+        "course_code": "CVD7899",
+        "title": "Major Project Part-2",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CVL7310",
+        "title": "Professional Ethics in Civil Engineering",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "CVL7801",
+        "title": "Hydrologic Processes and Modelling",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7802",
+        "title": "Advanced Hydraulics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7803",
+        "title": "Groundwater Hydrology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7804",
+        "title": "Computational Methods in Water Resources Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7805",
+        "title": "Optimization Techniques in Water Resources",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVN7801",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CVP7801",
+        "title": "Hydraulic Modelling Laboratory",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVP7802",
+        "title": "Hydrological Simulation Laboratory",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVT7801",
+        "title": "Summer Internship in Water Resources Engineering",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CVL7052",
+        "title": "Transportation Cyberphysical Systems",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7413",
+        "title": "Finite Element Methods in Structural Engineering",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7454",
+        "title": "Analytical and Computational Methods in Civil Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7704",
+        "title": "Solid Waste Engineering and Management",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7706",
+        "title": "Wastewater Engineering and Management",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7811",
+        "title": "Stochastic Hydrology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7813",
+        "title": "Economic Aspects of Water Resources Development",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7814",
+        "title": "Groundwater Flow and Pollution Modelling",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7816",
+        "title": "Water Resources Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7820",
+        "title": "Hydrologic Applications of Remote Sensing",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL8812",
+        "title": "Artificial Intelligence and Machine Learning for Water and Climate",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL8814",
+        "title": "Climate Resilient Design and Management in Water Resources",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "CVL7801",
+        "title": "Hydrologic Processes and Modelling",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVL7803",
+        "title": "Groundwater Hydrology",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVL7805",
+        "title": "Optimization Techniques in Water Resources",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVN7801",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "CVD7891",
+        "title": "Cornerstone Project in Water Resources Engineering",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVL7802",
+        "title": "Advanced Hydraulics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVL7804",
+        "title": "Computational Methods in Water Resources Engineering",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVP7802",
+        "title": "Hydrological Simulation Laboratory",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVN7801",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "CVD7898",
+        "title": "Major Project Part-1",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 12.0
+        },
+        "credits": 6.0
+      },
+      {
+        "course_code": "CVP7801",
+        "title": "Hydraulic Modelling Laboratory",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVL7310",
+        "title": "Professional Ethics in Civil Engineering",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "CVN7801",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "CVD7899",
+        "title": "Major Project Part-2",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      },
+      {
+        "course_code": "CVN7801",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "CEW \u2013 M.Tech. in Water Resources Engineering\nM.Tech. in Water Resources Engineering\nCivil Engineering, Department of\nProgramme Code: CEW\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n46\nPE (Programme Elective)\n9\nPE (Programme Elective)\n6\nTotal Graded Credit Requirement\n61\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nDesign multidisciplinary solutions and impart knowledge in planning, engineering design and development of water resources projects involving water supply, irrigation, hydropower, flood control, drainage, water conservation and slurry transport.\nPLO 2\nEvaluate the role of surface water and groundwater resources including snow and glacial water in holistic development through critical assessment of their impact on sustainability.\nPLO 3\nAddress dynamic challenges in water resource management to develop resilient and climate-adaptive water systems.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCVD7891 Cornerstone Project in Water Resources Engineering 0 0 6 3\nCVD7897 Minor Project in Water Resources Engineering \u2013 \u2013 \u2013 \u2013\nCVD7898 Major Project Part-1 0 0 12 6\nCVD7899 Major Project Part-2 \u2013 \u2013 \u2013 \u2013\nCVL7310 Professional Ethics in Civil Engineering 1 0 0 1\nCVL7801 Hydrologic Processes and Modelling 3 0 0 3\nCVL7802 Advanced Hydraulics 3 0 0 3\nCVL7803 Groundwater Hydrology 3 0 0 3\nCVL7804 Computational Methods in Water Resources Engineering 3 0 0 3\nCVL7805 Optimization Techniques in Water Resources 3 0 0 3\nCVN7801 Teaching/Research Practicum 0 0 8 4\nCVP7801 Hydraulic Modelling Laboratory 1 0 4 3\nCVP7802 Hydrological Simulation Laboratory 1 0 4 3\nCVT7801 Summer Internship in Water Resources Engineering \u2013 \u2013 \u2013 \u2013\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCVL7052 Transportation Cyberphysical Systems 2 0 2 3\nCVL7413 Finite Element Methods in Structural Engineering 2 0 2 3\nCVL7454 Analytical and Computational Methods in Civil Engineering 3 0 0 3\nCVL7704 Solid Waste Engineering and Management 3 0 0 3\nCVL7706 Wastewater Engineering and Management 3 0 0 3\nCVL7811 Stochastic Hydrology 3 0 0 3\nCVL7813 Economic Aspects of Water Resources Development 3 0 0 3\nCVL7814 Groundwater Flow and Pollution Modelling 3 0 0 3\nCVL7816 Water Resources Systems 3 0 0 3\nCVL7820 Hydrologic Applications of Remote Sensing 2 0 2 3\nCVL8812 Artificial Intelligence and Machine Learning for Water and Climate 2 0 2 3\nCVL8814 Climate Resilient Design and Management in Water Resources 3 0 0 3\nSemester-wise Schedule\nSem\nCourses &amp; Baskets\nHrs /\nweek\nNGU\nCredits\n1\nCVL7801 Hydrologic Processes and Modelling\n(3.0-0.0-0.0) 3.00\nCVL7803 Groundwater Hydrology\n(3.0-0.0-0.0) 3.00\nCVL7805 Optimization Techniques in Water Resources\n(3.0-0.0-0.0) 3.00"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "JCD8192",
+  "name": "M.Tech. Project I",
+  "description": "Identify a research or development problem, conduct a literature review, and formulate a clear plan of action. Define objectives, design an initial approach or system architecture, and document progress through presentations and a report.",
+  "credits": 6.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 12.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "J",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=J#JCD8192"
+}

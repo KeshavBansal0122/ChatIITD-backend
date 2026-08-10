@@ -1,0 +1,16 @@
+{
+  "code": "CHL7504",
+  "name": "Transport Phenomena in Complex Fluids",
+  "description": "Introduction to soft matter and complex fluids. Structure-property relation and microstructural origin of deformation. Linear and non-linear viscoelasticity. Transport processes and structure-property relations in various complex fluids such as polymers, colloids and emulsions; suspensions, surfactant micelles, nano-emulsions, gels, liquid crystalline polymers, foam, etc. Polymer statics and dynamics. Origin of elasticity in polymeric fluids; rheometry and constitutive modeling of complex fluids focusing on polymers. Linear and non-linear viscoelastic models and solutions; rheology of suspensions. Transport processes in complex fluids.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CH",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CH#CHL7504"
+}

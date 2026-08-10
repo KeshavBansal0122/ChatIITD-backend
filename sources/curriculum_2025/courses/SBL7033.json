@@ -1,0 +1,16 @@
+{
+  "code": "SBL7033",
+  "name": "Introduction and Techniques: Immunometabolism",
+  "description": "The role of metabolism in adaptive and innate immune response manifestation. Signaling pathways critical for metabolic balance: mTOR/akt, PPAr etc. Detailed understanding of individual immune cells and their metabolic dependencies 1) metabolism and macrophage function; 2)T cells and their effector functions linked to metabolism; 3) efferocytosis and influence of metabolic cycles on the process; 4) dendritic cells effector functions; 5) subcellular metabolic compartmentalization and mitochondrial structure dynamics; 6) epigenetics and it\u2019s dependence on metabolic fluxes. Diseases: 1) cancer: role of metabolism and metabolic behavior of tumor immune cells, therapeutics; 2) aging and senescence: influence of diet of aging. Contribution of individual immune cells to the aging, metabolic reversal of 3) obesity/diabetes and atherosclerosis: lipid bodies, foam cells and their formation. Efferocytosis in the development of the lifestyle disorders 4) host-pathogen interactions: understanding how bacterial and viral pathogens have learnt to hijack host metabolic networks to gain survival advantage. Methodologies and techniques: experimental design and methodologies to perform immunometabolism experiments. Untargeted, targeted metabolomics, tracer metabolomics- sample prep and data analysis. Lipidomics and methodologies experimental design and execution of seahorse, oroboros, scenith. Hands-on data analysis on seahorse data sets.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBL7033"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "RDL7762",
+  "name": "Food, Nutrition and Health",
+  "description": "Food compositions \u2013 water, carbohydrates, proteins, enzymes, and lipids and their functional properties, vitamins, minerals, chlorophyll, carotenoids, anthocyanins, and anti-oxidants anti-oxidants and their importance in human nutrition, anti-nutritional factors in foods, techniques for micronutrient supplementation, functional foods prebiotics and probiotics in human nutrition, role of nutrimetabolomics in food systems, nutritional assessment approaches, and food and nutrition security programs.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Food, Nutrition and Health | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Food, Nutrition and Health"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/food-nutrition-and-health",
+  "slug": "food-nutrition-and-health"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "TXL1101",
+  "name": "Structure and Properties of Fibres",
+  "description": "Basic structure of a fibre, amorphous and crystalline phases, orientation, structure of natural and synthetic fibres, relation between molecular structure of fibers and their physical properties, fibre fineness, thermal properties, mechanical properties, viscoelastic behaviour, moisture absorption properties, electrical properties including peizoelectric properties, analytical methods for investigating physical structure of fibres such as WAXD, SAXS, DSC, DMA, birefringence. Laboratory experiments includes identification of fibres using microscopy techniques, effect of heat and flame on fibres, moisture absorption and mechanical properties of fibres, chemical resistance of fibres etc.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL1101"
+}

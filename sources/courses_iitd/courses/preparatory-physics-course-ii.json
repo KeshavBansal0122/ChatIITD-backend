@@ -1,0 +1,22 @@
+{
+  "code": "PYL0002",
+  "name": "Preparatory Physics Course - II",
+  "description": "This is the second preparatory course in physics, building on Preparatory Course in Physics I. It covers electricity and magnetism: electrostatics and Gauss&#039;s law, capacitance, current electricity and circuits, magnetostatics, electromagnetic induction and AC/DC circuits, and electromagnetic waves; optics: reflection, refraction, dispersion, lenses and mirrors, and wave optics (interference); and modern physics: radioactivity, nuclear binding energy, fission and fusion, the photoelectric effect, Bohr&#039;s atomic model, X-rays and de Broglie matter waves. Emphasis is on building conceptual understanding and quantitative problem-solving skills for undergraduate engineering and science coursework.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Preparatory Physics Course - II | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Preparatory Physics Course - II"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/preparatory-physics-course-ii",
+  "slug": "preparatory-physics-course-ii"
+}

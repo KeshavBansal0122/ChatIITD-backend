@@ -1,0 +1,22 @@
+{
+  "code": "AMD7020",
+  "name": "M.Tech. Minor Project",
+  "description": "Formulation of the problem, literature survey, writing technical report, planning and execution of the project work within the stipulated time frame, analysis and interpretation of the obtained data, and presentation of the results.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "M.Tech. Minor Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "M.Tech. Minor Project"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mtech-minor-project",
+  "slug": "mtech-minor-project"
+}

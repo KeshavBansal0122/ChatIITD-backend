@@ -1,0 +1,22 @@
+{
+  "code": "PYL7005",
+  "name": "Introduction to Quantum Materials",
+  "description": "Overview of symmetries in solid state: crystalline symmetries, time-reversal symmetry, spin-orbit coupling. Origin of bands and band inversion, 2D electron gas, topology and topologically protected states: quantum Hall effect, chiral edge states, Chern number. Van der Waals solids, crystal growth methods (Czochralski, flux growth, Bridgman etc.), introduction to the topology and Berry phase in solids. Topological insulators: basic concept and applications with 2D and 3D topological insulators. Dirac, Weyl semimetals and their potential applications. Correlated quantum materials: metal-insulator transition, introduction to qubits.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "PYL7003",
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Quantum Materials | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Quantum Materials"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-quantum-materials",
+  "slug": "introduction-quantum-materials"
+}

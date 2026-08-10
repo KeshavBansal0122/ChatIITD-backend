@@ -1,0 +1,16 @@
+{
+  "code": "CRL7052",
+  "name": "Quantum Computations and Algorithms",
+  "description": "Vector spaces and Hilbert spaces, along with the postulates of quantum mechanics, form the foundational framework for this course. Key concepts such as qubits, superposition, and entanglement will be explored, followed by an in-depth study of quantum gates, circuits, and algorithms, including Shor's and Grover's. The application of quantum computing in domains like cryptography, optimization, and machine learning will be discussed, along with advanced topics such as variational quantum algorithms, variational quantum solvers, and QAOA (quantum approximate optimization algorithm). Hands-on programming with Qiskit will provide practical experience in implementing quantum algorithms.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CR#CRL7052"
+}

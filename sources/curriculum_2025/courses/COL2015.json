@@ -1,0 +1,16 @@
+{
+  "code": "COL2015",
+  "name": "Digital Logic and System Design",
+  "description": "Number systems, boolean algebra, gate level minimisation, combinational and sequential logic, finite state machines, hardware description languages, registers and memory, FPGA, error correction and testing, energy dissipation.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL2015"
+}

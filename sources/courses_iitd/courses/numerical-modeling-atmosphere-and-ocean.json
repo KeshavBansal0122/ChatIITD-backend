@@ -1,0 +1,22 @@
+{
+  "code": "ASL7380",
+  "name": "Numerical Modeling of the Atmosphere and Ocean",
+  "description": "Introduction to weather and climate models, numerical modeling versus other modeling approaches, examples of atmospheric and oceanic simulations, model hierarchy (simple, intermediate, complex); governing equations in cartesian, isobaric and sigma coordinate systems; numerical discretization (finite difference, finite volume, spectral) and integration, stability, Courant-Friedrichs-Lewy (CFL) criterion, unconditionally stable numerical scheme; model components, dynamical core, physical parameterization, tracers, coupling of components; global and regional models used in weather forecasting and climate simulations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Numerical Modeling of the Atmosphere and Ocean | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Numerical Modeling of the Atmosphere and Ocean"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/numerical-modeling-atmosphere-and-ocean",
+  "slug": "numerical-modeling-atmosphere-and-ocean"
+}

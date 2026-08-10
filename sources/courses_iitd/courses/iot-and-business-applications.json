@@ -1,0 +1,22 @@
+{
+  "code": "MSL7338",
+  "name": "IoT and Business Applications",
+  "description": "This course teaches the fundamentals of marketing Internet of Things (IoT), how it works, and how to harness its power to improve business. This course will enable learners to build technical knowledge across IoT-related functions and their applications to business. This course further explains how components are connected together, how they communicate, and how they add value to the entire business ecosystem.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "IoT and Business Applications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "IoT and Business Applications"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/iot-and-business-applications",
+  "slug": "iot-and-business-applications"
+}

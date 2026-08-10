@@ -1,0 +1,21 @@
+{
+  "code": "DDL2008",
+  "name": "Design Research",
+  "description": "This course introduces research methods as tools for design practitioners which could be used to analyze and synthesize information at different phases of the design process. This would include methods within qualitative and quantitative methodological frameworks, such as visual ethnography, interviews, focus group discussions, contextual inquiry, survey questionnaire, design probes, experimental design, qualitative and quantitative analysis, etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Design Research | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/design-research",
+  "slug": "design-research"
+}

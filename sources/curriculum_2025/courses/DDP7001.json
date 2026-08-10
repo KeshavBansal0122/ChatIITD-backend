@@ -1,0 +1,16 @@
+{
+  "code": "DDP7001",
+  "name": "Design Foundation",
+  "description": "Introduction to freehand line drawing, perspective drawing and creative visualisation. Introduction to analytical drawing using an isometric grid; drawing planar elements - shapes like squares, rectangles, ellipses, etc.; solids like cuboids and cylinders. Exercises in drawing boolean operations - union, subtraction and intersection - of solids; and form manipulation using chamfer and filleting operations. Understanding geometry of objects through drawing wireframes and hidden line removal. Introduction to geometric construction; drawing regular polygons, tessellations and patterns, formal intersections; understanding accuracy and precision, as a base for making mock-ups and models. Introduction to orthographic drawing, visualising and representing 3D objects, basic rules of third angle projection. Introduction to a wide range of physical manifestations used throughout a design process to simulate different aspects of a product\u2019s appearance and function before it is produced. Understanding the appropriate use of mock-ups, models and prototypes at certain unique stages of the design process. Learning model making as a step-by-step method of producing models. Learning to work with linear and volumetric materials as appropriate aesthetic, formal and material simulations. Understanding user centricity through empathy mapping, collaborative ideation methods, experimentation and iteration, and a bias towards action.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DD#DDP7001"
+}

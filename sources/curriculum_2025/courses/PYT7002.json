@@ -1,0 +1,16 @@
+{
+  "code": "PYT7002",
+  "name": "Summer Internship/Minor Project",
+  "description": "Students will undertake internships within organizations to gain hands-on experience in applying materials perspective. The internship aims to enhance their communication skills, teamwork, and collaborative abilities, while providing exposure to real-world, industry-relevant challenges. Each student will be assigned a project by their industry/research supervisor and will be expected to address such problems using appropriate methodologies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYT7002"
+}

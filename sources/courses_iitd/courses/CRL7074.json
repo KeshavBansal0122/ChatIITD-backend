@@ -1,0 +1,21 @@
+{
+  "code": "CRL7074",
+  "name": "VLSI Algorithms",
+  "description": "Introduction to VLSI algorithms 2. Graph algorithms in VLSI 3. Partitioning algorithms 4. Floorplanning and placement 5. Routing algorithms 6. Timing analysis and clock network design 7. Logic synthesis and optimization 8. Placement and routing for FPGAs 9. Power and thermal optimization algorithms 10. Emerging topics and future trends 11. Design examples.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "VLSI Algorithms | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/vlsi-algorithms",
+  "slug": "vlsi-algorithms"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "PYP7062",
+  "name": "Advanced Optical Laboratory",
+  "description": "Experiments related to recording and development of holograms, laser speckles and eye refraction studies, Fresnel hologram, optical vortices, polarization, spatial filtering, digital holography, optical singularity, shearing interferometry, nonlinear and quantum photonics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYP7062"
+}

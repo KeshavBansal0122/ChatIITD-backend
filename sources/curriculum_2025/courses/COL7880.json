@@ -1,0 +1,16 @@
+{
+  "code": "COL7880",
+  "name": "Introduction to Parallel and Distributed Computing",
+  "description": "Multi-core and many-core architecture and interconnects. Parallel programming models. Shared memory and message passing. Progress guarantees and performance optimization. GPU computation. Distributed state maintenance and consensus. Parallel algorithms.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL7880"
+}

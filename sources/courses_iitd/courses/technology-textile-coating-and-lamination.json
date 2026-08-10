@@ -1,0 +1,22 @@
+{
+  "code": "TXL7451",
+  "name": "Technology of Textile Coating and Lamination",
+  "description": "Materials for coating, polymers, textile materials, adhesives, compounding of polymers for coating, methods of coating, films for lamination, methods of lamination, technical products based on coating/lamination, coated and laminated textile products, environmental aspects of coating/lamination, laboratory experiments include coating of fabrics with PVC, PU, acrylic, EVA, silicones, PTFE polymers, rubber coating, etc., and basic lamination with films.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(TXL2401&TXL3401&TXP2401&TXP3401&TXL3402)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Technology of Textile Coating and Lamination | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Technology of Textile Coating and Lamination"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/technology-textile-coating-and-lamination",
+  "slug": "technology-textile-coating-and-lamination"
+}

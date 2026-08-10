@@ -1,0 +1,22 @@
+{
+  "code": "CML6032",
+  "name": "Solid-State Chemistry and Materials Design",
+  "description": "Crystalline Solids: Structure and Description\nConcept of the crystal as a convolution of lattice and motif; crystal systems and Bravais lattices; lattice planes and Miller indices. Representation of crystal structures using fractional atomic coordinates. Construction and interpretation of Crystallographic Information Files (CIFs) for visualization and analysis.\nSymmetry in the Solid State\nSymmetry elements and operations; point groups and space groups; their significance in crystal classification and property determination.\nRepresentative Crystal Structures\nDetailed study of important structure types including perovskites, hybrid organic\u2013inorganic perovskites, spinels, rutile, and CdCl\u2082-type structures. Correlation between atomic arrangement, bonding, and physical properties.\nThermodynamics and Energetics of Solids\nThermodynamics of crystal formation; lattice energy estimation; ionic radii and radius ratio rules; stability of ionic and molecular solids.\nPolymorphism and Computational Approaches\nStructural diversity in molecular solids; principles of polymorphism and phase transformations. Computational methods for predicting solid-state properties, lattice stability, intermolecular interactions, and analysis of voids and channels.\nDefects and Disorder in Crystals\nClassification and types of defects\u2014point, line, and planar; static and dynamic disorder. Defect chemistry in ionic, covalent, and metallic solids and their influence on materials properties.\nSynthesis of Functional Solids and Nanomaterials\nSolid-state reactions; Chimie Douce methods; sol\u2013gel synthesis; synthesis of nanoparticles and quantum dots. Design and synthesis of metal\u2013organic frameworks (MOFs) and porous materials.\nCharacterization Techniques\nStructural characterization by X-ray diffraction (XRD): powder diffraction for phase identification and crystallite size determination; structure solution using single-crystal XRD.\nElectronic Structure and Band Theory\nEnergy bands in solids\u2014valence and conduction bands, Fermi level, Bloch\u2019s theorem, and E\u2013k diagrams. Direct and indirect band gap materials; classification as insulators, semiconductors, conductors, and superconductors. Effect of doping on band structure; experimental methods for band gap estimation.\nOptical and Electronic Properties of Nanostructured Materials\nOrigin of optical and electronic properties in nanoparticles and quantum dots; surface plasmon resonance and its applications in sensing and catalysis.\nElectrical and Functional Properties of Solids\nElectrical conductivity in metals, semiconductors, and insulators. Structure\u2013symmetry\u2013property relationships in ferroelectric, dielectric, thermoelectric, and piezoelectric materials.\nMagnetic Properties of Materials\nOrigin of magnetism in solids; types of magnetic behavior\u2014paramagnetism, diamagnetism, ferromagnetism, antiferromagnetism, and ferrimagnetism; structure\u2013property correlations.\nStructure\u2013Function Relationships and Applications\nDesign principles of materials for applications in batteries, solid electrolytes, photovoltaic and light-emitting devices, and luminescent materials. Functional applications of MOFs and porous frameworks.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Solid-State Chemistry and Materials Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Solid-State Chemistry and Materials Design"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/solid-state-chemistry-and-materials-design",
+  "slug": "solid-state-chemistry-and-materials-design"
+}

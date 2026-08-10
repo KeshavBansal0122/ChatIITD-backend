@@ -1,0 +1,22 @@
+{
+  "code": "CVL7605",
+  "name": "Field Exploration in Rock Engineering",
+  "description": "Geological, rock-mechanical and ground-behavior models, aerial and remote sensing in rock engineering. Geophysical methods, seismic reflection and refraction survey, seismic cross-hole and down-hole surveys for rock characterization, electrical resistivity, MASW, SASW. Field exploration: rock drilling, boring, rock-core samplers, boring methods, core-boxes, core-orientations, core logging, laboratory and field-scale tests on rocks and rock masses, ground water flow in tunnels, stresses in rocks, stress anisotropy and stress ratio, world stress map, ground stress theory. In-situ stress measurement in rocks: stress relief, compensation, USBM, door-stopper cells, flat jack, hydrofrac, strain rossette, dilatometers. Geotechnical baseline report for rock projects, ground improvement for fractured rocks.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CVL7201/CVL7601/",
+  "overlap": null,
+  "learning_outcomes": [
+    "Field Exploration in Rock Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Field Exploration in Rock Engineering"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/field-exploration-rock-engineering",
+  "slug": "field-exploration-rock-engineering"
+}

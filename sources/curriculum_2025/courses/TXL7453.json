@@ -1,0 +1,16 @@
+{
+  "code": "TXL7453",
+  "name": "Textile Auxiliaries",
+  "description": "Auxiliaries in textile chemical processing; surfactants, emulsifiers, wetting agents, dispersing agents, sequestering agents, enzymes, fluorescent brightening agents; sizing agents, thickeners, binders, foaming and de-foaming agents; oxidizing and reducing agents, buffers, electrolytes, discharging agents, stain removing agents, dye fixing agents and leveling agents; regulatory standards (REACH, GOTS, OEKO-TEX), environmental assessment, green processing by plasma, microwave and supercritical fluids; application by padding, spraying, exhaustion, foam and coating; performance testing of auxiliaries; process optimization.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL7453"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "MSL9210",
+  "name": "Econometrics",
+  "description": "Review of Statistical Concepts, Introduction to Econometrics, Simple linear Regression, Violations of Assumptions of OLS and Their Remedies, Models for Discrete Choice, Instrument Variable Estimation, Multiple Linear Regression, Introduction to Panel Data and Fixed Effects Model, Random Effects Panel Data Model, Regression Analysis with Time Series Data, Stationarity and Unit Root Tests, Autoregressive and Moving Average Processes, Vector Autoregression, Co-integration and Error Correction Models",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Econometrics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/econometrics-1",
+  "slug": "econometrics-1"
+}

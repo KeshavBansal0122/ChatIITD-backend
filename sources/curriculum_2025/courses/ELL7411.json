@@ -1,0 +1,16 @@
+{
+  "code": "ELL7411",
+  "name": "Wireless Communications",
+  "description": "Overview of modern wireless communications. Conventional wireless access system design and wireless communication principles. Mobile radio propagation: link budgeting, large scale path loss and shadowing. Statistical multipath channels and small-scale fading. Diversity techniques, adaptive modulation and coding. Multicarrier modulation, spread spectrum, shared spectrum usage. Wireless resource allocation and optimizations. Physical layer aware cross-layer optimization concepts. Learning-aided optimizations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7411"
+}

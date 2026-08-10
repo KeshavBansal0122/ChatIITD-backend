@@ -1,0 +1,22 @@
+{
+  "code": "CML4083",
+  "name": "Stereoselective Organic Synthesis",
+  "description": "Generation of chirality using chiral pool strategy, Chemical, enzymatic and chromatographic methods for resolution of enantiomers, Asymmetric induction, Electrophilic addition to alkenes, Enantioselective hydrogenation and oxidation reactions of olefins, Enantioselective alkylation, Aldol and Mannich reaction, Conjugate (1,4-) addition, Enantioselective Diels Alder reactions, Desymmetrization of meso-compounds, Kinetic resolution with examples. Application of these methods in enantioselective synthesis of chiral drug molecules.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Stereoselective Organic Synthesis | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Stereoselective Organic Synthesis"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/stereoselective-organic-synthesis",
+  "slug": "stereoselective-organic-synthesis"
+}

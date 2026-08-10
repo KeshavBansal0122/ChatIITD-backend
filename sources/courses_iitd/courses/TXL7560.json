@@ -1,0 +1,22 @@
+{
+  "code": "TXL7560",
+  "name": "Life Cycle Assessment for Textiles",
+  "description": "Introduction to LCA: scope, boundaries, methodology (goal and scope, inventory analysis, impact assessment, interpretation), ISO standards, alignment with SDGs; environmental footprint analysis of textile raw materials: cotton, silk, wool; yarn and fabric production: energy consumption and emissions; chemical processing and garment manufacturing: dyeing impacts, effluent treatment, energy use, waste disposal; product use and end-of-life impacts: washing, recycling, circular economy practices; LCA tools and software; LCA for handloom products; case studies of specific products (for example, cotton T-shirts, denim jeans) and eco-labeling practices.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "TXL2201/TXL2301/TXL3101/TXL3401",
+  "overlap": null,
+  "learning_outcomes": [
+    "Life Cycle Assessment for Textiles | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Life Cycle Assessment for Textiles"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/life-cycle-assessment-textiles",
+  "slug": "life-cycle-assessment-textiles"
+}

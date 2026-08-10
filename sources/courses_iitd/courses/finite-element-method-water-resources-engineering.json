@@ -1,0 +1,22 @@
+{
+  "code": "CVL7812",
+  "name": "Finite Element Method in Water Resources Engineering",
+  "description": "Introduction to finite element method; solving of algebraic equations; discrete method; weighted residual method; 1D, 2D, 3D - Galerkin finite element formulation; higher-order finite elements; isoparametric formulation; numerical integration methods; explicit and implicit time marching schemes for unsteady problems; solving non-linear problems using FEM; solving application problems on flow and solute transport through porous media, groundwater flow in unsaturated zone, confined and unconfined aquifers, Navier-Stokes equations, flow through earthen dams.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Finite Element Method in Water Resources Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Finite Element Method in Water Resources Engineering"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/finite-element-method-water-resources-engineering",
+  "slug": "finite-element-method-water-resources-engineering"
+}

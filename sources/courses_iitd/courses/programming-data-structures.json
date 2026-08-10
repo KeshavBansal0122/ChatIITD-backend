@@ -1,0 +1,22 @@
+{
+  "code": "COL1101",
+  "name": "Programming with Data Structures",
+  "description": "Object oriented programming, functional style of programming, asymptotic analysis, arrays and linked lists, introduction to ADTs and linear ADTs, for example, sets, lists, vectors and sequences, concurrency, stacks, queues and applications, trees and tree traversals, priority queues and heaps, dictionary ADT and hash tables, binary search trees, AVL trees, 2-4 trees, sorting algorithms, the graph ADT and traversal algorithms.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Programming with Data Structures | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Programming with Data Structures"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/programming-data-structures",
+  "slug": "programming-data-structures"
+}

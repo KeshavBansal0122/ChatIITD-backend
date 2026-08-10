@@ -1,0 +1,22 @@
+{
+  "code": "CML7013",
+  "name": "Design and Synthesis of Molecules and Materials",
+  "description": "Selectivity in organic synthesis: chemo, regio stereo and enantioselectivity. Diversity-oriented synthesis: concept of forward-synthetic analysis, appendage diversity, skeletal diversity, stereo-chemical diversity, complexity and diversity. Asymmetric synthesis: use of chiral catalysts, chiral auxilairies, organocatalysis, chiron approach and N-heterocyclic carbenes; synthesis and characterization of organometallic compounds relevant to organometallic catalytic reactions; 3d transition metal complexes of macrocyclic and non-macrocyclic ligands for small molecule activation reactions; chemistry of main group elements in synthesis, catalysis, and biomedical and materials. Research; introduction to metal-oxo clusters; iso-polyanions, hetero-polyanions, synthesis, structure and pH stability of polyanions, polyanions-based catalysts; photocatalysis and electrocatalysis. Porous materials; zeolites, metal organic frameworks, covalent organic frameworks, and porous organic polymers, structure and property of different inorganic semiconductors; wolframite, shellite, spinel, preovskite, layer double hydroxide, oxy-halides, metal chalcogenides, metal pnictides.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Design and Synthesis of Molecules and Materials | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Design and Synthesis of Molecules and Materials"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/design-and-synthesis-molecules-and-materials",
+  "slug": "design-and-synthesis-molecules-and-materials"
+}

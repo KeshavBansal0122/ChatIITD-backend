@@ -1,0 +1,22 @@
+{
+  "code": "AML8810",
+  "name": "Isogeometric Analysis",
+  "description": "From CAD and FEA to Isogeometric Analysis, B-splines and NURBS Fundamentals, Geometry Representation using NURBS, Basics of Finite Element Analysis Revisited, 1D and Isogeometric Analysis, Continuity and Smoothness in IGA, Bezier Extraction and Refinement Techniques, IGA for structural mechanics, Some advanced topics in IGA",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(AML7070) /(AML3010&AML3060)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Isogeometric Analysis | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Isogeometric Analysis"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/isogeometric-analysis",
+  "slug": "isogeometric-analysis"
+}

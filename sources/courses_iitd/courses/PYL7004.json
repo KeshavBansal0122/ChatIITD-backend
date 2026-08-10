@@ -1,0 +1,22 @@
+{
+  "code": "PYL7004",
+  "name": "Science and Technology of Thin Films",
+  "description": "Kinetic theory of gases and basics of vacuum science and technology, physical vapor deposition - Hertz Knudsen equation; mass evaporation rate; Knudsen cell, directional distribution of evaporating species evaporation of elements, compounds, alloys, Raoult\u2019s law; e-beam beam evaporation, molecular beam epitaxy and pulsed laser deposition, epitaxy\u2013homo, hetero and coherent epilayers, lattice misfit and imperfections, epitaxy of compound semiconductors, scope of devices and applications, glow discharge and plasma, sputtering\u2013mechanisms and yield, dc and rf sputtering, bias sputtering, magnetically enhanced sputtering systems, reactive sputtering, reactive evaporation, ion beam assisted deposition, chemical vapor deposition - reaction chemistry and thermodynamics of CVD; thermal CVD, atomic layer deposition, homogeneous and heterogeneous nucleation, capillarity theory, atomistic and kinetic models of nucleation, basic modes of thin film growth, stages of film growth and cluster coalescence; origin of stress in thin films - its analysis and experimental determination.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Science and Technology of Thin Films | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Science and Technology of Thin Films"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/science-and-technology-thin-films",
+  "slug": "science-and-technology-thin-films"
+}

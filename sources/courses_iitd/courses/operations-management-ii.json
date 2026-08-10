@@ -1,0 +1,22 @@
+{
+  "code": "MSL7604",
+  "name": "Operations Management - II",
+  "description": "The OM2 curriculum centers on medium and short-range planning and control functions. It initiates with Forecasting, mastering time-series and associative models to predict demand and monitor error. It transitions to Facility Design and Location Strategy, focusing on optimal site selection and physical layout to optimize flow. The core of the course explores Inventory Management, balancing holding costs with service levels through ABC classification and Material Requirements Planning (MRP). The curriculum concludes with Aggregate Planning, using mathematical optimization to synchronize production with demand.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Operations Management - II | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Operations Management - II"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/operations-management-ii",
+  "slug": "operations-management-ii"
+}

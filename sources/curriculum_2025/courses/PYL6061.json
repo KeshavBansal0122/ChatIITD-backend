@@ -1,0 +1,16 @@
+{
+  "code": "PYL6061",
+  "name": "Introduction to Computer Programming",
+  "description": "Introduction to programming in Fortran/C++, history/overview, environment setup, understanding editor, compiler, and terminal, writing, compiling and executing a program. Declaration of variables and constants, data types, console input/output, formatting, operators, conditional statements, loops, arrays, strings, pointers, basic input-output, file input-output, functions/subroutines, modules, libraries, debugging. Introduction to python, plotting with python, Gnuplot and/or Xmgrace.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL6061"
+}

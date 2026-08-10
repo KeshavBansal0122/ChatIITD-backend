@@ -1,0 +1,16 @@
+{
+  "code": "ESL7002",
+  "name": "Introduction to the Project Management",
+  "description": "Energy transition landscape Indian and global context, Governments Initiatives for various energy projects for national and international importance, Energy project management and growth, organizational structure, Network scheduling techniques, Project initiation and planning, Site and technology selection, Regulatory, permitting and environmental compliance, Project feasibility assessment, Identification and mitigation of risks, Planning execution as well as monitoring of projects, Operation and maintenance of projects. Communications management, conflicts, Risk management, contract management, Quality management and modern developments in project management",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ES",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ES#ESL7002"
+}

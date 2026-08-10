@@ -1,0 +1,22 @@
+{
+  "code": "BML7381",
+  "name": "Deep Learning for Medical Image Analysis",
+  "description": "Overview of medical images and image analysis: an overview of medical images such as MRI, CT, ultrasound, histopathology, etc., shall be provided along with an introduction of the medical image processing and analysis. Fundamentals of deep learning: artificial neural networks, activation functions, weight initializations and batch normalizations, loss functions, regularizations, optimization- stochastic gradient descent, deep learning architectures such as convolutional neural networks (CNN) \u2013 spatial arrangement of layers, architectures, transfer learning and fine tuning. Applications of deep learning in medical image analysis: classification of medical images \u2013 supervised learning, unsupervised learning, demonstration of case studies in RCNN. Medical data synthesis- data pre-processing and augmentation, introduction to autoencoders and generative adversarial networks (GAN), demonstration of case studies in image synthesis and image reconstruction. Medical image denoising and artifact mitigation using deep learning. Medical image segmentation - case studies based on U-net; special topics in data analysis using recurrent neural networks (RNN), gated recurrent unit (GRU), long short term memory (LSTM), and attention mechanisms.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Deep Learning for Medical Image Analysis | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Deep Learning for Medical Image Analysis"
+  ],
+  "department": "Biomedical Signal and Image Processing",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/deep-learning-medical-image-analysis",
+  "slug": "deep-learning-medical-image-analysis"
+}

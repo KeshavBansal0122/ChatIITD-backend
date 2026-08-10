@@ -1,0 +1,555 @@
+{
+  "code": "JTM",
+  "name": "M.Tech. in Telecommunication Technology Management",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=JTM",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 37.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Apply superior understanding of telecommunications technologies and management in professional careers or pursue additional educational opportunities and research."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Effectively explain and synthesize concepts pertaining to telecommunications technologies and management, then apply them to various real-world and industrial applications."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "BSL9110",
+        "title": "Introduction to Machine Learning",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "BSN7001",
+        "title": "Research Practicum",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "BSN7010",
+        "title": "Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "BSN7020",
+        "title": "Teaching Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "BSP7010",
+        "title": "Communication and Signal Processing Technologies Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "1",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "BST7096",
+        "title": "Summer Internship",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "BSV7090",
+        "title": "Ethical Considerations in Telecommunication Technologies and Management",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "BSV9532",
+        "title": "Special Module in Machine Learning",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "ELL7400",
+        "title": "Signal Theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7401",
+        "title": "Digital Communications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7403",
+        "title": "Computer Communication Networks",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ELL7450",
+        "title": "Machine Learning for Wireless Communications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "JTD7095",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "JTD7096",
+        "title": "Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "JTD7097",
+        "title": "Major Project Part 1",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "12"
+        },
+        "credits": "6"
+      },
+      {
+        "course_code": "JTD7098",
+        "title": "Major Project Part 2",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "MSL7023",
+        "title": "Telecommunications Systems Management",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "BSN7010",
+        "title": "Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "BSN7020",
+        "title": "Teaching Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "BST7096",
+        "title": "Summer Internship",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "JTD7096",
+        "title": "Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "BSL7005",
+        "title": "Introduction to Quantum Communications and Cryptography",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7405",
+        "title": "Basic Information Theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7406",
+        "title": "Coding Theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7411",
+        "title": "Wireless Communications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7412",
+        "title": "Multichannel Signal Processing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7414",
+        "title": "Selected Topics in Communication and Signal Processing - I",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7420",
+        "title": "Advanced Digital Signal Processing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7437",
+        "title": "Fiber-Optic Communication Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELP7411",
+        "title": "Wireless Communications Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "1",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELP7420",
+        "title": "Telecommunication Networks Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "1",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SIL7159",
+        "title": "Cryptography and Cryptanalysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SIL7165",
+        "title": "Network and System Security",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SIL8121",
+        "title": "Special Topics in Cyber Security",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SIL8122",
+        "title": "Special Topics in Cryptography and Cryptanalysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SIL8123",
+        "title": "Special Topics in Artificial Intelligence for Cyber Security",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SIV8110",
+        "title": "Special Module in Cyber Security",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "1"
+        },
+        "credits": "1.5"
+      },
+      {
+        "course_code": "SIV8112",
+        "title": "Special Module in Computer Forensics",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "1"
+        },
+        "credits": "1.5"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "ELL7400",
+        "title": "Signal Theory",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ELL7401",
+        "title": "Digital Communications",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "BSP7010",
+        "title": "Communication and Signal Processing Technologies Laboratory",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 1.0,
+          "practical": 4.0
+        },
+        "credits": 3.0
+      },
+      {
+        "basket": "Communication and Signal Processing Technologies Laboratory",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 1.0,
+          "practical": 4.0
+        },
+        "credits": 3.0
+      },
+      {
+        "basket": "JTM Research / Teaching Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "JTD7095",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MSL7023",
+        "title": "Telecommunications Systems Management",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "basket": "JTM Research / Teaching Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "JTD7097",
+        "title": "Major Project Part 1",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 12.0
+        },
+        "credits": 6.0
+      },
+      {
+        "basket": "JTM Research / Teaching Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "BSV7090",
+        "title": "Ethical Considerations in Telecommunication Technologies and Management",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "JTD7098",
+        "title": "Major Project Part 2",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      },
+      {
+        "basket": "nsiderations in Telecommunication Technologies and Management",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "basket": "JTM Research / Teaching Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "JTM \u2013 M.Tech. in Telecommunication Technology Management\nM.Tech. in Telecommunication Technology Management\nTelecommunication Technology and Management, Bharti School of\nProgramme Code: JTM\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n37\nPE (Programme Elective)\n15\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n58\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nApply superior understanding of telecommunications technologies and management in professional careers or pursue additional educational opportunities and research.\nPLO 2\nEffectively explain and synthesize concepts pertaining to telecommunications technologies and management, then apply them to various real-world and industrial applications.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nBSL9110 Introduction to Machine Learning \u2013 \u2013 \u2013 \u2013\nBSN7001 Research Practicum \u2013 \u2013 \u2013 \u2013\nBSN7010 Research Practicum 0 0 8 4\nBSN7020 Teaching Practicum 0 0 8 4\nBSP7010 Communication and Signal Processing Technologies Laboratory 0 1 4 3\nBST7096 Summer Internship 0 0 6 3\nBSV7090 Ethical Considerations in Telecommunication Technologies and Management 1 0 0 1\nBSV9532 Special Module in Machine Learning \u2013 \u2013 \u2013 \u2013\nELL7400 Signal Theory 3 0 0 3\nELL7401 Digital Communications 3 0 0 3\nELL7403 Computer Communication Networks 3 0 2 4\nELL7450 Machine Learning for Wireless Communications 3 0 2 4\nJTD7095 Cornerstone Project 0 0 6 3\nJTD7096 Minor Project 0 0 6 3\nJTD7097 Major Project Part 1 0 0 12 6\nJTD7098 Major Project Part 2 \u2013 \u2013 \u2013 \u2013\nMSL7023 Telecommunications Systems Management 3 0 0 3\nJTM Research / Teaching Practicum (0-0-8) 4 NGU\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nBSN7010 Research Practicum 0 0 8 4\nBSN7020 Teaching Practicum 0 0 8 4\nJTM Internship / Minor Project (0-0-6) 3 credits\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nBST7096 Summer Internship 0 0 6 3\nJTD7096 Minor Project 0 0 6 3\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nBSL7005 Introduction to Quantum Communications and Cryptography 3 0 0 3\nELL7405 Basic Information Theory 3 0 0 3\nELL7406 Coding Theory 3 0 0 3\nELL7411 Wireless Communications 3 0 0 3\nELL7412 Multichannel Signal Processing 3 0 0 3\nELL7414 Selected Topics in Communication and Signal Processing - I 3 0 0 3\nELL7420 Advanced Digital Signal Processing 3 0 0 3"
+}

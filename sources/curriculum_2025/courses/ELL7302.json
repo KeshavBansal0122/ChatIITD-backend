@@ -1,0 +1,16 @@
+{
+  "code": "ELL7302",
+  "name": "Semiconductor Microelectronics",
+  "description": "Review of quantum mechanics; crystal structure: Miller indices, reciprocal lattice; electron in a periodic lattice: Bloch theorem and crystal momentum, E-k diagram, tight binding method, spin orbit coupling; density of states, Fermi-Dirac distribution, intrinsic carrier, doping; Boltzmann transport equation and solution in the presence of low electric and magnetic fields - mobility and diffusivity; scattering effects; continuity equation, Poisson's equation and their solution; high field effects: velocity saturation, hot carriers and avalanche breakdown; semiconductor junctions: metal-semiconductor, semiconductor homo- and hetero-junction band diagrams and I-V characteristics, and small signal switching models; two terminal and surface states devices based on semiconductor junctions; MOS capacitor: depletion, inversion, accumulation modes. Flatband conditions, CV characteristics - high and low frequencies. Impact of non-idealities on MOS capacitor characteristics \u2013 effect of traps, fixed charges and tunnelling; MOSFET: ideal operation and non-idealities \u2013 channel length modulation, subthreshold swing, DIBL, velocity saturation and reliability issues in MOSFETs. Modern MOSFETS: FinFETS, strained silicon devices etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7302"
+}

@@ -1,0 +1,414 @@
+{
+  "code": "CYM",
+  "name": "M.Tech. in Molecular Engineering: Chemical Synthesis & Analysis",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=CYM",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 54.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Isolate and synthesize chemical compounds and materials relevant to industries including pharmaceuticals, renewable energy, petrochemicals, and textile, among others; subject them to different separation and purification techniques."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Analyse these diverse range of chemical compounds and materials using state-of-the art analytical methods and techniques."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Relate the manufacturing processes, the structure, and the properties with that of synthesized chemicals and materials and be able to tune their properties and components accordingly."
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "Inspect, interpret, and validate the accuracy and reliability of analytical data and implementation of analytical methods for Quality Management and Control."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "CMD7005",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CMD8005",
+        "title": "Major Project Part 1",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "24"
+        },
+        "credits": "12"
+      },
+      {
+        "course_code": "CMD8007",
+        "title": "Major Project Part 2",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CML7011",
+        "title": "Advanced Analytical Instrumentation Techniques",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML7012",
+        "title": "Data Analysis and Cheminformatics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML7013",
+        "title": "Design and Synthesis of Molecules and Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML7014",
+        "title": "Applied Spectroscopy",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML7022",
+        "title": "Chemical Separation and Electroanalytical Methods",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML7029",
+        "title": "Materials Characterization",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CMN7099",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CMN7199",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CMN8199",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CMP7011",
+        "title": "Lab on Synthesis and Analysis",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CMP7028",
+        "title": "Lab on Instrumentation in Material Characterization",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CMT7003",
+        "title": "Summer Internship or minor project",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CMN7099",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CMN7199",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CML7033",
+        "title": "Chemistry of Industrial Catalysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML7040",
+        "title": "Chemistry of Heterocyclic Compounds",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML7041",
+        "title": "Organo and Organometallic Catalysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML7042",
+        "title": "Reagents in Synthetic Transformations",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML7234",
+        "title": "Chemistry of Nanostructured Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "CML7011",
+        "title": "Advanced Analytical Instrumentation Techniques",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CML7012",
+        "title": "Data Analysis and Cheminformatics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CML7013",
+        "title": "Design and Synthesis of Molecules and Materials",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CML7014",
+        "title": "Applied Spectroscopy",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CMP7011",
+        "title": "Lab on Synthesis and Analysis",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "basket": "CYM Teaching or Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "CML7029",
+        "title": "Materials Characterization",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CML7022",
+        "title": "Chemical Separation and Electroanalytical Methods",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CMP7028",
+        "title": "Lab on Instrumentation in Material Characterization",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "basket": "Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "basket": "CYM Teaching or Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "CMD8005",
+        "title": "Major Project Part 1",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      },
+      {
+        "basket": "CYM Teaching or Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "CMD8007",
+        "title": "Major Project Part 2",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      },
+      {
+        "basket": "CYM Teaching or Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "CYM \u2013 M.Tech. in Molecular Engineering : Chemical Synthesis &amp; Analysis\nM.Tech. in Molecular Engineering : Chemical Synthesis &amp; Analysis\nChemistry, Department of\nProgramme Code: CYM\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n54\nPE (Programme Elective)\n3\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n63\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nIsolate and synthesize chemical compounds and materials relevant to industries including pharmaceuticals, renewable energy, petrochemicals, and textile, among others; subject them to different separation and purification techniques.\nPLO 2\nAnalyse these diverse range of chemical compounds and materials using state-of-the art analytical methods and techniques.\nPLO 3\nRelate the manufacturing processes, the structure, and the properties with that of synthesized chemicals and materials and be able to tune their properties and components accordingly.\nPLO 4\nInspect, interpret, and validate the accuracy and reliability of analytical data and implementation of analytical methods for Quality Management and Control.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCMD7005 Cornerstone Project 0 0 6 3\nCMD8005 Major Project Part 1 0 0 24 12\nCMD8007 Major Project Part 2 \u2013 \u2013 \u2013 \u2013\nCML7011 Advanced Analytical Instrumentation Techniques 3 0 0 3\nCML7012 Data Analysis and Cheminformatics 3 0 0 3\nCML7013 Design and Synthesis of Molecules and Materials 3 0 0 3\nCML7014 Applied Spectroscopy 3 0 0 3\nCML7022 Chemical Separation and Electroanalytical Methods 3 0 0 3\nCML7029 Materials Characterization 3 0 0 3\nCMN7099 Teaching/Research Practicum 0 0 8 4\nCMN7199 Teaching/Research Practicum 0 0 8 4\nCMN8199 Teaching/Research Practicum \u2013 \u2013 \u2013 \u2013\nCMP7011 Lab on Synthesis and Analysis 0 0 6 3\nCMP7028 Lab on Instrumentation in Material Characterization 0 0 6 3\nCMT7003 Summer Internship or minor project \u2013 \u2013 \u2013 \u2013\nCYM Teaching or Research Practicum (0-0-8) 4 NGU\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCMN7099 Teaching/Research Practicum 0 0 8 4\nCMN7199 Teaching/Research Practicum 0 0 8 4\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCML7033 Chemistry of Industrial Catalysis 3 0 0 3\nCML7040 Chemistry of Heterocyclic Compounds 3 0 0 3\nCML7041 Organo and Organometallic Catalysis 3 0 0 3\nCML7042 Reagents in Synthetic Transformations 3 0 0 3\nCML7234 Chemistry of Nanostructured Materials 3 0 0 3\nSemester-wise Schedule\nSem\nCourses &amp; Baskets\nHrs /\nweek\nNGU\nCredits\n1\nCML7011 Advanced Analytical Instrumentation Techniques"
+}

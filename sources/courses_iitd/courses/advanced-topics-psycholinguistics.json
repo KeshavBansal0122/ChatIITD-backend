@@ -1,0 +1,22 @@
+{
+  "code": "HSL8745",
+  "name": "Advanced Topics in Psycholinguistics",
+  "description": "HSL7745 gives a broad overview of processes and representations that subserve language cognition and learning. The current course aims to take a subset of these topics (e.g., sentence production or language acquisition or reading ) and explore it in-depth. The exact course content will therefore depend on the specific sub-domain of psycholinguistic that is taken up in a particular iteration of this course. These could be themes such as sentence production, language disorders, language acquisition, etc. For example, if sentence production is taken up then, the course will begin with an overview of what sentence production entails. It will then cover both symbolic/serial theories of sentence production as well as connectionist/interaction based theories of production. Following this, we will discuss the influence of language typology/syntactic relations on planning; in other words, what aspect of sentence production is universal and what aspects are contingent on the language specific peculiarities. The course will then cover the issue of the relationship of production to grammar as well as its relation to sentence comprehension, i.e., do comprehension and production represent distinct processes and do they utilise the same linguistic knowledge. Finally, throughout these topics the students will be introduced to various experimental paradigms typically used in the sentence production literature. This will be done by reading and discussing the key research papers in the relevant topic.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "HSL7745",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Topics in Psycholinguistics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Topics in Psycholinguistics"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-topics-psycholinguistics",
+  "slug": "advanced-topics-psycholinguistics"
+}

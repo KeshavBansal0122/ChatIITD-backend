@@ -1,0 +1,22 @@
+{
+  "code": "DDL3001",
+  "name": "Systems and Lifecycle Perspectives in Design",
+  "description": "Introduction to systems thinking, its application to design and various phases in life of products; various phases in life of products (design, manufacture, assembly, marketing, use, maintenance, disposal, reuse/recycle/remanufacture); design for: cost, manufacture, assembly, disassembly, reliability, maintenance, disposal, recycle, reuse, recover, remanufacture; exploration and application of product lifecycle management software.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Systems and Lifecycle Perspectives in Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Systems and Lifecycle Perspectives in Design"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/systems-and-lifecycle-perspectives-design",
+  "slug": "systems-and-lifecycle-perspectives-design"
+}

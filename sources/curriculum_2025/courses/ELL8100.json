@@ -1,0 +1,16 @@
+{
+  "code": "ELL8100",
+  "name": "Nonlinear Control Systems",
+  "description": "Introduction to nonlinear systems, existence and uniqueness of solutions, planar systems, periodic orbits, bifurcation, Lyapunov stability of autonomous systems, Lyapunov stability of nonautonomous systems, input-to-state stability, input-output stability, small gain theorem, passivity and lure problem, perturbation theory and averaging, singular perturbation, introduction to feedback control, control via linearization, integral control, feedback linearization, basic results on lie algebra, controllability and observability of nonlinear systems, nonlinear feedback control, control Lyapunov functions, backstepping, finite-time control.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL8100"
+}

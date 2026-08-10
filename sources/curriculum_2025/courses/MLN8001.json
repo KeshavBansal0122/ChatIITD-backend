@@ -1,0 +1,16 @@
+{
+  "code": "MLN8001",
+  "name": "Research Communication and Ethics in Materials Science and Engineering",
+  "description": "Foundations of scientific reasoning, literature survey techniques, and effective oral/poster research presentations.\r\nResearch integrity and ethics: plagiarism types, authorship practices, ethical use of AI, and responsible data/reporting methods.\r\nSafety awareness: hazard recognition, risk assessment, and emergency preparedness in materials research environments.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ML",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ML#MLN8001"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CVL7210",
+  "name": "Offshore Geotechnical Engineering",
+  "description": "Submarine soils: origin, nature and distribution. Terrigenic and pelagic soils. Submarine soils of India. Engineering behavior of submarine soils: under consolidated soils, calcareous soils, cemented soils, corals; offshore site investigations: sampling and sampling disturbance, in situ testing, wireline technology. Offshore pile foundations for jacket type structures. Foundations of gravity structures; foundations for jack up rigs. Anchors and breakout forces; anchor systems for floating structures. Stability of submarine slopes. Installation and stability of submarine pipelines.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Offshore Geotechnical Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Offshore Geotechnical Engineering"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/offshore-geotechnical-engineering",
+  "slug": "offshore-geotechnical-engineering"
+}

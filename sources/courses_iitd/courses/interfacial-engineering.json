@@ -1,0 +1,22 @@
+{
+  "code": "CHL7507",
+  "name": "Interfacial Engineering",
+  "description": "Concept and definition of interface. Physical surfaces. Surface chemistry and physics of colloids, thin films, dispersions, emulsions, foams, polyaphrons. Interfacial processes such as crystallization, epitaxy, froth flotation, adsorption, adsorptive bubble separation, catalysis, reaction-injection moulding, microencapsulation. Methods of preparation of nanoparticles. Liposomes and applications. Industrial aspects of interfacial engineering.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL1001&CHL2002",
+  "overlap": null,
+  "learning_outcomes": [
+    "Interfacial Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Interfacial Engineering"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/interfacial-engineering",
+  "slug": "interfacial-engineering"
+}

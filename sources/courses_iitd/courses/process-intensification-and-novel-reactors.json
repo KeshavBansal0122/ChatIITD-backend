@@ -1,0 +1,22 @@
+{
+  "code": "CHL7305",
+  "name": "Process Intensification and Novel Reactors",
+  "description": "Introduction to process intensification, possible ways of process intensification and their examples. Introduction to multifunctional reactors/process equipment: reactive distillation, reactor-heat-exchangers, membrane reactors, micro-reactors, and structured/monolithic reactors. Intensification of conventional reactors/process equipment and analysis of fluid dynamics and transport effects in intensified reactors. Order-of-magnitude analysis of reaction rates and heat/mass transfer rates. Flow patterns in intensified reactors. Design and scale of intensified reactors and fabrication issues. Examples of process intensification.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL2005&CHL3005",
+  "overlap": null,
+  "learning_outcomes": [
+    "Process Intensification and Novel Reactors | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Process Intensification and Novel Reactors"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/process-intensification-and-novel-reactors",
+  "slug": "process-intensification-and-novel-reactors"
+}

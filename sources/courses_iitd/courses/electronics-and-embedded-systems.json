@@ -1,0 +1,22 @@
+{
+  "code": "ESL2462",
+  "name": "Electronics and Embedded Systems",
+  "description": "The course will deal with working of BJT and MOSFET, biasing schemes and single stage amplifier; differential and operational amplifiers, negative and positive feedback, applications of operational amplifiers (integrator, adder, subtractor, filter circuits, comparators); Logic Gates, Number systems, arithmetic operations, K-maps, multiplexers, de-multiplexers, latches, flip-flops, registers, counters, memories; FPGA based microcontroller board; VHDL programming for combinational and sequential logic circuits.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "ELL1000",
+  "overlap": null,
+  "learning_outcomes": [
+    "Electronics and Embedded Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Electronics and Embedded Systems"
+  ],
+  "department": "Energy Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/electronics-and-embedded-systems",
+  "slug": "electronics-and-embedded-systems"
+}

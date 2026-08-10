@@ -1,0 +1,16 @@
+{
+  "code": "CON8000",
+  "name": "Teaching Practicum in Computer Science and Engineering",
+  "description": "Students are expected to assist with teaching that includes preparing course materials, managing class activities and examination, providing support to student engagement, grading assignments. They are also expected to help with practical, tutorials, class projects (depending on the course content) and other administrative tasks related to the course and the school.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#CON8000"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CVP2601",
+  "name": "Traffic Engineering and Transportation Planning Laboratory",
+  "description": "Traffic data collection: spot speed, time headways; Developing traffic flow models: Greenshield\u2019s speed-density relation; Designing traffic signal control, Learning transportation planning: Conducting surveys, Estimating future demand, Perform various steps of four-step travel demand forecasting",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVP2601"
+}

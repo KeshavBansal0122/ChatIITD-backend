@@ -1,0 +1,16 @@
+{
+  "code": "JCD8193",
+  "name": "M. Tech. Project II",
+  "description": "Execution of a significant research or development problem in cyber security. Design, implement, and evaluate a solution, conduct experiments or analysis, and interpret the results. Emphasis is placed on technical rigor, originality, and effective communication through a detailed report and oral presentation.",
+  "credits": 12.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 24.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "J",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=J#JCD8193"
+}

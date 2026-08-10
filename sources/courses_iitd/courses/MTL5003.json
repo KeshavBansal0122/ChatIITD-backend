@@ -1,0 +1,21 @@
+{
+  "code": "MTL5003",
+  "name": "Real Analysis",
+  "description": "Review: Elementary set theory, countable and uncountable sets, the real number system and its order completeness. \nMetric spaces, open sets and closed sets, limit and continuity, separability and homeomorphism.\nComplete metric space, contraction mappings, Baire category theorem, and totally bounded sets.\nConnected metric spaces, compact metric spaces, compactness and continuous spaces, characterisation of compactness, Arzela-Ascoli theorem.\nSequence of functions, uniform convergence, Dini&#039;s theorem, Weierstrass approximation theorem \nDirectional derivative, total derivative, mean-value theorem, higher-order derivatives, inverse function theorem and implicit function theorem.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Real Analysis | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/real-analysis",
+  "slug": "real-analysis"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MEL7221",
+  "name": "Machinery Health Monitoring",
+  "description": "Introduction to maintenance and historical evolution of various maintenance approaches, role of condition monitoring in cost-effective maintenance. Various techniques of condition monitoring and their pros and cons. Selection of sensors, data acquisition system, data pre-processing, filtering, de-noising approaches. Data analysis in different domains: time, frequency, time-frequency, quefrency domain analysis, data representation formats. Different types of faults in common machine elements, such as bearings, gears, couplings, and in electric motors, pumps, compressors, etc. The fault dynamics, fault interaction, etc. Various fault features and data fusion approaches. Introduction to machine learning and AI in machinery health monitoring, transfer learning approaches, challenges in data-based techniques, introduction to hybrid approaches, digital twinning, IVHM, PHM techniques, I4.0, use of IoT in machine health monitoring, future trends.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Machinery Health Monitoring | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Machinery Health Monitoring"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/machinery-health-monitoring",
+  "slug": "machinery-health-monitoring"
+}

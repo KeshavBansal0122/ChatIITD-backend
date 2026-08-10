@@ -1,0 +1,16 @@
+{
+  "code": "COV8378",
+  "name": "Special Module in Machine Learning I",
+  "description": "The module will focus on the recent developments and active research problems in machine learning. Topics will be updated regularly to reflect the latest trends and emerging interests in the field.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COV8378"
+}

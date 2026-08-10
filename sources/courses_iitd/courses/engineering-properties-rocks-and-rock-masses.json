@@ -1,0 +1,22 @@
+{
+  "code": "CVL7601",
+  "name": "Engineering Properties of Rocks and Rock Masses",
+  "description": "Rock materials, physical properties, strength behaviour of rocks in uniaxial, tension and triaxial state. Laboratory testing of rocks. Stress-strain relationships in rocks. Factors influencing rock strength, rock failure mechanisms. Anisotropy. Rock failure criteria: Coulomb, Mohr\u2019s, Griffiths and empirical criteria. Brittle\u2013ductile transition in rocks, postfailure rock behaviour. Strength and deformation behaviour of discontinuities. Rock mass behaviour, shear strength of jointed rocks, peak and residual strengths. Strength criteria for rockmass. Intact and rock mass classifications: Terzaghi, RQD, RMR, GSI and Q. Creep and cyclic loading in rocks. Direct shear of rocks joints, weathered rocks. Permeability in rocks. Dynamic rock properties.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Engineering Properties of Rocks and Rock Masses | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Engineering Properties of Rocks and Rock Masses"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/engineering-properties-rocks-and-rock-masses",
+  "slug": "engineering-properties-rocks-and-rock-masses"
+}

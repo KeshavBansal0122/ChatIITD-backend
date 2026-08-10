@@ -1,0 +1,16 @@
+{
+  "code": "DDR8522",
+  "name": "Strategic Design Management",
+  "description": "Strategic intervention through product, system, services design. Branding and brand development as a strategic tool, repositioning in market, disruptive innovation for market capitalization, retail design, design of services, designing for new businesses.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DD#DDR8522"
+}

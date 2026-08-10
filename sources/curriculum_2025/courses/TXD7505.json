@@ -1,0 +1,16 @@
+{
+  "code": "TXD7505",
+  "name": "Minor Project (Fibre Science and Textile Chemical Processing)",
+  "description": "This is an open ended course where the students are expected to design and develop a process, product or equipment or instrument relevant to the field of textiles. In this process, the students are expected to demonstrate their ability to think on their own in design and development. They are also expected to put down their thinking process in a report form with relevant literature background, methodology of design and development process and should have conducted some experiments with the developed process/product/system. The elements of the project involve literature survey, identification and arrangement of materials and equipment, planning and execution of the project work within the stipulated time frame and writing a technical report. Finally, they need to present their work for the award of grade.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXD7505"
+}

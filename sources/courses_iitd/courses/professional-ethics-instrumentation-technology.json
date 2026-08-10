@@ -1,0 +1,22 @@
+{
+  "code": "DSL7000",
+  "name": "Professional Ethics in Instrumentation Technology",
+  "description": "Types of ethical issues in instrumentation technology and engineering related to safety, sustainability, integrity, intellectual property, plagiarism, academic integrity, human rights etc. Public safety rules. Environmentally friendly and sustainable solutions (hazardous waste, community impacts). Potential biases in algorithms and data that could lead to unfair or discriminatory outcomes. Data privacy. Emerging challenges (AI bias, carbon neutral dilemmas, Technological advancement and its impact on social frame work etc.). Transparency and accountability.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Professional Ethics in Instrumentation Technology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Professional Ethics in Instrumentation Technology"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/professional-ethics-instrumentation-technology",
+  "slug": "professional-ethics-instrumentation-technology"
+}

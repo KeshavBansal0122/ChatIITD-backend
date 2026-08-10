@@ -1,0 +1,22 @@
+{
+  "code": "CVL8458",
+  "name": "Stochastic Finite Element Analysis",
+  "description": "Introduction to deterministic finite element method, representation of stochastic processes, stochastic finite element method (SFEM), Monte Carlo simulation, perturbation method, SFEM response statistics, statistical moments, application to real world structural engineering problems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Stochastic Finite Element Analysis | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Stochastic Finite Element Analysis"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/stochastic-finite-element-analysis",
+  "slug": "stochastic-finite-element-analysis"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "PYL7070",
+  "name": "Ultrafast Optics and Applications",
+  "description": "Ultrashort pulses, correlation to Fourier domain and autocorrelation. Generation of ultrashort pulses: Q switching to modelocking, active and passive modelocking, saturable absorber based modelocking. Measurement of ultrashort pulses: autocorrelation, concept of optical gating, FROG, PFROG, SPIDER. Applications: advances in solid-state ultrafast laser oscillators. Ultrafast quantum control in atoms and molecules. Femtosecond optical frequency combs. Ultrafast material studies using coherent X-ray pulses from high-harmonic generation. Ultrafast nonlinear fibre optics and supercontinuum generation. Nonlinear wavelength conversion. Propagation in optical fibres. Applications of ultra-intense, short laser pulses. Utilising ultrafast lasers for multi photon biomedical imaging. Femtosecond laser micro-machining. Technology and applications of THz waves, ultrafast nonlinear microscopy, attosecond generation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL7070"
+}

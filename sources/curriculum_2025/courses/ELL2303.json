@@ -1,0 +1,16 @@
+{
+  "code": "ELL2303",
+  "name": "Semiconductor Materials and Interfaces",
+  "description": "Quantum Fundamentals, Schroedinger\u2019s equation, Particle in a Box, Free Electron Fermi Gas model of conduction, Electron in a periodic Lattice, Bloch Theorem. Crystal Structure, Miller indices,Reciprocal lattice, E-k Diagram, Energy Bands, Density of states in one dimension, Fermi-Dirac Distribution, Recombination and generation, Drift-Diffusion Equations, P-N Junctions, built-in potential, forward and reverse bias, capacitance, diode currents, breakdown. Diode small signal models and turn off transient, Elements of Wide Bandgap Materials and applications. Solar Cells Metal Semiconductor Junctions, Schottky and Ohmic Contacts,MOS Capacitor: Depletion, Inversion, Accumulation, Flatband. Exploration of current trends.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL2303"
+}

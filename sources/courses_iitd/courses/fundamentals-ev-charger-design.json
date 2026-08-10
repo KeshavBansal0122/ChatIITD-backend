@@ -1,0 +1,22 @@
+{
+  "code": "CTL7045",
+  "name": "Fundamentals of Ev Charger Design",
+  "description": "Electrical terminologies in EV charging, basics of voltage and current source systems and their operation, DC/DC converters in EV chargers, isolation in DC/DC topologies, basics of UPF rectifier operation, charger circuits for low power and high-power systems, control of EV chargers, CC-CV operation, charger system realization, EV interaction basics, grid interaction basics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Fundamentals of Ev Charger Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fundamentals of Ev Charger Design"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fundamentals-ev-charger-design",
+  "slug": "fundamentals-ev-charger-design"
+}

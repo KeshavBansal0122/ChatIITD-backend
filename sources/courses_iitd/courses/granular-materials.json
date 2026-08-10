@@ -1,0 +1,22 @@
+{
+  "code": "CHL7512",
+  "name": "Granular Materials",
+  "description": "Continuum mechanics, statistical physics, and rigid body dynamics approaches to understand the microscopic and macroscopic behavior of granular materials. Constitutive modeling and rheology of granular materials. Advanced simulation techniques for particle dynamics. Design of flow and handling systems for granular materials.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL3003",
+  "overlap": null,
+  "learning_outcomes": [
+    "Granular Materials | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Granular Materials"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/granular-materials",
+  "slug": "granular-materials"
+}

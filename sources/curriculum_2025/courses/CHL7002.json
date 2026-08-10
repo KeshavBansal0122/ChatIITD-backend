@@ -1,0 +1,16 @@
+{
+  "code": "CHL7002",
+  "name": "Computational Techniques for Chemical Engineers",
+  "description": "Overview of computational methods in chemical engineering. Importance of numerical methods and simulations. Solving linear and nonlinear equations. Numerical differentiation and integration. Interpolation and curve fitting. Solving ordinary differential equations and partial differential equations. Applications to momentum transfer, heat transfer, mass transfer, and reaction kinetics. Introduction to optimization problems in chemical engineering. Data analysis and machine learning in chemical engineering. Basics of data preprocessing and visualization. Supervised and unsupervised learning. Application to predictive modeling, process control, and fault detection. Real-world applications of computational techniques.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CH",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CH#CHL7002"
+}

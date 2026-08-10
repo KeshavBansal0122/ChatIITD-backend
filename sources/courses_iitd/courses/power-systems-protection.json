@@ -1,0 +1,22 @@
+{
+  "code": "ELL3602",
+  "name": "Power Systems Protection",
+  "description": "Fundamentals of power system protection, philosophy of protective relays, different types of relays, introduction to protection elements like CT, PT, CB, isolator etc, (includes CT and PT class, CB transients, CB rating and testing, arc extinction in CB), over current relays: principle, operation and setting, directional relays: needs and operating principle, power system components protected using over current relays, differential relays: principle, operation and setting, protection of three phase transformer, bus bar and generator using differential relays, distance relays: principle, operation and setting, simple impedance relay, reactance relay, Mho relay and angle impedance relays, quadrilateral relays, transmission line protection using distance relays, impact of power swing on performance of distance relays, power swing blocking and out-of- step protection, static relays: principle, amplitude comparator and phase comparator, phase comparator realization using positive coincidence period, distance relay realization using comparators, generator protection, overview of numerical relaying and few algorithms, phasor extraction, introduction to PMU and its use, and fault location.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL2600",
+  "overlap": null,
+  "learning_outcomes": [
+    "Power Systems Protection | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Power Systems Protection"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/power-systems-protection",
+  "slug": "power-systems-protection"
+}

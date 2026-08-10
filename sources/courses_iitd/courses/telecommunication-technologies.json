@@ -1,0 +1,21 @@
+{
+  "code": "ELL7218",
+  "name": "Telecommunication Technologies",
+  "description": "Types of access and edge networks, core / deep-core networks, OSS/NMS and Telecom Management network (TMN), Teletraffic Theory and Network analysis",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Telecommunication Technologies | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/telecommunication-technologies",
+  "slug": "telecommunication-technologies"
+}

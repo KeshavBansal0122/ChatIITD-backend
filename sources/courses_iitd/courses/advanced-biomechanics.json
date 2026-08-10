@@ -1,0 +1,22 @@
+{
+  "code": "AML7620",
+  "name": "Advanced Biomechanics",
+  "description": "This course aims to provide an in-depth understanding of the mechanical principles governing biological systems, with a particular emphasis on the mechanics of biological cells, soft-tissues and musculoskeletal systems. It integrates theoretical knowledge with practical skills in experimental methods and computational modeling to analyze and interpret biomechanical data effectively.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(AML2070)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Biomechanics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Biomechanics"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-biomechanics",
+  "slug": "advanced-biomechanics"
+}

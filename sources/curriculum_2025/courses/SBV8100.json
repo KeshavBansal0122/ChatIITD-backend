@@ -1,0 +1,16 @@
+{
+  "code": "SBV8100",
+  "name": "Nanomaterials in Biology",
+  "description": "Fundamentals of nanobiotechnology, strategies for nanomaterial synthesis, classification, and advanced characterization techniques. Applications of nanomaterials in biosensing, bioimaging, and nanomedicine, along with emerging therapeutic approaches such as catalytic, photodynamic, and photothermal therapies.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBV8100"
+}

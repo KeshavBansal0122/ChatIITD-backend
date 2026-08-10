@@ -1,0 +1,22 @@
+{
+  "code": "BSL9506",
+  "name": "Introduction to Quantum Communications and Cryptograph",
+  "description": "Review of linear algebra and Hilbert spaces; postulates of quantum mechanics; quantum states and measurement; quantum channels; composite systems and entanglement; bell measurement and CHSH inequality; no-cloning theorem; purification; distance measures; classical information theory: Shannon&#039;s entropy, mutual information, source and channel coding; quantum information theory: von-Neumann entropy, Holevo information, quantum channel capacity; QKD protocols; discrete variable QKD (DV-QKD): BB84, BBM92, E91, COW, DPS; continuous variable QKD (CV-QKD): GG02 protocol, security analysis, Gaussian quantum information theory; quantum networks; post quantum cryptography (PQC).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Quantum Communications and Cryptograph | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Quantum Communications and Cryptograph"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-quantum-communications-and-cryptograph",
+  "slug": "introduction-quantum-communications-and-cryptograph"
+}

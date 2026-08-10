@@ -1,0 +1,22 @@
+{
+  "code": "AML3070",
+  "name": "Introduction to Computational Fluid Dynamics",
+  "description": "Review of governing equations for fluid flow, finite difference and finite volume method and its application to steady 1-D, 2-D and 3-D convection-diffusion problems, extension of FVM to unsteady 1-D, 2-D and 3-D convection diffusion problems, solution of discretized Navier Stokes equations and boundary conditions, differences between laminar and turbulent flows, Reynolds-averaged Navier-Stokes equations, closure problem; RANS based turbulence models. Introduction to DNS and LES.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "AML2020AML3000",
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Computational Fluid Dynamics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Computational Fluid Dynamics"
+  ],
+  "department": "Computational Fluid Dynamics",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-computational-fluid-dynamics",
+  "slug": "introduction-computational-fluid-dynamics"
+}

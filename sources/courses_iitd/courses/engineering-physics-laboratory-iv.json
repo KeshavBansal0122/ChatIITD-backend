@@ -1,0 +1,22 @@
+{
+  "code": "PYP3006",
+  "name": "Engineering Physics Laboratory - IV",
+  "description": "The course consists of a total of 6-8 experiments. The experiments will expose the students to learn the methodologies for construction of phase diagram for binary solid state systems; deposition of thin films of metals/semimetals using physical vapor deposition methods and analyze their electrical properties; study of the electrical and magnetic properties of superconductors; \nstudying the behavior of tunnel magnetoresistance (TMR) in magnetic tunnel junctions; structural characterization of materials using X-ray diffraction, etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Engineering Physics Laboratory - IV | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Engineering Physics Laboratory - IV"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/engineering-physics-laboratory-iv",
+  "slug": "engineering-physics-laboratory-iv"
+}

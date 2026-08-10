@@ -1,0 +1,21 @@
+{
+  "code": "ELL7123",
+  "name": "Systems Biology",
+  "description": "Systems Perspective, Examples: Logic & Arithmetic, Memory & Decision-making, Sensing & Adaptation, Pulses & Modulation, Clocks & Oscillations, Patterns & Waves, Metabolism & Fitness, Error Correction & Proofreading, Learning & Evolution, Function & Design, Mathematical Models, Law of Mass Action, Noise & Uncertainty, Interval Analysis, Control Laws: Positive Feedback, Negative Feedback & Feedforward Action, Phase Plane Analysis, Bifurcations, Attractors, Robustness & Sensitivity, Internal Model Principle, Time Delay, Limit Cycles: Existence, Uniqueness & Construction, Reactions & Diffusion, Adaptive Control, Optimality, Tradeoffs, Thermodynamics, Monotone Systems, Chemical Reaction Network Theory",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Systems Biology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/systems-biology-1",
+  "slug": "systems-biology-1"
+}

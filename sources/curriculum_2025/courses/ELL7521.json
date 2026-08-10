@@ -1,0 +1,16 @@
+{
+  "code": "ELL7521",
+  "name": "Power Quality",
+  "description": "Overview and importance of power quality (PQ) problems in electrical grid, international power quality standards like IEEE and IEC. Power quality problems caused by different types of loads leading to events like sag, swell, interruptions, unbalance, notching and transients. Mathematical analysis of unbalance, distortion, voltage sag, flicker, phase jump etc. Synchronous reference frame (SRF) theory, instantaneous reactive power (IRP) theory. Power factor correction, zero voltage regulation, reactive power compensation, load balancing. Different compensation techniques: passive shunt and series compensation, DSTATCOM (distribution static Compensators), DVR (dynamic voltage restorers), UPQC (universal power quality conditioners). Harmonic effects within the power system, harmonic measurements. Harmonic elimination-using active (shunt, series and hybrid) and passive (shunt and series) filters. Power quality improvement in practical systems like SMPS, UPS, drives, welding systems, lighting systems, and renewable energy systems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7521"
+}

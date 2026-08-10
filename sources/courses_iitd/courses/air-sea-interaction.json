@@ -1,0 +1,22 @@
+{
+  "code": "ASL7620",
+  "name": "Air-Sea Interaction",
+  "description": "State of matter near the air\u2010sea interface, marine boundary layer, transfer properties between atmosphere and ocean, solar and terrestrial radiation, sea surface radiation budget, surface wind waves, air\u2010sea interaction processes using examples of ENSO, hurricane, Indian monsoon, turbulent transfer near the interface, bubbles and spray, transport of trace gases across the interface; latent, sensible, and momentum fluxes in the surface boundary layer over the sea, bulk parameterizations, large\u2010scale forcing by sea surface buoyancy fluxes, spatio\u2010 temporal variability of ocean surface fluxes with reference to Indian ocean.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Air-Sea Interaction | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Air-Sea Interaction"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/air-sea-interaction",
+  "slug": "air-sea-interaction"
+}

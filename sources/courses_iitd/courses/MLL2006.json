@@ -1,0 +1,22 @@
+{
+  "code": "MLL2006",
+  "name": "Modern Data Analytics in Materials Science",
+  "description": "Mathematical foundations including vectors, matrices, and statistics. Data preprocessing, feature engineering, and dimensionality reduction techniques (PCA, t-SNE). Unsupervised learning methods like clustering for microstructure analysis. Supervised learning algorithms including regression and classification for structure\u2013property prediction. Model evaluation, interpretability (for example, SHAP), and uncertainty quantification. Applications in materials discovery and performance modeling using experimental and computational data. Practical/practice activities include weekly python-based exercises using libraries like pandas, numpy, matplotlib, and scikit-learn. Hands-on analysis of real materials datasets, development of machine learning pipelines, and a final project focusing on reviewing a materials engineering problem solved using data analytics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Modern Data Analytics in Materials Science | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Modern Data Analytics in Materials Science"
+  ],
+  "department": "Data Driven Methods for Materials Designing",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/modern-data-analytics-materials-science",
+  "slug": "modern-data-analytics-materials-science"
+}

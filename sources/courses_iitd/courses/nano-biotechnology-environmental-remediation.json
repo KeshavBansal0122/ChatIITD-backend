@@ -1,0 +1,22 @@
+{
+  "code": "CVL8713",
+  "name": "Nano-Biotechnology for Environmental Remediation",
+  "description": "Introduction on nanomaterials use for contaminants removal; nanomaterials-related processes for remediation (adsorption, aggregation, advanced oxidation, co-precipitation); removal due to nanomaterials-plant system; removal due to nanomaterials-microbes system; sustainability assessment; case studies for application of nanobiotechnology for remediation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Nano-Biotechnology for Environmental Remediation | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Nano-Biotechnology for Environmental Remediation"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/nano-biotechnology-environmental-remediation",
+  "slug": "nano-biotechnology-environmental-remediation"
+}

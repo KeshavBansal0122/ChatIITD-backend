@@ -1,0 +1,16 @@
+{
+  "code": "HSL5062",
+  "name": "Cognitive Processes",
+  "description": "The course will introduce students to the core cognition, providing foundational knowledge about how humans think. The lectures will explicate the underlying cognitive mechanisms and encourage students to delve how cognitive processes operate in and out of the labs. Special relevance will be placed on linking cognition to daily life (like real world search, driving, person perception at security, map navigation, everyday emotion and memory, consumer purchases, financial choices among others) and to topics of relevance in society (social biases, reducing inequality, better health).",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL5062"
+}

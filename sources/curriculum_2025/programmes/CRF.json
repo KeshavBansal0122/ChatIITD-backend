@@ -1,0 +1,601 @@
+{
+  "code": "CRF",
+  "name": "M.Tech. in Radio Frequency Design and Technology",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=CRF",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 30.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Solve industry-relevant problems in microelectronics, microwave engineering and data science &amp; signal processing."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Design and measure multiple aspects of wireless and other electronic systems."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Design both active and passive circuits for high frequency defense, commercial, and societal applications. Graduate will also be able to utilize the concepts in the rapidly developing field of bio- electromagnetics."
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "Design high-frequency semiconductor devices and circuits, focusing on their applications in commercial, societal, and strategic domains."
+    },
+    {
+      "outcome_id": "PLO5",
+      "text": "Apply their knowledge in data science and signal processing systems/algorithms to practical problems."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "CRD8002",
+        "title": "Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRD8011",
+        "title": "Major Project I",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "12"
+        },
+        "credits": "6"
+      },
+      {
+        "course_code": "CRD8022",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7002",
+        "title": "Architectures and Algorithms for DSSP (Data Science and Signal Processing) Systems",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CRL7011",
+        "title": "CAD of RF and Microwave Circuits",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CRL7022",
+        "title": "RF and Microwave Solid State Devices",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7024",
+        "title": "RF and Microwave Measurements",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRN7080",
+        "title": "Teaching Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CRP7018",
+        "title": "RF and Microwave Measurement Laboratory",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CRT8001",
+        "title": "Internship",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRV7081",
+        "title": "Professional Ethics",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "CRD8002",
+        "title": "Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRT8001",
+        "title": "Internship",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7001",
+        "title": "Introduction to Data Science and Signal Processing",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7003",
+        "title": "Optimization for Data Science and Signal Processing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7004",
+        "title": "Sensor Array Signal Processing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7005",
+        "title": "Machine Learning for Data Science and Signal Processing",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7007",
+        "title": "Human and Machine Speech Communication",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7008",
+        "title": "Sonar System Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7009",
+        "title": "Underwater Electronic Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7012",
+        "title": "RF and Microwave Active Circuits",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7013",
+        "title": "Advanced Engineering Electromagnetics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7014",
+        "title": "Introduction to Bioelectromagnetics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7015",
+        "title": "Radiating Systems for RF Communication",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7016",
+        "title": "Microwave Filters for Wireless System Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7025",
+        "title": "Technology of RF and Microwave Solid State Devices",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7027",
+        "title": "Introduction to Quantum Electronic Devices",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7028",
+        "title": "Low-Power CMOS Integrated Circuit Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7029",
+        "title": "Sensors and Transducers",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7033",
+        "title": "Selected Topics in RFDT-III",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7034",
+        "title": "Selected Topics in RFDT-IV",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7051",
+        "title": "Quantum Communications and Information Processing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7052",
+        "title": "Quantum Computations and Algorithms",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7071",
+        "title": "Microelectronics Packaging and Integration",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7525",
+        "title": "Advanced Memory Technologies",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRP7023",
+        "title": "Fabrication Techniques for RF and Microwave Devices",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRV7043",
+        "title": "Special Module in Radio Frequency Design and Technology-II",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "ELL7342",
+        "title": "SPICE-PDK Compact Device Models for Silicon IC Design Simulations",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ELL7355",
+        "title": "Frequency Synthesizer IC Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL8333",
+        "title": "CMOS RF IC Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELP7342",
+        "title": "On-Wafer Device Characterization Laboratory.",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "CRL7011",
+        "title": "CAD of RF and Microwave Circuits",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "CRP7018",
+        "title": "RF and Microwave Measurement Laboratory",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "CRL7022",
+        "title": "RF and Microwave Solid State Devices",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CRV7081",
+        "title": "Professional Ethics",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "CRN7080",
+        "title": "Teaching Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "CRD8022",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CRL7024",
+        "title": "RF and Microwave Measurements",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CRL7002",
+        "title": "Architectures and Algorithms for DSSP (Data Science and Signal Processing) Systems",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "CRN7080",
+        "title": "Teaching Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "orithms for DSSP (Data Science and Signal Processing) Systems",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "CRD8011",
+        "title": "Major Project I",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 12.0
+        },
+        "credits": 6.0
+      },
+      {
+        "course_code": "CRN7080",
+        "title": "Teaching Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "Ext connect",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 1.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "CRN7080",
+        "title": "Teaching Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "CRF \u2013 M.Tech. in Radio Frequency Design and Technology\nM.Tech. in Radio Frequency Design and Technology\nApplied Research in Electronics, Centre for\nProgramme Code: CRF\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n30\nPE (Programme Elective)\n26\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n62\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nSolve industry-relevant problems in microelectronics, microwave engineering and data science &amp; signal processing.\nPLO 2\nDesign and measure multiple aspects of wireless and other electronic systems.\nPLO 3\nDesign both active and passive circuits for high frequency defense, commercial, and societal applications. Graduate will also be able to utilize the concepts in the rapidly developing field of bio- electromagnetics.\nPLO 4\nDesign high-frequency semiconductor devices and circuits, focusing on their applications in commercial, societal, and strategic domains.\nPLO 5\nApply their knowledge in data science and signal processing systems/algorithms to practical problems.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCRD8002 Minor Project 0 0 6 3\nCRD8011 Major Project I 0 0 12 6\nCRD8022 Cornerstone Project 0 0 6 3\nCRL7002 Architectures and Algorithms for DSSP (Data Science and Signal Processing) Systems 2 0 4 4\nCRL7011 CAD of RF and Microwave Circuits 3 0 2 4\nCRL7022 RF and Microwave Solid State Devices 3 0 0 3\nCRL7024 RF and Microwave Measurements 3 0 0 3\nCRN7080 Teaching Research Practicum 0 0 8 4\nCRP7018 RF and Microwave Measurement Laboratory 1 0 6 4\nCRT8001 Internship 0 0 6 3\nCRV7081 Professional Ethics 1 0 0 1\nCRF Summer Internship / Minor Project (0-0-6) 3\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCRD8002 Minor Project 0 0 6 3\nCRT8001 Internship 0 0 6 3\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCRL7001 Introduction to Data Science and Signal Processing 2 0 2 3\nCRL7003 Optimization for Data Science and Signal Processing 3 0 0 3\nCRL7004 Sensor Array Signal Processing 3 0 0 3\nCRL7005 Machine Learning for Data Science and Signal Processing 2 0 2 3\nCRL7007 Human and Machine Speech Communication 3 0 0 3\nCRL7008 Sonar System Engineering 3 0 0 3\nCRL7009 Underwater Electronic Systems 3 0 0 3\nCRL7012 RF and Microwave Active Circuits 3 0 0 3\nCRL7013 Advanced Engineering Electromagnetics 3 0 0 3\nCRL7014 Introduction to Bioelectromagnetics 3 0 0 3\nCRL7015 Radiating Systems for RF Communication 3 0 0 3\nCRL7016 Microwave Filters for Wireless System Design 3 0 0 3\nCRL7025 Technology of RF and Microwave Solid State Devices 3 0 0 3\nCRL7027 Introduction to Quantum Electronic Devices 3 0 0 3\nCRL7028 Low-Power CMOS Integrated Circuit Design 3 0 0 3\nCRL7029 Sensors and Transducers 3 0 0 3"
+}

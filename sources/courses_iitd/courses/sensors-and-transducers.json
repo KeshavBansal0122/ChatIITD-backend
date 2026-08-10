@@ -1,0 +1,22 @@
+{
+  "code": "CRL7029",
+  "name": "Sensors and Transducers",
+  "description": "Introduction to sensors, basic sensor parameters and principles and applications of various sensors used in characterization of RF materials, devices, circuits and systems like acoustic sensors, ultrasonic sensors, magnetic and electrical sensors, thermal sensors, optical sensors, radiation sensors, smart sensors. Mechanical and thermal engineering issues for RF modules / instruments. Typical applications and use of transducers in systems/instruments.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Sensors and Transducers | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Sensors and Transducers"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/sensors-and-transducers",
+  "slug": "sensors-and-transducers"
+}

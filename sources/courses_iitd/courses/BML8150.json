@@ -1,0 +1,22 @@
+{
+  "code": "BML8150",
+  "name": "Selected Topics in Biomedical Engineering - I",
+  "description": "Advanced course on selected topics of biomedical engineering.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Selected Topics in Biomedical Engineering - I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Selected Topics in Biomedical Engineering - I"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/selected-topics-biomedical-engineering-i",
+  "slug": "selected-topics-biomedical-engineering-i"
+}

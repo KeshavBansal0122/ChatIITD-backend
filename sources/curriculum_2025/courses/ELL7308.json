@@ -1,0 +1,16 @@
+{
+  "code": "ELL7308",
+  "name": "Electronic Measurements",
+  "description": "Measurement principles of oscilloscope, impedance analyzer, spectrum analyzer. Other lab equipment: signal generator, voltage source. Controlling equipment through programming. Sources of error. Noise in measurement and ground loops. Sensitive measurements: impedance measurement including open-short calibrations; mutual inductance measurement, current measurement, noise measurement. RF measurement; network analyzers; SOLT calibration in brief. Noise figure measurement.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7308"
+}

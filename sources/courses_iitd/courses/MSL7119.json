@@ -1,0 +1,22 @@
+{
+  "code": "MSL7119",
+  "name": "Behavioural Finance",
+  "description": "This course aims to develop a holistic understanding of behavioral finance. We begin by tracing the evolution of behavioural finance and examine how it differs from classical rational finance. We then discuss some common biases in humans and connect them to study the concept of prospect theory. For each of these, we discuss the underlying principle, real-life examples, and the effects on investing and decision-making through case studies and interactive activities. We also introduce some market anomalies and their possible explanations using behavioural finance. To conclude, we develop a framework on how we can mitigate these biases as investors and in firms.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(MSL7101)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Behavioural Finance | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Behavioural Finance"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/behavioural-finance",
+  "slug": "behavioural-finance"
+}

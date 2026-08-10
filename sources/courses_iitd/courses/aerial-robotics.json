@@ -1,0 +1,21 @@
+{
+  "code": "JRL8730",
+  "name": "Aerial Robotics",
+  "description": "This course aims to introduce students to the concepts of modelling, control, and state estimation of autonomous aerial vehicles.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL2100/CHL3006/MEL7205/ELL7101/MEL3002/AML7890/JRL7030",
+  "overlap": null,
+  "learning_outcomes": [
+    "Aerial Robotics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/aerial-robotics",
+  "slug": "aerial-robotics"
+}

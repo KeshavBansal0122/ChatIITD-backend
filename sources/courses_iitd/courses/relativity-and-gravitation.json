@@ -1,0 +1,22 @@
+{
+  "code": "PYL7171",
+  "name": "Relativity and Gravitation",
+  "description": "Scales in gravitational physics, review of special relativity, introducing spacetime, relativistic kinematics, relativistic dynamics, tensors in relativity, interactions in relativity, gravity and geometry, equivalence principle, local inertial frame, geodesics, covariant derivative, parallel transport, lie transport, killing vectors, physics in curved spacetime, curvature - Riemann, Ricci, Ricci scalar, Weyl, Einstein tensor, Einstein-Hilbert action, matter action, energy momentum tensor, Einstein field equations, Schwarzschild metric, planetary orbits, perihelion shift, bending of light, compact objects, black holes.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "PYL2003PYL2023",
+  "overlap": null,
+  "learning_outcomes": [
+    "Relativity and Gravitation | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Relativity and Gravitation"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/relativity-and-gravitation",
+  "slug": "relativity-and-gravitation"
+}

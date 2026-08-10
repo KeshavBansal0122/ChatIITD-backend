@@ -1,0 +1,22 @@
+{
+  "code": "MSL7001",
+  "name": "Digital Research Methods using AI",
+  "description": "Introduction to Digital Business Research - Researching for business, Business vs marketing research, Research process, Role of GenAI in research; Digital tools and prompt engineering - Using digital technologies for research, Maintaining scientific rigor, Tools landscape, Appropriateness for the research objectives, and Prompt engineering; Research Design, and Ethics - Theory, Constructs and items; Digital research ethics, and Privacy, consent, AI hallucinations; Sampling - Probability vs non-probability sampling, Online panels, LinkedIn/community sampling, and Bias in digital sampling; Secondary Data & Digital Intelligence - Secondary research, Web analytics sources, Competitor intelligence, and Search trend analysis; Questionnaires & Scale Development - Likert scale, Reliability & validity, AI-generated scale items, and Scale refinement; Qualitative Research - Online interviews, Virtual focus groups, Live events analysis; Observation Studies & Netnography - Digital observation, Customer journey observation, Netnography, Social media observation; Online Surveys - Survey design, Mobile-first questionnaires, Attention checks, Survey logic; Digital Experiments & A/B Testing - Classical and Quasi., Online controlled experiments; Quantitative Data Analysis - Approaches to quantitative data analysis, Data preparation, Basic statistics, Interpreting for business decisions; Qualitative Data Analysis - Thematic coding, Text analytics, Sentiment analysis, AI-assisted interpretation; Report Writing & Storytelling - Executive reports, Dashboards, Insight storytelling, AI-generated presentations; Guest lectures from academic experts and industry professionals.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Digital Research Methods using AI | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Digital Research Methods using AI"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/digital-research-methods-using-ai",
+  "slug": "digital-research-methods-using-ai"
+}

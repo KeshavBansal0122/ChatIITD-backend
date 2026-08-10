@@ -1,0 +1,22 @@
+{
+  "code": "PYL7053",
+  "name": "Optical System Design",
+  "description": "Gaussian theory of optical system; aberrations: transverse ray and wave aberrations; chromatic aberration; third order aberrations; position and shape factors; meridional ray tracing; paraxial rays and first order optics; primary chromatic aberration: achromat doublet, triplet and dialyte, tolerances, chromatic aberration at finite aperture; spherical aberration: surface contribution formulas; spherically corrected achromat; oblique pencils: tracings of oblique meridional and skew rays; Coma and Abbe sine condition; image evaluation: geometric OTF, strehl ratio, spot diagram; definition of merit function; cooks triplet and its derivatives; double Gauss lens, introduction to zoom lenses and aspherics, examples of modern optical system, GRIN optics, computer based design optical systems using Zemax and Oslo.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Optical System Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Optical System Design"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/optical-system-design",
+  "slug": "optical-system-design"
+}

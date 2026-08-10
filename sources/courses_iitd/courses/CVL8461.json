@@ -1,0 +1,22 @@
+{
+  "code": "CVL8461",
+  "name": "Structrual Vibration Control",
+  "description": "This course introduces fundamental and advanced principles of structural vibration control. Topics include classifications and control theories, optimal stiffness distribution in buildings, and the role of damping in vibration mitigation. Various control systems\u2014active, semi-active, passive, and hybrid\u2014are covered, along with tuned mass dampers, visco-elastic, friction, hysteretic devices, and base isolation. Nonlinear modelling and dynamic feedback control strategies are discussed. The course also introduces intelligent control techniques such as neural-network-based systems. Applications include vibration mitigation in buildings, bridges, power plants, and other civil structures, with emphasis on current trends and performance-based design.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Structrual Vibration Control | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Structrual Vibration Control"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/structrual-vibration-control",
+  "slug": "structrual-vibration-control"
+}

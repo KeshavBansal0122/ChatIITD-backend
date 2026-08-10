@@ -1,0 +1,16 @@
+{
+  "code": "BMQ7060",
+  "name": "Graduate Student Research Seminar",
+  "description": "In this course students will be required to conduct a thorough study on one of the seminar papers relevant in the field of biomedical engineering. The study paper should be approved by the coordinator. Each student registered for the course have to deliver a seminar and participation in the seminars and involve in discussion on scientific methodology. Activities will be carried out in workshop mode.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BM#BMQ7060"
+}

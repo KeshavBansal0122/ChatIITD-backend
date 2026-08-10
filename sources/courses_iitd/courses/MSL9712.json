@@ -1,0 +1,22 @@
+{
+  "code": "MSL9712",
+  "name": "International Business",
+  "description": "This course contains the following topics:\nNature, scope, structure, and operations of international business \nModes of IB, MNCs in International Business\nAcquisitions, Alliances, and Joint Ventures\nGlobal Business Strategy\nRole of FDI and Regulatory Institutions: WTO, IMF\nManaging Global Business Challenges",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "International Business | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "International Business"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/international-business-0",
+  "slug": "international-business-0"
+}

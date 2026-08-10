@@ -1,0 +1,16 @@
+{
+  "code": "CML6071",
+  "name": "Supramolecular Chemistry",
+  "description": "Non-covalent associations. Molecular recognition. Molecular hosts: crown compound, cyclophanes, cyclodextrins etc., design and applications. Nano technology. Molecular clefts, molecular tweezers, molecular devices. Self assembly. Self replication.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CM#CML6071"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CHL7003",
+  "name": "Sustainable Process Engineering",
+  "description": "Chemical products; formulation of design problem; process synthesis; heuristics for process creation; hierarchical and superstructure approaches to flow sheet design; process economics; cost table and price estimates; utility cost estimates; economic potential; cash flows; net present worth; flow sheet simulation software; steady state simulation; selection of reactors; different types of contractors; design of separation trains; heuristics for selection of separation methods; sequencing of ordinary distillation columns; reaction-separator recycle network design; recycle heat ex-changer network design.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Sustainable Process Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Sustainable Process Engineering"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/sustainable-process-engineering",
+  "slug": "sustainable-process-engineering"
+}

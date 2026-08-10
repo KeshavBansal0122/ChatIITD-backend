@@ -1,0 +1,16 @@
+{
+  "code": "DDP7005",
+  "name": "Interaction and Interfaces",
+  "description": "The course will provide a foundation on interaction design with a project-based pedagogy, with students working on an interaction design opportunity/problem rooted in real-life context. Principles of interaction design, elements of interaction design, user research for interaction designers, journey mapping, information architecture, components and principles of good user interface (UI) design, micro-interactions, low and high fidelity prototyping, design systems, usability, accessibility, responsive design, cognitive and affective UX, storytelling and documentation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DD#DDP7005"
+}

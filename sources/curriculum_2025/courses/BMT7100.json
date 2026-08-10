@@ -1,0 +1,16 @@
+{
+  "code": "BMT7100",
+  "name": "M.Tech Summer Internship",
+  "description": "A hands-on industrial project, in which the student will apply theoretical, computational, and experimental knowledge to practical challenges.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BM#BMT7100"
+}

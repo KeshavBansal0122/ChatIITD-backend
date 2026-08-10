@@ -1,0 +1,22 @@
+{
+  "code": "CHL7210",
+  "name": "Computational Process Design",
+  "description": "Overview of flow sheet synthesis, mass and energy balances, equipment sizing, costing and economic evaluation, design of batch plants, unit equation models, simulation for process design, process flowsheet optimization, synthesis of heat exchanger networks, simultaneous optimization and heat integration, synthesis of distillation columns, optimization techniques for reactor network synthesis, structural optimization of process flow sheet and process flexibility, process synthesis addressing sustainability and circular economy.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL2004",
+  "overlap": null,
+  "learning_outcomes": [
+    "Computational Process Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Computational Process Design"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/computational-process-design",
+  "slug": "computational-process-design"
+}

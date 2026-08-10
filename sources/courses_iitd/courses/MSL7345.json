@@ -1,0 +1,22 @@
+{
+  "code": "MSL7345",
+  "name": "Management Philosophies and Practice",
+  "description": "Several management philosophies guide IS practice. The philosophy of strategic alignment emphasizes that information systems must be closely integrated with business strategy. Technology should not drive the organization; rather, it should enable business vision and competitive advantage. The philosophy of value creation focuses on ensuring that IT investments produce measurable benefits, such as improved efficiency, innovation, and customer satisfaction. Another key philosophy is governance and control, which stresses accountability, risk management, and compliance to safeguard information assets. Additionally, the philosophy of continuous improvement and agility recognizes the need for adaptability in a rapidly evolving technological environment.\nIn practice, IS management involves activities such as IT planning, systems development, cybersecurity management, data governance, project management, and performance evaluation. Frameworks like IT service management (ITSM) and enterprise architecture help standardize processes and align IT operations with business needs. Effective Information Systems Management requires strong leadership, collaboration between technical and non-technical stakeholders, and a commitment to innovation. By balancing strategic vision with operational excellence, organizations can leverage information systems to enhance productivity, decision-making, and long-term sustainability.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Management Philosophies and Practice | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Management Philosophies and Practice"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/management-philosophies-and-practice",
+  "slug": "management-philosophies-and-practice"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "HSL7101",
+  "name": "Global Health Economics",
+  "description": "This course introduces students to theoretical and empirical literature on global health economics research. The first few modules introduce students to important models in health economics, as well as broad concepts such as the functioning of health systems, the link between economic development and health, and health behaviors. The next module focuses on specific topics such as pandemics, sanitation, maternal and child health among others.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Global Health Economics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Global Health Economics"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/global-health-economics",
+  "slug": "global-health-economics"
+}

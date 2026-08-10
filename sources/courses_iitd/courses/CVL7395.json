@@ -1,0 +1,22 @@
+{
+  "code": "CVL7395",
+  "name": "UAVs for Civil Engineering Applications",
+  "description": "Types of UAVs, various payloads for UAVs, assembling a UAV, UAV for civil engineering applications- surveying, construction processes and monitoring, structural inspections, earthwork volume estimation, disaster assessment, assets management, environmental monitoring, urban planning, traffic monitoring and inspection.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "UAVs for Civil Engineering Applications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "UAVs for Civil Engineering Applications"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/uavs-civil-engineering-applications",
+  "slug": "uavs-civil-engineering-applications"
+}

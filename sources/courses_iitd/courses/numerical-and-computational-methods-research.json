@@ -1,0 +1,22 @@
+{
+  "code": "PYL8000",
+  "name": "Numerical and Computational Methods in Research",
+  "description": "The course will consist of an introduction to the basic numerical tools, such as locating roots of equations, interpolation, numerical differentiation and integration, solutions of algebraic equations, discrete Fourier transform, ordinary and partial differential equations.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Numerical and Computational Methods in Research | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Numerical and Computational Methods in Research"
+  ],
+  "department": "Computational Physics",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/numerical-and-computational-methods-research",
+  "slug": "numerical-and-computational-methods-research"
+}

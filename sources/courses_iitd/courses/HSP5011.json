@@ -1,0 +1,21 @@
+{
+  "code": "HSP5011",
+  "name": "Economics Lab",
+  "description": "General topics: (a) mean and variance estimation (b) hypothesis testing and confidence interval (c) CDF estimation and inference (d) bootstrap and resampling parametric estimation: (a) linear projection model (b) linear regression model (c) instrument variable estimation (d) high-dimensional linear regression binary choice models: (a) linear probability models (b) probit/logit nonparametric estimation: (a) kernel density estimator (b) kernel regression, local polynomial estimators and k-NN estimator (c) sieves estimator and splines.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Economics Lab | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Econometrics",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/economics-lab",
+  "slug": "economics-lab"
+}

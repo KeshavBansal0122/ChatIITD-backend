@@ -1,0 +1,22 @@
+{
+  "code": "COL7322",
+  "name": "Introduction to Compressed Sensing",
+  "description": "Compressed sensing is an emerging technique in machine learning with applications in diverse areas. The course will present the basic theory of compressed sensing and sparse reconstruction from under-sampled data. It will also cover recent ideas in modern convex optimization allowing rapid signal recovery or parameter estimation and give a flavor of applications that can potentially benefit from compressive sensing techniques. The overarching theme is to expose students to a novel active field of research and give them the tools to make theoretical and/or practical contributions. Sparsity, L1 minimization, sparse regression, deterministic and probabilistic approaches to compressed sensing, restricted isometry property and its application in sparse recovery, robustness in the presence of noise, algorithms for compressed sensing. Applications in magnetic resonance imaging (MRI), applications in analog-to-digital conversion, low-rank matrix recovery, applications in image reconstruction.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Compressed Sensing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Compressed Sensing"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-compressed-sensing",
+  "slug": "introduction-compressed-sensing"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MTL5021",
+  "name": "Professional Ethics in Mathematics",
+  "description": "Identify ethical issues in mathematical modeling, data handling, statistics, algorithmic decisions, and AI, ChatGPT, internet etc, analyse real-world ethical dilemmas using mathematical reasoning. Apply ethical frameworks to research publishing, proof validation, and plagiarism. Demonstrate responsible conduct in teaching, assessment, and supervision.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Professional Ethics in Mathematics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Professional Ethics in Mathematics"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/professional-ethics-mathematics",
+  "slug": "professional-ethics-mathematics"
+}

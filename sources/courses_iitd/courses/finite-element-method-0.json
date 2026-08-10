@@ -1,0 +1,22 @@
+{
+  "code": "AML7070",
+  "name": "Finite Element Method",
+  "description": "Strong and weak forms of governing differential equations, Weighted residual and variational approaches. Ritz method. Discretization of weak form and boundary conditions. Convergence. Bar and beam elements. Truss and frame problems, Isoparametric formulation. Plane strain, plane stress and axi-symmetric problems, 3D elasticity problems, one and two-dimensional heat transfer problems. Formulation of dynamics problems. Laboratory work on solid mechanics and heat transfer problems.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Finite Element Method | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Finite Element Method"
+  ],
+  "department": "Introduction to Finite Element Method",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/finite-element-method-0",
+  "slug": "finite-element-method-0"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "PYL7292",
+  "name": "Optical and Quantum Electronics",
+  "description": "Introduction: review of electromagnetic waves. Light propagation in anisotropic media: plane waves in an anisotropic media, refractive index, polarized light, birefringence, dielectric constant tensor, index ellipsoid. Manipulating light: negative refractive index, metamaterials, photonic crystals and photonic metamaterials and their applications (superlensing, cloaking, antenna, absorbers, sensors and optical filters). Modulating optical properties: Electro-optic effect: phase and amplitude modulators, switches; acousto-optic effect: modulator, tunable filters, deflector, scanner and spectrum analyser. Electro optics of liquid crystals; liquid crystal devices and spatial light modulators. Nonlinear optical effects (basics): second order and third order nonlinearities; second harmonic generation; sum and difference frequency generation; parametric amplification and parametric oscillation; third order nonlinear optical effects; self phase modulation.; cross phase modulation; four wave mixing, chirped pulses and solitons. Quantum sources and processes based on NLO techniques: single and entangled photon sources and their applications in quantum communication, quantum computation, quantum networks and quantum radar, etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Optical and Quantum Electronics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Optical and Quantum Electronics"
+  ],
+  "department": "Nonlinear Optics",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/optical-and-quantum-electronics",
+  "slug": "optical-and-quantum-electronics"
+}

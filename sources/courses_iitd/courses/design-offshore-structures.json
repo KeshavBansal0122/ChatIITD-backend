@@ -1,0 +1,22 @@
+{
+  "code": "CVL7473",
+  "name": "Design of Offshore Structures",
+  "description": "Rudiments of offshore engineering; sea spectra; wave theories; wave-structure interation. Design of offshore platforms: introduction, fixed and floating platforms. Buoyed structures/ articulated towers; tension-leg platform (TLP); marine risers; compliant and non-compliant structures; offshore pipelines and risers; steel, concrete, and hybrid platforms. Buoys and mooring system design; design criteria and code provisions. Environmental loading. Wind, wave, and current loads. Loads and stability during handling and towing. Introduction to stochastic dynamics of ocean structures considering different sea spectra. Soil-structure interaction (SSI): beam on Winkler foundation foundation (p-y curve approach). Dynamic analysis of SPAR platfoms. Fatigue analysis of fixed and floating offshore structure: stress concentration, S-N curves. Foundations: site investigations, gravity, jacket platforms, hybrid platforms. Piled foundation and behavior under dynamic loading. Static and dynamic analysis of platforms and components. Dynamic analysis using software: response of fixed type offshore structures, articulated towers, single leg- and multi-legged towers.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Design of Offshore Structures | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Design of Offshore Structures"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/design-offshore-structures",
+  "slug": "design-offshore-structures"
+}

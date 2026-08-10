@@ -1,0 +1,21 @@
+{
+  "code": "CVL2702",
+  "name": "Hydraulics",
+  "description": "Open Channel Flow: \nChannel Characteristics and parameters, Uniform flow, Critical flow, Specific Energy concepts, Gradually Varied Flows, Rapidly Varied flow with special reference to hydraulic jump, Unsteady flow in open channels.\nBoundary Layer Theory: \nNavier Stokes Equation, Boundary Layer Equation in 2- dimension, Boundary layer characteristics, Integral Momentum equation, onset of turbulence, properties of turbulent flow, skin friction, application of drag, lift and circulation to hydraulic problems.\nPipe Flow: \nLaminar and Turbulent flow in Smooth and Rough pipes, pipe network analysis, Losses in pipes\nFluvial Hydraulics: \nSettling velocity, Incipient motion, Resistance to flow and bed forms, Sediment load and transport.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CVL1701",
+  "overlap": null,
+  "learning_outcomes": [
+    "Hydraulics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/hydraulics",
+  "slug": "hydraulics"
+}

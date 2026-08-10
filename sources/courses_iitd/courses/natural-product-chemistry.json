@@ -1,0 +1,22 @@
+{
+  "code": "CML4081",
+  "name": "Natural Product Chemistry",
+  "description": "Introduction and importance of natural products. Classification and source of natural products. Methods of isolation, biosynthesis and structure elucidation. Designing organic synthesis, Retro-synthetic analysis, disconnection approach, linear and convergent synthesis, Multi-step synthesis of some representative molecules. Importance of natural products: Use of natural products in the fields of pharmacology, biomedicine and industry. Examples and synthesis of pharmacologically active natural products.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Natural Product Chemistry | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Natural Product Chemistry"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/natural-product-chemistry",
+  "slug": "natural-product-chemistry"
+}

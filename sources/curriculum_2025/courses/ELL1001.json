@@ -1,0 +1,16 @@
+{
+  "code": "ELL1001",
+  "name": "Circuit Theory",
+  "description": "Basic circuit concepts: voltage, current, resistance, power. Graph-theoretic development of circuit analysis, Tellegen's theorem, reciprocity theorem. Circuit analysis techniques: nodal analysis, mesh analysis, Thevenin and Norton theorems, superposition. Two-port networks: parameters, star-delta conversion. Operational amplifiers: ideal op-amp, feedback. First-order and second-order circuits: step and steady-state response. Transient analysis using Laplace transforms. Sinusoidal steady-state analysis: phasors, resonance. Power analysis: real, reactive, apparent power, power-factor. Three-phase circuits, power measurement in three-phase circuits.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL1001"
+}

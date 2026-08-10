@@ -1,0 +1,16 @@
+{
+  "code": "MSL7503",
+  "name": "Managerial Communication",
+  "description": "The course is designed to equip students with written and oral communication skills required both, as a student and a manager / leader. Students would learn effective nonverbal communication: metacommunication, role of body language and Impression management: relevance and tips. Students will practice presentation and writing skills. They would create messages in line with the changing landscape of business communication - impact of technology, diversity and ethical considerations.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MS#MSL7503"
+}

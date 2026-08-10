@@ -1,0 +1,22 @@
+{
+  "code": "CVL7460",
+  "name": "Design of Tall Buildings",
+  "description": "Structural systems and general concepts of tall buildings; various methods of structural analysis; gravity systems for steel, concrete, and composite buildings; lateral systems for steel, concrete, and composite buildings; interaction of frames and shear walls; simultaneous and sequential loading; differential shortening of columns; P-\u2206 effects; effect of openings; foundations and foundation-superstructure interaction; wind/ earthquake effects and design for ductility; damping systems; asymmetric structures and twisting of frames.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Design of Tall Buildings | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Design of Tall Buildings"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/design-tall-buildings",
+  "slug": "design-tall-buildings"
+}

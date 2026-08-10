@@ -1,0 +1,22 @@
+{
+  "code": "CHL7107",
+  "name": "Experimental Characterization of Bio-Macromolecules",
+  "description": "Theory and working principles of analytical instruments including high-performance liquid chromatography (HPLC), circular dichroism (CD) spectroscopy, Fourier transform infrared spectroscopy (FTIR), mass spectroscopy (MS), atomic force microscopy (AFM), scanning electron microscope (SEM), differential scanning calorimetry (DSC), ultraviolet (UV) spectroscopy, fluorescence spectroscopy, zeta-meter, contact angle goniometer, and quartz crystal microbalance (QCM). Hands-on experience on characterization of proteins. Case studies in the biotech industry and/or biomaterials.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL2006",
+  "overlap": null,
+  "learning_outcomes": [
+    "Experimental Characterization of Bio-Macromolecules | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Experimental Characterization of Bio-Macromolecules"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/experimental-characterization-bio-macromolecules",
+  "slug": "experimental-characterization-bio-macromolecules"
+}

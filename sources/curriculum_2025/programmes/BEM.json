@@ -1,0 +1,431 @@
+{
+  "code": "BEM",
+  "name": "M.Tech. in Biomolecular and Bioprocess Engineering",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=BEM",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 49.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Ability to apply knowledge and training in interdisciplinary areas related to biomanufacturing and biotechnology to tackle and solve industry-level problems."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Ability to effectively synthesize and communicate ideas, embrace teamwork and demonstrate scientific temperament, integrity, personal and professional responsibility."
+    }
+  ],
+  "courses_by_category": {
+    "DC": [
+      {
+        "course_code": "BBL3213",
+        "title": "Bioreaction Engineering",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "BBL3214",
+        "title": "Bioseparation Engineering",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      }
+    ],
+    "PC": [
+      {
+        "course_code": "BBD8055",
+        "title": "M.Tech Project Part-I",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "12"
+        },
+        "credits": "6"
+      },
+      {
+        "course_code": "BBD8056",
+        "title": "M.Tech Project Part-II",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "BBD8058",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "BBD8059",
+        "title": "Summer Internship / Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "BBL7031",
+        "title": "Bioseparation Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "3"
+        },
+        "credits": "4.5"
+      },
+      {
+        "course_code": "BBL7070",
+        "title": "Bioethics and Communication",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "BBL7071",
+        "title": "Microbial Biochemistry and Molecular Biology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "BBL7072",
+        "title": "Data Analytics and Informatics for Biotechnology",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "BBL7073",
+        "title": "Applied Mathematics for Biochemical Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "BBL7074",
+        "title": "Biomolecular Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "BBL7075",
+        "title": "Bioreaction Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "3"
+        },
+        "credits": "4.5"
+      },
+      {
+        "course_code": "BBN7901",
+        "title": "Teaching Practicum",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "BBN7902",
+        "title": "Research Practicum",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      }
+    ],
+    "DE": [
+      {
+        "course_code": "BBL7035",
+        "title": "Genomics and Proteomics",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "BBL7036",
+        "title": "Dynamics of Microbial Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "BBL7037",
+        "title": "Instrumentation and Analytical Methods in Bioengineering",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "BBL7045",
+        "title": "Combinatorial Biotechnology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "BBL7046",
+        "title": "Current Topics in Biochemical Engineering and Biotechnology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "BBL7054",
+        "title": "Optics Within Life Science",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "BBL7142",
+        "title": "Biological Waste Treatment",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "BBL7147",
+        "title": "Bionanotechnology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "BBL7149",
+        "title": "Cancer Cell Biology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "BBL7157",
+        "title": "Electromicrobiology and Bioelectrochemical Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "BBL7071",
+        "title": "Microbial Biochemistry and Molecular Biology",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "BBL7072",
+        "title": "Data Analytics and Informatics for Biotechnology",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "BBL7073",
+        "title": "Applied Mathematics for Biochemical Engineering",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "basket": "BEM Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "BBD8058",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "BBL7074",
+        "title": "Biomolecular Engineering",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "BBL7075",
+        "title": "Bioreaction Engineering",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 3.0
+        },
+        "credits": 4.5
+      },
+      {
+        "course_code": "BBL7031",
+        "title": "Bioseparation Engineering",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 3.0
+        },
+        "credits": 4.5
+      },
+      {
+        "course_code": "BML7600",
+        "title": "Biomedical Ethics, Safety and Regulatory Affairs",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 2.0
+      },
+      {
+        "basket": "BEM Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "BBD8055",
+        "title": "M.Tech Project Part-I",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 12.0
+        },
+        "credits": 6.0
+      },
+      {
+        "basket": "BEM Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "BBD8056",
+        "title": "M.Tech Project Part-II",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      },
+      {
+        "basket": "BEM Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "BEM \u2013 M.Tech. in Biomolecular and Bioprocess Engineering\nM.Tech. in Biomolecular and Bioprocess Engineering\nBiochemical Engineering and Biotechnology, Department of\nProgramme Code: BEM\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n49\nPE (Programme Elective)\n6\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n61\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nAbility to apply knowledge and training in interdisciplinary areas related to biomanufacturing and biotechnology to tackle and solve industry-level problems.\nPLO 2\nAbility to effectively synthesize and communicate ideas, embrace teamwork and demonstrate scientific temperament, integrity, personal and professional responsibility.\nDepartmental Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nBBL3213 Bioreaction Engineering \u2013 \u2013 \u2013 \u2013\nBBL3214 Bioseparation Engineering \u2013 \u2013 \u2013 \u2013\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nBBD8055 M.Tech Project Part-I 0 0 12 6\nBBD8056 M.Tech Project Part-II \u2013 \u2013 \u2013 \u2013\nBBD8058 Cornerstone Project 0 0 6 3\nBBD8059 Summer Internship / Minor Project 0 0 6 3\nBBL7031 Bioseparation Engineering 3 0 3 4.5\nBBL7070 Bioethics and Communication 1 0 2 2\nBBL7071 Microbial Biochemistry and Molecular Biology 3 0 2 4\nBBL7072 Data Analytics and Informatics for Biotechnology 2 0 2 3\nBBL7073 Applied Mathematics for Biochemical Engineering 3 0 0 3\nBBL7074 Biomolecular Engineering 3 0 2 4\nBBL7075 Bioreaction Engineering 3 0 3 4.5\nBBN7901 Teaching Practicum \u2013 \u2013 \u2013 \u2013\nBBN7902 Research Practicum \u2013 \u2013 \u2013 \u2013\nBEM Teaching/Research Practicum (0-0-8) 4 NGU\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nDepartmental Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nBBL7035 Genomics and Proteomics 2 0 2 3\nBBL7036 Dynamics of Microbial Systems 3 0 0 3\nBBL7037 Instrumentation and Analytical Methods in Bioengineering 2 0 2 3\nBBL7045 Combinatorial Biotechnology 3 0 0 3\nBBL7046 Current Topics in Biochemical Engineering and Biotechnology 3 0 0 3\nBBL7054 Optics Within Life Science 3 0 2 4"
+}

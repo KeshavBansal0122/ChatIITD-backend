@@ -1,0 +1,22 @@
+{
+  "code": "ELL7307",
+  "name": "Flexible Devices, Circuits, and Systems",
+  "description": "Introduction to flexible substrates. Overview of potential device technologies that may benefit from use of flexible substrates. Low cost materials. Solution-processed methods, including printing. Additive fabrication. Transparent conductive oxides. Analysis of strain in flexible systems. Device examples.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL2404/ELL7302/PYL7002/BML8900",
+  "overlap": null,
+  "learning_outcomes": [
+    "Flexible Devices, Circuits, and Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Flexible Devices, Circuits, and Systems"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/flexible-devices-circuits-and-systems",
+  "slug": "flexible-devices-circuits-and-systems"
+}

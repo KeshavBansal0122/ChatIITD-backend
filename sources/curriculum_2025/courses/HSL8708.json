@@ -1,0 +1,16 @@
+{
+  "code": "HSL8708",
+  "name": "Advanced Topics in Psychology",
+  "description": "This course is designed to introduce PhD students to an in-depth exploration of a selected sub-field within the discipline of psychology. The specific topic will be announced by the instructor offering the course. Students will engage with advanced theoretical, empirical, and methodological texts to understand how psychological arguments are constructed, how evidence is generated and interpreted, and how theory and data inform one another. In addition to developing substantive knowledge in the chosen area of psychology, the course is intended to strengthen students\u2019 ability to critically analyze research, integrate insights from multiple sources, and work with both quantitative and qualitative data. It will also guide students in formulating researchable questions and conceptual frameworks, serving as an essential foundation for independent doctoral research.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL8708"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "HSL5510",
+  "name": "Foundations of Scientific Method and Reasoning",
+  "description": "This course introduces the foundational concepts and reasoning strategies central to the pursuit of knowledge across the sciences. It critically examines the aims, nature, and diversity of scientific inquiry by exploring how research questions are formulated, experiments designed, models constructed, and inferences drawn from evidence. Emphasis is placed on forms of reasoning \u2013 deductive, inductive, abductive, statistical, and causal \u2013 and the principles that render scientific knowledge reliable and self-corrective. The course also analyzes how explanation, causation, and understanding operate within scientific practice, and encourages reflection on the social and ethical dimensions of inquiry, including issues of trust, objectivity, and the influence of values in shaping scientific investigation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Foundations of Scientific Method and Reasoning | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Foundations of Scientific Method and Reasoning"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/foundations-scientific-method-and-reasoning",
+  "slug": "foundations-scientific-method-and-reasoning"
+}

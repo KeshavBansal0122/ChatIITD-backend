@@ -1,0 +1,16 @@
+{
+  "code": "HSL2510",
+  "name": "Philosophy Through Puzzles and Paradoxes",
+  "description": "Philosophy is most alive when it is puzzling. This course explores philosophical ideas not through theories or historical surveys, but through a curated set of dilemmas, paradoxes, and thought experiments that have driven philosophical inquiry across millennia. The puzzles are drawn from across philosophy, covering questions about morality, knowledge, the mind, and the world. They range from ancient paradoxes about the nature of reality to contemporary thought experiments about artificial intelligence. Each puzzle is approached by first understanding what makes it philosophically troubling, then weighing the responses it has generated, and finally tracing what it exposes about the assumptions and intuitions that underlie our thinking.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL2510"
+}

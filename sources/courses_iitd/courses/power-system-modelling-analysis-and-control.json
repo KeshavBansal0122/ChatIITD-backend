@@ -1,0 +1,22 @@
+{
+  "code": "ESL3464",
+  "name": "Power System Modelling, Analysis and Control",
+  "description": "Basics of power systems, per unit calculations, modelling of various components of power systems, operation of power systems, protection of power systems, power flow analysis, economic operations, renewable energy sources integration to power systems.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL1000",
+  "overlap": null,
+  "learning_outcomes": [
+    "Power System Modelling, Analysis and Control | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Power System Modelling, Analysis and Control"
+  ],
+  "department": "Energy Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/power-system-modelling-analysis-and-control",
+  "slug": "power-system-modelling-analysis-and-control"
+}

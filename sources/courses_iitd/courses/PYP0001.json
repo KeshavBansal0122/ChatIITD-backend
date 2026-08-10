@@ -1,0 +1,22 @@
+{
+  "code": "PYP0001",
+  "name": "Preparatory Physics Laboratory - I",
+  "description": "The course consists of a total of eight experiments -- three Foundational and five Core -- covering mechanics, waves and oscillations, and thermal physics. Foundational experiments build error analysis and uncertainty quantification, precision measurements with the Vernier caliper and screw gauge, and determination of gravitational acceleration g with the simple pendulum. Core experiments build on this through lab reports and viva, covering data collection, analysis and interpretation \u2014 examining Newton&#039;s second law via an inclined plane with friction, Conservation laws via a ballistic pendulum and loop-the-loop, Oscillatory motion via a helical spring and sonometer, and Thermodynamics via analysis of Gas Laws.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Preparatory Physics Laboratory - I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Preparatory Physics Laboratory - I"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/preparatory-physics-laboratory-i",
+  "slug": "preparatory-physics-laboratory-i"
+}

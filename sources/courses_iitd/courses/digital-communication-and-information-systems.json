@@ -1,0 +1,22 @@
+{
+  "code": "ELL7027",
+  "name": "Digital Communication and Information Systems",
+  "description": "Signal representation and LTI systems, Fourier transform and spectral properties, signal spaces, Gram\u2013Schmidt orthogonalization, sampling theorem, quantization, Baseband modulation and pulse shaping, digital modulation schemes (M-ASK, M-PSK, M-FSK, M-QAM etc), pre-emphasis and de-emphasis filters, equalization and receiver design (matched filtering), probability and random variables, random processes, frequency domain representation of noise (power spectral density), noise performance analysis of digital modulation schemes, BER calculations. Introduction to source coding, Huffman coding, the asymptotic Equipartition property (AEP), Shannon\u2019s theorem, channel capacity, bandwidth-S/N tradeoff.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Digital Communication and Information Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Digital Communication and Information Systems"
+  ],
+  "department": "Digital Communications",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/digital-communication-and-information-systems",
+  "slug": "digital-communication-and-information-systems"
+}

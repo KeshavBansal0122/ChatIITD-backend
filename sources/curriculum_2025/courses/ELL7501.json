@@ -1,0 +1,16 @@
+{
+  "code": "ELL7501",
+  "name": "DC-DC Converters and Line Frequency Rectifiers",
+  "description": "Steady-state operating principles of switching converters, synthesis of buck, boost, and derived converters, steady-state modelling of DC-DC converters, switch realization, determination of conduction and switching losses, continuous and discontinuous conduction mode operation, small signal modeling, controller design. Analysis of isolated converters- flyback, forward, etc. Passive elements design \u2013 capacitor selection and calculations, inductor and transformer design. Thermal modelling and design. Single-phase and three-phase controlled and uncontrolled rectifiers with R, RL, and RC loads, effect of input inductance, challenges with harmonics, total harmonic distortion.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7501"
+}

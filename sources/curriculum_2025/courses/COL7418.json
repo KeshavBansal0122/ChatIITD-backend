@@ -1,0 +1,16 @@
+{
+  "code": "COL7418",
+  "name": "Architecture of High Performance Computers",
+  "description": "This course explores advanced computer architecture with a focus on performance optimization. It covers principles of performance enhancement, instruction-level parallelism, and high-performance memory systems in the context of shared memory multiprocessors, memory consistency models, and multiprocessor architectures, including dataflow, tiled, and vector processing. The course also examines GPU architectures, accelerators, and multiprocessor interconnection networks for efficient communication. Performance modeling techniques are introduced to evaluate system efficiency to help in the design and analysis of high-performance computing architectures for modern computational challenges.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL7418"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CVL8601",
+  "name": "Numerical and Computer Methods in Geomechanics",
+  "description": "Introduction to numerical methods, equation solution techniques, root finding techniques, Fourier series and Fourier transform, ODEs, PDEs numerical solution techniques, types of geotechnical boundary value problems, numerical modeling, numerical solution schemes, pros and cons, programming tools- FORTRAN, MATLAB, MATHCAD, python, development of programming flowchart. Simplified and advanced constitutive models and their calibration: elastic models, elasto-plastic models, formulation of elasto-plastic stiffness matrix, governing equations of elastoplasticity, rock and soil constitutive models. Integration of stress strain equations, concepts of verification and validation, selection of model input parameters, integration of load displacement relations, integration of seepage, consolidation and heat conduction equations, Sturm\u2013Liouville problem, solution of seepage, consolidation, heat conduction and SturmLiouville equations using finite difference \u2013 explicit and implicit methods and finite element programming methods, comparison with commercially available software results.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CVL7206",
+  "overlap": null,
+  "learning_outcomes": [
+    "Numerical and Computer Methods in Geomechanics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Numerical and Computer Methods in Geomechanics"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/numerical-and-computer-methods-geomechanics",
+  "slug": "numerical-and-computer-methods-geomechanics"
+}

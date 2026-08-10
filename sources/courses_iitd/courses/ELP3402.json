@@ -1,0 +1,22 @@
+{
+  "code": "ELP3402",
+  "name": "Computer Architecture Laboratory",
+  "description": "Introduction to RISC ISA, RISC Processor Design in HDL, FPGA Prototyping & SoC Integration, Performance Optimization & Benchmarking, Project Work as per student\u2019s choice.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "prereq": "ELL3402",
+  "overlap": null,
+  "learning_outcomes": [
+    "Computer Architecture Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Computer Architecture Laboratory"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/computer-architecture-laboratory",
+  "slug": "computer-architecture-laboratory"
+}

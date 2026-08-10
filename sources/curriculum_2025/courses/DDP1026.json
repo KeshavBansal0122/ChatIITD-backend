@@ -1,0 +1,16 @@
+{
+  "code": "DDP1026",
+  "name": "Introduction to Design",
+  "description": "Introduction to the design as a process of solving ill-defined problems. Case studies of exemplary design practices. Skills in the user-centred design process. Relationship between form and function. Introduction to prototyping and testing methods. Discussion on design as a professional activity.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DD#DDP1026"
+}

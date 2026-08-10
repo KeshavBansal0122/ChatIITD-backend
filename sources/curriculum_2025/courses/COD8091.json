@@ -1,0 +1,16 @@
+{
+  "code": "COD8091",
+  "name": "Minor Project/Summer Internship",
+  "description": "The minor project in computer science provides students with an opportunity to engage in focused, independent research or development work under faculty supervision. The course content typically includes a literature survey of the chosen topic, problem formulation, design and implementation of algorithms or systems, and empirical or theoretical evaluation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COD8091"
+}

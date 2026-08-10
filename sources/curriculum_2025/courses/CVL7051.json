@@ -1,0 +1,16 @@
+{
+  "code": "CVL7051",
+  "name": "Data Analysis for Transportation Engineers",
+  "description": "Introduction to common data types - pavement engineering, traffic engineering, and transportation planning data; national personal travel survey data-application of summary measures; probability distributions applicable to pavement condition rating, accident data, vehicle arrival, spot speed, trip length distribution, time allocation, mode choice, etc.; transportation problems involving single and multiple populations; simultaneous analysis multiple data types - time allocation, activity participation, and episode frequency data; inference testing \u2013ratio and categorical data; experimental design for transportation planners; conditional distribution and regression - association among traffic speed, flow, and density; accident and safety data - data types and analysis approaches; need for multivariate analysis in transportation engineering; reliability in transport network analysis; bayesian approach for belief updating \u2013 application to advance traveler information system design; time series analysis and forecasting \u2013 applications to traffic forecasting.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7051"
+}

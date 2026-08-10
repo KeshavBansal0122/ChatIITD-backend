@@ -1,0 +1,22 @@
+{
+  "code": "CHL7007",
+  "name": "Advanced Chemical Engineering Thermodynamics",
+  "description": "First and second law of thermodynamics. Fundamental thermodynamic equations. Equilibrium properties of materials: pure materials and mixtures. Maxwell\u2019s relations. Boltzmann\u2019s distribution law. Molecular partition function. Ideal gas properties from partition function. Introduction to microcanonical, canonical, grand canonical ensembles and ergodic hypothesis. Derivation of physical properties for pure components and mixtures. Microscopic dynamics, diffusion and fluctuation dissipation theorem. Phase transition. Crystal structures, solutions, modelling, and relating them to macroscopic thermodynamics. Transition state theory, chemical kinetics, adsorption, chemical, and electrochemical equilibrium. Applied cases of statistical thermodynamics in polymers, protein folding, carbon capture, energy devices, and other relevant areas of chemical engineering.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL2002",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Chemical Engineering Thermodynamics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Chemical Engineering Thermodynamics"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-chemical-engineering-thermodynamics",
+  "slug": "advanced-chemical-engineering-thermodynamics"
+}

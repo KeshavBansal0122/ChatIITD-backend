@@ -1,0 +1,16 @@
+{
+  "code": "CVL7206",
+  "name": "Finite Element Method in Geotechnical Engg.",
+  "description": "Introduction: steps in FEM. Discrete system analysis \u2013 truss, beams, variational methods, weighted residual, Reyleigh-Ritz method, Galerkin formulation, stress deformation analysis: one-two dimensional formulations, shape functions, element and system global stiffness matrix, three-dimensional formulations, boundary conditions, solution algorithms, discretization, use of commercial packages. Analysis of foundations, dams, underground structures and earth retaining structures. Analysis of flow (seepage) through dams and foundations. Consolidation analysis, linear systems. In-situ stresses. Sequence construction and excavation. Joint/interface elements. Infinite elements. Evaluation of material parameters for linear and non-linear analysis, recent developments. Introduction to FEM packages for solving boundary value problems (BVPs) and programming of FEM problems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7206"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "DDL3003",
+  "name": "Systems Design",
+  "description": "Introduction to systems thinking, theory and principles of systems thinking, systems thinking in various domains, systems thinking and design, methods and tools of systems research and design, AI in systems design, design of systems on real world challenges.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DD#DDL3003"
+}

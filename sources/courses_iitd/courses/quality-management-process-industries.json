@@ -1,0 +1,22 @@
+{
+  "code": "CHL7004",
+  "name": "Quality Management in Process Industries",
+  "description": "Quality terminology; management aspects of quality; DMAIC (define, measure, analyze, improve, control) process, discrete and continuous statistical distributions; sampling; two or more distributions, analysis of variance; control chart and magnificent 7; process capability; capability ratios; evaluation of measurement systems; specification limits; estimation of tolerances; introduction of multivariate process control; engineering process control; design of experiments; lot-by-lot sampling for attributes; quality cost and quality audits.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Quality Management in Process Industries | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Quality Management in Process Industries"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/quality-management-process-industries",
+  "slug": "quality-management-process-industries"
+}

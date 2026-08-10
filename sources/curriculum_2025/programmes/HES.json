@@ -1,0 +1,476 @@
+{
+  "code": "HES",
+  "name": "M.Sc. in Economics",
+  "generation": "2025",
+  "degree_type": "msc",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=HES",
+  "credit_requirements": [
+    {
+      "category": "DE",
+      "label": "Departmental Electives",
+      "credits_or_units": 3.0,
+      "kind": "graded"
+    },
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 59.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Apply advanced knowledge in Economics in preparation for their professional practice or further learning."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Effectively synthesize and communicate ideas, embrace teamwork and demonstrate scientific temperament, integrity, personal and professional responsibility."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "HSL5011",
+        "title": "Microeconomics I",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "HSL5012",
+        "title": "Macroeconomics I",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "HSL5013",
+        "title": "Probability and Statistics for Economics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "HSL5014",
+        "title": "Mathematics for Economics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "HSL5015",
+        "title": "Algorithms, Data Structures and Programming in Economics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "HSL6011",
+        "title": "Microeconomics II",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "HSL6012",
+        "title": "Macroeconomics II",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "HSL6013",
+        "title": "Econometrics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "HSL6014",
+        "title": "Development Economics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL6015",
+        "title": "Indian Economy",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSN5000",
+        "title": "Research Ethics",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "HSP5011",
+        "title": "Economics Lab",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "HSP5020",
+        "title": "Cornerstone Project (M.Sc. Economics)",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSP6011",
+        "title": "Advanced Economics Lab",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "HSP6013",
+        "title": "Research Project in Economics",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "HSL7101",
+        "title": "Global Health Economics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL7111",
+        "title": "Macro Development Economics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL7112",
+        "title": "Political Economy of Development",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL7113",
+        "title": "Advanced Macroeconomics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL7114",
+        "title": "International Trade",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL7115",
+        "title": "Time Series Econometrics and Forecasting",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL7117",
+        "title": "Game Theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL7118",
+        "title": "Stratification Economics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL7120",
+        "title": "Advanced Econometrics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL8101",
+        "title": "Political Economy of Official Statistics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL8102",
+        "title": "Advanced Topics in Economics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL8103",
+        "title": "Research Methods in Economics",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "HSL5011",
+        "title": "Microeconomics I",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "HSL5012",
+        "title": "Macroeconomics I",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "HSL5013",
+        "title": "Probability and Statistics for Economics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "HSL5014",
+        "title": "Mathematics for Economics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "HSL5015",
+        "title": "Algorithms, Data Structures and Programming in Economics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "Algorithms, Data Structures and Programming in Economics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "HSL6011",
+        "title": "Microeconomics II",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "HSL6012",
+        "title": "Macroeconomics II",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "HSL6013",
+        "title": "Econometrics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "HSL6014",
+        "title": "Development Economics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "HSP5011",
+        "title": "Economics Lab",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "HSP6011",
+        "title": "Advanced Economics Lab",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "HSL6015",
+        "title": "Indian Economy",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "HSN5000",
+        "title": "Research Ethics",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "HSP5020",
+        "title": "Cornerstone Project (M.Sc. Economics)",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "HSP6013",
+        "title": "Research Project in Economics",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 18.0
+        },
+        "credits": 9.0
+      }
+    ]
+  },
+  "raw_text_preview": "HES \u2013 M.Sc. in Economics\nM.Sc. in Economics\nHumanities and Social Sciences, Department of\nProgramme Code: HES\nM.Sc.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n59\nPE (Programme Elective)\n9\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n74\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nApply advanced knowledge in Economics in preparation for their professional practice or further learning.\nPLO 2\nEffectively synthesize and communicate ideas, embrace teamwork and demonstrate scientific temperament, integrity, personal and professional responsibility.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nHSL5011 Microeconomics I 3 1 0 4\nHSL5012 Macroeconomics I 3 1 0 4\nHSL5013 Probability and Statistics for Economics 3 0 2 4\nHSL5014 Mathematics for Economics 3 1 0 4\nHSL5015 Algorithms, Data Structures and Programming in Economics 3 0 2 4\nHSL6011 Microeconomics II 3 1 0 4\nHSL6012 Macroeconomics II 3 1 0 4\nHSL6013 Econometrics 3 0 2 4\nHSL6014 Development Economics 3 0 0 3\nHSL6015 Indian Economy 3 0 0 3\nHSN5000 Research Ethics 0 1 0 1\nHSP5011 Economics Lab 0 0 8 4\nHSP5020 Cornerstone Project (M.Sc. Economics) 0 0 6 3\nHSP6011 Advanced Economics Lab 0 0 8 4\nHSP6013 Research Project in Economics \u2013 \u2013 \u2013 \u2013\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nHSL7101 Global Health Economics 3 0 0 3\nHSL7111 Macro Development Economics 3 0 0 3\nHSL7112 Political Economy of Development 3 0 0 3\nHSL7113 Advanced Macroeconomics 3 0 0 3\nHSL7114 International Trade 3 0 0 3\nHSL7115 Time Series Econometrics and Forecasting 3 0 0 3\nHSL7117 Game Theory 3 0 0 3\nHSL7118 Stratification Economics 3 0 0 3\nHSL7120 Advanced Econometrics 3 0 0 3\nHSL8101 Political Economy of Official Statistics 3 0 0 3\nHSL8102 Advanced Topics in Economics 3 0 0 3\nHSL8103 Research Methods in Economics 1 0 4 3\nSemester-wise Schedule\nSem\nCourses &amp; Baskets\nHrs /\nweek\nNGU\nCredits\n1\nHSL5011 Microeconomics I\n(3.0-1.0-0.0) 4.00\nHSL5012 Macroeconomics I\n(3.0-1.0-0.0) 4.00\nHSL5013 Probability and Statistics for Economics\n(3.0-0.0-2.0) 4.00\nHSL5014 Mathematics for Economics"
+}

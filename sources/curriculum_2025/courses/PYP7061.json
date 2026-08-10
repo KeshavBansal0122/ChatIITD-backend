@@ -1,0 +1,16 @@
+{
+  "code": "PYP7061",
+  "name": "Optical Fabrication and Metrology Laboratory",
+  "description": "Trepanning, grinding, curve generation, smoothing and polishing, centering and edging, optical coating, autocollimator, refractometer, spherometer, Fabry Perot and Michelson interferometer, Mech Zehnder interferometer, Newton interferometer, Twyman- green interferometer, Shack Hartmann sensor and Moire, and Talbot interferometry for measurement of optical performance parameters of the test samples, integrating sphere. Effects of polarization on interference.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYP7061"
+}

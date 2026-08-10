@@ -1,0 +1,22 @@
+{
+  "code": "MLP3008",
+  "name": "Functional Materials Laboratory",
+  "description": "Electrical conductivity, ionic conductivity, noise measurements, bandgap determination, Ohmic and Schottky contacts, dielectric constant, impedance spectroscopy, magnetic susceptibility, magnetization, liquid crystals, thermometer design, synthesis of functional materials: transparent conducting oxides, thermoelectrics.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "prereq": "(MLL3001)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Functional Materials Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Functional Materials Laboratory"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/functional-materials-laboratory",
+  "slug": "functional-materials-laboratory"
+}

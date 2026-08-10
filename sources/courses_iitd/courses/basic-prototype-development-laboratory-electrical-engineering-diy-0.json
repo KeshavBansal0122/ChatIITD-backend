@@ -1,0 +1,22 @@
+{
+  "code": "ELP2001",
+  "name": "Basic Prototype Development Laboratory for Electrical Engineering DIY 0",
+  "description": "To understand the basics of Product Development Life Cycle (PDLC) and basic prototyping for both software and hardware projects; to work as teams to build and demonstrate at least one prototype using PDLC, and associated management and technical software; familiarisation with the on-campus facilities for simulation, fabrication of the prototype built. This is primarily offered as a Summer Course for UG students of any discipline (including EE Dept) who have typically completed up to the first four semesters of course work and are interested in hands-on DIY activity for building prototypes of electrical systems and sub-systems for applications in their parent disciplines.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": "(ELL1000) /(ELL1001)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Basic Prototype Development Laboratory for Electrical Engineering DIY 0 | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Basic Prototype Development Laboratory for Electrical Engineering DIY 0"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/basic-prototype-development-laboratory-electrical-engineering-diy-0",
+  "slug": "basic-prototype-development-laboratory-electrical-engineering-diy-0"
+}

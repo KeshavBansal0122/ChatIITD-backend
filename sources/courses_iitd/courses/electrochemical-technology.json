@@ -1,0 +1,22 @@
+{
+  "code": "CHL2007",
+  "name": "Electrochemical Technology",
+  "description": "Ionic solution, ionic equilibrium; ion-ion interactions: Debye-Huckel theory, electric double layer; ionic transport: migration, extended Nernst-Planck equation. Redox reactions at electrode, electrochemical cell, electrochemical equilibrium, electrode potential, Nernst equation, reversible electrodes; electrode kinetics: Butler-Volmer formulation, linearized form, Tafel equation, design of electrolyzers, batteries - insertion electrodes, maximum theoretical specific energy (MTSE), lead acid, nickel-metal hydride (NiMH) batteries, Li-ion cells, battery characterizations \u2013 state of charge (SoC), state of health (SoH), C-rate, current-voltage (IV) curve, equivalent circuit model of a cell, overview of supercapacitor and fuel cell, metal finishing, corrosion.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Electrochemical Technology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Electrochemical Technology"
+  ],
+  "department": "Principles of Electrochemical Engineering",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/electrochemical-technology",
+  "slug": "electrochemical-technology"
+}

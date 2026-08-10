@@ -1,0 +1,16 @@
+{
+  "code": "CML7029",
+  "name": "Materials Characterization",
+  "description": "Compositional analysis of solid materials by X-ray and electron microscopic techniques. Basic concepts of diffraction techniques (powder and single crystal) in elucidating the crystal structures organic, inorganic and hybrid materials. Applications of electron microscopic techniques (scanning and transmission) for morphological and nano-structural features. Spectroscopic methods. Thermal analytical methods for correlating structural information and monitoring phase transition. Emphasis will be placed on the above techniques for industrially important materials and the interpretation and evaluation of the results obtained by various methods.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CM#CML7029"
+}

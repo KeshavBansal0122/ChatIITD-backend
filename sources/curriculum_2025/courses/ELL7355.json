@@ -1,0 +1,16 @@
+{
+  "code": "ELL7355",
+  "name": "Frequency Synthesizer IC Design",
+  "description": "Oscillator basics, LC and ring voltage controlled oscillators, digitally controlled oscillators, phase noise and jitter, frequency dividers, basic PLL architectures, phase/frequency detectors, type I PLL, type II PLL, fractional N PLL, sub-sampling PLL, digital PLL, delay locked loops, frequency locked loops, advanced PLL architectures, advanced oscillators, behavioral modelling and design of PLL.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7355"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MLL3002",
+  "name": "Materials Modeling",
+  "description": "Mathematical and numerical foundations including finite difference and finite element methods. Thermodynamic modeling, diffusion simulation, and random walk models. Monte Carlo methods for thermodynamic and statistical systems. Molecular dynamics simulations covering interatomic potentials and integration of equations of motion. Density functional theory for electronic structure and accurate property calculations. Emphasis on modeling materials behavior at multiple length scales. Practical/practice activities: python-based data analysis and numerical modeling, simulation of diffusion and heat transfer, Monte Carlo simulations, phase diagram prediction using Thermo-Calc, DFT using quantum espresso and molecular dynamics using LAMMPS. Activities focus on solving real-world materials problems through computation and simulation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "COL1000",
+  "overlap": null,
+  "learning_outcomes": [
+    "Materials Modeling | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Materials Modeling"
+  ],
+  "department": "Introduction to Computational Materials Science",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/materials-modeling",
+  "slug": "materials-modeling"
+}

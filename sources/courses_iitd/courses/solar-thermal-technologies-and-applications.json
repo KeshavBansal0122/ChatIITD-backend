@@ -1,0 +1,22 @@
+{
+  "code": "ESL7353",
+  "name": "Solar Thermal Technologies and Applications",
+  "description": "Solar radiation, Solar angles, classifications of Solar thermal collectors, Non-concentrating and concentrating collectors, Heat transfer fluids, Tracking mechanisms, Emerging solar thermal technologies, Application of solar thermal technologies: Power generation, Industrial process heating, Water distillation, Refrigeration, Building heating and cooling, Cooking, Drying, Thermal energy storage systems: Sensible, Latent and Thermochemical energy storage, Integration of thermal energy systems with various end use applications, Economic analyses of solar thermal energy systems, Life cycle assessment of solar thermal energy systems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Solar Thermal Technologies and Applications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Solar Thermal Technologies and Applications"
+  ],
+  "department": "Non-Conventional Sources of Energy",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/solar-thermal-technologies-and-applications",
+  "slug": "solar-thermal-technologies-and-applications"
+}

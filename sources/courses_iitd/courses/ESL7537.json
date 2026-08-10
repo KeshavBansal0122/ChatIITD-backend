@@ -1,0 +1,22 @@
+{
+  "code": "ESL7537",
+  "name": "Plasma Based Materials Processing",
+  "description": "Plasma concept; various plasma devices or sources; basics of plasma chemistry; low-pressure and high-pressure plasmas for material processing, that is, deposition and etching, implantation, ore enrichment, and metallurgical applications; plasma and its application in renewables.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Plasma Based Materials Processing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Plasma Based Materials Processing"
+  ],
+  "department": "Energy Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/plasma-based-materials-processing",
+  "slug": "plasma-based-materials-processing"
+}

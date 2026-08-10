@@ -1,0 +1,22 @@
+{
+  "code": "BSV7112",
+  "name": "Special Topics in Telecommunication Technologies",
+  "description": "The telecommunication ecosystem is undergoing rapid transformation driven by emerging technologies such as Edge Computing, Advanced Embedded Systems, Spectrum Management, Open RAN, AI-native Networks, 6G, Satellite Communications, Network Security, V2X Communications, and Quantum Communication. Given the dynamic nature of these domains, it is essential to provide students with exposure to cutting-edge developments beyond the regular curriculum.\nThis course offers flexibility to introduce contemporary topics of strategic importance to academia, industry, and government, enabling students to acquire knowledge of emerging technologies, standards, and research directions.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Special Topics in Telecommunication Technologies | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Special Topics in Telecommunication Technologies"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/special-topics-telecommunication-technologies",
+  "slug": "special-topics-telecommunication-technologies"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CVP2401",
+  "name": "Geological Engineering Lab",
+  "description": "Geological Maps, Geological Mapping \u2013 contouring, topo sheets, Geological sections, outcrops, apparent and true dips, three-point problems, depth and thickness problems, joints, fault displacement measurement, measurement of attitude of outcrops, geological compass, stereonet & kinematic analysis, Megascopic identification & characterization of minerals and rocks, Engineering properties of rocks and measurements: compressive and tensile strength, Specimen preparation, Guided tour through representative geological formations, and structures.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Geological Engineering Lab | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Geological Engineering Lab"
+  ],
+  "department": "Rock Mechanics Lab",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/geological-engineering-lab",
+  "slug": "geological-engineering-lab"
+}

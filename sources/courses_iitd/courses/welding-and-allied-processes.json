@@ -1,0 +1,22 @@
+{
+  "code": "MEL2023",
+  "name": "Welding and Allied Processes",
+  "description": "Overview of joining and welding, Principles of arc welding, Heat Balance in Fusion Welding, Basic physics of arc, Metal transfer mechanisms in arc welding, Shielded Metal Arc Welding (SMAW), Gas Metal Arc Welding ( GMAW), Flux-core Arc Welding (FCAW), Submerged Arc Welding (SAW), Gas Tungsten Arc Welding (GTAW) and Plasma Arc Welding (PAW), Weld bead characterisation, Electrogas and electroslag welding, Resistance welding, Gas welding, High Energy beam welding processes \u2013 Laser beam welding and Electron Beam Welding, Recent advancement in welding, Safety and weldability, Heat flow characteristics and metallurgical changes in fusion welding, Solid state welding processes, Friction Welding, Ultrasonic welding, Diffusion welding, Explosion welding, Magnetic Pulse welding, Brazing, Soldering and their applications, Weld quality, Destructive and non-destructive testing methods, welding defects, causes and remedies, residual stress and distortion. Plasma cutting, surfacing and plasma spray forming, surfacing applications.",
+  "credits": 3.5,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 1.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Welding and Allied Processes | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Welding and Allied Processes"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/welding-and-allied-processes",
+  "slug": "welding-and-allied-processes"
+}

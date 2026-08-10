@@ -1,0 +1,22 @@
+{
+  "code": "MSL7303",
+  "name": "Essentials of AI/ML Applications for Business",
+  "description": "Evolution of AI/ML systems, Design Principles for AI/ML Apps and Systems, Overview to Applications of unsupervised AI/ML systems, Overview to Applications of supervised AI/ML systems, Emerging Trends in Artificial Intelligence",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Essentials of AI/ML Applications for Business | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Essentials of AI/ML Applications for Business"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/essentials-aiml-applications-business",
+  "slug": "essentials-aiml-applications-business"
+}

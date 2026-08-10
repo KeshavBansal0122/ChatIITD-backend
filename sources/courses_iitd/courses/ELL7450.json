@@ -1,0 +1,22 @@
+{
+  "code": "ELL7450",
+  "name": "Machine Learning for Wireless Communications",
+  "description": "Classification and regression: probabilistic classifiers, Bayes classifier, logistic regression. Non-probabilistic classifiers- K-nearest neighbors, discriminative and generative classifiers. Applications: i. 5G massive MIMO zero-forcing and MMSE receiver design ii. Detection in digital communication systems 2. Basics of reinforcement learning: dynamic programming, Monte-Carlo methods, temporal difference learning and Q-learning. Applications i. Q-learning for cross-layer resource allocation ii. Reinforcement learning-based joint scheduling of eMBB and URLLC in 5G networks 3. Basics of deep-learning: introduction to deep learning, neural networks, activation functions, loss functions and optimization, backpropagation and gradient descent, deep learning architectures (MLP, CNN, RNN) 5 convolutional neural networks (CNNs), recurrent neural networks (RNNs) and LSTMs, transfer learning and pretrained models, generative models (GANs, VAEs) applications: i. Deep learning for the physical layer ii. Deep learning for joint source-channel coding iii. Deep learning-based channel estimation 4. Closing comments: need and feasibility of ML in wireless, compute power requirement, where to deploy such algorithms (core/gNB/edge? ).",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "ELL7400/MTL1106",
+  "overlap": null,
+  "learning_outcomes": [
+    "Machine Learning for Wireless Communications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Machine Learning for Wireless Communications"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/machine-learning-wireless-communications",
+  "slug": "machine-learning-wireless-communications"
+}

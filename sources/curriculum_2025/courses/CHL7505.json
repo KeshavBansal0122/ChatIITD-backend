@@ -1,0 +1,16 @@
+{
+  "code": "CHL7505",
+  "name": "Rheology of Complex Fluids",
+  "description": "Introductory fluid mechanics and constitutive relation. Non-Newtonian fluids. Rheology of non-Newtonian fluids. Measurements and material functions. Simple and advanced models for polymeric fluids: the generalized newtonian fluids, linear viscoelasticity, nonlinear viscoelasticity. Simple models for suspensions and emulsions. Rheological characterization of complex fluids - analysis of experimental measurements. Classical methods: steady and oscillatory shear flow. Modern methods: transient elongation; interfacial rheology; introduction to optical birefringence.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CH",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CH#CHL7505"
+}

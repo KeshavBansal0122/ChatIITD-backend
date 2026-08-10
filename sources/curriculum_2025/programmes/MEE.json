@@ -1,0 +1,325 @@
+{
+  "code": "MEE",
+  "name": "M.Tech. in Industrial Engineering",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=MEE",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 43.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Ability to demonstrate proficiency in Industrial Engineering and Operations Research"
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Ability to model real-world situations, especially those involving manufacturing and service industries, using Industrial Engineering and Operations Research techniques"
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Ability to computationally implement, solve and analyze Industrial Engineering and Operations Research models"
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "MED7151",
+        "title": "Major Project Part-1",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "24"
+        },
+        "credits": "12"
+      },
+      {
+        "course_code": "MED7152",
+        "title": "Major Project Part-2",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "MED7153",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MED7154",
+        "title": "Summer Internship/Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7001",
+        "title": "Professional Ethics for Mechanical Engineers",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "MEL7101",
+        "title": "Mathematical Programming",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7102",
+        "title": "Probability and Statistics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7103",
+        "title": "Operations Planning and Control",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEN7002",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEL7111",
+        "title": "Integer Programming",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7116",
+        "title": "Optimization",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7118",
+        "title": "Reinforcement Learning",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7120",
+        "title": "Introduction to Stochastic Modeling and Simulation",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7121",
+        "title": "Pricing and Revenue Management",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7125",
+        "title": "Stochastic Simulation Development and Analysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7126",
+        "title": "Special Topics in IEOR",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7211",
+        "title": "Robotics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "MEL7101",
+        "title": "Mathematical Programming",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MEL7102",
+        "title": "Probability and Statistics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MEL7103",
+        "title": "Operations Planning and Control",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MEN7002",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "MED7153",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "MEL7001",
+        "title": "Professional Ethics for Mechanical Engineers",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "MEN7002",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "MED7151",
+        "title": "Major Project Part-1",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      },
+      {
+        "course_code": "MEN7002",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "MED7152",
+        "title": "Major Project Part-2",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 28.0
+        },
+        "credits": 14.0
+      },
+      {
+        "course_code": "MEN7002",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "MEE \u2013 M.Tech. in Industrial Engineering\nM.Tech. in Industrial Engineering\nMechanical Engineering, Department of\nProgramme Code: MEE\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n43\nPE (Programme Elective)\n9\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n58\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nAbility to demonstrate proficiency in Industrial Engineering and Operations Research\nPLO 2\nAbility to model real-world situations, especially those involving manufacturing and service industries, using Industrial Engineering and Operations Research techniques\nPLO 3\nAbility to computationally implement, solve and analyze Industrial Engineering and Operations Research models\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nMED7151 Major Project Part-1 0 0 24 12\nMED7152 Major Project Part-2 \u2013 \u2013 \u2013 \u2013\nMED7153 Cornerstone Project 0 0 8 4\nMED7154 Summer Internship/Minor Project 0 0 6 3\nMEL7001 Professional Ethics for Mechanical Engineers 1 0 0 1\nMEL7101 Mathematical Programming 3 0 0 3\nMEL7102 Probability and Statistics 3 0 0 3\nMEL7103 Operations Planning and Control 3 0 0 3\nMEN7002 Teaching and Research Practicum 0 0 8 4\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nMEL7111 Integer Programming 3 0 0 3\nMEL7116 Optimization 3 0 0 3\nMEL7118 Reinforcement Learning 3 0 0 3\nMEL7120 Introduction to Stochastic Modeling and Simulation 3 0 0 3\nMEL7121 Pricing and Revenue Management 3 0 0 3\nMEL7125 Stochastic Simulation Development and Analysis 3 0 0 3\nMEL7126 Special Topics in IEOR 3 0 0 3\nMEL7211 Robotics 3 0 0 3\nSemester-wise Schedule\nSem\nCourses &amp; Baskets\nHrs /\nweek\nNGU\nCredits\n1\nMEL7101 Mathematical Programming\n(3.0-0.0-0.0) 3.00\nMEL7102 Probability and Statistics\n(3.0-0.0-0.0) 3.00\nMEL7103 Operations Planning and Control\n(3.0-0.0-0.0) 3.00\nMEN7002 Teaching and Research Practicum\n(0.0-0.0-8.0) 4.00\nOE\n(3-0-0) &nbsp; 3\n20\n4\n12\nWinter\nMED7153 Cornerstone Project"
+}

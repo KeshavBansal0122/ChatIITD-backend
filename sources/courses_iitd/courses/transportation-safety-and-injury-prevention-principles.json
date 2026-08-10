@@ -1,0 +1,22 @@
+{
+  "code": "TRL7101",
+  "name": "Transportation Safety and Injury Prevention Principles",
+  "description": "Principles of transport and traffic safety as a public health issue; safe systems approach and systems understanding of road transport; understanding of historical trend of road traffic injuries, traffic crash and travel data sources, methods for modelling travel behavior choices and the four step transport model; specific safety requirements for pedestrians, bicyclists, motorized two wheeler, public transport users and car users; planning and design requirements for safe highways and rural roads; methods of costing road traffic crashes, review of mechanics, newton\u2019s laws, inertia, stress-strain, energy, impact; mathematical modelling in biomechanics and injury prevention, lumped mass, multi body, FE and integrated computational models; tissue and human body biomechanics, mechanisms of injury, injury indices; crash-worthiness standards-crash tests and crash simulations, use of human body surrogates and models for testing / analysis, vehicle structures for crash energy management; vehicle occupant/restraint system analysis; pedestrian crashes and safety; helmet design.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Transportation Safety and Injury Prevention Principles | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Transportation Safety and Injury Prevention Principles"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/transportation-safety-and-injury-prevention-principles",
+  "slug": "transportation-safety-and-injury-prevention-principles"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MEL7119",
+  "name": "Reliability Engineering",
+  "description": "Time to failure distributions; parameter estimation for non-repairable systems; reliability models for series, parallel and mixed configurations; reliability models for active/passive redundancy, load sharing systems, mixed population, competing failure modes; stress-strength models; conditional reliability models and residual life calculation; reliability models for non-repairable systems; parameter estimation for repairable systems, failure mode and effects analysis, fault tree analysis; failure simulation; warranty cost analysis; reliability allocation; reliability of production systems; accelerated life testing models; burn-in test plans.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Reliability Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Reliability Engineering"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/reliability-engineering",
+  "slug": "reliability-engineering"
+}

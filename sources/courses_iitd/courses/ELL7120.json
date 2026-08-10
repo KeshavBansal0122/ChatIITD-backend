@@ -1,0 +1,22 @@
+{
+  "code": "ELL7120",
+  "name": "Numerical Linear Algebra",
+  "description": "Basics of Linear Algebra; Matrix decomposition - LU, LDU, QR and Cholesky factorization; Householder reflection, Givens rotation; Numerical implications of SVD; Numerical Solution for Linear Systems; Algorithm Stability; Problem Conditioning; Pivoting and scaling; Least Square Solutions; Numerical Matrix eigenvalue methods; Sparse Systems; Iterative methods for large systems; Krylov, Arnoldi, Lanczos methods; Numerical Optimization techniques - Conjugate gradient method, Linear and quadratic programming, Spectral and Pseudospectral methods,Case Studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Numerical Linear Algebra | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Numerical Linear Algebra"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/numerical-linear-algebra",
+  "slug": "numerical-linear-algebra"
+}

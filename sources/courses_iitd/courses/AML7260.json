@@ -1,0 +1,22 @@
+{
+  "code": "AML7260",
+  "name": "Fracture Mechanics",
+  "description": "Theoretical cohesive strength, Energy Release Rate (Griffith\u2019s Theory), Stress Intensity Factor (LEFM), Crack Tip Opening Displacement (plasticity), J-Integral (elasto-plasticity), Crack Growth Criteria (mixed-mode), Fatigue Crack Growth (steady state), special topics",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(AML3010/AML5020/AML7030)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Fracture Mechanics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fracture Mechanics"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fracture-mechanics-0",
+  "slug": "fracture-mechanics-0"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CRL9201",
+  "name": "Machine Learning for Digital Signal Processing",
+  "description": "Review of digital signal processing fundamentals and signal representations\nData acquisition, preprocessing, feature extraction, and labeling for signals\nClassical DSP vs ML-based signal processing: motivations and trade-offs\nSupervised learning methods for signal classification and regression\nUnsupervised and adaptive learning techniques for signal modeling\nNeural networks for DSP: CNNs, RNNs, and transformers for time-series signals\nML-based filtering, denoising, and noise cancellation techniques\nReal-time and streaming signal processing using ML models\nModel optimization for deployment: quantization, pruning, and latency constraints\nCase studies and hands-on projects in audio, biomedical, radar, or communication signals",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Machine Learning for Digital Signal Processing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Machine Learning for Digital Signal Processing"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/machine-learning-digital-signal-processing",
+  "slug": "machine-learning-digital-signal-processing"
+}

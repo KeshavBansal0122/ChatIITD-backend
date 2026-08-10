@@ -1,0 +1,16 @@
+{
+  "code": "OPR7100",
+  "name": "Communications in Research",
+  "description": "The course will have some interactive sessions on topics such as role of research communication in advancing and dissemination of knowledge, principles of effective communication, communication channels and research writing (scientific papers, research proposals, project reports etc.). Stress will also be on presentations on research oriented topics for different types of audience, enhancing presentation skills in terms of data visualization, oral communication and public engagement. The course will also have practical exercises and assignments on writing scientific papers and reviews on published literature, and oral presentations on suitable topics. The assessment will be based on the presentations, assignments, participation in the class room interactions, and attendance.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "OP",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=OP#OPR7100"
+}

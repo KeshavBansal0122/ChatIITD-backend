@@ -1,0 +1,22 @@
+{
+  "code": "MSL7212",
+  "name": "Business Cycles and Global Economy",
+  "description": "Economy moves in cycles. Depending on the state of economy (in whether expansion or downturn), the firms should adjust their\nbusiness and investment strategies. This course will look into the state of art of business cycles under the increasingly integrated\nglobal economic system, and discuss the usefulness and application of the cyclical analyses for the appropriate and flexible decision making. Global business cycles; short and long cycles; fluctuation; synchronization; identification, driver and nature of cyclical movements; endogenous and exogenous views; political economy; role of manufacturing; transmission mechanism; trend analysis; structural shift in the global system; China; India; forecasting and indicators; COVID-19.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "MSL7203&MSL7204",
+  "overlap": null,
+  "learning_outcomes": [
+    "Business Cycles and Global Economy | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Business Cycles and Global Economy"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/business-cycles-and-global-economy",
+  "slug": "business-cycles-and-global-economy"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CVP7412",
+  "name": "Structural Dynamics Laboratory",
+  "description": "Response of structures and its elements against extreme loading events. Model testing: models, of plates, shells, and frames; free and forced vibrations; evaluation of dynamic modulus; beam vibrations; vibration isolation; shear wall building model; time and frequency-domain study. Smart materials; photogrammetry for displacement measurement; vibration characteristics of RC beams using piezoelectric sensors etc.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVP7412"
+}

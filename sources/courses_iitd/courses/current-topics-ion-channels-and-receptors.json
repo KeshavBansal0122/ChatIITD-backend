@@ -1,0 +1,22 @@
+{
+  "code": "SBV8092",
+  "name": "Current Topics in Ion Channels and Receptors",
+  "description": "Overview of neuronal physiology; ion channels and receptors of excitable cell membrane; ion channel properties: permeability, selectivity, gating and rectification; Nernst-Planck and Goldman-Hodgkin-Katz equations; classification of ion channels and receptors; structure and function studies of ion channels and receptors: voltage-gated Na+ and K+ channels, ligand-gated acetylcholine receptor channel, mechano-gated mscL and Piezo channels; allosteric modulation of ion channels: theories and application; ion channel and receptor pharmacology; methods to study ion channels and receptors: patch-clamp, planar-bilayer, crystallography and cryo-EM studies; simulation of single channel activity and macroscopic currents from kinetic modeling.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(SBL1100/SBL1102)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Current Topics in Ion Channels and Receptors | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Current Topics in Ion Channels and Receptors"
+  ],
+  "department": "Principles of Neural Excitability and Communication",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/current-topics-ion-channels-and-receptors",
+  "slug": "current-topics-ion-channels-and-receptors"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CRL7011",
+  "name": "CAD of RF and Microwave Circuits",
+  "description": "Review of basic microwave theory: transmission lines and waveguides \u2013 concepts of characteristic impedance, reflection coefficient, standing and propagating waves, network analysis: s, Z and other multi-port parameters, impedance matching and tuning, planar transmission lines: quasi-static analysis, full wave analysis, discontinuities, equivalent circuits, simple printed couplers, filters, power dividers, simulation of structures on HFSS/CST/ADS.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CR#CRL7011"
+}

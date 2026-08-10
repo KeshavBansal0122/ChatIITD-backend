@@ -1,0 +1,21 @@
+{
+  "code": "MTL2005",
+  "name": "Algebra",
+  "description": "Group Theory: Equivalence relations and partitions, maximal elements, minimal elements, least upper bound, greatest lower bound, lattices, with examples. Permutations, cyclic permutation, transpositions, and the sign of a permutation. \nBinary operations, formal definition of group, subgroup, basic examples of groups, symmetric group(permutation group), matrix group, group of rigid motions of the plane, and finite group of motions (Dihedral group). \nFinite group, cyclic group, generators and relations, cosets and Lagrange&#039;s theorem, group homomorphisms, Cayley&#039;s theorem, normal subgroup, quotient group and isomorphism theorems. \nGroup action, Class equation, Cauchy&#039;s theorems, Sylow&#039;s theorems, direct products and structure theorem for finite abelian groups (without proof) and their applications. \nRing Theory: Definition and examples, ring homomorphism, ideals and quotient rings, Chinese Remainder Theorem, integral domain and quotient field, ring of Gaussian integers, Unique factorisation domain, Principal ideal domain, Euclidean domain, Gauss&#039; lemma (statement only), polynomial ring, irreducibility of polynomials and Eisenstein&#039;s criterion.\nField Theory: Fields, extension of a field, degree of an extension, finite extension, algebraic extension, Splitting field, Finite field and their structures.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Algebra | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/algebra",
+  "slug": "algebra"
+}

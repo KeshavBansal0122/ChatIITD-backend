@@ -1,0 +1,22 @@
+{
+  "code": "JTD7095",
+  "name": "Cornerstone Project",
+  "description": "Based on the courses taken by the student, the cornerstone project aims to put thoery into practce by building a solution (hardware/software) that can be implemented and tested in a real system as a team.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Cornerstone Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Cornerstone Project"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/cornerstone-project-17",
+  "slug": "cornerstone-project-17"
+}

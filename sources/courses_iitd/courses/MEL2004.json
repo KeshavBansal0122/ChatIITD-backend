@@ -1,0 +1,22 @@
+{
+  "code": "MEL2004",
+  "name": "Operations Research",
+  "description": "Local and global optima, convex optimization problems, modeling with linear programming (LP) and applications, polyhedral theory and geometry of LPs, simplex method, revised simplex method, LP duality, complementary slackness, sensitivity analysis. Introduction to integer programming: LP relaxations, branch and bound. Nonlinear programming - unconstrained optimization, descent-based methods, constrained optimization, KKT conditions. Introduction to dynamic programming and introduction to use of solvers.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Operations Research | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Operations Research"
+  ],
+  "department": "Mathematical Programming",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/operations-research",
+  "slug": "operations-research"
+}

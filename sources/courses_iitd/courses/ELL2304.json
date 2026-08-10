@@ -1,0 +1,22 @@
+{
+  "code": "ELL2304",
+  "name": "Semiconductor Devices",
+  "description": "Elements of Microelectronics Processing, Review of MOS Capacitor and its CV characteristics,Impact of non-idealities on MOSCAP characteristics \u2013 Effect of traps, fixed charges and tunnelling,Physics behind the working of MOSFET \u2013 Band diagrams and equations, Non-idealities in MOSFET \u2013 Channel length modulation, Subthreshold Swing, DIBL, velocity saturation and reliability issues in MOSFETs. Modern MOSFETS : FinFETS, Strained Silicon devices, Glimpses of Special Semiconductor Devices",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL2303",
+  "overlap": null,
+  "learning_outcomes": [
+    "Semiconductor Devices | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Semiconductor Devices"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/semiconductor-devices",
+  "slug": "semiconductor-devices"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ELL7328",
+  "name": "Applied VLSI Design",
+  "description": "CMOS process, scaling, yield and reliability. Moore\u2019s learning curve law. Dennard\u2019s scaling. Digital VLSI circuit metrics. Static CMOS combinational logic physical design and optimisation. CMOS inverter \u2013 schematic and physical structure. CMOS logic design styles \u2013 NAND, NOR, hybrid. Gate delay modelling \u2013 Elmore model, switching delay models of basic logic circuits. Logical effort and electrical effort calculation in logic circuit chains. Drive strength and transistor sizing in logic circuit chains. Static CMOS/MOS sequential logic physical design and optimisation. Review of Moore and mealy machines. CMOS latch topologies and designs. Sequencing methods and storage elements. Effects of delays in logic chains in sequential circuits. Metastability problem. Concept of dynamic discipline in sequential logic. Input/output timing constraints, timing analysis and optimisation/mitigation techniques. Other CMOS logic families. Dynamic and domino logic. Pass transistor and transmission gate logic. Clock domain crossing. Introduction to static RAM memories. Bit cell circuits. Cell array structure. Address decoding circuits. Read / write circuits.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(ELL1401)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Applied VLSI Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Applied VLSI Design"
+  ],
+  "department": "Digital CMOS VLSI Design",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/applied-vlsi-design",
+  "slug": "applied-vlsi-design"
+}

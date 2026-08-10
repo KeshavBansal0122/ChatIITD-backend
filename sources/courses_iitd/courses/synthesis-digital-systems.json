@@ -1,0 +1,22 @@
+{
+  "code": "COL7419",
+  "name": "Synthesis of Digital Systems",
+  "description": "Chip design flow, design representation, high-level synthesis \u2013 scheduling, function unit binding, register allocation, retiming, logic synthesis, technology mapping, placement, routing.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Synthesis of Digital Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Synthesis of Digital Systems"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/synthesis-digital-systems",
+  "slug": "synthesis-digital-systems"
+}

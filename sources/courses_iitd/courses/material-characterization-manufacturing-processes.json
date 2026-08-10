@@ -1,0 +1,22 @@
+{
+  "code": "MEL7327",
+  "name": "Material Characterization for Manufacturing Processes",
+  "description": "The objective of the course is to understand the characterization studies associated with materials and manufacturing processes. Basic mechanical behaviour of the materials especially the stress strain relationship for the different categories of materials used in manufacturing, different deformation and strengthening mechanisms, various mechanical testing processes such as hardness, impact, fracture toughness, fatigue and creep. Fundamental principles of material characterization techniques such as optical microscopy, scanning electron microscopy, transmission electron microscopy, XRD and atomic force microscopy. Comparison of these techniques. Various thermal analysis processes such as differential thermal analysis (DTA), differential scanning calorimetry (DSC), thermogravimetric analysis (TGA), dynamic mechanical analysis (DMA).",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Material Characterization for Manufacturing Processes | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Material Characterization for Manufacturing Processes"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/material-characterization-manufacturing-processes",
+  "slug": "material-characterization-manufacturing-processes"
+}

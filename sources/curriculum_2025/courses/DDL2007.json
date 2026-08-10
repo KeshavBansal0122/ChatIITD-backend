@@ -1,0 +1,16 @@
+{
+  "code": "DDL2007",
+  "name": "Design Process",
+  "description": "The course builds foundational skills in problem-solving, user research, ideation and prototyping, user testing and iteration \u2014preparing students for real-world roles in design studios, startups, product teams and innovation-driven industries.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DD#DDL2007"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CVL8531",
+  "name": "Pedestrian Dynamics",
+  "description": "Introduction to pedestrian and crowd behaviour. Scales of measurement of pedestrian movements. Traffic and space characteristics of pedestrians. Understanding empirical measures, data collection: empirical, experimental and field. Small-scale experiments, fundamental diagrams and level of service. Planning and design elements. Planned pedestrian environments. Pedestrian modelling: microscopic - force models, collision avoidance models, cellular automata models; macroscopic: free and congested flow modelling. Multiscale modelling of crowd movements. Time-evolving measures, measure theory-based models. Evacuations - normal and emergency. Software for modelling pedestrian dynamics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Pedestrian Dynamics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Pedestrian Dynamics"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/pedestrian-dynamics",
+  "slug": "pedestrian-dynamics"
+}

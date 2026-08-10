@@ -1,0 +1,22 @@
+{
+  "code": "COL7707",
+  "name": "Introduction to Ethical Issues in Computer Science",
+  "description": "Application of ethical theories to computer systems \u2013 consequentialism, deontological, virtue ethics; known concerns that arise at different layers in an information system \u2013 user interface design, data and privacy, algorithms and artificial intelligence, multi-stakeholder system design, and management policies; methods to address these concerns; assignments to analyze various layers in information systems through the lenses of different ethical theories; design methods such as participatory design and action research; application of design methods to formulate new information systems or improve existing ones; political economy of technology; theories of technology determinism and social control of technology.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Ethical Issues in Computer Science | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Ethical Issues in Computer Science"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-ethical-issues-computer-science-0",
+  "slug": "introduction-ethical-issues-computer-science-0"
+}

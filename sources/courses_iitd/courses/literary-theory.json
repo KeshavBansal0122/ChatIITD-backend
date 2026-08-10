@@ -1,0 +1,21 @@
+{
+  "code": "HSL5002",
+  "name": "Literary Theory",
+  "description": "The following theoretical approaches, topics and themes will be taught in the course: what is theory itself, what is literature; literature and culture; language, meaning, interpretation; rhetoric, poetics, poetry; narrative; performatives; identity, decolonial thought; psychoanalysis and literary theory; hermeneutics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Literary Theory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/literary-theory",
+  "slug": "literary-theory"
+}

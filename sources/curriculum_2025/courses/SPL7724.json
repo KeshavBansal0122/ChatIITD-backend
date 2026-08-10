@@ -1,0 +1,16 @@
+{
+  "code": "SPL7724",
+  "name": "Electricity Sector Reforms in the Renewables Era",
+  "description": "Evolution of the vertically integrated electricity utility, initial experiences in developed countries and early reformers; independent electricity producers (IPPs), regulation and de-regulation, independent system operators; power system cost structures, power system economics, power purchase agreements \u2013 long-term risk distribution, electricity market design \u2013 day-ahead, intraday, balancing markets, ancillary services. Tariff design for end consumers, retail competition, capacity remuneration mechanisms. Critique of the reforms experienced worldwide, salience of the distribution sector, access and affordability, reforms rollback, renewables. Country experiences -China, Germany, USA (California, Texas), Mexico, UK; Indian experience \u2013 electricity act, cases of Enron (Dabhol), Odisha, Delhi. Renewables penetration \u2013 impact on access, electricity for agriculture tariffs, regional equity, national programmes -- KUSUM, Saubhagya, Deen Dayal Upadhyaya Grameen Vidyutikaran Yojana. Excel-based exercises on the financial viability of discoms using actual utility data. Explore and develop renewables and reforms trajectories for different states. Electricity sector reforms and the larger public policy rubric-centre-state issues, effects of the dominant global discourse on the renewables programme in India.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SP",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SP#SPL7724"
+}

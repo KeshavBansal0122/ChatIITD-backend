@@ -1,0 +1,22 @@
+{
+  "code": "ELL7412",
+  "name": "Multichannel Signal Processing",
+  "description": "Wave equation: Solution to wave equation, introduction to spherical harmonics, and mathematical preliminaries of multichannel signal processing. \nAcoustic source localization: Data model, correlation, and subspace-based (MUSIC, root-MUSIC) localization, wideband and narrowband source localization, source activity detection, localization, and tracking. \nBrain Source Localization (BSL): Brain anatomy, Neurophysiology of brain, sLORETA and MUSIC for BSL, Application of BSL in BCI control.\nSource Estimation: Fixed beamforming, null steering, adaptive beamforming, and beampattern design. \nMultichannel signal enhancement: Time and frequency domain-based enhancement, joint diagonalization, noise rejection, binary masking, and beamforming.\nMore Application: Source separation, dereverberation",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Multichannel Signal Processing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Multichannel Signal Processing"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/multichannel-signal-processing",
+  "slug": "multichannel-signal-processing"
+}

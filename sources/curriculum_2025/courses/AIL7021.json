@@ -1,0 +1,16 @@
+{
+  "code": "AIL7021",
+  "name": "Deep Learning",
+  "description": "Multilayer perceptron, shallow neural network, regression, classification, deep neural network, loss function, optimization, backpropagation, overfitting, regularization, convolutional neural networks, residual networks, RNN, LSTM, backpropagation through time (BPTT), sequence-to-sequence, attention mechanism, transformers, LLMs, graph neural network, deep reinforcement learning, generative adversarial networks, variational autoencoders, diffusion models, normalizing flows, self-supervised learning, contrastive learning, Bayesian neural networks, deep meta learning, deep continual learning.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AI",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AI#AIL7021"
+}

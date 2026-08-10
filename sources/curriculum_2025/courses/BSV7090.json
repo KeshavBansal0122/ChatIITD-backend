@@ -1,0 +1,16 @@
+{
+  "code": "BSV7090",
+  "name": "Ethical Considerations in Telecommunication Technologies and Management",
+  "description": "Professional ethical guidelines, as adopted in most electronics and telecommunications engineering societies in the world, ethics in publishing, anti-plagiarism, ethical use of technical tools (AI, ChatGPT, internet, etc.), examples of unethical behaviour in the engineering profession, case studies on engineering ethics.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BS#BSV7090"
+}

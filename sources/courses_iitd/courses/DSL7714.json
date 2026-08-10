@@ -1,0 +1,22 @@
+{
+  "code": "DSL7714",
+  "name": "Instrument Design and Simulations",
+  "description": "1. Review of circuit analysis and design. \n2. Review of signals and systems in time and frequency domain: Fourier and Laplace Transforms, response plots. \n3. Dynamic properties of instrument systems: Review of instrument control systems, on-off, proportional and PID controllers. Stability considerations, gain and phase margin.\n4. Use of pulse and harmonic test signals for performance evaluation. Linear modelling of instrument systems. Models for basic instrument building blocks. Simulation studies of circuit blocks. Simulation studies of circuits, instrument modules, transducers and control schemes using PSPICE and MATLAB expert simulation software.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Instrument Design and Simulations | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Instrument Design and Simulations"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/instrument-design-and-simulations",
+  "slug": "instrument-design-and-simulations"
+}

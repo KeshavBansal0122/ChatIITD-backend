@@ -1,0 +1,16 @@
+{
+  "code": "MEL7203",
+  "name": "Optimum Design",
+  "description": "This course introduces the fundamentals of optimization in engineering design. Topics include problem formulation, classical optimization techniques (unconstrained and constrained), numerical methods, and advanced methods such as genetic algorithms, and multi-objective optimization. Applications in mechanical component and assembly design processes will be discussed.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL7203"
+}

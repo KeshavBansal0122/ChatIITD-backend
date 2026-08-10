@@ -1,0 +1,16 @@
+{
+  "code": "DSP7703",
+  "name": "Instrument Technology Laboratory I",
+  "description": "Basic signal conditioning circuit building blocks: amplifiers, filters, and linearization circuits. Study of packaging and characterization of transducers used for measurement of different physical variables like displacement, temperature, pressure, strain, flow etc.; study of practical signal conditioning techniques and electronic measurement methods; study of electronic subsystems used in instruments. Experiments on cardinal points measurements using nodal slide method, measurement of wedge angle of optical flat and right angle of a prism by autocollimation, measurement of the long radius of curvature of concave mirror using Foucault knife edge test and Ronchi test, Newton and Fizeau interferometer for testing of optical surface, quantitative testing of optical elements using polarisation based Twyman-Green interferometer, measurement of small radius of curvature of lens using \u201coptical spherometer\u201d, Moire interferometry for displacement measurement.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DS#DSP7703"
+}

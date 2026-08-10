@@ -1,0 +1,16 @@
+{
+  "code": "JVD8301",
+  "name": "Master in Technology Project - I",
+  "description": "VLSI circuits, tools or technologies related topics.",
+  "credits": 15.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 30.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "J",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=J#JVD8301"
+}

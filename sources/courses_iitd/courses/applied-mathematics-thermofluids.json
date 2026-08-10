@@ -1,0 +1,22 @@
+{
+  "code": "MEL7403",
+  "name": "Applied Mathematics for Thermofluids",
+  "description": "Theory of linear homogeneous and nonhomogeneous ODEs; series solutions of linear ODEs; systems of ODEs; vector space, basis vectors, eigen value and eigen vectors; functions space, basis functions, scalar products, norm, special functions, Fourier series; linear differential operators, operator eigenvalue problems, Sturm-Liouville theory; 1st order PDEs, method of characteristics; classification of 2nd order PDEs, hyperbolic, parabolic and elliptic PDEs; method of separation of variables, solutions of 1-D wave equation, unsteady heat equations and Laplace\u2019s equation; eigen function expansion method for non-homogeneous PDEs, solution of heat equation in 2D and 3D, linear stability analysis.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Applied Mathematics for Thermofluids | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Applied Mathematics for Thermofluids"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/applied-mathematics-thermofluids",
+  "slug": "applied-mathematics-thermofluids"
+}

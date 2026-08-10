@@ -1,0 +1,22 @@
+{
+  "code": "ELL7340",
+  "name": "Continuous Time Filter Design",
+  "description": "Approximation theory for filters: maximally flat Butterworth approximation; equiripple passband Chebyshev approximation; equiripple stop-band inverse Chebyshev approximation; equiripple passband and stopband Cauer or elliptic approximation. Jacobi elliptic functions: analytical development, basic properties, double periodicity, addition of arguments, elliptic filter strategy, pass-band, transition-band and stop-band; Chebyshev rational function; construction of rational polynomial; elliptic filter transfer function. Synthesis of Butterworth and Chebyshev filters as doubly-terminated lossless prototype filters. Synthesis of inverse Chebyshev and elliptic filters as doubly-terminated lossless prototype filters. Low-pass to low-pass transformation. Transformation of prototype filters into active circuits: opamp-RC filter, switched-capacitor filter, gm-C filter. Richard&#039;s transformation and Kuroda&#039;s identities; transformation of prototype filter to microwave filter; stepped-impedance microwave filters.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL1001",
+  "overlap": null,
+  "learning_outcomes": [
+    "Continuous Time Filter Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Continuous Time Filter Design"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/continuous-time-filter-design",
+  "slug": "continuous-time-filter-design"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MEL7124",
+  "name": "Industrial Asset Management",
+  "description": "Maintenance of physical assets, econometric and life cycle costing models for asset acquisition and withdrawal, maintenance planning and control, integrated systems for maintenance management, expert systems for fault diagnostics, maintenance 4.0, maintenance logistics, reliability analysis of systems, FMEA, FMECA, RAMS, maintenance standards.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Industrial Asset Management | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Industrial Asset Management"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/industrial-asset-management",
+  "slug": "industrial-asset-management"
+}

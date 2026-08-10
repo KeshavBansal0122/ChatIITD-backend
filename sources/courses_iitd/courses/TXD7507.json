@@ -1,0 +1,22 @@
+{
+  "code": "TXD7507",
+  "name": "Cornerstone Project",
+  "description": "This is an open ended course where a group of students is expected to design and develop a product or equipment or instrument relevant to the field of textile technology. In this process, a group of students is expected to demonstrate their ability to think on their own in design and development. They are also expected to put down their thinking process in a report form with relevant literature background, methodology of design and development process and should have conducted some experiments with the developed product/system. Finally, they need to present their work for the award of grade.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Cornerstone Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Cornerstone Project"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/cornerstone-project-6",
+  "slug": "cornerstone-project-6"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "DDP1008",
+  "name": "Design History",
+  "description": "The course explores the foundations and history of design through analytical, site-based, and studio methods. It begins with defining design, its etymology, and principles like form, function, and meaning. Students engage in observational studies and diagramming exercises to map everyday design. The history of design is examined through global revolutions, modern movements like Bauhaus and Ulm, and disciplinary trajectories in product, communication, and interaction design. Craft and material culture are studied through site visits and reflection. The Indian context is explored from pre-independence to contemporary design culture. The course concludes with exhibitions and presentations that theorise and historicise design practice.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Design History | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/design-history",
+  "slug": "design-history"
+}

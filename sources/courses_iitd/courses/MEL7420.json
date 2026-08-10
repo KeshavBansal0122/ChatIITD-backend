@@ -1,0 +1,22 @@
+{
+  "code": "MEL7420",
+  "name": "Uncertainty Quantification and Data-Driven Modelling",
+  "description": "This course covers uncertainty quantification and data-driven modeling with applications to thermofluid systems: role of uncertainty quantification in thermofluid system design, aleatory and epistemic uncertainties, probability and stochastic processes, uncertainty characterization and sensitivity analysis, verification and validation, Monte Carlo methods, convergence and variance reduction, polynomial chaos expansions, orthogonal polynomials, sparse grids, intrusive and non-intrusive approaches, stochastic collocation, inverse problems, Tikhonov regularization, Bayesian inference, MAP estimation, MCMC, surrogate modeling, response surfaces, reduced-order models, POD, Gaussian process regression, neural networks, data assimilation, Kalman filter, extended and ensemble variants; applications in heat exchangers, HVAC, aerodynamic lift and drag, inverse heat transfer, combustion reaction rates, battery thermo-electrochemical modeling, state-of-charge estimation.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Uncertainty Quantification and Data-Driven Modelling | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Uncertainty Quantification and Data-Driven Modelling"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/uncertainty-quantification-and-data-driven-modelling",
+  "slug": "uncertainty-quantification-and-data-driven-modelling"
+}

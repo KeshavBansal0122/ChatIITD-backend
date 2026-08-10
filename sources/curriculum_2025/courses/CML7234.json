@@ -1,0 +1,16 @@
+{
+  "code": "CML7234",
+  "name": "Chemistry of Nanostructured Materials",
+  "description": "Fundamentals of nanomaterials science, surface science for nanomaterials, colloidal chemistry. Synthesis, preparation, and fabrication: chemical routes, self-assembly methods, biomimetic and electrochemical approaches. Size controls properties: optical, electronic, and magnetic properties of materials. Characterization of nanomaterials by various techniques (XRD, XPS, BET, SEM, TEM and AFM). Important class of 0D, 1D and 2D nanomaterials such as carbon nanomaterials, nanoporous zeolites; quantum dots and TMDCs. Basic ideas of nanodevices, lithography, optoelectronics, sensors etc., for applications related to energy and environment.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CM#CML7234"
+}

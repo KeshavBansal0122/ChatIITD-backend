@@ -1,0 +1,22 @@
+{
+  "code": "CVL7822",
+  "name": "Agricultural Water Management",
+  "description": "Soil water, root zone soil moisture, field capacity and permanent wilting point, soil quality, soil-water-plant relationships, soil water retention, leaching requirement, crop water requirement, irrigation systems: canal, Tubewell and tank irrigation systems, irrigation scheduling, water use efficiency, conjunctive water use, use of poor quality groundwater in agriculture, crop productivity, smart agriculture, water saving technologies: sprinkler and drip irrigation, soil moisture monitoring and management, water stress monitoring, real time crop health monitoring system; use of satellite remote sensing, drone, GIS, IoT and AI in agriculture, impact of climate change on agriculture, crop diversification and climate resilient agriculture; optimal utilization of water in agriculture for water and environmental sustainability, virtual water, specific water consumption and water footprint.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Agricultural Water Management | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Agricultural Water Management"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/agricultural-water-management",
+  "slug": "agricultural-water-management"
+}

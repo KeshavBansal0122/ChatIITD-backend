@@ -1,0 +1,22 @@
+{
+  "code": "MEL7233",
+  "name": "Injury Biomechanics in Automotive Crashes",
+  "description": "Introduction and applications of injury biomechanics and crash reconstruction in automotive sector; biomechanics of head and brain injury: anatomy of head and brain; types of brain injury; theories of brain injury mechanism; mechanical response of head and brain under impact; experimental studies on head injury: measurement of angular accelerations; real-world brain injury cases; in silico evaluation of head injury: finite element models of head and brain; biomechanics of neck injury: anatomy of spine, mechanism of cervical spine injury due to impact, biomechanics of whiplash, experimental studies on cervical neck injury and whiplash, computer models; biomechanics of thoracolumbar segment: anatomy of thoracolumbar spine, impact injuries of thoracolumbar spine, experimental studies on lumbar spine injury, facet loading in lumbar spine, finite element modelling of thoracolumbar spine impact biomechanics of thorax and abdomen: anatomical review of thorax and abdomen and associated injury mechanisms, mechanical response of thorax and abdomen to frontal and lateral impacts, experimental studies, computer models of abdomen and thorax under impact; biomechanics of pelvis injury: anatomy of pelvis, pelvic injuries due to impact, mechanical response of the pelvis to the impact; injury biomechanics of the lower extremities: anatomy of the lower extremities, injury mechanisms of thigh, leg and foot, mechanical response of thigh, leg and foot to impact; crash reconstruction and uncertainty: estimation of tyre forces, impulse momentum theory and crush energy.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Injury Biomechanics in Automotive Crashes | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Injury Biomechanics in Automotive Crashes"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/injury-biomechanics-automotive-crashes",
+  "slug": "injury-biomechanics-automotive-crashes"
+}

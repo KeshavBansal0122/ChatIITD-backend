@@ -1,0 +1,22 @@
+{
+  "code": "HSL5013",
+  "name": "Probability and Statistics for Economics",
+  "description": "This course provides a comprehensive foundation in probability theory and statistical methods, essential for analyzing economic models and data. It covers key areas such as probability theory, descriptive and mathematical statistics, and statistical inference. The course equips students with the necessary background to pursue advanced econometric methods, applied economics courses, and economic theories involving decision-making under uncertainty. The first section explores probability theory, univariate and multivariate distributions, and descriptive statistics. The second section focuses on sampling distributions and statistical inference, including estimation, confidence intervals, and hypothesis testing. A working knowledge of algebra and calculus is assumed.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Probability and Statistics for Economics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Probability and Statistics for Economics"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/probability-and-statistics-economics",
+  "slug": "probability-and-statistics-economics"
+}

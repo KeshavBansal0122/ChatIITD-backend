@@ -1,0 +1,16 @@
+{
+  "code": "AML7020",
+  "name": "Optimization Methods",
+  "description": "This course covers fundamental and advanced optimization methods, including problem formulation, classification, and algorithm selection. It explores numerical models, derivative computation techniques, and both gradient-based (for example, line search, trust-region, SQP) and gradient-free (for example, genetic algorithms, PSO) optimization methods. Unconstrained optimization techniques such as steepest descent, Newton\u2019s method, and quasi-Newton methods are discussed, along with constrained optimization approaches like penalty methods. Topics also include multi-objective optimization, surrogate modelling (for example, Kriging, deep learning), and optimization under uncertainty using Monte Carlo techniques.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AML7020"
+}

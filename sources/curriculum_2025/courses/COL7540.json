@@ -1,0 +1,16 @@
+{
+  "code": "COL7540",
+  "name": "Software Engineering",
+  "description": "Introduction to software engineering, software life cycle models and processes, requirement engineering, system models, architectural design, abstraction and modularity, structured programming, object-oriented techniques, design patterns, service oriented architecture, user interface design, verification and validation, reliability, software evolution, project management and risk analysis, software quality management, configuration management, software metrics, cost analysis and estimation, manpower management, organization and management of large software projects.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL7540"
+}

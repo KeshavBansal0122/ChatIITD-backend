@@ -1,0 +1,22 @@
+{
+  "code": "MEL7111",
+  "name": "Integer Programming",
+  "description": "Modelling with binary and integer variables, formulations and relaxations, alternative formulations and tightening, geometry of the integer lattice, connections with number theory and linear programming, convex hull, mixed-integer rounding, totally unimodular matrices, fundamental theorem of integer programming, computational complexity, branch-and-bound algorithm, valid inequalities, separation and optimization, cutting planes and branch-and-cut algorithm, cover inequalities and separation, duality in integer programming, submodularity, decomposition techniques - column generation and Bender&#039;s decomposition, practical considerations in integer programming - presolving, infeasibility detection, primal heuristics, warm-starting, etc., advanced topics in integer programming - mixed integer linear and convex representability, symmetry, interplay with AI/ML and quantum computing.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Integer Programming | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Integer Programming"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/integer-programming",
+  "slug": "integer-programming"
+}

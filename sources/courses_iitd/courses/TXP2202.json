@@ -1,0 +1,22 @@
+{
+  "code": "TXP2202",
+  "name": "Yarn Manufacture Laboratory-II",
+  "description": "Experiments on roving frame, ring frame, rotor and friction spinning machines to understand the drive systems, control systems, mechanisms and other details of the machines. Sample production at different spinning conditions, testing of basic properties, analysis of results and report submission.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "TXP2201",
+  "overlap": null,
+  "learning_outcomes": [
+    "Yarn Manufacture Laboratory-II | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Yarn Manufacture Laboratory-II"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/yarn-manufacture-laboratory-ii",
+  "slug": "yarn-manufacture-laboratory-ii"
+}

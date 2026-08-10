@@ -1,0 +1,21 @@
+{
+  "code": "AML3400",
+  "name": "Aerodynamics",
+  "description": "Introduction, aerodynamic forces and moments, governing equations, kinematics: streamlines, pathlines, and streaklines, vorticity and circulation, stream function, velocity potential, elementary flows, non/lifting flow past a cylinder, Kutta-Joukowski theorem, panel method, Kutta condition, Kelvin\u2019s circulation theorem, classical thin airfoil theory lifting flows over arbitrary bodies: the vortex panel numerical method, viscous flow, induced drag in wings, Biot-Savart law, Helmholtz\u2019s theorems, Prandtl\u2019s classical lifting-line theory, aircraft aerodynamics, unsteady aerodynamics: topics such as flapping wing, turbines and flow induced vibrations, and road vehicle aerodynamics",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(AML2020)(AML2050)(MEL2012)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Aerodynamics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/aerodynamics",
+  "slug": "aerodynamics"
+}

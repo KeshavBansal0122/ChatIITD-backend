@@ -1,0 +1,22 @@
+{
+  "code": "ASP7310",
+  "name": "Data Analysis Methods for Atmospheric and Oceanic Sciences",
+  "description": "Introduction to UNIX/LINUX, basic commands, file management; introduction to MATLAB, using Mathworks resources; MATLAB I/O with NetCDF, HDF and GRIB2; plotting 1, 2 and 3 dimensional weather/climate data and animations with MATLAB; univariate and bivariate statistics, mean/median/mode, variance/standard deviation, correlation, errors, regression; probability and distributions, how to frame and test a hypothesis, principles of statistical significance, using MATLAB functions to test hypotheses and estimate statistical significance; working with spatial weather/climate data, regridding meteorological station data, interpolation, map overlays; working with time\u2010series, interpolation, estimating trend in weather/climate variables.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Data Analysis Methods for Atmospheric and Oceanic Sciences | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Data Analysis Methods for Atmospheric and Oceanic Sciences"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/data-analysis-methods-atmospheric-and-oceanic-sciences",
+  "slug": "data-analysis-methods-atmospheric-and-oceanic-sciences"
+}

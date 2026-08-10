@@ -1,0 +1,16 @@
+{
+  "code": "ASL7350",
+  "name": "Atmospheric Chemistry and Air Pollution",
+  "description": "Atmospheric composition and air pollutants, geochemical cycles: evolution of the atmosphere and geochemical cycling of elements, atmospheric photochemistry; chemistry of the troposphere: basic photochemical cycle, atmospheric chemistry dealing with various pollutant species and photochemical smog; oxidising power of the troposphere and the Hydroxyl radical, global budgets of precursor species; stratospheric chemistry and ozone: overview, Chapman mechanism, reservoir species and catalytic cycles, ozone hole and polar stratospheric clouds, arctic ozone loss, ozone depletion potential; aqueous phase atmospheric chemistry and acid rain; atmospheric aerosols: sources and characteristics, radiative effects and perturbation to climate; atmospheric air pollutants: sources, impacts and standards; air pollution meteorology: sources of air pollutants, classification and air quality standards, stability conditions, wind velocity profile, turbulence, mixing depth, characteristics of stack plumes; dispersion of pollutants in the atmosphere: A Gaussian dispersion model, dispersion parameters and effective stack height.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AS#ASL7350"
+}

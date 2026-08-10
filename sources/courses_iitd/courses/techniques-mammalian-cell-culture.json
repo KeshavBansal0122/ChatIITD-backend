@@ -1,0 +1,22 @@
+{
+  "code": "SBV8098",
+  "name": "Techniques in Mammalian Cell Culture",
+  "description": "Introduction and historical perspective to animal cell culture, culture conditions, cell line characterization, scale-up, biosafety levels, techniques for genetic manipulation of cells including viral transduction and CRISPR/Cas editing, advanced techniques such as iPSC production and culture, embroids and organoids.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(SBL1100/SBL1102)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Techniques in Mammalian Cell Culture | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Techniques in Mammalian Cell Culture"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/techniques-mammalian-cell-culture",
+  "slug": "techniques-mammalian-cell-culture"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "BBL7075",
+  "name": "Bioreaction Engineering",
+  "description": "Chemical reaction engineering: stoichiometry and kinetics of enzymatic reactions; stoichiometry and kinetics of microbial growth, substrate consumption, product formation, and maintenance; mass balances for biomass, substrate, and product in batch, plug flow, continuous stirred tank, fed batch, and recycle bioreactors; elemental balances for predicting stoichiometry of growth and checking consistency of data. Mass transfer: theoretical estimation and experimental measurement of oxygen transfer and consumption in bioreactors. Momentum transfer: criteria for mixing of gas, solid and liquid in bioreactors. Heat transfer: design of cooling systems for bioreactors.",
+  "credits": 4.5,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BB#BBL7075"
+}

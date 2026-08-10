@@ -1,0 +1,628 @@
+{
+  "code": "CEC",
+  "name": "M.Tech. in Construction Technology and Management",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=CEC",
+  "credit_requirements": [
+    {
+      "category": "GE",
+      "label": "General Engineering",
+      "credits_or_units": 3.0,
+      "kind": "graded"
+    },
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 48.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Acquire specialized knowledge in Construction Engineering, Technology and Management, including expertise in emerging technologies, materials, and industry trends."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Apply critical thinking and analytical skills to conceptualize, evaluate, and manage construction projects while considering technical, environmental, financial, and socio- economic factors."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Conduct independent research and develop innovative and sustainable solutions for challenges in construction project management and engineering including risk management, resource optimization, digital construction, and financial management."
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "Communicate effectively and ethically with diverse stakeholders, demonstrating leadership, teamwork, and professional integrity in construction and infrastructure development."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "CVD7390",
+        "title": "Corner Stone Project in Construction Technology and Management",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVD7731",
+        "title": "Major Project in Construction Technology and Management Part 1",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "18"
+        },
+        "credits": "9"
+      },
+      {
+        "course_code": "CVD7732",
+        "title": "Major Project in Construction Technology and Management Part 2",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CVL7031",
+        "title": "Quantitative Methods in Construction",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7301",
+        "title": "Construction Project Management",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7310",
+        "title": "Professional Ethics in Civil Engineering",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "CVL7374",
+        "title": "Construction Contracts and Procurement Methods",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7375",
+        "title": "Construction Economics and Accounts",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7735",
+        "title": "Sustainability Assessment and Green Building Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7999",
+        "title": "Lean Construction Practices and Equipment",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVN7395",
+        "title": "Teaching/Research Practicum in Construction Technology and Management",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CVP7772",
+        "title": "Computational Laboratory: Digital Construction Studio",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "CVQ7371",
+        "title": "Seminar 1- Construction Technology and Management",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "CVQ7372",
+        "title": "Seminar 2- Construction Technology and Management",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "CVT7301",
+        "title": "Summer Internship CEC",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7379",
+        "title": "Formwork and Scaffold Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7457",
+        "title": "Concrete Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7471",
+        "title": "Advanced Concrete Technology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7502",
+        "title": "Urban Transportation Systems Planning",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CVL7503",
+        "title": "Traffic Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CVL7737",
+        "title": "Building Sciences",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL8374",
+        "title": "Quality &amp; Safety in Construction",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL8452",
+        "title": "Atomistic &amp; Multiscale Modelling of Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL8459",
+        "title": "Durability and Repair of Concrete Structures",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7569",
+        "title": "Electrical Systems for Construction Industries",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ELL7603",
+        "title": "Elements of Smart and Sustainable Power Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESL7329",
+        "title": "Renewable Energy and Environment",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESL7346",
+        "title": "Hydrogen Energy",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESL7355",
+        "title": "Solar Photovoltaic Devices and Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESL7368",
+        "title": "Wind and Small Hydro Energy Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESL7673",
+        "title": "Battery Storage",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESL7756",
+        "title": "Energy Policy and Planning",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7301",
+        "title": "Metal Forming Technology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEL7303",
+        "title": "Welding Science and Technology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "CVL7301",
+        "title": "Construction Project Management",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVL7031",
+        "title": "Quantitative Methods in Construction",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVL7735",
+        "title": "Sustainability Assessment and Green Building Design",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVP7772",
+        "title": "Computational Laboratory: Digital Construction Studio",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "CVQ7371",
+        "title": "Seminar 1- Construction Technology and Management",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "CVN7395",
+        "title": "Teaching/Research Practicum in Construction Technology and Management",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "Research Practicum in Construction Technology and Management",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "CVD7390",
+        "title": "Corner Stone Project in Construction Technology and Management",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVL7375",
+        "title": "Construction Economics and Accounts",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVL7374",
+        "title": "Construction Contracts and Procurement Methods",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVL7999",
+        "title": "Lean Construction Practices and Equipment",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVQ7372",
+        "title": "Seminar 2- Construction Technology and Management",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "CVN7395",
+        "title": "Teaching/Research Practicum in Construction Technology and Management",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "orner Stone Project in Construction Technology and Management",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "basket": "Research Practicum in Construction Technology and Management",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "CVD7731",
+        "title": "Major Project in Construction Technology and Management Part 1",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 18.0
+        },
+        "credits": 9.0
+      },
+      {
+        "course_code": "CVN7395",
+        "title": "Teaching/Research Practicum in Construction Technology and Management",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "ajor Project in Construction Technology and Management Part 1",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 18.0
+        },
+        "credits": 9.0
+      },
+      {
+        "basket": "Research Practicum in Construction Technology and Management",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "CVD7732",
+        "title": "Major Project in Construction Technology and Management Part 2",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      },
+      {
+        "course_code": "CVL7310",
+        "title": "Professional Ethics in Civil Engineering",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "CVN7395",
+        "title": "Teaching/Research Practicum in Construction Technology and Management",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "ajor Project in Construction Technology and Management Part 2",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      },
+      {
+        "basket": "Research Practicum in Construction Technology and Management",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "CEC \u2013 M.Tech. in Construction Technology and Management\nM.Tech. in Construction Technology and Management\nCivil Engineering, Department of\nProgramme Code: CEC\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n48\nPE (Programme Elective)\n6\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n60\nNon-Graded Units (NGU) Units\nSeminar\n2\nTotal Non-Graded Units\n2\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nAcquire specialized knowledge in Construction Engineering, Technology and Management, including expertise in emerging technologies, materials, and industry trends.\nPLO 2\nApply critical thinking and analytical skills to conceptualize, evaluate, and manage construction projects while considering technical, environmental, financial, and socio- economic factors.\nPLO 3\nConduct independent research and develop innovative and sustainable solutions for challenges in construction project management and engineering including risk management, resource optimization, digital construction, and financial management.\nPLO 4\nCommunicate effectively and ethically with diverse stakeholders, demonstrating leadership, teamwork, and professional integrity in construction and infrastructure development.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCVD7390 Corner Stone Project in Construction Technology and Management 0 0 6 3\nCVD7731 Major Project in Construction Technology and Management Part 1 0 0 18 9\nCVD7732 Major Project in Construction Technology and Management Part 2 \u2013 \u2013 \u2013 \u2013\nCVL7031 Quantitative Methods in Construction 3 0 0 3\nCVL7301 Construction Project Management 3 0 0 3\nCVL7310 Professional Ethics in Civil Engineering 1 0 0 1\nCVL7374 Construction Contracts and Procurement Methods 3 0 0 3\nCVL7375 Construction Economics and Accounts 3 0 0 3\nCVL7735 Sustainability Assessment and Green Building Design 3 0 0 3\nCVL7999 Lean Construction Practices and Equipment 3 0 0 3\nCVN7395 Teaching/Research Practicum in Construction Technology and Management 0 0 8 4\nCVP7772 Computational Laboratory: Digital Construction Studio 0 0 4 2\nCVQ7371 Seminar 1- Construction Technology and Management 0 0 2 1\nCVQ7372 Seminar 2- Construction Technology and Management 0 0 2 1\nCVT7301 Summer Internship CEC 0 0 6 3\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCVL7379 Formwork and Scaffold Engineering 3 0 0 3\nCVL7457 Concrete Mechanics 3 0 0 3\nCVL7471 Advanced Concrete Technology 3 0 0 3\nCVL7502 Urban Transportation Systems Planning 3 0 2 4\nCVL7503 Traffic Engineering 3 0 2 4\nCVL7737 Building Sciences 3 0 0 3\nCVL8374 Quality &amp; Safety in Construction 3 0 0 3\nCVL8452 Atomistic &amp; Multiscale Modelling of Materials 3 0 0 3\nCVL8459 Durability and Repair of Concrete Structures 3 0 0 3\nELL7569 Electrical Systems for Construction Industries 3 0 2 4\nELL7603 Elements of Smart and Sustainable Power Systems 3 0 0 3\nESL7329 Renewable Energy and Environment 3 0 0 3\nESL7346 Hydrogen Energy 3 0 0 3\nESL7355 Solar Photovoltaic Devices and Systems 3 0 0 3\nESL7368 Wind and Small Hydro Energy Systems 3 0 0 3\nESL7673 Battery Storage 3 0 0 3\nESL7756 Energy Policy and Planning 3 0 0 3\nMEL7301 Metal Forming Technology 3 0 2 4\nMEL7303 Welding Science and Technology 3 0 2 4\nSemester-wise Schedule\nSem"
+}

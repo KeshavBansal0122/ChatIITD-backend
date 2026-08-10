@@ -1,0 +1,22 @@
+{
+  "code": "CVL7602",
+  "name": "Engineering & Structural Geology",
+  "description": "Origin and composition of earth. Rock cycle and Bowen\u2019s reaction series, geological time-scale. Rock structures: layered formations, attitude, true and apparent dips, topographic maps, outcrops. Stereonets and geological measurements. Structural mapping and contour. Classification of rock structures: folds, types of folds, fold mechanics. Joints, rock mass concept, joint classification. Three point problem, and depth and thickness. Rock fault classification, mechanics of faulting, normal, reverse and thrust faults. Lineations, foliations, schistocity and fold classification. Strain and stress in geological structures, basics of rock rheology, geological hazards and mitigation. Kinematics of joints and faults, presentation of geological data and analysis. Scanline survey.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Engineering & Structural Geology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Engineering & Structural Geology"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/engineering-structural-geology",
+  "slug": "engineering-structural-geology"
+}

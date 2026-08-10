@@ -1,0 +1,22 @@
+{
+  "code": "COL7190",
+  "name": "Quantum and Post-Quantum Cryptography",
+  "description": "Quantum computing basics, quantum cryptography fundamentals, introduction to lattices, learning with errors (LWE), short integer solution (SIS) problem, basic lattice-based cryptographic primitives, security analysis techniques, worst-case to average-case reductions, quantum attacks on lattice problems, quantum attacks on symmetric key primitives, proofs of quantumness, blind delegation, classical verification of quantum computation, unclonable cryptographic primitives.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(COL3159&COL3160)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Quantum and Post-Quantum Cryptography | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Quantum and Post-Quantum Cryptography"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/quantum-and-post-quantum-cryptography",
+  "slug": "quantum-and-post-quantum-cryptography"
+}

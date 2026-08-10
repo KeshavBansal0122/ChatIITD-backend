@@ -1,0 +1,22 @@
+{
+  "code": "MSL7603",
+  "name": "Operations Management - I",
+  "description": "The OM-1 curriculum focuses on the strategic design and operational control of value-creation processes. It begins with Operations Strategy, establishing how productivity and core competencies drive global competitive advantage. The course then moves into Project Management, utilizing CPM/PERT models to navigate complex, resource-constrained timelines. A significant portion is dedicated to Process Analysis and Design, covering capacity management, bottleneck analysis, and break-even calculations. It then addresses Statistical Process Control (SPC) to ensure high-quality standards through control charts. Finally, the course provides the logic for Operations Scheduling and Maintenance in shops and service systems.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Operations Management - I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Operations Management - I"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/operations-management-i",
+  "slug": "operations-management-i"
+}

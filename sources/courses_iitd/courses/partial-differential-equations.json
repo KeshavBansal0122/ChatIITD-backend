@@ -1,0 +1,22 @@
+{
+  "code": "MTL7455",
+  "name": "Partial Differential Equations",
+  "description": "First order PDEs: classification and examples of PDEs, method of characteristic, complete and general solutions. Second order PDEs in two independent variables: classification, examples and canonical form. Cauchy-Kowalewsky theorem for quasilinear equations, Holmgren\u2019s uniqueness theorem for linear equations. Theory of distribution: test functions and distributions, some operations with distributions, convolution of distributions, fundamental solutions, Schwartz space, tempered distributions. Weak/generalized solution of PDE in divergence form: scalar conservation laws, Rankine-Hugoniot condition, entropy condition, Riemann&#039;s problem. Laplace equation: fundamental solution , Poisson&#039;s equation, harmonic functions and their properties, maximum principle, Green&#039;s function, Dirichlet&#039;s principle and method of separation of variables. Heat equation: fundamental solution, mean value theorem and maximum principle, uniqueness results and method of separation of variables. Wave equation: D&#039; Alembert&#039;s formula, weak solution, method of separation of variables, method of spherical means (n=2,3), Duhamel`s principle and energy method for uniqueness, the domain of dependence, Range of influence.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Partial Differential Equations | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Partial Differential Equations"
+  ],
+  "department": "Partial Differential Equations and Applications",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/partial-differential-equations",
+  "slug": "partial-differential-equations"
+}

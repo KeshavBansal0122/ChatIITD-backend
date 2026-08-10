@@ -1,0 +1,22 @@
+{
+  "code": "CVL7464",
+  "name": "Design of Industrial Structures",
+  "description": "Foundations of industrial structures, machine foundations (block type): natural frequencies and vibration amplitude under uncoupled/ coupled motions, single and multi-bay RC/ steel structures, bunkers and silos, RC chimneys, cooling towers, large span roof structures, suspended roof structures.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CVL7411",
+  "overlap": null,
+  "learning_outcomes": [
+    "Design of Industrial Structures | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Design of Industrial Structures"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/design-industrial-structures",
+  "slug": "design-industrial-structures"
+}

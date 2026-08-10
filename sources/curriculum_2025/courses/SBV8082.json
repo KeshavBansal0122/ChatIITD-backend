@@ -1,0 +1,16 @@
+{
+  "code": "SBV8082",
+  "name": "Biological Membranes",
+  "description": "Introduction to hydrophobic interactions and the hydrophobic effect, phospholipid model systems, cellular membrane asymmetry, membrane dynamics, membrane trafficking, membrane fusion, membrane proteins (form and function), small molecule permeability, pores channels and transporters, lipid systems for drug delivery.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBV8082"
+}

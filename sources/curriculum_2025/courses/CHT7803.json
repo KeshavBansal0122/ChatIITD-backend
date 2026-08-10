@@ -1,0 +1,16 @@
+{
+  "code": "CHT7803",
+  "name": "Summer Internship",
+  "description": "Students will be interning in an organization to develop experience in application of chemical engineering principles and to develop skills in communication, working efficiently in a team, learn to collaborate and gain exposure to practical/industry relevant problems in chemical engineering. Students will be assigned a project by their reporting officer, where they have to work on problems related to their internship using engineering methods.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CH",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CH#CHT7803"
+}

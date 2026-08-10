@@ -1,0 +1,16 @@
+{
+  "code": "CRL7002",
+  "name": "Architectures and Algorithms for DSSP (Data Science and Signal Processing) Systems",
+  "description": "Introduction - DSP tasks and applications, real-time signal processing, representation of DSP algorithms; number representations and arithmetic operations\u2010 fixed point and floating point representations and arithmetic operations; Q notation; digital signal processor architectures \u2013 CPU, peripherals; specific DSP processor architecture (ARM); DSP instruction set and assembly language programming \u2013 instruction types; parallel programming; pipelining; efficient programming; DSP algorithms and their efficient implementation \u2010 a) linear filtering; b) FFT and spectrum analysis; c) adaptive filtering algorithms d) source localaziation algorithms; e) DOA estimation algorithms f) clustering algorithms, g) classification algorithms. Laboratory 1. Basic DSP algorithms using python 2. Familiarization with raspberry pi 3. Audio processing, Beamforming, source localization and adaptive filtering in DSP 4. Lab projects using raspberry pi.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CR#CRL7002"
+}

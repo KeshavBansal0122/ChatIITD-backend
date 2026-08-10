@@ -1,0 +1,22 @@
+{
+  "code": "MEL7433",
+  "name": "Air Pollution: Sources and Apportionment",
+  "description": "Air pollution \u2013 dominant pollution sources and the relevant emission physics, physico-chemical characteristics and emission control. Application of multivariate statistical methods to air pollutant transport and source apportionment. Application to air pollution in Delhi-NCR.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Air Pollution: Sources and Apportionment | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Air Pollution: Sources and Apportionment"
+  ],
+  "department": "Formation and Transport of Atmospheric Pollutants",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/air-pollution-sources-and-apportionment",
+  "slug": "air-pollution-sources-and-apportionment"
+}

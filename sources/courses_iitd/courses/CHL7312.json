@@ -1,0 +1,22 @@
+{
+  "code": "CHL7312",
+  "name": "Materials of Construction",
+  "description": "Types and mechanisms of corrosion, factors influencing corrosion. Corrosion testing methods. Combating corrosion in metals and non-metals. High and low temperature materials. Selection of materials of construction for handling different chemicals. Industrial applications and case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL3007",
+  "overlap": null,
+  "learning_outcomes": [
+    "Materials of Construction | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Materials of Construction"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/materials-construction",
+  "slug": "materials-construction"
+}

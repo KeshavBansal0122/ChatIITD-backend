@@ -1,0 +1,16 @@
+{
+  "code": "DSL8814",
+  "name": "Selected Topics in Instrumentation - II",
+  "description": "Advanced course on selected topics of Instrumentation Technology.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DS#DSL8814"
+}

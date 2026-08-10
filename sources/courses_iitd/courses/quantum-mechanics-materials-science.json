@@ -1,0 +1,22 @@
+{
+  "code": "MLL7403",
+  "name": "Quantum Mechanics for Materials Science",
+  "description": "This course introduces the principles of quantum mechanics that underpin the behavior and design of modern materials and devices. Beginning with wave-particle duality, wave functions, operators, the Schr\u00f6dinger equation, and the uncertainty principle, students develop the mathematical framework needed to analyze quantum systems. The course applies these concepts to model atoms, understand electronic structure and periodic trends, and explain chemical bonding from a quantum perspective. Building on these foundations, quantum mechanics is extended to crystalline solids to examine electronic states, scattering phenomena, and the microscopic origins of material properties. Selected applications in quantum technologies, measurement, and information processing are also introduced.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Quantum Mechanics for Materials Science | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Quantum Mechanics for Materials Science"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/quantum-mechanics-materials-science",
+  "slug": "quantum-mechanics-materials-science"
+}

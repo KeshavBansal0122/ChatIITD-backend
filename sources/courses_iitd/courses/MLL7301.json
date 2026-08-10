@@ -1,0 +1,22 @@
+{
+  "code": "MLL7301",
+  "name": "Advanced Computational Materials Modelling",
+  "description": "Functional properties of materials: an overview; electronic, optical, magnetic, and mechanical properties of solids; basic foundations of materials modeling at atomic-scale; many-electron problems and initial approximations; basics of spin-polarized density functional theory (DFT) and its applications; electronic structure using beyond DFT-based techniques such as GW methods; time-dependent DFT and BSE-GW methods for optical properties; different magnetic interactions in extended solids; computing transition temperatures; evaluation of elastic constants of various materials of varied dimension; practical: hands-on on basic simulation set-up for 3D materials; computing highly accurate electronic and optical properties using beyond-DFT techniques; modeling magnetic interactions and mechanical properties of wide variety of solids.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Computational Materials Modelling | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Computational Materials Modelling"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-computational-materials-modelling",
+  "slug": "advanced-computational-materials-modelling"
+}

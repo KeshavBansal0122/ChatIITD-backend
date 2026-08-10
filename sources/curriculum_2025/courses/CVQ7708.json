@@ -1,0 +1,16 @@
+{
+  "code": "CVQ7708",
+  "name": "Environmental Engineering Seminar",
+  "description": "Environmental report reading; topic presentation skills; understanding environmental data.",
+  "credits": 0.5,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 1.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVQ7708"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MSL7518",
+  "name": "Organizational Structure and Processes",
+  "description": "This course examines how organizational structures and processes shape effectiveness. It explores design choices, coordination mechanisms, and decision-making systems, linking them to strategy and environment. Students learn to diagnose structural and process inefficiencies and apply tools such as process mapping, lean thinking, and digital transformation to improve organizational performance.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Organizational Structure and Processes | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Organizational Structure and Processes"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/organizational-structure-and-processes",
+  "slug": "organizational-structure-and-processes"
+}

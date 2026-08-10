@@ -1,0 +1,22 @@
+{
+  "code": "JGP5003",
+  "name": "Scientific Writing",
+  "description": "This is a course where students read and analyze the structure of scientific articles, critically evaluate their own writing, and then apply this knowledge towards crafting their own examples of scientific prose. The course comprises mainly of hands-on tutorials, where students will read relevant articles, and then critique samples of their own writing. Given the prevalence of AI tools, this class will conduct discussions and use practical examples to show how these tools may be used appropriately. The course will introduce them to the importance of revision for organizing ideas. Topics such as research presentation, authorship guidelines, ethical review for research will also be introduced.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 2.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Scientific Writing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Scientific Writing"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/scientific-writing-0",
+  "slug": "scientific-writing-0"
+}

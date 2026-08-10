@@ -1,0 +1,16 @@
+{
+  "code": "TXP2202",
+  "name": "Yarn Manufacture Laboratory-II",
+  "description": "Experiments on roving frame, ring frame, rotor and friction spinning machines to understand the drive systems, control systems, mechanisms and other details of the machines. Sample production at different spinning conditions, testing of basic properties, analysis of results and report submission.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXP2202"
+}

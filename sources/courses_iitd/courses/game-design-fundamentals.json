@@ -1,0 +1,22 @@
+{
+  "code": "DDP7012",
+  "name": "Game Design Fundamentals",
+  "description": "Each class will include a short lecture (theory) component followed by practical content. The lectures will introduce the concepts, process, theory, framework, principles and tools that are useful for understanding and designing games and simulations as an interactive and engaging media. The lectures will include: game analysis, game hacking, elements of game design, tools for game design, game design process, storytelling, games as systems, games and learning, creating rules and mechanics, graphic and visual design, user experience in games, playtesting, gamification, etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Game Design Fundamentals | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Game Design Fundamentals"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/game-design-fundamentals",
+  "slug": "game-design-fundamentals"
+}

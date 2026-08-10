@@ -1,0 +1,22 @@
+{
+  "code": "TXL6501",
+  "name": "Basics of Textiles",
+  "description": "This course consists of four sections. The first section deals with the basics of polymers, natural and synthetic fibres, their fundamental properties and applications. The second section covers different types of yarn, flowchart of yarn formation processes and yarn properties. The section of fabric manufacturing covers the conversion of yarn to fabric. This includes woven, knitted, nonwoven and braided structure. The last section deals with the chemical processing that is, preparatory processes, dyeing, printing and finishing of textiles.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Basics of Textiles | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Basics of Textiles"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/basics-textiles",
+  "slug": "basics-textiles"
+}

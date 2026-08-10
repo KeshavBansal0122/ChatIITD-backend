@@ -1,0 +1,22 @@
+{
+  "code": "CVL4102",
+  "name": "Modern Construction Management",
+  "description": "Introduction to construction projects, stakeholders, phases in a project, Project selection using time value of money concept, Project planning and network analysis-PERT, CPM, Precedence Diagram Method, LOB method, Resource scheduling, Time -Cost monitoring and control using S-curve with earned value analysis, Risk management, Construction quality and methods, Safety management in construction, Introduction to lean practices and Integrated Project Delivery, Introduction to agile project management.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Modern Construction Management | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Modern Construction Management"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/modern-construction-management",
+  "slug": "modern-construction-management"
+}

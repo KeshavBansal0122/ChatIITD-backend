@@ -1,0 +1,22 @@
+{
+  "code": "ELL7516",
+  "name": "Computer Aided Design of Electrical Machines",
+  "description": "Introduction of standards and standardizations, specifications, frame size, basic design methodology and engineering considerations. Properties of electric, magnetic and insulating materials including the special materials like cobalt steel, rare earth magnets etc. Understanding the coupling of electromagnetic, dielectric, mechanical and thermal design of machines. Computerization and automation of design procedures for application like electric vehicles, wind energy, high speed CNC motors. Optimization techniques and their application to design problems such as drive cycle optimization of electric vehicle or duty cycle optimization of industrial actuator/machine. Design of large and smaller (fractional horse power) motors. Extensive learning of analytical and simulation (preferably Ansys/FEMM) based design methods and optimization techniques.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Computer Aided Design of Electrical Machines | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Computer Aided Design of Electrical Machines"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/computer-aided-design-electrical-machines",
+  "slug": "computer-aided-design-electrical-machines"
+}

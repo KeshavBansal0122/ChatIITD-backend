@@ -1,0 +1,22 @@
+{
+  "code": "CML5014",
+  "name": "Main Group Chemistry",
+  "description": "General properties of p block elements, bonding, historical landmarks, and periodic properties, introduction to group theory, chemistry of alkali and alkaline earth metals, chemistry of group 13, 14, 15, and 16 elements, halogen chemistry, chemistry of rare gases.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Main Group Chemistry | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Main Group Chemistry"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/main-group-chemistry",
+  "slug": "main-group-chemistry"
+}

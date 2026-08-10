@@ -1,0 +1,22 @@
+{
+  "code": "COL1000",
+  "name": "Introduction to Programming",
+  "description": "Data abstractions and computational abstractions, control structures and basic input/output, problem specification, testing and debugging, basic data structures and encapsulation, inductive reasoning and iteration, functions and recursion, top down design, performance and efficiency.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Programming | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Programming"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-programming",
+  "slug": "introduction-programming"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "ELL7000",
+  "name": "Professional Ethics in Electrical Engineering",
+  "description": "Different types of ethical issues in electrical engineering related to safety, sustainability, integrity, intellectual property, plagiarism, academic integrity, human rights etc. Public safety rules. Environmentally friendly and sustainable solutions (hazardous waste, community impacts). Potential biases in algorithms and data that could lead to unfair or discriminatory outcomes. Data privacy. Transparency and accountability. Emerging challenges (AI bias, carbon neutral dilemmas etc.).",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7000"
+}

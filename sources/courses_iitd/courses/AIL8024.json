@@ -1,0 +1,22 @@
+{
+  "code": "AIL8024",
+  "name": "Computational Learning Theory",
+  "description": "We will seek to cover the key theoretical ideas which help us to understand the successes (and failures) of machine learning, and also point out the (many) gaps in our current understanding. The theoretical frameworks/notions discussed will include empirical risk minimisation, VC dimension, PAC learning, Rademacher complexity, the minimum description length principle, no-free-lunch theorems, statistical invariants, and some ideas from probability theory, information theory, and algebraic topology. We will also look at how learning theory can have practical utility in terms of error and generalisation bounds on the performance of learning algorithms, which in turn may help us to design better models and also address issues of data sufficiency.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "AIL7024",
+  "overlap": null,
+  "learning_outcomes": [
+    "Computational Learning Theory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Computational Learning Theory"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/computational-learning-theory",
+  "slug": "computational-learning-theory"
+}

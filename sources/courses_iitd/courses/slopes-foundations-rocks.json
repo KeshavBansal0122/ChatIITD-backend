@@ -1,0 +1,22 @@
+{
+  "code": "CVL7604",
+  "name": "Slopes & Foundations in Rocks",
+  "description": "Introduction. Types of rock slope failures. Circular and non-circular failures in rocks and stability charts. Planar failure in rock slopes and analysis. Wedge failure in rock slopes and analysis. Stereographic and kinematic methods of rock slope analysis. Buckling and toppling failures in rock slopes. Rock falls, and landslides. Ground water and seismic effects in rock slopes. Rockslope mitigation measures and design. Foundations in rocks: bearing capacity, settlement and stress distribution in intact and layered rocks and roc masses. Foundations of dams on rocks. Deep foundations. Tension foundations, codal provisions. Rock foundation improvement. Use of appropriate software packages. Case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CVL7601/CVL7602/",
+  "overlap": null,
+  "learning_outcomes": [
+    "Slopes & Foundations in Rocks | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Slopes & Foundations in Rocks"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/slopes-foundations-rocks",
+  "slug": "slopes-foundations-rocks"
+}

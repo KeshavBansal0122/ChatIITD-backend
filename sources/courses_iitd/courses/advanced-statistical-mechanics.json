@@ -1,0 +1,22 @@
+{
+  "code": "PYL7185",
+  "name": "Advanced Statistical Mechanics",
+  "description": "Review of basic thermodynamics, thermodynamic potentials, equation of state. Theory of ensembles, density matrix. Thermodynamics of phase transitions, concept of thermodynamic stability, metastability and instability, van der Waal equation of state, phase coexistence and Gibbs phase rule. Lattice models to describe phase transition for example Ising model, Heisenberg model etc. Landau theory of second order phase transitions, scaling hypothesis, critical exponents and universality classes, spatial correlation, correlation length, importance of fluctuations near critical point. Mean field theory, transfer matrix method, low and high temperature expansions. Concept of renormalization group. Ising model, renormalization in one dimension. Related numerical methods, Monte-Carlo simulations of spin systems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "()",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Statistical Mechanics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Statistical Mechanics"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-statistical-mechanics",
+  "slug": "advanced-statistical-mechanics"
+}

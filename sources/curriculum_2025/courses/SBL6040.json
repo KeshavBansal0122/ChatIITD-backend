@@ -1,0 +1,16 @@
+{
+  "code": "SBL6040",
+  "name": "Biological Pathways",
+  "description": "Lecture: biological pathways: metabolic, genetic and signaling pathways; introduction to energy metabolism; metabolic repercussions: reactive oxygen species and antioxidant defense pathways.; metabolic disorders- diabetes and beyond; general principles of signal transduction- types of signals, secondary messengers and signal amplification; extracellular signal and role of receptors- cell surface and nuclear receptors, enzymes with kinase activity-receptor tyrosine kinases; signaling proteins can act as molecular switches- adapters and small GTPases; kinases- roles in physiology and pathology, MAPK and phosphatases, sensors of metabolism/stress- AMPK, mTOR and beyond; protein\u2013protein interactions in signal transduction; signaling outcomes; signaling in migration and chemotaxis; regulatory rewiring of metabolism in cancer; small molecule modulators of metabolism. Laboratory: introduction to cell culture- counting, seeding and passaging cells; monitoring of glycolysis in cultured cells- glucose uptake by fluorimetry and lactate production by spectrophotometry, influence of external conditions; monitoring cell death by WST8 viability assays- probing cell death pathways using inhibitors; monitoring stress signaling- effect of kinase inhibitors on MAPK signaling by immunoblot analyses, effect of concentration and time.; cytokine signaling: TNF-induced signal transduction- monitoring signaling kinetics.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBL6040"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "BSP7010",
+  "name": "Communication and Signal Processing Technologies Laboratory",
+  "description": "Signal processing tools \u2013 Keil for ARM processor, code composer studio (CCS), field programmable gate array (FPGA) processor; pulse shaping and inter-symbol interference, digital filtering; design of ADC, DAC, PLL; receiver design; design of encoder and decoders: convolution, Viterbi. Group-based term projects such as advanced coding schemes (LDPC, turbo, RS, polar, etc.) in conjunction with demapper using soft-decision/hard-decision principles building a complete end to end system: design of band-pass processors for cell phone application, sample implementation of OFDM waveform Tx and Rx \u2013 like WiFi-6 or LTE, sample implementation of single carrier waveform (DVBS2, DVBC2, cable/QAM, Docsis) both for Rx and Tx, design of audio codec, design of rake receiver \u2013 all could be implemented on FPGA or DSP such as ARM processor.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 1.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BS#BSP7010"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CVL3202",
+  "name": "Air Pollution and Solid Waste Management",
+  "description": "Sources of air pollution, greenhouse gases, impact on economy particularly in the context of civil engineering projects and urbanization; impact on health particularly in terms of burden of dieses, interlinkages between air pollution and climate change, air pollution acts, Role of meteorological factors, air monitoring techniques including stack emissions and real-time monitoring methods, emission rate, emission inventory, source apportionment, dispersion models, receptor model, technologies and sustainable solutions for air pollution control, mitigation strategies, use of ML-AI tools for data analysis. Different types of solid wastes: Municipal solid waste, Biomedical waste, Construction & Demolition waste, Plastic waste, Hazardous waste, E-waste, Fly ash and Nuclear waste. Characterization of solid waste: Composition, Proximate & Ultimate analysis, Heat Content, specific heat, etc. Collection, storage and Transportation of solid waste. Route optimization problems. Waste Treatment: Composting and Bio-methanation techniques, thermal and Thermo-chemical techniques, Waste to Energy. Final disposal: Engineered landfills: Dry tomb and bioreactor concepts, Leachate and landfill gas management. Rules and regulations pertaining to solid waste management.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Air Pollution and Solid Waste Management | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Air Pollution and Solid Waste Management"
+  ],
+  "department": "Air-Noise Pollution and Climate",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/air-pollution-and-solid-waste-management",
+  "slug": "air-pollution-and-solid-waste-management"
+}

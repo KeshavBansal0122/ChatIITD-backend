@@ -1,0 +1,22 @@
+{
+  "code": "BMQ7060",
+  "name": "Graduate Student Research Seminar",
+  "description": "In this course students will be required to conduct a thorough study on one of the seminar papers relevant in the field of biomedical engineering. The study paper should be approved by the coordinator. Each student registered for the course have to deliver a seminar and participation in the seminars and involve in discussion on scientific methodology. Activities will be carried out in workshop mode.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Graduate Student Research Seminar | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Graduate Student Research Seminar"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/graduate-student-research-seminar",
+  "slug": "graduate-student-research-seminar"
+}

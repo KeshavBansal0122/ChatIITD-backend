@@ -1,0 +1,16 @@
+{
+  "code": "MLL7000",
+  "name": "Structure and Characterization of Materials",
+  "description": "Introduction to material structure, including atomic bonding, crystalline and amorphous phases, and their influence on properties. Fundamentals of crystal structures, symmetry, unit cells, and various defects. Microstructural features, structure of polymers, introduction to x-ray diffraction (XRD), including powder and thin-film analysis, and scattering techniques (SAXS/SANS). Use of Raman, FTIR, UV-vis spectroscopy for structural and optical characterization. Introduction to electron microscopy techniques (SEM, TEM, STEM, EELS) and elemental analysis (EDS/WDS). Surface and thermal characterization methods such as XPS, AFM, STM, TGA, and DSC.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ML",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ML#MLL7000"
+}

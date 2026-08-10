@@ -1,0 +1,21 @@
+{
+  "code": "MEL7430",
+  "name": "Heat Exchangers",
+  "description": "Applications. Basic design methodologies \u2013 LMTD and effective-ness- NTU methods. Overall heat transfer coefficient, fouling. Correlations for heat transfer coefficient and friction factor. Classification and types of heat exchangers and construction details. Design and rating of double pipe heat exchangers, shell and tube heat exchangers, compact heat exchangers, plate and heat pipe type, condensers, cooling towers. Heat exchanger standards and testing, heat transfer enhancement and efficient surfaces.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Heat Exchangers | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/heat-exchangers",
+  "slug": "heat-exchangers"
+}

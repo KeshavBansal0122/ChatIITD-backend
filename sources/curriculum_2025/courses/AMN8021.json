@@ -1,0 +1,16 @@
+{
+  "code": "AMN8021",
+  "name": "M.S.(R) Research Practicum",
+  "description": "Formulation and solution of research problems related to assigned project topic. Communicate formulation and results related to the designated project topic.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AMN8021"
+}

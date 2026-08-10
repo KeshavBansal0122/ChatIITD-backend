@@ -1,0 +1,22 @@
+{
+  "code": "MEL7205",
+  "name": "Dynamics and Control",
+  "description": "Review of dynamics of a particle, Lagrange and Hamiltonian equations, viewpoints from inertial frame and non-inertial frames, dynamics of connected bodies, methods of applying constraints, representations of the system of equations using block diagrams, response of first order and second order systems. Introduction to feedback control, re-presentation in block diagrams, types of controllers, controlled response of motion, and its implementation, controlled response of first order and second order systems, evalulation in the frequency domain, design of linear controllers, stability evaluation of feedback systems, sequence control and its implementation using microcontrollers. State space analysis of systems with and without control.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Dynamics and Control | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Dynamics and Control"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/dynamics-and-control",
+  "slug": "dynamics-and-control"
+}

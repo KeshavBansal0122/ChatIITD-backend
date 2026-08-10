@@ -1,0 +1,21 @@
+{
+  "code": "BBL7048",
+  "name": "Biophysics",
+  "description": "Physical principles governing cellular processes, including stochastic transport, bacterial motility, and cell movement. Mechanical properties of biological materials and biopolymers (DNA and proteins), cytoskeletal and cellular mechanics, including force generation, mechanotransduction, and regulation of cell shape and motility. Experimental and imaging approaches for probing biomolecular structure and dynamics. Quantitative modeling of biological processes and analysis of biological networks in systems such as biofilms and multicellular tissues.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Biophysics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Biochemical Engineering and Biotechnology, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/biophysics",
+  "slug": "biophysics"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CHL7311",
+  "name": "Safety and Hazards in Process Industries",
+  "description": "Accident and loss statistics; fires, explosions, prevention of fires and explosions; static electricity; risk assessment; hazard identification; event tree analysis; fault tree analysis; toxicology; industrial hygiene; accident case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL3007",
+  "overlap": null,
+  "learning_outcomes": [
+    "Safety and Hazards in Process Industries | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Safety and Hazards in Process Industries"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/safety-and-hazards-process-industries",
+  "slug": "safety-and-hazards-process-industries"
+}

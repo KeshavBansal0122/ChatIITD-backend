@@ -1,0 +1,16 @@
+{
+  "code": "PYL7190",
+  "name": "Integrated Optics",
+  "description": "Guided TE and TM modes of symmetric and asymmetric planar waveguides: step-index and graded-index waveguides. Strip, channel, slot and silicon waveguides and anisotropic waveguides, Marcatili\u2019s method, effective-index method and perturbation method of analysis. Directional couplers, coupled mode analysis of uniform and reverse delta-beta couplers, ring resonators. Applications as power splitters, Y-junction, electro-optic and thermo-optic modulators, optical switch; filters, Y-splitters, mode splitters, polarization splitters; Mach-Zehnder interferometer based devices, fiber and integrated optical devices, simulation tools for waveguide designs. Integrated optical amplifiers, nano-photonic-devices: metal/dielectric plasmonic waveguides, long and short range surface plasmon modes supported by thin metal films, applications in integrated waveguide polarizers. Integrated photonic sensors: temperature, strain, and chemical and bio-sensing. Fabrication and characterisation of integrated optical waveguides and devices. Waveguide coupling: prism coupling and grating coupling. Nonlinear effects in integrated optical waveguides.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL7190"
+}

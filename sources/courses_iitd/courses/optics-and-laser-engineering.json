@@ -1,0 +1,22 @@
+{
+  "code": "PYL7195",
+  "name": "Optics and Laser Engineering",
+  "description": "Review of basic optics: reflection and refraction of plane waves; matrix method in optics, polarization and polarizing devices; diffraction; interference: two beam and multiple beam interference, Fabry-Perot interferometer, Michelson interferometer; spatial frequency filters; liquid crystal based devices, interaction of light with matter, light amplification and oscillation, laser rate equations, three level and four level systems, line broadening mechanisms, optical resonators and resonator stability, modes of a spherical mirror resonator, micro-resonator lasers, mode selection, Q-switching, mode locking in lasers, properties of laser radiation, overview of recent laser systems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Optics and Laser Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Optics and Laser Engineering"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/optics-and-laser-engineering",
+  "slug": "optics-and-laser-engineering"
+}

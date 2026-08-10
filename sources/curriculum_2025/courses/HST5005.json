@@ -1,0 +1,16 @@
+{
+  "code": "HST5005",
+  "name": "Introduction to Research Methods",
+  "description": "The course introduces students to research methods in humanities and social sciences. It will provide the students with elementary knowledge of the components of research methods such as framing research design, techniques of data collection, and data analysis and presentation. The students will be introduced to methods of conducting qualitative, quantitative and textual research. The course content also includes an independent group research projects that will enable students to gain experience in methodology, research design, analysis and presentation of findings.",
+  "credits": 5.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HST5005"
+}

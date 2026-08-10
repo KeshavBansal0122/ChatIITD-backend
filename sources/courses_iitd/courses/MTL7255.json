@@ -1,0 +1,22 @@
+{
+  "code": "MTL7255",
+  "name": "Algebraic Curves",
+  "description": "Plane curves: historical context and classical examples; Affine space and projective space, Zariski topology, coordinate rings, projective space, homogenization; Morphisms between varieties, rational maps, birational equivalence; Function fields, birational isomorphism; Derivations, Jacobians, smooth points, singular points; Local rings, completions, formal local parameters; Multiplicities, intersections of plane curves, B\u00e9zout&#039;s theorem; Divisors, principal divisors, linear equivalence, degree; Linear systems, dimension of divisor spaces; Statement of Riemann-Roch. Canonical divisors, genus, Elliptic curve, applications of Riemann-Roch.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "MTL2005&MTL3107",
+  "overlap": null,
+  "learning_outcomes": [
+    "Algebraic Curves | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Algebraic Curves"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/algebraic-curves",
+  "slug": "algebraic-curves"
+}

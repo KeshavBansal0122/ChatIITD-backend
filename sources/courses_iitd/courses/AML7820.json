@@ -1,0 +1,22 @@
+{
+  "code": "AML7820",
+  "name": "Uncertainty Quantification and Propagation",
+  "description": "Need for UQ in computational mechanics, types of uncertainty and errors, review of fundamentals of probability, random processes and statistics, representation of random inputs, Bayesian parameter identification techniques, uncertainty propagation in models, model-form uncertainty, surrogate models for uncertainty propagation, sensitivity analysis.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(AML2050/MTL2008/MTL2006)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Uncertainty Quantification and Propagation | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Uncertainty Quantification and Propagation"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/uncertainty-quantification-and-propagation",
+  "slug": "uncertainty-quantification-and-propagation"
+}

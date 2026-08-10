@@ -1,0 +1,22 @@
+{
+  "code": "MLL2003",
+  "name": "Introduction to Polymeric Materials",
+  "description": "Different classes of polymers and their nomenclature, molecular weights, their significance and methods for their determination; glass transition temperature, crystallinity, and morphology; condensation and addition polymerization, kinetics and reactivity ratios; polymerization methods-bulk, solution, suspension and emulsion, inorganic polymers, commodity plastics and engineering polymers, sustainability aspects and recycling of polymers.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Polymeric Materials | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Polymeric Materials"
+  ],
+  "department": "Structure and Properties of Fibres",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-polymeric-materials",
+  "slug": "introduction-polymeric-materials"
+}

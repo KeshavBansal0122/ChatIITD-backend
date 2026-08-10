@@ -1,0 +1,16 @@
+{
+  "code": "MEP7003",
+  "name": "Research Communication",
+  "description": "The course will have some interactive sessions on topics such as role of research communication in advancing and dissemination of knowledge, principles of effective communication, communication channels, research writing (scientific papers, research proposals, project reports etc.), oral presentations on research, presentation skills and different types of audiences, data visualization and presentation, and public engagement. The course will also have practical exercises and assignments on writing scientific papers and reviews on published literature, and oral presentations on suitable topics. The assessment will be based on the presentations, assignments, participation in the class room interactions, and attendance.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEP7003"
+}

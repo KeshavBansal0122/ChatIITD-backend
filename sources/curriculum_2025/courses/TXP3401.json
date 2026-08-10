@@ -1,0 +1,16 @@
+{
+  "code": "TXP3401",
+  "name": "Textile Printing and Finishing Lab",
+  "description": "This course covers practical aspects of textile printing and finishing. It includes screen printing techniques using reactive, disperse, acid, pigment, resist, and discharge styles on natural and synthetic fabrics. Experiments are designed to find influence of processing parameters such as pH, water hardness, and thickener properties on print paste viscosity. Finishing techniques such as softening, stiffening, crease recovery (formaldehyde and non-formaldehyde systems), flame retardancy, biopolishing, milling of wool, and rot-proofing of cotton.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXP3401"
+}

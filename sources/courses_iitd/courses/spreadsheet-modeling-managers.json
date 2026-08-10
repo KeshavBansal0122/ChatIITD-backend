@@ -1,0 +1,22 @@
+{
+  "code": "MSL7304",
+  "name": "Spreadsheet modeling for managers",
+  "description": "This course develops managerial competence in spreadsheet modelling for data-driven decision-making. Students learn to apply core Excel functions, logical tools, and structured model design to translate business problems into quantitative frameworks. The course covers sensitivity analysis, scenario planning, optimization using Solver, simulation, forecasting, and dashboard development. Emphasis is placed on transparency, auditability, and effective communication of insights to executives. A dedicated module introduces AI Copilot in Excel, focusing on formula generation, model refinement, and automated insight extraction, while critically evaluating its limitations, governance risks, and ethical implications in managerial and organizational decision contexts.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Spreadsheet modeling for managers | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Spreadsheet modeling for managers"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/spreadsheet-modeling-managers",
+  "slug": "spreadsheet-modeling-managers"
+}

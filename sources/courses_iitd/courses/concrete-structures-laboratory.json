@@ -1,0 +1,22 @@
+{
+  "code": "CVP7421",
+  "name": "Concrete Structures Laboratory",
+  "description": "Testing of constituent materials of concrete \u2013 cement, aggregates; concrete mix design; fresh concrete tests \u2013 slump test, compaction factor test, Vee-bee test; hardened concrete tests \u2013 compression, flexure, direct tension, reinforcement testing \u2013 tension, bending, bond; element testing, under reinforced beam, over reinforced beam, beam w/o shear reinforcement, beam for torsion, slab subjected to concentrated load, column subjected to eccentric and concentric load; non-destructive testing\u2013 rebound hammer, ultrasonic pulse velocity.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Concrete Structures Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Concrete Structures Laboratory"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/concrete-structures-laboratory",
+  "slug": "concrete-structures-laboratory"
+}

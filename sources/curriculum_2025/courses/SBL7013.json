@@ -1,0 +1,16 @@
+{
+  "code": "SBL7013",
+  "name": "Introduction to Structural Biology",
+  "description": "Introduction to 3D structures of biomolecules; protein production for crystallography, cryoelectron microscopy and NMR; protein engineering methods for structural biology applications; crystallization of proteins, data collection and phasing; cryoelectron microscopy data collection, 2D to 3D reconstruction; structure refinement; solution structure determination; assignment of electron density; application of hybrid methods; estimating resolution; in situ structural biology using electron tomography; application of structural biology in therapeutics development, structure guided drug discovery.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBL7013"
+}

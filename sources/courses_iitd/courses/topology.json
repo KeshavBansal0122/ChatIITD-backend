@@ -1,0 +1,21 @@
+{
+  "code": "MTL3107",
+  "name": "Topology",
+  "description": "Topological spaces: definitions and examples, basis and subbasis for a topology, limit points, closure, interior; continuous functions, homeomorphisms; subspace topology, metric topology, product and box topology, order topology; quotient spaces. Connectedness and compactness: connectedness, path connectedness; connected subspaces of the real line; components and local connectedness; compact spaces, limit point compactness, sequential compactness; local compactness, one point compactification; Tychonoff theorem (without proof), characterizations of compact metric spaces. Countability axioms: first countable spaces, second countable spaces, separable spaces, Lindeloff spaces. Separation axioms: Hausdorff, regular and normal spaces; Urysohn\u2019s lemma (without proof), Urysohn\u2019s metrization theorem (without proof), tietze extension theorem (without proof), and their applications. Completely metrizable spaces, Baire\u2019s category theorem.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Topology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/topology",
+  "slug": "topology"
+}

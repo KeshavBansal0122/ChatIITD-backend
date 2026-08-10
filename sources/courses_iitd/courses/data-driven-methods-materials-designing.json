@@ -1,0 +1,22 @@
+{
+  "code": "MLL7302",
+  "name": "Data Driven Methods for Materials Designing",
+  "description": "Overview of materials informatics and applications in materials; introduction to machine learning: regression models for property prediction; classification and clustering for materials discovery; advanced ML techniques: neural networks and deep learning in materials science; materials-specific databases and simulation integration: integration of data science with materials simulations; AI and automation in materials research: high-throughput computational screening; AI in experimental materials science; case studies and future trends; practical: data handling; building a regression and classification models; training NN; feature engineering; integrating ML with DFT simulations; high-throughput screening.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(",
+  "overlap": null,
+  "learning_outcomes": [
+    "Data Driven Methods for Materials Designing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Data Driven Methods for Materials Designing"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/data-driven-methods-materials-designing",
+  "slug": "data-driven-methods-materials-designing"
+}

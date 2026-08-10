@@ -1,0 +1,16 @@
+{
+  "code": "CRP7023",
+  "name": "Fabrication Techniques for RF and Microwave Devices",
+  "description": "Concept of process flow in IC fabrication, representative process flow for diode/MOSFET and test structures. High temperature processes: oxidation, diffusion, and annealing. Use of masks in IC fabrication, mask design and fabrication, photolithography processes. Chemical etching processes: dry and wet etching. Vacuum and vacuum systems. Thin films in IC processing, resistive evaporation, e-beam, RF and DC sputtering processes. Concept of test chip design and process parameter extraction. Practical: vacuum system, thermal evaporation, DC/RF puttering, mask making techniques: direct lithography, photolithography process, etching techniques, oxidation/diffusion processes, diode fabrication, fabricated test structures and device measurement: C-V, I-V.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CR#CRP7023"
+}

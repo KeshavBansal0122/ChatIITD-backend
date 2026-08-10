@@ -1,0 +1,16 @@
+{
+  "code": "VEL7100",
+  "name": "Human Values and Technology",
+  "description": "Achievements and detriments of modern technology; modern technology and materialistic worldview; understanding happiness: material pleasures, happiness of achievements, putting a smile on another one's face. Understanding unhappiness. Relationship to one's strengths and weaknesses; working towards cultivating strengths and removing weaknesses; methods of self-development; implications to practical life in individual, societal, environmental, technological spheres.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "VE",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=VE#VEL7100"
+}

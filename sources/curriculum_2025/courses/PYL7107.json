@@ -1,0 +1,16 @@
+{
+  "code": "PYL7107",
+  "name": "Characterisation Techniques for Materials",
+  "description": "Introduction to structure property correlation in materials, basic crystallography, k-space, X-ray diffraction, rietveld refinement method and its fundamentals, transmission electron microscopy in patterns, microstructural investigations using scanning electron microscope and transmission electron microscopes, selected area diffraction, Raman and micro Raman spectroscopy, photoluminescence and UV-visible spectroscopy, material compositional analysis using energy dispersive x-ray (EDX) and electron probe micro analysis (EPMA), X-ray photoemission spectroscopy (XPS), scanning probe microscopy and related techniques, Fourier transform infra red spectroscopy (FTIR), cathodoluminesence, electronic properties of materials correlation with physical property measurements - resistivity in metals and alloys, van der Pauw method, magnetic properties of materials-measurements using SQUID magnetometer.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL7107"
+}

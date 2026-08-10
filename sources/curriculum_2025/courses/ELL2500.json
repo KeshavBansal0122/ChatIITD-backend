@@ -1,0 +1,16 @@
+{
+  "code": "ELL2500",
+  "name": "Electromechanical Energy Conversion",
+  "description": "Review: AC Circuits, Complex representation and Power Measurement. \r\nMagnetic Circuits: Simple magnetic circuit, analogy between magnetic circuits and electrical circuits, linear and nonlinear magnetic circuits, hysteresis and eddy current losses, permanent magnet materials. \r\nTransformers: Single-phase and three-phase, analysis, equivalent circuit, Tests on transformers, phasor diagram regulation and efficiency, auto-transformer and instrument transformers (PT/CT). \r\nElectro-mechanical energy conversion principles: Force and EMF production in a rotating machine. DC machines: Types, construction, working principle, characteristics and applications. \r\n3-phase induction machines: Types, construction, production of revolving magnetic field, working principle on 3-phase induction machine, equivalent circuit, characteristics, phasor diagram and applications. \r\n3-phase synchronous machines: Types, construction, working principle, equivalent circuit, characteristics, phasor diagram and applications. \r\nSingle phase induction motor, BLDC and PMSM",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL2500"
+}

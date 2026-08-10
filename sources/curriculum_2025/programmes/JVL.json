@@ -1,0 +1,535 @@
+{
+  "code": "JVL",
+  "name": "M.Tech. in VLSI Design Tools and Technology",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=JVL",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 25.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Students will acquire advanced knowledge and hands-on expertise in the areas of either integrated circuits or microelectronics or intelligent systems and tools to analyse as well as to solve complex problems in the relevant areas."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Students will be able to design solutions for industry-driven problems in the semiconductor and in thrust areas identified by different govt. Initiatives."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Students will be able to effectively communicate their ideas to the society in the form of technical/scientific reports and impactful presentations, work independently as well as in multidisciplinary teams."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "ELL7000",
+        "title": "Professional Ethics in Electrical Engineering",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "ELL7301",
+        "title": "Digital CMOS VLSI Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7302",
+        "title": "Semiconductor Microelectronics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELP7301",
+        "title": "VLSI Design Lab - I",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "JVD7000",
+        "title": "Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "JVD7003",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "JVD8301",
+        "title": "Master in Technology Project - I",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "30"
+        },
+        "credits": "15"
+      },
+      {
+        "course_code": "JVD8302",
+        "title": "Master in Technology Project - II",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "JVN7000",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "JVT7000",
+        "title": "Internship",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "BSP7010",
+        "title": "Communication and Signal Processing Technologies Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "1",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8412",
+        "title": "System Level Design and Modelling",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7071",
+        "title": "Microelectronics Packaging and Integration",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRL7525",
+        "title": "Advanced Memory Technologies",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CRP7023",
+        "title": "Fabrication Techniques for RF and Microwave Devices",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7281",
+        "title": "Software Fundamentals of Computing and Intelligent Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7282",
+        "title": "Application-Specific Computer Architectures",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7283",
+        "title": "Embedded Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7285",
+        "title": "Machine Learning and Optimization",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7286",
+        "title": "Introduction to Machine Learning",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7303",
+        "title": "Semiconductor Device Technology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7304",
+        "title": "Analog Circuit Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7305",
+        "title": "Analog IC Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7308",
+        "title": "Electronic Measurements",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "ELL7314",
+        "title": "VLSI Data Conversion Circuit Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7315",
+        "title": "Power Management IC Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7320",
+        "title": "Fundamentals of Microelectronic Device and Systems Packaging",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7325",
+        "title": "Introduction to Sensors Technology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7332",
+        "title": "Introduction to MEMS Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7342",
+        "title": "SPICE-PDK Compact Device Models for Silicon IC Design Simulations",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ELL7349",
+        "title": "Semiconductor Memory Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7355",
+        "title": "Frequency Synthesizer IC Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7380",
+        "title": "Micro- and Nano- Photonics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7420",
+        "title": "Advanced Digital Signal Processing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL8284",
+        "title": "Natural Language Processing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL8320",
+        "title": "Special Topics in IEC I",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL8333",
+        "title": "CMOS RF IC Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELP7302",
+        "title": "VLSI Design Lab - II",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELP7342",
+        "title": "On-Wafer Device Characterization Laboratory.",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "ELL7301",
+        "title": "Digital CMOS VLSI Design",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ELP7301",
+        "title": "VLSI Design Lab - I",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ELL7000",
+        "title": "Professional Ethics in Electrical Engineering",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "JVN7000",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "JVD7003",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ELL7302",
+        "title": "Semiconductor Microelectronics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "JVN7000",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "JVD7000",
+        "title": "Minor Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "JVN7000",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "JVD8301",
+        "title": "Master in Technology Project - I",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 30.0
+        },
+        "credits": 15.0
+      }
+    ]
+  },
+  "raw_text_preview": "JVL \u2013 M.Tech. in VLSI Design Tools and Technology\nM.Tech. in VLSI Design Tools and Technology\nProgramme Code: JVL\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n25\nPE (Programme Elective)\n30\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n61\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nStudents will acquire advanced knowledge and hands-on expertise in the areas of either integrated circuits or microelectronics or intelligent systems and tools to analyse as well as to solve complex problems in the relevant areas.\nPLO 2\nStudents will be able to design solutions for industry-driven problems in the semiconductor and in thrust areas identified by different govt. Initiatives.\nPLO 3\nStudents will be able to effectively communicate their ideas to the society in the form of technical/scientific reports and impactful presentations, work independently as well as in multidisciplinary teams.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nELL7000 Professional Ethics in Electrical Engineering 1 0 0 1\nELL7301 Digital CMOS VLSI Design 3 0 0 3\nELL7302 Semiconductor Microelectronics 3 0 0 3\nELP7301 VLSI Design Lab - I 0 0 6 3\nJVD7000 Minor Project 0 0 6 3\nJVD7003 Cornerstone Project 0 0 6 3\nJVD8301 Master in Technology Project - I 0 0 30 15\nJVD8302 Master in Technology Project - II \u2013 \u2013 \u2013 \u2013\nJVN7000 Teaching/Research Practicum 0 0 8 4\nJVT7000 Internship 0 0 6 3\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nBSP7010 Communication and Signal Processing Technologies Laboratory 0 1 4 3\nCOL8412 System Level Design and Modelling 3 0 0 3\nCRL7071 Microelectronics Packaging and Integration 3 0 0 3\nCRL7525 Advanced Memory Technologies 3 0 0 3\nCRP7023 Fabrication Techniques for RF and Microwave Devices 1 0 4 3\nELL7281 Software Fundamentals of Computing and Intelligent Systems 3 0 0 3\nELL7282 Application-Specific Computer Architectures 3 0 0 3\nELL7283 Embedded Systems 3 0 0 3\nELL7285 Machine Learning and Optimization 3 0 0 3\nELL7286 Introduction to Machine Learning 3 0 0 3\nELL7303 Semiconductor Device Technology 3 0 0 3\nELL7304 Analog Circuit Design 3 0 0 3\nELL7305 Analog IC Design 3 0 0 3\nELL7308 Electronic Measurements 1 0 2 2\nELL7314 VLSI Data Conversion Circuit Design 3 0 0 3\nELL7315 Power Management IC Design 3 0 0 3\nELL7320 Fundamentals of Microelectronic Device and Systems Packaging 3 0 0 3\nELL7325 Introduction to Sensors Technology 3 0 0 3\nELL7332 Introduction to MEMS Design 3 0 0 3\nELL7342 SPICE-PDK Compact Device Models for Silicon IC Design Simulations 3 0 2 4\nELL7349 Semiconductor Memory Design 3 0 0 3\nELL7355 Frequency Synthesizer IC Design 3 0 0 3\nELL7380 Micro- and Nano- Photonics 3 0 0 3\nELL7420 Advanced Digital Signal Processing 3 0 0 3\nELL8284 Natural Language Processing 3 0 0 3\nELL8320 Special Topics in IEC I 3 0 0 3\nELL8333 CMOS RF IC Design 3 0 0 3\nELP7302 VLSI Design Lab - II 0 0 6 3\nELP7342 On-Wafer Device Characterization Laboratory. 0 0 6 3\nSemester-wise Schedule\nSem"
+}

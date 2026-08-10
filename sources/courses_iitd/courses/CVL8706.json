@@ -1,0 +1,22 @@
+{
+  "code": "CVL8706",
+  "name": "Hazardous Waste Characterization and Treatment",
+  "description": "Comprehensive instruction in hazardous waste management, integrating foundational and advanced topics; definitions, classification, and characterization of hazardous wastes; risk assessment; and environmental legislation; site assessment, safe handling, proper storage, transportation, and disposal techniques, covering chemical, physical, and biological treatment methods; groundwater contamination, landfill design, and resource recovery strategies; emerging trends such as artificial intelligence, biomethanation, and pyrolysis ensuring a modern, holistic approach to sustainable waste minimization and environmental protection.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Hazardous Waste Characterization and Treatment | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Hazardous Waste Characterization and Treatment"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/hazardous-waste-characterization-and-treatment",
+  "slug": "hazardous-waste-characterization-and-treatment"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CVL8814",
+  "name": "Climate Resilient Design and Management in Water Resources",
+  "description": "Climate variability and change, observed historical trends, future projections, downscaling, and bias correction of climate data for water resources applications. Hydrological impacts of climate change, changes in precipitation, temperature, and evapotranspiration patterns. Climate elasticity, shifts in water availability, seasonality. Droughts and floods under changing climate, risk and vulnerability assessment. Introduction to climate-resilient water infrastructures, urban and rural water systems, nature-based solutions, climate-smart reservoir management, and integrated water resources management under climate uncertainty, climate change uncertainty quantification. Climate change impact and adaptation modeling using hydrological models and system dynamics models, decision-making under uncertainty.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Climate Resilient Design and Management in Water Resources | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Climate Resilient Design and Management in Water Resources"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/climate-resilient-design-and-management-water-resources",
+  "slug": "climate-resilient-design-and-management-water-resources"
+}

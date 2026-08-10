@@ -1,0 +1,22 @@
+{
+  "code": "CVL7469",
+  "name": "Design of Masonry Structures",
+  "description": "Introduction and historical perspective; masonry materials; masonry design approaches; overview of load conditions; compression behavior of masonry; masonry wall configurations; distribution of lateral forces; Flexural strength of reinforced masonry members: in-plane and out-of-plane loading, interactions; structural wall; columns and pilasters; retaining wall; pier and foundation; shear strength and ductility of reinforced masonry members; prestressed masonry; stability of walls; coupling of masonry walls, openings, columns, beams; elastic and inelastic analysis; modelling techniques; static push-over analysis and use of capacity design spectra.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Design of Masonry Structures | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Design of Masonry Structures"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/design-masonry-structures",
+  "slug": "design-masonry-structures"
+}

@@ -1,0 +1,589 @@
+{
+  "code": "BLS",
+  "name": "M.Sc. in Biological Sciences",
+  "generation": "2025",
+  "degree_type": "msc",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=BLS",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 64.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Able to balance understanding of classical concepts in biology with expertise on modern methods in quantitative biology"
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Able to comprehend, synthesize and communicate scientific concepts and research findings effectively"
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Capable of employment in the modern biotechnology market as well as pursue research in experimental and computational biology"
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "Able to apply knowledge, skills and modern tools of biotechnology to do work in the frontier areas of interdisciplinary biological sciences"
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "SBD6001",
+        "title": "Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "12"
+        },
+        "credits": "6"
+      },
+      {
+        "course_code": "SBD6002",
+        "title": "MSc Project/Internship",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "SBL5000",
+        "title": "Molecular Cell Biology &amp; Genetics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SBL5010",
+        "title": "Mathematical and Statistical Biology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SBL5020",
+        "title": "Biochemistry",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SBL5030",
+        "title": "Biology of Microbes",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SBL5040",
+        "title": "Experimental Methods in Biology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SBL6000",
+        "title": "Computational Biology and Data Analyses",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SBL6010",
+        "title": "Genetic Engineering and Biotechnology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SBL6020",
+        "title": "Immunobiology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SBL6030",
+        "title": "Cellular Biology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SBL6040",
+        "title": "Biological Pathways",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SBQ6001",
+        "title": "Seminars in Modern Biology",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "SBV6001",
+        "title": "Intellectual Property Rights in Biosciences",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "SBL7001",
+        "title": "Biometry",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SBL7002",
+        "title": "Systems Biology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SBL7004",
+        "title": "Human Virology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SBL7005",
+        "title": "Biology of Proteins",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SBL7006",
+        "title": "Biologics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SBL7008",
+        "title": "Epigenetics in Human Health and Disease",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SBL7010",
+        "title": "Chemical Biology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SBL7013",
+        "title": "Introduction to Structural Biology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SBL7020",
+        "title": "Genome and Healthcare",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SBL7021",
+        "title": "Techniques in Biomolecular Interactions",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SBL7022",
+        "title": "Stem Cells Biology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SBL7023",
+        "title": "Principles of Neural Excitability and Communication",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SBL7024",
+        "title": "Decoding Protein Modifications in Biology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SBL7029",
+        "title": "Emerging Trends in Tumor Biology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SBL7030",
+        "title": "Modern Trends in Drug Development",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SBL7032",
+        "title": "Concepts in 3-Dimension Cell Culture",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SBL7033",
+        "title": "Introduction and Techniques: Immunometabolism",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SBL7039",
+        "title": "Artificial Organs and Regenerative Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SBL7041",
+        "title": "Immunotherapy",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SBV7050",
+        "title": "Bioinspiration and Biomimetics",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "SBV8082",
+        "title": "Biological Membranes",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "SBV8084",
+        "title": "Elements of Neuroscience",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "SBV8094",
+        "title": "Current Methods in Mammalian Genetics",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "SBV8096",
+        "title": "Single Molecule Biophysics",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "SBV8098",
+        "title": "Techniques in Mammalian Cell Culture",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "SBV8100",
+        "title": "Nanomaterials in Biology",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "SBL5000",
+        "title": "Molecular Cell Biology &amp; Genetics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "SBL5010",
+        "title": "Mathematical and Statistical Biology",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "SBL5020",
+        "title": "Biochemistry",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "SBL5030",
+        "title": "Biology of Microbes",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "SBL5040",
+        "title": "Experimental Methods in Biology",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "SBL6000",
+        "title": "Computational Biology and Data Analyses",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "SBL6010",
+        "title": "Genetic Engineering and Biotechnology",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "SBL6020",
+        "title": "Immunobiology",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "SBL6030",
+        "title": "Cellular Biology",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "SBL6040",
+        "title": "Biological Pathways",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "SBV6001",
+        "title": "Intellectual Property Rights in Biosciences",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "SBD6001",
+        "title": "Minor Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 12.0
+        },
+        "credits": 6.0
+      },
+      {
+        "course_code": "SBQ6001",
+        "title": "Seminars in Modern Biology",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "SBD6002",
+        "title": "MSc Project/Internship",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 34.0
+        },
+        "credits": 17.0
+      }
+    ]
+  },
+  "raw_text_preview": "BLS \u2013 M.Sc. in Biological Sciences\nM.Sc. in Biological Sciences\nBiological Sciences, Kusuma School of\nProgramme Code: BLS\nM.Sc.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n64\nPE (Programme Elective)\n6\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n76\nNon-Graded Units (NGU) Units\nSeminar\n1\nTotal Non-Graded Units\n1\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nAble to balance understanding of classical concepts in biology with expertise on modern methods in quantitative biology\nPLO 2\nAble to comprehend, synthesize and communicate scientific concepts and research findings effectively\nPLO 3\nCapable of employment in the modern biotechnology market as well as pursue research in experimental and computational biology\nPLO 4\nAble to apply knowledge, skills and modern tools of biotechnology to do work in the frontier areas of interdisciplinary biological sciences\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nSBD6001 Minor Project 0 0 12 6\nSBD6002 MSc Project/Internship \u2013 \u2013 \u2013 \u2013\nSBL5000 Molecular Cell Biology &amp; Genetics 3 0 2 4\nSBL5010 Mathematical and Statistical Biology 3 0 2 4\nSBL5020 Biochemistry 3 0 2 4\nSBL5030 Biology of Microbes 3 0 2 4\nSBL5040 Experimental Methods in Biology 3 0 2 4\nSBL6000 Computational Biology and Data Analyses 1 0 6 4\nSBL6010 Genetic Engineering and Biotechnology 3 0 2 4\nSBL6020 Immunobiology 3 0 2 4\nSBL6030 Cellular Biology 3 0 2 4\nSBL6040 Biological Pathways 3 0 2 4\nSBQ6001 Seminars in Modern Biology 0 1 0 1\nSBV6001 Intellectual Property Rights in Biosciences 1 0 0 1\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nSBL7001 Biometry 3 0 0 3\nSBL7002 Systems Biology 3 0 0 3\nSBL7004 Human Virology 3 0 0 3\nSBL7005 Biology of Proteins 3 0 0 3\nSBL7006 Biologics 3 0 0 3\nSBL7008 Epigenetics in Human Health and Disease 3 0 0 3\nSBL7010 Chemical Biology 3 0 0 3\nSBL7013 Introduction to Structural Biology 3 0 0 3\nSBL7020 Genome and Healthcare 3 0 0 3\nSBL7021 Techniques in Biomolecular Interactions 3 0 0 3\nSBL7022 Stem Cells Biology 3 0 0 3\nSBL7023 Principles of Neural Excitability and Communication 3 0 0 3\nSBL7024 Decoding Protein Modifications in Biology 3 0 0 3\nSBL7029 Emerging Trends in Tumor Biology 3 0 0 3\nSBL7030 Modern Trends in Drug Development 3 0 0 3\nSBL7032 Concepts in 3-Dimension Cell Culture 3 0 0 3\nSBL7033 Introduction and Techniques: Immunometabolism 3 0 0 3\nSBL7039 Artificial Organs and Regenerative Engineering 3 0 0 3\nSBL7041 Immunotherapy 3 0 0 3\nSBV7050 Bioinspiration and Biomimetics 1 0 0 1\nSBV8082 Biological Membranes 1 0 0 1\nSBV8084 Elements of Neuroscience 1 0 0 1"
+}

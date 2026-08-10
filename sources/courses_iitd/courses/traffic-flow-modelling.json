@@ -1,0 +1,22 @@
+{
+  "code": "CVL8530",
+  "name": "Traffic Flow Modelling",
+  "description": "Descriptors of traffic flow: macroscopic and microscopic, time, space and generalized measurement regions. Cumulative plots. Traffic flow models - general classification and typology. Macroscopic flow models - continuity equation, LWR model, higher order models, numerical schema, mesoscopic flow models - gas kinetic theory, microscopic and submicroscopic flow models - car following and lane changing; pipes and Forbes models; general motors-Gazis-Herman-Rothery (GHR) models, stability analysis, macro-micro bridge; modelling at junctions/intersections; un-signalized and signalized; roundabouts; field theory \u2013 connected and autonomous vehicle modelling; simulation - simple and complex traffic conditions.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CVL7503",
+  "overlap": null,
+  "learning_outcomes": [
+    "Traffic Flow Modelling | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Traffic Flow Modelling"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/traffic-flow-modelling",
+  "slug": "traffic-flow-modelling"
+}

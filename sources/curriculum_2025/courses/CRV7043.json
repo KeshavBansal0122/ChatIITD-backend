@@ -1,0 +1,16 @@
+{
+  "code": "CRV7043",
+  "name": "Special Module in Radio Frequency Design and Technology-II",
+  "description": "Advanced module on selected topics of relevance to the RFDT MTech program.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CR#CRV7043"
+}

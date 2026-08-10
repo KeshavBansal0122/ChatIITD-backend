@@ -1,0 +1,22 @@
+{
+  "code": "SBL7010",
+  "name": "Chemical Biology",
+  "description": "Chemical modifications of proteins, protein and nucleic acid immobilisation; the organic chemistry of biological pathways; cross linking in biomolecules; physical chemistry of proteins; fluorescent labelling of proteins and nucleic acids, sequencing of proteins and amino acids, radio labelling of proteins and nucleic acids, chemistry of glycosylation, phosphorylation, sulphonylation, methylation, of proteins and nucleic acids, non-ribosomal peptide synthesis, nano particles mediated monitoring of protein conformational transition, folding and unfolding processes; surface properties of proteins and subsequent implications in cellular processes, solubility of proteins, physical basis for biomolecular structure formation, environmental effects on structure-function of biomolecules, chemistry of enzymatic digestion of nuclotides and proteins, role of metal ions in the cellular function, metallo enzymes and their biosynthesis, hydrogen/deuterium exchange reaction and its application in monitoring biological processes, basic concept of chemical synthesis of life.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "SBP1100/SBL1102",
+  "overlap": null,
+  "learning_outcomes": [
+    "Chemical Biology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Chemical Biology"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/chemical-biology-0",
+  "slug": "chemical-biology-0"
+}

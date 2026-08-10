@@ -1,0 +1,22 @@
+{
+  "code": "CON8000",
+  "name": "Teaching Practicum in Computer Science and Engineering",
+  "description": "Students are expected to assist with teaching that includes preparing course materials, managing class activities and examination, providing support to student engagement, grading assignments. They are also expected to help with practical, tutorials, class projects (depending on the course content) and other administrative tasks related to the course and the school.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Teaching Practicum in Computer Science and Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Teaching Practicum in Computer Science and Engineering"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/teaching-practicum-computer-science-and-engineering",
+  "slug": "teaching-practicum-computer-science-and-engineering"
+}

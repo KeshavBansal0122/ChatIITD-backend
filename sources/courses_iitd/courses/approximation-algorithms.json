@@ -1,0 +1,22 @@
+{
+  "code": "COL7154",
+  "name": "Approximation Algorithms",
+  "description": "NP-hardness and approximation algorithms. Different kinds of approximability. Greedy algorithm and local search with applications in facility location, TSP and scheduling. Dynamic programming with applications in knapsack, Euclidean TSP, and bin packing. Linear programming, duality and rounding. Applications in facility location, Steiner tree and bin packing. Randomized rounding with applications. Primal-dual algorithms and applications in facility location and network design. Cuts and metrics with applications to multi-commodity flow. Semi-definite programming and applications: max-cut, graph coloring. Hardness of approximation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "MTL2042/COL2051",
+  "overlap": null,
+  "learning_outcomes": [
+    "Approximation Algorithms | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Approximation Algorithms"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/approximation-algorithms",
+  "slug": "approximation-algorithms"
+}

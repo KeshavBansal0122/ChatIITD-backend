@@ -1,0 +1,22 @@
+{
+  "code": "CHL7408",
+  "name": "Electrochemical Conversion and Storage Devices",
+  "description": "Electrochemistry, electrochemical cell, fuel cells, batteries, and supercapacitors. Lead acid battery, nickel-metal hydride (Ni-MH) rechargeable batteries, lithium-ion rechargeable batteries, liquid-redox rechargeable batteries. Electrochemical supercapacitors. Electrodialysis and reverse electrodialysis. Electrochemical hydrogen production and storage.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Electrochemical Conversion and Storage Devices | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Electrochemical Conversion and Storage Devices"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/electrochemical-conversion-and-storage-devices",
+  "slug": "electrochemical-conversion-and-storage-devices"
+}

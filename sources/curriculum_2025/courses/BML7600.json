@@ -1,0 +1,16 @@
+{
+  "code": "BML7600",
+  "name": "Biomedical Ethics, Safety and Regulatory Affairs",
+  "description": "Coursework shall introduce with the concepts of bioethics, biosafety and regulatory framework.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BM#BML7600"
+}

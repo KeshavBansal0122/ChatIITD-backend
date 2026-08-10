@@ -1,0 +1,22 @@
+{
+  "code": "MLL1001",
+  "name": "Introduction to Materials Science and Engineering",
+  "description": "Structure of solids: atomic and inter-atomic bonding, crystal structure and imperfection in solids. Properties of materials: mechanical, chemical, electrical and magnetic properties of metals, ceramics and polymers. Processing of materials: thermodynamics basics, phase diagrams and phase transformation of metallic systems, fabrication and processing of metals, polymers and ceramics. Performance of materials: creep, fatigue, failure and corrosion of metals, ceramics (including cement and concrete), polymers, and composites (including fiber reinforced structure, sandwich panels, and wood). Selection of material: selection of materials for various applications, materials selection charges, CSE software, example case studies such as materials for large astronomical telescopes, springs, flywheels, safe pressure vessels and reactors. Laboratory: the behavior of different type of materials (for example metals, ceramics, composites, polymers) will be studied through carefully designed experiments. The fundamentals of structure and properties of various materials will be communicated through hands on experiments and model demonstration.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Materials Science and Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Materials Science and Engineering"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-materials-science-and-engineering",
+  "slug": "introduction-materials-science-and-engineering"
+}

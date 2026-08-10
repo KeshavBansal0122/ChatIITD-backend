@@ -1,0 +1,22 @@
+{
+  "code": "TXL4301",
+  "name": "Mechanics and Generative Design of Fabrics",
+  "description": "Geometrical properties of fabrics, structure-property relationships, flexible and rigid thread models of woven fabric geometry, uniaxial and biaxial tensile deformations of woven fabric, mechanical (bending, compression, shear) behaviour of fabrics, tensile, bending, shear and compressional properties of fabrics; tearing, bursting, abrasion resistance, pilling resistance, drape, handle, crease, air permeability, water-vapour transmission, and thermal resistance of fabrics; introduction to the structural mechanics of knitted, braided and nonwoven fabrics, AI-driven generative design tools for the design of fabrics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "TXL2301/TXL3301",
+  "overlap": null,
+  "learning_outcomes": [
+    "Mechanics and Generative Design of Fabrics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mechanics and Generative Design of Fabrics"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mechanics-and-generative-design-fabrics",
+  "slug": "mechanics-and-generative-design-fabrics"
+}

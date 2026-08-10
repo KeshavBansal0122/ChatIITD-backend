@@ -1,0 +1,22 @@
+{
+  "code": "CVL7207",
+  "name": "Slope Stability and Retaining Structures",
+  "description": "Slope hazards and caused of failures. Factors affecting slope stability. Shear strength of soils. Infinite and finite slope stability analysis \u2013 using charts, limit equilibrium, strength reduction factor, method of slices, and other methods. Embankment/earth dams slope stability analysis \u2013 steady state seepage, phreatic line determination, end of construction and sudden drawdown. Seismic slope stability analysis and displacement estimation. Probabilistic slope stability analysis, inducing spatial variability, reliability, and risk. Slope stabilization measures. Earth pressure theories for static and earthquake loading. Design of retaining walls (gravity, cantilever, sheet piles, contiguous piling), reinforced (metal strips, geosynthetic) slopes. Soil nailing, anchors. Braced excavation. Underground structures in soils: pipes; tunnels. Tunneling techniques. Instrumentation/monitoring technologies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Slope Stability and Retaining Structures | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Slope Stability and Retaining Structures"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/slope-stability-and-retaining-structures",
+  "slug": "slope-stability-and-retaining-structures"
+}

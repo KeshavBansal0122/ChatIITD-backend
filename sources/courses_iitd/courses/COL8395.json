@@ -1,0 +1,22 @@
+{
+  "code": "COL8395",
+  "name": "Special Topics in Data Management I",
+  "description": "The course will cover advanced topics in database management, with a focus on recent research in the field and ongoing work within the department. Specific topics will be announced each time the course is offered.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "COL3362",
+  "overlap": null,
+  "learning_outcomes": [
+    "Special Topics in Data Management I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Special Topics in Data Management I"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/special-topics-data-management-i",
+  "slug": "special-topics-data-management-i"
+}

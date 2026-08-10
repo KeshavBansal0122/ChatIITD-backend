@@ -1,0 +1,22 @@
+{
+  "code": "DDP7010",
+  "name": "Human Factors in Design - 2",
+  "description": "This is the second of two sequential courses which provide an intermediate level review of the principles of human factors/ergonomics with an emphasis on design for inclusion. The course will introduce students to how human factors/ergonomics can be systematically considered and implemented in the human-technology-environment system with a focus on anthropometry, biomechanics and the design of work and workspaces. The course covers anthropometrics; biomechanics; work capacity evaluation; lifting and back injury; ergonomic seating and workspace; work-related musculoskeletal disorders; grasping; hand tool design; biological rhythms; human vibration; and design for disability and aging. Through lectures and course activities students will develop competencies in human factors and universal design for academic research and professional practice.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(DDP7002)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Human Factors in Design - 2 | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Human Factors in Design - 2"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/human-factors-design-2-0",
+  "slug": "human-factors-design-2-0"
+}

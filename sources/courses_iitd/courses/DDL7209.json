@@ -1,0 +1,22 @@
+{
+  "code": "DDL7209",
+  "name": "Design for Usability",
+  "description": "This course explores the principles of user-centered design with an emphasis on usability testing. Students will learn to design intuitive interfaces and conduct effective usability tests to evaluate user experience. Topics include usability principles, testing methodologies, prototype development, and interpreting user feedback. Through hands-on projects, participants will gain practical skills in designing for diverse user needs, testing usability in real-world scenarios, and refining interfaces based on test results. By the end, students will be equipped to create user-friendly designs backed by rigorous usability testing, enhancing product effectiveness and user satisfaction.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Design for Usability | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Design for Usability"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/design-usability",
+  "slug": "design-usability"
+}

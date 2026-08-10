@@ -1,0 +1,22 @@
+{
+  "code": "ELP3403",
+  "name": "Embedded Systems Laboratory",
+  "description": "The lab introduces students to the usage of embedded systems, their firmware, and the fundamental development tools and toolchains. It covers interfacing commercial off-the-shelf (COTS) embedded platforms with real-world sensors and actuators using various communication protocols and provides hands-on experience with firmware components such as monitors, operating systems, and device drivers.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "prereq": "(ELL1001) &(ELL1401)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Embedded Systems Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Embedded Systems Laboratory"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/embedded-systems-laboratory",
+  "slug": "embedded-systems-laboratory"
+}

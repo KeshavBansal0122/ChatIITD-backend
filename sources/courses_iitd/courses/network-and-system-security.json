@@ -1,0 +1,22 @@
+{
+  "code": "COL3565",
+  "name": "Network and System Security",
+  "description": "Cryptographic hash function, symmetric key and asymmetric key encryption and authentication, key distribution, MITM attacks, replay attacks, DoS attacks, DNSSEC, SSH, TLS, IPSec, BGP security, access control, VPN, firewall, wireless security, software bugs, buffer overflows, unsafe functions, filesystem design issues, code reuse, memory mapping, malware, operating system security, memory safety, address space layout randomization, control flow integrity, penetration testing, static and dynamic analysis, intrusion detection system, bit-flipping, side-channel attacks, trusted execution environment, hardware security, embedded system security, cloud security, blockchain, cryptocurrency, biometric security, adversarial machine learning.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(COL2034) &(COL2031)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Network and System Security | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Network and System Security"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/network-and-system-security",
+  "slug": "network-and-system-security"
+}

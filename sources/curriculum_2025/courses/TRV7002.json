@@ -1,0 +1,16 @@
+{
+  "code": "TRV7002",
+  "name": "Cost of Transportation Externalities",
+  "description": "Transport systems impose negative externalities on society. These externalities include environmental and road damage, accidents, congestion, and use of natural resources. The cost of these externalities to society is in general not reflected in the current market prices in the road transport sector. An efficient mobility model for the future must take into account the true costs of transport and its regulatory framework will need to create incentives for people to make sustainable transport choices. This course introduces the concept of transport externalities, value of travel time, methods of modelling cost of congestion, pollution and traffic injuries. Specific case studies and methods of internalizing external costs of transport systems will be discussed.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TR#TRV7002"
+}

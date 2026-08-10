@@ -1,0 +1,16 @@
+{
+  "code": "MEL7331",
+  "name": "Processing and Mechanics of Composite Materials",
+  "description": "Introduction to matrix materials - polymers, metals and ceramics, Introduction to reinforcements \u2013 fibers, flakes, particulates: macro, micro and nano, hand layup, tape layup, autoclave moulding, vacuum, bag moulding, compression moulding, resin transfer moulding, reaction injection moulding, filament winding, pultrusion, braiding, and other manufacturing variants, macromechanics of a lamina as a building block of a composite structure, stress-strain relation, strain\u2013stress relation for anisotropic material, orthotropic materials, material property matrix estimation, micromechanics of a lamina, effect of fiber volume fraction on properties, failure theories of a lamina, Laminate analysis, failure of a laminate, design principles of tailor made material systems.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL7331"
+}

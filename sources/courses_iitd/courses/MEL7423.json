@@ -1,0 +1,21 @@
+{
+  "code": "MEL7423",
+  "name": "Thermal Design",
+  "description": "Introduction to design, modelling and simulation, components and systems. Component design. Design of heat sink - single fin optimization, multiple fin array. Design of compact heat exchangers - fundamentals, shell and tube heat exchangers, plate heat exchangers, finned tube heat exchangers. Design of heat pipe - fundamentals, design procedure. System design: design of thermal systems: system identification and description with mathematical modelling: examples with power plant, refrigeration plant, HVAC systems, pump pipe network, electric space heaters, wind tunnel. Development of a numerical model, mathematical techniques, solution of non-linear equations, numerical model for a system, system simulation, methods of numerical simulation. Optimization -basic concepts, optimization of thermal systems, Lagrange multiplier, optimization of unconstrained problems, search based methods, genetic algorithm. Thermal design based on inverse methods - definition, estimation of boundary condition, conjugate gradient method.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Thermal Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/thermal-design",
+  "slug": "thermal-design"
+}

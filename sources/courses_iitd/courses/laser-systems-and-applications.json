@@ -1,0 +1,22 @@
+{
+  "code": "PYL7052",
+  "name": "Laser Systems and Applications",
+  "description": "Review of laser theory, properties of laser radiation, and laser safety; CW lasers systems, DPSS lasers, fiber lasers, gas lasers, pulsed lasers: ns, ps, fs and attosecond lasers, excimer and dye-lasers; semiconductor lasers: DH, QW, QCL, VCSEL, DFB and DBR lasers. Application of lasers in data storage, communication and information technology; laser applications in optical metrology; surface profile and dimensional measurements; laser applications in material processing and manufacturing; 3D-printing, marking, drilling, cutting, welding, hardening and manufacturing; laser doppler velocimetry, LIDAR, laser spectroscopy, LIF, LIBS, bio-medical applications of lasers, laser applications in precision agriculture, laser tweezers and applications, laser applications in defense and security.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Laser Systems and Applications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Laser Systems and Applications"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/laser-systems-and-applications",
+  "slug": "laser-systems-and-applications"
+}

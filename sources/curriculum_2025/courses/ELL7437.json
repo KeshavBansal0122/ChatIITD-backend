@@ -1,0 +1,16 @@
+{
+  "code": "ELL7437",
+  "name": "Fiber-Optic Communication Systems",
+  "description": "The optical fiber channel with its linear and nonlinear characteristics, channel multiplexing schemes - wavelength (WDM), polarization, spatial mode/multi-core fiber, OFDM etc, LED and laser diode transmitter design and characteristics, Electro-optic modulators and optical modulation schemes, PIN and APD receiver design and characteristics, receiver sensitivity and noise analysis, optical amplifiers (different types and noise analysis), digital modulation schemes and performance analysis (IM-DD, ASK, PSK, FSK, QAM etc).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7437"
+}

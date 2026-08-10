@@ -1,0 +1,16 @@
+{
+  "code": "JVN7000",
+  "name": "Teaching/Research Practicum",
+  "description": "Students are expected to assist with course teaching activities or assist in research labs. They are also expected to help with lab sessions and other administrative tasks related to the course or assist in research labs.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "J",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=J#JVN7000"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "PYL2003",
+  "name": "Classical Mechanics",
+  "description": "Beyond Newtonian mechanics with Lagrangian and Hamiltonian formalism. Application of Lagrangian formalism in central force problem, scattering problem, Hamilton-Jacobi, non-inertial frame of references and observable effects. Rigid body dynamics and examples.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Classical Mechanics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Classical Mechanics"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/classical-mechanics",
+  "slug": "classical-mechanics"
+}

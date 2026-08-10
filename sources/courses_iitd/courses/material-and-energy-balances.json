@@ -1,0 +1,22 @@
+{
+  "code": "CHL1002",
+  "name": "Material and Energy Balances",
+  "description": "Mathematical & engineering calculations, Dimensional groups and constants, Behaviour of Ideal gases, gaseous mixtures, vapour pressure, Clausius-Clapeyron equation, Cox chart, Duhring&#039;s plot, Raoult&#039;s law, Humidity and Saturation, Humid heat, Humid Volume, Dew point, Humidity chart and its use, Crystallisation, Dissolution, Material Balance; solving material balance problems with and without chemical reaction; recycle, bypass and purge calculations, aid of computer in solving material balance problems, Energy Balance: heat capacity, calculation of enthalpy changes; energy balances with chemical reaction, Heat of vaporisation, heat of formation, heat of reaction, heat of combustion; Combustion reactions",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Material and Energy Balances | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Material and Energy Balances"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/material-and-energy-balances",
+  "slug": "material-and-energy-balances"
+}

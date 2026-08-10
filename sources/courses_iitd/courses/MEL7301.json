@@ -1,0 +1,22 @@
+{
+  "code": "MEL7301",
+  "name": "Metal Forming Technology",
+  "description": "Review of fundamentals of plastic deformation and metal forming, theory of plasticity, yield criteria for isotropic and anisotropic materials, constitutive equations of flow curves for plastic deformation, advanced material models incorporating effect of strain, strain rate and temperature, analysis of important bulk forming processes, upper and lower bound methods, analysis of sheet metal forming processes, formability of sheet metals, applications of FE analysis in metal forming, advanced processes such as hot stamping, hydroforming and incremental forming, die design and equipment for metal forming, environment friendly lubricants, energy efficient forming processes.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Metal Forming Technology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Metal Forming Technology"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/metal-forming-technology",
+  "slug": "metal-forming-technology"
+}

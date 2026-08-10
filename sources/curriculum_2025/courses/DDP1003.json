@@ -1,0 +1,16 @@
+{
+  "code": "DDP1003",
+  "name": "Form and Material Exploration",
+  "description": "Introduction to a wide range of physical manifestations used throughout a design process to simulate different aspects of a product\u2019s appearance and function before it is produced. Understanding the appropriate use of mock-ups, models and prototypes at certain unique stages of the design process. Learning model making as a step-by-step method of producing models. Learning to work with linear and volumetric materials as appropriate aesthetic, formal and material simulations.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DD#DDP1003"
+}

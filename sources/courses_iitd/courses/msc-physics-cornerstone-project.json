@@ -1,0 +1,22 @@
+{
+  "code": "PYD6063",
+  "name": "MSc Physics Cornerstone Project",
+  "description": "A team of students (minimum 4) carries out an intensive design, modelling project under the guidance of any faculty member of physics department or any other department with in IIT Delhi. The cornerstone project should be different from the major project-1 (PYL6065) and should involve some design or modelling aspect. The students will get theoretical understanding of the problem, apply those techniques to design or model innovative solutions.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "MSc Physics Cornerstone Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "MSc Physics Cornerstone Project"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/msc-physics-cornerstone-project",
+  "slug": "msc-physics-cornerstone-project"
+}

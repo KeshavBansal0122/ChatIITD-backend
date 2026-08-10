@@ -1,0 +1,21 @@
+{
+  "code": "MEL7117",
+  "name": "Quality Systems",
+  "description": "Introduction to quality systems through approaches proposed by Juran, Deming, Baldridge, Taguchi, Crossby etc., quality costs, requirements analysis using methods like Kano\u2019s analysis, requirement mapping using QFD, product and process analysis using design and process FMEA, robust design and process improvement using online and offline methods for design and analysis of experiments, Shainin\u2019s tools for variability reduction, process capability analysis and loss functions, statistical tolerancing, design of control charts and acceptance sampling plans, quality standards like IS0 9000, ISO 14000, CMMI etc.; service quality models and service blueprints and service FMEA, case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Quality Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/quality-systems",
+  "slug": "quality-systems"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "HSN5002",
+  "name": "Writing Workshop",
+  "description": "Study of different genres and styles of presentation of content; the building blocks of writing (sentence structure, paragraph building); exercises using samples to observe and reconstruct the structure of academic writing (paraphrasing, quoting, citing); exercises to build a long report through the preparation of proposal, title, abstract, main body (including introduction, sections, conclusion); exercises to prepare annotated bibliography, literature review.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 1.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Writing Workshop | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Writing Workshop"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/writing-workshop",
+  "slug": "writing-workshop"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "ELL8415",
+  "name": "MIMO Wireless Communication",
+  "description": "Introduction to diversity in space, time, and frequency; Fading channel models; SIMO, MISO, and MIMO channels; MIMO information theory; Receive diversity and diversity combining techniques: Maximal-ratio combining (MRC), equal-gain combining (EGC), selection combining (SC),\r\nhybrid selection/maximal-ratio combining (H-S/MRC), generalized selection combining (GSC), postdetection EGC; Error performance evaluation; Transmit diversity and space-time block codes (STBCs); Linear STBC design; Differential coding for MIMO, precoding, multiuser MIMO; Fully and partially noncoherent multi-antenna systems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL8415"
+}

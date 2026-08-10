@@ -1,0 +1,16 @@
+{
+  "code": "CHL7006",
+  "name": "Advanced Transport Phenomena",
+  "description": "Tensor algebra and calculus; review of fluid kinematics; conservation laws and constitutive equations. Solution methods for equations of change (for example, unsteady fluid flow in bounded/unbounded geometries); unsteady heat and mass transport. Creeping flow and drag force in flow around suspended particles. Lubrication approximation. Surface tension driven flows and multiphase flows. Perturbation techniques in transport processes. Potential flow; boundary layer theory. Coupled transport processes-- forced convection heat and mass transport in confined/unconfined flows. Flow instabilities. Turbulence modeling.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CH",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CH#CHL7006"
+}

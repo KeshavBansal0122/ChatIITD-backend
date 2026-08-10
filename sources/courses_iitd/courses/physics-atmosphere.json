@@ -1,0 +1,22 @@
+{
+  "code": "ASL7330",
+  "name": "Physics of the Atmosphere",
+  "description": "Structure of the atmosphere; hydrostatic equilibrium, geopotential, hypsometric equation and scale height, altimetry; adiabatic processes, lapse rates, static stability, dynamic stability; atmospheric boundary layer structure and evolution, turbulence etc. Atmospheric thermodynamics: thermodynamic laws; thermodynamics of water vapor and moist air: moisture parameters, saturated adiabatic and pseudo adiabatic processes, conditional and convective instability, free and forced convection; thermodynamic diagrams; phase change and Clausius\u2010Clapeyron equation; clouds: formation and classification, precipitation; atmospheric visibility: dew, frost and fog, smog etc. The fundamental physics of radiation: solar and terrestrial radiation, radiation laws; absorption, emission and scattering in the atmosphere, Schwarzschild\u2019s equation; radiation in the earth\u2010atmosphere system: geographical and seasonal distribution, radiative heating and cooling of the atmosphere, surface energy budget, energy balance of the earth-atmosphere system.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Physics of the Atmosphere | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Physics of the Atmosphere"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/physics-atmosphere",
+  "slug": "physics-atmosphere"
+}

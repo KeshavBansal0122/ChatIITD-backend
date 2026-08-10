@@ -1,0 +1,16 @@
+{
+  "code": "HSL7910",
+  "name": "Human Learning",
+  "description": "This course will provide an introduction to how humans acquire various higher cognitive skills with a focus on early developmental years. What knowledge do human infants already have when they are born and what knowledge do they acquire? What kinds of learning mechanisms do they use in order to acquire such knowledge? The course will touch upon topics related to language development, numeracy and mathematics, reasoning and problem solving, social/cultural learning, intuitive theories, etc. The course will provide a grounding in addressing these questions from a variety of theoretical perspectives. The last leg of the course will touch upon how human learning is similar or dissimilar to the learning employed in machines that mimic human behaviour (for example, LLMs) and also how insights from human learning can be used in real world such as in teaching and interventions in learning disorders.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL7910"
+}

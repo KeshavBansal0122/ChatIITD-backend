@@ -1,0 +1,19 @@
+{
+  "code": "SPL7711",
+  "name": "Agent Based Modelling for Policy Analysis",
+  "description": "Complex adaptive systems (CAS) are hidden in plain sight \u2014 examples include cities, economies, biological cells, ecosystems, and the internet, amongst others. In such systems, the whole is much greater than the sum of its parts. Fundamental properties of these systems include randomness, self-organisation, non-linearity, and emergence. In this course, the students will apply complex-adaptive-systems thinking along with agent-based modelling, to address real-world policy problems across diverse domains of interest, such as energy, public health, agriculture, internet or others. On successful completion of the course, the students will be able to: describe and identify complexity across domains; define and explain complex adaptive systems (CAS); identify real-life examples of complex adaptive systems; define agent based modelling (ABM); choose a policy design problem; conceptualize a socio-technical system as a complex adaptive system; build an agent-based model; analyse a policy problem of your choice using the agent-based model; verify and validate your model, and communicate your findings.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/agent-based-modelling-policy-analysis",
+  "slug": "agent-based-modelling-policy-analysis"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "SPL7706",
+  "name": "Science, Technology, Innovation (STI) and Sustainable Development",
+  "description": "Sustainable development and the SDGs; historical perspective on processes of technology development to meet societal objectives; nature and dynamics of technological change; elements of innovation processes and perspectives on organizing for effective innovation (and role of key actors); case studies on role of STI in agriculture, health, energy, and environment; potential future role of STI in SD in India.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SP",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SP#SPL7706"
+}

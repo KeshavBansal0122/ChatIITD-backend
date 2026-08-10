@@ -1,0 +1,16 @@
+{
+  "code": "CHL8009",
+  "name": "Professional Ethics in Chemical Engineering",
+  "description": "Ethical foundations (moral autonomy, professional boundaries) and applied frameworks (utilitarian cost-benefit analysis, deontological safety rules). AIChE code of ethics and global regulations (registration, evaluation, authorization and restriction of chemicals (REACH) / environmental protection agency (EPA)), HAZOP-style case studies involving ethical problem-solving. Risk management (layers of protection analysis (LOPA), fault trees) and accident forensics (Bhopal, Texas city investigations). Engineers\u2019 environmental/social duties (plastic waste ethics, community impacts) and emerging challenges (AI bias in process control, carbon capture dilemmas).",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CH",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CH#CHL8009"
+}

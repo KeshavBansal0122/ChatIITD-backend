@@ -1,0 +1,22 @@
+{
+  "code": "ELP7421",
+  "name": "Telecommunication Software Laboratory",
+  "description": "CASE tools for telecom software product development and debugging, deployment tools and CI/CD, monolithic and micro-architectures, principles of network management software, hardware breakout tools for debugging telecom software.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 1.0,
+    "practical": 4.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Telecommunication Software Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Telecommunication Software Laboratory"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/telecommunication-software-laboratory",
+  "slug": "telecommunication-software-laboratory"
+}

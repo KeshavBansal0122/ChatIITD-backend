@@ -1,0 +1,22 @@
+{
+  "code": "CRL9103",
+  "name": "Low-Power VLSI Design for AI & Edge Systems",
+  "description": "Power consumption in VLSI: dynamic, static, and leakage mechanisms\nPower estimation and measurement across RTL, gate, and physical design levels\nLow-power CMOS design techniques and energy-efficient logic styles\nClocking strategies: clock gating, multi-clock domains, and power-aware timing\nPower gating, multi-Vt cells, isolation, and level shifter insertion\nLow-power RTL coding practices and architectural power optimization\nVoltage scaling, DVFS, and adaptive power management techniques\nMemory and interconnect power optimization for AI and edge workloads\nHardware\u2013software co-design for energy-efficient AI and edge systems\nCase studies and labs on low-power AI accelerators and edge VLSI designs",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Low-Power VLSI Design for AI & Edge Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Low-Power VLSI Design for AI & Edge Systems"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/low-power-vlsi-design-ai-edge-systems",
+  "slug": "low-power-vlsi-design-ai-edge-systems"
+}

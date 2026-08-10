@@ -1,0 +1,16 @@
+{
+  "code": "PYL7060",
+  "name": "Biomedical Optics and Biophotonics",
+  "description": "Light-tissue and light-biological cell interaction/light induced effects in biological systems, fluorescence spectroscopy and microscopy techniques for biomedical applications, fluorescence life time imaging and spectroscopy, basic principles of Raman spectroscopy and diagnostic applications, principles of standard optical microscopy/fluorescence microscopy/endoscopy and instrumentation. Confocal microscopy: principles, instrumentation and applications, two-photon and multi-photon microscopy. Quantitative phase microscopic techniques (QPMT): principles and applications. Optical nanoscopy: imaging beyond diffraction limit: STED, STORM and structured illumination microscopy, optical tweezers and it\u2019s applications in biology and biomedical applications of lasers. Optical coherence tomography (OCT): physics, technology, imaging concepts, image processing and applications. Photo-acoustic tomography (PAT): principles, technology, imaging concepts and applications. Biomedical image processing/recovery methods: deconvolution/ deblurring, enhancement, segmentation, iterative approaches to phase retrieval, laser applications for biomedicine, photodynamic therapy.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL7060"
+}

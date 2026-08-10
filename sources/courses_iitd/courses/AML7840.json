@@ -1,0 +1,22 @@
+{
+  "code": "AML7840",
+  "name": "Parallel and High Performance Computing for Mechanics",
+  "description": "Computer architecture basics, why HPC for mechanics?, parallel computing paradigms, Sotware tools for parallelism, data structures for CFD and FEM, performance analysis and improvements, real world applications.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(AML2020/AML2010) &COL1000&(AML7000/AML3000)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Parallel and High Performance Computing for Mechanics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Parallel and High Performance Computing for Mechanics"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/parallel-and-high-performance-computing-mechanics",
+  "slug": "parallel-and-high-performance-computing-mechanics"
+}

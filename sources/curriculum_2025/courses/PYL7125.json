@@ -1,0 +1,16 @@
+{
+  "code": "PYL7125",
+  "name": "Surface Physics and Analysis",
+  "description": "Why are surfaces interesting? Surface structure, stability and reactivity, surface crystallography, surface stress, reconstructions and relaxation, surface sensitivity, clean surface preparation, physisorption, chemisorption, Langmuir, kinematics and dynamics of surface processes, properties of interfaces, adhesion and segregation, surface diffusion, chemical shift in electronic structure, surface states, plasmons, chemical potential/work function, experimental methods for surface structure: photoemission spectroscopy (PES), inverse photoemission (IPES), angle-resolved PES, low energy electron diffraction (LEED), reflection high energy electron diffraction (RHEED), auger electron spectroscopy (AES), secondary ion mass spectroscopy (SIMS), spin-polarized scanning tunneling microscopy (STM), grazing incidence XRD, X-reflectivity (XRR), scanning electron microscope (SEM), electron energy loss spectroscopy (EELS), etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL7125"
+}

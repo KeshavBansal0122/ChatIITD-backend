@@ -1,0 +1,22 @@
+{
+  "code": "MEL7122",
+  "name": "Supply Chain Management",
+  "description": "Supply chain orientation and management, various flows in a typical supply chain, supply chain strategy \u2013 its context, components and structure, location decisions, inventory decisions, information decisions \u2013 bull whip effect and its ramifications, remedies, transportation decisions - including planning techniques, supply chain modeling and analysis, performance measurement; various frameworks including balanced score card, SCOR etc., customer service level selection and supply chain vulnerabilities, reverse logistics and decision making involved, sustainable supply chains, circular economy models, supply chain integration and web enabled supply management, block-chain technology, use of AI/ML, issues in implementation, behavioral dimensions in SCM, successful cases in supply chain.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Supply Chain Management | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Supply Chain Management"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/supply-chain-management",
+  "slug": "supply-chain-management"
+}

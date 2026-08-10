@@ -1,0 +1,22 @@
+{
+  "code": "MSL7341",
+  "name": "Economics of Digital Business",
+  "description": "Perspective of economic theories for digital business ecosystems, Economics of Digitization, Economics of Project management in IT/ITeS industries, Economics of Project Size, Resource and Deployment Models, Pricing of Information Goods, Economics of Managing Digital Supply Chain and Customer Networks, Economic Outcome of Emerging Digital Business Models (e.g. Platform and Sharing Economy, Agentic Platforms)",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Economics of Digital Business | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Economics of Digital Business"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/economics-digital-business",
+  "slug": "economics-digital-business"
+}

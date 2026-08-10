@@ -1,0 +1,22 @@
+{
+  "code": "OPP7020",
+  "name": "Photonics Laboratory - 2",
+  "description": "Experiments in all-optical modulation, spatial light modulation, quantum eraser, imaging and holography, nonlinear optics and frequency conversion.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Photonics Laboratory - 2 | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Photonics Laboratory - 2"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/photonics-laboratory-2",
+  "slug": "photonics-laboratory-2"
+}

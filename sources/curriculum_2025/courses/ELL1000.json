@@ -1,0 +1,16 @@
+{
+  "code": "ELL1000",
+  "name": "Introduction to Electrical Engineering",
+  "description": "Circuit elements, DC and AC circuits, operational amplifiers and comparators, magnetic circuits, transformers, introduction to machines/motors, 3-phase circuits, and experience with essential tools like breadboards, oscilloscopes, function generators, sensors, and microcontrollers.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 1.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL1000"
+}

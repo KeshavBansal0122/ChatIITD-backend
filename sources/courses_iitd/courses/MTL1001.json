@@ -1,0 +1,22 @@
+{
+  "code": "MTL1001",
+  "name": "Mathematics I Calculus",
+  "description": "Sequences of real numbers: real number system and its completeness property, Archimedean property, definitions of sequence and convergence, Cauchy sequence, definition of limit superior and inferior. Infinite series: series of real numbers, absolute and conditional convergence, alternating series, test for convergence: comparison, Cauchy condensation, ratio, root, Leibniz\u2019s tests. Differential calculus: limits, continuity, differentiability, mean value theorems, Taylor\u2019s theorem, Taylor\u2019s series, power series, maxima and minima. Integral calculus: definition of Riemann integral, properties, fundamental theorems, improper integrals of first and second kind, beta and gamma functions. Multivariable differential calculus: functions of several variables, limits, continuity, partial derivatives, directional derivatives, differentiability, chain rule, gradient, Taylor\u2019s theorem, maxima and minima in two variables, method of Lagrange multipliers. Multivariable integral calculus: double and triple integrals, Jacobian and change of variables, polar, spherical, and cylindrical coordinate systems, surface integrals, applications to area, volume and surface.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Mathematics I Calculus | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mathematics I Calculus"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mathematics-i-calculus",
+  "slug": "mathematics-i-calculus"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CHL7304",
+  "name": "Heterogeneous Catalysis and Catalytic Reactors",
+  "description": "Basic concepts in heterogeneous catalysis, catalyst preparation and characterization, poisoning and regeneration. Industrially important catalysts and processes such as oxidation, processing of petroleum and hydrocarbons, synthesis gas and related processes. Commercial reactors: adiabatic and multi-tubular packed beds, fluidized bed, trickle-bed, slurry reactors. Heat and mass transfer and its role in heterogeneous catalysis. Calculations of effective diffusivity and thermal conductivity of porous catalysts. Reactor modeling. Chemistry and engineering aspects of catalytic processes along with problems arising in industry. Catalyst deactivation kinetics and modeling.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL3005",
+  "overlap": null,
+  "learning_outcomes": [
+    "Heterogeneous Catalysis and Catalytic Reactors | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Heterogeneous Catalysis and Catalytic Reactors"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/heterogeneous-catalysis-and-catalytic-reactors",
+  "slug": "heterogeneous-catalysis-and-catalytic-reactors"
+}

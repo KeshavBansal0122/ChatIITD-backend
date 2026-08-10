@@ -1,0 +1,22 @@
+{
+  "code": "ELP3401",
+  "name": "Communication Systems Laboratory",
+  "description": "Laboratory experiments on analog, pulse, and basic digital modulation and demodulation techniques",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "prereq": "ELL3401",
+  "overlap": null,
+  "learning_outcomes": [
+    "Communication Systems Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Communication Systems Laboratory"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/communication-systems-laboratory",
+  "slug": "communication-systems-laboratory"
+}

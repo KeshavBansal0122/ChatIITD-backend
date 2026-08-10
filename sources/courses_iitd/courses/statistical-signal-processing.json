@@ -1,0 +1,22 @@
+{
+  "code": "ELL7410",
+  "name": "Statistical Signal Processing",
+  "description": "Properties of autocorrelation and power spectral densities, Wiener-Kintchine theorem, Spectral factorization theorem, Wolds theorem\nProperties of autocorrelation matrices of WSS processes, Properties of eigenvalue and eigenvectors of autocorrelation matrices, Cholesky decomposition \nParametric and non-parametric spectrum estimation, periodogram, and its bias and variance, the modified periodogram, Minimum variance spectral estimation, Maximum entropy spectral estimate,\nParametric spectral estimation, MA, AR and ARMA models, Harmonic process, Subspace techniques, MUSIC, ESPIRIT \nOptimum FIR Linear filtering, Properties of the optimum estimator, optimum forward and backward predictors, Optimum IIR linear filters, MMSE, \nArray Signal processing, optimum array processing, beam forming, angle estimation\nOrder recursive algorithms, Levinson Durbin algorithm, lattice filters, up-down recursions \nLeast-squares estimator, properties, square root techniques, Use of QR and SVD, Pseudo-Inverse\nAdaptive filters, Steepest descent algorithm, LMS and its performance, variants, approximate analysis of convergence, excess MSE, \nRLS and its performance, square-root RLS, Kalman Filters",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL7400",
+  "overlap": null,
+  "learning_outcomes": [
+    "Statistical Signal Processing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Statistical Signal Processing"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/statistical-signal-processing",
+  "slug": "statistical-signal-processing"
+}

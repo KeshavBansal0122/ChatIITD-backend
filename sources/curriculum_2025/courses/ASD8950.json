@@ -1,0 +1,16 @@
+{
+  "code": "ASD8950",
+  "name": "MSR Project",
+  "description": "It's a core major project for MSR students. The students will work under the supervision of faculty members.",
+  "credits": 42.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 84.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AS#ASD8950"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CML2032",
+  "name": "Basic Inorganic Chemistry",
+  "description": "This course covers an Introduction to Molecular Symmetry, Bonding in transition metal complexes, The structures of simple solids, Oxidation and Reduction Reactions, Acids and Bases, Organometallic Chemistry, s- and p-block elements , The f-block metals: lanthanoids and actinoids and Radioactivity",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CM#CML2032"
+}

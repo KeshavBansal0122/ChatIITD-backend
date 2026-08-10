@@ -1,0 +1,22 @@
+{
+  "code": "MLN8001",
+  "name": "Research Communication and Ethics in Materials Science and Engineering",
+  "description": "Foundations of scientific reasoning, literature survey techniques, and effective oral/poster research presentations.\nResearch integrity and ethics: plagiarism types, authorship practices, ethical use of AI, and responsible data/reporting methods.\nSafety awareness: hazard recognition, risk assessment, and emergency preparedness in materials research environments.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Research Communication and Ethics in Materials Science and Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Research Communication and Ethics in Materials Science and Engineering"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/research-communication-and-ethics-materials-science-and-engineering",
+  "slug": "research-communication-and-ethics-materials-science-and-engineering"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "DDL2000",
+  "name": "Ergonomics and Human Factors",
+  "description": "Introduction to ergonomics and human factors; good and bad designs; anthropometry; human errors, accidents and safety; design of displays \u2013 visual, auditory, tactile/haptic, and olfactory; design of hand tools and devices; design of controls; human control of systems; usability and user-centered design.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Ergonomics and Human Factors | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Ergonomics and Human Factors"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/ergonomics-and-human-factors",
+  "slug": "ergonomics-and-human-factors"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "PYL4111",
+  "name": "Quantum Electronics",
+  "description": "Light propagation through anisotropic media, nonlinear effects, nonlinear polarization, second harmonic generation, SFG and DFG, parametric amplification, fluorescence and oscillation; quasi-phase matching, periodically poled materials and their applications. Third-order effects: self-phase modulations, cross-phase modulation, four-wave mixing, phase conjugation. Quantization of the electromagnetic field; number states, coherent states and their properties: squeezed states and their properties, generation and detection of squeezed states of light; g2(0) and photon coincidence measurement, entangled states, generation, detection and properties; applications in quantum information science: single/entangled photon sources, squeezed light sources and their applications in quantum sensing, quantum communication, QKD, quantum teleportation, quantum networks, quantum radar, quantum computation, etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(PYL1001)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Quantum Electronics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Quantum Electronics"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/quantum-electronics-0",
+  "slug": "quantum-electronics-0"
+}

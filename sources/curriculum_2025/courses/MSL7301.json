@@ -1,0 +1,16 @@
+{
+  "code": "MSL7301",
+  "name": "Information Systems for Managers",
+  "description": "Concept of Information Systems, Information Systems Strategy, Enterprise Systems and Inter Organization Information Systems, Impact of IS on Organizations and Industries, Information Systems Governance",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MS#MSL7301"
+}

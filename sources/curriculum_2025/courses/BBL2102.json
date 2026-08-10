@@ -1,0 +1,16 @@
+{
+  "code": "BBL2102",
+  "name": "Microbiology",
+  "description": "The topics include introduction to cell structure of prokaryotic and eukaryotic microorganisms; microbial nutrition and growth; metabolism including important pathways; bacterial reproduction and recombination; preservation and control of microbial cultures; molecular tools to study microorganisms (culturables and as-yet-unculturables), viruses; microbial pathogenicity, antimicrobial resistance, and the interaction of microorganisms with other organisms in the context of One Health",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BB#BBL2102"
+}

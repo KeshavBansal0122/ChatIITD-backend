@@ -1,0 +1,22 @@
+{
+  "code": "PYD8001",
+  "name": "Major Project - I",
+  "description": "Analysis/design/simulation/experimental study on topics in the board area of solid state and quantum materials, offered by the faculty.",
+  "credits": 9.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 18.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Major Project - I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Major Project - I"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/major-project-i-3",
+  "slug": "major-project-i-3"
+}

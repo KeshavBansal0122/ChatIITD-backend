@@ -1,0 +1,22 @@
+{
+  "code": "AIL7063",
+  "name": "Artificial Intelligence for Earth Observation",
+  "description": "Introduction to earth observation data, challenges for artificial intelligence in earth observation data analysis, different learning paradigms, semantic segmentation of satellite images, change detection, aleatoric and epistemic uncertainty in earth observation data and models, deep learning model explainability, deep learning for time-series data analysis, advanced architectures for hyperspectral images, multi-sensor and multi-modal adaptation and fusion, vision foundation and regression models for earth observation applications. Practical using relevant programming language and deep learning library for multi-spectral and hyperspectral image classification, and multi-sensor analysis.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Artificial Intelligence for Earth Observation | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Artificial Intelligence for Earth Observation"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/artificial-intelligence-earth-observation",
+  "slug": "artificial-intelligence-earth-observation"
+}

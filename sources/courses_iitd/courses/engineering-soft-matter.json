@@ -1,0 +1,22 @@
+{
+  "code": "CHL7502",
+  "name": "Engineering of Soft Matter",
+  "description": "Intermolecular interactions, statistical mechanical approach to thermodynamic potentials. Nucleation and spontaneous phase separations in complex fluids (liquid-liquid unmixing, crystallization); phase separation kinetics (universality, order parameter evolution, Cahn-Hillard equation, Ostwald ripening); development of effective interactions of colloidal systems and polymers, thermodynamics and rheology of colloidal systems and polymers; brief on soft-matter characterization techniques including thermal analysis, electron microscopy, and small angle X-ray and neutron scattering throughout the course. Contemporary research topics with high technological relevance, for example, external field-induced effects on assembly in complex fluids, surface instabilities: onset conditions, morphology, control and evolution.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL2002",
+  "overlap": null,
+  "learning_outcomes": [
+    "Engineering of Soft Matter | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Engineering of Soft Matter"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/engineering-soft-matter",
+  "slug": "engineering-soft-matter"
+}

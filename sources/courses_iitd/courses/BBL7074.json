@@ -1,0 +1,22 @@
+{
+  "code": "BBL7074",
+  "name": "Biomolecular Engineering",
+  "description": "Importance of engineering biomolecules: nucleic acids, proteins, carbohydrates and lipids. Enzymes used in genetic manipulation, genome engineering using CRISPR, protein engineering methods such as mutagenesis, shuffling, RACHITT etc., engineering carbohydrates and lipids, cell based versus synthetic systems, carbohydrate-mimetic peptides (CMPs), engineering lipid bilayer membranes for different applications, substrate based cellular engineering.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "()",
+  "overlap": null,
+  "learning_outcomes": [
+    "Biomolecular Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Biomolecular Engineering"
+  ],
+  "department": "Biochemical Engineering and Biotechnology, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/biomolecular-engineering",
+  "slug": "biomolecular-engineering"
+}

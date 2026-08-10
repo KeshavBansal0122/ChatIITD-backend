@@ -1,0 +1,16 @@
+{
+  "code": "CTL7031",
+  "name": "Noise and Condition Monitoring",
+  "description": "Introduction to noise, vibration, harshness, noise measurement parameters, standards, techniques and its instrumentation. Noise source characterization and control, noise control measures in automobiles, noise control materials, sound quality and human response. Introduction to automotive condition monitoring. Maintenance strategies and introduction to different condition monitoring (CM) techniques, vibration monitoring and analysis, MCSA, acoustic emission, thermography, and ultrasonic technique. Instrumentation and application of different techniques. Signal analysis, reduction and classification of faults. Electric motor condition monitoring, automotive elements health monitoring, concept of machine learning and IoT in condition monitoring of automobile. Case studies on automobile noise and condition monitoring.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CT#CTL7031"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CHL7001",
+  "name": "Experimental Techniques for Chemical Engineers",
+  "description": "Descriptive statistics - mean, variance, standard deviation, skewness, reproducibility and repeatability, confidence intervals, hypothesis testing (t-tests, p-values, type I/II errors), analysis of variance (ANOVA), residual analysis, design of experiments (factorial design, Box Behnken design), regression and model building (RSM), characterization of functional materials (heterogeneous catalysts, electrode materials, and porous adsorbents), textural analysis using surface area/porosity, adsorption, and desorption, thermal analyses such as TGA, TGA-DTA, TGA-DSC, and TPD, spectroscopic analysis such as IR, UV-VIS, Raman, and XPS, light scattering analysis such as XRD and DLS, microscopic imaging such as SEM and TEM.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CH",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CH#CHL7001"
+}

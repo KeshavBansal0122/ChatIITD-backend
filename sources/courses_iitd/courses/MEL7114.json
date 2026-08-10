@@ -1,0 +1,22 @@
+{
+  "code": "MEL7114",
+  "name": "Mathematics of Operations Research",
+  "description": "Real and functional analysis: metric spaces, norms, closed and open sets, functions, limits, continuity, differentiation, Taylor&#039;s theorem, Weierstrass&#039;s theorem, sequences and series, integration, etc. Convex analysis: convex sets and convex functions, convex hull, duality, etc. Algorithms and data structures: operations count of algorithms, computational complexity, big-O notation, complexity classes, convergence of algorithms, data structures (stacks, heaps, queues, linked lists, etc.), and complexity of different operations on them, etc. Linear algebra: vector spaces, linear independence, basis, rank of matrices, system of linear equations, matrix norms, transformations and convolution, sparsity, algorithms for decomposition/inversion of sparse and dense matrices, etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Mathematics of Operations Research | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mathematics of Operations Research"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mathematics-operations-research",
+  "slug": "mathematics-operations-research"
+}

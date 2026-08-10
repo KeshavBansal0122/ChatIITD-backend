@@ -1,0 +1,16 @@
+{
+  "code": "AML7080",
+  "name": "Computational Fluid Dynamics",
+  "description": "Review of governing equations for fluid flow, finite difference methods, numerical stability, finite volume method and its application to steady 1-D, 2-D and 3-D convection-diffusion problems, extension of FVM to unsteady 1-D, 2-D and 3-D convection diffusion problems, pressure-velocity coupling, solution of discretized Navier Stokes equations and boundary conditions, multi-grid methods, differences between laminar and turbulent flows, Reynolds-averaged Navier-Stokes equations, closure problem; RANS based turbulence models. Introduction to DNS and LES.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AML7080"
+}

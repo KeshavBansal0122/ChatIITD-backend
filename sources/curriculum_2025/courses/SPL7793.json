@@ -1,0 +1,16 @@
+{
+  "code": "SPL7793",
+  "name": "Special Module on Public Policy in Management of Natural Resources",
+  "description": "This course will introduce students to advanced topics in policy studies, as decided by the instructor.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 1.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SP",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SP#SPL7793"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "MTL7244",
+  "name": "Mathematical Theory for Error Correcting Codes",
+  "description": "The notion of error detection and correction, communication channels, maximum likelihood and nearest neighborhood decoding principles, Hamming distance, codes and their parameters, ISBN Code. \r\nStructure of finite fields, Linear codes and their duals, generator and parity-check matrices of linear codes, equivalence of linear codes, encoding and decoding of a linear code, coset and syndrome decoding using coset leader.\r\nHamming codes. Hadamard matrix codes, Golay codes, Codes and Latin squares. Non-linear codes, Nordstrom-Robinson code, Kerdock codes, Preparata codes. \r\nBounds in coding theory: Sphere covering bound, Hamming bound and perfect codes, Singleton bound and MDS codes, Gilbert-Varshamov bound, Plotkin bound, Griesmer bound. \r\nWeight enumerators, MacWilliams Identity. \r\nConstruction of new codes: Propagation rules, Reed-Muller codes, subfield sub-codes, trace codes. \r\nThe structure of cyclic codes, encoding and decoding with a cyclic code, minimal codes, burst errors, burst error-correcting codes, decoding of cyclic burst-error-correcting codes. \r\nSome special cyclic codes including BCH codes and their decoding algorithm, Reed-Solomon codes, quadratic residue codes. Generalized Reed-Solomon codes, Alternant codes, Goppa codes, Sudan decoding for generalized RS codes",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTL7244"
+}

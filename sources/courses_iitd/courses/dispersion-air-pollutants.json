@@ -1,0 +1,22 @@
+{
+  "code": "ASL7510",
+  "name": "Dispersion of Air Pollutants",
+  "description": "Air pollution, various types, sources and effects of pollutants in the atmospheric environment; particulate matter and atmospheric visibility; atmospheric diffusion theories and types of dispersion models; lapse rates and various types of stability classification, wind-profile, wind rose, mixing depth, general characteristics of the stack plumes; dispersion of pollutants in the atmosphere and solution of advection diffusion equation with Gaussian distribution for point, line and area sources, plume rise, dispersion parameters and various methods of their evaluation; atmospheric removal processes and residence time; effect of buildings and topography on dispersion; similarity theory and profiles in the surface layer; air quality and emission standards, their measurements and statistics; introduction of air quality models for regulatory applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Dispersion of Air Pollutants | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Dispersion of Air Pollutants"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/dispersion-air-pollutants",
+  "slug": "dispersion-air-pollutants"
+}

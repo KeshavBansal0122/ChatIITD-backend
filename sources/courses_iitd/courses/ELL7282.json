@@ -1,0 +1,22 @@
+{
+  "code": "ELL7282",
+  "name": "Application-Specific Computer Architectures",
+  "description": "Fundamentals: instruction set architecture (ISA), pipelining, performance metrics. Data path and control unit design implementation, arithmetic and logic unit (ALU) design, memory hierarchy: caches, virtual memory, and TLB. RISC-V architecture and open-source hardware. Advanced pipelining and instruction-level parallelism (ILP): pipeline hazards and their resolution: data, control, and structural hazards. Superscalar architectures. Dynamic scheduling: Tomasulo\u2019s algorithm. Branch prediction and speculative execution. Parallel architectures: multicore and multiprocessor systems, shared-memory versus message-passing architectures, GPU architectures and GPU programming.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Application-Specific Computer Architectures | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Application-Specific Computer Architectures"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/application-specific-computer-architectures",
+  "slug": "application-specific-computer-architectures"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MLL7102",
+  "name": "Polymer Engineering and Rheology",
+  "description": "Course covers newtonian and non-newtonian flow, simple shear flow and its significance, normal stresses, simple elongational flow and its significance, viscoelasticity, rheometers, dynamic mechanical analysis, molecular, theoretical and related models.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Polymer Engineering and Rheology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Polymer Engineering and Rheology"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/polymer-engineering-and-rheology",
+  "slug": "polymer-engineering-and-rheology"
+}

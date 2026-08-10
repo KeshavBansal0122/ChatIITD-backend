@@ -1,0 +1,22 @@
+{
+  "code": "PYL7120",
+  "name": "Applied Superconductivity",
+  "description": "Key properties of a superconductor: zero resistivity, Meissner-Ochsenfeld effect, isotope effect, flux quantization, critical field, critical current, thermodynamics: free energy, entropy, specific heat, type of superconductors, London theory, BCS theory: electron-phonon coupling, bound state of cooper pair, coherence length, energy gap and critical temperature. Ginzburg-Landau theory: free energy, coherence length, estimation of critical parameter for low dimension superconductors, phase transition, vortex lattice. DC and AC Josephson junction, superconducting quantum device, quantized circuits for quantum computing, superconducting diode, SNSPD. High-Tc and unconventional superconductors.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "PYL5058&PYL5055/PYL3015&PYL2013",
+  "overlap": null,
+  "learning_outcomes": [
+    "Applied Superconductivity | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Applied Superconductivity"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/applied-superconductivity",
+  "slug": "applied-superconductivity"
+}

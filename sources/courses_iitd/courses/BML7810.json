@@ -1,0 +1,22 @@
+{
+  "code": "BML7810",
+  "name": "Orthopedic Biomechanics: Design and Prototyping",
+  "description": "Introduction to anatomy and physiology - bones, tissues and muscles, properties. Orthopedic requirements: static and dynamic loads, kinematics and kinetics, bone healing, wound healing and remodeling, strength, wear and corrosion of orthopedic devices static strength, impact and fatigue strength, wear and biochemical erosion and corrosion and Biofilms. Design of orthopedic prosthesis for wrist fracture, elbow arthroplasty, shoulder fracture, total hip replacement, spine fractures, femur fracture, total knee replacement, ligament arthroplasty, and tibia fractures, orthotics for foot abnormalities, methods to avoid re-occurance of bone fractures and modeling of bone. Manufacturing and prototyping techniques. Regulatory requirements for manufacturing, testing and certification and orthopedic devices case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Orthopedic Biomechanics: Design and Prototyping | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Orthopedic Biomechanics: Design and Prototyping"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/orthopedic-biomechanics-design-and-prototyping",
+  "slug": "orthopedic-biomechanics-design-and-prototyping"
+}

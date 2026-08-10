@@ -1,0 +1,16 @@
+{
+  "code": "CRL7012",
+  "name": "RF and Microwave Active Circuits",
+  "description": "Introduction to the course; review of basics such as transmission lines, Smith chart, matching network, and S-parameters; basics of RF and microwave transistor amplifier design including gain derivations and stability circles; design of various types of RF and microwave transistor amplifier such as narrowband, broadband, low noise, and power amplifiers; two stage RF and microwave amplifiers; RF and microwave switches and phase shifters; and introduction to other active component(s) (for example mixers etc.).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CR#CRL7012"
+}

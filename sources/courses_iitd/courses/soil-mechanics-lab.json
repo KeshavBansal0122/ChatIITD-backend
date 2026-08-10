@@ -1,0 +1,22 @@
+{
+  "code": "CVP2402",
+  "name": "Soil Mechanics Lab",
+  "description": "Visual Soil Classification; Water content; Atterberg limits; Grain size analysis. Specific gravity; Permeability; Standard and modified Proctor compaction test, Consolidation test, Site investigations, and Shear strength testing.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Soil Mechanics Lab | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Soil Mechanics Lab"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/soil-mechanics-lab",
+  "slug": "soil-mechanics-lab"
+}

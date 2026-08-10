@@ -1,0 +1,22 @@
+{
+  "code": "MSL7312",
+  "name": "Governance of Responsible AI-ML Systems",
+  "description": "Challenges in AI Adoption and Data Monetization, Examining Biases in AI Pipeline, FATE of AI/ML on Individuals, Firms and Society, \nData Governance for Responsible AI applications, Project Sizing and Bidding for Responsible AI/ML projects",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Governance of Responsible AI-ML Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Governance of Responsible AI-ML Systems"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/governance-responsible-ai-ml-systems",
+  "slug": "governance-responsible-ai-ml-systems"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CRL7024",
+  "name": "RF and Microwave Measurements",
+  "description": "S-parameters and their importance, scalar network analysis with power meter, slotted waveguide, architecture and theory of operation of vector network analyzer. VNA calibration. Spectrum analyzer and phase noise, synthesized signal generation, noise measurement, measurement of antenna properties.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CR#CRL7024"
+}

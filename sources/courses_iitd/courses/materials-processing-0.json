@@ -1,0 +1,22 @@
+{
+  "code": "MLL3002",
+  "name": "Materials Processing",
+  "description": "Introduction to primary processing of materials: solidification in metals (casting process and defects), powder processing for metals and ceramics (sintering techniques and compaction) and moulding processes for polymers (compounding and injection, blow and compression processes). Microstructure processing; specific processing or case studies: Ironmaking, steelmaking; non-ferrous metals; thermoset and thermoplastic polymers; alumina and zirconia processing. Introduction to secondary processing in materials: machining and mechanical working (rolling, forging, extrusion, sheet metal forming etc.); heat treatment; joining (soldering, brazing, adhesives, fasteners and welding) processes. Introduction to surface finishing processes: electrolytic- polishing and plating, and spray coating (plasma spray coating processes), paint finish; surface hardening treatments. Introduction to special processes: thin-film and semiconductor processing: vacuum processing technology, PVD and CVD processes, single crystal growth of Si, GaAs; rapid prototyping processes (additive manufacturing including typical 3D printing techniques like extrusion melting, selective laser melting/sintering, e-beam melting and droplet ejection).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Materials Processing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Materials Processing"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/materials-processing-0",
+  "slug": "materials-processing-0"
+}

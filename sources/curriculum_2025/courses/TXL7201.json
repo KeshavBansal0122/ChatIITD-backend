@@ -1,0 +1,16 @@
+{
+  "code": "TXL7201",
+  "name": "Theory of Yarn Structure",
+  "description": "Basic characteristics of fibers, fiber blends and yarns; arrangement of fibers in yarns; pores in yarns; helical model of fibers in yarns; relationship among yarn count, twist, packing density, and diameter; radial migration of fibers in yarns; mass irregularity of staple fiber yarns; hairiness of staple fiber yarns; tensile mechanics of fiber bundles and yarns; bending mechanics of yarns; structure and mechanics of plied yarns.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL7201"
+}

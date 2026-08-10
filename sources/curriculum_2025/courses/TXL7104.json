@@ -1,0 +1,16 @@
+{
+  "code": "TXL7104",
+  "name": "Engineering of Solution Spun Fibres",
+  "description": "Solution rheology and its dependence on parameters. Effect of parameters on entanglement density, fibre spinning and subsequent drawing; various solvent systems; dope preparation; wet and dry spinning processes; effect of process parameters such as dope concentration, bath concentration, temperature and jet stretch ratio on coagulation rate, fibre breakage and fibre structure; modeling of coagulation process; properties and structure of dry and wet spun fibres; dry jet wet spinning of PAN. Viscose rayon process; polynosics and high-performance cellulosic fibre; non-viscose processes, Lyocell spinning process, structure and properties; gel spinning of PE, gel-spinning of PAN and PVA. Introduction to high-performance fibres and their spinning systems such as rigid rod polymer, liquid crystalline polymers, polylactic acid and spandex fibre manufacturing.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL7104"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ELL7403",
+  "name": "Computer Communication Networks",
+  "description": "Review of data communication techniques, basic networking concepts, layered network and protocol concepts. Motivation for performance analysis, forward error correction and re-transmission performances, quality of service, motivations for cross-layer network systems protocol design. Renewal processes, Markov and semi-Markov processes, Markov modulated Poisson process (MMPP), little\u2019s theorem, M/M/m/k, M/G/1 systems, G/G/1, priority queueing, network of queues, network traffic behavior, Gaussian mixture model (GMM). Hidden Markov models (HMM), Markov decision process (MDP), partially observable MDP (POMDP), towards reinforcement learning (RL). Concepts and analysis of multi-access protocols, contention-free and contention multi-access protocols. Basic graph theoretic concepts, routing algorithms and analysis, MDP application, dynamic programming. Topics for today\u2019s research, next-generation communication network standards, cross-disciplinary applications. Simulation and hardware experiments on different aspects of computer communication networks. Network traffic generation and analysis, differentiated service queues, network of queues using discrete event simulations. Experimenting with open (ORAN equivalent) end-to-end communication systems for cross-disciplinary use-cases to do with eMBB, URLLC, and mMTC.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Computer Communication Networks | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Computer Communication Networks"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/computer-communication-networks",
+  "slug": "computer-communication-networks"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CHL7215",
+  "name": "Population Balance Modeling",
+  "description": "Theory of crystallization. Particle size distribution, particle phase space. Population balance equation for convection in state space (pure growth). Solution of PBE using method of characteristics. PBE with breakage and coalescence/aggregation terms. Scaling theory and phenomenological models for rate of breakage and coalescence induced by turbulence. Solution of PBE for pure breakage and pure coalescence. Moment transformation of PBE. Numerical approaches to solve PBE. Integrating PBE with transport equations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Population Balance Modeling | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Population Balance Modeling"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/population-balance-modeling",
+  "slug": "population-balance-modeling"
+}

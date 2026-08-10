@@ -1,0 +1,21 @@
+{
+  "code": "MTL5002",
+  "name": "Linear Algebra",
+  "description": "Review system of equations, row reduced echelon form, vector spaces, subspaces, basis and dimension of a vector space, row equivalence. In addition, the course also reviews linear transformations, Isomorphisms, null space and range, linear functionals, and representation of linear transformations by matrices.\nDual and double dual of a vector space and transpose of a linear transformation, Invariant subspaces, quotient spaces, eigenvalue and eigenvector of an operator, Minimal polynomial and characteristic polynomial. Diagonalizability of linear operators of finite-dimensional vector spaces, triangularization, simultaneous triangulization and simultaneous diagonlization. The primary decomposition theorem - diagonal and nilpotent parts. Jordan canonical form and its applications.\nInner product spaces, Gram-Schmidt orthogonalization, Best approximation of a vector by a vector belonging to a given subspace, and application to least square problems. Adjoint of an operator, Hermitian, unitary and normal operators. Introduction of bilinear and quadratic forms, positive definite matrices. Spectral decomposition, polar decomposition, singular value decomposition and its applications.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Linear Algebra | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Mathematics II Linear Algebra and Differential Equations",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/linear-algebra",
+  "slug": "linear-algebra"
+}

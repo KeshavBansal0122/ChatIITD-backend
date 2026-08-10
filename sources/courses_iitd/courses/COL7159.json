@@ -1,0 +1,22 @@
+{
+  "code": "COL7159",
+  "name": "Introduction to Cryptography",
+  "description": "Perfect secrecy and its limitations, computational security, pseudorandom generators and one time encryption, pseudorandom functions/permutations, symmetric key encryption - security against chosen plaintext attacks (CPA), message authentication and cryptographic hash functions, security against chosen ciphertext attacks (CCA). Basic number theory and group theory, public key encryption - CPA and CCA security, digital signatures. Advanced topics: zero knowledge proofs, homomorphic encryption, lattice-based cryptography.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "COL1101&(COL1002/MTL1180)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Cryptography | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Cryptography"
+  ],
+  "department": "Introduction to Cryptography",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-cryptography-0",
+  "slug": "introduction-cryptography-0"
+}

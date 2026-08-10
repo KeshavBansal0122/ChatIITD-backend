@@ -1,0 +1,16 @@
+{
+  "code": "CHL7404",
+  "name": "Sustainable Polymer Science and Technology",
+  "description": "Overview of fossil and non-fossil fuel based polymers: properties, characteristics, and use. Natural and synthetic biodegradable polymers. Various routes of natural polymer synthesis. Different ways of reducing the use of fossil polymers and partial use of natural polymers. Artificial intelligence (AI) based analysis to find the optimum properties of sustainable/recyclable polymers. Analysis to find the optimum properties of bio-based additives in polymers to reduce fossil dependence.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CH",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CH#CHL7404"
+}

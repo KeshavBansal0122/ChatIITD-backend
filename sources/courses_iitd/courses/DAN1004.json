@@ -1,0 +1,22 @@
+{
+  "code": "DAN1004",
+  "name": "Speaking in English",
+  "description": "This course is designed for students aiming to enhance their public speaking skills. It focuses on building confidence, improving pronunciation, and organizing ideas effectively for diverse audiences. Through interactive exercises, students will learn to manage stage fright, use body language, and deliver structured presentations. The curriculum includes practicing various speech formats, employing visual aids, and engaging in peer evaluations to foster continuous improvement. By the end of the course, participants will be equipped to communicate clearly and persuasively in academic, professional, and social settings. This course targets learners seeking to refine their oral communication abilities/skills.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Speaking in English | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Speaking in English"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/speaking-english",
+  "slug": "speaking-english"
+}

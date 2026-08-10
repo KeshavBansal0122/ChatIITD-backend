@@ -1,0 +1,16 @@
+{
+  "code": "RDL7722",
+  "name": "Rural Energy Systems",
+  "description": "Energy perspectives in rural areas, locally available energy resources, Biogas- potential in Indian context as alternate fuel for cooking, lighting and vehicular application, biogas technology \u2013 concept, various types of digesters and feed materials, uses, compressed biogas technology for vehicular fuel, liquification, bio diesel- potential and scope in India, bio-diesel production technology, uses and advantages, economics, bioethanol, field visits of working systems, biomass brequetting- scope and potential, applications, burners-types, cookstoves, improved chulhas, engines- single and dual fuel, carbon neutral energy systems, comparison. Micro hydel- site characterisation, hydro potential estimation, social feasibility, animal power, solar and wind - concept, technology, types, applications, hybrid energy systems and IREP, framework for carbon neutral villages.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "RD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=RD#RDL7722"
+}

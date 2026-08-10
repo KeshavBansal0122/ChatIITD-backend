@@ -1,0 +1,21 @@
+{
+  "code": "RDQ3305",
+  "name": "Seminar Course",
+  "description": "This seminar course enables students to apply their understanding of rural value chain challenges in the agricultural sector by identifying a real-world problem faced by farmers, FPOs, or agri-entrepreneurs. Students will engage in field-based inquiry, stakeholder consultation, and system mapping to co-develop a low-cost, scalable, and context-specific technological solution. The emphasis is on sustainability, inclusivity, and feasibility.\nAfter this course, the student will be able to \nApplying interdisciplinary knowledge to real-life rural contexts\nEnhancing problem-solving and design thinking skills\nFostering innovation for grassroots impact\nPromoting ethical, affordable, and locally adaptable agri-tech interventions",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(RDL770",
+  "overlap": null,
+  "learning_outcomes": [
+    "Seminar Course | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/seminar-course",
+  "slug": "seminar-course"
+}

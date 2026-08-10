@@ -1,0 +1,22 @@
+{
+  "code": "SBV8084",
+  "name": "Elements of Neuroscience",
+  "description": "Introduction to cell biology of neurons; presynaptic and post synaptic mechanisms, Na and K pumps, Hodgkin-Huxley experiments; memory and learning, addiction, prosthetics and brain machine interfaces, neurodegenerative diseases; intelligence, models of brain functions, cognition and consciousness.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "SBL1100/SBL1102",
+  "overlap": null,
+  "learning_outcomes": [
+    "Elements of Neuroscience | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Elements of Neuroscience"
+  ],
+  "department": "Principles of Neural Excitability and Communication",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/elements-neuroscience",
+  "slug": "elements-neuroscience"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "HSL7641",
+  "name": "Psychological Interventions",
+  "description": "Introduction of psychological intervention: concept, goals, and scope of interventions. Evidence-based interventions and research methods. Historical and theoretical foundations: psychoanalytic, humanistic, behavioral, and cognitive perspectives. Positive psychology interventions (PPIs). Family, group, and community-based interventions. Health and behavior change interventions. Cultural indigenous approaches. Positive technology: digital well-being and tech-based flourishing. Interdisciplinary approaches in psychological interventions. Designing and evaluating intervention programs.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL7641"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "SIL7159",
+  "name": "Cryptography and Cryptanalysis",
+  "description": "Classical ciphers and their cryptanalysis; basic number theory; public key cryptography, prime number generation, factoring of large composite numbers; discrete logarithm and Diffie\u2013Hellman key exchange, algorithms for computing discrete logarithms; hashing, digital signature schemes, SHA; finite fields, polynomials over finite fields, irreducible polynomials, primitive polynomials, pseudo-randomness, pseudorandom generators, linear and nonlinear shift register sequences; symmetric key cryptosystems and their cryptanalysis; block ciphers; elliptic curve cryptography; elliptic curve factoring algorithm; zero-knowledge protocols; secret sharing; side-channel attacks; lattice-based cryptography.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SI",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SI#SIL7159"
+}

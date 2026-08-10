@@ -1,0 +1,16 @@
+{
+  "code": "ELL7283",
+  "name": "Embedded Systems",
+  "description": "Modelling, design and analysis of embedded cyber-physical systems including computing and communication.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7283"
+}

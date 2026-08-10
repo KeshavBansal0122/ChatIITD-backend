@@ -1,0 +1,22 @@
+{
+  "code": "ELL8120",
+  "name": "Model Reduction for Control",
+  "description": "Introduction to model reduction; sources of large models - circuits, electromagnetic systems, mechanical systems; discretization methods - finite difference method (FDM), finite element method (FEM); classical model reduction methods - Pade approximation, moment matching, Routh approximants; modern methods - modal model reduction methods, SVD (Grammian) based methods, Krylov based methods, SVD-Krylov based methods; MOR for nonlinear systems \u2013 SVD and POD methods; model reduction in control; control design on reduced models \u2013 sub- optimal control; sliding mode control as model reducing control - first order SM, higher order sliding mode.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Model Reduction for Control | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Model Reduction for Control"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/model-reduction-control",
+  "slug": "model-reduction-control"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "DDP1007",
+  "name": "Typography",
+  "description": "This course introduces the fundamental principles and expressive potential of typography. Topics include the anatomy of type, classification, typefaces and fonts, hierarchy, grids and layout systems, legibility and readability, typographic contrast and type in motion. Students will engage in practical exercises such as creating typographic compositions, poster design, expressive type explorations and digital layout projects using industry-standard tools. Emphasis will be placed on typographic storytelling, type as image and contextual applications in both print and screen-based media. Lectures, critiques, workshops and hands-on assignments will stimulate critical thinking and a nuanced understanding of typography in contemporary design practice.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DD#DDP1007"
+}

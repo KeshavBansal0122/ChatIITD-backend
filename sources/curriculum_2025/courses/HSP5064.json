@@ -1,0 +1,16 @@
+{
+  "code": "HSP5064",
+  "name": "Scientific Writing",
+  "description": "This is a course where students read and analyze the structure of scientific articles, critically evaluate their own writing, and then apply this knowledge towards crafting their own examples of scientific prose. The course comprises mainly of hands-on tutorials, where students will read relevant articles, and then critique samples of their own writing. The course will introduce them to the importance of revision for organizing ideas. Topics such as data visualization, reproducibility and presentation of research will also be covered.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 2.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSP5064"
+}

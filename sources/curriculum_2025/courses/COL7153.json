@@ -1,0 +1,16 @@
+{
+  "code": "COL7153",
+  "name": "Complexity Theory",
+  "description": "Modeling computation (finite state machines, non-determinism, turing machines, class P etc.), NP and NP-completeness, diagonalization (time hierarchy and Ladner's theorem), space complexity (PSPACE, NL, Savitch's theorem, Immerman-Szelepcs\u00e9nyi theorem etc.), polynomial hierarchy, Boolean circuits (P/poly), randomized classes (RP, BPP, ZPP, Adleman's theorem, G\u00e1cs-Sipser-Lautemann theorem), interactive proofs (Arthur-Merlin, IP=PSPACE), cryptography (one-way functions, pseudorandom generators, zero knowledge), PCP theorem and hardness of approximation, circuit lower bounds, other topics (#P, Toda's theorem, average-case complexity, derandomization, pseudorandom constructions, computational learning theory, fine-grained complexity, algebraic complexity, proof complexity, communication complexity, query complexity).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL7153"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "TXP2401",
+  "name": "Textile Preparation and Dyeing Lab",
+  "description": "Natural and added impurities in textiles, desizing, scouring, bleaching, mercerization and optical whitening of cotton. Combined preparatory processes carbonization, scouring and bleaching of wool, degumming of silk, use of green pre-treatment processes like plasma and ozone for scouring and bleaching of cotton respectively, the principles of dyeing of textile materials, dyeing equipment and the specific dyes and procedures used to dye textiles, evaluation of fastness.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXP2401"
+}

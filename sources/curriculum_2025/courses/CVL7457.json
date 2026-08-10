@@ -1,0 +1,16 @@
+{
+  "code": "CVL7457",
+  "name": "Concrete Mechanics",
+  "description": "Introduction; rheological modelling of fresh concrete; flowing concrete; mechanics of hardened concrete: failure criteria; constitutive equations; elasto- plasticity, creep, damage mechanics and fracture; mechanics of hydrating concretes, durability mechanics, transport processes; shrinkage; micromechanics, numerical and analytical homogenisation, poromechanics, crystalline growths and internal microstresses.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7457"
+}

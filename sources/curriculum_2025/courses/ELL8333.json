@@ -1,0 +1,16 @@
+{
+  "code": "ELL8333",
+  "name": "CMOS RF IC Design",
+  "description": "Historical aspects \u2013 from Maxwell to current wireless standards; the bridge between communication system designer and RF IC designer: a) communication system characterization, b) RF system characterization; transceiver architectures \u2013 motivation for the individual blocks; lumped, passive RLC, RF properties of MOS, tuned amplifiers; LNAs: noise sources, cascades and LNA design; mixers \u2013 passive and active mixers; power amplifiers; oscillators: analysis fundamentals, inductors, basics of LC oscillators and VCOs; basics of phase locked loops.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL8333"
+}

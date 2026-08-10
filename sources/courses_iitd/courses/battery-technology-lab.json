@@ -1,0 +1,22 @@
+{
+  "code": "CTP7008",
+  "name": "Battery Technology Lab",
+  "description": "Operation of the battery testers, measurement of battery capacity, full charge-discharge test, battery charging profiles, electrochemical impedance spectroscopy, battery pulse test and HPPC; battery cycling and storage tests, battery data processing and model building, impact of c-rate on battery performance, battery thermal and mechanical stress tests, battery disassembly, inspection of battery electrodes and separator, building battery packs from cells, analyzing commercial BMS, BMS testing.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Battery Technology Lab | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Battery Technology Lab"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/battery-technology-lab",
+  "slug": "battery-technology-lab"
+}

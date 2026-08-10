@@ -1,0 +1,22 @@
+{
+  "code": "OPL7704",
+  "name": "Quantum systems, Entanglement and Communication",
+  "description": "Quantization of light, quantum fluctuations, density matrix representation of quantum states, quantum\ncoherence and photon statistics, quantum superposition, EPR paradox, entanglement, no-cloning theorem,\nquantum key distribution (QKD), quantum gates, and quantum teleportation.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(PYL1004)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Quantum systems, Entanglement and Communication | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Quantum systems, Entanglement and Communication"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/quantum-systems-entanglement-and-communication",
+  "slug": "quantum-systems-entanglement-and-communication"
+}

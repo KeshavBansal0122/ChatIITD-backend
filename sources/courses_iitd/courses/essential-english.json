@@ -1,0 +1,22 @@
+{
+  "code": "DAN1001",
+  "name": "Essential English",
+  "description": "In this course, we teach the basic grammatical features of the English language and how to apply them in speech and writing, like noun phrases, verb phrases, subject-verb agreement, articles, prepositions, active and passive voice, negation and interrogation. In the later part of the course, we will use these concepts to help the students enhance their reading, listening, writing and comprehension skills in English.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Essential English | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Essential English"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/essential-english",
+  "slug": "essential-english"
+}

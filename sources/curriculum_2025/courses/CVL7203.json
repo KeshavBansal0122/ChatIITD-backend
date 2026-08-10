@@ -1,0 +1,16 @@
+{
+  "code": "CVL7203",
+  "name": "Ground Improvement and Geosynthetics",
+  "description": "Principles of compaction, engineering behaviour of compacted clays. Shallow stabilization with additives: lime, fly ash, and cement. Deep stabilization: stone column, sand drains, prefabricated drains, lime column, soil-lime column, vibro-floatation, dynamic compaction, electro-osmosis. Grouting: permeation, compaction, and jet. Dewatering systems. Geosynthetics: types and functions, materials and manufacturing processes, testing and evaluation. Reinforced soil structures: principles of soil reinforcement, application of geotextiles and geogrids in roads, walls, and embankments. Application of geotextiles, geonets, and geocomposites as drains and filters. Geosynthetics in environmental control: covers and liners for landfills, material aspects, and stability considerations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7203"
+}

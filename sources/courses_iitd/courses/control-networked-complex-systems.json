@@ -1,0 +1,22 @@
+{
+  "code": "ELL7122",
+  "name": "Control of Networked & Complex Systems",
+  "description": "Introduction to Networked and Complex Systems, and their representation using Graphs; Graphs, Digraphs and related matrices: Adjacency, Incidence and Laplacian matrices;Graph theoretic results, Gersgorin disc theorem, and matrix properties; Stochastic matrix, Perron-Frobenius results, Primitive matrix; Average consensus, Convergence analysis and agreement subspace; Formation specification, Formation invariants: scale, translation and rotation; Formation control, Rendezvous; Graph rigidity theory and formation; Consensus control for LTI agents; Leader-follower synchronization control; Complex system representation; Decentralized control.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Control of Networked & Complex Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Control of Networked & Complex Systems"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/control-networked-complex-systems",
+  "slug": "control-networked-complex-systems"
+}

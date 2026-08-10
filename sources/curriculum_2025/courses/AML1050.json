@@ -1,0 +1,16 @@
+{
+  "code": "AML1050",
+  "name": "Engineering Thermodynamics",
+  "description": "Basic concepts and definitions, thermodynamic properties of a pure substance. Work and heat \u2013 definition and applications. 1st law \u2013 internal energy and enthalpy, applications to non- flow/closed and flow/open systems (SSSF and USUF). 2nd law \u2013 corollaries, Clausius inequality, entropy. Carnot cycle. Basics of gas-vapor mixtures. Vapor power cycles \u2013 Rankine cycle and its modifications. Steam generation and its use \u2013 power plants, co-generation, combined cycles. Vapor compression refrigeration cycle. Introduction and fundamental of statistical thermodynamics relevant for engineers. Equilibrium properties of pure materials and mixtures. Understanding the phase behaviour and phase transitions of pure fluids.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AML1050"
+}

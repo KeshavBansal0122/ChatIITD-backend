@@ -1,0 +1,16 @@
+{
+  "code": "ELD7602",
+  "name": "Summer Internship/Minor Project",
+  "description": "This is a project based work. The student is expected to work on relevant problems in an industry or with a faculty member. The student is expected to meet the supervisor and/or industry mentor regularly and discuss the project progress. The scope of work would vary from project to project and would be decided by the mentor in industry or the faculty supervisor. The project work needs to be communicated in the form of reports and presentations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELD7602"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "SBR7011",
+  "name": "Seminars in Biological Sciences",
+  "description": "Special topics in research assigned by coordinator; results of the research of each student registered for the course; scientific material from recently published papers in areas related to their research; deliver seminars on their research and participate in the seminars and critique. 10-20% time will be spent on discussion of research data presented by experts.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 2.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBR7011"
+}

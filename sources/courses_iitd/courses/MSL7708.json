@@ -1,0 +1,22 @@
+{
+  "code": "MSL7708",
+  "name": "Management of Technology",
+  "description": "This course contains the following topics:\nUnderstanding technology: definitions, key concepts and frameworks\nLife cycle approach to technology management.\nTechnology road mapping strategy for innovation\nTechnology Transfer, absorption and adoption: Issues and Challenges\nEssential elements of technology planning and strategy\nStrategic technology management, forecasting and implementation.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(MSL7701) &(MSL7702)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Management of Technology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Management of Technology"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/management-technology",
+  "slug": "management-technology"
+}

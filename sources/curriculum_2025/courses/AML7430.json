@@ -1,0 +1,16 @@
+{
+  "code": "AML7430",
+  "name": "Compressible Fluid Flow and Gas Dynamics",
+  "description": "Governing equations, 1D inviscid compressible flows, shocks and expansion waves, method of characteristics, compressible laminar boundary layers and jets, shock-boundary layer interaction, vibrational non-equilibrium, chemically reacting compressible flows, instability in compressible flows, compressible turbulent flows, Favre-averaged Navier-Stokes (FANS), closure models, Applications to turbomachinery, special topics (kinetic theory/rarefied flows/ionization effects/combustion/CFD/propulsion)",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AML7430"
+}

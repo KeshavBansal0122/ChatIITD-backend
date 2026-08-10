@@ -1,0 +1,22 @@
+{
+  "code": "PYL7438",
+  "name": "Special Topics in Theoretical Physics I",
+  "description": "Topics from the emerging areas of theoretical physics will form the basics, and the faculties offering the course will provide the detailed course contents, according to their research expertise.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Special Topics in Theoretical Physics I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Special Topics in Theoretical Physics I"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/special-topics-theoretical-physics-i",
+  "slug": "special-topics-theoretical-physics-i"
+}

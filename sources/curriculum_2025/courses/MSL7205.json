@@ -1,0 +1,16 @@
+{
+  "code": "MSL7205",
+  "name": "Microeconomics for Managers",
+  "description": "Introduction to managerial economics. Basic concepts, Consumer behavior, Demand analysis: Determinants, estimation and managerial uses of elasticity of demand. Demand forecasting. Supply function and Market equilibrium analysis. Production and Cost analysis and Equilibrium of the firm, Production Analysis, Productivity Analysis, Production efficiency analysis. Pricing and output under different market situations: Perfect Competition, Monopolistic Competition, Monopoly, oligopoly and Cartels.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MS#MSL7205"
+}

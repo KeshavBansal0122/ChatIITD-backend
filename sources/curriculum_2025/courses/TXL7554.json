@@ -1,0 +1,16 @@
+{
+  "code": "TXL7554",
+  "name": "Textile Reinforced Composites",
+  "description": "Definition of composites; textile composites and textile structural composites; textile structures for composites; matrix and reinforcements; classification of textile reinforced structures based on axis and dimension; non-axial, mono-axial, biaxial, triaxial and multiaxial structures; UD, 2D, 3D structures; structural anisotropy; parallel arrangement and series arrangement of components; chopped strand and milled fibres; hybrid fabrics, non-crimp fabrics, laminates, stitched structure, embroidery structures, composite rope; design, manufacture and applications of reinforcements; manufacture and characterization of extra-light 3D hollow textile structures for composites; methods of composite processing; manufacturing techniques of complex structural composites; characterization of structural composites; theory of composites: rule of mixture, the synergy effect, logarithmic mixing rule; geometry of reinforcement: particular, granular, fibrillar, lamellar; properties of components; properties of interface, mechanism of adhesion; mechanics of composite, failure theory, damage analysis; modeling and simulation of various reinforcement structures and their composites; applications of textile structural composites; textile reinforced concretes; fibre concrete bonding; textile structure reinforcement concrete architecture; characterization and applications of reinforced concretes.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL7554"
+}

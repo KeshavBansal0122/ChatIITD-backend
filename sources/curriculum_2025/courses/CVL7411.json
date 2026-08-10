@@ -1,0 +1,16 @@
+{
+  "code": "CVL7411",
+  "name": "Advanced Structural Analysis",
+  "description": "Matrix methods for 3-D skeletal structures: force and displacement methods including analysis using substructures and static condensation. Computational aspects of displacement method including in plane rigidity of floor slab, non-prismatic members, thermal effects, support settlements and shear deformation effects, behaviour of structures irregular in plan under horizontal loads, programming aspects of matrix methods. Non-linear analysis: second order and elastoplastic analysis, upper bound and lower bound theorems, plastic analysis of continuous beams and frames including inclined portal frames.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7411"
+}

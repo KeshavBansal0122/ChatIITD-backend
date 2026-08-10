@@ -1,0 +1,16 @@
+{
+  "code": "SBL7029",
+  "name": "Emerging Trends in Tumor Biology",
+  "description": "This course explores the complexities of tumor biology, focusing on the tumor microenvironment and tumor heterogeneity, including inter and intra-tumoral variations. Key topics include intrinsic and extrinsic factors influencing cancer cell plasticity, cancer evolution's impact on therapy, and metabolic interactions within tumors. Students will engage in practical activities such as analyzing single-cell sequencing data, conducting metabolic profiling experiments, and exploring immunophenotyping techniques. Additionally, the course will cover modern tools in cancer research, approved therapies, and current challenges in the field. Through these components, students will develop a comprehensive understanding of emerging concepts and strategies in tumor biology.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBL7029"
+}

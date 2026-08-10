@@ -1,0 +1,611 @@
+{
+  "code": "HST",
+  "name": "M.A. in in Culture, Society, and Thought",
+  "generation": "2025",
+  "degree_type": "ma",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=HST",
+  "credit_requirements": [
+    {
+      "category": "GE",
+      "label": "General Engineering",
+      "credits_or_units": 2.0,
+      "kind": "graded"
+    },
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 52.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Apply advanced knowledge in their chosen field of study in preparation for their professional practice or further learning."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Effectively synthesize and communicate ideas, embrace teamwork and demonstrate scientific temperament, integrity, personal and professional responsibility."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "To learn to think critically, to use diverse methodologies and how to read complex texts in the humanities and social sciences."
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "To analyse, understand, and address concerns around SDGs such as gender equity, social justice and multicultural coexistence and to enable a comprehensive understanding of these issues."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "HSD5001",
+        "title": "MA Research Project Part - I",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSD6002",
+        "title": "MA Research Project Part - II",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "HSD6003",
+        "title": "MA Research Project Part - III",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "HSL5001",
+        "title": "Theory &amp; Methods in Humanities and Social Sciences",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL5002",
+        "title": "Literary Theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL5003",
+        "title": "Philosophical Thinking",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL5004",
+        "title": "Contemporary Social Theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL5006",
+        "title": "Political Thought",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL5200",
+        "title": "Basics of Programming for Digital Humanities",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "HSL5203",
+        "title": "Fieldwork Methods",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0.5",
+          "practical": "1"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "HSL5204",
+        "title": "Narrative Matters",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "HSN5000",
+        "title": "Research Ethics",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "HSN5001",
+        "title": "Interdisciplinary Reading Bootcamp: Culture, Society, Thought",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "HSN5002",
+        "title": "Writing Workshop",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "1",
+          "practical": "6"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "HST5002",
+        "title": "Archival Methods",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "HST5005",
+        "title": "Introduction to Research Methods",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "5"
+      },
+      {
+        "course_code": "HST5201",
+        "title": "Introduction to Digitization",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "HST5206",
+        "title": "Dimensions of Language",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "HSL5200",
+        "title": "Basics of Programming for Digital Humanities",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "HSL5203",
+        "title": "Fieldwork Methods",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0.5",
+          "practical": "1"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "HSL5204",
+        "title": "Narrative Matters",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "HST5002",
+        "title": "Archival Methods",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "HST5206",
+        "title": "Dimensions of Language",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "HSL6204",
+        "title": "Ideas of Freedom",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL6206",
+        "title": "Critical Philosophy of Race",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL6208",
+        "title": "Cinemas of India",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL6210",
+        "title": "Introduction to Health Humanities",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL6211",
+        "title": "Foundations in Digital Humanities",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL6301",
+        "title": "An Intellectual History of Political Liberalism",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL6302",
+        "title": "Investigations in Contemporary Global Political Thought",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL6405",
+        "title": "The City and its Literatures",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL6450",
+        "title": "Lyric Poetry",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL6501",
+        "title": "Principles of Rationalism and Empiricism",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL6502",
+        "title": "Debates in Indian Epistemology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL6510",
+        "title": "Philosophy of Mind and Cognition",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL6530",
+        "title": "Introduction to Philosophy of AI",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL6607",
+        "title": "Education and Society",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL6684",
+        "title": "Gender and Sexuality",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL6690",
+        "title": "Anthropocene and its Discontents",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL8103",
+        "title": "Research Methods in Economics",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSV7204",
+        "title": "Media, Fictionality, and Real World Impact",
+        "hours": {
+          "lecture": "0.5",
+          "tutorial": "0",
+          "practical": "1"
+        },
+        "credits": "1"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "HSN5001",
+        "title": "Interdisciplinary Reading Bootcamp: Culture, Society, Thought",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "HSL5001",
+        "title": "Theory &amp; Methods in Humanities and Social Sciences",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "HSL5002",
+        "title": "Literary Theory",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "HSL5003",
+        "title": "Philosophical Thinking",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "basket": "Interdisciplinary Reading Bootcamp: Culture, Society, Thought",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "HSL5004",
+        "title": "Contemporary Social Theory",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "HST5005",
+        "title": "Introduction to Research Methods",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 5.0
+      },
+      {
+        "course_code": "HSL5006",
+        "title": "Political Thought",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "HSD5001",
+        "title": "MA Research Project Part - I",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "HSD6002",
+        "title": "MA Research Project Part - II",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "HSN5000",
+        "title": "Research Ethics",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "basket": "HST Methods Basket",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 2.0
+      },
+      {
+        "basket": "HST Methods Basket",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 2.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "HSD6003",
+        "title": "MA Research Project Part - III",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 26.0
+        },
+        "credits": 13.0
+      },
+      {
+        "basket": "HST Methods Basket",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 2.0
+      }
+    ]
+  },
+  "raw_text_preview": "HST \u2013 MA in Culture, Society, and Thought\nMA in Culture, Society, and Thought\nHumanities and Social Sciences, Department of\nProgramme Code: HST\nM.A.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n52\nPE (Programme Elective)\n15\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n73\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nApply advanced knowledge in their chosen field of study in preparation for their professional practice or further learning.\nPLO 2\nEffectively synthesize and communicate ideas, embrace teamwork and demonstrate scientific temperament, integrity, personal and professional responsibility.\nPLO 3\nTo learn to think critically, to use diverse methodologies and how to read complex texts in the humanities and social sciences.\nPLO 4\nTo analyse, understand, and address concerns around SDGs such as gender equity, social justice and multicultural coexistence and to enable a comprehensive understanding of these issues.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nHSD5001 MA Research Project Part - I 0 0 6 3\nHSD6002 MA Research Project Part - II 0 0 8 4\nHSD6003 MA Research Project Part - III \u2013 \u2013 \u2013 \u2013\nHSL5001 Theory &amp; Methods in Humanities and Social Sciences 3 0 0 3\nHSL5002 Literary Theory 3 0 0 3\nHSL5003 Philosophical Thinking 3 0 0 3\nHSL5004 Contemporary Social Theory 3 0 0 3\nHSL5006 Political Thought 3 0 0 3\nHSL5200 Basics of Programming for Digital Humanities 1 0 2 2\nHSL5203 Fieldwork Methods 1 0.5 1 2\nHSL5204 Narrative Matters 2 0 0 2\nHSN5000 Research Ethics 0 1 0 1\nHSN5001 Interdisciplinary Reading Bootcamp: Culture, Society, Thought 0 1 0 1\nHSN5002 Writing Workshop 0 1 6 4\nHST5002 Archival Methods 1 0 2 2\nHST5005 Introduction to Research Methods 2 0 6 5\nHST5201 Introduction to Digitization \u2013 \u2013 \u2013 \u2013\nHST5206 Dimensions of Language 2 0 0 2\nHST Methods Basket (1-0-2) 2 credits\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nHSL5200 Basics of Programming for Digital Humanities 1 0 2 2\nHSL5203 Fieldwork Methods 1 0.5 1 2\nHSL5204 Narrative Matters 2 0 0 2\nHST5002 Archival Methods 1 0 2 2\nHST5206 Dimensions of Language 2 0 0 2\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nHSL6204 Ideas of Freedom 3 0 0 3\nHSL6206 Critical Philosophy of Race 3 0 0 3\nHSL6208 Cinemas of India 3 0 0 3\nHSL6210 Introduction to Health Humanities 3 0 0 3\nHSL6211 Foundations in Digital Humanities 3 0 0 3\nHSL6301 An Intellectual History of Political Liberalism 3 0 0 3\nHSL6302 Investigations in Contemporary Global Political Thought 3 0 0 3\nHSL6405 The City and its Literatures 3 0 0 3"
+}

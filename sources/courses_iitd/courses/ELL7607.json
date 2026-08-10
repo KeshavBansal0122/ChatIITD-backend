@@ -1,0 +1,22 @@
+{
+  "code": "ELL7607",
+  "name": "Power System Transients",
+  "description": "Origin and nature of transients and surges. Lumped and distributed circuit representations. Line energisation and de-energisation transients, current chopping, short-line faults, trapped charge effects, effect of source, control of transients, Lightening, effect of tower footing resistance, travelling waves, insulation coordination, circuit breakers duty, surge arresters, overvoltage limiting devices",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Power System Transients | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Power System Transients"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/power-system-transients",
+  "slug": "power-system-transients"
+}

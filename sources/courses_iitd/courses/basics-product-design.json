@@ -1,0 +1,22 @@
+{
+  "code": "AML3050",
+  "name": "Basics of Product Design",
+  "description": "Design, develop and test products considering all aspects of total life cycle of the product. Apply engineering principles to design and develop innovative products through system level integration using model based system engineering (MBSE). Utilize computational design, develop and test products considering all aspects of total life cycle of the product. Apply engineering principles to design and develop innovative products through system level integration using model based system engineering (MBSE). Utilize computational tools (CAD, CAE, AI-based design) for product development. Integrate mechanical, electronic, and control systems for smart products. Learning various stages and steps involved in product design process problem identification, market research, design requirements, idea generation, feasibility study, detailed design. Prototype development, tests and validation, redesign, sample design and development, beta test and evaluation, final design through model based design/system simulation, manufacturing, product launch, monitor and improve. Evaluate sustainability, feasibility, and manufacturability of designs. Implement digital manufacturing, and smart prototyping techniques for POC level. Introduction to entrepreneurship, product launch.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Basics of Product Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Basics of Product Design"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/basics-product-design",
+  "slug": "basics-product-design"
+}

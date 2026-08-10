@@ -1,0 +1,16 @@
+{
+  "code": "PYL7143",
+  "name": "Group Theory in Physics",
+  "description": "Discrete groups and its different properties, subgroups and Lagrange theorem. Permutation groups. Introduction to different point groups. Homomorphism and Isomorphisms. Group representations, Schur's lemma, character tables and orthogonality theorems. Applications of representation theory to problems in physics and chemistry. Continuous groups: SO(N), Clebsch Gordon coefficients. Introduction to lie groups. Advanced applications of discrete and continuous groups.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL7143"
+}

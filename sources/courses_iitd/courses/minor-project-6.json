@@ -1,0 +1,21 @@
+{
+  "code": "CVD7594",
+  "name": "Minor Project",
+  "description": "Provides experience in real-world transportation engineering problems through a minor project completed under a mentor. Provides avenues for applying classroom learning to industry-relevant problems, technical report writing and presentation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": "CVL7501&CVL7502&CVL7051CVL7052",
+  "overlap": null,
+  "learning_outcomes": [
+    "Minor Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/minor-project-6",
+  "slug": "minor-project-6"
+}

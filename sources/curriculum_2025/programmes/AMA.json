@@ -1,0 +1,668 @@
+{
+  "code": "AMA",
+  "name": "M.Tech. in Engineering Analysis and Design",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=AMA",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 42.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "The ability to solve engineering problems related to mechanics using fundamental principles of mechanics and/or analytical techniques."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "The ability to solve complex engineering and provide design solutions using computational, experimental tools, data analysis and/or data-driven techniques."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "The ability to effectively formulate and solve Research &amp; Development problems relevant to the engineering mechanics area, related to challenges of national importance and pressing global issues."
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "The ability to function effectively in a team, collaborate with team members to establish goals, plan tasks, and meet objectives."
+    },
+    {
+      "outcome_id": "PLO5",
+      "text": "The ability to demonstrate ethical and professional responsibilities as an engineer."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "AMD7020",
+        "title": "M.Tech. Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AMD7100",
+        "title": "M.Tech. Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AMD8010",
+        "title": "M.Tech. Major Project Part 1",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "12"
+        },
+        "credits": "6"
+      },
+      {
+        "course_code": "AMD8020",
+        "title": "M.Tech. Major Project Part 2",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "AML7000",
+        "title": "Engineering Mathematics and Numerical Methods",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AML7010",
+        "title": "Computer Aided Engineering Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AML7020",
+        "title": "Optimization Methods",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7030",
+        "title": "Theory of Linear and Nonlinear Elastic Solids",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7040",
+        "title": "Advanced Fluid Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AMN8010",
+        "title": "M.Tech. Teaching Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AMN8020",
+        "title": "M.Tech. Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AMP7100",
+        "title": "Research Communication and Professional Ethics in Mechanics",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "AMT7010",
+        "title": "M.Tech. Internship",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AMN8010",
+        "title": "M.Tech. Teaching Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AMN8020",
+        "title": "M.Tech. Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AMD7020",
+        "title": "M.Tech. Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AMT7010",
+        "title": "M.Tech. Internship",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7050",
+        "title": "Experimental Methods for Solids &amp; Fluids",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7060",
+        "title": "Advanced Dynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7070",
+        "title": "Finite Element Method",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AML7080",
+        "title": "Computational Fluid Dynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AML7090",
+        "title": "Systems Engineering and Design",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7200",
+        "title": "Multiscale Modelling and Computation",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7210",
+        "title": "Theory of Plates and Shells",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7220",
+        "title": "Stability of Structures",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7230",
+        "title": "Smart Materials and Structures",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7260",
+        "title": "Fracture Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7270",
+        "title": "Fatigue Failure and Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7280",
+        "title": "Nonlinear Dynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7400",
+        "title": "Environmental Fluid Dynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7410",
+        "title": "Physics of Turbulent Flows",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7420",
+        "title": "Turbulence and its Modeling",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7430",
+        "title": "Compressible Fluid Flow and Gas Dynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7440",
+        "title": "Hydrodynamic Stability",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7450",
+        "title": "Design of Turbomachinery",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7610",
+        "title": "Fluid Structure Interaction",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7660",
+        "title": "Meshless and Particle-based Methods",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AML7800",
+        "title": "Deep Learning for Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AML7810",
+        "title": "Probabilistic Machine Learning for Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AML7820",
+        "title": "Uncertainty Quantification and Propagation",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7830",
+        "title": "Digital Twins",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AML7840",
+        "title": "Parallel and High Performance Computing for Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AML7870",
+        "title": "Topology and Shape Optimization",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7890",
+        "title": "Control Theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7900",
+        "title": "Reliability Analysis and Reliability-Based Design Optimization",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML8200",
+        "title": "Plasticity",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML8220",
+        "title": "Advanced Finite Element Method",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML8410",
+        "title": "Spectral Methods for Fluid Flow Computations",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "AML7020",
+        "title": "Optimization Methods",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "AML7000",
+        "title": "Engineering Mathematics and Numerical Methods",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "AML7030",
+        "title": "Theory of Linear and Nonlinear Elastic Solids",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "AML7040",
+        "title": "Advanced Fluid Mechanics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "AML7010",
+        "title": "Computer Aided Engineering Design",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "AMA Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "AMD7100",
+        "title": "M.Tech. Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "basket": "AMA Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "AMD8010",
+        "title": "M.Tech. Major Project Part 1",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 12.0
+        },
+        "credits": 6.0
+      },
+      {
+        "basket": "AMA Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "AMD8020",
+        "title": "M.Tech. Major Project Part 2",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      },
+      {
+        "course_code": "AMP7100",
+        "title": "Research Communication and Professional Ethics in Mechanics",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 1.0
+      },
+      {
+        "basket": "Research Communication and Professional Ethics in Mechanics",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 1.0
+      },
+      {
+        "basket": "AMA Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "AMA \u2013 M.Tech. in Engineering Analysis and Design\nM.Tech. in Engineering Analysis and Design\nApplied Mechanics, Department of\nProgramme Code: AMA\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n42\nPE (Programme Elective)\n12\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n60\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nThe ability to solve engineering problems related to mechanics using fundamental principles of mechanics and/or analytical techniques.\nPLO 2\nThe ability to solve complex engineering and provide design solutions using computational, experimental tools, data analysis and/or data-driven techniques.\nPLO 3\nThe ability to effectively formulate and solve Research &amp; Development problems relevant to the engineering mechanics area, related to challenges of national importance and pressing global issues.\nPLO 4\nThe ability to function effectively in a team, collaborate with team members to establish goals, plan tasks, and meet objectives.\nPLO 5\nThe ability to demonstrate ethical and professional responsibilities as an engineer.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nAMD7020 M.Tech. Minor Project 0 0 6 3\nAMD7100 M.Tech. Cornerstone Project 0 0 6 3\nAMD8010 M.Tech. Major Project Part 1 0 0 12 6\nAMD8020 M.Tech. Major Project Part 2 \u2013 \u2013 \u2013 \u2013\nAML7000 Engineering Mathematics and Numerical Methods 3 0 2 4\nAML7010 Computer Aided Engineering Design 3 0 2 4\nAML7020 Optimization Methods 3 0 0 3\nAML7030 Theory of Linear and Nonlinear Elastic Solids 3 0 0 3\nAML7040 Advanced Fluid Mechanics 3 0 0 3\nAMN8010 M.Tech. Teaching Practicum 0 0 8 4\nAMN8020 M.Tech. Research Practicum 0 0 8 4\nAMP7100 Research Communication and Professional Ethics in Mechanics 0 0 2 1\nAMT7010 M.Tech. Internship 0 0 6 3\nAMA Teaching/Research Practicum (0-0-8) 4 NGU\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nAMN8010 M.Tech. Teaching Practicum 0 0 8 4\nAMN8020 M.Tech. Research Practicum 0 0 8 4\nAMA Internship/Minor Project (0-0-6) 3\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nAMD7020 M.Tech. Minor Project 0 0 6 3\nAMT7010 M.Tech. Internship 0 0 6 3\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nAML7050 Experimental Methods for Solids &amp; Fluids 2 0 2 3\nAML7060 Advanced Dynamics 3 0 0 3\nAML7070 Finite Element Method 3 0 2 4\nAML7080 Computational Fluid Dynamics 3 0 2 4\nAML7090 Systems Engineering and Design 1 0 4 3"
+}

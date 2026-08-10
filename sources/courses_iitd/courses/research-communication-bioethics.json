@@ -1,0 +1,22 @@
+{
+  "code": "SBR7010",
+  "name": "Research Communication & Bioethics",
+  "description": "The course gives the student a forum to learn communicate research, to critique the research of colleagues and learn about the best research in their fields. Special topics in research will be assigned by the coordinator; tutorial activities including seminars on their research, critical analyses of other research seminars, discussion on ethical concerns in bio-research; good scientific practices; research writing; understanding and avoiding plagiarism; ethical use of software tools, artificial intelligence and statistical tools in biosciences.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 2.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Research Communication & Bioethics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Research Communication & Bioethics"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/research-communication-bioethics",
+  "slug": "research-communication-bioethics"
+}

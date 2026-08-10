@@ -1,0 +1,22 @@
+{
+  "code": "AIL7013",
+  "name": "Machine Learning and Optimization",
+  "description": "Convex sets and functions, gradient descent, stochastic gradient descent, and variants; constrained optimization (Lagrange multipliers, KKT conditions); duality; applications in training machine learning models; bias-variance tradeoff; empirical risk minimization; VC dimension and generalization bounds; structural risk minimization; regularization and its role in controlling model complexity; PAC learning framework; kernel methods and reproducing kernel Hilbert spaces (RKHS); Markov chains and Monte Carlo methods; introduction to deep learning theory; current trends.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(AIL7001",
+  "overlap": null,
+  "learning_outcomes": [
+    "Machine Learning and Optimization | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Machine Learning and Optimization"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/machine-learning-and-optimization",
+  "slug": "machine-learning-and-optimization"
+}

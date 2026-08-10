@@ -1,0 +1,16 @@
+{
+  "code": "ELL7601",
+  "name": "Advanced Power System Protection",
+  "description": "Fundamentals of protection system protection, over current protection for transmission lines, short circuit current calculations for electrical installations, differential protection, transformer protection, bus bar protection, distance protection, generator protection, digital protection, out of step protection, blinder design, static relays, numerical relay, overview of microgrid protection, phasor based wide area monitoring and protection.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7601"
+}

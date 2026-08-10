@@ -1,0 +1,22 @@
+{
+  "code": "RDL3001",
+  "name": "Climate Change and Community Development",
+  "description": "The course introduces the basic foundations of climate change, examining its causes and impacts on earth\u2019s systems, and its consequences for human societies. It explores the intersection of climate change with community development, focusing on how local communities experience, adapt to, and mitigate climate impacts, including the roles of resilience planning and community-led solutions. Students analyze the links between climate change, social justice, and sustainable development, with attention to issues such as equity, gender, and the domestication of global policies like the sustainable development goals.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Climate Change and Community Development | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Climate Change and Community Development"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/climate-change-and-community-development",
+  "slug": "climate-change-and-community-development"
+}

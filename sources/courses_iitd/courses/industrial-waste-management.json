@@ -1,0 +1,22 @@
+{
+  "code": "CVL8711",
+  "name": "Industrial Waste Management",
+  "description": "An integrated approach to industrial waste and wastewater management, covering both the nature and characteristics of solid wastes and wastewater; pollution prevention, control strategies, and the use of clean process tools such as reuse, recycle, and recovery, alongside source reduction and process modifications; analytical methods like flow sheet analysis, energy and water audits, and waste and emission inventories; management hierarchies, zero discharge concepts, and environmental indicators, along with a detailed review of regulations; case studies from diverse industries illustrate practical applications in reducing environmental impacts and promoting sustainable industrial practices.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Industrial Waste Management | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Industrial Waste Management"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/industrial-waste-management",
+  "slug": "industrial-waste-management"
+}

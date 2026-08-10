@@ -1,0 +1,22 @@
+{
+  "code": "ELL8600",
+  "name": "Selected Topics in Power Systems",
+  "description": "Selected topics that focus on new advancements in the power systems engineering, not covered in other established courses.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Selected Topics in Power Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Selected Topics in Power Systems"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/selected-topics-power-systems",
+  "slug": "selected-topics-power-systems"
+}

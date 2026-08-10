@@ -1,0 +1,16 @@
+{
+  "code": "SPL7797",
+  "name": "Scenario Design for Managing Uncertainty",
+  "description": "Defining a problem; risk and uncertainty; levels of uncertainty, commonly employed approaches to manage uncertainty; definition of a scenario; methods of constructing scenarios; the advantages of scenario analysis; examples of energy and climate scenarios; adaptive decision making; application across different domains.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 1.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SP",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SP#SPL7797"
+}

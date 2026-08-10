@@ -1,0 +1,447 @@
+{
+  "code": "PHM",
+  "name": "M.Tech. in Solid State and Quantum Materials",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=PHM",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 49.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Explain fundamental physical and technical basis of Solid-State Materials including energy materials, thin films and semiconductor device technology, nanostructures, etc."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Handle instruments independently like vacuum and cryogenics as well as advanced characterization tools and develop hands on knowledge."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Describe thebasics of quantum materials including hetrostructures, Spintronics, topology, Superconductivity, etc."
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "Analyse results, simulate outcomes, implement protocols to perform high-end experiments, and present them as reports/publications and oral presentations."
+    },
+    {
+      "outcome_id": "PLO5",
+      "text": "Outline new advanced scientific experimentsin emerging areas of electronic and Quantum Materials and their use in practical applications."
+    },
+    {
+      "outcome_id": "PLO6",
+      "text": "Demonstrate team as well as independent researcher\u2019s capabilities as the institute as well as industry level."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "PYD7001",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYD8001",
+        "title": "Major Project - I",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "18"
+        },
+        "credits": "9"
+      },
+      {
+        "course_code": "PYD8002",
+        "title": "Major Project - II",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "PYL7001",
+        "title": "Physical Foundations of Materials Science",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7002",
+        "title": "Physics of Semiconductor Devices",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7003",
+        "title": "Electronic Properties of Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7004",
+        "title": "Science and Technology of Thin Films",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7005",
+        "title": "Introduction to Quantum Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7105",
+        "title": "Nanostructured Materials",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "PYN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "PYP7001",
+        "title": "Solid State Materials Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYP7002",
+        "title": "Quantum Materials Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYT7002",
+        "title": "Summer Internship/Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7342",
+        "title": "SPICE-PDK Compact Device Models for Silicon IC Design Simulations",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ELP7342",
+        "title": "On-Wafer Device Characterization Laboratory.",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7047",
+        "title": "Nonlinear Optics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7053",
+        "title": "Optical System Design",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7055",
+        "title": "Basic Optics and Optical Instrumentation",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7107",
+        "title": "Characterisation Techniques for Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7123",
+        "title": "Vacuum Science and Cryogenics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7124",
+        "title": "Foundations of Spintronics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7125",
+        "title": "Surface Physics and Analysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7127",
+        "title": "Energy Materials and Devices",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7139",
+        "title": "Computational Techniques for Solid State Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7545",
+        "title": "Topology in Condensed Matter Physics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "PYL7001",
+        "title": "Physical Foundations of Materials Science",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYL7002",
+        "title": "Physics of Semiconductor Devices",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYL7003",
+        "title": "Electronic Properties of Materials",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYP7001",
+        "title": "Solid State Materials Laboratory",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "PYD7001",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYL7004",
+        "title": "Science and Technology of Thin Films",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYL7005",
+        "title": "Introduction to Quantum Materials",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYP7002",
+        "title": "Quantum Materials Laboratory",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "PYD8001",
+        "title": "Major Project - I",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 18.0
+        },
+        "credits": 9.0
+      },
+      {
+        "course_code": "PYN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "PYD8002",
+        "title": "Major Project - II",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      },
+      {
+        "course_code": "PYN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "PHM \u2013 M.Tech. in Solid State and Quantum Materials\nM.Tech. in Solid State and Quantum Materials\nPhysics, Department of\nProgramme Code: PHM\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n49\nPE (Programme Elective)\n6\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n61\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nExplain fundamental physical and technical basis of Solid-State Materials including energy materials, thin films and semiconductor device technology, nanostructures, etc.\nPLO 2\nHandle instruments independently like vacuum and cryogenics as well as advanced characterization tools and develop hands on knowledge.\nPLO 3\nDescribe thebasics of quantum materials including hetrostructures, Spintronics, topology, Superconductivity, etc.\nPLO 4\nAnalyse results, simulate outcomes, implement protocols to perform high-end experiments, and present them as reports/publications and oral presentations.\nPLO 5\nOutline new advanced scientific experimentsin emerging areas of electronic and Quantum Materials and their use in practical applications.\nPLO 6\nDemonstrate team as well as independent researcher\u2019s capabilities as the institute as well as industry level.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nPYD7001 Cornerstone Project 0 0 6 3\nPYD8001 Major Project - I 0 0 18 9\nPYD8002 Major Project - II \u2013 \u2013 \u2013 \u2013\nPYL7001 Physical Foundations of Materials Science 3 0 0 3\nPYL7002 Physics of Semiconductor Devices 3 0 0 3\nPYL7003 Electronic Properties of Materials 3 0 0 3\nPYL7004 Science and Technology of Thin Films 3 0 0 3\nPYL7005 Introduction to Quantum Materials 3 0 0 3\nPYL7105 Nanostructured Materials \u2013 \u2013 \u2013 \u2013\nPYN7001 Teaching and Research Practicum 0 0 8 4\nPYP7001 Solid State Materials Laboratory 0 0 6 3\nPYP7002 Quantum Materials Laboratory 0 0 6 3\nPYT7002 Summer Internship/Minor Project 0 0 6 3\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nELL7342 SPICE-PDK Compact Device Models for Silicon IC Design Simulations 3 0 2 4\nELP7342 On-Wafer Device Characterization Laboratory. 0 0 6 3\nPYL7047 Nonlinear Optics 3 0 0 3\nPYL7053 Optical System Design 2 0 2 3\nPYL7055 Basic Optics and Optical Instrumentation 3 0 0 3\nPYL7107 Characterisation Techniques for Materials 3 0 0 3\nPYL7123 Vacuum Science and Cryogenics 3 0 0 3\nPYL7124 Foundations of Spintronics 3 0 0 3\nPYL7125 Surface Physics and Analysis 3 0 0 3\nPYL7127 Energy Materials and Devices 3 0 0 3\nPYL7139 Computational Techniques for Solid State Materials 3 0 0 3\nPYL7545 Topology in Condensed Matter Physics 3 0 0 3\nSemester-wise Schedule\nSem\nCourses &amp; Baskets\nHrs /\nweek\nNGU\nCredits\n1\nPYL7001 Physical Foundations of Materials Science"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CRL7007",
+  "name": "Human and Machine Speech Communication",
+  "description": "Overview of human and machine speech communication: applications; speech signal measurement and representation. Speech and hearing science topics: speech production and phonetics: speech production mechanism; articulatory and acoustic phonetics; speech production model; international phonetic alphabet; phonetic transcription; hearing and perception. Speech signal analysis: time domain analysis; spectrum domain analysis; spectrogram; cepstrum domain analysis; pitch estimation; voicing analysis; linear prediction analysis. Technology applications: speech coding; speech signal enhancement; speech quality assessment: subjective and objective evaluation of quality; automatic speech recognition; language models; text-to-speech synthesis. The course will include audio demonstrations and require students to do practical exercises with recorded speech signals.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CR#CRL7007"
+}

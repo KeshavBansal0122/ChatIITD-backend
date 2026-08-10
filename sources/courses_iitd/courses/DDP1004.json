@@ -1,0 +1,22 @@
+{
+  "code": "DDP1004",
+  "name": "Human Factors in Design - 1",
+  "description": "This course provides an intermediate level review of the principles of human factors/ergonomics with a focus human information processing and person-technology models in ergonomic design. The course will introduce students to how human factors/ergonomics can be systematically considered and implemented in the development of displays and interactions. The course covers origins of ergonomics, systems thinking, human error, human information processing; human-machine systems; information design; display and control design; affordances and natural mapping; principles of interaction design; inclusive design and accessibility; and design for disability and aging. Through lectures and course activities students will develop competencies in human factors/ergonomics and inclusive design for academic research and professional practice.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Human Factors in Design - 1 | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Human Factors in Design - 1"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/human-factors-design-1",
+  "slug": "human-factors-design-1"
+}

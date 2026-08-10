@@ -1,0 +1,22 @@
+{
+  "code": "MEL3021",
+  "name": "Material Removal Processes",
+  "description": "Introduction to various material removal processes, Understanding basic geometry aspects of modern cutting tools, Understanding the mechanics of Conventional Machining including force, temperature, surface integrity. Methods of estimating and measuring of cutting forces, temperature and surface finish, Tool wear mechanisms and tool life assessment, Basic concepts of cost and economics of machining. Basics of the Modern Machining methods, models related to the material removal rate, Ultraprecision machining and grinding methods and the machine tools used for such processes.",
+  "credits": 3.5,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 1.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Material Removal Processes | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Material Removal Processes"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/material-removal-processes",
+  "slug": "material-removal-processes"
+}

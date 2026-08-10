@@ -1,0 +1,22 @@
+{
+  "code": "MEL7306",
+  "name": "Additive Manufacturing",
+  "description": "Review of solid modeling techniques with comparison, product development, simultaneous engineering and additive manufacturing, basic principles, science, and technical details of various AM technologies, support structure in additive manufacturing, containment and critical applications, generation of the physical layer model, classification of AM processes, virtual prototyping, tessellation (STL format) and tessellation algorithms, defects in STL files and repair algorithms, slicing and various slicing procedures, accuracy and surface quality in additive manufacturing, effect of part deposition orientation on accuracy, surface finish, build time, support structure, cost etc., various rapid tooling techniques, introduction to reverse engineering, laser and metal additive manufacturing, bioprinting and biomedical applications.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Additive Manufacturing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Additive Manufacturing"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/additive-manufacturing",
+  "slug": "additive-manufacturing"
+}

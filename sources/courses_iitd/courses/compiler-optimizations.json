@@ -1,0 +1,22 @@
+{
+  "code": "COL7529",
+  "name": "Compiler Optimizations",
+  "description": "Abstract syntax tree, Intermediate representation, Data flow analysis; Static single assignment; Def-use and Use-def chains; Early optimizations \u2013 constant folding, algebraic simplifications, value numbering, copy propagation, constant propagation; Redundancy Elimination \u2013 dead code elimination, loop invariant code motion, common sub-expression elimination; Register Allocation; Termination and optimality properties of Data flow analysis; Conversion to Static Single Assigment. Scheduling,. Phase ordering problem. Discuss a reasonable subset of optimization algorithms, from among region-based analysis like induction variables, loop transformations like peeling, splitting, unswitching, pointer analysis, optimizing for memory hierarchy \u2013 code placement, scalar replacement of arrays, register pipelining;, loop transformations \u2013 loop fission, loop fusion, loop permutation, loop unrolling, loop tiling; function inlining and tail recursion, dependence analysis; just-in-time compilation, garbage collection, pointer analysis.\nLaboratory component would involve getting familiar with internal representations of compilers; profiling and performance evaluation; and the design and implementation of novel compiler optimizations.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "COL2016COL2026",
+  "overlap": null,
+  "learning_outcomes": [
+    "Compiler Optimizations | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Compiler Optimizations"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/compiler-optimizations",
+  "slug": "compiler-optimizations"
+}

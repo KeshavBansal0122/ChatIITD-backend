@@ -1,0 +1,16 @@
+{
+  "code": "CVL2601",
+  "name": "Traffic and Transportation Planning",
+  "description": "Traffic flow characteristics; Traffic flow models; Queueing theory and cumulative plots; Uninterrupted facilities - road way capacity and level of service; Interrupted facilities \u2013 intersection control and design; Smart traffic infrastructure design; Transportation planning \u2013 demand and supply; Four step travel demand forecasting; Land use transport models; Transportation project evaluation",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL2601"
+}

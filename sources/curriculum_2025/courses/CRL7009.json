@@ -1,0 +1,16 @@
+{
+  "code": "CRL7009",
+  "name": "Underwater Electronic Systems",
+  "description": "Introduction; underwater acoustic communication \u2013 applications: modulation and coding schemes, propagation considerations, equalizers, link budget, diversity. MIMO: underwater acoustic vector sensors \u2013 principles, types, design, calibration, direction of arrival estimation, directivity index. High-resolution imaging \u2013 side-scan sonar, synthetic aperture sonar. CTFM sonar: doppler velocity log, source localization methods.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CR#CRL7009"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ELL7124",
+  "name": "Optimization for Learning and Control",
+  "description": "Mathematical preliminaries on linear algebra and analysis; Convex sets; Afffine subspace and affine hull, Convex hull, Projection; Convex and concave functions, Epi-graph, Relative interior; Polyhedral convexity theory, Hyperplanes, Halfspaces, Polyhedral set, Simplex, Separating Hyperplane, Supporting Hyperplane; Cones, Farkas Lemma, Extreme Points; Unconstrained and Constrained optimizations, Optimality conditions; Linear Programming, Quadratic Programming; Conic Programming, Semidefinite Programming/Linear Matrix Inequalities; Duality Theory, Lagrange multipliers, Optimality conditions, KKT condition, Complementary slackness, Weak and Strong duality; Gradient descent; Newton&#039;s method; Interior point method",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Optimization for Learning and Control | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Optimization for Learning and Control"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/optimization-learning-and-control",
+  "slug": "optimization-learning-and-control"
+}

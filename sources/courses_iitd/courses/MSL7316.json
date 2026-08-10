@@ -1,0 +1,22 @@
+{
+  "code": "MSL7316",
+  "name": "Managing IT Projects and DevOps / MLOps",
+  "description": "Overview to IT Project Management and Agile, Requirement Analysis and Management using Agile, DevOps and ML Ops for IT projects, Lean methodologies - Resource Planning and Budgeting, Managing teams and risks in IT Projects",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Managing IT Projects and DevOps / MLOps | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Managing IT Projects and DevOps / MLOps"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/managing-it-projects-and-devops-mlops",
+  "slug": "managing-it-projects-and-devops-mlops"
+}

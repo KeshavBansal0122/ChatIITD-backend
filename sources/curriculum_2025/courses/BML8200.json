@@ -1,0 +1,16 @@
+{
+  "code": "BML8200",
+  "name": "Biomaterials",
+  "description": "Introduction to the use of implants. Structure and properties of materials used as implants: polymers, ceramics, metal and composites; biological response to implants, wound healing process, cellular response to foreign materials, criteria for selecting implants both for soft tissue and hard tissue, polymers used as vascular prosthesis, contact lens and reconstructive surgery materials.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BM#BML8200"
+}

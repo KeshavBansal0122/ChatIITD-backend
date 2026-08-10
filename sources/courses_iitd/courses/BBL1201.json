@@ -1,0 +1,22 @@
+{
+  "code": "BBL1201",
+  "name": "Mass and Energy Balances in Biochemical Engineering",
+  "description": "Physical variables, units and dimensions, dimensional homogeneity and dimensionless quantities, chemical composition, stoichiometric relations and reaction concepts \u2013 yields and selectivity, chemical equilibrium, system and process, steady state and equilibrium, fundamentals of material balance, material balances on single-unit and multiple-unit processes, material balances with recycle, bypass, and purge streams, stoichiometry of cell growth and product formation, elemental balances, electron balances, basic energy concepts, general energy balance equations, enthalpy calculation procedures, enthalpy change in nonreactive processes, energy balance calculations without reaction, enthalpy change due to reaction, heat of reaction for processes with biomass production, energy balance equation for cell culture, unsteady-state material balance equations, unsteady-state energy balances, behaviour of gases, vapour pressure, humidity and saturation, gas-liquid systems, heat capacity of gases, liquid-liquid systems, liquid and solids.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Mass and Energy Balances in Biochemical Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mass and Energy Balances in Biochemical Engineering"
+  ],
+  "department": "Biochemical Engineering and Biotechnology, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mass-and-energy-balances-biochemical-engineering",
+  "slug": "mass-and-energy-balances-biochemical-engineering"
+}

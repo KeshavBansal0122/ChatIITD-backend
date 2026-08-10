@@ -1,0 +1,16 @@
+{
+  "code": "BBL7147",
+  "name": "Bionanotechnology",
+  "description": "Introduction: Bionanotechnology: lessons from nature; Self-assembly of Biomolecules in Nanotechnology; Bacterial S-Layer; Biomimetic Ferritin; Molecular Imprinting Technologies and their applications, Nano-molecularly imprinted polymers (nanoMIPs); Aptamers as chemical antibodies and their commercial applications; Microbial Nanoparticle Synthesis; Magnetosomes: Trapping Nano-magnetite in Biological Membranes; Protein Based Nanoelectronics; Viral Nanoelectronics; Bacteriorhodopsin and its Technical Applications; Carbon Nanotubes: Towards Next Generation Biosensors; Molecular Lego: Design for Molecular Actuators; Molecular Motors; Nanoparticles for Drug Delivery to Cells and Tissues; Polymer Nanocontainers; Fluorescent Quantum Dots for Biological Labelling",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BB#BBL7147"
+}

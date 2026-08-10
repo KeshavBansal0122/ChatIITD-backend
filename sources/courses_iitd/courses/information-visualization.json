@@ -1,0 +1,22 @@
+{
+  "code": "ELL8224",
+  "name": "Information Visualization",
+  "description": "Fundamentals of visualization: visual encoding, interactions, design principles visualization techniques for different types of data: tabular, trees, graphs, text tools and libraries for visualization. Basics of scientific visualization: surface rendering, volume rendering, vector visualization, tensor visualization. AI and visualization: visual analytics for explainable AI, AI for visualization generation and understanding.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Information Visualization | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Information Visualization"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/information-visualization",
+  "slug": "information-visualization"
+}

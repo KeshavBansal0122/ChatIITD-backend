@@ -1,0 +1,22 @@
+{
+  "code": "PYL7127",
+  "name": "Energy Materials and Devices",
+  "description": "Importance of energy materials and devices in present technology. Energy band diagram and operation of Schottky, homojunction and heterojunction solar cells and devices. Physics of tandem solar cell devices. New generation up conversion and down conversion devices. Concept for thermoelectric materials and devices, methods for improving the thermoelectric properties, application for heating and cooling applications. Operation of photoelectrochemical cell for hydrogen production. Concepts of energy storage and devices like supercapacitors and battery.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Energy Materials and Devices | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Energy Materials and Devices"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/energy-materials-and-devices",
+  "slug": "energy-materials-and-devices"
+}

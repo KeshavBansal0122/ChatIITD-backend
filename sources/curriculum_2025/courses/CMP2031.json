@@ -1,0 +1,16 @@
+{
+  "code": "CMP2031",
+  "name": "Phys Chem Laboratory I: Thermodynamic and Quantitative Lab",
+  "description": "Fundamental theory and techniques for the measurement of concentration of unknown species in the solution and thermodynamic parameters associated with chemical and physical process",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CM#CMP2031"
+}

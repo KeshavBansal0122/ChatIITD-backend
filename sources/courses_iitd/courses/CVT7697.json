@@ -1,0 +1,22 @@
+{
+  "code": "CVT7697",
+  "name": "Internship/Practical Training",
+  "description": "Hands-on professional experience, industry exposure, project work, skill development.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": "CVL7601CVL7602",
+  "overlap": null,
+  "learning_outcomes": [
+    "Internship/Practical Training | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Internship/Practical Training"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/internshippractical-training-0",
+  "slug": "internshippractical-training-0"
+}

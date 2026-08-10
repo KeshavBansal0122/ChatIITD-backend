@@ -1,0 +1,21 @@
+{
+  "code": "SIL7171",
+  "name": "Mobile Security",
+  "description": "Mobile operating system architecture, mobile application development, mobile security model, application security analysis, OWASP mobile vulnerabilities, mobile security features, mobile malware, hacking, system hardening for enterprise environment, smart card for secure operations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "COL2034",
+  "overlap": null,
+  "learning_outcomes": [
+    "Mobile Security | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mobile-security",
+  "slug": "mobile-security"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MLL7210",
+  "name": "Texture and Grain Boundary Engineering in Metals and Alloys",
+  "description": "Representation of crystallographic texture (pole figure, orientation distribution, representation in orientation space, volume fraction of texture components), experimental determination of texture using X-ray diffraction, texture measurements using synchrotron X-rays, scanning electron microscopy (SEM) and transmission electron microscopy (TEM), texture evolution during metal solidification and during phase transformation, texture during material deformation, texture during material heat treatment (annealing), texture in thin films, influence of texture on material properties, texture control in engineering materials with examples.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Texture and Grain Boundary Engineering in Metals and Alloys | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Texture and Grain Boundary Engineering in Metals and Alloys"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/texture-and-grain-boundary-engineering-metals-and-alloys",
+  "slug": "texture-and-grain-boundary-engineering-metals-and-alloys"
+}

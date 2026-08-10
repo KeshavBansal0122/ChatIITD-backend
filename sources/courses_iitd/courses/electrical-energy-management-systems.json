@@ -1,0 +1,22 @@
+{
+  "code": "ESL7415",
+  "name": "Electrical Energy Management Systems",
+  "description": "Importance of energy management, electrical energy auditing methods, demand control, load scheduling/shifting, energy management centres and their functions, economic operation of power system, unit commitment, supervisory control and SCADA systems, optimal resource management in micro grid/decentralized environment, power factor improvement, energy efficient motors, pumps, variable frequency drives, energy efficient lighting, energy conservation in various electrical devices.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Electrical Energy Management Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Electrical Energy Management Systems"
+  ],
+  "department": "Energy Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/electrical-energy-management-systems",
+  "slug": "electrical-energy-management-systems"
+}

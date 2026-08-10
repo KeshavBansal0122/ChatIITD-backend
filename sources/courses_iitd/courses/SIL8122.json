@@ -1,0 +1,22 @@
+{
+  "code": "SIL8122",
+  "name": "Special Topics in Cryptography and Cryptanalysis",
+  "description": "The topics covered will be based on current trends and emerging technology in cryptography and cryptanalysis. They may include advanced concepts in key generation, symmetric key cryptography, asymmetric key cryptography, elliptic curve cryptography, privacy-preserving authentication, homomorphic encryption, and post quantum cryptography.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Special Topics in Cryptography and Cryptanalysis | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Special Topics in Cryptography and Cryptanalysis"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/special-topics-cryptography-and-cryptanalysis",
+  "slug": "special-topics-cryptography-and-cryptanalysis"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ELP7272",
+  "name": "Software Development for Embedded Telecommunication Systems",
+  "description": "Exposure to usage and internals of modern general-purpose and real-time operating systems, use of formal software development life cycle (SDLC), use of software patterns and frameworks, software architectures along with client-server architectures, prompt engineering and vibe coding for modern programming languages beginning with C/C++/D and React, Go, React, Rust, JavaScript/NodeJS inter alia, system-level software development with kernel-level programming.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Software Development for Embedded Telecommunication Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Software Development for Embedded Telecommunication Systems"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/software-development-embedded-telecommunication-systems",
+  "slug": "software-development-embedded-telecommunication-systems"
+}

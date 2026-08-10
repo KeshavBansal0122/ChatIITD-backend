@@ -1,0 +1,22 @@
+{
+  "code": "DSL7755",
+  "name": "Sensing and Imaging Techniques",
+  "description": "Multidisciplinary aspects of various sensing and imaging techniques and their applications in engineering and medicine. Bio-medical sensing and imaging systems: introduction to different imaging methodologies, physics of various methods used in diagnostics, properties of clinical samples and their handling mechanisms, point of care (PoC) diagnostic techniques and their working principles. Sensing and imaging systems for industrial quality control: acoustic, radiographic, infrared, and optical imaging and sensing modalities for industrial process monitoring. Data management: acquisition and analytics, throughput versus speed, compressive sensing, calibration procedures, validation. Various signals/image/video processing techniques for detection and classification.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Sensing and Imaging Techniques | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Sensing and Imaging Techniques"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/sensing-and-imaging-techniques",
+  "slug": "sensing-and-imaging-techniques"
+}

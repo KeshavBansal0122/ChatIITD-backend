@@ -1,0 +1,22 @@
+{
+  "code": "MTL8305",
+  "name": "Modern Methods in Partial Differential Equations",
+  "description": "Review of Lebesgue integration and Classical function spaces, Spaces\nof infinitely differentiable functions, Holder spaces and L^p spaces. \nTheory of distributions: test functions space, regular and singular distributions, support and singular support of distributions, Schwartz distributions and relation to Fourier transform.\n Sobolev spaces: Weak derivatives, Sobolev spaces, approximation\nto identity, approximation with smooth functions, trace spaces,\nSobolev and Poincare inequalities, extension theorems, compact embeddings and negative\norder Sobolev spaces. Second order elliptic equations: Weak solutions,\nLax-Milgram Theorem, Energy estimates, Fredlhom-alternative,\nRegularity of weak solutions, Maximum principles and eigenvalue\nproblems. Direct methods in calculus of variations, Mountain Pass lemma and applications . Linear Evolution equations:\nSecond order parabolic equations, existence and maximum principles.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Modern Methods in Partial Differential Equations | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Modern Methods in Partial Differential Equations"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/modern-methods-partial-differential-equations",
+  "slug": "modern-methods-partial-differential-equations"
+}

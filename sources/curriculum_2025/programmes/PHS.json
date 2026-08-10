@@ -1,0 +1,751 @@
+{
+  "code": "PHS",
+  "name": "M.Sc. in Physics",
+  "generation": "2025",
+  "degree_type": "msc",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=PHS",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 50.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Describe some of the key concepts of physics viz. Classical mechanics, Quantum mechanics, Solid state physics, Optics and photonics, Electronics, etc."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Handle important basic experiments as well as advanced state-of- the art experimental instruments to develop hands on knowledge."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Analyse results and outcomes, implement protocols to perform cutting-edge experiments/simulation, and present them as reports/publications and oral presentations."
+    },
+    {
+      "outcome_id": "PLO5",
+      "text": "Outline new advanced cutting-edge experiments and theoretical understanding in emerging areas of physics viz. semi-conducting materials, quantum computation, quantum materials and their use in device physics."
+    },
+    {
+      "outcome_id": "PLO6",
+      "text": "Demonstrate team as well as independent researcher\u2019s capabilities at the institute as well as industry level."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "PYD6063",
+        "title": "MSc Physics Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYD6065",
+        "title": "MSc Physics Major Project - 1",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYD6066",
+        "title": "MSc Physics Major Project - 2",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "PYL5051",
+        "title": "Classical Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "PYL5052",
+        "title": "Electrodynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "PYL5053",
+        "title": "Mathematical Physics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "PYL5054",
+        "title": "Statistical Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "PYL5055",
+        "title": "Quantum Mechanics-I",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "PYL5056",
+        "title": "Quantum Mechanics II",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL5057",
+        "title": "Electronics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL5058",
+        "title": "Solid State Physics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "PYL5060",
+        "title": "Applied Optics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL6061",
+        "title": "Introduction to Computer Programming",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "PYP5061",
+        "title": "MSc Physics Laboratory - I",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "PYP5062",
+        "title": "MSc Physics Laboratory - II",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "PYL7001",
+        "title": "Physical Foundations of Materials Science",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7002",
+        "title": "Physics of Semiconductor Devices",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7003",
+        "title": "Electronic Properties of Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7004",
+        "title": "Science and Technology of Thin Films",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7005",
+        "title": "Introduction to Quantum Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7047",
+        "title": "Nonlinear Optics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7049",
+        "title": "Quantum Information and Computation",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7051",
+        "title": "Optical Sources, Photometry and Metrology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7052",
+        "title": "Laser Systems and Applications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7053",
+        "title": "Optical System Design",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7055",
+        "title": "Basic Optics and Optical Instrumentation",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7057",
+        "title": "Statistical and Quantum Optics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7060",
+        "title": "Biomedical Optics and Biophotonics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7070",
+        "title": "Ultrafast Optics and Applications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7091",
+        "title": "Fiber Optics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7093",
+        "title": "Photonic Devices",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7107",
+        "title": "Characterisation Techniques for Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7120",
+        "title": "Applied Superconductivity",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7123",
+        "title": "Vacuum Science and Cryogenics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7124",
+        "title": "Foundations of Spintronics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7125",
+        "title": "Surface Physics and Analysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7127",
+        "title": "Energy Materials and Devices",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7130",
+        "title": "Plasma Theory and Simulations",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7139",
+        "title": "Computational Techniques for Solid State Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7140",
+        "title": "Advanced Theory of Condensed Matter",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7141",
+        "title": "Quantum Field Theory 1",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7143",
+        "title": "Group Theory in Physics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7144",
+        "title": "The Standard Model of Elementary Particles",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7151",
+        "title": "Astronomy and Astrophysics I",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7167",
+        "title": "Atomic and Molecular Physics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7171",
+        "title": "Relativity and Gravitation",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7176",
+        "title": "Cold and Process Plasmas",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7185",
+        "title": "Advanced Statistical Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7186",
+        "title": "Non-Equilibrium Statistical Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7190",
+        "title": "Integrated Optics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7195",
+        "title": "Optics and Laser Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7292",
+        "title": "Optical and Quantum Electronics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7545",
+        "title": "Topology in Condensed Matter Physics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7560",
+        "title": "Fourier Optics and Holography",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7590",
+        "title": "Computational Optical Imaging",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL8000",
+        "title": "Numerical and Computational Methods in Research",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "PYL5051",
+        "title": "Classical Mechanics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "PYL5053",
+        "title": "Mathematical Physics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "PYL5055",
+        "title": "Quantum Mechanics-I",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "PYL5057",
+        "title": "Electronics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYP5061",
+        "title": "MSc Physics Laboratory - I",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "PYL5054",
+        "title": "Statistical Mechanics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "PYL5056",
+        "title": "Quantum Mechanics II",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYL5058",
+        "title": "Solid State Physics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "PYP5062",
+        "title": "MSc Physics Laboratory - II",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "PYL5060",
+        "title": "Applied Optics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYL5052",
+        "title": "Electrodynamics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "PYL6061",
+        "title": "Introduction to Computer Programming",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "PYD6063",
+        "title": "MSc Physics Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYD6065",
+        "title": "MSc Physics Major Project - 1",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      }
+    ]
+  },
+  "raw_text_preview": "PHS \u2013 M.Sc. in Physics\nM.Sc. in Physics\nPhysics, Department of\nProgramme Code: PHS\nM.Sc.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n50\nPE (Programme Elective)\n18\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n74\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nDescribe some of the key concepts of physics viz. Classical mechanics, Quantum mechanics, Solid state physics, Optics and photonics, Electronics, etc.\nPLO 2\nHandle important basic experiments as well as advanced state-of- the art experimental instruments to develop hands on knowledge.\nPLO 3\nAnalyse results and outcomes, implement protocols to perform cutting-edge experiments/simulation, and present them as reports/publications and oral presentations.\nPLO 5\nOutline new advanced cutting-edge experiments and theoretical understanding in emerging areas of physics viz. semi-conducting materials, quantum computation, quantum materials and their use in device physics.\nPLO 6\nDemonstrate team as well as independent researcher\u2019s capabilities at the institute as well as industry level.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nPYD6063 MSc Physics Cornerstone Project 0 0 6 3\nPYD6065 MSc Physics Major Project - 1 0 0 6 3\nPYD6066 MSc Physics Major Project - 2 \u2013 \u2013 \u2013 \u2013\nPYL5051 Classical Mechanics 3 1 0 4\nPYL5052 Electrodynamics 3 1 0 4\nPYL5053 Mathematical Physics 3 1 0 4\nPYL5054 Statistical Mechanics 3 1 0 4\nPYL5055 Quantum Mechanics-I 3 1 0 4\nPYL5056 Quantum Mechanics II 3 0 0 3\nPYL5057 Electronics 3 0 0 3\nPYL5058 Solid State Physics 3 1 0 4\nPYL5060 Applied Optics 3 0 0 3\nPYL6061 Introduction to Computer Programming 1 0 2 2\nPYP5061 MSc Physics Laboratory - I 0 0 8 4\nPYP5062 MSc Physics Laboratory - II 0 0 8 4\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nPYL7001 Physical Foundations of Materials Science 3 0 0 3\nPYL7002 Physics of Semiconductor Devices 3 0 0 3\nPYL7003 Electronic Properties of Materials 3 0 0 3\nPYL7004 Science and Technology of Thin Films 3 0 0 3\nPYL7005 Introduction to Quantum Materials 3 0 0 3\nPYL7047 Nonlinear Optics 3 0 0 3\nPYL7049 Quantum Information and Computation 3 0 0 3\nPYL7051 Optical Sources, Photometry and Metrology 3 0 0 3\nPYL7052 Laser Systems and Applications 3 0 0 3\nPYL7053 Optical System Design 2 0 2 3\nPYL7055 Basic Optics and Optical Instrumentation 3 0 0 3\nPYL7057 Statistical and Quantum Optics 3 0 0 3\nPYL7060 Biomedical Optics and Biophotonics 3 0 0 3\nPYL7070 Ultrafast Optics and Applications 3 0 0 3\nPYL7091 Fiber Optics 3 0 0 3\nPYL7093 Photonic Devices 3 0 0 3\nPYL7107 Characterisation Techniques for Materials 3 0 0 3\nPYL7120 Applied Superconductivity 3 0 0 3\nPYL7123 Vacuum Science and Cryogenics 3 0 0 3\nPYL7124 Foundations of Spintronics 3 0 0 3\nPYL7125 Surface Physics and Analysis 3 0 0 3"
+}

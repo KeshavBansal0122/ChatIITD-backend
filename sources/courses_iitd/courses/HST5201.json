@@ -1,0 +1,22 @@
+{
+  "code": "HST5201",
+  "name": "Introduction to Digitization",
+  "description": "This course will introduce students to the digitisation and subsequent archiving of cultural material like texts, oral testimony, and other ephemera. It will focus on ethics of sourcing and handling objects, digitization equipment, formats and compression methods, and digitization life cycle and repositories.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Digitization | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Digitization"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-digitization",
+  "slug": "introduction-digitization"
+}

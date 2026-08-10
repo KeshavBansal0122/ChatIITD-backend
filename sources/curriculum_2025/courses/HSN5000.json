@@ -1,0 +1,16 @@
+{
+  "code": "HSN5000",
+  "name": "Research Ethics",
+  "description": "This course discusses the principles that govern responsible research practices, especially those involving human participants including vulnerable populations. It will examine why there is a need to discuss and not just follow a checklist of procedural guidelines.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSN5000"
+}

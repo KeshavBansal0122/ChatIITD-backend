@@ -1,0 +1,21 @@
+{
+  "code": "SBL7041",
+  "name": "Immunotherapy",
+  "description": "Fundamentals of tumor immunology, autoimmunity, and metabolic disorders (obesity, diabetes), including innate and adaptive immune responses and mechanisms of immune evasion. Describe immune mechanisms in disease progression and evaluate the tumor microenvironment (TME) and immune cell states. Analyze novel immunotherapies, including immune checkpoint inhibitors, chimeric antigen receptor-transduced T cells (CAR-T cells) and T cell receptor (TCR)-transduced T cells therapies, adoptive cell transfer (ACT), TILs, monoclonal antibodies, oncolytic viruses, cytokine therapies, and cancer vaccines. Explain immune checkpoint biology, biomarker-guided therapies, combination strategies, and immune-related adverse events (irAEs). Explore emerging approaches, such as innate immune modulators, bispecific antibodies, and next-generation engineered cell therapies. Translate immunological research into clinical applications to improve patient outcomes.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(SBL1100/SBL1102)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Immunotherapy | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/immunotherapy",
+  "slug": "immunotherapy"
+}

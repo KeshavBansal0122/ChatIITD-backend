@@ -1,0 +1,22 @@
+{
+  "code": "CRD9002",
+  "name": "Capstone Project",
+  "description": "Problem identification and industry-relevant use-case selection.\nSystem-level specification and performance metric definition.\nDataset acquisition, preprocessing, and validation strategy.\nSelection and training of AI/ML models for target applications.\nAlgorithm\u2013hardware co-design and architectural trade-off analysis.\nFixed-point modeling, quantization, and hardware feasibility checks.\nRTL/HLS implementation and integration of ML algorithms.\nFunctional verification, simulation, and timing/power analysis.\nFPGA/ASIC prototyping and real-time performance evaluation.\nTechnical documentation, design review, and final project demonstration.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Capstone Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Capstone Project"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/capstone-project-4",
+  "slug": "capstone-project-4"
+}

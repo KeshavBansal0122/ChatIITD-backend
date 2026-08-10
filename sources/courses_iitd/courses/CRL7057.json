@@ -1,0 +1,22 @@
+{
+  "code": "CRL7057",
+  "name": "Image Computation and Data Science: Techniques and Applications",
+  "description": "This course explores the fundamentals and advanced concepts of image computation and data science. Topics include digital image representation, pre-processing techniques, and image processing methods such as filtering, morphological operations, and transforms (Fourier, cosine, Hough). It covers inverse problems like denoising, deblurring, and reconstruction, alongside probabilistic methods like Markov random fields (MRFs) and graph-based segmentation. Deep learning modules include CNNs, transfer learning, and generative models (autoencoders, GANs, diffusion models). Specialized applications include texture synthesis, medical image analysis, and accelerated MRI reconstruction. The course emphasizes hands-on learning with python tools, projects, and real-world insights.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Image Computation and Data Science: Techniques and Applications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Image Computation and Data Science: Techniques and Applications"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/image-computation-and-data-science-techniques-and-applications",
+  "slug": "image-computation-and-data-science-techniques-and-applications"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ELP3502",
+  "name": "e-Mobility Systems Laboratory",
+  "description": "This lab focuses on experimental analysis and control of electric drive and power electronic systems used in e-mobility applications. Students will study slip variation and V/f control in induction motors, back-EMF characteristics and speed control of PMSM and BLDC motors, and modulation techniques for three-phase inverters including SPWM and SVPWM. The lab also covers DC\u2013DC converter control with emphasis on constant current and constant voltage operation.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "prereq": "(ELL3502)",
+  "overlap": null,
+  "learning_outcomes": [
+    "e-Mobility Systems Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "e-Mobility Systems Laboratory"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/e-mobility-systems-laboratory",
+  "slug": "e-mobility-systems-laboratory"
+}

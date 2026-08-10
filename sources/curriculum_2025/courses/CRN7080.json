@@ -1,0 +1,16 @@
+{
+  "code": "CRN7080",
+  "name": "Teaching Research Practicum",
+  "description": "Students are expected to assist with grading assignments and exams, preparing course materials, managing class activities, and/or supporting student engagement. They are also expected to help with lab sessions and other administrative tasks related to the course. Students also need to do a research project with a faculty supervisor.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CR#CRN7080"
+}

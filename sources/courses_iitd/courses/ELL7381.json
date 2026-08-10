@@ -1,0 +1,22 @@
+{
+  "code": "ELL7381",
+  "name": "Integrated Photonic Devices and Circuits",
+  "description": "Introduction to photonic integrated circuits and devices, optical waveguides: optical waveguide theory, orthogonality condition of guided modes, single-mode and multimode waveguides, slab waveguides, channel waveguides (buried channel waveguides, strip-loaded waveguides, ridge waveguides, rib waveguides), slot waveguides, photonic crystal waveguides, waveguide bends, coupled mode theory (CMT), application of CMT to directional couplers, Mach-Zehnder interferometers and grating waveguides, super-mode analysis (SMA), application of SMA to tapered waveguides and Y-junction splitter/combiners, coupling of light into and out of photonic integrated circuits, integrated photonic platforms on various materials and their fabrication methodologies, photonic integrated passive devices: directional couplers, Mach-Zehnder interferometer, microring resonator, arrayed-waveguide gratings, integrated Fabry-Perot resonators, Bragg grating waveguides, mulitplexers and demultiplexers, photonic integrated active devices: integrated light sources, integrated photodetectors, reconfigurable filters, integrated thermo-optic switches, integrated electro-optic switches, Tunable delay lines, integrated modulators, integration of photonic devices and circuits: field programmable photonic gate array, photonic logic circuits, integrated transmitters and receivers, silicon photonic integrated devices and circuits, III-V photonic integrated devices and circuits.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Integrated Photonic Devices and Circuits | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Integrated Photonic Devices and Circuits"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/integrated-photonic-devices-and-circuits",
+  "slug": "integrated-photonic-devices-and-circuits"
+}

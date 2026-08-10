@@ -1,0 +1,22 @@
+{
+  "code": "CHL7410",
+  "name": "Aerosol Science: Applied to Air Quality",
+  "description": "This course introduces students to the principles of aerosol science. It covers the physical, chemical, and dynamic properties of aerosols, their behavior in the atmosphere, and their impact on air quality and human health. The course will introduce students to aerosol sources, formation pathways, and particle dynamics and transport that dictate their behavior in air. The course will also explore methods for aerosol deposition, characterization, source apportionment, control strategies, and regulatory measures aimed at improving air quality. Students will gain hands-on experience with the techniques used to measure and analyze aerosols, along with an understanding of their role in various environmental and industrial contexts through case studies and projects.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL1001&CHL3003",
+  "overlap": null,
+  "learning_outcomes": [
+    "Aerosol Science: Applied to Air Quality | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Aerosol Science: Applied to Air Quality"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/aerosol-science-applied-air-quality",
+  "slug": "aerosol-science-applied-air-quality"
+}

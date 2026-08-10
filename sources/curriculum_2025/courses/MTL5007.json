@@ -1,0 +1,16 @@
+{
+  "code": "MTL5007",
+  "name": "Functional Analysis",
+  "description": "Normed linear spaces: Normed linear spaces and their examples; Banach spaces and their examples; quotient spaces; finite-dimensional Banach spaces and properties. Bounded linear operators: definition and examples of bounded linear operators; properties of bounded linear operators. Dual and transpose: definition and examples of dual spaces; characterization of the dual of certain Banach spaces; definition and properties of the transpose of a bounded linear operator. Fundamental theorems of functional analysis: Hahn\u2013Banach theorems; uniform boundedness principle; open mapping theorem; closed graph theorem. Geometry of Hilbert spaces: inner product spaces and their properties; Hilbert spaces and examples; best approximation in Hilbert spaces; orthogonal complements; orthonormal bases; dual of a Hilbert space. Basic operator theory in Hilbert spaces: Adjoint of an operator; self-adjoint operators; normal and unitary operators; projections. Compact operators: definition, examples, and basic properties of compact operators; spectral theorem for compact self-adjoint operators.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTL5007"
+}

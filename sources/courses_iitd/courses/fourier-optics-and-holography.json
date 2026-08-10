@@ -1,0 +1,22 @@
+{
+  "code": "PYL7560",
+  "name": "Fourier Optics and Holography",
+  "description": "Signals and systems, Fourier transform(FT), sampling theorem; projection-slice theorem, diffraction theory: angular spectrum method, Fresnel and Fraunhofer approximations, FT properties of lenses and image formation by a lens; frequency response of a diffraction-limited system under coherent and incoherent illumination, OTF-effects of aberration and apodization, comparison of coherent and incoherent imaging, super-resolution; techniques for measurement of OTF; Analog optical information processing: Abbe-Porter experiement, phase contrast microscopy and other simple applications; coherent image processing: van der Lugt filter; pattern recognition; basics of holography, in-line and off-axis holography; transmission and reflection holograms, amplitude and phase holograms; computational techniques for wave optics, diffraction, imaging and digital holography simulations; computer generated holograms.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Fourier Optics and Holography | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fourier Optics and Holography"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fourier-optics-and-holography",
+  "slug": "fourier-optics-and-holography"
+}

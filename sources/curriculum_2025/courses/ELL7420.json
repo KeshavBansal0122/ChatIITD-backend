@@ -1,0 +1,16 @@
+{
+  "code": "ELL7420",
+  "name": "Advanced Digital Signal Processing",
+  "description": "Review of signals and systems, sampling and data reconstruction processes, Z transforms, and discrete linear systems. Frequency domain design of digital filters. Study of finite word length (quantization) effects in digital filters. Introduction to sparsity and compressed sensing. Multi-dimensional DSP: tensor formulation of N-D signals and tensor decompositions for example canonical Polyadic decomposition, Tucker decomposition, and tensor-train (TT). Tensor filtering with separable operations along each mode. Discrete Fourier transform, FFT and other fast algorithms for computing the Fourier transform. High speed convolution and its application to digital filtering. Introduction to Multirate signal processing, Multirate filtering and Filterbanks (including polyphase decomposition), and perfect reconstruction. Design of Cyclostationarity and LPTV filters. Introduction to wavelet transform.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7420"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CVL7737",
+  "name": "Building Sciences",
+  "description": "Introduction to principles of heat transfer-conduction, convection and radiation. Heat exchange of building with the environment under diurnal periodic variation of temperature. Thermal design philosophy is based on principles such as shape, orientation, envelope properties etc. Glazing and shading, thermal bridging, thermal comfort parameters, purpose of ventilation, wind and stack effect as driving force, indoor air quality, fundamentals of acoustics, external and internal air borne noise, control, lighting principles and daylighting. Daylight factor, and design for desired illumination and glare-free lighting.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Building Sciences | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Building Sciences"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/building-sciences",
+  "slug": "building-sciences"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ELL8123",
+  "name": "Adaptive Control",
+  "description": "The course introduces the principles and design of adaptive control systems \u2014 controllers that can adjust their parameters in real time to maintain desired performance despite plant uncertainties. Students will develop a rigorous understanding of parameter estimation, model reference adaptive control, and Lyapunov-based design methods, with applications to robotics, aerospace, and automotive systems. Background in Lyapunov theory will be helpful.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL7101",
+  "overlap": null,
+  "learning_outcomes": [
+    "Adaptive Control | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Adaptive Control"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/adaptive-control",
+  "slug": "adaptive-control"
+}

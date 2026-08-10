@@ -1,0 +1,22 @@
+{
+  "code": "MSL7337",
+  "name": "Managing Enterprise Blockchain based Information Systems",
+  "description": "The Advanced Blockchain Architectures course provides an in-depth exploration of Blockchain architecture, emphasizing technical components and complex features like cryptography and node management. Students will gain a comprehensive understanding of crucial aspects such as the integral parts of Blockchain, proof of concept, privacy issues, and security measures. The course will also equip students with advanced concepts like, the interoperability between different blockchains, the scalability of blockchain solutions, and the environmental impacts of blockchain technology. At the end of the course, students will be able to:\n- Describe the process of delivering a blockchain solution\n- Explain how to design and implement a proof of concept\n- Conduct a needs analysis\n- Identify limitation and concerns for enterprise blockchain adoption\n- Explain the technical implementations of self-sovereign identity on blockchains\n- List some techniques for integrating blockchain networks with other blockchains\n- Explain how to architect interoperable blockchain ecosystems",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Managing Enterprise Blockchain based Information Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Managing Enterprise Blockchain based Information Systems"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/managing-enterprise-blockchain-based-information-systems",
+  "slug": "managing-enterprise-blockchain-based-information-systems"
+}

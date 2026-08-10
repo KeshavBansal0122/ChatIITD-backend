@@ -1,0 +1,22 @@
+{
+  "code": "HSL8501",
+  "name": "Buddhist Philosophy",
+  "description": "This course discusses Buddhist views on philosophical problems related to metaphysical concepts, epistemological questions, and ethical and social issues from primary and secondary sources. The course gives a brief introduction to Buddhist philosophical schools in order to locate the present study in the general framework of Buddhism. To understand different philosophical perspectives on philosophical questions, the present course engages with a comparative study between Buddhist philosophy and other philosophical traditions like classical Indian philosophy and Western philosophy. In addition to that, the course reexamines Buddhist philosophical theories critically.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Buddhist Philosophy | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Buddhist Philosophy"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/buddhist-philosophy",
+  "slug": "buddhist-philosophy"
+}

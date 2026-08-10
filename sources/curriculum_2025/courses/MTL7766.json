@@ -1,0 +1,16 @@
+{
+  "code": "MTL7766",
+  "name": "Multivariate Statistical Analysis",
+  "description": "Multivariate distributions, sample geometry, expectations of sample mean and covariance, multivariate normal distribution, sampling and maximum likelihood estimation, sampling distributions and asymptotics, Wishart and Hotelling distributions, likelihood ratio tests, confidence regions, hypothesis testing for mean vectors, comparisons across populations, simultaneous confidence intervals, two-way MANOVA, multiple and multivariate regression, least squares estimation, inference on models and parameters, linear discriminant analysis, classification methods, principal component analysis, graphical representation of components, factor analysis including orthogonal models, estimation, rotation, and scores, and canonical correlation analysis for exploring relationships between multivariate variable sets.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTL7766"
+}

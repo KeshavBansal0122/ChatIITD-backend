@@ -1,0 +1,16 @@
+{
+  "code": "MSL7101",
+  "name": "Financial Reporting and Analysis",
+  "description": "This course introduces the accounting principles underlying financial statements and their use in decision-making. Students learn to prepare and interpret the balance sheet, income statement, and cash flow statement. The course also develops skills in financial statement and ratio analysis to evaluate firm performance and financial health using practical cases and problems.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MS#MSL7101"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "COL3152",
+  "name": "Theory of Computation",
+  "description": "Regular languages: deterministic and non-deterministic finite automata, regular expressions, closure properties, pumping lemma, Myhill-Nerode theorem, minimal automata. Context-free languages: grammars, pushdown automata, closure properties, pumping lemma. Decidable and recognizable languages: deterministic and non-deterministic Turing machines, multi-tape Turing machines, closure properties, universal Turing machines, Church-Turing thesis. Undecidability and un-recognizability: diagonalization, mapping reductions, Rice\u2019s theorem. Time complexity, time hierarchy theorem, NP-completeness, Cook-Levin theorem.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": "COL1002/MTL1080",
+  "overlap": null,
+  "learning_outcomes": [
+    "Theory of Computation | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Theory of Computation"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/theory-computation-0",
+  "slug": "theory-computation-0"
+}

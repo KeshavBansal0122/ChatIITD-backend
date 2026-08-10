@@ -1,0 +1,22 @@
+{
+  "code": "PYL3101",
+  "name": "Vacuum Technology & Surface Science",
+  "description": "Introduction and fundamentals of vacuum, need of vacuum and basic concepts, gas flow regimes, gas flow and release mechanisms, production of vacuum, vacuum measurement, and instrumentation, challenges in vacuum instrumentation, materials and surfaces in vacuum, surface properties, atomic and surface dynamics, experimental techniques in surface analysis, applications of vacuum and surface in semiconductor manufacturing, energy systems, space technology, and quantum devices, overview the real-world relevance of vacuum and surface science.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Vacuum Technology & Surface Science | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Vacuum Technology & Surface Science"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/vacuum-technology-surface-science",
+  "slug": "vacuum-technology-surface-science"
+}

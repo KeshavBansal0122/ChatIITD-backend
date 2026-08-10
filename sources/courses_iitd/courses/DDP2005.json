@@ -1,0 +1,22 @@
+{
+  "code": "DDP2005",
+  "name": "Studio I: Interaction Design (IxD)",
+  "description": "This course introduces students to the fundamentals of interaction design, focusing on principles such as affordances, feedback, constraints, and usability. Students practice user-centered methods including need finding, task flows, and persona creation, while learning ideation techniques and prototyping methods ranging from paper sketches to digital low-fidelity prototypes. Emphasis is placed on usability testing, iteration, and clear communication of design concepts through wireframes, storyboards, and simple interactive demos. The course outcomes leads to a final prototype and presentation, building a strong foundation for IxD Studio II in the following semester.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": "(DDP1002&DDP1004&DDP1007&DDP1005)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Studio I: Interaction Design (IxD) | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Studio I: Interaction Design (IxD)"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/studio-i-interaction-design-ixd",
+  "slug": "studio-i-interaction-design-ixd"
+}

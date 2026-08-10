@@ -1,0 +1,22 @@
+{
+  "code": "CVL7301",
+  "name": "Construction Project Management",
+  "description": "Introduction to construction project management, agile project management, scope management, MIS, work breakdown structure and project definition rating index, identification of risk and impact, labour productivity variations, productivity improvements-work study, quality and safety: planning and control, project scheduling techniques-CPM, PERT, PDM, LOB, time and cost management, material related management- purchase and inventory control, time cost resource optimization, measuring project progress and performance-EVA and ES, software based project management.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Construction Project Management | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Construction Project Management"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/construction-project-management",
+  "slug": "construction-project-management"
+}

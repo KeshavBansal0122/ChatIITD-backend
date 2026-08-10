@@ -1,0 +1,16 @@
+{
+  "code": "PYL1003",
+  "name": "Mechanics and Special Theory of Relativity",
+  "description": "Newton's equations of motion along with conservation laws. The central force motion along with different possible trajectories, followed by non-inertial frame of reference. Rigid-body dynamics. Michelson\u2013Morley experiment, postulates of special theory of relativity and its consequences.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL1003"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "AML7630",
+  "name": "Soft Robotics",
+  "description": "Soft actuators: History, current status, and infrastructure; Natural and artificial muscles; Smart materials for soft actuators; Hyperelasticity: Viscoelasticity; Modeling techniques of soft mechanics; Mechanics of soft elastomeric materials; Soft sensors (Fluidic, solid, composites, textiles); Fabrication recipes for soft machines; Applications of soft machines in different possible areas; Fabrication of soft robot subsystems using 3D printing and elastomer (silicon) casting; Mechanical characterization of silicone rubber; Soft manipulator arms; Soft gripper fabrication and testing; Fludo-Jelly fabrication (Jellyfish-like soft robot enabled by soft pneumatic composite); Pneumatic wrist brace fabrication and testing; Fabrication and testing of fiber-braided soft actuator",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "AML2010&AML2020",
+  "overlap": null,
+  "learning_outcomes": [
+    "Soft Robotics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/soft-robotics",
+  "slug": "soft-robotics"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "SBR7010",
+  "name": "Research Communication & Bioethics",
+  "description": "The course gives the student a forum to learn communicate research, to critique the research of colleagues and learn about the best research in their fields. Special topics in research will be assigned by the coordinator; tutorial activities including seminars on their research, critical analyses of other research seminars, discussion on ethical concerns in bio-research; good scientific practices; research writing; understanding and avoiding plagiarism; ethical use of software tools, artificial intelligence and statistical tools in biosciences.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 2.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBR7010"
+}

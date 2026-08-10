@@ -1,0 +1,22 @@
+{
+  "code": "DAN1007",
+  "name": "Language Through Literature",
+  "description": "This course is designed to help students develop an understanding of everyday texts that they usually come across. This course aims to enhance students\u2019 English language proficiency by engaging with a diverse range of literary texts (intriguing their interest in literature through short stories, poems, and excerpts from novels and plays, which in turn will result in advancement of their vocabulary, grammar, and comprehension skills. This course is designed to provide a comprehensive overview for beginners, focusing on both language development and literary appreciation.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Language Through Literature | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Language Through Literature"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/language-through-literature",
+  "slug": "language-through-literature"
+}

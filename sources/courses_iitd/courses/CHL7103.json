@@ -1,0 +1,22 @@
+{
+  "code": "CHL7103",
+  "name": "Molecular Biotechnology and in-vitro Diagnostics",
+  "description": "This course explores the molecular principles behind modern diagnostics with a focus on applications in chemical and bioprocess engineering. It covers biomolecular structure, key techniques like PCR, qPCR, and CRISPR diagnostics, and critical parameters such as sensitivity, specificity, and LOD. Students learn about reporter technologies, surface functionalization, and bioaffinity binders (for example, antibodies, aptamers) used in biosensors and lab-on-a-chip platforms. Assay design, including homogeneous, heterogeneous, and multiplexed formats, is discussed with real-world examples. Emphasis is placed on bridging molecular theory with industrial applications in bioprocess monitoring, quality control, and point-of-care diagnostics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Molecular Biotechnology and in-vitro Diagnostics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Molecular Biotechnology and in-vitro Diagnostics"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/molecular-biotechnology-and-vitro-diagnostics",
+  "slug": "molecular-biotechnology-and-vitro-diagnostics"
+}

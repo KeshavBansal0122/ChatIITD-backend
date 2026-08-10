@@ -1,0 +1,22 @@
+{
+  "code": "HSL6501",
+  "name": "Principles of Rationalism and Empiricism",
+  "description": "To what extent does sense experience ground our knowledge of the world and what is cognitive role of reflective experience? The course explores this debate by surveying some key epistemological and metaphysical issues in the works of six major philosophers - Descartes, Spinoza, Leibniz, Locke, Berkeley and Hume. Topics covered from Descartes include foundationalism and criteria for certainty, internalism and doubting arguments, theory of ideas and substance dualism. From Spinoza: substance monism, theory of attributes, knowledge and cognition. Leibniz: principles of sufficient reason and identity, predicate-in-notion, contradiction and continuity. Locke: concept empiricism, representation, qualities, personal identity, knowledge and judgment. Berkeley: likeness principle, anti-abstractionism, master argument and active substances. Hume: copy principles, the fork, associationism and skeptical doubts, and ideas of necessary connection.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Principles of Rationalism and Empiricism | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Principles of Rationalism and Empiricism"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/principles-rationalism-and-empiricism",
+  "slug": "principles-rationalism-and-empiricism"
+}

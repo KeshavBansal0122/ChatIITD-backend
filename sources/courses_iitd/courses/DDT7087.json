@@ -1,0 +1,22 @@
+{
+  "code": "DDT7087",
+  "name": "Summer Internship",
+  "description": "Students will be interning in an organization to develop experience in the application of design methods and to develop skills in communication, learn to collaborate, work efficiently in teams and gain exposure to practical/industry relevant problems in the professional practice of design. Students will be assigned a project by their reporting officer, where they have to work on problems related to their internship using design methods.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": "(DDP7001&DDP7002&DDP7003&DDP7004&DDP7005) &(DDD7006&DDL7007)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Summer Internship | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Summer Internship"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/summer-internship-10",
+  "slug": "summer-internship-10"
+}

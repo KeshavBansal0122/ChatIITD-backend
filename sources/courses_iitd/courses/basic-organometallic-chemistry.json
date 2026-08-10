@@ -1,0 +1,22 @@
+{
+  "code": "CML5024",
+  "name": "Basic Organometallic Chemistry",
+  "description": "Organometallic chemistry of main-group, transition, and inner transition metals; synthesis and applications of organometallic reagents such as BuLi, Grignard, organoaluminum, and organozinc compounds. The 18-electron rule, bonding and IR characteristics of metal carbonyls, and coordination chemistry of phosphines and N-heterocyclic carbenes (NHCs). Interactions of alkenes, alkynes, carbenes, and carbynes with metal centers; hapticity concepts involving \u03b7\u00b2\u2013\u03b7\u2078 ligands. Fundamental organometallic reaction mechanisms including oxidative addition, reductive elimination, migratory insertions (1, 1- and 1, 2-), and \u03b2-hydride elimination. Substitution mechanisms, fluxional behavior, and hapticity changes in organometallic complexes. Organometallic clusters, C\u2013H bond activation, and agostic/anagostic interactions. Homogeneous catalysis involving hydrogenation, hydroformylation, methanol carbonylation to acetic acid, and Wacker oxidation. Introduction to cross-coupling and olefin metathesis reactions, as well as olefin oligomerization and polymerization processes.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Basic Organometallic Chemistry | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Basic Organometallic Chemistry"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/basic-organometallic-chemistry",
+  "slug": "basic-organometallic-chemistry"
+}

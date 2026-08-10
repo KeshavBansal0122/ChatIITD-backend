@@ -1,0 +1,16 @@
+{
+  "code": "DSL7711",
+  "name": "Sensors and Transducers",
+  "description": "Transducer terminology; design and performance characteristics, --- criteria for transducer selection. Case studies \u2013 transducer\u2019s principles of representative cases with emphasis on special electronic conditioning requirements of different type of sensors-- resistive transducer, inductive transducers, capacitive transducers, piezoelectric transducer, semiconductor and other sensing structures. Displacement transducers; tachometers and velocity transducers; accelerometers and gyros; strain gauges; force and torque transducers; flow meters and level sensors; pressure transducers; sound and ultrasonic transducer. Phototubes and photodiodes; photovoltaic and photoconductive cells, photoemission, photo electromagnetic, detectors pressure actuated photoelectric detectors, design and operation of optical detectors, detector characteristics. Brief introduction to smart intelligent sensors, MEMS, nano. Transducer performance: static and dynamic performance parameters. Standards: electrical tests, measurement unit, measurement standards of of voltage, current, frequency, impedance. Errors and noise: types of errors, effect of noise and errors on resolution and threshold. Dynamic range. Testing: calibration, dynamic tests, environmental test, life test. Case studies in application of transducers: displacement, velocity, acceleration, force, stress, strain, pressure and temperature measurement. Angular and linear encoders, radar, laser and sonar distance measurement, tachometers, viscometer, densitometer.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DS#DSL7711"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CRL7033",
+  "name": "Selected Topics in RFDT-III",
+  "description": "Advanced course on selected topics of relevance to the RFDT MTech program. The course content will depend on the selected topics taught by the instructor.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CR#CRL7033"
+}

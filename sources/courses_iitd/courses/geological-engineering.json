@@ -1,0 +1,22 @@
+{
+  "code": "CVL2401",
+  "name": "Geological Engineering",
+  "description": "Introduction: geology and geological Engineering, Principles of geology, Geological time scale, Geology of rock and soil formation, Rock Cycle, Bowen\u2019s reaction series, Rock structure and classification, Attitude of rock structures and measurements, Rock mechanics: concepts, Material Models, Deposits and Landforms, Geological Mapping, Plate tectonics: Earthquakes and damage; Geophysical techniques, Geology of dam and tunnel design; Expansive soils and heaving bed- rock, slope instability classification, Groundwater in slopes, Stereonets & kinematic analysis, Slope monitoring, Tunneling concepts, Geological hazards, Case Studies.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Geological Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Geological Engineering"
+  ],
+  "department": "Engineering & Structural Geology",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/geological-engineering",
+  "slug": "geological-engineering"
+}

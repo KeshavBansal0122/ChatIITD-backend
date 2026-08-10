@@ -1,0 +1,22 @@
+{
+  "code": "AML8420",
+  "name": "Advanced Computational Fluid Dynamics",
+  "description": "Fluid flow governing equations, derivatives in curvilinear coordinates (covariant and contravariant basis), Delaunay triangulation for unstructured grid generation, higher order finite difference schemes (compact, spectral difference, etc), higher order upwind schemes, governing equations in rotating frame, semi-implicit time marching methods, discretization for turbulent flows, parallel computation in CFD, special topics (multiphase/compressible/meshless/multigrid etc)",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(AML7080/CHL7207/MEL7419/AML3070)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Computational Fluid Dynamics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Computational Fluid Dynamics"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-computational-fluid-dynamics",
+  "slug": "advanced-computational-fluid-dynamics"
+}

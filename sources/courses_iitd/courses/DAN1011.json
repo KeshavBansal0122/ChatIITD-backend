@@ -1,0 +1,21 @@
+{
+  "code": "DAN1011",
+  "name": "Visual Language",
+  "description": "This course aims to provide students a foray into the world of visual arts and incorporate them in a classroom setup to enhance their listening, speaking, reading, writing (LSRW) skills. In this course we will explore, observe, analyse and attempt to express and respond to different kinds of art. It is through these authentic learning materials that students will engage with, to broaden their arena of knowledge, critical thinking skills, and express their ideas in varied ways. The course will provide a space for students to learn to express their thoughts and opinions and recreate art in response. The course deals with paintings, advertisements, architecture and landscape, sculpture, performance art, craft, photography and digital art as its rich source of authentic learning materials. The course will encourage extensive peer collaboration and feedback which will help in developing their research, interpersonal and collaborative skills. The course aims to promote art integrated learning of language allowing students to explore language learning possibilities beyond the classroom scenario.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Visual Language | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/visual-language",
+  "slug": "visual-language"
+}

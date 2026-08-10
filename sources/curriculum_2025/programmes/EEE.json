@@ -1,0 +1,451 @@
+{
+  "code": "EEE",
+  "name": "M.Tech. in Communications Engineering",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=EEE",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 44.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Students will be able to demonstrate strong theoretical and applied foundations in the broad areas of signal processing and wireless communications, and will be able to solve industry- driven problems."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Students will be able to effectively communicate their ideas to the society in the form of technical reports and impactful presentations, work independently as well as with multidisciplinary teams, provide ethical, and sustainable solutions to engineering problems."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "ELD7007",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELD7460",
+        "title": "MTech Project Part 1",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "12"
+        },
+        "credits": "6"
+      },
+      {
+        "course_code": "ELD7460",
+        "title": "MTech Project Part 1",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "12"
+        },
+        "credits": "6"
+      },
+      {
+        "course_code": "ELD7465",
+        "title": "MTech Project Part 2",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "ELL7000",
+        "title": "Professional Ethics in Electrical Engineering",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "ELL7400",
+        "title": "Signal Theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7401",
+        "title": "Digital Communications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7402",
+        "title": "Detection and Estimation Theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7403",
+        "title": "Computer Communication Networks",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ELL7411",
+        "title": "Wireless Communications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ELP7411",
+        "title": "Wireless Communications Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "1",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "BSP7010",
+        "title": "Communication and Signal Processing Technologies Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "1",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7293",
+        "title": "Computer Vision",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7311",
+        "title": "Microwave Theory and Techniques",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7328",
+        "title": "Applied VLSI Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7405",
+        "title": "Basic Information Theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7406",
+        "title": "Coding Theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7410",
+        "title": "Statistical Signal Processing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7412",
+        "title": "Multichannel Signal Processing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7413",
+        "title": "Microwave Theory and Techniques",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7414",
+        "title": "Selected Topics in Communication and Signal Processing - I",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7420",
+        "title": "Advanced Digital Signal Processing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7437",
+        "title": "Fiber-Optic Communication Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7450",
+        "title": "Machine Learning for Wireless Communications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ELL8415",
+        "title": "MIMO Wireless Communication",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL8416",
+        "title": "Wireless Optical Communication",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "ELL7401",
+        "title": "Digital Communications",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ELL7400",
+        "title": "Signal Theory",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ELL7402",
+        "title": "Detection and Estimation Theory",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ELL7403",
+        "title": "Computer Communication Networks",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "ELN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "ELD7007",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ELL7411",
+        "title": "Wireless Communications",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ELN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "ELD7460",
+        "title": "MTech Project Part 1",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 12.0
+        },
+        "credits": 6.0
+      },
+      {
+        "course_code": "ELP7411",
+        "title": "Wireless Communications Laboratory",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 1.0,
+          "practical": 4.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ELL7000",
+        "title": "Professional Ethics in Electrical Engineering",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "ELN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "ELD7465",
+        "title": "MTech Project Part 2",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      },
+      {
+        "course_code": "ELN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "EEE \u2013 M.Tech. in Communication Systems\nM.Tech. in Communication Systems\nElectrical Engineering, Department of\nProgramme Code: EEE\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n44\nPE (Programme Elective)\n12\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n62\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nStudents will be able to demonstrate strong theoretical and applied foundations in the broad areas of signal processing and wireless communications, and will be able to solve industry- driven problems.\nPLO 2\nStudents will be able to effectively communicate their ideas to the society in the form of technical reports and impactful presentations, work independently as well as with multidisciplinary teams, provide ethical, and sustainable solutions to engineering problems.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nELD7007 Cornerstone Project 0 0 6 3\nELD7460 MTech Project Part 1 0 0 12 6\nELD7460 MTech Project Part 1 0 0 12 6\nELD7465 MTech Project Part 2 \u2013 \u2013 \u2013 \u2013\nELL7000 Professional Ethics in Electrical Engineering 1 0 0 1\nELL7400 Signal Theory 3 0 0 3\nELL7401 Digital Communications 3 0 0 3\nELL7402 Detection and Estimation Theory 3 0 0 3\nELL7403 Computer Communication Networks 3 0 2 4\nELL7411 Wireless Communications 3 0 0 3\nELN7001 Teaching and Research Practicum 0 0 8 4\nELP7411 Wireless Communications Laboratory 0 1 4 3\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nBSP7010 Communication and Signal Processing Technologies Laboratory 0 1 4 3\nELL7293 Computer Vision 3 0 0 3\nELL7311 Microwave Theory and Techniques 3 0 0 3\nELL7328 Applied VLSI Design 3 0 0 3\nELL7405 Basic Information Theory 3 0 0 3\nELL7406 Coding Theory 3 0 0 3\nELL7410 Statistical Signal Processing 3 0 0 3\nELL7412 Multichannel Signal Processing 3 0 0 3\nELL7413 Microwave Theory and Techniques 3 0 0 3\nELL7414 Selected Topics in Communication and Signal Processing - I 3 0 0 3\nELL7420 Advanced Digital Signal Processing 3 0 0 3\nELL7437 Fiber-Optic Communication Systems 3 0 0 3\nELL7450 Machine Learning for Wireless Communications 3 0 2 4\nELL8415 MIMO Wireless Communication 3 0 0 3\nELL8416 Wireless Optical Communication 3 0 0 3\nSemester-wise Schedule\nSem\nCourses &amp; Baskets\nHrs /\nweek\nNGU\nCredits\n1\nELL7401 Digital Communications\n(3.0-0.0-0.0) 3.00\nELL7400 Signal Theory\n(3.0-0.0-0.0) 3.00\nELL7402 Detection and Estimation Theory\n(3.0-0.0-0.0) 3.00\nELL7403 Computer Communication Networks"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "AML7230",
+  "name": "Smart Materials and Structures",
+  "description": "Introduction to smart material systems; overview of smart materials; modeling mechanical, thermal and electrical systems (thermomechanics and electrostatics); piezoelectric materials: constitutive modelling, static and vibration analysis; shape memory alloys (SMA): constitutive modelling, actuation models for SMA; brief overview of electroactive polymers, magnetostrictive materials, electro- and magneto-rheological fluids; mechanics of smart composite structures; transducer applications and case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AML7230"
+}

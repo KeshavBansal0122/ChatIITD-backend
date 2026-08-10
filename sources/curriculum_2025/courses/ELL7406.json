@@ -1,0 +1,16 @@
+{
+  "code": "ELL7406",
+  "name": "Coding Theory",
+  "description": "This course covers principles of information theory and error control coding for reliable communication. Topics include channel capacity, linear block codes, finite fields, Reed-Solomon and BCH codes, convolutional codes and Viterbi decoding, codes on graph, sum-product algorithm, turbo, LDPC codes, and polar codes, lattice and trellis-codes. Applications to wireless standards are emphasized.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7406"
+}

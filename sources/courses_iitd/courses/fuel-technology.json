@@ -1,0 +1,21 @@
+{
+  "code": "ESL7211",
+  "name": "Fuel Technology",
+  "description": "Solid, liquid and gaseous fuels, coal in India, coal preparation, carbonization, gasification and liquefaction of coal and lignite, combustion principles, petroleum products and testing, inter-conversion of fuels, natural gas and its derivatives, combustion appliances, nuclear fuels, RDF, and bio-fuels.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Fuel Technology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Energy Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fuel-technology",
+  "slug": "fuel-technology"
+}

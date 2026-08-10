@@ -1,0 +1,16 @@
+{
+  "code": "MTL7012",
+  "name": "Computational Methods for Differential Equations",
+  "description": "Numerical methods for solving IVPs for ODEs: Single step method: Taylor\r\nseries method, convergence, order. Multistep methods: Development\r\nof linear multistep method using interpolation and undetermined\r\nparameter approach, consistency, zero stability, convergence, order. Absolute stability for linear multistep methods: motivation, Routh-Hurwitz criterion, boundary locus method etc., absolute stability for systems, stiff systems.\r\nLinear multistep methods for nonlinear system: Predictor Corrector methods.\r\nNumerical methods for solving BVPs for ODEs: Finite difference methods for second order ODEs.\r\nNumerical methods for solving PDEs: Finite difference methods for PDEs on real line, Consistency, stability (von neumann analysis, energy method) and convergence. Finite difference methods for PDE on interval: incorporation of Boundary Conditions, Consistency, stability (matrix method, energy method) and convergence",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTL7012"
+}

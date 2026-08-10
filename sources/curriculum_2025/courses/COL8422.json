@@ -1,0 +1,16 @@
+{
+  "code": "COL8422",
+  "name": "Quantum Computing : Systems and Architecture",
+  "description": "Quantum computing primer, review of quantum algorithms, review of quantum architecture and control interfaces, near term quantum systems, quantum error correction, architecture and systems software for fault-tolerant quantum computers, labs with Qiskit/Microsoft quantum SDK/Rigetti forest/Cirq.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL8422"
+}

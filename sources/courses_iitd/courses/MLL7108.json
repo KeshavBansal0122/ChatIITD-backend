@@ -1,0 +1,22 @@
+{
+  "code": "MLL7108",
+  "name": "Rubber Technology",
+  "description": "Rubber and elastomers, compounding and vulcanization, mastication, fillers-reinforcing and non-reinforcing (loading type). Other compounding ingredients; peptizers, vulcanizing agents, accelerators, accelerator activator, softeners, anti-aging additives, miscellaneous additives, colourant, flame retarders, blowing agents, deodorants, abrasive retarders etc. Processing and vulcanization tests, vulcanization theory and technology, natural and synthetic rubbers, stryene butadiene rubbers, polybutadiene and polyisoprene rubbers, ethylene-propylene rubber, butyl and halobutyl rubbers, nitrile and silicone rubber, thermoplastic elastomers, acrylate and fluoro elastomers.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Rubber Technology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Rubber Technology"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/rubber-technology",
+  "slug": "rubber-technology"
+}

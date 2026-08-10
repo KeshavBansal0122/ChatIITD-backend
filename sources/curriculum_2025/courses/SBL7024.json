@@ -1,0 +1,16 @@
+{
+  "code": "SBL7024",
+  "name": "Decoding Protein Modifications in Biology",
+  "description": "Introduction to protein modifications\u2013folded versus functional proteins, residue modifications, proteolytic processing, transient versus stable modifications, co-translational versus posttranslational modifications, signaling domains decoding protein modifications; protein phosphorylation\u2013kinases and phosphatases, consequences of phosphorylation; ubiquitination \u2013 ubiquitin proteasomal system, degradative and non-degradative ubiquitination, techniques in ubiquitination research; SUMOylation and other protein conjugation systems; glycosylation \u2013role in protein structure and function, advanced glycation intermediates, dynamic O-GlcNac modifications; other modifications \u2013 acetylation, methylation, lipidation etc.; pathogen-induced host protein modifications; generation of antibodies against protein modifications; in silico prediction of protein modifications; protein modifications in diagnostics and therapy; omics approaches for modified proteome; kinase inhibitors as drugs.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBL7024"
+}

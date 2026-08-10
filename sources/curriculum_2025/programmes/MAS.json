@@ -1,0 +1,691 @@
+{
+  "code": "MAS",
+  "name": "M.Sc. in Mathematics",
+  "generation": "2025",
+  "degree_type": "msc",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=MAS",
+  "credit_requirements": [
+    {
+      "category": "DE",
+      "label": "Departmental Electives",
+      "credits_or_units": 3.0,
+      "kind": "graded"
+    },
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 52.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Develop\u202c \u202dprecise\u202c \u202danalytical\u202c \u202dthinking\u202c \u202dand\u202c \u202deffectively\u202c \u202dcommunicate\u202c \u202dmathematical\u202c \u202dideas;\u202c \u202dcultivate\u202c\u202d robust\u202c\u202d logical\u202c\u202d reasoning\u202c\u202d and\u202c\u202d problem-solving\u202c\u202d abilities\u202c\u202d necessary\u202c\u202d for\u202c\u202d advanced\u202c\u202d mathematical\u202c \u202dstudy.\u202c"
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Demonstrate\u202c \u202dthe\u202c \u202dability\u202c \u202dto\u202c \u202dindependently\u202c \u202dformulate,\u202c \u202danalyze,\u202c \u202dand\u202c \u202dsolve\u202c \u202dcomplex\u202c \u202dproblems\u202c \u202dusing\u202c \u202dappropriate\u202c \u202dmathematical\u202c \u202dtools,\u202c \u202dcomputational\u202c \u202dtechniques,\u202c \u202dor\u202c \u202dstatistical\u202c \u202dmethods\u202c \u202drelevant\u202c \u202dto\u202c \u202dtheir specialization.\u202c"
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Recognize\u202c \u202dthe\u202c \u202dimpact\u202c \u202dof\u202c \u202dmathematics\u202c \u202din\u202c \u202dadvancing\u202c \u202dboth\u202c \u202dacademic\u202c \u202dinquiry\u202c \u202dand\u202c \u202dindustrial\u202c \u202dinnovation,\u202c \u202dand\u202c \u202ddevelop\u202c \u202dthe\u202c \u202dability\u202c \u202dto\u202c \u202dengage\u202c \u202dwith\u202c \u202dcurrent\u202c \u202ddevelopments\u202c \u202dand\u202c \u202dfuture\u202c \u202ddirections\u202c \u202din\u202c \u202dspecialized areas through sustained learning and research."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "MTD6010",
+        "title": "M.Sc. Project Part I",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTD6030",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "MTL5001",
+        "title": "Algebra",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL5002",
+        "title": "Linear Algebra",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL5003",
+        "title": "Real Analysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL5004",
+        "title": "Introduction to Computer Programming",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL5005",
+        "title": "Introduction to Probability",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL5006",
+        "title": "Ordinary Differential Equations",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL5007",
+        "title": "Functional Analysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL5008",
+        "title": "Mathematical Programming",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL5009",
+        "title": "Numerical Analysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL5010",
+        "title": "Measure and Integration",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL5011",
+        "title": "Statistical Inference",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL5021",
+        "title": "Professional Ethics in Mathematics",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "MTL6001",
+        "title": "Complex Analysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL6011",
+        "title": "Discrete Mathematical Structures",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL6507",
+        "title": "Topology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL6632",
+        "title": "Nonparametric Statistical Methods",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL6777",
+        "title": "Foundations of Statistical Learning",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL7012",
+        "title": "Computational Methods for Differential Equations",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL7030",
+        "title": "Fundamentals of Cryptography",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL7237",
+        "title": "Introduction to Differential Geometry",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL7239",
+        "title": "Representation Theory of Finite Groups",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL7244",
+        "title": "Mathematical Theory for Error Correcting Codes",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL7255",
+        "title": "Algebraic Curves",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL7257",
+        "title": "Introduction to Algebraic Topology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL7258",
+        "title": "Introduction to Differential Topology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL7281",
+        "title": "Finite Element Theory and Applications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL7455",
+        "title": "Partial Differential Equations",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL7717",
+        "title": "Fuzzy Sets and Applications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL7725",
+        "title": "Stochastic Processes and its Applications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL7732",
+        "title": "Financial Mathematics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL7735",
+        "title": "Introduction to Number Theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL7736",
+        "title": "Analytic Number Theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL7738",
+        "title": "Commutative Algebra",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL7741",
+        "title": "Fractal Geometry",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL7743",
+        "title": "Fourier Analysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL7744",
+        "title": "Applied Harmonic Analysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL7750",
+        "title": "Abstract Harmonic Analysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL7761",
+        "title": "Basic Ergodic Theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL7763",
+        "title": "Introduction to Game Theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL7766",
+        "title": "Multivariate Statistical Analysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL7768",
+        "title": "Graph theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL7770",
+        "title": "Combinatorial Optimization",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL7783",
+        "title": "Theory of Computation",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL7799",
+        "title": "Mathematical Analysis in Learning Theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL7848",
+        "title": "Pseudodifferential Operators with Application in PDE",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL7860",
+        "title": "Linear Algebra II",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL7890",
+        "title": "Optimization Algorithms",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL8880",
+        "title": "Parameterized Algorithms for NP-hard Problems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "MTL5002",
+        "title": "Linear Algebra",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "MTL5003",
+        "title": "Real Analysis",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "MTL5004",
+        "title": "Introduction to Computer Programming",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "MTL5005",
+        "title": "Introduction to Probability",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "MTL5001",
+        "title": "Algebra",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "MTL5006",
+        "title": "Ordinary Differential Equations",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "MTL5007",
+        "title": "Functional Analysis",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "MTL5008",
+        "title": "Mathematical Programming",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "MTL5009",
+        "title": "Numerical Analysis",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "MTL5010",
+        "title": "Measure and Integration",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "MTL5021",
+        "title": "Professional Ethics in Mathematics",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "MTL6001",
+        "title": "Complex Analysis",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "MTD6010",
+        "title": "M.Sc. Project Part I",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "MTD6030",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      }
+    ]
+  },
+  "raw_text_preview": "MAS \u2013 M.Sc. in Mathematics\nM.Sc. in Mathematics\nMathematics, Department of\nProgramme Code: MAS\nM.Sc.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n52\nPE (Programme Elective)\n15\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n73\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nDevelop\u202c \u202dprecise\u202c \u202danalytical\u202c \u202dthinking\u202c \u202dand\u202c \u202deffectively\u202c \u202dcommunicate\u202c \u202dmathematical\u202c \u202dideas;\u202c \u202dcultivate\u202c\u202d robust\u202c\u202d logical\u202c\u202d reasoning\u202c\u202d and\u202c\u202d problem-solving\u202c\u202d abilities\u202c\u202d necessary\u202c\u202d for\u202c\u202d advanced\u202c\u202d mathematical\u202c \u202dstudy.\u202c\nPLO 2\nDemonstrate\u202c \u202dthe\u202c \u202dability\u202c \u202dto\u202c \u202dindependently\u202c \u202dformulate,\u202c \u202danalyze,\u202c \u202dand\u202c \u202dsolve\u202c \u202dcomplex\u202c \u202dproblems\u202c \u202dusing\u202c \u202dappropriate\u202c \u202dmathematical\u202c \u202dtools,\u202c \u202dcomputational\u202c \u202dtechniques,\u202c \u202dor\u202c \u202dstatistical\u202c \u202dmethods\u202c \u202drelevant\u202c \u202dto\u202c \u202dtheir specialization.\u202c\nPLO 3\nRecognize\u202c \u202dthe\u202c \u202dimpact\u202c \u202dof\u202c \u202dmathematics\u202c \u202din\u202c \u202dadvancing\u202c \u202dboth\u202c \u202dacademic\u202c \u202dinquiry\u202c \u202dand\u202c \u202dindustrial\u202c \u202dinnovation,\u202c \u202dand\u202c \u202ddevelop\u202c \u202dthe\u202c \u202dability\u202c \u202dto\u202c \u202dengage\u202c \u202dwith\u202c \u202dcurrent\u202c \u202ddevelopments\u202c \u202dand\u202c \u202dfuture\u202c \u202ddirections\u202c \u202din\u202c \u202dspecialized areas through sustained learning and research.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nMTD6010 M.Sc. Project Part I 0 0 8 4\nMTD6030 Cornerstone Project \u2013 \u2013 \u2013 \u2013\nMTL5001 Algebra 3 1 0 4\nMTL5002 Linear Algebra 3 1 0 4\nMTL5003 Real Analysis 3 1 0 4\nMTL5004 Introduction to Computer Programming 3 0 2 4\nMTL5005 Introduction to Probability 3 1 0 4\nMTL5006 Ordinary Differential Equations 3 1 0 4\nMTL5007 Functional Analysis 3 1 0 4\nMTL5008 Mathematical Programming 3 1 0 4\nMTL5009 Numerical Analysis 3 1 0 4\nMTL5010 Measure and Integration 3 1 0 4\nMTL5011 Statistical Inference 3 1 0 4\nMTL5021 Professional Ethics in Mathematics 1 0 0 1\nMTL6001 Complex Analysis 3 1 0 4\nMTL6011 Discrete Mathematical Structures 3 1 0 4\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nMTL6507 Topology 3 1 0 4\nMTL6632 Nonparametric Statistical Methods 2 0 2 3\nMTL6777 Foundations of Statistical Learning 2 0 2 3\nMTL7012 Computational Methods for Differential Equations 3 0 2 4\nMTL7030 Fundamentals of Cryptography 3 0 2 4\nMTL7237 Introduction to Differential Geometry 3 0 0 3\nMTL7239 Representation Theory of Finite Groups 3 0 0 3\nMTL7244 Mathematical Theory for Error Correcting Codes 3 0 0 3\nMTL7255 Algebraic Curves 3 0 0 3\nMTL7257 Introduction to Algebraic Topology 3 0 0 3\nMTL7258 Introduction to Differential Topology 3 0 0 3\nMTL7281 Finite Element Theory and Applications 3 0 0 3\nMTL7455 Partial Differential Equations 3 0 0 3\nMTL7717 Fuzzy Sets and Applications 3 0 2 4\nMTL7725 Stochastic Processes and its Applications 3 0 0 3\nMTL7732 Financial Mathematics 3 0 2 4\nMTL7735 Introduction to Number Theory 3 1 0 4\nMTL7736 Analytic Number Theory 3 0 0 3\nMTL7738 Commutative Algebra 3 0 0 3\nMTL7741 Fractal Geometry 3 0 0 3\nMTL7743 Fourier Analysis 3 0 0 3\nMTL7744 Applied Harmonic Analysis 3 0 0 3\nMTL7750 Abstract Harmonic Analysis 3 0 0 3\nMTL7761 Basic Ergodic Theory 3 0 0 3"
+}

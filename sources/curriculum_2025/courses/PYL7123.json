@@ -1,0 +1,16 @@
+{
+  "code": "PYL7123",
+  "name": "Vacuum Science and Cryogenics",
+  "description": "Behavior of gases; gas transport phenomenon, viscous, molecular and transition flow regimes, measurement of pressure, residual gas analyses; production of vacuum-mechanical pumps, diffusion pump, getter and ion pumps, cryo-pumps, materials in vacuum; high vacuum and ultra high vacuum systems; leak detection. Helium, experimental methods at low temperature: closed cycle refrigerators, cryostat systems based on He4 and He3, He3-He4 dilution refrigerator, Pomeranchuk cooling, magnetic refrigerators, thermoelectric coolers; cryostat design: cryogenic level sensors, handling of cryogenic liquids, cryogenic thermometry.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL7123"
+}

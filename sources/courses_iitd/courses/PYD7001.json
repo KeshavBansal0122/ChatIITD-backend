@@ -1,0 +1,22 @@
+{
+  "code": "PYD7001",
+  "name": "Cornerstone Project",
+  "description": "A practical, team-based design project focused on solving a real-world problems or designing laboratory experiments in optoelectronic devices or optical communication. Students will conduct a comprehensive exploration of a specific topic in the field, using their theoretical understanding to propose innovative solutions.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Cornerstone Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Cornerstone Project"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/cornerstone-project-21",
+  "slug": "cornerstone-project-21"
+}

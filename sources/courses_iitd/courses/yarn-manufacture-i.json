@@ -1,0 +1,22 @@
+{
+  "code": "TXL2201",
+  "name": "Yarn Manufacture I",
+  "description": "Fibre properties and methods of measurement of length, fineness, strength and crimp of fibres. Determination of maturity, foreign matter, and moisture content of cotton. Principles of AFIS, HVI, etc. Impurities in natural fibres. Separation of trash and lint. Purpose of opening, cleaning, mixing and blending of fibres. Blow room machinery and operating elements. Principles of fibre opening and cleaning in blow room. Transportation of fibre mass. Influence of process parameters on opening and cleaning. Analysis of opening and cleaning processes. Principles and methods of fibre mixing and blending. Principles of carding. Machine elements and operations in card. Sliver formation, packing and fibre configurations in sliver. Objectives, principles and methods of roller drafting. Purpose and principle of condensation of fibres. Causes of mass variation of fibrous assembly and control. Automation and recent developments in blowroom, card and draw frames. Fibre opening, carding, drawing and combing for long staple fibres. Modification in process parameters for processing blended fibres in blowroom, card and drawframe. Fibre fractionation and combing. Preparation of fibre assembly for combing. Principle of operations of a rectilinear comber. Combing machine elements. Timing diagram. Theory of fibre fractionation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Yarn Manufacture I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Yarn Manufacture I"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/yarn-manufacture-i",
+  "slug": "yarn-manufacture-i"
+}

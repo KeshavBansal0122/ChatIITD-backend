@@ -1,0 +1,16 @@
+{
+  "code": "ESL7365",
+  "name": "Solar Thermal and Photovoltaic Technologies",
+  "description": "Photovoltaic materials: fundamentals of semiconductors; physical, optical and electrical characterizations of absorber layers; design and fabrication of various solar cells; analysis of photovoltaic devices; solar radiation, solar angles, classifications of solar thermal collectors, non-concentrating and concentrating collectors, emerging solar thermal technologies, applications: power generation, industrial process heating, water distillation, refrigeration, building heating and cooling, cooking, drying, thermal energy storage systems: sensible, latent and thermochemical energy storage.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ES",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ES#ESL7365"
+}

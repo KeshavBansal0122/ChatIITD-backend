@@ -1,0 +1,16 @@
+{
+  "code": "TXL7351",
+  "name": "Nonwoven Processes and Products",
+  "description": "Definitions of nonwoven and their scopes and limitations. Staple fibre preparation processes. Staple fibre web formation processes: carding, air-laying, and wet-laying. Staple fibre web stacking processes: parallel-laying, cross-laying, and perpendicular-laying, mechanical bonding processes: needle-punching and hydroentanglement. Thermal bonding processes: calendar, through-air, impingement, infra-red, and ultrasonic bonding. Chemical bonding process. Polymer melt to nonwoven: spunbonding and meltblowing. Polymer solution to nonwoven (flash process): Electrospinning. Medical nonwovens. Hygiene nonwovens. Nonwoven wipes. Nonwoven filters. Geononwovens. Automotive nonwovens. Catalytic nonwovens. Case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL7351"
+}

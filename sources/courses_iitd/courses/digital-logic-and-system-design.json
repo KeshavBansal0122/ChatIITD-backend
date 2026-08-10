@@ -1,0 +1,22 @@
+{
+  "code": "COL2015",
+  "name": "Digital Logic and System Design",
+  "description": "Number systems, boolean algebra, gate level minimisation, combinational and sequential logic, finite state machines, hardware description languages, registers and memory, FPGA, error correction and testing, energy dissipation.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Digital Logic and System Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Digital Logic and System Design"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/digital-logic-and-system-design",
+  "slug": "digital-logic-and-system-design"
+}

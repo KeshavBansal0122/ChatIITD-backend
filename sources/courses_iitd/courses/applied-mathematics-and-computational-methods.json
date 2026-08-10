@@ -1,0 +1,22 @@
+{
+  "code": "ESN7891",
+  "name": "Applied Mathematics and Computational Methods",
+  "description": "Fourier and Laplace transform, Complex and Vector analysis, Matrices, Arithmetic, Geometric and Harmonic Progressions, Numerical and Computational Methods, Finite Difference, Methods of Differentiation and Integration, Least Square Curve Fitting, Introduction to MATLAB and/or Python.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Applied Mathematics and Computational Methods | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Applied Mathematics and Computational Methods"
+  ],
+  "department": "Energy Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/applied-mathematics-and-computational-methods",
+  "slug": "applied-mathematics-and-computational-methods"
+}

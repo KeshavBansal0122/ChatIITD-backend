@@ -1,0 +1,22 @@
+{
+  "code": "TXL7402",
+  "name": "Theory and Practice of Coloration",
+  "description": "Advances in dyes, specialty dyes: photochromic, thermochromic, electrochromic, mechanochromic; fluorescent and near IR dyes; Bbanned dyes; safe and eco-friendly dyes, mechanisms of dyeing; thermodynamics of dyeing; kinetics of dyeing; dye-fibre interactions; role of fibre structure in dyeing; advances in dyeing processes: low liquor, salt free, low energy intensive dyeing; dyeing of blends; mass coloration of man-made fibres; dyeing of specialty fabrics: stretch fabrics, light weight, textured, garment dyeing, micro-denier fabrics, effect of finishes on shade and fastness; dyeing faults and case studies, green dyeing approaches - dyeing using supercritical fluids, reverse micelles, decamethylcyclopentasiloxane (D5), laccase assisted dye synthesis.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Theory and Practice of Coloration | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Theory and Practice of Coloration"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/theory-and-practice-coloration",
+  "slug": "theory-and-practice-coloration"
+}

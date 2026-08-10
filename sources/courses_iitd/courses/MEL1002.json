@@ -1,0 +1,22 @@
+{
+  "code": "MEL1002",
+  "name": "Engineering Mechanics",
+  "description": "Kinematics, general motion of a rigid body, mass and center of mass; resultant force systems, Euler\u2019s axioms; equations of equilibrium, impulse and angular impulse, inertia tensor; principal axes; angular impulse-momentum relations; Euler\u2019s equations, work-energy relation, impact of rigid bodies, equations of equilibrium, trusses, beams, friction and impending motion (rolling and tipping), principle of virtual work, Lagrange\u2019s equations, Hamilton\u2019s principle.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Engineering Mechanics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Engineering Mechanics"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/engineering-mechanics-0",
+  "slug": "engineering-mechanics-0"
+}

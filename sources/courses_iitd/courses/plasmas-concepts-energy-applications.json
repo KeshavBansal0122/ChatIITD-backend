@@ -1,0 +1,22 @@
+{
+  "code": "ESL3500",
+  "name": "Plasmas Concepts for Energy Applications",
+  "description": "Introduction: Role of plasma in energy and environment applications; Different types of plasmas; Basic concepts for plasma science and technology; Concept of plasma potential and its importance in design of plasma sources, Pre-sheath, Plasma sheath-Wall interaction; Different Types of Plasma Sources; Basic Plasma diagnostics; Plasma as Fluids; Design of a basic plasma discharge system; Plasma Fusion Energy; Plasma-based processing for energy materials; Plasma for environment pollution mitigation; Plasmas for waste management; Other applications of plasmas as energy-efficient and environment-friendly solutions",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Plasmas Concepts for Energy Applications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Plasmas Concepts for Energy Applications"
+  ],
+  "department": "Plasmas for Energy and Environment",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/plasmas-concepts-energy-applications",
+  "slug": "plasmas-concepts-energy-applications"
+}

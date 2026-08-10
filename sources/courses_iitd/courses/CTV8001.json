@@ -1,0 +1,22 @@
+{
+  "code": "CTV8001",
+  "name": "Special Topics in EV Electrical Systems",
+  "description": "To be decided by the course coordinator. The contents are related to the EV electrical systems that have relevance to the industry but are not covered in an established course",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Special Topics in EV Electrical Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Special Topics in EV Electrical Systems"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/special-topics-ev-electrical-systems",
+  "slug": "special-topics-ev-electrical-systems"
+}

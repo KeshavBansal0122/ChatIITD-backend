@@ -1,0 +1,22 @@
+{
+  "code": "BML7600",
+  "name": "Biomedical Ethics, Safety and Regulatory Affairs",
+  "description": "Coursework shall introduce with the concepts of bioethics, biosafety and regulatory framework.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Biomedical Ethics, Safety and Regulatory Affairs | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Biomedical Ethics, Safety and Regulatory Affairs"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/biomedical-ethics-safety-and-regulatory-affairs",
+  "slug": "biomedical-ethics-safety-and-regulatory-affairs"
+}

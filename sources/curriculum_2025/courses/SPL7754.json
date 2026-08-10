@@ -1,0 +1,16 @@
+{
+  "code": "SPL7754",
+  "name": "Geographical Information Systems (GIS) for Public Policy",
+  "description": "Introduction to GIS (spatial data structure, maps, projection and overview of geospatial technology). Use of GIS in public policy research. Theories and training on basic GIS analysis and their application in public policy research (for example, raster/vector processing, digitization, geodatabase creation and management, overlay analysis, creation of thematic maps). Advanced GIS analysis and their application in public policy research (for example, spatial interpolation techniques, hot-spot analysis, network analysis, geographically weighted regression, zonal statistics). Public participatory GIS (PPGIS) in public policy research. Use of nighttime satellite data for social science research. Practical on basic and advanced GIS analysis. Case studies on GIS applications in public health and natural resource management.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SP",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SP#SPL7754"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "DAN1009",
+  "name": "Creative Writing",
+  "description": "This course introduces students to the fundamentals of fiction and script writing, blending creative expression with structural techniques to enhance storytelling and communication. Through diverse texts\u2014poetry, flash fiction, comics, and scripts\u2014students explore narrative elements like plot, character, and dialogue. Activities such as group brainstorming, improvisation, and peer review foster critical and creative thinking. Weekly tasks focus on drafting, revising, and presenting, culminating in collaborative writing projects. By analyzing real-world content and experimenting with genre and form, students develop a nuanced understanding of language, tone, and audience\u2014building confidence in their ability to craft compelling stories across formats and disciplines.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Creative Writing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Creative Writing"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/creative-writing",
+  "slug": "creative-writing"
+}

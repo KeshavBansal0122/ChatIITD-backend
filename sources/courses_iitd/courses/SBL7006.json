@@ -1,0 +1,21 @@
+{
+  "code": "SBL7006",
+  "name": "Biologics",
+  "description": "Definition and classification of biologics, biobetters, biopharmaceuticals versus conventional drugs, biosimilars, role of rDNA technologies, transgenics (animal and plant), preclinical and clinical trials, whole blood and blood based therapeutics, cytokine and interleukin based biologics, oligonucleotides, peptide, PNAs mediated therapeutics, hormone based biologics, vaccine, monoclonal antibodies produced by and in the living organisms, aptamers, nanobiopharmaceutics, cell based biologics, assessing the role of biomimetics, synthetic biology, drug delivery systems (lipids, cell penetrating peptides), overview of the technologies employed for identification, characterization and production of biologics, innovations, good manufacturing practices, quality control, safety regulations associated with biologics across the nations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "SBL1100/SBL1102",
+  "overlap": null,
+  "learning_outcomes": [
+    "Biologics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/biologics",
+  "slug": "biologics"
+}

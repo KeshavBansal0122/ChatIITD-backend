@@ -1,0 +1,22 @@
+{
+  "code": "AIL7023",
+  "name": "Graph Machine Learning",
+  "description": "Introduction and Motivations for Machine Learning with Graphs, Graph and its Matrices, Graph Theory, Laplacian Matrix and Smoothness, Graph Learning from Data, Graph Embedding, Label Propagation, Manifold Regularization, semi, (un,) and Supervised Learning with Graphs, Graph Data Mining, Deep Learning with Graphs.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(AIL7001)(AIL7024)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Graph Machine Learning | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Graph Machine Learning"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/graph-machine-learning",
+  "slug": "graph-machine-learning"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "PYL7180",
+  "name": "DIFFRACTIVE AND MICRO OPTICS",
+  "description": "Diffractive optics, Micro optics, Design of diffractive optics, Amplitude and Phase Diffractive Optics, Application of Diffractive optics, Fabrication of Diffractive and micro optics, Photo-Lithography, Interferometric, profilometric and other testing techniques for Diffractive optics, Plastic optics, Injection Moulding of plastic optics, Applications of Micro optics in Beam shaping, MOEMS, Optical information technology and Aspheric optics, Freeform optics",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "DIFFRACTIVE AND MICRO OPTICS | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "DIFFRACTIVE AND MICRO OPTICS"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/diffractive-and-micro-optics",
+  "slug": "diffractive-and-micro-optics"
+}

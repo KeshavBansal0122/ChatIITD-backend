@@ -1,0 +1,16 @@
+{
+  "code": "CVL7421",
+  "name": "Theory of Concrete Structures",
+  "description": "Introduction-historical developments, material properties, basic design concepts; behavior and design in flexure; behavior and design for shear and torsion; behavior and design for bond; behavior and design of slabs; serviceability limits state- deflection and cracking; behavior and design of compression members \u2013 columns and walls; analysis for design moments in continuous systems; good detailing and construction practices; selected special topics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7421"
+}

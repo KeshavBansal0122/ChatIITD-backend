@@ -1,0 +1,16 @@
+{
+  "code": "DSL7722",
+  "name": "Precision Measurement Systems",
+  "description": "Fundamentals and principles of precision measurements, measurements and error estimation, systematic and random errors, instrument transfer function, least square method and its applications, filtering, polynomial fitting, data analysis and statistical inference, correlation, surface feature measurements and inspection of diamond turning machine fabricated precision components, mechanical and optical profilers, co-ordinate measuring machine (CMM) and state of art CMMs, long trace slope measuring profilometer, Shack-Hartmann sensor for slope measurement, principles and applications of Moire techniques and Talbot effect based techniques for precision measurements, absolute testing techniques, interferometry and advanced industrial interferometers for optical metrology, scanning electron microscopy (SEM) and atomic force microscopy (AFM) principles and applications for high resolution measurements, introduction to nonclassical quantum optical metrology beating the standard quantum limit in measurement.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DS#DSL7722"
+}

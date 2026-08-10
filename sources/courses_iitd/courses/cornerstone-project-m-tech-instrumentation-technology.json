@@ -1,0 +1,22 @@
+{
+  "code": "DSD7100",
+  "name": "Cornerstone Project for M. Tech. Instrumentation Technology",
+  "description": "A team-based project focused on solving a real-world problems in interdisciplinary field of Instrumentation Technology. Students will conduct a detailed study, modelling and simulations and experimental realization on a specific topic in the technologically relevant state of art field under the supervision of faculty member(s).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Cornerstone Project for M. Tech. Instrumentation Technology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Cornerstone Project for M. Tech. Instrumentation Technology"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/cornerstone-project-m-tech-instrumentation-technology",
+  "slug": "cornerstone-project-m-tech-instrumentation-technology"
+}

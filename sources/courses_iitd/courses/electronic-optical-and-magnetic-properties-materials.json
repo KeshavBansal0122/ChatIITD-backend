@@ -1,0 +1,22 @@
+{
+  "code": "MLL3001",
+  "name": "Electronic, Optical and Magnetic Properties of Materials",
+  "description": "Electronic properties: classical conductivity, quantum description of conductivity, effect of alloying in metals, intrinsic and extrinsic semiconductor properties, application of Fermi-Dirac statistics, Fermi level and Hall effect, two probe and four probe measurements, conductive polymers, ionic conductors, superconductors, device applications (diode, Ohmic/Schottky junctions etc.). Dielectric properties: dielectric constant, Maxwell\u2019s equations, complex dielectric constant, frequency dependence, non-linear dielectrics; optical properties: Beer-Lambert\u2019s law, transmittance, reflectivity and conductivity, classical and quantum approach to optical properties, phonons, spectroscopy, luminescence, fluorescence, optical devices (LASERs, LEDs). Magnetic properties: types of magnetism (ferro-, para-, ferri-, dia- and antiferro-), susceptibility, curie temperature, Neel\u2019s temperature, domain structure and magnet design.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Electronic, Optical and Magnetic Properties of Materials | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Electronic, Optical and Magnetic Properties of Materials"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/electronic-optical-and-magnetic-properties-materials",
+  "slug": "electronic-optical-and-magnetic-properties-materials"
+}

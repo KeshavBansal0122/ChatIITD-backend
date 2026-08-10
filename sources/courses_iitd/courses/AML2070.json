@@ -1,0 +1,21 @@
+{
+  "code": "AML2070",
+  "name": "Biomechanics",
+  "description": "Mechanics of cells and cellular constituents, epithelial tissues, non-linear mechanics of soft tissues such as heart and brain, musculoskeletal mechanics, mechanics of human movement, circulatory system, hemodynamics and biomechanics data analysis.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(AML2010&AML2020)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Biomechanics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Fundamentals of Biomechanics",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/biomechanics",
+  "slug": "biomechanics"
+}

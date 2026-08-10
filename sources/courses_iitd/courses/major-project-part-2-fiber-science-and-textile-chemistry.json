@@ -1,0 +1,22 @@
+{
+  "code": "TXD7502",
+  "name": "Major Project Part-2 Fiber Science and Textile Chemistry",
+  "description": "Literature survey, planning and execution of the project work and writing technical report within the stipulated time frame.",
+  "credits": 12.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 24.0
+  },
+  "prereq": "TXD7501",
+  "overlap": null,
+  "learning_outcomes": [
+    "Major Project Part-2 Fiber Science and Textile Chemistry | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Major Project Part-2 Fiber Science and Textile Chemistry"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/major-project-part-2-fiber-science-and-textile-chemistry",
+  "slug": "major-project-part-2-fiber-science-and-textile-chemistry"
+}

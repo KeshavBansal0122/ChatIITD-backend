@@ -1,0 +1,22 @@
+{
+  "code": "CVL7805",
+  "name": "Optimization Techniques in Water Resources",
+  "description": "Optimization techniques and stakeholders\u2019 viewpoints in water resources planning and management, and in engineering design, operation and development of water resources projects involving water supply, irrigation, hydropower, flood control, and water conservation projects; linear programming and duality, network flow algorithms, dynamic programming, nonlinear programming, introduction to emerging optimization techniques; multiobjective optimization, trade-offs and non-inferior solutions, conflict resolution; incorporating uncertainty, randomness and vagueness; applications to reservoir operation, groundwater management, conjunctive water management, pollution control, and agricultural water management to ensure sustainability and develop climate resilient and adaptive strategies and policies; case studies in other disciplines - agriculture, environment, transportation, construction, etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Optimization Techniques in Water Resources | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Optimization Techniques in Water Resources"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/optimization-techniques-water-resources",
+  "slug": "optimization-techniques-water-resources"
+}

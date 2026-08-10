@@ -1,0 +1,22 @@
+{
+  "code": "COL3201",
+  "name": "Introduction to Automated Reasoning",
+  "description": "Formal modeling and specification (for example, alloy); operational semantics via labeled transition systems and execution traces; concurrency modeling using process algebras; interactive and automated theorem proving (lean, Coq); program correctness via Hoare logic, loop invariants, and inductive proofs (KeY-Hoare); behavioral equivalence using bisimulation and coinduction; temporal logic (for example, LTL/CTL) for reasoning about safety, liveness, and fairness properties; symbolic execution (for example, KLEE, CBMC); static program analysis including data flow analysis and abstract interpretation; satisfiability modulo theories (SMT) solving over linear integer arithmetic (LIA), including the simplex algorithm (with tools such as Z3, Gurobi); tool-based labs and formal proof construction exercises.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(COL1002) &(COL2026)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Automated Reasoning | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Automated Reasoning"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-automated-reasoning",
+  "slug": "introduction-automated-reasoning"
+}

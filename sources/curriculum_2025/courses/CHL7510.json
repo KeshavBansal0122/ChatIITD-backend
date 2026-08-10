@@ -1,0 +1,16 @@
+{
+  "code": "CHL7510",
+  "name": "Microhydrodynamics and its Applications in Biological Systems",
+  "description": "Recap of vectors and tensors and governing equation of fluid mechanics; vector harmonics of rigid particles, drops and bubbles; fundamental solution of the Stokes equations in unbounded domain; multipole expansion; suspension rheology; reciprocal theorem; inertial correction to creeping flow problems; hydrodynamic interaction - method of reflection; fundamental solution of Stokes equation near plane boundary - method of images; slender body theory; models for locomotion of microscopic swimmers; collective hydrodynamics in swimmer suspensions; basics of boundary integral equations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CH",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CH#CHL7510"
+}

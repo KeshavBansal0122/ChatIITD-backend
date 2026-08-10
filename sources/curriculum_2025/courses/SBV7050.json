@@ -1,0 +1,16 @@
+{
+  "code": "SBV7050",
+  "name": "Bioinspiration and Biomimetics",
+  "description": "Introduction to bioinspiration and biomimetics, nature's principles, bioinspiration pools-marine and terrestrial flora fauna, biomimetic/bioenabled materials, biomineralisation, biomimetic adhesives and attachment devices in nature/matrices, prosthetics function and design, bioinspired robotics, biomimetic pattern formation, bioinspired ecofriendly architecture, textiles, colour and camouflage inspired applications, photosynthetic cells, role in agriculture and human health, future prospects and appropriation in sustainable and environment friendly agriculture, pharmaceuticals and health care.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBV7050"
+}

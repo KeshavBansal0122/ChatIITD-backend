@@ -1,0 +1,22 @@
+{
+  "code": "MED7253",
+  "name": "Cornerstone Project",
+  "description": "This lab-based course emphasizes both the experimental and computational aspects of mechanical design. Students will engage in hands-on activities, including testing material properties, analysing tribological behaviour, and evaluating structural integrity using software tools. Students will creatively formulate design challenges, simulate mechanical failures, and explore innovative solutions using finite element analysis (FEA), computer-aided design (CAD) and optimization techniques. By integrating experimental validation with computational modeling, the course enhances system performance, fosters critical thinking, and prepares students for real-world engineering applications. The students will conduct all the above activities working in team.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": "(MCL7201&MCL7202&MCL7203)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Cornerstone Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Cornerstone Project"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/cornerstone-project-12",
+  "slug": "cornerstone-project-12"
+}

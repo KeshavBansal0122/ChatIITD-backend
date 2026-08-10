@@ -1,0 +1,21 @@
+{
+  "code": "ESL3641",
+  "name": "Energy Storage",
+  "description": "Historical development of energy storage technologies, Energy storage options to balance renewable energy systems, Working principles of various energy storage technologies, Energy storage technologies for short-duration \u2013 Supercapacitors, flywheel and superconducting magnets; Energy Storage Technologies for medium-duration \u2013 electrochemical batteries; Energy Storage Technologies for Long-duration \u2013 chemical energy storage, pumped hydro storage, and thermal energy storage; Integration/sizing of energy storage systems and energy storage system optimization; technoeconomic, social and environmental analysis of energy storage solutions for specific applications",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Energy Storage | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Energy Storage",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/energy-storage-0",
+  "slug": "energy-storage-0"
+}

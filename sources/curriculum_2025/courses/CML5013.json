@@ -1,0 +1,16 @@
+{
+  "code": "CML5013",
+  "name": "Physical Methods of Structure Determination Organic Compounds",
+  "description": "1H NMR: Zeeman splitting, effect of magnetic field strength, chemical shift, inductive and anisotropic effect, spin-spin coupling, coupling constant J, examples of AB, AX and ABX system, Simplification of second order spectrum, selective decoupling, use; 13C NMR: Introduction to FT technique, relaxation phenomenon, NOE effects, 1H and 13C chemical shift to structure corrections, Organic functional group identification through IR spectroscopy. Mass spectrometry, Basic Theory, Instrumentation, Fragmentation and Structural Analysis. UV spectroscopy introduction and applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CM#CML5013"
+}

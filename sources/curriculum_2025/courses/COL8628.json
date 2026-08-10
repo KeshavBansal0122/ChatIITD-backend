@@ -1,0 +1,16 @@
+{
+  "code": "COL8628",
+  "name": "Advanced Computer Vision",
+  "description": "Advanced architectures for image classification, scene understanding and visualization of ML models for image analysis. Traditional and modern techniques for image segmentation, image generation, and object tracking. Attack and defense techniques for computer vision systems. Contemporary interdisciplinary topics (vision+x) such as vision and language, as well as FATE (fairness, accountability, transparency, and ethics).",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL8628"
+}

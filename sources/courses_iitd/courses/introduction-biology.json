@@ -1,0 +1,22 @@
+{
+  "code": "SBL1100",
+  "name": "Introduction to Biology",
+  "description": "Human body as a machine; Evolution of biological systems, Biological Macromolecules (structure and function of proteins, nucleic acids, lipids and carbohydrates); Energy and energetic constraints (ATP, cellular metabolism and bioenergetics); Genes and genetic regulation (genes, DNA packaging, replication, transcription, translation); Cellular structure, function and assembly (From single cell to multi-cellular organisms, organelles and their functions); Gene editing and manipulation; Infectious disease (emerging bacterial, viral, fungal and parasitic infections); Immunology and vaccines (innate and adaptive immunity, autoimmunity, vaccines and immunization); Antimicrobial resistance; Diagnostics in microbiology; Aging and metabolic diseases, Stem cells, Bioengineering in healthcare (nano-scale engineering, biomaterials and scaffolds); Biosafety & Bioethics.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Biology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Biology"
+  ],
+  "department": "Biology of Microbes",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-biology",
+  "slug": "introduction-biology"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CVL7459",
+  "name": "Design of Fiber Reinforced Composite Structures",
+  "description": "Introduction; types of structrual fibers: matrix, fiber and interface; fiber reinforced concrete (FRC); high-performance concrete; stress transfer, bond, pull-out, toughening mechnism; fracture mechanics; modeling of tensile and flexural behaviours; behaviour under compression; shear failure theory; behaviour under seismic laoding; composite structural design: design spirals, Citeria, selection configuraitons; laminate design; mathematical analysis of laminates; design of single skin panels, design of composite stiffeners.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Design of Fiber Reinforced Composite Structures | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Design of Fiber Reinforced Composite Structures"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/design-fiber-reinforced-composite-structures",
+  "slug": "design-fiber-reinforced-composite-structures"
+}

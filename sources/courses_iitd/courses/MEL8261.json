@@ -1,0 +1,21 @@
+{
+  "code": "MEL8261",
+  "name": "Vibroacoustics",
+  "description": "Excitation of vibrations, wave types in fluids and solids. Modes of vibrations in solids. The mobility and impedance concepts, for beams and plates. Wave/boundary matching. Radiation and transmission: acoustical radiation from structures. Transmission between structures. Fluid structure interaction: fundamentals of fluid structure interaction. Vibroacoustic coupling: effects of fluid-loading on vibrating infinite and finite plates and shells. Acoustic reflection from elastic plates and shells, acoustic excitation of elastic plates and coupling between panels and acoustic spaces. Prediction models, sound transmission loss of structures. Enclosures: acoustic fields in enclosures, low- and high-modal density fields, sound-isolation techniques. Numerical models and analysis use of FEM, BEM. Vibroacoustic condition monitoring, source identification and fault detection from noise and vibration signals in mechanical systems such as bearings, gears, fans, blower and pumps, electrical equipment etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Vibroacoustics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/vibroacoustics",
+  "slug": "vibroacoustics"
+}

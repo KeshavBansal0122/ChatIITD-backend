@@ -1,0 +1,16 @@
+{
+  "code": "MEL7225",
+  "name": "Design Principles for Precision",
+  "description": "The course contents will include lectures & hands-on experience covering: Design principles to achieve precision; Design for stiffness; Degrees-of-Freedom and constraints, Exact-constrained design; Design of compliant mechanisms/ flexures; Constraint and mobility analysis; Friction and hysteresis; Air bearings; Dynamics; Actuators and sensors for precision application. The course contents also include different case studies and then working on different course projects identified by the students.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL7225"
+}

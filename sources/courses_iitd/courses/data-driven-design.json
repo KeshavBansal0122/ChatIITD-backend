@@ -1,0 +1,22 @@
+{
+  "code": "DDP7122",
+  "name": "Data Driven Design",
+  "description": "Students will understand how to use data and AI as creative and critical tools in the design process. Prototype AI-enabled experiences (e.g. personalization, classification, generation). Reflect on the ethical and systemic implications of data-driven and AI-based interventions. Work with Indian datasets and real-world scenarios (urban, rural, socio-technical).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Data Driven Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Data Driven Design"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/data-driven-design",
+  "slug": "data-driven-design"
+}

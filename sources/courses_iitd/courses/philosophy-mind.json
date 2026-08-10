@@ -1,0 +1,22 @@
+{
+  "code": "HSL7530",
+  "name": "Philosophy of Mind",
+  "description": "What foundational and advanced issues arise in investigating mental phenomena and analyzing cognitive mechanisms? This course explores philosophical frameworks, critical tools, and research strategies for examining these questions. What counts as a robust explanation of cognitive capacities? Can behaviour and cognitive processes be theorized independently of neural substrates? How can inquiry into consciousness benefit from philosophical perspectives? What complexities result from interactions between cognitive, social, and linguistic structures? Is thought fundamentally structured like language, or does it transcend linguistic representation? The course critically addresses these and related questions in light of current controversies and developments shaping contemporary research in philosophy of cognitive science.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Philosophy of Mind | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Philosophy of Mind"
+  ],
+  "department": "Computational Cognition",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/philosophy-mind",
+  "slug": "philosophy-mind"
+}

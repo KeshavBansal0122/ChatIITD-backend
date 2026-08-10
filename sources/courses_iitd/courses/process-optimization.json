@@ -1,0 +1,22 @@
+{
+  "code": "CHL7204",
+  "name": "Process Optimization",
+  "description": "Introduction to optimization and applications; classification (linear programming (LP), nonlinear programming (NLP), mixed-integer linear programming (MILP), mixed-integer nonlinear programming (MINLP)), convexity, unimodal versus multimodal analysis. Single variable and multivariable unconstrained optimization methods. Linear programming, branch and bound method for MILP. Constrained optimization: nonlinear programming. Necessary and sufficient conditions of optimality. Quadratic programming. Case studies from the chemical industry.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL3004&CHL3005",
+  "overlap": null,
+  "learning_outcomes": [
+    "Process Optimization | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Process Optimization"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/process-optimization",
+  "slug": "process-optimization"
+}

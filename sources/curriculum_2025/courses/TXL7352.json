@@ -1,0 +1,16 @@
+{
+  "code": "TXL7352",
+  "name": "Advanced Knitting",
+  "description": "Fundamentals of knitting, weft and warp knitting techniques, advanced stitch patterns, jacquard and cable knits, colorwork, shaping methods, seamless garment construction, and finishing techniques, design software for pattern creation, warp knitting, underlap and overlap, swinging and shogging motions, tricot, Raschel, jacquard patterns for warp knit fabrics, 3D spacer fabrics, application of knitting in medical textiles (for example, compression garments), sportswear (for example, moisture-wicking fabrics), e-textiles (for example, wearable technology).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL7352"
+}

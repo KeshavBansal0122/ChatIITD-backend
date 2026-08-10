@@ -1,0 +1,22 @@
+{
+  "code": "CVL7603",
+  "name": "Analysis and Design of Tunnels",
+  "description": "Introduction and design concepts; tunnel failures; site investigations; primary supports: steel arches, rock bolts, shotcrete, micropiles, concrete segments; construction methods: in elastic, yielding, intense yielding grounds; tunnel boring machines: open, shield, EPB, hydroshield and hybrid TBMs, selection, RME index; bottom up and top down methods; closed form solutions; overview of design methods: Terzaghi, RMR, Q, ICE, NATM, analytical, numerical, interactive; detailed design with convergence confinement method: GCC, LDP, support curves, interaction plot; stress-strain method: 2-D and 3-D analysis, water effects, seismic effects; rock block stability by stereographic projection; grout characterization; site visit; preparation of geotechnical baseline reports; modelling of sequential excavation, GCC, LDP, supports, interaction plots.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "CVL7201/CVL7601/",
+  "overlap": null,
+  "learning_outcomes": [
+    "Analysis and Design of Tunnels | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Analysis and Design of Tunnels"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/analysis-and-design-tunnels",
+  "slug": "analysis-and-design-tunnels"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ASL7990",
+  "name": "Climate Science Communication and Research Ethics",
+  "description": "This course integrates climate science communication with research ethics and responsible scientific practice. Students will learn how to interpret and communicate scientific findings clearly while adhering to ethical standards. Topics include scientific writing, visualization, citation practices, plagiarism, research design basics, institutional ethics approval processes, and responsible use of AI tools in analysis and writing. The course emphasizes transparency, integrity, and accountability in scientific work.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Climate Science Communication and Research Ethics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Climate Science Communication and Research Ethics"
+  ],
+  "department": "Climate Science Communication",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/climate-science-communication-and-research-ethics",
+  "slug": "climate-science-communication-and-research-ethics"
+}

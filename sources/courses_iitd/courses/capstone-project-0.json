@@ -1,0 +1,22 @@
+{
+  "code": "MLD4000",
+  "name": "Capstone Project",
+  "description": "The capstone project involves selecting a research problem related to materials science and engineering, performing experimental or computational work, analyzing results, and presenting findings. Topics include material synthesis, processing, characterization, thermodynamic/kinetic modeling, and failure analysis. The course emphasizes independent research, problem-solving, and technical communication.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Capstone Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Capstone Project"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/capstone-project-0",
+  "slug": "capstone-project-0"
+}

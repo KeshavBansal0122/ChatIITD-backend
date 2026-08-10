@@ -1,0 +1,22 @@
+{
+  "code": "AML7200",
+  "name": "Multiscale Modelling and Computation",
+  "description": "Multiple length and time scales in materials, Continuum constitutive models in elasticity, Atomistic representation of crystal lattices, Molecular Statics, Energy minimization, Molecular Dynamics, NVE and NVT ensembles, Atomistic-Continuum coupling, Cauchy-Born rule, Micromechanics, Eigenstress and Eigenstrain, Eshelby\u2019s inclusion problem, Homogenization, Data-driven methods",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "AML7030",
+  "overlap": null,
+  "learning_outcomes": [
+    "Multiscale Modelling and Computation | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Multiscale Modelling and Computation"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/multiscale-modelling-and-computation",
+  "slug": "multiscale-modelling-and-computation"
+}

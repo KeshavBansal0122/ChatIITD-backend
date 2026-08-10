@@ -1,0 +1,22 @@
+{
+  "code": "CVL7819",
+  "name": "Geographical Information Systems",
+  "description": "Fundamentals of geographic information systems (GIS). Geographic concepts for GIS. Spatial relationships, topology, spatial patterns, spatial interpolation. Data storage, data structure, non-spatial database models. Populating GIS, digitizing, data conversion. Spatial data models, raster and vector data structures and algorithms. Digital elevation models (DEM) and their application. Georeferencing and projection systems, GIS application areas, spatial analysis, quantifying relationships, spatial statistics, big data and cloud computing in GIS, web GIS.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Geographical Information Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Geographical Information Systems"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/geographical-information-systems",
+  "slug": "geographical-information-systems"
+}

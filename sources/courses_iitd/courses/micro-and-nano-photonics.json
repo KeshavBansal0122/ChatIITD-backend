@@ -1,0 +1,22 @@
+{
+  "code": "ELL7380",
+  "name": "Micro- and Nano- Photonics",
+  "description": "Ray optics; wave optics (plane waves, spherical waves, paraboloidal waves, interference, diffraction), Fabry Perot cavity paraxial waves, beam optics, microresonators - ring resonator and disc resonator devices, review of electromagnetic (EM) theory, boundary conditions, some relevant EM problems, introduction to FDTD and FEM modeling, photonic crystals and devices, optical waveguides and interconnects: planar and cylindrical waveguides, guided modes, cut-off conditions, integrated photonic circuits, fundamentals of plasmonics - surface plasmon resonance, dispersion relation, coupling conditions, models describing the refractive index of metals, localized surface plasmons, plasmonic sensors, plasmonic waveguides and interconnects.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Micro- and Nano- Photonics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Micro- and Nano- Photonics"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/micro-and-nano-photonics",
+  "slug": "micro-and-nano-photonics"
+}

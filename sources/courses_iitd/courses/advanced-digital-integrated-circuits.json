@@ -1,0 +1,22 @@
+{
+  "code": "CRL7073",
+  "name": "Advanced Digital Integrated Circuits",
+  "description": "Introduction to advanced digital integrated circuits 2. CMOS logic design and performance analysis 3. Logic families and circuit styles 4. Interconnects and signal integrity 5. Power consumption and optimization techniques 6. Memory design and SRAM/DRAM architectures 7. Arithmetic and sequential circuits 8. Design for reliability and robustness 9. Advanced timing analysis and clocking strategies 10. Emerging trends and future of digital ICs 11. Design Exmaples.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Digital Integrated Circuits | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Digital Integrated Circuits"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-digital-integrated-circuits",
+  "slug": "advanced-digital-integrated-circuits"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "DDL2007",
+  "name": "Design Process",
+  "description": "The course builds foundational skills in problem-solving, user research, ideation and prototyping, user testing and iteration \u2014preparing students for real-world roles in design studios, startups, product teams and innovation-driven industries.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(DDP1001&DDP1002&DDP1003&DDP1007&DDP1008&DDP1004)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Design Process | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/design-process",
+  "slug": "design-process"
+}

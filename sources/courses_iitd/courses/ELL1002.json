@@ -1,0 +1,22 @@
+{
+  "code": "ELL1002",
+  "name": "Mathematical Techniques for Electrical Engineering",
+  "description": "Sinusoidal steady state analysis of electrical circuits and concept of phasors. Usefulness trigonometric identities, logarithmic concepts, complex numbers in Cartesian and polar forms, basic calculus in AC phasor analysis. Solving steady state and transient RLC circuits using Laplace transforms. Basic understanding of matrix operations, applications in electrical networks. Importance of eigenvalues in large electrical systems. Vector calculus, scalar and vector products, curl and divergence, Gauss&#039; law, Stoke&#039;s law, differentiation of scalar and vector functions, visualization of field distributions. Visualization of mathematical functions for example, filtering of signals using convolution of signals. Use of programming or software tools, for example, python/MATLAB. Introduction to numerical methods: solving equations, usage in power systems and optimization. Introduction to probability and statistics for electrical communication theory.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Mathematical Techniques for Electrical Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mathematical Techniques for Electrical Engineering"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mathematical-techniques-electrical-engineering",
+  "slug": "mathematical-techniques-electrical-engineering"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ELL2418",
+  "name": "Digital Signal Processing",
+  "description": "Review of Signals and Systems, Sampling and data reconstruction processes, Discrete Fourier transform and FFT algorithms, linear filtering approaches for long data sequences using DFT, short time Fourier transform and wavelet transform, Application of Z transform in signal processing, Digital Filter Structure, IIR Filter Design, FIR Filter Design, Adaptive Signal Processing (Steepest Descent and the LMS Algorithm), Kalman filter",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL1205",
+  "overlap": null,
+  "learning_outcomes": [
+    "Digital Signal Processing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Digital Signal Processing"
+  ],
+  "department": "Advanced Digital Signal Processing",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/digital-signal-processing",
+  "slug": "digital-signal-processing"
+}

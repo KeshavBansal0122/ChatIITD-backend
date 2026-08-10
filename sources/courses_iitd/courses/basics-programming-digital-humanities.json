@@ -1,0 +1,22 @@
+{
+  "code": "HSL5200",
+  "name": "Basics of Programming for Digital Humanities",
+  "description": "The course focuses on the basics of programming, working with textual data, using natural language processing packages for distant reading of texts, and visually representing the results. Students will learn how to mine data from the internet or from other unstructured sources, data wrangling techniques, data analysis, network analysis, spatial analysis, and visualization.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Basics of Programming for Digital Humanities | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Basics of Programming for Digital Humanities"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/basics-programming-digital-humanities",
+  "slug": "basics-programming-digital-humanities"
+}

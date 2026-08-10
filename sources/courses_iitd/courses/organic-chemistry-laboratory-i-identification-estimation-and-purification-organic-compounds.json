@@ -1,0 +1,22 @@
+{
+  "code": "CMP2042",
+  "name": "Organic Chemistry Laboratory I: Identification, Estimation and Purification of Organic Compounds",
+  "description": "Introduction of the lab, safety protocols and precautions. Basic purification techniques \u2013filtration & recrystallization and column chromatography. Identification of organic compounds-physical methods, elemental analysis and functional group identification. Separation and analysis of binary mixtures of\norganic compounds by liquid-liquid extraction. Measurements of optical rotation and calculate optical purity.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Organic Chemistry Laboratory I: Identification, Estimation and Purification of Organic Compounds | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Organic Chemistry Laboratory I: Identification, Estimation and Purification of Organic Compounds"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/organic-chemistry-laboratory-i-identification-estimation-and-purification-organic-compounds",
+  "slug": "organic-chemistry-laboratory-i-identification-estimation-and-purification-organic-compounds"
+}

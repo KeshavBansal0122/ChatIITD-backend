@@ -1,0 +1,16 @@
+{
+  "code": "ESP7128",
+  "name": "Energy & Environment Laboratory",
+  "description": "Proximate and ultimate analysis of fuels, thermal performance and emission characteristics of internal and external combustion devices, solar radiation measurement, performance evaluation of solar appliances and buildings, electron density and temperature measurement of plasma, waste water treatment, waste to energy, performance of solar PV.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ES",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ES#ESP7128"
+}

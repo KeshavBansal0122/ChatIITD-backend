@@ -1,0 +1,22 @@
+{
+  "code": "OPL7701",
+  "name": "Quantum Mechanics for Photonics",
+  "description": "Wave-particle duality, probabilities, linear algebra, Hilbert spaces, operators, commutators, quantum states, and observables. Wavefunctions, eigenvalues, and measurement. Spin and orbital angular momentum in photonics, selection rules in photonic transitions. Time-dependent Schr\u00f6dinger equation, quantum dynamics, quantum mechanics of photons, photonic wavefunctions, quantization of the electromagnetic field, photon counting and quantum measurements, interference in quantum photonics, HBT experiment, photon statistics, interaction of photons with matter, quantum states of light, quantum entanglement and its role in photonics, quantum information.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Quantum Mechanics for Photonics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Quantum Mechanics for Photonics"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/quantum-mechanics-photonics",
+  "slug": "quantum-mechanics-photonics"
+}

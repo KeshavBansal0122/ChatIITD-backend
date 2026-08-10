@@ -1,0 +1,22 @@
+{
+  "code": "ASL7340",
+  "name": "Dynamics of the Atmosphere",
+  "description": "Fundamental forces; basic laws of conservation; hydrodynamic equations in rotating frame of reference; dimensional analysis; geostrophic and hydrostatic approximations; atmospheric stability; isobaric coordinate system; gradient wind approximation; thermal wind; vertical motion; barotropic and baroclinic atmospheres; circulation and vorticity; vorticity equation; potential vorticity conservation. Boussinesq approximation; Reynolds averaging; mixing length hypothesis; Ekman layer; acoustic, gravity, Poincare, Rossby and kelvin waves. Atmospheric general circulation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Dynamics of the Atmosphere | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Dynamics of the Atmosphere"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/dynamics-atmosphere",
+  "slug": "dynamics-atmosphere"
+}

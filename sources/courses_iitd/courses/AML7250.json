@@ -1,0 +1,22 @@
+{
+  "code": "AML7250",
+  "name": "Mechanics of Composite Materials",
+  "description": "Basics of solid mechanics, Composites, Various reinforcement and matrix materials, Strength and stiffness properties, Effective moduli, cylindrical and lamellar systems, Laminates, Laminated plates, Analysis and Design with composites, Fiber reinforced pressure vessels, inelastic and non-linear effects, Fabrication of composites, Machining of composites, Strength evaluation, Fracture in composites, Technological applications.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "AML7030",
+  "overlap": null,
+  "learning_outcomes": [
+    "Mechanics of Composite Materials | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mechanics of Composite Materials"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mechanics-composite-materials",
+  "slug": "mechanics-composite-materials"
+}

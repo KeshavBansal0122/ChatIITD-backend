@@ -1,0 +1,22 @@
+{
+  "code": "CMP3063",
+  "name": "Organic Chemistry Laboratory III: Multi-Step Synthesis of Target Molecules",
+  "description": "In this lab, students will explore methods to determine the identity of an unknown compound and perform its derivatization. The course also includes purification techniques, functional group identification, functional group interconversion, and the synthesis of targeted small molecules.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Organic Chemistry Laboratory III: Multi-Step Synthesis of Target Molecules | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Organic Chemistry Laboratory III: Multi-Step Synthesis of Target Molecules"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/organic-chemistry-laboratory-iii-multi-step-synthesis-target-molecules",
+  "slug": "organic-chemistry-laboratory-iii-multi-step-synthesis-target-molecules"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CTN7003",
+  "name": "Teaching and Research Practicum",
+  "description": "Students are expected to prepare assist the course instructor in preparing lecture materials, prepare laboratory manuals for the experiments conducted in PG laboratory, and assist the centre in organizing seminars, lectures and other activities relevant to the centre.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CT#CTN7003"
+}

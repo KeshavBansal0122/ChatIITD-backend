@@ -1,0 +1,21 @@
+{
+  "code": "MEL7116",
+  "name": "Optimization",
+  "description": "Introduction to optimization, convex sets and functions, unconstrained optimization, iterative descent, convergence criteria, convergence rates, convergence analysis, gradient descent, Newton\u2019s method, projected gradient descent, constrained optimizations, KKT conditions, barrier and penalty methods, support vector machines, soft margin classifiers, sub-gradient methods, proximal gradient algorithms, stochastic gradient descent, mirror descent, advanced topics/ applications \u2013 clustering, sparse linear regression, logistic regression, neural networks.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Optimization | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/optimization",
+  "slug": "optimization"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ELL7609",
+  "name": "Distributed Energy Resource: Grid-Edge Control, Planning and Operations",
+  "description": "Introduction to Distributed Energy Resources (DERs) and grid-edge concepts; Modeling of DERs i.e. solar PV, energy storage systems, electric vehicles and thermostatically controllable loads and their impact on power flow and grid operations; Power electronic interfaces for DERs including grid-forming and grid-following controls such as droop and virtual inertia; DER coordination and control architectures \u2013 centralized, distributed, and local approaches; Distribution system optimization and scheduling with DERs (DistFlow models, inverter constraints, approximations and relaxations); DER Integration standards (volt/var control curves, ride-through capabilities etc), Application of DER flexibility for demand response, NILM-based load disaggregation, peer-to-peer energy trading, voltage and frequency support, and black-start services; Impact of DERs on utility planning (hosting capacity and infrastructure upgrade planning); Co-simulation of transmission\u2013distribution systems to analyze DER interactions with the bulk grid (TSO-DSO interaction); Policy, regulatory, and market frameworks for DER integration (smart metering, retail market mechanisms, and the evolving role of the Distribution System Operator (DSO)).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL2600/ELL7604",
+  "overlap": null,
+  "learning_outcomes": [
+    "Distributed Energy Resource: Grid-Edge Control, Planning and Operations | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Distributed Energy Resource: Grid-Edge Control, Planning and Operations"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/distributed-energy-resource-grid-edge-control-planning-and-operations",
+  "slug": "distributed-energy-resource-grid-edge-control-planning-and-operations"
+}

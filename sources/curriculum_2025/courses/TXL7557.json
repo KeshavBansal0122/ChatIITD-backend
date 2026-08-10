@@ -1,0 +1,16 @@
+{
+  "code": "TXL7557",
+  "name": "Machine Learning in Textile and Fibre Engineering",
+  "description": "Evolution of AI, ML and soft computing; supervised, unsupervised and reinforcement learning; artificial neural networks (ANN), ANN training algorithms, convolutional neural network (CNN), decision tree-based models, random forest, XG boost; fuzzy sets and fuzzy logic, fuzzy inference system, fuzzy decision making; intelligent optimisation, evolutionary algorithms, genetic algorithms, particle swarm optimization, simulated annealing; hybrid AI-ML systems, adaptive network based fuzzy inference system (ANFIS); generative AI and AI agents in textiles; applications of various AI and ML techniques in textile and fibre engineering problems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL7557"
+}

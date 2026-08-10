@@ -1,0 +1,22 @@
+{
+  "code": "COL1002",
+  "name": "Discrete Mathematical Structures",
+  "description": "Functions, relations, closures over finite sets. De Morgan\u2019s laws. Axioms, propositions, proofs, proof techniques: contradiction, mathematical induction and strong induction. Propositional and predicate syntax, well-formed expressions, truth table, inference. Operations on infinite sets, countability and uncountability, Schroder-Bernstein theorem. Graph theory: undirected and directed graphs, reachability, connectivity, cycles, forests, trees, Euler tours, partitions, partial orders, well orders, chains, antichains. Combinatorics and counting rules, permutations and combinations, principle of inclusion-exclusion, combinatorial proofs. Recurrences: divide-and-conquer and linear, generating functions.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Discrete Mathematical Structures | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Discrete Mathematical Structures"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/discrete-mathematical-structures",
+  "slug": "discrete-mathematical-structures"
+}

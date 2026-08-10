@@ -1,0 +1,22 @@
+{
+  "code": "CVP2502",
+  "name": "Solid Mechanics and Structural Analysis Laboratory",
+  "description": "Experimental uniaxial tension; Torsion tests on standard steel specimens; Evaluation of forces and displacements in determinate and indeterminate trusses; Bending moment in simply supported beams; Elastic deflection of simply supported beams; Evaluation of forces and profile of cable structures; Analysis of three and two hinged arch; Buckling of strut with varying boundary conditions; Evaluation of reaction forces for frame structures;",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(CVL1501&CVL2502)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Solid Mechanics and Structural Analysis Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Solid Mechanics and Structural Analysis Laboratory"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/solid-mechanics-and-structural-analysis-laboratory",
+  "slug": "solid-mechanics-and-structural-analysis-laboratory"
+}

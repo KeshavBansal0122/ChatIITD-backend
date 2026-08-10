@@ -1,0 +1,16 @@
+{
+  "code": "AML7220",
+  "name": "Stability of Structures",
+  "description": "Introduction to stability of structures. Static, dynamical and energy based approaches. Bifurcation buckling behavior of beams, frames, plates and open sections. Effects of nonlinearity and geometric imperfection, parametric resonance behavior of beams and plates. Snap-through buckling of curved beams and shells. Stability of structures under non-conservative loads.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AML7220"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "ELP7503",
+  "name": "Electric Vehicle and Drives Laboratory",
+  "description": "This course provides exposure and hands-on on laboratory experiments related to electric motor drives and electric vehicle subsystems. In electric motor drives, experiments related to control of dc motor, induction motor PMSM, BLDC, SRM and SyRel etc are includes. IN EV subsystems, the labs related to battery energy resources, wired and wireless charging techniques are done.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELP7503"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "SBL7030",
+  "name": "Modern Trends in Drug Development",
+  "description": "Introduction to drug development, administration routes, pharmacokinetics and drug metabolism; fundamentals of drug targets; fundamentals of drug-biomolecule interactions; biophysical and biochemical techniques in drug development; enzyme inhibitors as drugs; receptor modulators as drugs; targeted protein degradation (TPD) in drug development: proteasomal and lysosomal protein degradation pathways and artificial hijacking by small molecules; drugs modulating immune response; protein-protein interactions (PPIs) and therapeutic relevance: clinical significance, PPI inhibitors, peptidomimetics; drugs against protein aggregation; proteomics in drug development; prodrugs: rationale, functional group approach and activation strategies, antibody-directed enzyme prodrug therapy, antibody-drug conjugates (ADCs); tissue-specific drug delivery.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBL7030"
+}

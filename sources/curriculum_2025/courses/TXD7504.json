@@ -1,0 +1,16 @@
+{
+  "code": "TXD7504",
+  "name": "Major Project Part-II (M.Tech. Textile Engineering)",
+  "description": "Continuation of major project-part I, completion of targeted research work, thesis writing and presentation of complete work.",
+  "credits": 12.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 24.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXD7504"
+}

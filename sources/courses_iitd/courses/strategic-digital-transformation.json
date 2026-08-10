@@ -1,0 +1,22 @@
+{
+  "code": "MSL7719",
+  "name": "Strategic Digital Transformation",
+  "description": "This course contains the following topics:\nWhy Digital Transformation, Strategically?\nTechnologies that Enable Transformation\nDigital Business Models\nRoadmaps for effective digital transformation\nInternal building blocks contributing to a successful digital transformation\nIs your process going as planned?",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(MSL7701) &(MSL7702)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Strategic Digital Transformation | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Strategic Digital Transformation"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/strategic-digital-transformation",
+  "slug": "strategic-digital-transformation"
+}

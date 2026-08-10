@@ -1,0 +1,22 @@
+{
+  "code": "ASL7010",
+  "name": "Ocean Circulation and Climate",
+  "description": "This course provides a comprehensive introduction to the large-scale general circulation of the global ocean spanning from wind-driven to thermohaline circulation and its link with the past, present and future climate. It explores the physical mechanisms that govern gyres, western boundary currents, upwelling systems, and the thermohaline overturning circulation, including the Atlantic meridional overturning circulation, tropical and subtropical gyres, Antarctic bottom water circulation, and watermass formation and transformation. The course emphasizes the ocean\u2019s role in climate regulation via heat, carbon and freshwater transport from interannual to millennial time scales, and examines how these circulations have evolved in the past and are projected to change in the future climate.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Ocean Circulation and Climate | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Ocean Circulation and Climate"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/ocean-circulation-and-climate",
+  "slug": "ocean-circulation-and-climate"
+}

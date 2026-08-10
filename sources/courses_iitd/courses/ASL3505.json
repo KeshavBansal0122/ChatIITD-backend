@@ -1,0 +1,21 @@
+{
+  "code": "ASL3505",
+  "name": "Marine Hazards",
+  "description": "Overview, concept and classification of marine and coastal hazards and their physical, chemical and biological drivers; Spatio-temporal scales of marine hazards; Rip currents, Ocean waves and rogue waves; Tsunami \u2013 generation, propagation, modelling and early warning systems; Tropical Cyclones and storm surges \u2013dynamics and coastal flooding; Marine heatwaves: detection, classification and ecosystem impacts; Harmful algal blooms and red tides; Marine Pollution and Oil spills: transport, dispersion of pollutants and environmental consequences; Ocean acidification and its implications for marine systems; Coastal hazards including sea-level rise, erosion and vulnerability assessment; Modelling and Prediction of marine hazards using satellite remote sensing, in-situ platforms (satellites, buoys, HF Radars, etc.) and numerical models.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Marine Hazards | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/marine-hazards",
+  "slug": "marine-hazards"
+}

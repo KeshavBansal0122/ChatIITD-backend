@@ -1,0 +1,16 @@
+{
+  "code": "MED7154",
+  "name": "Summer Internship/Minor Project",
+  "description": "This course involves taking up a summer internship or a minor project in industry or an academic research institution under the mentorship of a faculty member from the industrial engineering and operations research group. The students will be exposed to problems motivated by real-life applications from various industries or research projects of high socio-economic value. The students will take up this project during the summer after their first year. The deliverables will include a final report, presentation, and other relevant submissions like code, software, etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MED7154"
+}

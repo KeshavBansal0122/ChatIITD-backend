@@ -1,0 +1,22 @@
+{
+  "code": "BML7800",
+  "name": "Numerical Techniques in Biophysical Modeling",
+  "description": "Numerical differentiation and integration; error analysis, convergence and stability of numerical methods; ODEs in biophysical systems \u2013 predator prey models, tissue viscoelasticity; explicit and implicit time-stepping methods \u2013 forward/backward Euler, BDF; PDEs \u2013 diffusive mass transfer, Turing pattern formation via reaction-diffusion, spatial segregation of proteins using finite difference methods; finite element method (FEM) \u2013 weak formulation, convergence, mesh sensitivity, comparison with FDM; PDEs in solid mechanics \u2013 linear elastic, viscoelastic (1D/2D), hyperelastic materials (demonstrations); PDEs in fluid mechanics - Newtonian (air/urine) and non-Newtonian (blood); simulation and visualization using python and COMSOL.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Numerical Techniques in Biophysical Modeling | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Numerical Techniques in Biophysical Modeling"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/numerical-techniques-biophysical-modeling",
+  "slug": "numerical-techniques-biophysical-modeling"
+}

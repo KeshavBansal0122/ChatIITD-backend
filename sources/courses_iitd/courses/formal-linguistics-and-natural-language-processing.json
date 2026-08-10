@@ -1,0 +1,22 @@
+{
+  "code": "HSL2711",
+  "name": "Formal Linguistics and Natural Language Processing",
+  "description": "This course introduces students to the core concepts of formal linguistics\u2014syntax, semantics, and morphology\u2014and demonstrates how these concepts inform natural language processing (NLP). Students will learn how formal models of linguistic structure (phrase structure, grammar, meaning representation) connect to computational applications such as parsing, machine translation, sentiment analysis, and information extraction. The course bridges the gap between human language structure and computational models, enabling students to design linguistically informed NLP systems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Formal Linguistics and Natural Language Processing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Formal Linguistics and Natural Language Processing"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/formal-linguistics-and-natural-language-processing",
+  "slug": "formal-linguistics-and-natural-language-processing"
+}

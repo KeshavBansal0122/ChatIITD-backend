@@ -1,0 +1,22 @@
+{
+  "code": "CVD8599",
+  "name": "Major Project Part-II",
+  "description": "Project type activity. Students work independently on a transportation engineering problem by reviewing related studies, identifying data requirements, and collecting relevant primary and secondary data. The students are also required to conduct relevant tests/simulation/modelling exercises, and interpret their outcomes with respect to the problem definition. It is also required to write technical reports and make presentations on work progress.",
+  "credits": 12.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 24.0
+  },
+  "prereq": "CVL7502&CVL7051&CVL7052&CVD8598",
+  "overlap": null,
+  "learning_outcomes": [
+    "Major Project Part-II | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Major Project Part-II"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/major-project-part-ii-4",
+  "slug": "major-project-part-ii-4"
+}

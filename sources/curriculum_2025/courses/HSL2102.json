@@ -1,0 +1,16 @@
+{
+  "code": "HSL2102",
+  "name": "Macroeconomics",
+  "description": "The course provides an introduction to macroeconomics, both theory and evidence, the latter drawing from Indian and international experiences. It studies the structure of the economy and the relationships among macroeconomic variables: output and investment; money and banking; prices and the interest rate; and trade and the exchange rate. It examines economic growth and distribution, and how these are affected by interactions among labour markets, firms, the government, and the Central Bank. It studies economic relations between countries and the effects of foreign currency exchanges on the domestic economy. The course also deals with policies, particularly fiscal and monetary, and their impacts on various social classes. The macroeconomic and development challenges facing India and the world will form the backdrop for discussions throughout the course.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL2102"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CHL7301",
+  "name": "Nanoscale Engineering",
+  "description": "Nanomaterial synthesis (chemical synthesis, chemical and physical vapor deposition, mechanical and solution based exfoliation); material characterization (Raman and IR vibrational spectroscopy, scanning electron microscopy, transmission electron microscopy, atomic force microscopy); fabrication of nanoscale devices (photolithography, electron beam lithography, metal and oxide deposition); semiconductor physics (electronic structure, band theory, charge transport); performance of nanoscale devices (field effect transistors, solar cells, field effect mobility, quantum confinement).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Nanoscale Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Nanoscale Engineering"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/nanoscale-engineering",
+  "slug": "nanoscale-engineering"
+}

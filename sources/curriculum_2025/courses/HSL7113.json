@@ -1,0 +1,16 @@
+{
+  "code": "HSL7113",
+  "name": "Advanced Macroeconomics",
+  "description": "This course provides a rigorous introduction to dynamic macroeconomic models of growth and structural transformation, with special emphasis on the empirical and institutional realities of developing economies. It integrates neoclassical, endogenous, and structuralist frameworks to explore questions of technological change, dualism, informality, inequality, and sustainability in the context of India and other emerging markets. Students will gain a strong grasp of modern growth theory and dynamic optimization tools, the ability to apply these models to real-world development issues, experience in quantitative and empirical exercises using cross-country and Indian data.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL7113"
+}

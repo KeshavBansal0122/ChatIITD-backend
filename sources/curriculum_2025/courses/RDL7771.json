@@ -1,0 +1,16 @@
+{
+  "code": "RDL7771",
+  "name": "Nanotechnology for Safe and Sustainable Agriculture",
+  "description": "This course introduces students to the principles, synthesis, characterization, and applications of nanoparticles (NPs) in agri-food systems. Emphasis is placed on nano-enabled inputs such as fertilizers, pesticides, and biosensors for precision farming. The course explores environmental fate, plant-nanoparticle interactions, and nanotoxicity across soil-plant-microbe systems. It covers regulatory frameworks, life cycle assessment (LCA), and risk\u2013benefit analysis to evaluate safety and sustainability. Through case studies and recent advances, students will gain critical insights into responsible design, deployment, and monitoring of nanotechnologies to enhance agricultural productivity while ensuring ecological and food system safety.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "RD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=RD#RDL7771"
+}

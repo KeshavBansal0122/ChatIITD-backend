@@ -1,0 +1,21 @@
+{
+  "code": "MLL7115",
+  "name": "Polymer Physics",
+  "description": "Polymer molecules, single chain conformations, real chains, excluded volume interaction, thermophysical properties such as melting, glass transition and crystallization kinetics. Molecular and statistical mechanics of polymers, thermodynamics of polymer solutions, mean field theory, Flory-Huggins theory, lattice theory, random walk models, freely jointed chain, modified freely jointed chain, freely rotating chain, mixing and phase separation, Brownian motion, diffusion of polymers, reptation, elasticity, viscoelasticity, structure of glassy, crystalline, and rubbery elastic states of polymers, liquid crystallinity, self-assembled organic-inorganic nanocomposites, computational modelling of polymers.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Polymer Physics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/polymer-physics",
+  "slug": "polymer-physics"
+}

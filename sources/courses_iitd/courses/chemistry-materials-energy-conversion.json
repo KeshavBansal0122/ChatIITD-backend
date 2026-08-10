@@ -1,0 +1,22 @@
+{
+  "code": "CML4075",
+  "name": "Chemistry of Materials for Energy Conversion",
+  "description": "The course comprises starts with basic introduction to renewable energy conversion and introduces the required electrochemical and electronic structure components of materials. Specific applications including electrocatalysis, photochemistry, photovoltaics, batteries, supercapacitors and thermoelectric devices are covered in this course.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Chemistry of Materials for Energy Conversion | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Chemistry of Materials for Energy Conversion"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/chemistry-materials-energy-conversion",
+  "slug": "chemistry-materials-energy-conversion"
+}

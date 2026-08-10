@@ -1,0 +1,21 @@
+{
+  "code": "ELL8102",
+  "name": "Optimal Control",
+  "description": "Calculus of variations, Extremization of functionals, Euler-Lagrange equation, state and input constraints, necessary conditions, Pontryagin\u2019s minimum principle, two-point boundary value problems, minimum time problems, minimum control effort problems, linear quadratic regulator problems, finite and infinite horizon problems, principle of optimality, dynamic programming, applications to decision making and routing, optimal control problems using dynamic programming, Hamilton-Jacobi-bellman equation, numerical techniques for optimal control.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Optimal Control | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/optimal-control",
+  "slug": "optimal-control"
+}

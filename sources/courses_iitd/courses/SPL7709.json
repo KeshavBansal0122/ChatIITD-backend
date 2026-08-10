@@ -1,0 +1,22 @@
+{
+  "code": "SPL7709",
+  "name": "Principles of Economics for Public Policy",
+  "description": "1. How Economists think?\nYour first module will focus on two topics: rational choice, and supply and demand. Based on the activities in this week, you can expect to be able to do the following:\n\u2022 Discuss what the mainstream economic approach is, and evaluate potential applications and limitations of the theory of rational individual choice; and\n\u2022 Differentiate some key concepts used by economists following this approach: demand, supply, and market equilibrium.\n\u2022 What lies behind the Demand curve? (Utility curves, Budget constraints and the income and substitution effects)\n\u2022 What lies behind the Supply curve? (Revenue, Costs, and Profit Maximization)\n\u2022 Understanding the framework of perfectly competitive markets (revenues, costs, and profit maximization)\n2. What to tax and why? \nThere are two topics in this module: tax incidence and how to think of optimal taxes. Based on the activities in this week, you can expect to be able to do the following:\n\u2022 Understand the concept of the economic incidence of a tax \n\u2022 Types of tax and role of demand elasticity\n\u2022 how economists assess the \u2018fairness\u2019 of tax systems\n3. What markets can achieve? \nThe two topics in this module are: markets and efficiency, and trade. Based on the activities in this week, you can expect to be able to do the following:\n\u2022 Understand the theory of comparative advantage and its implications for patterns of trade.\n\u2022 Why competitive market outcomes are desirable (efficiency, pareto optimality, equity) \n4. Why markets may need regulation? \n(4.1): Natural monopolies and imperfect competition \nIn this module, we will look at forms of imperfect competition when the number of sellers are limited, viz imperfect competition. We will use two case studies to motivate our learning: Electricity? And US versus Microsoft. Based on the activities in this week, you can expect to be able to do the following:\n\u2022 Why monopoly (and market power more generally) may be \u201cinefficient\u201d? \n\u2022 The special case of Natural monopolies \n\u2022 Understand the effect of a small number of sellers on the market price and quantities supplied.\n\u2022 Outline the range of policy responses to imperfect competition and the challenges of competition policy.\n(4.2): Asymmetric information and the \u201clemons\u201d problem \nIn this module, we relax the assumption of full and common information for all participants in a market or allow for imperfect information. What happens to the market equilibrium now? Using a case study, Life Insurance, you can expect to be able to do the following:\n\u2022 Be aware of different forms of asymmetric information and understand why these asymmetries may make markets inefficient. \n\u2022 Appreciate how private providers respond to asymmetric information, and \n\u2022 the extent to which policymakers can intervene to address this problem.\n5. When can markets fail?\nThe Demand Supply framework breaks down in the case of certain types of goods. We discuss this with reference to the theory of goods noting the important category of public goods and common pool resources. \n\u2022 Policy interventions to supply public goods \u2013e.g., defense expenditures and expenditures on primary education.\n\u2022 Sometimes there may also be missing markets for external effects e.g. carbon taxes. \n\u2022 Positive externalities (peer learning effects, agglomeration economies)\n\u2022 Appreciate the range of policy responses to external effects, including current debates concerning ways to reduce carbon emissions.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Principles of Economics for Public Policy | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Principles of Economics for Public Policy"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/principles-economics-public-policy",
+  "slug": "principles-economics-public-policy"
+}

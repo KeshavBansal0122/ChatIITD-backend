@@ -1,0 +1,22 @@
+{
+  "code": "CTN7001",
+  "name": "Teaching and Research Practicum",
+  "description": "Students are expected to prepare assist the course instructor in preparing lecture materials, prepare laboratory manuals for the experiments conducted in PG laboratory, and assist the centre in organizing seminars, lectures and other activities relevant to the centre.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Teaching and Research Practicum | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Teaching and Research Practicum"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/teaching-and-research-practicum-1",
+  "slug": "teaching-and-research-practicum-1"
+}

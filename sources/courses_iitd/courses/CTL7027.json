@@ -1,0 +1,22 @@
+{
+  "code": "CTL7027",
+  "name": "Materials for Electric Vehicle Applications",
+  "description": "Understanding the materials: introduction, classification of materials, fundamentals of materials, properties of materials, manufacturing methods for materials, structure-property relationship, properties of steels and other metallic materials, functionality of EV components: working principles of motor and mechanical stresses, working principles of battery and thermomechanical stresses, fundamentals of friction and wear, working principles of bearing and friction materials, failure aspect and issues associated with EV components (friction and wear, corrosion, EMI/EMC, etc.). Requirements on EV materials: materials selection strategies for structural application, motor, battery, brake, bearing, etc., battery materials and electrochemistry, light weighting the EV, supporting materials: lubricants and transmission fluids for EV, battery thermal management materials (phase change material, interface material, potting etc.), polymers, rubbers, coatings and paints. Failure and material selection case studies, industry and future trends of materials used in EVs in various areas such as battery, motor etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Materials for Electric Vehicle Applications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Materials for Electric Vehicle Applications"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/materials-electric-vehicle-applications",
+  "slug": "materials-electric-vehicle-applications"
+}

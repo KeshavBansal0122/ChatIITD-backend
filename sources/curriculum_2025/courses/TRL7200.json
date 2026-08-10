@@ -1,0 +1,16 @@
+{
+  "code": "TRL7200",
+  "name": "Transport and Health",
+  "description": "Air and noise pollution, physical activity, and traffic injuries; traffic emissions inventory; health impact assessment; comparative risk assessment; population exposure; health burden; disability-adjusted life-years; travel surveys and travel patterns; age and gender variation; relative risks; dose-response functions; epidemiology; health surveillance.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TR#TRL7200"
+}

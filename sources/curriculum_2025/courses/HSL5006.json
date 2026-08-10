@@ -1,0 +1,16 @@
+{
+  "code": "HSL5006",
+  "name": "Political Thought",
+  "description": "Introduction to early concepts of politics and related terms in various traditions; political forms and regimes; definitions and formations of \u201cstate\u201d; the notion of right; sovereignty; deliberation and democracy; constitutions; politics, law, legitimacy, and justice; social contract; politics and material conditions; gender and the politics of social reproduction; politics and representation; politics, caste, race and religion; political romanticism; the language of politics; governmentality and discursive formations; the making of nations, cosmopolitanism, international relations; public sphere; thinking anti-politics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL5006"
+}

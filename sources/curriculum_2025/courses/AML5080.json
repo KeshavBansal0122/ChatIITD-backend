@@ -1,0 +1,16 @@
+{
+  "code": "AML5080",
+  "name": "Structural Design of Ships",
+  "description": "Introduction, ship as beam, long term loading of ship structure, loads on ship structures, ship structural materials, longitudinal strength calculations, Midship section design, structural synthesis, superstructure and deckhouse structural design, analysis of plates and grillages, buckling of plates and panels, failure checks for grillages, transverse strength, torsional strength, bulkhead design, design of special structures, fatigue analysis, hull vibration analysis, submarine structures.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AML5080"
+}

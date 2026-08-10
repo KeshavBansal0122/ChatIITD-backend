@@ -1,0 +1,22 @@
+{
+  "code": "MTL7237",
+  "name": "Introduction to Differential Geometry",
+  "description": "Curves in the plane and space, arc-length, reparametrization, curvature of a plane curve, curvature and torsion of a space curve, simple closed curves, isoperimetric inequality, Four-Vertex Theorem, surfaces, smooth surfaces and examples, level surfaces, quadric surfaces, surfaces of revolution, ruled surfaces, smooth maps, tangent space, derivatives, orientability of surfaces, first fundamental form, lengths of curves on surfaces, isometries, conformal mappings, equiareal maps, second fundamental form, Gauss and Weingarten maps, normal and geodesic curvatures, Gaussian and mean curvatures, principal curvatures, surfaces of constant Gaussian curvature, surfaces of constant mean curvature, flat surfaces, parallel transport, geodesics and their examples, geodesic equations, geodesics as shortest paths, Gauss and Codazzi-Mainardi equations, Theorema Egregium, Gauss\u2013Bonnet Theorem, introduction to hyperbolic and spherical geometry.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Differential Geometry | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Differential Geometry"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-differential-geometry",
+  "slug": "introduction-differential-geometry"
+}

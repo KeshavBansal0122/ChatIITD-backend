@@ -1,0 +1,16 @@
+{
+  "code": "AMP7100",
+  "name": "Research Communication and Professional Ethics in Mechanics",
+  "description": "Scientific/technical paper reading and writing, style of leading journals and conferences in mechanics, paper writing and reviewing, ethics and plagiarism, technical presentations.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AMP7100"
+}

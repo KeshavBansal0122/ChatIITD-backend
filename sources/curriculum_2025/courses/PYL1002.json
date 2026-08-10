@@ -1,0 +1,16 @@
+{
+  "code": "PYL1002",
+  "name": "Waves and Oscillations",
+  "description": "Introduction to oscillations, simple harmonic motion, examples: pendulum and LC circuit, introduction to waves, wave equation, wave propagation, superposition, damped and driven harmonic oscillator, coupled oscillations, normal modes, transverse waves, longitudinal waves, sound/acoustic waves, reflection, transmission, applications: doppler effect and SONAR, electromagnetic waves, travelling waves, standing waves, doppler effect for electromagnetic waves, polarization, Huygen\u2019s principle, interference and diffraction of waves, single and double slit experiments, Fourier analysis, dispersion, group velocity, examples: shocks and wakes, and seismic waves.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL1002"
+}

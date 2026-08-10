@@ -1,0 +1,22 @@
+{
+  "code": "MTL7717",
+  "name": "Fuzzy Sets and Applications",
+  "description": "Fuzzy sets, fuzzy relations, matrix representation of fuzzy relations, fuzzy numbers, fuzzy arithmetic, Zadeh\u2019s extension principle, ordering fuzzy numbers, fuzzy aggregation, t-norm, t-conorm, fuzzy negation, OWA operators, fuzzy relational equations (FRE), algorithms to solve systems of FRE, fuzzy logic and approximate reasoning, fuzzy inference, Mamdani model, Larsen model, TSK model, SAM model, fuzzy measures, belief and plausibility, necessity and possibility, applications of fuzzy sets and logics in areas of clustering, pattern recognition, image processing, controller design, optimization, neuro-fuzzy, AI, and similar domains in project component.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Fuzzy Sets and Applications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fuzzy Sets and Applications"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fuzzy-sets-and-applications",
+  "slug": "fuzzy-sets-and-applications"
+}

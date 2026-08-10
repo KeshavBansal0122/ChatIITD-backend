@@ -1,0 +1,16 @@
+{
+  "code": "AML2020",
+  "name": "Fluid Mechanics",
+  "description": "Introduction to fluids and the concept of viscosity, flow visualization, fluid statics, physical laws for a control volume including continuity, momentum and energy equations, Bernoulli equation, differential equations of fluid motion, Navier Stokes equations, vorticity and potential flows, dimensional analysis and similitude, boundary layer theory, introduction to fluid machines.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AML2020"
+}

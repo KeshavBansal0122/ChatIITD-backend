@@ -1,0 +1,22 @@
+{
+  "code": "CRL9202",
+  "name": "ML\u2013Based Adaptive Noise Cancellation for Real-Time VLSI Systems",
+  "description": "Noise characteristics, SNR metrics, and classical adaptive filtering (LMS, NLMS, RLS).\nDSP foundations for real-time ANC: FIR/IIR structures, latency, and stability.\nLimitations of traditional adaptive filters in non-stationary noise environments.\nML formulations for noise cancellation: regression, online learning, and inference.\nNeural network models for ANC: MLP, CNN, RNN, and lightweight temporal models.\nStreaming and online adaptation techniques for real-time signal processing.\nFixed-point arithmetic, quantization, and precision optimization for ML models.\nVLSI architectures for ML-based ANC: pipelining, parallelism, and memory design.\nHDL/HLS implementation and FPGA/ASIC realization of ANC systems.\nLow-power design, verification, and real-time performance benchmarking.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "ML\u2013Based Adaptive Noise Cancellation for Real-Time VLSI Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "ML\u2013Based Adaptive Noise Cancellation for Real-Time VLSI Systems"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/ml-based-adaptive-noise-cancellation-real-time-vlsi-systems",
+  "slug": "ml-based-adaptive-noise-cancellation-real-time-vlsi-systems"
+}

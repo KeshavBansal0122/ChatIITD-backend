@@ -1,0 +1,16 @@
+{
+  "code": "TRL8054",
+  "name": "Epidemiology Methods for Road Traffic Injuries",
+  "description": "Introduction to traffic injury data and epidemiology; case-control and case-crossover; poisson and negative binomial count models; empirical bayes and controlled before-after; evaluation of natural experiments; quasi-experimental methods; interrupted time series; capture-recapture; population-based survey methods; systematic reviews and meta-analysis.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TR#TRL8054"
+}

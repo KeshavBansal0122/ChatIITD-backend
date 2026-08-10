@@ -1,0 +1,22 @@
+{
+  "code": "TRL8300",
+  "name": "Transportation Noise: Exposure, Mapping and Health Impact",
+  "description": "This course introduces the fundamentals of acoustics and environmental acoustics with emphasis on transportation noise. It covers noise generation, outdoor propagation, measurement techniques, acoustic descriptors, and methods for monitoring environmental noise exposure. Students will learn GIS-based noise mapping, spatial analysis, and interpretation of exposure patterns. The course also examines key health impacts including annoyance, sleep disturbance, and related exposure-response relationships. Mitigation strategies at source, path, and receiver levels are introduced. Practical components include field surveys, sound measurements, data processing, mapping exercises, and introductory health impact assessment. The course is relevant to planning, consulting, transport, and environmental sectors.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Transportation Noise: Exposure, Mapping and Health Impact | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Transportation Noise: Exposure, Mapping and Health Impact"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/transportation-noise-exposure-mapping-and-health-impact",
+  "slug": "transportation-noise-exposure-mapping-and-health-impact"
+}

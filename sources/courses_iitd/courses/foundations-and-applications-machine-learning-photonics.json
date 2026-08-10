@@ -1,0 +1,22 @@
+{
+  "code": "OPL7011",
+  "name": "Foundations and Applications of Machine Learning in Photonics",
+  "description": "Introduction to photonics: Maxwell\u2019s equations, guided-wave devices, coupled-mode theory, photonic integrated circuits, and numerical modeling methods (FDTD, FEM). Foundations of machine learning: supervised and unsupervised learning, regression, classification, clustering, dimensionality reduction, neural networks, deep learning, optimization, and reinforcement learning. Machine learning for photonic device modeling: inverse design, surrogate models, gratings, resonators, photonic crystals, metasurfaces, Bayesian optimization, reinforcement learning, and generative models. ML for photonic sensing and signal processing: spectral demodulation, multiparameter calibration, noise suppression, nonlinear sensing, and optical communication. Advanced topics: physics informed neural networks, hybrid physics ML frameworks, quantum photonics, non Hermitian systems, explainability, and case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Foundations and Applications of Machine Learning in Photonics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Foundations and Applications of Machine Learning in Photonics"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/foundations-and-applications-machine-learning-photonics",
+  "slug": "foundations-and-applications-machine-learning-photonics"
+}

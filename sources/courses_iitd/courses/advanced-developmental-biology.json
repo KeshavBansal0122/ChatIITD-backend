@@ -1,0 +1,22 @@
+{
+  "code": "SBL7027",
+  "name": "Advanced Developmental Biology",
+  "description": "Developmental anatomy; cellular identity, differentiation, and competence; differential gene expression; concept of model organisms; signalling mechanisms controlling cell fate and patterning; cell cycle and programmed cell death; metabolic regulation of cell fate decisions; current technologies to reprogram cellular identity and its implications for therapeutic applications; genetic/developmental mechanisms of birth defects and human diseases; regulation of cellular identity in cancer; mechanisms of protein homeostasis in health, aging and disease; maintenance, repair and replacement of diseased and damaged tissues; microbiome in health and disease; omics in health and disease.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "SBL1100/SBL1102/SBV8095",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Developmental Biology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Developmental Biology"
+  ],
+  "department": "Developmental Biology",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-developmental-biology",
+  "slug": "advanced-developmental-biology"
+}

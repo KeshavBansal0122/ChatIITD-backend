@@ -1,0 +1,22 @@
+{
+  "code": "OPL7130",
+  "name": "Information Photonics",
+  "description": "Mathematical preliminaries: introduction to Fourier transforms, sampling, usage of FFT for wave optics simulations; Fourier optics treatment of diffraction and imaging, brief introduction to optical coherence; imaging systems: coherent and incoherent imaging systems and their frequency response, MTF of digital imaging systems; PSF engineering by wavefront coding; 2D/3D image deconvolution; holographic imaging and 3D displays: on-axis and off-axis holography, hologram demodulation methods, holographic replay for 3D imaging, digital holography, algorithms for computer generated holograms; light-field imaging and display; super-resolution concepts; hyperspectral and polarization imaging.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Information Photonics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Information Photonics"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/information-photonics",
+  "slug": "information-photonics"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CTL7003",
+  "name": "Introduction to Electric Vehicles",
+  "description": "Introduction to HEV, PHEV, and EV powertrain, fuel cell vehicles; evolution of EV; comparison between ICE and EV- operating principles, emission control; overview of indian and international regulatory requirements for EV - AIS-048 BOV (battery operated vehicle); fundamentals of vehicle propulsion; electric propulsion system - drives; hybrid electric vehicles \u2013 series, parallel hybrid power trains; electric propulsion system - drives; energy storage for EVs \u2013 battery, ultracapacitors, fuel cells; battery management system (BMS); chargers and charging infrastructure, battery swapping stations, controllers, sensors and communication protocols; EV telematics; fundamentals of regenerative braking; product life management and functional safety modelling and simulation of EVs; design examples for HEV, EVs.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Electric Vehicles | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Electric Vehicles"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-electric-vehicles",
+  "slug": "introduction-electric-vehicles"
+}

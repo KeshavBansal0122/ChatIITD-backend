@@ -1,0 +1,16 @@
+{
+  "code": "JOL7093",
+  "name": "Selected Topics - 1",
+  "description": "Selected important topics of contemporary relevance and state-of-the-art in opto-electronics and optical communication.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "J",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=J#JOL7093"
+}

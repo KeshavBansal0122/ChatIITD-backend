@@ -1,0 +1,16 @@
+{
+  "code": "CML5015",
+  "name": "Instrumental and Computational Methods of Analysis",
+  "description": "Measurement basics and data analysis, introduction to spectrometric methods and components of optical instruments, atomic absorption, fluorescence, emission, mass, and X-ray spectrometry, Introduction to and applications of UV-vis molecular absorption, luminescence, infrared, Raman, nuclear magnetic resonance, and mass spectroscopy/ spectrometry, Introduction to\r\nelectroanalytical methods: potentiometry, coulometry, and voltammetry, Introduction to\r\nchromatographic separation: gas, high- performance liquid, supercritical fluid, and capillary electrophoresis chromatography, introduction to thermal methods of analysis, computational methods in chemical analysis.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CM#CML5015"
+}

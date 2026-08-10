@@ -1,0 +1,16 @@
+{
+  "code": "CML5023",
+  "name": "Transition and Inner Transition Metal Chemistry",
+  "description": "Structure and types of isomerism in coordination compounds. Modern bonding theories beyond crystal field theory: ligand field theory (LFT), and molecular orbital theory (MOT). Applications of LFT and MOT for the interpretation of physical, chemical property, coordination geometry, and electronic transitions. Interpretation of electronic spectra through spectroscopic term symbols, Orgel and Tanabe\u2013Sugano diagrams with specific example of transition metal complexes. Introduction to nephelauxetic effect and Racah parameters. Reactions of transition metal complexes: explanation of kinetic and thermodynamic stability, lability and inertness through CFSE. Ligand substitution reaction in transition metal complexes: inner- and outer-sphere mechanisms, substitution and redox reactions. Types of magnetism: paramagnetism, ferromagnetism, antiferromagnetism, magnetic moment and diamagnetic corrections (Pascal\u2019s law), Curie\u2019s law and van Vleck equation, magnetic exchange coupling interactions in multinuclear inner transition metal complexes. Structure and bonding of transition and inner transition metal complexes of quadruple and quintuple bonds: MO diagram and orbital interpretation of \u03b4 (delta) bonds, ligand design strategies for metal\u2013metal clusters. Periodic trends and electronic configurations, optical spectra, magnetic behavior, and catalytic applications of f-block compounds.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CM#CML5023"
+}

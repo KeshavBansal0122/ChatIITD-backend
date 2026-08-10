@@ -1,0 +1,16 @@
+{
+  "code": "TXL7562",
+  "name": "Functional and Smart Textiles",
+  "description": "Introduction to functional, smart and intelligent textiles; high performance fibers and composites; shape memory fibers and textiles; textiles for thermoregulation; textiles with special wettability; superhydrophobic and self-cleaning textiles; health and hygiene textiles; tissue engineering; color changing textiles; conductive fibers and textiles; textiles for energy harvesting; textiles for energy storage; textile based sensors; industry trends and future innovations such as AI and IoT in textiles; sustainability and ethical considerations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL7562"
+}

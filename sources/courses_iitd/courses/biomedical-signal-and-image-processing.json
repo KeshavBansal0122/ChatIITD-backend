@@ -1,0 +1,22 @@
+{
+  "code": "BML7350",
+  "name": "Biomedical Signal and Image Processing",
+  "description": "An overview of biomedical signal and image data obtained using various techniques (for example ECG, FTIR, NMR spectroscopy, MRI, CT, nuclear medical imaging, ultrasonic imaging and optical imaging); noise and error propagation and methods to handle it; basic statistics for biomedical data analysis; biomedical signal processing: time domain processing, frequency domain processing; biomedical image processing, including image enhancement, image segmentation, image registration, pattern recognition; mathematical models used in analysis of biomedical signal and image data. Practical: exposure of basic software tools used in biomedical signal and image processing. Students will be encouraged to learn existing biomedical data processing tools as well as write their algorithms and develop software tools for analysis and processing data.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Biomedical Signal and Image Processing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Biomedical Signal and Image Processing"
+  ],
+  "department": "Deep Learning for Medical Image Analysis",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/biomedical-signal-and-image-processing",
+  "slug": "biomedical-signal-and-image-processing"
+}

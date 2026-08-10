@@ -1,0 +1,16 @@
+{
+  "code": "MEL7405",
+  "name": "Convective Heat Transfer",
+  "description": "Introduction to convective heat transfer, forced convection heat transfer over flat plates and cylinders, laminar heat transfer in pipes and channels, laminar natural convection heat transfer over flat plates and cylinders, flow transition, introduction to Reynolds averaged equations - turbulent convective heat transfer over a flat plate and turbulent natural convection channels and pipes, boiling and condensation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL7405"
+}

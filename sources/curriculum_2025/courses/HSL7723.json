@@ -1,0 +1,16 @@
+{
+  "code": "HSL7723",
+  "name": "Morphology",
+  "description": "This course introduces students to the structure and formation of words across languages. It explores how morphemes combine, how morphology interfaces with phonology, syntax, and semantics, and how morphological processes reveal insights into the human language system. Students will also explore applications of morphological theory in areas such as natural language processing, psycholinguistics, and language typology.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL7723"
+}

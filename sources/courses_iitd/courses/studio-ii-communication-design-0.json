@@ -1,0 +1,22 @@
+{
+  "code": "DDP2004",
+  "name": "Studio-II Communication Design",
+  "description": "This course introduces students to the dynamic landscape of digital and immersive media within the field of communication design. Blending creative practice with technical skills from analog to digital, the course covers foundational techniques in photography, cinematography, video editing, and animation to build strong visual storytelling capabilities. Students will explore narrative development through animation, motion graphics, and stop motion, gaining fluency in time-based and motion-based media. Expanding beyond traditional formats, the course also delves into interactive and immersive media introducing the principles of game design, spatial storytelling, and prototype development for AR/VR and mixed reality platforms. Emphasis is placed on linear and non-linear narrative structures, user interaction and accessibility. By the end of the course, students will be equipped to create engaging communication experiences that integrate photography, film, animation, game environments, and immersive technologies preparing them for emerging roles in emerging areas of communication design, and storytelling-driven industries. The course concludes with a comprehensive final capstone project that synthesizes theoretical frameworks and applied skills, prompting students to critically engage with the relationships between audience, medium, and context in communication design.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": "(DDP2003&DDP1005&DDP1002&DDP1001)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Studio-II Communication Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Studio-II Communication Design"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/studio-ii-communication-design-0",
+  "slug": "studio-ii-communication-design-0"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "SBL7021",
+  "name": "Techniques in Biomolecular Interactions",
+  "description": "Importance of biomolecular interactions, the structure of DNA, protein structure and DNA recognition, protein\u2013DNA complexes, electrophoresis, electrophoretic mobility, footprinting, surface plasmon resonance, Biacore, fluorescence microscopy, fluorescence resonance energy transfer, fluorescence correlation spectroscopy, analysis of interactions by single molecule tools, chromatin immunoprecipitation, nucleosome mapping, introduction to protein-protein interaction, the use of mass spectrometry in studying protein\u2013protein interaction, protein\u2013protein interactions in human diseases, disruption of protein\u2013DNA interactions: an opportunity for cancer chemotherapy, therapeutic tools against brain damage.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBL7021"
+}

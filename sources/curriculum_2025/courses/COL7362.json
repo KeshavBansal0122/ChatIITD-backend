@@ -1,0 +1,16 @@
+{
+  "code": "COL7362",
+  "name": "Introduction to Data Management",
+  "description": "Data modeling, database design, relational algebra, SQL, database storage, database indexing, query planning and optimization, transaction management, parallel and distributed databases, big data analytics (DISC and NoSQL systems) advanced topics based on emerging trends.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL7362"
+}

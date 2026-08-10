@@ -1,0 +1,16 @@
+{
+  "code": "MTN8001",
+  "name": "Introduction to Research Methodology and Communication in Mathematics",
+  "description": "Unit 1: Research Foundations and Ethics\r\nDefinition, concepts, and overview of research; approaches to research including basic, applied, interdisciplinary, and multidisciplinary research. Ethical principles in research: ethical reasoning in scientific practice, scientific conduct, intellectual honesty, responsible authorship, and proper citation and attribution. Research integrity: plagiarism, fabrication, falsification, and redundant publications, including duplication, overlapping publications, and salami slicing. Good research practices: data management, transparency, reproducibility, and conflicts of interest.\r\nUnit 2: Foundations of Mathematical and Statistical Reasoning\r\nReasoning and Proof Techniques:\r\nMathematical statements and logic; necessary and sufficient conditions; contrapositive, converse, and negation; direct and indirect proofs; proof by contradiction; principle of mathematical induction; counterexamples; Axiom of Choice and Zorn\u2019s Lemma; inductive and deductive reasoning.\r\nMathematical Modelling and Numerical Analysis:\r\nMathematical modelling and problem formulation; analytical and numerical solutions; approximations and error analysis; interpretation of analytical and computational results.\r\nStatistical Reasoning and Data Analysis:\r\nData collection and sampling methods; data analysis and visualization; statistical hypothesis testing; introduction to statistical software, including SPSS, R, and Python-based tools.\r\nUnit 3: Research Databases, Metrics, and Scientific Writing\r\nResearch Databases and Indexing Platforms:\r\nIndexing and citation databases, including Web of Science, Scopus, Google Scholar, MathSciNet, and zbMATH Open; search strategies; citation networks; and understanding indexed literature.\r\nResearch Metrics and Evaluation Indicators:\r\nJournal-level metrics such as Impact Factor, CiteScore, SNIP, SJR, and IPP; author-level metrics including h-index, g-index, and i10-index; article-level metrics and altmetrics; scope and limitations of research metrics.\r\nScientific Writing, Documentation, and Publication Ethics:\r\nLaTeX for documentation and Beamer presentations; reference management tools such as Mendeley and JabRef; bibliographic styles and citation formats; plagiarism and similarity checks; intellectual property rights and copyrights; preprints (arXiv), open access, and publication models.\r\nResponsible Use of AI Tools in Mathematical Research:\r\nIntroduction to AI-assisted search, literature exploration, and scientific writing; appropriate use of AI for summarisation, LaTeX assistance, and bibliographic support, with emphasis on verification of mathematical content, academic integrity, and ethical considerations.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTN8001"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "MEL7204",
+  "name": "Vibration Engineering",
+  "description": "Introduction to mechanical vibrations, significance of vibration analysis and relation to design. Lumped parameter and distributed parameter modelling of mechanical vibratory systems. Free vibrations and forced response solutions of single and multi degree-of-freedom models including modelling of damping. Vibration control solutions: design of vibration absorber, tuned mass damper, balancing approaches, design of vibration isolators for transmissibility, application of damping treatment. Applications of numerical procedures to determine natural frequencies, mode shapes and forced vibration response. Modal based approach to vibration analysis. Transfer matrix/finite element method for dynamic analysis. Distributed parameter models of simple vibratory systems such as rods, bars and beams, membranes and plates. Vibration testing.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL7204"
+}

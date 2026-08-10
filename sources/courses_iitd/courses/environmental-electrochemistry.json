@@ -1,0 +1,22 @@
+{
+  "code": "CVL8716",
+  "name": "Environmental Electrochemistry",
+  "description": "Fundamental principles and practical applications in environmental electrochemistry, electro-oxidation, electrocoagulation, and electrochemical advanced oxidation processes for the remediation of pollutants in water and wastewater, bioelectrochemical systems, focusing on microbial fuel cells, microbial electrochemical synthesis, microbial electrolysis cells, constructed wetland microbial fuel cells, plant microbial fuel cells, and microbial carbon capture; design, operate, and analyze systems for energy conversion and environmental remediation; theoretical knowledge with case studies, laboratory exercises, and innovative research methods, which can be employed for the sustainable and effective solutions for modern environmental challenges.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Environmental Electrochemistry | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Environmental Electrochemistry"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/environmental-electrochemistry",
+  "slug": "environmental-electrochemistry"
+}

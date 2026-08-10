@@ -1,0 +1,16 @@
+{
+  "code": "MTL5010",
+  "name": "Measure and Integration",
+  "description": "Riemann Integral: A brief review of the Riemann integral and its limitations; Lebesgue\u2019s method for extending the Riemann integral.\r\nThe Lebesgue Measure on the Real Line: Outer measure induced by the length function; Carath\u00e9odory\u2019s criterion for measurability; Lebesgue measurable sets in R; existence of non-measurable sets in R.\r\nAbstract Measure Spaces: General construction of measures and outer measures; extension of a pre-measure to a measure; uniqueness of the extension; completion of a measure space; measurable functions; convergence of measurable functions (almost everywhere, in measure, in mean, and almost uniformly) with respect to a measure; Fatou\u2019s Lemma, the monotone convergence theorem, and dominated convergence theorem; L^p spaces. \r\nMeasure and Integration in Product Spaces: Construction of product measure spaces; integration over product spaces; Fubini\u2019s and Tonelli\u2019s theorems.\r\nFundamental Theorem of Calculus for the Lebesgue Integral: Absolutely continuous functions; differentiability of monotone functions; the fundamental theorem of calculus for the Lebesgue integral and its applications.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTL5010"
+}

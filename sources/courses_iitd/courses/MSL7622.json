@@ -1,0 +1,22 @@
+{
+  "code": "MSL7622",
+  "name": "Applied Service Operations Management",
+  "description": "This course focuses on practical aspects and implementation of service operations across sectors such as healthcare, banking, and hospitality. It covers the design of service processes, evaluation of performance, and the development of service supply networks. Key topics include resource management, capacity planning, service innovation (servitization), and continuous improvement to enhance quality and efficiency.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Applied Service Operations Management | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Applied Service Operations Management"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/applied-service-operations-management",
+  "slug": "applied-service-operations-management"
+}

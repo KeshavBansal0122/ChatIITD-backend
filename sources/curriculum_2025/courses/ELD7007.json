@@ -1,0 +1,16 @@
+{
+  "code": "ELD7007",
+  "name": "Cornerstone Project",
+  "description": "This is a team-based project course. The project work would be a combination of theoretical, experimental, and computational in nature. The students in a group are expected to apply the engineering concepts to address real-world problems relevant to electrical engineering and provide innovative solutions. The identified problem should be interdisciplinary in nature that needs complimentary expertise, and the integration of knowledge from multiple specializations within the domain of electrical engineering, such as control, communication, electronics, power engineering and computer technology. The project work needs to be communicated through experimental demonstration, simulations, computations, technical reports and presentations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELD7007"
+}

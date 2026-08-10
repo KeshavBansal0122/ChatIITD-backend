@@ -1,0 +1,417 @@
+{
+  "code": "MEP",
+  "name": "M.Tech. in Production Engineering",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=MEP",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 38.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Capability to apply advanced knowledge in the field of Manufacturing Science and Engineering"
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Adaptability to the Sustainable Development Goals (SDGs)"
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Enhanced skills in operation principles of state-of-the-art Manufacturing facilities"
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "Ability to address real-life manufacturing industry problems"
+    },
+    {
+      "outcome_id": "PLO5",
+      "text": "Advanced skills in computational methods used in the manufacturing domain."
+    },
+    {
+      "outcome_id": "PLO6",
+      "text": "Readiness to meet the emerging needs of Manufacturing through AI/ML"
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "MED7351",
+        "title": "Major Project Part 1",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "12"
+        },
+        "credits": "6"
+      },
+      {
+        "course_code": "MED7353",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MED7354",
+        "title": "Summer Internship/Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7001",
+        "title": "Professional Ethics for Mechanical Engineers",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "MEL7301",
+        "title": "Metal Forming Technology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEL7302",
+        "title": "Machining Science and Technology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEL7303",
+        "title": "Welding Science and Technology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEL7304",
+        "title": "Metrology",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7305",
+        "title": "Computational Methods",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7306",
+        "title": "Additive Manufacturing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEL7307",
+        "title": "Smart Manufacturing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEN7002",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEL7111",
+        "title": "Integer Programming",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7116",
+        "title": "Optimization",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7118",
+        "title": "Reinforcement Learning",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7120",
+        "title": "Introduction to Stochastic Modeling and Simulation",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7121",
+        "title": "Pricing and Revenue Management",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7125",
+        "title": "Stochastic Simulation Development and Analysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7126",
+        "title": "Special Topics in IEOR",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7211",
+        "title": "Robotics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7331",
+        "title": "Processing and Mechanics of Composite Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEL7333",
+        "title": "Special Topics in Manufacturing - II",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "2"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "MEL7301",
+        "title": "Metal Forming Technology",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "MEL7302",
+        "title": "Machining Science and Technology",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "MEL7303",
+        "title": "Welding Science and Technology",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "MEL7305",
+        "title": "Computational Methods",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MEN7002",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "MED7353",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MEL7306",
+        "title": "Additive Manufacturing",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "MEL7307",
+        "title": "Smart Manufacturing",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "MEL7304",
+        "title": "Metrology",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MEL7001",
+        "title": "Professional Ethics for Mechanical Engineers",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "MEN7002",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "MED7351",
+        "title": "Major Project Part 1",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 12.0
+        },
+        "credits": 6.0
+      },
+      {
+        "course_code": "MEN7002",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "MEN7002",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "MEP \u2013 M.Tech. in Production Engineering\nM.Tech. in Production Engineering\nMechanical Engineering, Department of\nProgramme Code: MEP\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n38\nPE (Programme Elective)\n19\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n63\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nCapability to apply advanced knowledge in the field of Manufacturing Science and Engineering\nPLO 2\nAdaptability to the Sustainable Development Goals (SDGs)\nPLO 3\nEnhanced skills in operation principles of state-of-the-art Manufacturing facilities\nPLO 4\nAbility to address real-life manufacturing industry problems\nPLO 5\nAdvanced skills in computational methods used in the manufacturing domain.\nPLO 6\nReadiness to meet the emerging needs of Manufacturing through AI/ML\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nMED7351 Major Project Part 1 0 0 12 6\nMED7353 Cornerstone Project 0 0 6 3\nMED7354 Summer Internship/Minor Project 0 0 6 3\nMEL7001 Professional Ethics for Mechanical Engineers 1 0 0 1\nMEL7301 Metal Forming Technology 3 0 2 4\nMEL7302 Machining Science and Technology 3 0 2 4\nMEL7303 Welding Science and Technology 3 0 2 4\nMEL7304 Metrology 2 0 2 3\nMEL7305 Computational Methods 2 0 2 3\nMEL7306 Additive Manufacturing 3 0 2 4\nMEL7307 Smart Manufacturing 3 0 2 4\nMEN7002 Teaching and Research Practicum 0 0 8 4\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nMEL7111 Integer Programming 3 0 0 3\nMEL7116 Optimization 3 0 0 3\nMEL7118 Reinforcement Learning 3 0 0 3\nMEL7120 Introduction to Stochastic Modeling and Simulation 3 0 0 3\nMEL7121 Pricing and Revenue Management 3 0 0 3\nMEL7125 Stochastic Simulation Development and Analysis 3 0 0 3\nMEL7126 Special Topics in IEOR 3 0 0 3\nMEL7211 Robotics 3 0 0 3\nMEL7331 Processing and Mechanics of Composite Materials 3 0 2 4\nMEL7333 Special Topics in Manufacturing - II 2 0 0 2\nSemester-wise Schedule\nSem\nCourses &amp; Baskets\nHrs /\nweek\nNGU\nCredits\n1\nMEL7301 Metal Forming Technology\n(3.0-0.0-2.0) 4.00\nMEL7302 Machining Science and Technology\n(3.0-0.0-2.0) 4.00"
+}

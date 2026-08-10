@@ -1,0 +1,22 @@
+{
+  "code": "MEL7429",
+  "name": "Advanced Power Generation Systems",
+  "description": "General introduction to current power generation technology and need for advances systems. Analysis of advanced ultra super-critical power plants, organic Rankine cycle based systems, power systems using mixtures as working fluids. Sizing of components for the selected systems. Design of power systems for solar, biomass and geothermal sources. Thermo-fluid analysis of solar PV system. Hybrid solar PV thermal systems. Recent developments in hydro power systems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Power Generation Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Power Generation Systems"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-power-generation-systems",
+  "slug": "advanced-power-generation-systems"
+}

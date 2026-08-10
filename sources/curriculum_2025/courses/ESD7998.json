@@ -1,0 +1,16 @@
+{
+  "code": "ESD7998",
+  "name": "Minor Project Part-II (ESR)",
+  "description": "It\u2019s a minor project. The students will be involved with the faculty members.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ES",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ES#ESD7998"
+}

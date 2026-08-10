@@ -1,0 +1,22 @@
+{
+  "code": "HSL2626",
+  "name": "Education, State, and Society",
+  "description": "Schools and socialization; Banking system of education; Historical perspectives on education in India; Textbook culture in education; Social stratification and education; Marriage and educational aspirations; Education and technology: policy perspectives and global comparisons",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Education, State, and Society | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Education, State, and Society"
+  ],
+  "department": "Education and Society",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/education-state-and-society",
+  "slug": "education-state-and-society"
+}

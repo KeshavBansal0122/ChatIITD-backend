@@ -1,0 +1,16 @@
+{
+  "code": "CVL8204",
+  "name": "Life Cycle Assessment and Circular Economy",
+  "description": "Overview of sustainability challenges in modern economies. Introduction to LCA: Definition, history, and relevance. Circular economy: Principles, frameworks, and goals. Synergies between LCA and circular economy. LCA framework: Goal and scope definition, inventory analysis, impact assessment, interpretation. System boundaries, functional units, and data collection. Impact categories. Life Cycle Inventory. Uncertainty and sensitivity analysis in LCA. Life Cycle Impact Assessment and Interpretation.\r\nCircular Economy Strategies and LCA Integration. Circular strategies: Reduce, reuse, recycle, remanufacture, and beyond. LCA in circular design: Assessing material loops and product longevity. Business models for circularity. Circular economy in specific sectors: Construction, food systems, energy.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL8204"
+}

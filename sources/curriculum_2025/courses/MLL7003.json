@@ -1,0 +1,16 @@
+{
+  "code": "MLL7003",
+  "name": "Materials for Sustainable Development",
+  "description": "Overview of sustainable materials including metals, polymers, and ceramics. Sustainable technology development, life cycle assessment, materials processing using eco- friendly techniques, waste management and materials recycling, various policies for sustainability.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ML",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ML#MLL7003"
+}

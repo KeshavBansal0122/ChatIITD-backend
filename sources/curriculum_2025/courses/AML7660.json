@@ -1,0 +1,16 @@
+{
+  "code": "AML7660",
+  "name": "Meshless and Particle-based Methods",
+  "description": "Introduction to Lagrangian and Hamiltonian Mechanics; conservation of momentum; statistical behaviour of large systems; Boltzmann\u2019s equation; Continuum kinematics; Continuum conservation laws; Viscous stresses through Boltzmann; Smoothed Particle Hydrodynamics and discrete interpolation; Discrete conservation laws; Temporal integration; Advanced topics",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AML7660"
+}

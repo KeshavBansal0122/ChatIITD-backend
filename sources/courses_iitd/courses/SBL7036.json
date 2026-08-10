@@ -1,0 +1,22 @@
+{
+  "code": "SBL7036",
+  "name": "Advanced Biological Mass Spectrometry",
+  "description": "Introduction to mass spectrometry (MS) - ionization sources, fragmentation, isotope effects, mass analyzers; chromatography-coupled MS; proteomics - sample preparation, peptide mass fingerprinting, tandem mass spectrometry; (off)target deconvolution of drugs using MS; protein-protein interactome mapping using MS; MS-based identification of posttranslational modifications; quantitative proteomics; mass spectrometry imaging (MSI); ICPMS \u2013 principle, sample preparation, data analysis and biological/biomedical applications; metabolomics and metabolite discovery by metabolomics; activity metabolomics; metabolomics in biomarker discovery and pharmacokinetic studies; lipidomics and its application in biomedical sciences.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(SBL1100/SBL1102) &(CML1001/CML1002)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Biological Mass Spectrometry | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Biological Mass Spectrometry"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-biological-mass-spectrometry",
+  "slug": "advanced-biological-mass-spectrometry"
+}

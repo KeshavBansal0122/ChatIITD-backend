@@ -1,0 +1,1035 @@
+{
+  "code": "MCS",
+  "name": "M.Tech. in Computer Science and Engineering",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=MCS",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 18.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "In-depth understanding of core computer science principles., and working knowledge about cutting edge topics. Understanding of mathematical and logical foundations of computing; abstraction and reduction; data and its integrity, security and privacy; organisation of computing systems, supporting the design of efficient, secure, and reliable computing solutions."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Ability to identify, formulate, and analyze complex computational problems, driving effective problem-solving and innovation."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Expertise in programming and software development, leveraging modern languages, frameworks, and platforms."
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "Awareness of the ethical, societal, and environmental implications of computing technologies, and the role of computer science in interdisciplinary domains. Effective communication and teamwork skills, and application of ethical and societal values, fostering responsible and collaborative work ethics."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "COD7001",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COD8091",
+        "title": "Minor Project/Summer Internship",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COD8092",
+        "title": "M.Tech. Project I",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "12"
+        },
+        "credits": "6"
+      },
+      {
+        "course_code": "COL7001",
+        "title": "Systems Concepts",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "COL7004",
+        "title": "Mathematical Foundations of Computing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CON8000",
+        "title": "Teaching Practicum in Computer Science and Engineering",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CON8001",
+        "title": "Research Practicum in Computer Science and Engineering",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7126",
+        "title": "Numerical Algorithms",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7151",
+        "title": "Algorithmic Graph Theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL7153",
+        "title": "Complexity Theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL7154",
+        "title": "Approximation Algorithms",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL7155",
+        "title": "Algorithmic Game Theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL7159",
+        "title": "Introduction to Cryptography",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL7160",
+        "title": "Quantum Computing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL7188",
+        "title": "Concentration Inequalities and Their Applications in Computer Science",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL7203",
+        "title": "Logic for Computer Science",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7250",
+        "title": "Foundations of Automatic Verification",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7333",
+        "title": "Introduction to Artificial Intelligence",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7341",
+        "title": "Fundamentals of Machine Learning",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7361",
+        "title": "Data Mining",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7362",
+        "title": "Introduction to Data Management",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7364",
+        "title": "Information Retrieval and Web Search",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7372",
+        "title": "Natural Language Processing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7375",
+        "title": "Deep Learning",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7378",
+        "title": "Principles of Autonomous Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7386",
+        "title": "Advanced Functional Brain Imaging",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7418",
+        "title": "Architecture of High Performance Computers",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7524",
+        "title": "Advanced Networks",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7540",
+        "title": "Software Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7560",
+        "title": "Machine Learning for Networked Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7655",
+        "title": "Foundations of Visual Computing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7680",
+        "title": "Introduction to Computer Vision",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7681",
+        "title": "Computer Graphics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "3"
+        },
+        "credits": "4.5"
+      },
+      {
+        "course_code": "COL7683",
+        "title": "Digital Image Analysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "3"
+        },
+        "credits": "4.5"
+      },
+      {
+        "course_code": "COL7761",
+        "title": "Introduction to Information and Communication Technologies for Development",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7880",
+        "title": "Introduction to Parallel and Distributed Computing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL8085",
+        "title": "Special Topics in Hardware Systems I",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8086",
+        "title": "Special Topics in Hardware Systems II",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8150",
+        "title": "Special Topics in Theoretical Computer Science I",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8151",
+        "title": "Special Topics in Theoretical Computer Science II",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8160",
+        "title": "Special Topics in Algorithms I",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8161",
+        "title": "Special Topics in Algorithms II",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8170",
+        "title": "Special Topics in Cryptography I",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8171",
+        "title": "Special Topics in Cryptography II",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8180",
+        "title": "Special Topics in Probability and Computing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8181",
+        "title": "Special Topics in Complexity Theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8182",
+        "title": "Special Topics in Quantum Computing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8183",
+        "title": "Special Topics in Online Computation",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8184",
+        "title": "Special Topics in Economics and Computation",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8185",
+        "title": "Special Topics in Computational Social Choice",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8271",
+        "title": "Special Topics in Formal Methods",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8272",
+        "title": "Special Topics in Programming Languages and Compilers",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8381",
+        "title": "Special Topics in Artificial Intelligence",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8383",
+        "title": "Special Topics in Natural Language Processing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8385",
+        "title": "Special Topics in Machine Learning I",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8386",
+        "title": "Special Topics in Machine Learning II",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8387",
+        "title": "Special Topics in Machine Learning III",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8395",
+        "title": "Special Topics in Data Management I",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8396",
+        "title": "Special Topics in Data Management II",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8412",
+        "title": "System Level Design and Modelling",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8422",
+        "title": "Quantum Computing : Systems and Architecture",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL8585",
+        "title": "Special Topics in Computer Networks I",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8586",
+        "title": "Special Topics in Computer Networks II",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8590",
+        "title": "Special Topics in Operating Systems I",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8591",
+        "title": "Special Topics in Operating Systems II",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8592",
+        "title": "Special Topics in Operating Systems III",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8595",
+        "title": "Special Topics in Software Systems I",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8596",
+        "title": "Special Topics in Software Systems II",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8597",
+        "title": "Special Topics in Software Systems III",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8628",
+        "title": "Advanced Computer Vision",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CON8000",
+        "title": "Teaching Practicum in Computer Science and Engineering",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CON8001",
+        "title": "Research Practicum in Computer Science and Engineering",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COV8150",
+        "title": "Special Module in Theoretical Computer Science",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "COV8160",
+        "title": "Special Module in Algorithms",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "COV8170",
+        "title": "Special Module in Cryptography",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "COV8289",
+        "title": "Special Module in Concurrency",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "COV8388",
+        "title": "Special Module on Data Management Systems",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "COV8585",
+        "title": "Special Module in Computer Networks I",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "COV8586",
+        "title": "Special Module in Computer Networks II",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "SIL7159",
+        "title": "Cryptography and Cryptanalysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SIL7165",
+        "title": "Network and System Security",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SIL7171",
+        "title": "Mobile Security",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SIL7261",
+        "title": "Introduction to Information and Communication Technologies for Development",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SIL8121",
+        "title": "Special Topics in Cyber Security",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SIL8122",
+        "title": "Special Topics in Cryptography and Cryptanalysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SIL8123",
+        "title": "Special Topics in Artificial Intelligence for Cyber Security",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SIL8261",
+        "title": "Special Topics in Information and Communication Technologies for Development and Sustainability",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SIV8064",
+        "title": "Special Module on Media Processing &amp; Communication",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "SIV8110",
+        "title": "Special Module in Cyber Security",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "1"
+        },
+        "credits": "1.5"
+      },
+      {
+        "course_code": "SIV8112",
+        "title": "Special Module in Computer Forensics",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "1"
+        },
+        "credits": "1.5"
+      },
+      {
+        "course_code": "SIV8251",
+        "title": "Special Module on eGovernance",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "COL7001",
+        "title": "Systems Concepts",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "COL7004",
+        "title": "Mathematical Foundations of Computing",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "MCS Research/Teaching Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "COD7001",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "basket": "MCS Research/Teaching Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "COD8092",
+        "title": "M.Tech. Project I",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 12.0
+        },
+        "credits": 6.0
+      },
+      {
+        "basket": "MCS Research/Teaching Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "basket": "MCS Research/Teaching Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "MCS \u2013 M.Tech. in Computer Science and Engineering\nM.Tech. in Computer Science and Engineering\nComputer Science and Engineering, Department of\nProgramme Code: MCS\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n18\nPE (Programme Elective)\n33\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n57\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nIn-depth understanding of core computer science principles., and working knowledge about cutting edge topics. Understanding of mathematical and logical foundations of computing; abstraction and reduction; data and its integrity, security and privacy; organisation of computing systems, supporting the design of efficient, secure, and reliable computing solutions.\nPLO 2\nAbility to identify, formulate, and analyze complex computational problems, driving effective problem-solving and innovation.\nPLO 3\nExpertise in programming and software development, leveraging modern languages, frameworks, and platforms.\nPLO 4\nAwareness of the ethical, societal, and environmental implications of computing technologies, and the role of computer science in interdisciplinary domains. Effective communication and teamwork skills, and application of ethical and societal values, fostering responsible and collaborative work ethics.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCOD7001 Cornerstone Project 0 0 6 3\nCOD8091 Minor Project/Summer Internship 0 0 6 3\nCOD8092 M.Tech. Project I 0 0 12 6\nCOL7001 Systems Concepts 2 0 0 2\nCOL7004 Mathematical Foundations of Computing 3 1 0 4\nMCS Research/Teaching Practicum (0-0-8) 4 NGU\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCON8000 Teaching Practicum in Computer Science and Engineering 0 0 8 4\nCON8001 Research Practicum in Computer Science and Engineering 0 0 8 4\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCOL7126 Numerical Algorithms 3 0 2 4\nCOL7151 Algorithmic Graph Theory 3 0 0 3\nCOL7153 Complexity Theory 3 0 0 3\nCOL7154 Approximation Algorithms 3 0 0 3\nCOL7155 Algorithmic Game Theory 3 0 0 3\nCOL7159 Introduction to Cryptography 3 0 0 3\nCOL7160 Quantum Computing 3 0 0 3\nCOL7188 Concentration Inequalities and Their Applications in Computer Science 3 0 0 3\nCOL7203 Logic for Computer Science 3 0 2 4\nCOL7250 Foundations of Automatic Verification 3 0 2 4\nCOL7333 Introduction to Artificial Intelligence 3 0 2 4\nCOL7341 Fundamentals of Machine Learning 3 0 2 4\nCOL7361 Data Mining 3 0 2 4\nCOL7362 Introduction to Data Management 3 0 2 4\nCOL7364 Information Retrieval and Web Search 3 0 2 4\nCOL7372 Natural Language Processing 3 0 2 4\nCOL7375 Deep Learning 3 0 2 4\nCOL7378 Principles of Autonomous Systems 3 0 2 4\nCOL7386 Advanced Functional Brain Imaging 3 0 2 4\nCOL7418 Architecture of High Performance Computers 3 0 2 4\nCOL7524 Advanced Networks 3 0 2 4\nCOL7540 Software Engineering 3 0 2 4\nCOL7560 Machine Learning for Networked Systems 3 0 2 4\nCOL7655 Foundations of Visual Computing 3 0 2 4"
+}

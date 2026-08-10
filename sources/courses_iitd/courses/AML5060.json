@@ -1,0 +1,22 @@
+{
+  "code": "AML5060",
+  "name": "Submarine Design",
+  "description": "Salient features in design of submarines. Hydrostatic characteristics of submarines. Weight/ space relationship of submarines. Structural design of submarines. Powering of submarines. Geometric form and arrangements. Dynamic stability of submarines. Maneuverability of submarines. Design of submarine systems. Costing and production considerations. Computer aided tools in submarine design.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Submarine Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Submarine Design"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/submarine-design",
+  "slug": "submarine-design"
+}

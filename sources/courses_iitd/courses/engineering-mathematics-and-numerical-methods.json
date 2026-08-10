@@ -1,0 +1,22 @@
+{
+  "code": "AML7000",
+  "name": "Engineering Mathematics and Numerical Methods",
+  "description": "Vector calculus, solution of linear systems, eigenvalue problems, complex analysis, interpolation, numerical differentiation and integration, methods for nonlinear systems of equations, analytical and numerical solution methods of ODEs, partial differential equations \u2013 properties and solution techniques, fourier series and transform.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Engineering Mathematics and Numerical Methods | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Engineering Mathematics and Numerical Methods"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/engineering-mathematics-and-numerical-methods",
+  "slug": "engineering-mathematics-and-numerical-methods"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "PYL7134",
+  "name": "Particle Accelerators",
+  "description": "Introduction to accelerators, basic components of an accelerator, production of charged particles for accelerators, extraction and selection of ions, electrostatic accelerators, cyclotron, ion-colliders, synchrotron, free electron lasers, linear accelerators, storage rings, plasma based acceleration, ion beam focusing, lenses and quadrupoles, phase space, emittance, Liouville&#039;s theorem, matrix methods for beam transport analysis, aberrations, measurement of charged particle current, applications in fundamental physics, synthesis of elements, accelerator mass spectrometry, carbon dating, medical and industrial applications, radiation in particle accelerators, effect of radiation (radiation damage) to human beings, dosage calculations, dosimeters, radiation shielding.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Particle Accelerators | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Particle Accelerators"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/particle-accelerators",
+  "slug": "particle-accelerators"
+}

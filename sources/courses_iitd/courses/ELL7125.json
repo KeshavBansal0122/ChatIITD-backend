@@ -1,0 +1,22 @@
+{
+  "code": "ELL7125",
+  "name": "Control of Robotic Systems",
+  "description": "Rotation and homogeneous transformations, DH-convention, forward and inverse kinematics, inverse kinematics, velocity kinematics, holonomic and non-holonomic constraints, path and trajectory planning, robot dynamics, robot control: linear methods \u2013 feedforward control, state feedback, observers; nonlinear control methods \u2013 computed torque control, vision based robotic control. Non-linear control and geometric control, mobile robots.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Control of Robotic Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Control of Robotic Systems"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/control-robotic-systems",
+  "slug": "control-robotic-systems"
+}

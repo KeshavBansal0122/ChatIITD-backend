@@ -1,0 +1,22 @@
+{
+  "code": "HSL5003",
+  "name": "Philosophical Thinking",
+  "description": "This course will introduce students to definitions of philosophical thinking and practices associated with models such as \u2013 engagement with texts and interpretation; contemplation; argumentation; logic, dialogue; computation; and expose students to problems such as the relation between thinking, mind, consciousness, and body; the material conditions of thinking as a social and political act; thinking, expression and communication; rules of thought; the grounds of differentiating forms of thought (philosophical, theological, literary, scientific) etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Philosophical Thinking | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Philosophical Thinking"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/philosophical-thinking",
+  "slug": "philosophical-thinking"
+}

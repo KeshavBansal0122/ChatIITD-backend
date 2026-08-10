@@ -1,0 +1,16 @@
+{
+  "code": "ELL7280",
+  "name": "Mathematical Foundations for Systems and Learning",
+  "description": "Set theory, open sets, closed sets, functions, metric functions, sequences, convergence, completeness, limits, continuity, differentiability, metric spaces, vector spaces, matrix rank, system of linear equations, fundamental spaces, eigenvalue decomposition, singular value decomposition, positive semi definite matrices, graph matrix, basic probability theory, probability space, random variables, probability distribution and density functions, cumulants, information theory, KL divergence, metric, MLE, MAP.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7280"
+}

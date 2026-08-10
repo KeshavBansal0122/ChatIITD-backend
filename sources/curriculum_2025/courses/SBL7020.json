@@ -1,0 +1,16 @@
+{
+  "code": "SBL7020",
+  "name": "Genome and Healthcare",
+  "description": "Fundamentals of chromosomes and cells, fundamentals of gene structure, human genome organization, principles underlying core DNA technologies, principles of genetic variation, single gene disorders, genetic variation producing disease-causing abnormalities in DNA and chromosomes, identifying disease genes and genetic susceptibility to complex disease, genomic medicine in healthcare, genetic approaches to treating disease, cancer genetics and genomics, HumanGenome projects, genetic testing from genes to genomes and the ethics of genetic testing and therapy.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBL7020"
+}

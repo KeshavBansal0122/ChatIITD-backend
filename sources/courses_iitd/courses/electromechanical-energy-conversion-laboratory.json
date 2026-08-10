@@ -1,0 +1,22 @@
+{
+  "code": "ELP2500",
+  "name": "Electromechanical Energy Conversion Laboratory",
+  "description": "Transformers - parameter characterization through open circuit and short circuit test, parallel operation of single phase transformers, three phase transformer connections\nDC machines - speed control of separately excited DC machines with armature voltage control and field current control\nInduction motor - parameter characterization of 3-phase induction motor through no load test and blocked rotor test, V/f control, operation of single phase induction motor\nSynchronous machines - synchronization with three phase grid, performance characterization",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "prereq": "ELL2500",
+  "overlap": null,
+  "learning_outcomes": [
+    "Electromechanical Energy Conversion Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Electromechanical Energy Conversion Laboratory"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/electromechanical-energy-conversion-laboratory",
+  "slug": "electromechanical-energy-conversion-laboratory"
+}

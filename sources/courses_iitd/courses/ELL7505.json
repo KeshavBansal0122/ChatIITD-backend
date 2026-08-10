@@ -1,0 +1,22 @@
+{
+  "code": "ELL7505",
+  "name": "Electric Vehicle Systems",
+  "description": "This course covers the following in electric vehicles: history and evolution of EVs, benefits of EVs compared to conventional transportation systems, study of different kinds of forces that act on a typical electric vehicle. Study and design of different components/subsystems of a typical EV such as electric motor, drivetrain, powertrain, battery, charging etc., for different type of driving cycle and range.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Electric Vehicle Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Electric Vehicle Systems"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/electric-vehicle-systems",
+  "slug": "electric-vehicle-systems"
+}

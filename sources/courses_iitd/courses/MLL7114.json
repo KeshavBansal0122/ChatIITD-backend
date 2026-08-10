@@ -1,0 +1,22 @@
+{
+  "code": "MLL7114",
+  "name": "Polymer Testing and Properties",
+  "description": "Properties of polymers and their measurements by standard test methods; tensile, flexural and impact properties; hardness, abrasion resistance; softening point, heat distortion temperature, thermal expansion coefficient and thermal conductivity; electrical insulation and conductivity; sorption, diffusion and permeation of gases/liquids through polymer membranes; standards used are BIS, BS, ASTM, ISO and DIM.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "()",
+  "overlap": null,
+  "learning_outcomes": [
+    "Polymer Testing and Properties | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Polymer Testing and Properties"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/polymer-testing-and-properties",
+  "slug": "polymer-testing-and-properties"
+}

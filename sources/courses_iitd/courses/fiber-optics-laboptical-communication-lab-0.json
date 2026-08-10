@@ -1,0 +1,22 @@
+{
+  "code": "JOP7092",
+  "name": "Fiber Optics Lab/Optical Communication Lab",
+  "description": "Experiments on characterization of optical fibers, sources, detectors and modulators in the physics department and experiments on electronics and communication in the electrical engineering department.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Fiber Optics Lab/Optical Communication Lab | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fiber Optics Lab/Optical Communication Lab"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fiber-optics-laboptical-communication-lab-0",
+  "slug": "fiber-optics-laboptical-communication-lab-0"
+}

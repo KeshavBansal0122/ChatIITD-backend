@@ -1,0 +1,22 @@
+{
+  "code": "ASS8300",
+  "name": "Independent Study",
+  "description": "Students will be tasked with reading assignments and related problem solving in an appropriate area of research in atmospheric and oceanic science and technology under the guidance of a CAS faculty member.",
+  "credits": 0.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 3.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Independent Study | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Independent Study"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/independent-study-6",
+  "slug": "independent-study-6"
+}

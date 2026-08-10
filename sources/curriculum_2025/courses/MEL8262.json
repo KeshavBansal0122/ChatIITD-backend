@@ -1,0 +1,16 @@
+{
+  "code": "MEL8262",
+  "name": "Rotor Dynamics",
+  "description": "This course builds on a fundamental theory of vibrations to explore the unique features of dynamics of a rotor. The complexities of dynamics of rotor that is different in many aspects from the general structural vibration are highlighted to emphasize the study of rotor dynamics as a separate subject. Apart from the basic modeling and analysis approach to both lateral and torsional rotor vibrations, influence of support elements such as bearings and seals on the rotor dynamics and its stability will be the major topics. This will help the students realize the importance of fundamental understanding (how and why) of dynamic coefficients of the support elements for the robust design of rotating machines. Various methods of field balancing of rotors from measured vibration data and formulating the rotor system model for analyzing typical rotor faults will be discussed. The course will give an extensive overview of key rotor dynamic phenomenon, rotor vibration features and their correlation to the rotor design parameters.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL8262"
+}

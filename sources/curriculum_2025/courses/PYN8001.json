@@ -1,0 +1,16 @@
+{
+  "code": "PYN8001",
+  "name": "Teaching and Research Practicum",
+  "description": "Assist with teaching that includes preparing course materials, managing class activities and examination, providing support to student engagement, grading assignments. They are also expected to help with practical, tutorials, class projects (depending on the course content) and other administrative tasks related to the course.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYN8001"
+}

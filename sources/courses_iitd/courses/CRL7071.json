@@ -1,0 +1,22 @@
+{
+  "code": "CRL7071",
+  "name": "Microelectronics Packaging and Integration",
+  "description": "IC and MEMS co-design: manufacturing processes for smart systems. Need for integration, materials, processes and intelligent large area manufacturing development and integration of sensors, actuators and other three-dimensional structures on the micro-scale: extension of microelectronics fabrication techniques electronic systems and their packaging IC evolution: current and future system-on-chip: status and challenges electronic packaging definition end evolution of IC packaging.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Microelectronics Packaging and Integration | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Microelectronics Packaging and Integration"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/microelectronics-packaging-and-integration",
+  "slug": "microelectronics-packaging-and-integration"
+}

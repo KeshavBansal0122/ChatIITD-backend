@@ -1,0 +1,22 @@
+{
+  "code": "MLD7005",
+  "name": "Internship/Minor Project",
+  "description": "This course provides hands-on experience through an internship or minor project focused on materials science and engineering. Students engage in real-world problem solving, under academic or industry mentorship, bridging theory with practical application.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Internship/Minor Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Internship/Minor Project"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/internshipminor-project",
+  "slug": "internshipminor-project"
+}

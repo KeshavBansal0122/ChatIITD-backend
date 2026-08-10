@@ -1,0 +1,22 @@
+{
+  "code": "SBL7014",
+  "name": "Plant Biotechnology and Human Health",
+  "description": "Overview of medicinal plants and their geographical distribution, economics of medicinal plants, KNapSACK family database, metabolic diversity, genomic and transcriptomic profiling, phenomics, antivenoms, plant toxins, bioactive peptides, genetic engineering and molecular biology technologies such as DNA barcoding, DNA chip technology, cDNA, AFLP, microarray, siRNA, antisense, bioanalytics, plant models systems, nutrigenomics, smart and functional foods, plants based human diseases -communicable and noncommunicable diseases, allergens, plant based fungal and bacterial infections, edible vaccines and plantibodies, plant tissue culture, plants as bioreactors for therapeutic drug production.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "SBL1100/SBL1102",
+  "overlap": null,
+  "learning_outcomes": [
+    "Plant Biotechnology and Human Health | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Plant Biotechnology and Human Health"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/plant-biotechnology-and-human-health",
+  "slug": "plant-biotechnology-and-human-health"
+}

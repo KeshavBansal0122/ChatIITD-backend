@@ -1,0 +1,21 @@
+{
+  "code": "BML7200",
+  "name": "Medical Imaging",
+  "description": "Introduction to radiation physics, physics of different imaging modalities: x-ray radiation, x-ray computed tomography, ultrasonic imaging, magnetic resonance imaging, nuclear imaging, and optical imaging; physics of contrast-aided imaging modalities; applications of different imaging modalities, including advantages and drawbacks of each modality; instrumentation of different imaging modalities; image analysis techniques; emerging imaging modalities.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Medical Imaging | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/medical-imaging",
+  "slug": "medical-imaging"
+}

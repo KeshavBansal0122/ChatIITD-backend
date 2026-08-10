@@ -1,0 +1,22 @@
+{
+  "code": "MSL7608",
+  "name": "Large Scale Optimization - Linear and Integer Programming",
+  "description": "The course will cover several exact algorithms that are used in solving integer and mixed integer linear programs. Some of the algorithms taught in this course would be: Lagrangian Relaxation, Cutting Plane approach, Benders Decomposition, Logic Based Benders Decomposition, and Column Generation.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(MSL7602)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Large Scale Optimization - Linear and Integer Programming | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Large Scale Optimization - Linear and Integer Programming"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/large-scale-optimization-linear-and-integer-programming",
+  "slug": "large-scale-optimization-linear-and-integer-programming"
+}

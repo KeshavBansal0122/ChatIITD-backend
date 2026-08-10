@@ -1,0 +1,22 @@
+{
+  "code": "CVL7453",
+  "name": "Analysis and Design of Machine Foundations",
+  "description": "General design requirements, general dynamics of machine foundations for rotating and reciprocating machines, determination of soil properties, modelling, analysis and design of block/ frame type foundations, specific details for machines applying impulsive loads, compressors and turbo generators, detailed dynamic analysis and modes of vibration for frame type foundations, techniques for vibration isolation, practical real-life case studies, codal requirements, construction aspects of machine foundations. Laboratory: instrumentation aspects in terms of sensors and data acquisition systems, measurement of dynamic soil parameters, measurement of vibration related parameters, vibration isolation, computational aspects related to frame type foundations including FEM modelling and dynamic analysis, AI/ML aspects of machine foundations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "CVL7412",
+  "overlap": null,
+  "learning_outcomes": [
+    "Analysis and Design of Machine Foundations | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Analysis and Design of Machine Foundations"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/analysis-and-design-machine-foundations",
+  "slug": "analysis-and-design-machine-foundations"
+}

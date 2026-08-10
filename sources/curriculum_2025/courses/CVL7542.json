@@ -1,0 +1,16 @@
+{
+  "code": "CVL7542",
+  "name": "Transportation Economics",
+  "description": "Overview of transportation economics; transportation investments and economic development. Basics of engineering economics, marginal analysis, opportunity cost, shadow price, money value of time, discounted cash flow, NPV, ROR, benefit-cost analysis. Road user costs; public transportation economics; social cost of transportation; cost of congestion, pollution, traffic accidents. Taxation, regulations, financing transport systems; legal framework for transportation sector, case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7542"
+}

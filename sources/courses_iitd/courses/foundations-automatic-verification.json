@@ -1,0 +1,22 @@
+{
+  "code": "COL7250",
+  "name": "Foundations of Automatic Verification",
+  "description": "A selection from the following topics, and experiments with the mentioned tools: review of first-order logic, syntax and semantics. Resolution theorem proving. Binary decision diagrams (BDDs) and their use in representing systems (programming exercises coding and using logic programming frameworks). Transition systems, automata and transducers. Buechi and other automata on infinite words; linear time temporal logic (LTL), and specifying properties of systems in LTL; the relationship between temporal logic and automata on infinite words, LTL model checking (exercises using spin or similar tools); computational tree logic (CTL and CTL*); CTL model checking (exercises); process calculi such as CSP and CCS. Notions of program equivalence -- traces, bisimulation and other notions. Hennessy-Milner logic (HML) and mu calculus (exercises using tools such as CWB -- concurrency work bench). Symbolic model checking, exercises using tools such as SMV. Sat-based model checking and Davis-Putnam procedure; (exercises using tools such as nuSMV). Possible additional topics include: equational logic frameworks, real-time frameworks, reactive frameworks, pi-calculus (exercises using tools such as the mobility workbench), tree automata and weak second-order logic with k successors (WSkS), (exercises using Mona or similar tools).",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "COL2026/COL3201/COL3203/",
+  "overlap": null,
+  "learning_outcomes": [
+    "Foundations of Automatic Verification | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Foundations of Automatic Verification"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/foundations-automatic-verification",
+  "slug": "foundations-automatic-verification"
+}

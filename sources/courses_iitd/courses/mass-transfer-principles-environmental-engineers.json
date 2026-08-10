@@ -1,0 +1,22 @@
+{
+  "code": "CVL8718",
+  "name": "Mass Transfer Principles for Environmental Engineers",
+  "description": "Fundamental principles of mass transfer in environmental systems, including diffusion, convection, reaction kinetics, and mass transfer coefficients. Development of mass balance models and analysis of contaminant transport in air, water, and soil. Topics include adsorption, porous media transport, and simplified fluid flow. Applications to pollution control, environmental remediation, membrane processes, and nanomaterials. Emphasis on real-world problem solving through case studies, modeling, and projects.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Mass Transfer Principles for Environmental Engineers | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mass Transfer Principles for Environmental Engineers"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mass-transfer-principles-environmental-engineers",
+  "slug": "mass-transfer-principles-environmental-engineers"
+}

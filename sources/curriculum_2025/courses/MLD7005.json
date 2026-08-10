@@ -1,0 +1,16 @@
+{
+  "code": "MLD7005",
+  "name": "Internship/Minor Project",
+  "description": "This course provides hands-on experience through an internship or minor project focused on materials science and engineering. Students engage in real-world problem solving, under academic or industry mentorship, bridging theory with practical application.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ML",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ML#MLD7005"
+}

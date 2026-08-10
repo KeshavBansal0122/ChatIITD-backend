@@ -1,0 +1,22 @@
+{
+  "code": "COL7341",
+  "name": "Fundamentals of Machine Learning",
+  "description": "Basics on ML; supervised learning algorithms: 1. Linear and logistic regression 2. Gaussian discriminant analysis. 3. Naive bayes 3. Decision trees 4. Support vector machines 6. Neural networks. 7. Deep neural networks; unsupervised learning algorithms: 8. K-means clustering. 9. Expectation maximization 10. Gaussian mixture models. 11. PCA; 12. Learning theory.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Fundamentals of Machine Learning | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fundamentals of Machine Learning"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fundamentals-machine-learning-0",
+  "slug": "fundamentals-machine-learning-0"
+}

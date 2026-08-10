@@ -1,0 +1,16 @@
+{
+  "code": "CVL7999",
+  "name": "Lean Construction Practices and Equipment",
+  "description": "Modern construction methodologies and lean principles, project delivery mechanisms, lean tools like pull planning, LPS, 5S, A3 reports, and Kaizen, BIM integration and its interaction with lean practices, advanced construction techniques such as formwork design, prefabrication, modular coordination, and high-rise and bridge construction methods. Equipment selection, technical and economic analysis, smart automation, and balancing man-machine operations, efficient resource utilization, waste reduction, and continuous improvement, optimize project workflows and equipment performance.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7999"
+}

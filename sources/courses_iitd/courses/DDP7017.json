@@ -1,0 +1,22 @@
+{
+  "code": "DDP7017",
+  "name": "Product Detailing",
+  "description": "Introduction to Injection Moulding. Semantic Priming \u2013 understanding and developing a formal framework using a semantic route, utilising antonyms to develop a range of forms. Introduction to modelling and surfacing, details and assembly techniques in moulded components. Converting forms to shells and assemblies and printing them. Understanding compliant mechanisms and creating a single piece, one shot product which incorporates one. Measuring a set of given components, understanding adjacencies and connections, developing a design brief, form and feature ideation, modelling, printing / fabricating, testing and creating a functional prototype.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": "(DDP7001&DDP7002&DDP7003)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Product Detailing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Product Detailing"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/product-detailing",
+  "slug": "product-detailing"
+}

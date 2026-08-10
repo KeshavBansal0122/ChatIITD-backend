@@ -1,0 +1,729 @@
+{
+  "code": "MSM",
+  "name": "M.Tech. in Materials Science and Engineering",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=MSM",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 53.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Graduates will develop a broad and interdisciplinary understanding of different classes of materials, their properties, and applications, enabling their selection and design for diverse engineering and scientific challenges."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Graduates will gain hands-on expertise in the synthesis, processing, and characterization of materials, applying experimental and computational techniques to solve practical problems."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Graduates will apply their knowledge to analyze and address complex challenges in industries such as chemical, petrochemical, plastics, metallurgy, electronics, and related sectors, contributing to innovation and sustainable solutions."
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "Graduates will communicate technical concepts effectively through written reports, presentations, and discussions, while collaborating in multidisciplinary teams to solve real- world engineering and scientific problems."
+    },
+    {
+      "outcome_id": "PLO5",
+      "text": "Graduates will demonstrate ethical responsibility, professional integrity, and awareness of environmental and societal implications in materials research, development, and industrial applications."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "MLD7004",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLD7005",
+        "title": "Internship/Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLD7006",
+        "title": "M. Tech. Project Part 1",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "24"
+        },
+        "credits": "12"
+      },
+      {
+        "course_code": "MLD7007",
+        "title": "M. Tech. Project Part 2",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "MLL7000",
+        "title": "Structure and Characterization of Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7001",
+        "title": "Introduction to Computational Materials Science",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7002",
+        "title": "Materials Processing",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7003",
+        "title": "Materials for Sustainable Development",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "MLL7101",
+        "title": "Polymer Chemistry",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7102",
+        "title": "Polymer Engineering and Rheology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MLL7103",
+        "title": "Polymer Blends and Composites",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "MLL7104",
+        "title": "Polymer Technology and Product Development",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7201",
+        "title": "Phase Equilibria and Transformations",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7202",
+        "title": "Mechanical Behaviour of Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MLL7203",
+        "title": "Advanced Glass and Ceramics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7204",
+        "title": "Materials for Energy Applications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLN7001",
+        "title": "Research Practicum (M.Tech. Materials Science and Engineering)",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MLP7105",
+        "title": "Polymer Chemistry Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "MLL7101",
+        "title": "Polymer Chemistry",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7201",
+        "title": "Phase Equilibria and Transformations",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7102",
+        "title": "Polymer Engineering and Rheology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MLL7202",
+        "title": "Mechanical Behaviour of Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MLL7103",
+        "title": "Polymer Blends and Composites",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "MLL7203",
+        "title": "Advanced Glass and Ceramics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLP7105",
+        "title": "Polymer Chemistry Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "MLL7104",
+        "title": "Polymer Technology and Product Development",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7204",
+        "title": "Materials for Energy Applications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7103",
+        "title": "Polymer Blends and Composites",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "MLL7106",
+        "title": "Polymeric Nanomaterials and Nanocomposites",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7109",
+        "title": "Polymeric Coatings",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7110",
+        "title": "Biodegradable Polymeric Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7111",
+        "title": "Smart Polymeric Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7204",
+        "title": "Materials for Energy Applications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7205",
+        "title": "Porous Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7208",
+        "title": "Advanced Engineering Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7213",
+        "title": "Advanced Crystallography",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7215",
+        "title": "Creep and Superplasticity of Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7302",
+        "title": "Data Driven Methods for Materials Designing",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7304",
+        "title": "Materials Simulation Methods Using High Performance Computing",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7106",
+        "title": "Polymeric Nanomaterials and Nanocomposites",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7109",
+        "title": "Polymeric Coatings",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7110",
+        "title": "Biodegradable Polymeric Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7111",
+        "title": "Smart Polymeric Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7113",
+        "title": "Advanced Polymer Characterization",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7204",
+        "title": "Materials for Energy Applications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7205",
+        "title": "Porous Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7208",
+        "title": "Advanced Engineering Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7213",
+        "title": "Advanced Crystallography",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7215",
+        "title": "Creep and Superplasticity of Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7302",
+        "title": "Data Driven Methods for Materials Designing",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7304",
+        "title": "Materials Simulation Methods Using High Performance Computing",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MLL7401",
+        "title": "Micro-Nano Fabrication in Materials Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7565",
+        "title": "Advanced Material Characterization Techniques",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "MLL7000",
+        "title": "Structure and Characterization of Materials",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MLL7001",
+        "title": "Introduction to Computational Materials Science",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MLL7003",
+        "title": "Materials for Sustainable Development",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "MLN7001",
+        "title": "Research Practicum (M.Tech. Materials Science and Engineering)",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "esearch Practicum (M.Tech. Materials Science and Engineering)",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "MLD7004",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MLL7002",
+        "title": "Materials Processing",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MLN7001",
+        "title": "Research Practicum (M.Tech. Materials Science and Engineering)",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "esearch Practicum (M.Tech. Materials Science and Engineering)",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "MLD7006",
+        "title": "M. Tech. Project Part 1",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      },
+      {
+        "course_code": "MLN7001",
+        "title": "Research Practicum (M.Tech. Materials Science and Engineering)",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "esearch Practicum (M.Tech. Materials Science and Engineering)",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "MLD7007",
+        "title": "M. Tech. Project Part 2",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      },
+      {
+        "course_code": "MLN7001",
+        "title": "Research Practicum (M.Tech. Materials Science and Engineering)",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "esearch Practicum (M.Tech. Materials Science and Engineering)",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "MSM \u2013 M.Tech. in Materials Science and Engineering\nM.Tech. in Materials Science and Engineering\nMaterials Science and Engineering, Department of\nProgramme Code: MSM\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n53\nPE (Programme Elective)\n3\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n62\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nGraduates will develop a broad and interdisciplinary understanding of different classes of materials, their properties, and applications, enabling their selection and design for diverse engineering and scientific challenges.\nPLO 2\nGraduates will gain hands-on expertise in the synthesis, processing, and characterization of materials, applying experimental and computational techniques to solve practical problems.\nPLO 3\nGraduates will apply their knowledge to analyze and address complex challenges in industries such as chemical, petrochemical, plastics, metallurgy, electronics, and related sectors, contributing to innovation and sustainable solutions.\nPLO 4\nGraduates will communicate technical concepts effectively through written reports, presentations, and discussions, while collaborating in multidisciplinary teams to solve real- world engineering and scientific problems.\nPLO 5\nGraduates will demonstrate ethical responsibility, professional integrity, and awareness of environmental and societal implications in materials research, development, and industrial applications.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nMLD7004 Cornerstone Project 0 0 6 3\nMLD7005 Internship/Minor Project 0 0 6 3\nMLD7006 M. Tech. Project Part 1 0 0 24 12\nMLD7007 M. Tech. Project Part 2 \u2013 \u2013 \u2013 \u2013\nMLL7000 Structure and Characterization of Materials 3 0 0 3\nMLL7001 Introduction to Computational Materials Science 2 0 2 3\nMLL7002 Materials Processing 2 0 2 3\nMLL7003 Materials for Sustainable Development 1 0 0 1\nMLL7101 Polymer Chemistry 3 0 0 3\nMLL7102 Polymer Engineering and Rheology 3 0 2 4\nMLL7103 Polymer Blends and Composites 2 0 0 2\nMLL7104 Polymer Technology and Product Development 3 0 0 3\nMLL7201 Phase Equilibria and Transformations 3 0 0 3\nMLL7202 Mechanical Behaviour of Materials 3 0 2 4\nMLL7203 Advanced Glass and Ceramics 3 0 0 3\nMLL7204 Materials for Energy Applications 3 0 0 3\nMLN7001 Research Practicum (M.Tech. Materials Science and Engineering) 0 0 8 4\nMLP7105 Polymer Chemistry Laboratory 0 0 2 1\nSC1 MSM (3-0-0)\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nMLL7101 Polymer Chemistry 3 0 0 3\nMLL7201 Phase Equilibria and Transformations 3 0 0 3\nSC2 MSM (3-0-2)\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nMLL7102 Polymer Engineering and Rheology 3 0 2 4\nMLL7202 Mechanical Behaviour of Materials 3 0 2 4\nSC3 MSM (2-0-2)\nCourse No.\nCourse Title\nL\nT\nP\nCredits"
+}

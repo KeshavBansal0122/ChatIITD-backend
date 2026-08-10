@@ -1,0 +1,22 @@
+{
+  "code": "ELL7402",
+  "name": "Detection and Estimation Theory",
+  "description": "Hypothesis test and Neyman-Pearson lemma, composite hypothesis testing, generalized LRT, sequential and distributed detection, signal detection in continuous time, KL theorem. Bayesian, MMSE and MAP estimation, Fischer-Neyman factorization theorem, Rao-Blackwell theorem, maximum-likelihood estimation, exponential families and the Cramer-Rao bound. Kalman filtering and Weiner filtering. Sequential hypothesis testing in multiple data streams, sequential detection of changes: changepoint models, performance metrics and optimality criteria, Bayesian quickest change detection in a single population.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Detection and Estimation Theory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Detection and Estimation Theory"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/detection-and-estimation-theory",
+  "slug": "detection-and-estimation-theory"
+}

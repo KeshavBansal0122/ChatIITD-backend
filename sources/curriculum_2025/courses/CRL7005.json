@@ -1,0 +1,16 @@
+{
+  "code": "CRL7005",
+  "name": "Machine Learning for Data Science and Signal Processing",
+  "description": "Introduction to machine learning \u2013 fundamentals of linear algebra, probability theory and digital signal processing.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CR#CRL7005"
+}

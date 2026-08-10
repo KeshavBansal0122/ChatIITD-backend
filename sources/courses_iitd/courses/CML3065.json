@@ -1,0 +1,22 @@
+{
+  "code": "CML3065",
+  "name": "Surfaces and Electrochemistry",
+  "description": "Surface adsorption and its kinetics: Characterization of solid surface structure and composition using electron microscopy, XPS. Auger, SIMS, and LEED. Langmuir, Freundlich, BET, Frumkin, Temkin, and Gibbs isotherms, kinetics of adsorption and heterogeneous catalysis.\nBrief review of chemical equilibria: Ion-solvent interactions, ion-ion interactions, ionic migration, and diffusion. Potentials and thermodynamics of cells: electrodes and electrode potentials, classification of cells and electrodes, IUPAC convention.\nNernst equation. Origin of EMF of a galvanic cell. Polarizable and non-polarizable electrodes, the electrocapillary curve. Electrical double layer: Lipmann equation, models. Electrode kinetics: concept of over potential, Tafel slope, transfer coefficient, Butler Volmer equation, determination of kinetic\nparameters. Electrochemical methods: chronopotentiometry, voltammetry and polarography. Mechanism and electrocatalysis of hydrogen and oxygen evolution reactions.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Surfaces and Electrochemistry | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Surfaces and Electrochemistry"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/surfaces-and-electrochemistry",
+  "slug": "surfaces-and-electrochemistry"
+}

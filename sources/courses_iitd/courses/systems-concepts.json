@@ -1,0 +1,22 @@
+{
+  "code": "COL7001",
+  "name": "Systems Concepts",
+  "description": "Fundamental concepts arising in computer architecture, operating systems, compilers, computer networks, parallel systems, distributed systems; requirements gathering, concepts of designing software systems, biases and ethics in software systems.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Systems Concepts | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Systems Concepts"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/systems-concepts",
+  "slug": "systems-concepts"
+}

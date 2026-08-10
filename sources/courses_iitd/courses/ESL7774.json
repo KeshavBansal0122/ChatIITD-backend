@@ -1,0 +1,22 @@
+{
+  "code": "ESL7774",
+  "name": "Quantitative Methods for Energy Management and Planning",
+  "description": "The necessity and the levels of optimization of energy systems: synthesis, design and operation, laws of probability and probability distribution function; basics principles of calculus methods, mathematical methods for solution of the optimization problem; classes of mathematical optimization methods, sensitivity analysis, special methods for optimization of energy systems, environment considerations in the optimization of energy systems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Quantitative Methods for Energy Management and Planning | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Quantitative Methods for Energy Management and Planning"
+  ],
+  "department": "Energy Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/quantitative-methods-energy-management-and-planning",
+  "slug": "quantitative-methods-energy-management-and-planning"
+}

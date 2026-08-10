@@ -1,0 +1,22 @@
+{
+  "code": "CML3061",
+  "name": "Pericyclic Reactions and Photochemistry",
+  "description": "Pericyclic chemistry: electrocyclic reactions, cycloaddition reactions, sigmatropic rearrangement, introduction of photochemical activation: primary photochemical process, Jablonski diagram. Cis-trans isomerization of alkenes. Photo-induced rearrangements of benzene, photochemistry in carbonyl compounds and nitrogen compounds, miscellaneous photochemical reactions.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Pericyclic Reactions and Photochemistry | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Pericyclic Reactions and Photochemistry"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/pericyclic-reactions-and-photochemistry",
+  "slug": "pericyclic-reactions-and-photochemistry"
+}

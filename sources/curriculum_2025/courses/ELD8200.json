@@ -1,0 +1,16 @@
+{
+  "code": "ELD8200",
+  "name": "MTech Project Part 1",
+  "description": "This is a project-based work. The project work would be theoretical and/or experimental in nature. The scope of project work would vary from project to project. The student is expected to apply the learned theoretical concepts as well as experimental skills to solve problems in computing involving computer architecture and organisation, hardware, software, and hardware-software codesign. The project work is to be planned, executed and communicated through technical/scientific reports and presentations.",
+  "credits": 6.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 12.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELD8200"
+}

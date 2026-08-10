@@ -1,0 +1,22 @@
+{
+  "code": "MLD7006",
+  "name": "M. Tech. Project Part 1",
+  "description": "This course involves an independent research project where students will engage in systematic research, experimental/computational work, data analysis, developing critical problem-solving skills and technical expertise in their specialized materials domain.",
+  "credits": 12.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 24.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "M. Tech. Project Part 1 | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "M. Tech. Project Part 1"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/m-tech-project-part-1",
+  "slug": "m-tech-project-part-1"
+}

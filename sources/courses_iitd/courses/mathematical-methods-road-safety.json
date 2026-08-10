@@ -1,0 +1,22 @@
+{
+  "code": "TRL7100",
+  "name": "Mathematical Methods in Road Safety",
+  "description": "This course equips students with essential quantitative skills to tackle real-world road safety challenges. Beginning with foundational descriptive and inferential statistics, students learn to analyze accident data, identify trends, and draw statistically sound conclusions. The curriculum progresses to advanced modeling techniques, including various regression methods for predicting outcomes like injury severity and accident frequency, alongside time series and panel data analysis for understanding temporal and spatial safety dynamics. The course also introduces machine learning algorithms for clustering and classification, and optimization principles for strategic decision-making in road safety interventions. Through practical road safety examples, students develop a data-driven mindset crucial for effective accident prevention and policy formulation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Mathematical Methods in Road Safety | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mathematical Methods in Road Safety"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mathematical-methods-road-safety",
+  "slug": "mathematical-methods-road-safety"
+}

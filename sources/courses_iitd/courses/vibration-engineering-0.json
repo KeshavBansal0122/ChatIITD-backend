@@ -1,0 +1,22 @@
+{
+  "code": "MEL3201",
+  "name": "Vibration Engineering",
+  "description": "Basic concept of vibration, Free response of undamped and damped single degree of freedom systems, Forced response of SDOF linear systems, Rotating unbalanced masses, Harmonic motion of the support, Vibration isolation, The superposition principle, Response to Periodic excitation, Free vibration of Two-degree of Freedom system, Natural modes, Beat phenomenon, Undamped Vibration absorber, Multi degree of freedom systems, Rayleigh\u2019s Quotient, Sensors, data acquisition, data analysis, frequency analysis: Fourier transform, FFT, Continuous system, Transverse vibration of string, Continuous models for the axial vibration of rods, Bending vibration of beam.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Vibration Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Vibration Engineering"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/vibration-engineering-0",
+  "slug": "vibration-engineering-0"
+}

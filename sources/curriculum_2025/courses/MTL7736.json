@@ -1,0 +1,16 @@
+{
+  "code": "MTL7736",
+  "name": "Analytic Number Theory",
+  "description": "Fundamental Theorem of Arithmetic, Arithmetic functions, Order and average order of arithmetic functions, Partial summation formula, Dirichlet\u2019s hyperbola method, Dirichlet convolution, Partial sums of Dirichlet convolution, Statement of Prime Number Theorem and its equivalent formulations, Chebyshev\u2019s Theorem, Bertrand\u2019s postulate.\r\nDirichlet series, Half plane of convergence and absolute convergence, Euler product, Riemann zeta function and its analytic continuation via Riemann\u2019s functional equation, Non-vanishing of Riemann zeta function on the line Re(s)=1, Proof of Prime Number Theorem, Dirichlet L-function and its analytic continuation, Non-vanishing at s=1, Proof of Dirichlet\u2019s theorem for primes in arithmetic progression.\r\nModular group and its action on the upper half plane, Modular forms, Eisenstein series, Cusp forms, Valence formula, j-function, Hecke operators and their eigenvalues.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTL7736"
+}

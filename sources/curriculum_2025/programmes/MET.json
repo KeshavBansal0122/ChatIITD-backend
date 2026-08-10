@@ -1,0 +1,425 @@
+{
+  "code": "MET",
+  "name": "M.Tech. in Thermal Engineering",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=MET",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 31.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Ability to apply advanced knowledge in thermal and fluids engineering in preparation for their professional practice or further learning."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Effectively synthesize and communicate ideas, embrace teamwork and demonstrate scientific temperament, integrity, personal and professional responsibility."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Ability to innovate technologies for future requirements of industry and humanity."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "MED7451",
+        "title": "Major Project Part 1",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "MED7453",
+        "title": "Corner-Stone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MED7454",
+        "title": "Summer Internship / Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7001",
+        "title": "Professional Ethics for Mechanical Engineers",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "MEL7401",
+        "title": "Advanced Thermodynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7402",
+        "title": "Advanced Fluid Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7403",
+        "title": "Applied Mathematics for Thermofluids",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7404",
+        "title": "Experimental Methods for Thermofluids",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7405",
+        "title": "Convective Heat Transfer",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7406",
+        "title": "Scientific Computing for Thermofluids",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEN7002",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEL7211",
+        "title": "Robotics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7413",
+        "title": "Radiative Heat Transfer",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7415",
+        "title": "Lattice Boltzmann Method",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7419",
+        "title": "Computational Heat Transfer",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEL7421",
+        "title": "Aerodynamics of Flight",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEL7423",
+        "title": "Thermal Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEL7424",
+        "title": "Combustion",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7428",
+        "title": "Combustion Kinetics",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7430",
+        "title": "Heat Exchangers",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEL7431",
+        "title": "Gas Dynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEL7432",
+        "title": "Introduction to Microfluidics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEL7433",
+        "title": "Air Pollution: Sources and Apportionment",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL8418",
+        "title": "Heating, Ventilating and Air-Conditioning (HVAC) Technologies",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEL8828",
+        "title": "Turbulent Combustion: Modelling and Applications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "MEL7401",
+        "title": "Advanced Thermodynamics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MEL7402",
+        "title": "Advanced Fluid Mechanics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MEL7403",
+        "title": "Applied Mathematics for Thermofluids",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MEL7404",
+        "title": "Experimental Methods for Thermofluids",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MEN7002",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "MED7453",
+        "title": "Corner-Stone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MEL7405",
+        "title": "Convective Heat Transfer",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MEL7406",
+        "title": "Scientific Computing for Thermofluids",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MEL7001",
+        "title": "Professional Ethics for Mechanical Engineers",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "MEN7002",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "MED7451",
+        "title": "Major Project Part 1",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 12.0
+        },
+        "credits": 6.0
+      },
+      {
+        "course_code": "MEN7002",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "MEN7002",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "MET \u2013 M.Tech. in Thermal Engineering\nM.Tech. in Thermal Engineering\nMechanical Engineering, Department of\nProgramme Code: MET\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n31\nPE (Programme Elective)\n24\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n61\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nAbility to apply advanced knowledge in thermal and fluids engineering in preparation for their professional practice or further learning.\nPLO 2\nEffectively synthesize and communicate ideas, embrace teamwork and demonstrate scientific temperament, integrity, personal and professional responsibility.\nPLO 3\nAbility to innovate technologies for future requirements of industry and humanity.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nMED7451 Major Project Part 1 \u2013 \u2013 \u2013 \u2013\nMED7453 Corner-Stone Project 0 0 6 3\nMED7454 Summer Internship / Minor Project 0 0 6 3\nMEL7001 Professional Ethics for Mechanical Engineers 1 0 0 1\nMEL7401 Advanced Thermodynamics 3 0 0 3\nMEL7402 Advanced Fluid Mechanics 3 0 0 3\nMEL7403 Applied Mathematics for Thermofluids 3 0 0 3\nMEL7404 Experimental Methods for Thermofluids 2 0 2 3\nMEL7405 Convective Heat Transfer 3 0 0 3\nMEL7406 Scientific Computing for Thermofluids 2 0 2 3\nMEN7002 Teaching and Research Practicum 0 0 8 4\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nMEL7211 Robotics 3 0 0 3\nMEL7413 Radiative Heat Transfer 3 0 0 3\nMEL7415 Lattice Boltzmann Method 2 0 2 3\nMEL7419 Computational Heat Transfer 3 0 2 4\nMEL7421 Aerodynamics of Flight 3 0 2 4\nMEL7423 Thermal Design 3 0 2 4\nMEL7424 Combustion 3 0 0 3\nMEL7428 Combustion Kinetics 2 0 2 3\nMEL7430 Heat Exchangers 3 0 2 4\nMEL7431 Gas Dynamics 3 0 2 4\nMEL7432 Introduction to Microfluidics 3 0 2 4\nMEL7433 Air Pollution: Sources and Apportionment 3 0 0 3\nMEL8418 Heating, Ventilating and Air-Conditioning (HVAC) Technologies 3 1 0 4\nMEL8828 Turbulent Combustion: Modelling and Applications 3 0 0 3\nSemester-wise Schedule\nSem\nCourses &amp; Baskets\nHrs /\nweek\nNGU\nCredits\n1\nMEL7401 Advanced Thermodynamics\n(3.0-0.0-0.0) 3.00\nMEL7402 Advanced Fluid Mechanics\n(3.0-0.0-0.0) 3.00\nMEL7403 Applied Mathematics for Thermofluids\n(3.0-0.0-0.0) 3.00\nMEL7404 Experimental Methods for Thermofluids"
+}

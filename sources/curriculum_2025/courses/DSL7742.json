@@ -1,0 +1,16 @@
+{
+  "code": "DSL7742",
+  "name": "Integrated Quantum Photonics",
+  "description": "Basic postulates of quantum mechanics, superposition, qubits, quantum states as resource; different physical systems for implementing quantum protocols \u2013 photons, neutral atoms, superconducting qubits, etc., and their comparison; photons and their properties for encoding quantum information and applications in computation, communication and simulations; different integrated photonics platforms and their comparison for quantum information tasks; devices for generating photon qubits using non-linear optical processes; solid state photon emitters; devices for manipulation of quantum states of light using linear optical circuits; implementation of quantum gates using optics; detectors for inferring quantum properties, superconducting detectors; quantum sensing using photons.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DS#DSL7742"
+}

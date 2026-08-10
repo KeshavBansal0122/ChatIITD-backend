@@ -1,0 +1,22 @@
+{
+  "code": "CHL7303",
+  "name": "Crystal Engineering and Design",
+  "description": "Fundamental aspects of crystal growth \u2013 role of controlling parameters; intermolecular interaction between solution species and surface of crystals; nucleation and growth mechanism, kinetics and limitations; spinodal decomposition\u2013 mean-field and non-linear models; kinetics of frontal growth; models for 2D and 3D crystal growth; analytical tools to characterize the phenomena of crystal formation and growth \u2013 static and dynamic light scattering; time-resolved techniques for crystallization kinetics; modelling of crystallization kinetics; industrial relevance and design aspects; real-life problems in crystal engineering.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL2002",
+  "overlap": null,
+  "learning_outcomes": [
+    "Crystal Engineering and Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Crystal Engineering and Design"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/crystal-engineering-and-design",
+  "slug": "crystal-engineering-and-design"
+}

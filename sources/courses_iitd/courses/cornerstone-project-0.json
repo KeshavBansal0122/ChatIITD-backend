@@ -1,0 +1,22 @@
+{
+  "code": "CHD7811",
+  "name": "Cornerstone Project",
+  "description": "A hands-on team design project addressing a problem relevant to chemical engineering. Students will engage in an in-depth investigation of a specific topic within chemical engineering, applying theoretical knowledge to practical challenges.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Cornerstone Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Cornerstone Project"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/cornerstone-project-0",
+  "slug": "cornerstone-project-0"
+}

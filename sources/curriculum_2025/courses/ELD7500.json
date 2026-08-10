@@ -1,0 +1,16 @@
+{
+  "code": "ELD7500",
+  "name": "Summer Internship / Minor Project",
+  "description": "Analyze and solve industry relevant problems in the area of power electronics, electrical machines, drives and e-mobility. The details of the work are decided by the concerned industry and faculty supervisor.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELD7500"
+}

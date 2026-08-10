@@ -1,0 +1,16 @@
+{
+  "code": "BML8500",
+  "name": "Cancer: Diagnosis and Therapy",
+  "description": "Cancer and its classes; hallmarks of cancer: evasion of apoptosis, limitless replicative potential, sustained angiogenesis, inflammation; causes of cancer: carcinogens, oncogenes, mutations, viruses, disregulation of cell cycle and the checkpoints; tumor architecture, importance of hypoxia and angiogenesis in cancer; tumor metabolism, metastatic potential of cancer; cancer stem cells and biomarkers of cancer; diagnosis of cancer: biopsy, imaging, endoscopy, blood work; therapy: chemotherapy (small molecule, nanoparticle based), radiation, hyperthermia, immunotherapy, photodynamic, transplants and transfusions, targeted therapy, RNAi, non-invasive technologies; resistance in cancer; scientific advances for understanding the origin, diagnosis and treatment of cancer; future prospects for cancer cure and diagnosis.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BM#BML8500"
+}

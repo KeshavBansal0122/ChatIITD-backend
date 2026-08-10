@@ -1,0 +1,22 @@
+{
+  "code": "COL8690",
+  "name": "Special Topics in Visual Computing",
+  "description": "Special topics focusing on the state of the art developments and active research problems in visual computing.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Special Topics in Visual Computing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Special Topics in Visual Computing"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/special-topics-visual-computing",
+  "slug": "special-topics-visual-computing"
+}

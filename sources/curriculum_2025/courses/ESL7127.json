@@ -1,0 +1,16 @@
+{
+  "code": "ESL7127",
+  "name": "Energy and Environment",
+  "description": "Basic definitions of energy, environment and ecosystem, and their inter-relationship; mass and energy transfer; biological energy transfer and nutrient cycling; population dynamics; air pollution, water pollution, soil pollution, thermal pollution, e-waste pollution, global effects and climate change; environmental impact and mitigation techniques of energy resources and utilization.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ES",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ES#ESL7127"
+}

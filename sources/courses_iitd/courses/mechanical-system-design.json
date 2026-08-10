@@ -1,0 +1,22 @@
+{
+  "code": "MEL7202",
+  "name": "Mechanical System Design",
+  "description": "Design methodology \u2013 history, lifecycle, sustainability; planning, development of specifications from requirements, solution finding; systematic design methodology \u2013 functional decomposition, morphological methods, TRIZ, axiomatic design; concept evaluation and selection \u2013 technology readiness, Pugh\u2019s method, decision risk, robust decision making; engineering concept to embodiment design \u2013 rules and principles; product evaluation for performance and effects of variation; guidelines for embodiment design \u2013 design for cost DFC, manufacture and assembly DFMA; uncertainties and robustness, sustainability (lifecycle), fail-safe - design for reliability DFR, design for environment DFE, other measures DFX; configuration design \u2013 best design practices \u2013 interfaces and connections; detailed design \u2013 case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Mechanical System Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mechanical System Design"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mechanical-system-design",
+  "slug": "mechanical-system-design"
+}

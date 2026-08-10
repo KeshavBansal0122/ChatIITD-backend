@@ -1,0 +1,16 @@
+{
+  "code": "CVL8510",
+  "name": "Viscoelastic Behavior of Bituminous Materials",
+  "description": "Overview of material behavior-elastic, plastic, viscoelastic, viscoplastic response; aging; issues in representative volume element; mechanical analogs for viscoelastic response; fundamental viscoelastic response-creep compliance, relaxation, complex modulus; interconversion techniques to obtain fundamental viscoelastic responses; time-temperature superposition; linear viscoelastic constitutive equations; elastic-viscoelastic correspondence principle; predicting material behavior-undamaged, damaged state conditions, introduction to nonlinear viscoelasticity, viscoelastoplastic behavoir, fracture mechanics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL8510"
+}

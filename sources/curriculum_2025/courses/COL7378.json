@@ -1,0 +1,16 @@
+{
+  "code": "COL7378",
+  "name": "Principles of Autonomous Systems",
+  "description": "Introduction (robot as an intelligent agent), discrete Bayes estimation, continuous estimation and localisation, perception and mapping, motion planning, task planning, action and interaction models, robot learning (via reinforcement, imitation learning etc.), POMDPs, human+robot and multi-robot systems, autonomy software/simulation environments, emerging trends, ethical and societal implications.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL7378"
+}

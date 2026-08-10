@@ -1,0 +1,16 @@
+{
+  "code": "AID7099",
+  "name": "Summer Internship or Minor Project",
+  "description": "This course will involve students to take up a minor project either in industry or the school. The student will be introduced to industry-driven and research-oriented practices through the project.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AI",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AI#AID7099"
+}

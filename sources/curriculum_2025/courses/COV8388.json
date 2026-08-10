@@ -1,0 +1,16 @@
+{
+  "code": "COV8388",
+  "name": "Special Module on Data Management Systems",
+  "description": "The course will expose students to recent developments in different aspects of data management systems, and their applications.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COV8388"
+}

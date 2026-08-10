@@ -1,0 +1,22 @@
+{
+  "code": "CHL3003",
+  "name": "Fluid Particle Mechanics",
+  "description": "Introduction to fluid-particle system, fluid-particle dynamics, rigid spherical particle motion at low Reynolds number in uniform flow, rotational flow, simple-shear flow, motion of particles at finite Reynolds number, motion of non-spherical particles, motion of bubbles/droplets, motion of particles in non-dilute suspensions, batch and continuous settling (hindered settling), critically, underloaded and overloaded thickener, design principles for thickener, pressure drop across a packed bed, Blaine&#039;s apparatus, design principles for packed bed (packing, diameter and internals), fluidization, height of a fluidized bed, bubbling fluidization, filtration, centrifugal filtration, cyclone separator, dryer, mixing and segregation, particle size reduction, particle size enlargement.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL2003",
+  "overlap": null,
+  "learning_outcomes": [
+    "Fluid Particle Mechanics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fluid Particle Mechanics"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fluid-particle-mechanics",
+  "slug": "fluid-particle-mechanics"
+}

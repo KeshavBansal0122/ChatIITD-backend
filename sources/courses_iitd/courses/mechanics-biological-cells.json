@@ -1,0 +1,22 @@
+{
+  "code": "AML7640",
+  "name": "Mechanics of Biological Cells",
+  "description": "This course focuses on cellular and sub-cellular level mechanics. We develop low-Reynolds-number hydrodynamics and stochastic transport to explain Brownian motion, diffusion, chemotaxis, and biased random walks, alongside active-matter models for actomyosin force generation, cortical tension, and membrane shape dynamics. Motility mechanisms such as amoeboid and mesenchymal crawling, actin-polymerization-based protrusion, flagellar and peristaltic body deformation-based swimming of micro-organisms in Newtonian fluids. Experimental labs will pertain to single-cell tracking, microfluidics, traction force microscopy, optical/magnetic tweezers, and AFM",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(AML2070)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Mechanics of Biological Cells | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mechanics of Biological Cells"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mechanics-biological-cells",
+  "slug": "mechanics-biological-cells"
+}

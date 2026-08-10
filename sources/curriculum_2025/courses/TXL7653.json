@@ -1,0 +1,16 @@
+{
+  "code": "TXL7653",
+  "name": "Supply Chain Design, Analytics and Management",
+  "description": "Supply chain strategy, supply chain network design and optimization, transportation and trans-shipment network design, quantitative models; predictive and prescriptive analytics in supply chain, forecasting, demand management, bull-whip effect, MILP and MINLP models of supply chains, supplier selection and order allocation, MCDM techniques; risk and resilience, risk management strategies; sustainable and circular supply chains, SDGs and supply chain, social sustainability.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL7653"
+}

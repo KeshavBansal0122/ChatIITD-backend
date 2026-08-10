@@ -1,0 +1,22 @@
+{
+  "code": "CHL7401",
+  "name": "CCUS for Sustainable Industrial and Energy Systems",
+  "description": "Carbon cycle, global inventories, and international policies. Fundamentals of carbon capture, utilization, and storage (CCUS) and CO\u2082 mitigation strategies. Power generation, thermodynamic cycles, and carbon capture technologies. Pre-combustion, post-combustion, oxyfuel, and chemical looping systems. Process simulation and techno-economic analysis. Industrial CO\u2082 capture: cement, steel, and sector-specific strategies. Absorption, adsorption, and membrane-based CO\u2082 capture methods. CO\u2082 conversion to fuels, chemicals, and mineral carbonation. Life cycle assessment and case studies on decarbonization. Emerging solutions for decarbonization across industries.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL3007",
+  "overlap": null,
+  "learning_outcomes": [
+    "CCUS for Sustainable Industrial and Energy Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "CCUS for Sustainable Industrial and Energy Systems"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/ccus-sustainable-industrial-and-energy-systems",
+  "slug": "ccus-sustainable-industrial-and-energy-systems"
+}

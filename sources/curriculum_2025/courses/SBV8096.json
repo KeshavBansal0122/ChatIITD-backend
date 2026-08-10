@@ -1,0 +1,16 @@
+{
+  "code": "SBV8096",
+  "name": "Single Molecule Biophysics",
+  "description": "Introduction to the course; entropy and free energy \u2013 Boltzmann distribution, mass action law etc; single molecule versus bulk; magnetic and optical tweezers; single molecule studies of nucleic acids and their proteins; cellular mechanochemistry; Raman spectroscopy, fluorescence; crossbreeding of tweezing techniques with spectroscopy.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBV8096"
+}

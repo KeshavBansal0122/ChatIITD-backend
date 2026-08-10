@@ -1,0 +1,22 @@
+{
+  "code": "MLD4001",
+  "name": "B. Tech Project Part I",
+  "description": "This course involves an independent research project assigned by the student\u2019s B. Tech supervisor upon successful completion of core and elective course credits. Students will engage in systematic research, experimental work, and data analysis, developing critical problem-solving skills and technical expertise in their specialized materials domain.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "B. Tech Project Part I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "B. Tech Project Part I"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/b-tech-project-part-i",
+  "slug": "b-tech-project-part-i"
+}

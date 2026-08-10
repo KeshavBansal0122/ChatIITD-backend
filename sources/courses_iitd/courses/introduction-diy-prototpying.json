@@ -1,0 +1,22 @@
+{
+  "code": "DDP7121",
+  "name": "Introduction to DIY Prototpying",
+  "description": "The student would understand material selection and get hands-on exposure to the digital fabrication based prototyping techniques such as additive manufacturing, computer controlled cutting and machining, molding and casting, micro controller programming, input devices including sensors, output devices including actuators, networking and communication with Bluetooth and Wi-Fi modules. The students would also work on a course project assimilating the skills learnt in the class. This course should enable the students to gain the confidence to translate their ideas to built almost any electro-mechanical functional prototype.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to DIY Prototpying | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to DIY Prototpying"
+  ],
+  "department": "Materials and Prototyping",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-diy-prototpying",
+  "slug": "introduction-diy-prototpying"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MSL7721",
+  "name": "Public Health Strategy",
+  "description": "This course contains the following topics:\nWhat is Public Health Strategy?\nSystems Thinking in Health\nStrategic Design for Health Systems\nStrategy Execution in Healthcare\nDigital Strategy in Healthcare\nGovernance, Ethics & Leadership in Public Health",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(MSL7701) &(MSL7702)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Public Health Strategy | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Public Health Strategy"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/public-health-strategy",
+  "slug": "public-health-strategy"
+}

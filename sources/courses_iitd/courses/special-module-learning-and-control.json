@@ -1,0 +1,22 @@
+{
+  "code": "ELV8199",
+  "name": "Special Module in Learning and Control",
+  "description": "To be decided by the Instructor when floating this course: It can be anything that is related to systems and control engineering, but is not covered in any of the established courses.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Special Module in Learning and Control | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Special Module in Learning and Control"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/special-module-learning-and-control",
+  "slug": "special-module-learning-and-control"
+}

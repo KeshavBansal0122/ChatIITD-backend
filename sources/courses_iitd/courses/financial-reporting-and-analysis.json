@@ -1,0 +1,22 @@
+{
+  "code": "MSL7101",
+  "name": "Financial Reporting and Analysis",
+  "description": "This course introduces the accounting principles underlying financial statements and their use in decision-making. Students learn to prepare and interpret the balance sheet, income statement, and cash flow statement. The course also develops skills in financial statement and ratio analysis to evaluate firm performance and financial health using practical cases and problems.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Financial Reporting and Analysis | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Financial Reporting and Analysis"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/financial-reporting-and-analysis",
+  "slug": "financial-reporting-and-analysis"
+}

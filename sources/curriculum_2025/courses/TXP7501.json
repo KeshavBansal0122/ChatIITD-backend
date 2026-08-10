@@ -1,0 +1,16 @@
+{
+  "code": "TXP7501",
+  "name": "Evaluation of Textile Materials",
+  "description": "Measurement of low-stress mechanical characteristics: bending, shear, tensile, frictional, and surface roughness characteristics in KESF systems and analysis of obtained test results. Measurement of transmission characteristics: thermal transmission; liquid transmission (wetting and wicking); moisture vapor transmission. Measurement of various technical textile materials: extreme heat and cold protective clothing, filter fabrics; fibre-reinforced composite materials, electromagnetic shielding textiles; ballistic protective textiles; UV protective textiles; cut protective textiles, automotive textiles for thermos-acoustic characteristics; etc. Analysis of test results.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXP7501"
+}

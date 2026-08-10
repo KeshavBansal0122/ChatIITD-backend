@@ -1,0 +1,16 @@
+{
+  "code": "COL8396",
+  "name": "Special Topics in Data Management II",
+  "description": "The course will cover advanced topics in database management, with a focus on recent research in the field and ongoing work within the department. Specific topics will be announced each time the course is offered.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL8396"
+}

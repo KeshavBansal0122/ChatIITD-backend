@@ -1,0 +1,22 @@
+{
+  "code": "CML3076",
+  "name": "Organic Spectroscopy",
+  "description": "1H NMR: Zeeman splitting, effect of magnetic field strength, chemical shift, inductive and anisotropic effect, spin-spin coupling, coupling constant J, examples of AB, AX and ABX system, Simplification of second order spectrum, selective decoupling, use; 13C NMR: Introduction to FT technique, relaxation phenomenon, NOE effects, 1H and 13C chemical shift to structure corrections, Organic functional group identification through IR spectroscopy. Prediction of wavelength using Woodward-Fieser rules.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Organic Spectroscopy | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Organic Spectroscopy"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/organic-spectroscopy",
+  "slug": "organic-spectroscopy"
+}

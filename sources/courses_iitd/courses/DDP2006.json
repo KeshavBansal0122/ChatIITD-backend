@@ -1,0 +1,22 @@
+{
+  "code": "DDP2006",
+  "name": "Studio II: Interaction Design (IxD)",
+  "description": "This advanced studio builds upon the foundations of IxD Studio-I, focusing on designing complex, multi-platform systems and services. Students explore information architecture, interaction flows, and service design methods to address layered user needs. Emphasis is placed on prototyping mid-fidelity interactive systems, evaluating usability, and integrating principles of accessibility and inclusivity. The course introduces design for emerging technologies such as AR, VR, and IoT, encouraging critical reflection on the social, cultural, and ethical dimensions of interaction design. Through iterative projects, critiques, and a final system-level prototype, students develop skills in creating scalable, user-centered interaction ecosystems.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": "(DDP1002&DDP1006&DDP1011&DDP2005)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Studio II: Interaction Design (IxD) | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Studio II: Interaction Design (IxD)"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/studio-ii-interaction-design-ixd",
+  "slug": "studio-ii-interaction-design-ixd"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "PYL7545",
+  "name": "Topology in Condensed Matter Physics",
+  "description": "Topology versus geometry, phases beyond Landau paradigm, Bloch theorem, Brillouin zone topology, vector bundles and gauge structure of Bloch states, Berry phase and geometric phase, Berry curvature and anomalous velocity, polarization and orbital magnetization, Chern numbers and TKNN formula, Haldane model, integer quantum Hall effect and edge channels, time-reversal symmetry, Kramers degeneracy, Z_2 invariants, Kane\u2013Mele model, bulk-boundary correspondence, protected chiral and helical edge modes, robustness against disorder, experimental probes via ARPES and STM.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL7545"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "AML4020",
+  "name": "Advanced Experimental Techniques in Fluids",
+  "description": "Review of errors in measurements and other statistical concepts related to errors and their combinations, and probability distributions. Point and Field Measurements, Advanced techniques in fluid flow: Hot wire Anemometry, Laser Doppler Velocimetry and particle sizing, Particle Image Velocimetry, Volumetric methods: Tomo PIV. Planar Laser Induced Fluorescence and Quantitative Smoke Visualization, Background oriented Schlieren. Derived Quantities from PIV: Vorticity, strain rate and pressure. \nPractical Activities: Calibration of PIV, Turbulent jet/Vortex ring measurement with PIV, Calibration of PLIF, Concentration field measurement with PLIF,Calibration of QSV, Concentration field measurement with QSV, Hot wire Anemometer calibration, Turbulent jet measurement with HWA, Introduction to Background Oriented Schlieren",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "AML2020AML2060AMP2090",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Experimental Techniques in Fluids | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Experimental Techniques in Fluids"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-experimental-techniques-fluids",
+  "slug": "advanced-experimental-techniques-fluids"
+}

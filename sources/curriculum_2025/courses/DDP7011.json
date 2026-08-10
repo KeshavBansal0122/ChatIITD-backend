@@ -1,0 +1,16 @@
+{
+  "code": "DDP7011",
+  "name": "Advanced Typography",
+  "description": "This course explores advanced typographic practice with a focus on Indic scripts and culturally responsive design. Students revisit basic principles before engaging in typographic documentation, typewalks, and analytical exercises. Emphasis is placed on understanding type anatomy\u2014matras, conjuncts, and glyph structure\u2014and refining forms through drawing and digital tools. The course builds toward a culturally rooted typeface design project through iterative development and critique. Combining studio practice, field observation, and theoretical reflection, students produce a final type system that addresses both linguistic nuance and visual clarity. The course encourages a critical, regional, and experimental approach to contemporary typography.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DD#DDP7011"
+}

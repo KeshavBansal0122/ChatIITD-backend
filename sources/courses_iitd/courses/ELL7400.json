@@ -1,0 +1,21 @@
+{
+  "code": "ELL7400",
+  "name": "Signal Theory",
+  "description": "Discrete random variables (Bernoulli, binomial, Poisson, geometric, negative binomial, etc.) and their properties like PDF, CDF, MGF. Continuous random variables: Gaussian, multivariate Gaussian; whitening of the Gaussian random vector; complex Gaussian random vector, circularity; Rayleigh and Rician; exponential; chisquared; gamma. Signal spaces: convergence and continuity; linear spaces, inner product spaces; basis, Gram-Scmidt orthogonalization. Stochastic convergence, law of large numbers, central limit theorem. Random processes: stationarity; mean, correlation, and covariance functions, WSS random process; autocorrelation and cross-correlation functions; transmission of a random process through a linear filter; power spectral density; white random process; Gaussian process; Poisson process.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Signal Theory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/signal-theory",
+  "slug": "signal-theory"
+}

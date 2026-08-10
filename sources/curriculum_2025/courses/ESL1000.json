@@ -1,0 +1,16 @@
+{
+  "code": "ESL1000",
+  "name": "Energy Resources and Utilization",
+  "description": "Sustainable development goals (SDGs), world energy sources, energy forms, various classification of energy-containing minerals, energy efficiency and capacity utilization factor, resource map, extraction, characterization and utilization and environmental impact of the following energy resources: solid, liquid and gaseous fuels, biomass energy, nuclear fission and fusion fuels, solar energy resources, wind energy resource, hydro energy resource, geothermal energy, ocean thermal energy, wave energy and tidal energy, environment impact and utilization of energy resources.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ES",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ES#ESL1000"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "MEL7333",
+  "name": "Special Topics in Manufacturing - II",
+  "description": "This course is designed to facilitate a regular faculty or a guest/visiting faculty to offer a course in manufacturing covering some specialized topics in production engineering that are not aligned with any other listed program elective for MTech in production engineering. The detailed contents will be decided by the faculty who will teach the course and they will be shared at the time of offering the course.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL7333"
+}

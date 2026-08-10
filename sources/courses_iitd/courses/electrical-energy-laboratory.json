@@ -1,0 +1,22 @@
+{
+  "code": "ESP3460",
+  "name": "Electrical Energy Laboratory",
+  "description": "Characteristics and speed control of different electrical machines, Basics of open loop and closed loop control, Power electronic converters, their operations and their applications.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "prereq": "ELL1000",
+  "overlap": null,
+  "learning_outcomes": [
+    "Electrical Energy Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Electrical Energy Laboratory"
+  ],
+  "department": "Energy Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/electrical-energy-laboratory",
+  "slug": "electrical-energy-laboratory"
+}

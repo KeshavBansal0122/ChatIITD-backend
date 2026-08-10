@@ -1,0 +1,22 @@
+{
+  "code": "ELL7301",
+  "name": "Digital CMOS VLSI Design",
+  "description": "CMOS process, scaling, yield and reliability, static CMOS combinational logic physical design and optimization, static CMOS/MOS sequential logic physical design and optimization, other CMOS logic families, clock domain crossing, power consumption in CMOS digital circuits, introduction to static RAM memories.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Digital CMOS VLSI Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Digital CMOS VLSI Design"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/digital-cmos-vlsi-design",
+  "slug": "digital-cmos-vlsi-design"
+}

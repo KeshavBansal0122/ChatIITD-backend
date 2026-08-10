@@ -1,0 +1,21 @@
+{
+  "code": "BSD9655",
+  "name": "Minor Project",
+  "description": "It\u2019s a minor project. Capstone Project in Artificial Intelligence and Machine Learning",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Minor Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/minor-project-16",
+  "slug": "minor-project-16"
+}

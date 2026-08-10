@@ -1,0 +1,22 @@
+{
+  "code": "PYL7130",
+  "name": "Plasma Theory and Simulations",
+  "description": "Basic concepts (notion of collective plasma behavior, Debye shielding etc.), charged particle drifts and numerical techniques to follow particle trajectories in crossed electric and magnetic fields, fluid and kinetic model descriptions for plasmas, plasma as a dielectric, linear normal modes (concept of electrostatic and electromagnetic, un-magnetized and magnetized modes) and fundamental instabilities (Rayleigh Taylor, Kelvin Helmholtz and beam driven), introduction to fluid and particle simulation techniques for one dimensional problems, recovering dispersion relation of normal modes (electron plasma, ion acoustic etc.) and growth rate for two stream instability through simulations, illustration of nonlinear effects through simulations, transport properties of plasmas (for example diffusion and resistivity etc.) and their relevance in confinement.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "PYL2023",
+  "overlap": null,
+  "learning_outcomes": [
+    "Plasma Theory and Simulations | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Plasma Theory and Simulations"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/plasma-theory-and-simulations",
+  "slug": "plasma-theory-and-simulations"
+}

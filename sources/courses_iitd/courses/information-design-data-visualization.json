@@ -1,0 +1,22 @@
+{
+  "code": "DDL7025",
+  "name": "Information Design & Data Visualization",
+  "description": "History of information design; principles of organization of content and data; principles of visual design for data displays; narratives and data storytelling; types of data; types andtools of visual representation of data; preparation of data; chronological representations; geographical representations; visualization of quantitative and abstract data complexity.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(DDP1005)(DDP7004)(DDP7001) /(DDP1001)(DDP1002)(DDP1005)(DDP1007)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Information Design & Data Visualization | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Information Design & Data Visualization"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/information-design-data-visualization",
+  "slug": "information-design-data-visualization"
+}

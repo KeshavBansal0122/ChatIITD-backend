@@ -1,0 +1,16 @@
+{
+  "code": "COL7004",
+  "name": "Mathematical Foundations of Computing",
+  "description": "Sets, relations, functions, propositional logic, Boolean algebra, proof techniques, combinatorics, discrete probability, probabilistic data-structures, canonical algebraic structures, vector spaces and linear algebra, eigenvalues, graph algorithms, NP completeness.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL7004"
+}

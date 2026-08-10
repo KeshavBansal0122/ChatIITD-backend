@@ -1,0 +1,22 @@
+{
+  "code": "PYL3035",
+  "name": "Experimental Methods in Physics",
+  "description": "Introduction to experimental physics: purpose, reproducibility, error types (random/systematic), precision versus accuracy, probability distributions, error propagation. Transport measurements: four-probe method, Hall effect, contact resistance, R\u2013T dependence, scattering mechanisms. Optical and structural techniques: photoluminescence (bandgap, excitons), XRD (Bragg\u2019s law, peak indexing), Raman spectroscopy (vibrational modes, strain analysis), XPS (core-level spectroscopy). Microscopy: STM (LDOS, dI/dV), SEM (electron-beam interaction). Soft matter systems: viscoelasticity, optical tweezers, microrheology. Astronomy: multi-messenger observations, dark matter, gravitational lensing. Includes data acquisition, lock-in amplifiers, spectral calibration, microscopy image analysis, python/MATLAB-based model fitting, and interpretation of real-world experimental data.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Experimental Methods in Physics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Experimental Methods in Physics"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/experimental-methods-physics",
+  "slug": "experimental-methods-physics"
+}

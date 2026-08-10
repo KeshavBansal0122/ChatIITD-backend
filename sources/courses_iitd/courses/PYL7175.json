@@ -1,0 +1,22 @@
+{
+  "code": "PYL7175",
+  "name": "Magnetohydrodynamics and Fluid Plasma",
+  "description": "This course introduces the fundamentals of fluid dynamics and magnetohydrodynamics (MHD), covering fluid kinematics, pressure, incompressible and compressible flows, and potential flow. Conservation laws in integral and differential forms are developed and applied to hydrodynamic and magnetized systems. Topics include vorticity dynamics, rotating fluids, magnetic diffusion, flux freezing, reconnection, and plasma parameters. Wave phenomena are studied through sound, shock, gravity, Alfv\u00e9n, and magnetoacoustic waves. Fluid and MHD instabilities such as convection, Rayleigh\u2013Taylor, and Kelvin\u2013Helmholtz are analyzed. Practice activities include derivation-based problem solving, numerical exercises, visualization of flows and waves, and case studies of instabilities in astrophysical and laboratory plasmas.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(PYL2003&PYL2023)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Magnetohydrodynamics and Fluid Plasma | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Magnetohydrodynamics and Fluid Plasma"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/magnetohydrodynamics-and-fluid-plasma",
+  "slug": "magnetohydrodynamics-and-fluid-plasma"
+}

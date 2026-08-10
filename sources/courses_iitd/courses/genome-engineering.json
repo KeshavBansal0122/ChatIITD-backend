@@ -1,0 +1,22 @@
+{
+  "code": "BBL7150",
+  "name": "Genome Engineering",
+  "description": "Next generation cloning technologies, Genome engineering methods for bacteria, yeast, plants and mammalian cells, Newer gene delivery methods.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Genome Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Genome Engineering"
+  ],
+  "department": "Biochemical Engineering and Biotechnology, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/genome-engineering",
+  "slug": "genome-engineering"
+}

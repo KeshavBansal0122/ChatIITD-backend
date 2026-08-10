@@ -1,0 +1,22 @@
+{
+  "code": "PYP7001",
+  "name": "Solid State Materials Laboratory",
+  "description": "Experiments on synthesizing various materials with solid-state synthesis method. Material characterization including measurement of electrical resistivity, chemical composition, band gap of semiconducting materials, ferromagnetic and ferroelectric properties.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Solid State Materials Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Solid State Materials Laboratory"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/solid-state-materials-laboratory",
+  "slug": "solid-state-materials-laboratory"
+}

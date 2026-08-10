@@ -1,0 +1,22 @@
+{
+  "code": "BSL9110",
+  "name": "Introduction to Machine Learning",
+  "description": "Introduction to Machine intelligence and learning; linear learning models; Artificial Neural Networks: Single Layer Networks, LTUs, Capacity of a Single Layer LTU, Nonlinear Dichotomies, Multilayer Networks, Growth networks, Backpropagation and some variants; Support Vector Machines: Origin, Formulation of the L1 norm SVM, Solution methods (SMO, etc.), L2 norm SVM, Regression, Variants of the SVM; Complexity: Origin, Notion of the VC dimension, Derivation for an LTU, PAC learning, bounds, VC dimension for SVMS, Learning low complexity machines - Structural Risk Minimisation; Unsupervised learning: PCA, KPCA; Clustering: Origin, Exposition with some selected methods; Feature Selection: Origin, Filter and Wrapper methods, State of the art - FCBF, Relief, etc; Semi-supervised learning: introduction; Assignments/Short project on these topics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Machine Learning | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Machine Learning"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-machine-learning-0",
+  "slug": "introduction-machine-learning-0"
+}

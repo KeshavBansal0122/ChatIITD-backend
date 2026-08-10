@@ -1,0 +1,22 @@
+{
+  "code": "MTL3111",
+  "name": "Functional Analysis and Applications",
+  "description": "Review of Basic Concepts: Metric spaces and basic concepts. \nNormed and Inner Product Spaces: Normed linear spaces, Inner product spaces, Banach spaces, Hilbert spaces, Properties and examples, Geometric concepts in inner product spaces., Schauder basis and separability. \nBounded Operators: Bounded linear operators, Examples and properties, Bounded linear functionals, Dual spaces of some concrete Banach spaces, Weak convergence. \nClosed and Compact Operators: Closed operators, Compact operators, Examples, Some simple properties and applications. Fundamental Theorems in Functional Analysis: Hahn-Banach extension theorem, Applications of Hahn-Banach extension theorem, Uniform boundedness principle, Closed graph theorem, Open mapping theorem. \nHilbert Space Theory: Riesz representation theorem and some applications, Orthogonal complements, Projection theorem, Compact self-adjoint operators, Spectral theorem for compact self-adjoint operators.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Functional Analysis and Applications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Functional Analysis and Applications"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/functional-analysis-and-applications",
+  "slug": "functional-analysis-and-applications"
+}

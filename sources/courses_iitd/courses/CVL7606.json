@@ -1,0 +1,22 @@
+{
+  "code": "CVL7606",
+  "name": "Dynamics and Hazards in Rock Engineering",
+  "description": "Stress-strain behaviour of rocks: elastic, elastoplastic, and brittle, phenomena of rock fracture. Temperature, pressure and water effects on rock behaviour. Fluid flow through intact and fissured rocks. Time dependent behaviour of rocks: creep, viscoelasticity and Viscoplasticity, continuum, discontinuum, continuum-discontinuum in rocks. Geological waste disposal, radioactive and hazardous wastes, repositories, location and design. Waste container, barriers, rock structure, embedment, and seals. Performance assessment, quality control and monitoring. Case history. Hazardous earth processes, high ground stresses, rock bursts, subsidence. Karst formations. Landslides and rock falls, rock slope mitigation, case studies. Earthquakes, tectonics, creep, ground motions, damage. Volcanic activity. Case studies. Rock dynamics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CVL7601",
+  "overlap": null,
+  "learning_outcomes": [
+    "Dynamics and Hazards in Rock Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Dynamics and Hazards in Rock Engineering"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/dynamics-and-hazards-rock-engineering",
+  "slug": "dynamics-and-hazards-rock-engineering"
+}

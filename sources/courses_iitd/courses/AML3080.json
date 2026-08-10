@@ -1,0 +1,22 @@
+{
+  "code": "AML3080",
+  "name": "Dynamics of Mechanical Systems",
+  "description": "Introduction to mechanical systems and their dynamical behavior. Review of kinematics of particles and rigid bodies. Review of Newton-Euler mechanics: linear and angular momentum, kinetic energy, and balance laws. Degrees of freedom, generalized coordinates, holonomic and nonholonomic constraints. Principle of virtual work, workless constraints, and Lagrange multipliers. Equilibria and stability of conservative systems. D\u2019Alembert\u2019s principle and Lagrange\u2019s equations. Free and forced vibrations of single degree of freedom systems: undamped and damped. Vibration of two degree of freedom systems (free-undamped only): natural frequency and mode shape. Phase portraits and stability analysis of dynamical systems.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": "AML1000",
+  "overlap": null,
+  "learning_outcomes": [
+    "Dynamics of Mechanical Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Dynamics of Mechanical Systems"
+  ],
+  "department": "Advanced Dynamics",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/dynamics-mechanical-systems",
+  "slug": "dynamics-mechanical-systems"
+}

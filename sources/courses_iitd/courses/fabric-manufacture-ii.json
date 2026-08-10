@@ -1,0 +1,22 @@
+{
+  "code": "TXL3301",
+  "name": "Fabric Manufacture II",
+  "description": "Knitting: basic weft and warp knitted constructions, cams and needles, different weft and warp knitted structures and their properties, weft and warp knitting machines. Nonwovens: definitions and classifications, production technology, selection criteria and important properties of fibres used, different types of webs and bonding techniques, production and properties of needle punched, adhesive bonded, thermally bonded, hydroentangled, spun bonded, meltblown, electrospun fabrics. Braided structures: types of braiding processes, classification of braids, braid geometry, structure-property relationship, over braiding.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "TXL2301",
+  "overlap": null,
+  "learning_outcomes": [
+    "Fabric Manufacture II | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fabric Manufacture II"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fabric-manufacture-ii",
+  "slug": "fabric-manufacture-ii"
+}

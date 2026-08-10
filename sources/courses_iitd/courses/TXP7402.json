@@ -1,0 +1,22 @@
+{
+  "code": "TXP7402",
+  "name": "Analysis of Chemicals and Finished Textiles Lab",
+  "description": "Analysis of alkali mixture. Evaluation of the strength of hydrogen peroxide. Evaluation and standardization of dyes. Identification of dyes on the dyed substrate. Evaluation of textile auxiliary chemicals. Evaluation of ready-for-dyeing (RFD) textile substrate. Rheological studies on printing pastes. Analysis of water. Formaldehyde estimation. Evaluation of finished textiles.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Analysis of Chemicals and Finished Textiles Lab | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Analysis of Chemicals and Finished Textiles Lab"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/analysis-chemicals-and-finished-textiles-lab",
+  "slug": "analysis-chemicals-and-finished-textiles-lab"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "TXL7101",
+  "name": "Polymer and Fibre Physics",
+  "description": "Polymer properties required for fibre forming polymers, factors affecting the physical and chemical properties of fibres: chemical structure, molecular architecture and supramolecular morphology. Configuration/conformation; tacticity and stereoregular polymers, crystalline and amorphous regions, orientation, fibre structure models. Crystallization in polymers: factors affecting crystallization; crystallization temperature and kinetics; glass transition and melting temperature, viscoelasticity, viscoelastic models, dynamic mechanical properties, WLF equation and time temperature relationship. Behavior of polymer solutions, characterization techniques: density, thermal properties (DSC/TGA/DMA/TMA), FTIR, XRD, SEM, optical microscopy, birefringence, creep and flexural rigidity properties, mechanical, electrical, optical and moisture absorption properties of fibres.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL7101"
+}

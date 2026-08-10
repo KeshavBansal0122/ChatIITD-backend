@@ -1,0 +1,16 @@
+{
+  "code": "AML1000",
+  "name": "Engineering Mechanics",
+  "description": "Kinematics, axioms and force systems, rigid body dynamics, statics, and introduction to variational mechanics.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AML1000"
+}

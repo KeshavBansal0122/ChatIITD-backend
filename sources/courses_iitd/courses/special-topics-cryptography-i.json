@@ -1,0 +1,22 @@
+{
+  "code": "COL8170",
+  "name": "Special Topics in Cryptography I",
+  "description": "Special and advanced topics in the area of cryptography.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Special Topics in Cryptography I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Special Topics in Cryptography I"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/special-topics-cryptography-i",
+  "slug": "special-topics-cryptography-i"
+}

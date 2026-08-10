@@ -1,0 +1,22 @@
+{
+  "code": "MLL7214",
+  "name": "Imperfections in Materials and Applications",
+  "description": "Thermodynamics of point defects (vacancies and interstitials) in metals and ceramics, defect chemistry, diffusion, electronic properties and applications, geometrical aspects of dislocations, Volterra and atomistic models, stress fields and energy of dislocations, forces on dislocations, dislocation motion and slip, stacking faults and APBs, dislocations in FCC and BCC metals, strengthening of alloys via dislocations and its applications, thermodynamics of interfaces, Gibbs-Thompson effect, segregation, anisotropy of surface energy, equilibrium shape of crystals, geometry of grain boundaries, high and low angle boundaries, special and general boundaries, effect of grain boundary character on properties.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Imperfections in Materials and Applications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Imperfections in Materials and Applications"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/imperfections-materials-and-applications",
+  "slug": "imperfections-materials-and-applications"
+}

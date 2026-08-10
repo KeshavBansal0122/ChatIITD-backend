@@ -1,0 +1,16 @@
+{
+  "code": "CHL7314",
+  "name": "Structure and Properties of Polymers in Solutions",
+  "description": "Overview of polymer solution. Chain dimension: variation of chain dimension with concentration, solvency etc., scaling theory. Molecular weight distribution and its effect on properties of polymer solution. Polymer solution thermodynamics: Flory-Huggins equation and its development, phase separation. Polymer in good, theta and poor solution. Colligative properties of polymer solution. Flow phenomena in polymeric liquids. Material functions for polymeric liquids. General linear viscoelastic fluid: Rouse dynamics, Zimm dynamics. Hyperbranched polymer and its physical properties in various solutions. Dynamics of entangled polymers - polymer melt, chain reptation, tube model, chain length fluctuations. Polyelectrolytes, their characterization, and their use. Development of a product based on macromolecules.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CH",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CH#CHL7314"
+}

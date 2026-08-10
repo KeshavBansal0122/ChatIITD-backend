@@ -1,0 +1,22 @@
+{
+  "code": "COL2031",
+  "name": "Operating Systems",
+  "description": "Role of OS and the challenges it faces in fairly and securely managing computer resources, like CPU, memory, and storage, while maintaining high performance; hardware-software interfaces: ISAs, interrupt descriptor tables, page tables; abstractions: processes, threads, address spaces, file systems, pipes, locks, semaphores, condition variables, barriers; mechanisms: address translation, context switching; correctness: races, deadlocks, crash consistency, security and access control.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Operating Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Operating Systems"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/operating-systems",
+  "slug": "operating-systems"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "BML7070",
+  "name": "Molecular Bioengineering for Human Health",
+  "description": "To provide key integrated concepts in drug delivery, clinical microbiology and human health. Students will also learn about the latest advances, with focus on the gut-brain-microbiome axis, and their impact on human health. Broad topics: systems approach to physiology, membrane transport theory, understanding biological barriers in drug delivery - for example, microrobots for drug delivery, human gut microbiome, food-microbiota relationships, introduction to omics and data-in-a-vial (industry-oriented module).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Molecular Bioengineering for Human Health | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Molecular Bioengineering for Human Health"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/molecular-bioengineering-human-health",
+  "slug": "molecular-bioengineering-human-health"
+}

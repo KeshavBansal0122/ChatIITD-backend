@@ -1,0 +1,22 @@
+{
+  "code": "COL7524",
+  "name": "Advanced Networks",
+  "description": "Review classical internet architecture, modern internet architecture concepts, link virtualization, high-performance switching, software-defined networking (SDN), network function virtualization and middleboxes, programmable data plane, congestion control, modern applications: video streaming and video conferencing, data center networks (DCN): introduction, virtualization, topology, DCN routing and transport, network measurements, wireless networks, future directions.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(COL2034)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Networks | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Networks"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-networks-0",
+  "slug": "advanced-networks-0"
+}

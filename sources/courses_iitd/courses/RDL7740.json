@@ -1,0 +1,22 @@
+{
+  "code": "RDL7740",
+  "name": "Technology for Utilization of Wasteland and Weeds",
+  "description": "Wastelands: definition, types, extent, and need for reclamation; relationship with land degradation, natural and anthropogenic causes, climate change impacts, and soil capability classification. Soil formation, properties, fertility, types, and analysis. Disturbed soils: acidic, saline, alkaline, saline-alkaline; genesis, properties, and reclamation. Physical reclamation methods: watershed management, water harvesting, erosion control, and slope management. Bioremediation and phytoremediation, suitable plant species, adaptations, multipurpose trees, and biotechnology. Reclamation using plants for saline, sodic, mined, and waterlogged soils. Agroforestry: concepts, benefits, designs, policies, applications. Weeds for reclamation, crop residue valorisation. Wasteland\u2013poverty linkages, region-specific.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Technology for Utilization of Wasteland and Weeds | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Technology for Utilization of Wasteland and Weeds"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/technology-utilization-wasteland-and-weeds",
+  "slug": "technology-utilization-wasteland-and-weeds"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CVT7301",
+  "name": "Summer Internship CEC",
+  "description": "Students are engaged in real-world construction projects to observe and address practical challenges in project execution, technology integration, or site management. They develop problem-solving skills, analyze field data, and prepare a comprehensive technical report based on their observations and evaluations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVT7301"
+}

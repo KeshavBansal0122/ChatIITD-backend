@@ -1,0 +1,22 @@
+{
+  "code": "ELD8000",
+  "name": "MSR Research Project",
+  "description": "Formulation of the research problem, literature survey, identification of research gap, analytical modeling of the system, development of simulation model, design and fabrication of experimental setup (for experimental projects). Analysis and interpretation of results and verification of results with theory. Writing technical report, presentation and publication of results in form of thesis and presentation.",
+  "credits": 42.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 84.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "MSR Research Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "MSR Research Project"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/msr-research-project-0",
+  "slug": "msr-research-project-0"
+}

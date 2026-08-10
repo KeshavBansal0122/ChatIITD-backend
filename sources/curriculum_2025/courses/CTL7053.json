@@ -1,0 +1,16 @@
+{
+  "code": "CTL7053",
+  "name": "Fundamentals of EV Electronics",
+  "description": "Introduction to EV electronic system. Basic EV electronic system architecture. Block level design of EV electronics system. Gate-drive IC design. Control IC design. Protection feature integration.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CT#CTL7053"
+}

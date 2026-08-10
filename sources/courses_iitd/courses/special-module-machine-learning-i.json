@@ -1,0 +1,22 @@
+{
+  "code": "COV8378",
+  "name": "Special Module in Machine Learning I",
+  "description": "The module will focus on the recent developments and active research problems in machine learning. Topics will be updated regularly to reflect the latest trends and emerging interests in the field.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Special Module in Machine Learning I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Special Module in Machine Learning I"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/special-module-machine-learning-i",
+  "slug": "special-module-machine-learning-i"
+}

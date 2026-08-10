@@ -1,0 +1,16 @@
+{
+  "code": "COL7001",
+  "name": "Systems Concepts",
+  "description": "Fundamental concepts arising in computer architecture, operating systems, compilers, computer networks, parallel systems, distributed systems; requirements gathering, concepts of designing software systems, biases and ethics in software systems.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL7001"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ELL3601",
+  "name": "Renewable Grid Operation and Control",
+  "description": "Overview of interconnected power system operation, Load frequency control of power system, Optimal scheduling in power system: Unit commitment, Economic dispatch, Advanced power flow analysis, Power system security, State estimation, Optimal power flow (OPF and SCOPF), Security constrained unit commitment (SCUC), Renewable generation technologies (wind and solar) integration into the grid, Overview of power system restructuring \u2013 electricity markets and deregulation, Impact of renewable integration on aforementioned grid operations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL2600",
+  "overlap": null,
+  "learning_outcomes": [
+    "Renewable Grid Operation and Control | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Renewable Grid Operation and Control"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/renewable-grid-operation-and-control",
+  "slug": "renewable-grid-operation-and-control"
+}

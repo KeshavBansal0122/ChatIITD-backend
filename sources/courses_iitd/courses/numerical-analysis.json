@@ -1,0 +1,22 @@
+{
+  "code": "MTL5009",
+  "name": "Numerical Analysis",
+  "description": "Numerical algorithms and errors, floating point systems, roundoff error accumulations. Solution of nonlinear equations: fixed point iteration, bisection, secant, regula-falsi, Newton-Raphson methods. Interpolation: Lagrange interpolation, Newton\u2019s divided difference interpolation, finite differences, Hermite interpolation, cubic splines. Numerical differentiation. Numerical integration: Newton cotes formulas, Gaussian quadrature, composite quadrature formulas approximation: least squares approximation, minimum maximum error techniques. Legendre and Chebyshev polynomials. Solution of linear systems: direct methods, Gauss elimination, LU and Cholesky factorizations. Iterative methods \u2013 Jacobi, Gauss- Seidel and SOR methods. System of nonlinear equations, eigen-value problems: power and inverse power method. Numerical solution of IVPS for ODEs: Taylor series, Euler and Runge-Kutta methods.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Numerical Analysis | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Numerical Analysis"
+  ],
+  "department": "Numerical Analysis and Computation",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/numerical-analysis",
+  "slug": "numerical-analysis"
+}

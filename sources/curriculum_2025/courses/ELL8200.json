@@ -1,0 +1,16 @@
+{
+  "code": "ELL8200",
+  "name": "Selected Topics in Computing and Intelligent Systems",
+  "description": "Special topics that focus on advances in computer and intelligence systems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL8200"
+}

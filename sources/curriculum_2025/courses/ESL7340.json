@@ -1,0 +1,16 @@
+{
+  "code": "ESL7340",
+  "name": "Non-Conventional Sources of Energy",
+  "description": "Types of non-conventional sources of energy, solar PVs, solar thermal systems, bio-mass, hydropower, fusion, wind energy, geothermal, hydrogen, and tidal energy; performance parameters of energy sources and their impact on the environment; case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ES",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ES#ESL7340"
+}

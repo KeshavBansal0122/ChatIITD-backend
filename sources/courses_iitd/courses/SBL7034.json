@@ -1,0 +1,22 @@
+{
+  "code": "SBL7034",
+  "name": "Fundamentals of Medical Genomics",
+  "description": "History of genomics, overview of human genome structure and variation, introduction to precision medicine, GWAS to PheWAS, genomic technologies in clinical practice (NGS, liquid biopsy, CRISPR editing in therapeutics), variant classification, functional annotation of genetic variants, polygenic risk scores and disease prediction, genomics of rare and inherited diseases, cancer genomics, ethical, legal, and social implications for handling and sharing genomic data, applications of genomic medicine.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(SBL1100/SBL1102)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Fundamentals of Medical Genomics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fundamentals of Medical Genomics"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fundamentals-medical-genomics",
+  "slug": "fundamentals-medical-genomics"
+}

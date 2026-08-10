@@ -1,0 +1,16 @@
+{
+  "code": "HSL7500",
+  "name": "Critical Reading in Philosophical Texts",
+  "description": "This course trains PhD students in the close reading and interpretation of major philosophical texts. With a focus on conceptual clarity, argumentative structure, and interpretive nuance, it aims to develop the core competencies required for engaging with complex philosophical material. The specific readings and themes will be chosen by the instructor and may span historical or contemporary sources. Emphasis is placed on developing the skills of critical analysis, methodological reflection, and effective articulation of complex ideas through intensive textual engagement. The course also cultivates oral and written communication through seminar discussion, presentations, and structured argumentative writing.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL7500"
+}

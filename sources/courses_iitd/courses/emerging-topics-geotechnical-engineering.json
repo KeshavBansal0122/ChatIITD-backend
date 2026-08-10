@@ -1,0 +1,22 @@
+{
+  "code": "CVL8281",
+  "name": "Emerging Topics in Geotechnical Engineering",
+  "description": "This course evolves with the need for the hour focusing on the new and latest state-of-the-art developments in the field of the broad spectrum of geotechnical and geoenvironmental engineering. The course will also focus on new variations of geotechnical and geoenvironmental engineering in diverse forms that are being developed worldwide.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CVL7201CVL7202",
+  "overlap": null,
+  "learning_outcomes": [
+    "Emerging Topics in Geotechnical Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Emerging Topics in Geotechnical Engineering"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/emerging-topics-geotechnical-engineering",
+  "slug": "emerging-topics-geotechnical-engineering"
+}

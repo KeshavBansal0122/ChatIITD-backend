@@ -1,0 +1,22 @@
+{
+  "code": "ELL7425",
+  "name": "Digital Image Processing",
+  "description": "Introduction to 2-D Signals and Systems. Image Digitization. Image Transforms. Image Enhancement: Image Restoration: Inverse Filtering, Algebraic Approach to Restoration, Wiener (LMS) approach, Constrained Least Squares Restoration, Adaptive methods for restoration. Image Reconstruction: The Filtered Back- Projection Algorithm, Algebraic Reconstruction Method. Image Segmentation: Detection of Discontinuities, Edge Linking and Boundary Detection, Thresholding, Region-Oriented Segmentation. Object representation and description: Boundary descriptors, region descriptors, HOG and SIFT based features. Colour Image processing: colour models, colour transformations, and processing techniques",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL1205",
+  "overlap": null,
+  "learning_outcomes": [
+    "Digital Image Processing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Digital Image Processing"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/digital-image-processing",
+  "slug": "digital-image-processing"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MLL7113",
+  "name": "Advanced Polymer Characterization",
+  "description": "Molecular weight by end-group analysis, osmometry, light scattering, viscometry, size exclusion chromatography, mass spectrometry. FT-IR and NMR spectroscopic techniques. Thermal properties by differential scanning calorimetry (DSC), and thermogravimetry.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "()",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Polymer Characterization | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Polymer Characterization"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-polymer-characterization",
+  "slug": "advanced-polymer-characterization"
+}

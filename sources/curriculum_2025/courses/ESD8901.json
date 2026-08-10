@@ -1,0 +1,16 @@
+{
+  "code": "ESD8901",
+  "name": "Major Project Part-I (ESN)",
+  "description": "State-of-the-art problems related to energy and environmental domains.",
+  "credits": 6.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 12.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ES",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ES#ESD8901"
+}

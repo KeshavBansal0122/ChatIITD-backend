@@ -1,0 +1,16 @@
+{
+  "code": "ELL7311",
+  "name": "Microwave Theory and Techniques",
+  "description": "Review of EM theory: Vector Calculus, Maxwell\u2019s equations, planar waves in lossless and lossy media, polarization, reflection & refraction, energy and power; Transmission lines theory, distributed L-C model, propagation constant, reflection coefficient, lossy lines, ABCD parameters, distributed circuits, VSWR and other measurements, S-parameters and application to distributed circuits, Impedance matching and tuning; Rectangular metal waveguides (modes, fields, currents, loss, dispersion).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7311"
+}

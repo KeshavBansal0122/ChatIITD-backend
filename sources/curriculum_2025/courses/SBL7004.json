@@ -1,0 +1,16 @@
+{
+  "code": "SBL7004",
+  "name": "Human Virology",
+  "description": "Introduction, overview and history of medical virology; virus genetics and molecular methods in virology. Virus structure, classification, symmetries and replication; principles of viral pathogenesis, clearance and persistence; respiratory viruses -influenza, paramyxoviruses, SARS; viral gastroenteritis - causative agents, epidemiology; hepatitis viruses; infections in immunocompromised individuals, latency; enteroviruses \u2013 polio, ECHO, coxsackie viruses; congenital viral infections, prevention; retroviruses \u2013 HIV, AIDS; arboviruses, viral zoonoses \u2013 arthropod vectors, urban and sylvatic transmission cycles, rabies and viral haemorrhagic fevers; tumour viruses- oncogenic mechanisms of viruses; strategies for control of viral infection \u2013 active and passive immunoprophylaxis, antiviral agents; case studies from literature, evolving and emerging areas of interest.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBL7004"
+}

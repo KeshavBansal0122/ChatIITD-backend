@@ -1,0 +1,22 @@
+{
+  "code": "OPL7777",
+  "name": "Statistical Methods for Science and Engineering",
+  "description": "This course builds a rigorous, intuition-driven foundation in probability and statistical inference with a focus on problems from physics and engineering. Starting from core probability principles (counting, conditional probability, Bayes\u2019 rule, independence), students develop fluency with key random-variable models (Gaussian, Poisson, exponential, binomial, and related families) and the tools to analyze uncertainty (expectation, variance, covariance, conditioning, transforms). The course then connects these ideas to real engineering and physical systems: measurement and calibration, error propagation, hypothesis testing, parameter estimation (MLE, MAP), confidence intervals, regression and least squares, model checking, and experimental design. Emphasis is placed on stochastic thinking for noise and dynamics (random walks, Markov chains, Poisson processes, basic time series), and Monte Carlo simulation. Around six to eight classes at the end of the course will be dedicated to data analysis from real world experiments. By the end, students can build and validate probabilistic models, quantify uncertainty in experiments and designs, and make principled data-driven decisions under noise and limited information.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Statistical Methods for Science and Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Statistical Methods for Science and Engineering"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/statistical-methods-science-and-engineering",
+  "slug": "statistical-methods-science-and-engineering"
+}

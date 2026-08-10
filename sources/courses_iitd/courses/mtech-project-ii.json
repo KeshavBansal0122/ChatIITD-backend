@@ -1,0 +1,22 @@
+{
+  "code": "COD8093",
+  "name": "M.Tech. Project II",
+  "description": "Execution of a significant research or development problem in computer science. Design, implement, and evaluate a solution, conduct experiments or analysis, and interpret the results. Emphasis is placed on technical rigor, originality, and effective communication through a detailed report and oral presentation.",
+  "credits": 12.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 24.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "M.Tech. Project II | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "M.Tech. Project II"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mtech-project-ii",
+  "slug": "mtech-project-ii"
+}

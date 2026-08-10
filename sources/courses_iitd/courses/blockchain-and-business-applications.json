@@ -1,0 +1,22 @@
+{
+  "code": "MSL7336",
+  "name": "Blockchain and Business Applications",
+  "description": "In recent years, blockchain has gained a lot of popularity because of its ability to instigate transformation and innovation in existing business models and frameworks. Due to this, the application of blockchain in different domains like, healthcare, education, human resource, finance, etc. have attracted increasing interest from management academicians and practitioners. As the applications of blockchain in the management domain is gaining momentum, it is important for management students to understand, explore and analyse the different avenues of blockchain use and its potential in this present era.\nMajor Contents:\nIntroduction to Blockchain\nUnderstanding how Blockchain works\nGetting an overview of bitcoin and ethereum\nApplications of Blockchain in different domains (Education, Healthcare, Marketing, Human\nResource, Supply chain, Agriculture)",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Blockchain and Business Applications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Blockchain and Business Applications"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/blockchain-and-business-applications",
+  "slug": "blockchain-and-business-applications"
+}

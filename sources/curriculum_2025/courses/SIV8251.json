@@ -1,0 +1,16 @@
+{
+  "code": "SIV8251",
+  "name": "Special Module on eGovernance",
+  "description": "The course will expose students to recent developments in different aspects of e-governance. Specific coverage will vary with each offering, and may focus on some particular aspects of e-governance and related issues, and accordingly may include appropriate project work or case studies as per the emphasis laid out in that offering.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SI",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SI#SIV8251"
+}

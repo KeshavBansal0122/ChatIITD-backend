@@ -1,0 +1,22 @@
+{
+  "code": "TXL7556",
+  "name": "Quality and Process Control in Textiles",
+  "description": "Process and quality control basics, quality management, cost of quality, statistical process control, six sigma and process capability; bale management, process and quality control at various stages of yarn manufacturing (blowroom, carding, drawing, roving and spinning); process and quality control in weaving preparatory processes (winding, warping and sizing); process and quality control in weaving, knitting and nonwoven; fabric defect analysis; applications of AI-ML in textile process and quality control.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "TXL2301",
+  "overlap": null,
+  "learning_outcomes": [
+    "Quality and Process Control in Textiles | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Quality and Process Control in Textiles"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/quality-and-process-control-textiles",
+  "slug": "quality-and-process-control-textiles"
+}

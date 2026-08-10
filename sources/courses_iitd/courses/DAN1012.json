@@ -1,0 +1,22 @@
+{
+  "code": "DAN1012",
+  "name": "Reading STEM Literature",
+  "description": "The general idea of this class is to build on a theme that holds specific interest for STEM students. In this class, students will explore writings by authors from STEM backgrounds; however, only non-technical writings that are accessible to all readers will be considered. These readings will include fiction, creative and argumentative nonfiction, and life writings. The goal is to enhance students\u2019 English proficiency by exposing them to the thought processes and literary contributions of authors from STEM backgrounds. As such, the main focus of the course will be on grammar and enhancing communication skills relevant to academic and professional contexts. Each set of classes will begin with a different reading, followed by a brief discussion of the literary aspects and themes of the reading. These discussions, designed to hone critical thinking, will help foster an appreciation for the literary and rhetorical aspects of these writings. The bulk of the class, however, will be dedicated towards activities focused on grammar and LSRW (listening, speaking, reading, writing) that will be derived from the readings themselves.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Reading STEM Literature | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Reading STEM Literature"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/reading-stem-literature",
+  "slug": "reading-stem-literature"
+}

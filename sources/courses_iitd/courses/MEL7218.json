@@ -1,0 +1,22 @@
+{
+  "code": "MEL7218",
+  "name": "Engineering Acoustics",
+  "description": "Acoustic wave equation; sound propagation, absorption, reflection and transmission; acoustical transmission lines and filters; analysis of mufflers using transmission matrices; acoustics of cavities; acoustic modes; modal density; frequency response; response via modal analysis; structural-acoustic cavities; weakly-coupled cavities; strongly-coupled cavities; coupled modes; finite element analysis of interior acoustic problems; acoustic finite elements; coupling analysis; panel contribution analysis; sound radiation from structures; infinite plates; finite plates; radiation efficiency; Rayleigh integral; finite element analysis of sound radiation problems; concept of radiation modes; basic idea of boundary element method and its application for interior and radiation problems in acoustics; aerodynamic noise; inhomogeneous wave equation; Lighthill\u2019s acoustic analogy; introduction to statistical energy analysis.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Engineering Acoustics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Engineering Acoustics"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/engineering-acoustics",
+  "slug": "engineering-acoustics"
+}

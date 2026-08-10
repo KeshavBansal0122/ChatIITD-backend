@@ -1,0 +1,16 @@
+{
+  "code": "MTL7744",
+  "name": "Applied Harmonic Analysis",
+  "description": "Basics of Fourier series and Fourier transform, Poisson summation formula, Shannon-sampling theorem, Heisenberg uncertainty principle. Short-time Fourier transform(STFT), orthogonality relations and inversion formula of STFT, Lieb's uncertainty principle, Bargmann transform. Bessel sequences and Riesz bases in Hilbert spaces, frames in a Hilbert space, frame operator, characterizations of frames, frame series and its convergence. Frames of translates and its characterization, Gabor frames, existence of Gabor frames, Zak transform, Gabor systems at the critical density, Balian-low theorem, continuous wavelet transfrom and inversion, wavelet frames.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTL7744"
+}

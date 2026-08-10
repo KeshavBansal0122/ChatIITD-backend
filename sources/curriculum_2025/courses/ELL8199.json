@@ -1,0 +1,16 @@
+{
+  "code": "ELL8199",
+  "name": "Special Topics in Systems and Control",
+  "description": "To be decided by the instructor when floating this course: it can be anything that is related to systems and control engineering, but is not covered in any of the established courses.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL8199"
+}

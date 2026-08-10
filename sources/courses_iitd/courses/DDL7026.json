@@ -1,0 +1,22 @@
+{
+  "code": "DDL7026",
+  "name": "Applied Behavioural Design",
+  "description": "This course will cover the conceptual aspects related to behaviours in design and designing behaviours, theories of human behaviour, theories of design for behaviour change will be covered. Short discussion on ethical aspects related to behaviour change. Through a real-life project students will practice behavioural design by identification/specification of human behaviours, selecting the most effective behaviour for change, strategies/frameworks to bring about the behaviour change, strategies/frameworks to design artefacts to change the behaviour, detailing the life cycle related behaviours for the artefact.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Applied Behavioural Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Applied Behavioural Design"
+  ],
+  "department": "Behavioural Design",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/applied-behavioural-design",
+  "slug": "applied-behavioural-design"
+}

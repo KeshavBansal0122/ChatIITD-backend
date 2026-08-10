@@ -1,0 +1,16 @@
+{
+  "code": "SBL5040",
+  "name": "Experimental Methods in Biology",
+  "description": "Lecture: introduction to biomolecules and cells; electrophoresis, DNA fingerprinting and EMSA; basics of microscopy; optical spectroscopy \u2013 Raman, IR, fluorescence, UV-VIS; FCS; electron microscopy; NMR; circular dichroism; force spectroscopy \u2013 AFM, optical tweezers, magnetic tweezers; surface plasmon resonance, mass spectrometry, chromatography, xray crystallography, flow-cytometry, recent advances in biophysical techniques. Laboratory: separation of nucleic acid and proteins on agarose and polyacrylamide gel electrophoresis, respectively; difference between native and SDS-PAGE; Ni-NTA chromatography; cell mobility under microscope; protein purity and secondary structure assessment using CD spectroscopy; crystal formation and visualization of a protein using x-ray crystallography; Raman spectroscopy.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBL5040"
+}

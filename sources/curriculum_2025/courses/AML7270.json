@@ -1,0 +1,16 @@
+{
+  "code": "AML7270",
+  "name": "Fatigue Failure and Design",
+  "description": "Historical overview; fatigue design philosophies; stress-life approach: SN diagram, mean stress effects, notches; strain-life approach: hysteresis loop, Bauschinger effect, shakedown, ratcheting, energy methods, Neuber\u2019s rule; damage-tolerance approach: introduction to fracture, crack tip plasticity, fracture toughness, crack growth stages, crack closure, small fatigue cracks; physics of fatigue: imperfections in crystalline solids, slip bands, intrusions/extrusions, crack initiation, microstructure effects; residual stresses: origin, measurement methods, relationship with fatigue; fatigue under variable amplitude loading: load spectrums, linear and nonlinear cumulative damage models, load interaction and sequence effects, rainflow method, life estimation; Multiaxial fatigue: multiaxial stress state, proportional and nonproportional loading, yielding and plasticity in multiaxial fatigue, stress-, strain- and energy-based approaches, critical plane approach; environmental effects: corrosion, fretting, thermomechanical damage; statistical aspects of fatigue.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AML7270"
+}

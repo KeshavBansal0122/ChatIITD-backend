@@ -1,0 +1,22 @@
+{
+  "code": "AML7410",
+  "name": "Physics of Turbulent Flows",
+  "description": "Introduction, nature of turbulence, methods of analysis, scales of turbulent flows. Reynolds decomposition and the closure problem, estimates of the Reynolds stress, comparison with the kinetic theory of gases. Dynamics of turbulence, balance of kinetic energy, vorticity dynamics, scalar fluctuations. Free shear flows: jets, wakes and mixing layers. Wall bounded flows: channel and pipe flows, boundary layers. Richardson\u2019s energy cascade, Kolmogorov hypotheses, probability density function, characteristic function and moments; structure and correlation functions; energy spectra, intermittency, turbulent transport and dissipation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(AML2020)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Physics of Turbulent Flows | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Physics of Turbulent Flows"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/physics-turbulent-flows",
+  "slug": "physics-turbulent-flows"
+}

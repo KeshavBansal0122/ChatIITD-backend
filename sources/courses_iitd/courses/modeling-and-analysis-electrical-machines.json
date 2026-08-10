@@ -1,0 +1,22 @@
+{
+  "code": "ELL7500",
+  "name": "Modeling and Analysis of Electrical Machines",
+  "description": "Modeling of LTI systems, basic concepts of electromechanical energy conversion, construction of different electric machines, properties of permanent magnet and its application in electric machines, generalized theory and modeling of electrical machines, steady-state and transient modelling of electrical machines- transformers, DC machines, squirrel cage induction machine, wound field synchronous machine, permanent magnet synchronous machine, special machines such as BLDC, synchronous reluctance machine, switched reluctance machine etc. Introduction to applications of studied electrical machines in electric traction like road vehicles, railways, ships, drones; in motion control like processing industry; in precision equipment like bearingless motors.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Modeling and Analysis of Electrical Machines | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Modeling and Analysis of Electrical Machines"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/modeling-and-analysis-electrical-machines",
+  "slug": "modeling-and-analysis-electrical-machines"
+}

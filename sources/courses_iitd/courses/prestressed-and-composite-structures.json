@@ -1,0 +1,22 @@
+{
+  "code": "CVL7468",
+  "name": "Prestressed and Composite Structures",
+  "description": "Introduction; need, advantages, and disadvantages; high strength materials; pretensioning and post-tensioning methods; prestressing methods; prestressing systems and devices; camber, deflections, and cable profiles/ layouts; load-balancing; codes and standards; prestressed concrete members - flexure, shear, torsion behaviors; design methods and code provisions; strain compatibility method; pressure/ thrust line; pretensioning; grouted/ bonded and ungrouted/ unbonded post-tensioning; partial prestressing; bursting stresses; anchorage zone (end block design); transmission and transfer length; de-bonding and draping of prestressing tendons; camber, deflection, and ductility; external prestressing; de-compression; losses in prestress; bearing and bond stresses; case studies of prestressed concrete bridge design and practices. Need of composite construction; analysis of indeterminate and composite structures; design methods for composite beams, slabs, columns, boxgirders, shear studs etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Prestressed and Composite Structures | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Prestressed and Composite Structures"
+  ],
+  "department": "Theory of Concrete Structures",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/prestressed-and-composite-structures",
+  "slug": "prestressed-and-composite-structures"
+}

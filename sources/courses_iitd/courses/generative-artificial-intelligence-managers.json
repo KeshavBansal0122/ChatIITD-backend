@@ -1,0 +1,22 @@
+{
+  "code": "MSL7317",
+  "name": "Generative Artificial Intelligence for Managers",
+  "description": "Overview to large language models and their architecture, Applications of Decoder / Encoder architectures, Data Governance for Generative AI applications, Industrial Applications of Generative AI, Industrial Applications of Agentic Systems",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Generative Artificial Intelligence for Managers | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Generative Artificial Intelligence for Managers"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/generative-artificial-intelligence-managers",
+  "slug": "generative-artificial-intelligence-managers"
+}

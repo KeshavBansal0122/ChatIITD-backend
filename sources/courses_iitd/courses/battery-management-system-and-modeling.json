@@ -1,0 +1,22 @@
+{
+  "code": "CHL7409",
+  "name": "Battery Management System and Modeling",
+  "description": "Introduction to battery management systems (BMS) and their functionalities; fundamentals and working principles of lithium-ion batteries; battery modeling using equivalent-circuit and electrochemical approaches; electrochemical-thermal modeling of batteries; development and application of reduced-order models (ROMs); theoretical frameworks for state-of-charge (SOC) and state-of-health (SOH) estimation; and practical applications of state and health estimation techniques in BMS.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Battery Management System and Modeling | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Battery Management System and Modeling"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/battery-management-system-and-modeling",
+  "slug": "battery-management-system-and-modeling"
+}

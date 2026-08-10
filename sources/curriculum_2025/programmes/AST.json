@@ -1,0 +1,474 @@
+{
+  "code": "AST",
+  "name": "M.Tech. in Atmospheric-Oceanic Science and Technology",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=AST",
+  "credit_requirements": [
+    {
+      "category": "GE",
+      "label": "General Engineering",
+      "credits_or_units": 3.0,
+      "kind": "graded"
+    },
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 38.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Students will be able to apply fundamental understanding of our climate system and appreciate how climate change impacts humanity."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Students will be able to analyze problems, formulate strategy and develop appropriate methods to develop solutions with a focus on climate crisis."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Students will be able to apply their knowledge and technical skills ethically and responsibly for problem solving for the society."
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "Students will develop ability to work effectively as an individual or as a team member and as a leader in this field and contribute to the growth of government organizations, public and private sectors."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "ASD7100",
+        "title": "Cornerstone Project (MTech in Atmospheric-Oceanic Science and Technology)",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ASD8100",
+        "title": "Summer Internship/Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ASD8810",
+        "title": "Project I",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "ASL7320",
+        "title": "Mathematical and Computational Methods for Atmospheric and Oceanic Sciences",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ASL7330",
+        "title": "Physics of the Atmosphere",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ASL7340",
+        "title": "Dynamics of the Atmosphere",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ASL7350",
+        "title": "Atmospheric Chemistry and Air Pollution",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ASL7360",
+        "title": "Science of Climate Change",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ASL7370",
+        "title": "Physical and Dynamical Oceanography",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ASL7380",
+        "title": "Numerical Modeling of the Atmosphere and Ocean",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ASL7980",
+        "title": "Climate Science Communication",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "ASL7990",
+        "title": "Climate Science Communication and Research Ethics",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "ASN7770",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ASP7310",
+        "title": "Data Analysis Methods for Atmospheric and Oceanic Sciences",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ASP8200",
+        "title": "Advanced Data Analysis for Weather and Climate",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      }
+    ],
+    "DE": [
+      {
+        "course_code": "ASL7500",
+        "title": "Boundary Layer Meteorology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ASL7530",
+        "title": "Atmospheric Aerosols",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ASL7540",
+        "title": "Cloud Physics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ASL7550",
+        "title": "Remote Sensing of Atmosphere and Ocean",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ASL7570",
+        "title": "Tropical Weather and Climate",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ASL7620",
+        "title": "Air-Sea Interaction",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ASL7650",
+        "title": "Impacts of Climate Change and Air Pollution on Human Health",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ASL8510",
+        "title": "Special Topics in Climate",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ASL8540",
+        "title": "Special Topics in Air Pollution Studies",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "ASP7310",
+        "title": "Data Analysis Methods for Atmospheric and Oceanic Sciences",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ASL7320",
+        "title": "Mathematical and Computational Methods for Atmospheric and Oceanic Sciences",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ASL7330",
+        "title": "Physics of the Atmosphere",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ASL7340",
+        "title": "Dynamics of the Atmosphere",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ASL7370",
+        "title": "Physical and Dynamical Oceanography",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ASN7770",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "Data Analysis Methods for Atmospheric and Oceanic Sciences",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 3.0
+      },
+      {
+        "basket": "nd Computational Methods for Atmospheric and Oceanic Sciences",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "ASD7100",
+        "title": "Cornerstone Project (MTech in Atmospheric-Oceanic Science and Technology)",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ASL7350",
+        "title": "Atmospheric Chemistry and Air Pollution",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ASL7360",
+        "title": "Science of Climate Change",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ASL7380",
+        "title": "Numerical Modeling of the Atmosphere and Ocean",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ASN7770",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "Project (MTech in Atmospheric-Oceanic Science and Technology)",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "ASD8810",
+        "title": "Project I",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 12.0
+        },
+        "credits": 6.0
+      },
+      {
+        "course_code": "ASL7980",
+        "title": "Climate Science Communication",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "ASN7770",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "ASN7770",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "AST \u2013 M.Tech. in Atmospheric-Oceanic Science and Technology\nM.Tech. in Atmospheric-Oceanic Science and Technology\nAtmospheric Sciences, Centre for\nProgramme Code: AST\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n38\nPE (Programme Elective)\n18\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n62\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nStudents will be able to apply fundamental understanding of our climate system and appreciate how climate change impacts humanity.\nPLO 2\nStudents will be able to analyze problems, formulate strategy and develop appropriate methods to develop solutions with a focus on climate crisis.\nPLO 3\nStudents will be able to apply their knowledge and technical skills ethically and responsibly for problem solving for the society.\nPLO 4\nStudents will develop ability to work effectively as an individual or as a team member and as a leader in this field and contribute to the growth of government organizations, public and private sectors.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nASD7100 Cornerstone Project (MTech in Atmospheric-Oceanic Science and Technology) 0 0 6 3\nASD8100 Summer Internship/Minor Project 0 0 6 3\nASD8810 Project I \u2013 \u2013 \u2013 \u2013\nASL7320 Mathematical and Computational Methods for Atmospheric and Oceanic Sciences 2 0 2 3\nASL7330 Physics of the Atmosphere 3 0 0 3\nASL7340 Dynamics of the Atmosphere 3 0 0 3\nASL7350 Atmospheric Chemistry and Air Pollution 3 0 0 3\nASL7360 Science of Climate Change 3 0 0 3\nASL7370 Physical and Dynamical Oceanography 3 0 0 3\nASL7380 Numerical Modeling of the Atmosphere and Ocean 2 0 2 3\nASL7980 Climate Science Communication 1 0 0 1\nASL7990 Climate Science Communication and Research Ethics \u2013 \u2013 \u2013 \u2013\nASN7770 Teaching and Research Practicum 0 0 8 4\nASP7310 Data Analysis Methods for Atmospheric and Oceanic Sciences 1 0 4 3\nASP8200 Advanced Data Analysis for Weather and Climate 1 0 4 3\nDepartmental Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nASL7500 Boundary Layer Meteorology 3 0 0 3\nASL7530 Atmospheric Aerosols 3 0 0 3\nASL7540 Cloud Physics 3 0 0 3\nASL7550 Remote Sensing of Atmosphere and Ocean 3 0 0 3\nASL7570 Tropical Weather and Climate 3 0 0 3\nASL7620 Air-Sea Interaction 3 0 0 3\nASL7650 Impacts of Climate Change and Air Pollution on Human Health 3 0 0 3\nASL8510 Special Topics in Climate 3 0 0 3\nASL8540 Special Topics in Air Pollution Studies 3 0 0 3\nSemester-wise Schedule\nSem\nCourses &amp; Baskets\nHrs /\nweek\nNGU\nCredits"
+}

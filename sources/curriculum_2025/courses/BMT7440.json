@@ -1,0 +1,16 @@
+{
+  "code": "BMT7440",
+  "name": "Clinical/Industrial Immersion",
+  "description": "The clinical/industrial immersion course exposes students to hands-on training provided through dedicated research projects. The students can also embark on their entrepreneurial journey with prototype development. Research into translational projects is encouraged.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BM#BMT7440"
+}

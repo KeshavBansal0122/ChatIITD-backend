@@ -1,0 +1,22 @@
+{
+  "code": "MLN7001",
+  "name": "Research Practicum (M.Tech. Materials Science and Engineering)",
+  "description": "Developing a research plan, executing the assigned research tasks for the semester, submitting a detailed research report, and presenting the research findings.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Research Practicum (M.Tech. Materials Science and Engineering) | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Research Practicum (M.Tech. Materials Science and Engineering)"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/research-practicum-mtech-materials-science-and-engineering",
+  "slug": "research-practicum-mtech-materials-science-and-engineering"
+}

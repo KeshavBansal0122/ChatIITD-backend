@@ -1,0 +1,22 @@
+{
+  "code": "MSL7711",
+  "name": "Strategic Leadership",
+  "description": "This course contains the following topics:\nOverview, Need, Leadership skills, and challenges\nEntrepreneurial Leadership\nVisionary Leadership\nTransactional vs Transformational Leadership\nSituational Women\u2019s Leadership\nEthics and value-based Leadership",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(MSL7701) &(MSL7702)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Strategic Leadership | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Strategic Leadership"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/strategic-leadership",
+  "slug": "strategic-leadership"
+}

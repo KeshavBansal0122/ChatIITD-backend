@@ -1,0 +1,22 @@
+{
+  "code": "MLL3012",
+  "name": "Polymer Matrix Composites",
+  "description": "The course will cover definition and classification of composites, nature of interface, nature of polymer matrices, different types of reinforcements, basic theoretical models to predict mechanical properties and the role of distribution, dispersion etc., on the performance properties of polymer-based composites.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(MLL2003)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Polymer Matrix Composites | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Polymer Matrix Composites"
+  ],
+  "department": "Polymer Blends and Composites",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/polymer-matrix-composites",
+  "slug": "polymer-matrix-composites"
+}

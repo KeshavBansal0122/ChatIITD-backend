@@ -1,0 +1,16 @@
+{
+  "code": "ASL7320",
+  "name": "Mathematical and Computational Methods for Atmospheric and Oceanic Sciences",
+  "description": "Elements of FORTRAN programming; initial and boundary value problems; second order ordinary differential equations, variation of parameters, orthogonal functions; partial differential equations and their classification, method of separation of variables; Euler and Runge-Kutta methods for ODE; spatial and temporal finite differencing schemes of various orders, comparison with exact solutions, accuracy and numerical stability, limitation of finite difference methods; numerical solution of linear advection equation, advection\u2010diffusion equation, and shallow water equation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AS#ASL7320"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CHL7501",
+  "name": "Introduction to Complex Fluids",
+  "description": "Overview of complex fluids: forces, energies, responses, and timescales in complex fluids. Types of complex fluids: colloidal dispersions, polymers, gels, liquid crystals, polymer crystals, granular materials, biomolecules. Underlying microstructure and the intermolecular interactions in complex fluids and their relation to the material properties in static and flow situations. Characterization of structure-property relationships in complex fluids. Experimental techniques used in soft matter research.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL2002",
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Complex Fluids | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Complex Fluids"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-complex-fluids",
+  "slug": "introduction-complex-fluids"
+}

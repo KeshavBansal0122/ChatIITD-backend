@@ -1,0 +1,22 @@
+{
+  "code": "CHL3007",
+  "name": "Process Technology and Economics",
+  "description": "Introduction to process flowsheet, equipment symbols, and sections of a chemical plant. Use of software for process design and simulation. Introduction to piping and instrumentation diagrams. Process synthesis and process flow diagrams of chemical plants (gas-liquid, liquid-solid, gas-liquid-solid handling plants). Fertilizer technology: manufacture of fertilizers including naphtha reforming, air separation, and green ammonia synthesis technology. Utilities and safety issues in fertilizer plants. Chlor-alkali and sulfuric acid manufacturing. Refining and petrochemical technology: crude occurrence, properties, distillation, refinery processes and technology, petrochemical technologies. Green technology and processes. Waste-to-wealth industries. Semiconductor chip manufacturing. Food technology. Safety and hazard analysis, and debottlenecking of chemical plants. Process engineering economics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Process Technology and Economics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Process Technology and Economics"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/process-technology-and-economics",
+  "slug": "process-technology-and-economics"
+}

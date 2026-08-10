@@ -1,0 +1,22 @@
+{
+  "code": "AML2050",
+  "name": "Applied Mathematics for Engineers",
+  "description": "Analytical solution methods for ordinary differential equations; constructing ordinary and partial differential equations using conservation laws in mechanics; probability theory; solution of partial differential equations; separation of variable method; Fourier and Laplace transform.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "MTL1001&MTL1002",
+  "overlap": null,
+  "learning_outcomes": [
+    "Applied Mathematics for Engineers | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Applied Mathematics for Engineers"
+  ],
+  "department": "Engineering Mathematics and Numerical Methods",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/applied-mathematics-engineers",
+  "slug": "applied-mathematics-engineers"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CRL7056",
+  "name": "Large Scale Optimization",
+  "description": "Introduction to large scale optimization \u2013 optimization problems, types and constraints. Optimality conditions \u2013 optimality conditions for different type of optimization problems, gradient based methods \u2013 gradient and subgradient method, conjugate gradient method, proximal gradient method and stochastic gradient method, decomposition and splitting methods \u2013 splitting and ADMM, primal dual problems, augmented Lagrangian method, non-smooth optimization \u2013 LASSO, nuclear norm regularizers, and algorithms for non-smooth optimization, interior point and min-max optimization - Danskin\u2019s theorem, gradient descent-ascent algorithm, proximal-type methods, primal-dual interior-point methods, applications \u2013 implementation aspects and application to signal and image processing, and portfolio optimization.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Large Scale Optimization | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Large Scale Optimization"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/large-scale-optimization",
+  "slug": "large-scale-optimization"
+}

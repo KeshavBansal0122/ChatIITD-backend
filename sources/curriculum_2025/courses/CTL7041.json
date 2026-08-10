@@ -1,0 +1,16 @@
+{
+  "code": "CTL7041",
+  "name": "Advanced Motors for Electric Mobility",
+  "description": "Review of standard EV motors and their limitations, motivation to develop advanced EV motors, configurations of different advanced motors (for example five-phase or six-phase induction and permanent magnet motors, stator PM machines, PM vernier machines), sizing procedures, winding design and analysis of advanced motors, control techniques and performance analysis of advanced EV motors and drives in motoring and regenerative braking mode.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CT#CTL7041"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "JGL5001",
+  "name": "The Biological Basis of Brain and Cognitive Function",
+  "description": "The course integrates molecular, cellular, and systems neuroscience to provide a comprehensive biological framework for understanding cognition. Topics include evolution of the nervous system, neuronal cell architecture, membrane biophysics, ion channels and electrical signaling, synaptic transmission and plasticity, neural circuits and sensory perception, molecular basis of memory and behavior and introduction to neurological disorders. Students will learn how perception and behavior emerge from neuronal circuits and will be introduced to basic electrophysiology, neural signals, and computational Neuroscience. Finally, a comparative discussion between AI, sentient AI and biological intelligence will be introduced.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "The Biological Basis of Brain and Cognitive Function | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "The Biological Basis of Brain and Cognitive Function"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/biological-basis-brain-and-cognitive-function",
+  "slug": "biological-basis-brain-and-cognitive-function"
+}

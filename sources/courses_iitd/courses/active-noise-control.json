@@ -1,0 +1,22 @@
+{
+  "code": "MEL7219",
+  "name": "Active Noise Control",
+  "description": "Acoustic wave equation; plane and spherical waves; reflection and transmission; passive control measures and their limitations; Fourier series; Fourier integral; Laplace transform; optimal filtering; z-transform; FIR and IIR filters; active control in 1D ducts; mechanisms of cancellation; single channel feedforward control of sound; LMS algorithm; reference signals; FxLMS algorithm; identification of secondary paths; active control of free field sound radiation; single channel feedback control; global control of enclosed 3D sound fields; local control of enclosed 3D sound fields; Multichannel feedforward control; applications of active noise control; active headsets; automotive and aerospace applications implementation of an experimental active noise control system; active control of sound in vibro-acoustic cavities; active structural-acoustic control (ASAC).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Active Noise Control | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Active Noise Control"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/active-noise-control",
+  "slug": "active-noise-control"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CVL7205",
+  "name": "Soil Dynamics and Earthquake Geotechnical Engineering",
+  "description": "Engineering problems involving soil dynamics; role of inertia; theory of vibrations: single and two-degrees of freedom discrete systems, vibration measuring nstruments, vibration absorption and isolation techniques; measurement of small strain and large strain dynamic soil properties: field and laboratory tests; selection of design values; wave propagation: elastic continuum medium and semi-infinite elastic continuum medium; machine foundations: design criteria for machine foundations, elastic homogeneous half space solutions, lumped parameter solutions, codal provisions, strong ground motion: measurement, characterization and estimation; magnitude versus intensity; amplification theory, and ground/ seismic site response analysis; introduction to DEEPSOIL, cyclic1D etc. Liquefaction of soils: evaluation using simple methods and mitigation measures; seismic slope stability analysis \u2013 Newmark\u2019s sliding block analysis \u2013 displacement-based approach; seismic earth pressures theories, seismic bearing capacity and codal provisions. Recent developments in geotechnical earthquake Engg. LRFD design methodologies, reliability and Performancebased design aspects of geotechnical structures.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7205"
+}

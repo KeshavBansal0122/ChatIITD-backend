@@ -1,0 +1,16 @@
+{
+  "code": "PYL5060",
+  "name": "Applied Optics",
+  "description": "Electromagnetic waves in a medium: review of Maxwell\u2019s equations and propagation of electromagnetic waves, various states of polarization and their analysis. Anisotropic media, plane waves in anisotropic media, uniaxial crystals, some polarization devices. Diffraction: scalar waves, the diffraction integral, Fresnel and Fraunhofer diffraction, diffraction of a Gaussian beam, diffraction grating. Fourier optics and holography: spatial frequency and transmittance function, Fourier transform by diffraction and by lens, spatial-frequency filtering, phase-contrast microscope. Holography: on-axis and off-axis hologram recording and reconstruction, some applications. Coherence and interferometry: spatial and temporal coherence, fringe visibility, Michelson stellar interferometer, optical beats, multiple beam interference. Optical resonators and lasers: stability condition for optical resonators, lasers and its applications, guided wave optics: modes of a planar waveguide, optical fibers: step-index and graded index fibers, waveguide theory and quantum mechanics, applications of optical fibers in communication and sensing.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL5060"
+}

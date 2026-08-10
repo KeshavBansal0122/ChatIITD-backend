@@ -1,0 +1,22 @@
+{
+  "code": "AIL7001",
+  "name": "Mathematical Foundations of MINDS",
+  "description": "Vector space, dimension, basis, linear map, rank and nullity, system of linear equations, eigenvalues, diagonalization, inner product space, orthonormal basis, Gram Schimdt process, adjoint operator, SVD. Probability, Bayes theorem, pdf and cdf, some discrete and continuous distributions, moment generating function, concentration inequalities. Convex set, convex function and its properties, nonlinear programming, KKT optimality, Lagrange function, Lagrange dual, steepest descent method for unconstrained problem, stochastic gradient descent.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Mathematical Foundations of MINDS | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mathematical Foundations of MINDS"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mathematical-foundations-minds",
+  "slug": "mathematical-foundations-minds"
+}

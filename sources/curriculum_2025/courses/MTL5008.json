@@ -1,0 +1,16 @@
+{
+  "code": "MTL5008",
+  "name": "Mathematical Programming",
+  "description": "Linear programming - formulation through examples from decision making problems, preliminary theory and geometry of linear programs, basic feasible solution, simplex method, variants of simplex method. Duality and its principles, dual simplex method, primal dual method. Linear integer programming, applications in real decision making problems, Branch- Bound and Cutting plane methods, dynamic programming, Nonlinear programming, gradient descent, stochastic gradient, and Newton\u2019s Method for unconstrained nonlinear problems, introduction to these algorithms and their convergence, nonlinear constrained optimization problem, KKT optimality conditions, sufficiency of KKT for convex programs, second order conditions, examples of convex programs least norm problems, statistics parameter estimation problems, applications of convex programs to support vector classification, regression, and clustering problems.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTL5008"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CRL7075",
+  "name": "CAD for VLSI with AI and Data Science",
+  "description": "Introduction to CAD for VLSI 2. Fundamentals of machine learning for VLSI CAD 3. AI for logic synthesis and optimization 4. AI-driven Floorplanning and placement 5. Routing algorithms with AI and data science 6. Timing analysis and AI-based performance prediction 7. Power and thermal optimization using AI 8. AI-enhanced VLSI verification and testing 9. Data science for VLSI design and automation 10. Reinforcement learning for end-to-end VLSI design automation 11. Emerging trends and future directions.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "CAD for VLSI with AI and Data Science | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "CAD for VLSI with AI and Data Science"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/cad-vlsi-ai-and-data-science",
+  "slug": "cad-vlsi-ai-and-data-science"
+}

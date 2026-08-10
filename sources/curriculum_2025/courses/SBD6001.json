@@ -1,0 +1,16 @@
+{
+  "code": "SBD6001",
+  "name": "Minor Project",
+  "description": "Semester long project work under the supervision of a faculty at IIT Delhi on a research problem to be tackled in the third semester of the MSc program in biological sciences. Evaluation to be performed by a committee including the project mentor(s)/supervisor(s), MSc program coordinator and school research committee nominee(s).",
+  "credits": 6.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 12.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBD6001"
+}

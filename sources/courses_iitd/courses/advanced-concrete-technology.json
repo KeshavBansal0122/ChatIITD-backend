@@ -1,0 +1,22 @@
+{
+  "code": "CVL7471",
+  "name": "Advanced Concrete Technology",
+  "description": "Hydration of cements and microstructural development, mineral additives, chemical admixtures, rheology of concrete, creep and relaxation, shrinkage, cracking and volume stability, deterioration processes, special concretes, advanced characterisation techniques, sustainability issues in concreting, modelling properties of concrete.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Concrete Technology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Concrete Technology"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-concrete-technology",
+  "slug": "advanced-concrete-technology"
+}

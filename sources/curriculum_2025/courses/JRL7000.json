@@ -1,0 +1,16 @@
+{
+  "code": "JRL7000",
+  "name": "Robotics Laboratory",
+  "description": "Introduction to robotics, robot components, sensors and actuators, fundamental concepts and practical skills in mechanics, sensing, actuation, control, perception, and autonomy, ROS and simulation tools, and robot system integration.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "J",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=J#JRL7000"
+}

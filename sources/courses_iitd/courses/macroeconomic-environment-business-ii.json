@@ -1,0 +1,22 @@
+{
+  "code": "MSL7204",
+  "name": "Macroeconomic Environment of Business II",
+  "description": "Introduction to Open Economy, Balance of Payments, Exchange Rates, Purchasing Power Parity, Fiscal and Monetary Policies under different Exchange Rate Regimes, Trade in Goods, Market Equilibrium and the Balance of Trade, Extensions of IS-LM in the context of International Mobility of Goods and Capital, Aggregate Demand, Aggregate Supply: Wages, Prices, and Unemployment, The Phillips Curve, International Adjustments under Fixed Exchange Rates, International Adjustments under Flexible Exchange Rates, Inflation Differentials, Interest Differentials and Exchange Rate, Exchange Rate Fluctuations and Interdependencies, Cases of Different Economic Crises and Their Management",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(MSL7203)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Macroeconomic Environment of Business II | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Macroeconomic Environment of Business II"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/macroeconomic-environment-business-ii",
+  "slug": "macroeconomic-environment-business-ii"
+}

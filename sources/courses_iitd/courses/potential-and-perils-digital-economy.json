@@ -1,0 +1,19 @@
+{
+  "code": "HSL7104",
+  "name": "Potential and Perils of the Digital Economy",
+  "description": "On successful completion of this course a student should be able to appreciate the influence of greater digitization on the economy, society and politics, as well as the inter-linkages between them. The digital economy and digital welfare are being hailed as transformational and disruptive. Economists are also trying to leverage AI and ML to study economic phenomenon. Simultaneously there has been a growing literature in economics, law, computer and data sciences, etc. on its implications for society, the economy, for democracy. This course will examine the potential and perils of these developments.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/potential-and-perils-digital-economy",
+  "slug": "potential-and-perils-digital-economy"
+}

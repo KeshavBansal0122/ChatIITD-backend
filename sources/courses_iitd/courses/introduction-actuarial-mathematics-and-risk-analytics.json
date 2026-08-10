@@ -1,0 +1,22 @@
+{
+  "code": "MTL7234",
+  "name": "Introduction to Actuarial Mathematics and Risk Analytics",
+  "description": "This course provides an introductory exposure to actuarial mathematics and modern risk analytics, emphasizing intuition, conceptual clarity, and practical insight, with a focus on real-world relevance and applications rather than mathematical rigour.The course is intended to be more application-oriented.\nIt covers fundamental topics such as survival models, life tables, and the valuation of life insurance and annuity products, along with brief extensions to pension systems, multi-state models, and population-based frameworks. The course also introduces non-life insurance models, including frequency\u2013severity approaches, and basic quantitative risk measures such as Value-at-Risk (VaR) and Conditional Value-at-Risk (CVaR). Dependence modeling using copulas and extreme value theory for tail risk\u2014are included at a basic conceptual level only to provide exposure to modern tools in risk assessment.\nA strong emphasis is placed on computational implementation and applications through project-based activities, enabling students to perform actuarial analysis in simulated or realistic scenarios.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 1.0,
+    "practical": 2.0
+  },
+  "prereq": "MTL2006/MTL2008/MTL5005/HSL5013",
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Actuarial Mathematics and Risk Analytics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Actuarial Mathematics and Risk Analytics"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-actuarial-mathematics-and-risk-analytics",
+  "slug": "introduction-actuarial-mathematics-and-risk-analytics"
+}

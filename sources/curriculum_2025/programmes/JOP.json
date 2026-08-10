@@ -1,0 +1,522 @@
+{
+  "code": "JOP",
+  "name": "M.Tech. in Optoelectronics and Optical Communication",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=JOP",
+  "credit_requirements": [
+    {
+      "category": "PL",
+      "label": "Programme-Linked",
+      "credits_or_units": 7130.0,
+      "kind": "graded"
+    },
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 31.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Explain fundamental physical and technical base of Optoelectronic systems"
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Describe and apply basic laws and phenomena that define behaviour of optoelectronic and fiber optics-based communication systems"
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Analyse various premises, approaches procedures and results related to optoelectronic and optical communication systems"
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "Use optical fibre equipment, and data transfer using optical fiber"
+    },
+    {
+      "outcome_id": "PLO5",
+      "text": "Devise experiments and measurements in laboratory independently and as a team on real components, devices and equipment of optoelectronic systems"
+    },
+    {
+      "outcome_id": "PLO6",
+      "text": "Recall knowledge and be able to independently present various professional materials related to opto-electronics."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "ELL7027",
+        "title": "Digital Communication and Information Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7437",
+        "title": "Fiber-Optic Communication Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "JOD7001",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "JOD8001",
+        "title": "Major Project - I",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "12"
+        },
+        "credits": "6"
+      },
+      {
+        "course_code": "JON7001",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "JOP7091",
+        "title": "Fiber Optics Lab/Optical Communication Lab",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "JOP7092",
+        "title": "Fiber Optics Lab/Optical Communication Lab",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "JOT7002",
+        "title": "Summer Internship",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7091",
+        "title": "Fiber Optics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7093",
+        "title": "Photonic Devices",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DSL7734",
+        "title": "Advanced Laser Technology and Laser Based Instrumentation",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7028",
+        "title": "Optoelectronic Instrumentation and Packaging",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7325",
+        "title": "Introduction to Sensors Technology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7328",
+        "title": "Applied VLSI Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7380",
+        "title": "Micro- and Nano- Photonics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7406",
+        "title": "Coding Theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7420",
+        "title": "Advanced Digital Signal Processing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL8416",
+        "title": "Wireless Optical Communication",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELP7411",
+        "title": "Wireless Communications Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "1",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "JOL7093",
+        "title": "Selected Topics - 1",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "OPL7130",
+        "title": "Information Photonics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7047",
+        "title": "Nonlinear Optics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7051",
+        "title": "Optical Sources, Photometry and Metrology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7052",
+        "title": "Laser Systems and Applications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7053",
+        "title": "Optical System Design",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7055",
+        "title": "Basic Optics and Optical Instrumentation",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7057",
+        "title": "Statistical and Quantum Optics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7060",
+        "title": "Biomedical Optics and Biophotonics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7190",
+        "title": "Integrated Optics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7195",
+        "title": "Optics and Laser Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7292",
+        "title": "Optical and Quantum Electronics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7560",
+        "title": "Fourier Optics and Holography",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7590",
+        "title": "Computational Optical Imaging",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "PYL7091",
+        "title": "Fiber Optics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ELL7027",
+        "title": "Digital Communication and Information Systems",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "JOP7091",
+        "title": "Fiber Optics Lab/Optical Communication Lab",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYL7093",
+        "title": "Photonic Devices",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "JON7001",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "JOD7001",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ELL7437",
+        "title": "Fiber-Optic Communication Systems",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "JOP7092",
+        "title": "Fiber Optics Lab/Optical Communication Lab",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "JON7001",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "JOD8001",
+        "title": "Major Project - I",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 12.0
+        },
+        "credits": 6.0
+      },
+      {
+        "course_code": "JON7001",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "Professional Ethics Course",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 1.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "JON7001",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "JOP \u2013 M.Tech. in Optoelectronics and Optical Communication\nM.Tech. in Optoelectronics and Optical Communication\nProgramme Code: JOP\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n31\nPE (Programme Elective)\n24\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n61\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nExplain fundamental physical and technical base of Optoelectronic systems\nPLO 2\nDescribe and apply basic laws and phenomena that define behaviour of optoelectronic and fiber optics-based communication systems\nPLO 3\nAnalyse various premises, approaches procedures and results related to optoelectronic and optical communication systems\nPLO 4\nUse optical fibre equipment, and data transfer using optical fiber\nPLO 5\nDevise experiments and measurements in laboratory independently and as a team on real components, devices and equipment of optoelectronic systems\nPLO 6\nRecall knowledge and be able to independently present various professional materials related to opto-electronics.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nELL7027 Digital Communication and Information Systems 3 0 0 3\nELL7437 Fiber-Optic Communication Systems 3 0 0 3\nJOD7001 Cornerstone Project 0 0 6 3\nJOD8001 Major Project - I 0 0 12 6\nJON7001 Teaching/Research Practicum 0 0 8 4\nJOP7091 Fiber Optics Lab/Optical Communication Lab 0 0 6 3\nJOP7092 Fiber Optics Lab/Optical Communication Lab 0 0 6 3\nJOT7002 Summer Internship 0 0 6 3\nPYL7091 Fiber Optics 3 0 0 3\nPYL7093 Photonic Devices 3 0 0 3\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nDSL7734 Advanced Laser Technology and Laser Based Instrumentation 3 0 0 3\nELL7028 Optoelectronic Instrumentation and Packaging 3 0 0 3\nELL7325 Introduction to Sensors Technology 3 0 0 3\nELL7328 Applied VLSI Design 3 0 0 3\nELL7380 Micro- and Nano- Photonics 3 0 0 3\nELL7406 Coding Theory 3 0 0 3\nELL7420 Advanced Digital Signal Processing 3 0 0 3\nELL8416 Wireless Optical Communication 3 0 0 3\nELP7411 Wireless Communications Laboratory 0 1 4 3\nJOL7093 Selected Topics - 1 3 0 0 3\nOPL7130 Information Photonics 3 0 0 3\nPYL7047 Nonlinear Optics 3 0 0 3\nPYL7051 Optical Sources, Photometry and Metrology 3 0 0 3\nPYL7052 Laser Systems and Applications 3 0 0 3\nPYL7053 Optical System Design 2 0 2 3\nPYL7055 Basic Optics and Optical Instrumentation 3 0 0 3\nPYL7057 Statistical and Quantum Optics 3 0 0 3\nPYL7060 Biomedical Optics and Biophotonics 3 0 0 3\nPYL7190 Integrated Optics 3 0 0 3\nPYL7195 Optics and Laser Engineering 3 0 0 3\nPYL7292 Optical and Quantum Electronics 3 0 0 3\nPYL7560 Fourier Optics and Holography 3 0 0 3\nPYL7590 Computational Optical Imaging 3 0 0 3\nSemester-wise Schedule\nSem"
+}

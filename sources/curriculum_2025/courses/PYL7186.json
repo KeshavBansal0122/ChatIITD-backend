@@ -1,0 +1,16 @@
+{
+  "code": "PYL7186",
+  "name": "Non-Equilibrium Statistical Mechanics",
+  "description": "Stochastic processes, Markov process, master equation and irreversibility. Time correlation functions, linear response theory, Kubo formula, Onsager relations. Random walks, Brownian motion and diffusion, Langevin equation, fluctuation dissipation theorems, Einstein relation, Fokker-Planck equation. Applications on non-equilibrium systems to rachets, driven diffusive systems, granular material, polymers, fluctuation theorems, Jarzynski equality. Stochastic thermodynamics, microscopic heat engines, active particles, models of active particle systems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL7186"
+}

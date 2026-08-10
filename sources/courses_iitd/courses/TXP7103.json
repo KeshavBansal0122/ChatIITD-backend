@@ -1,0 +1,22 @@
+{
+  "code": "TXP7103",
+  "name": "Fibre Manufacturing Lab",
+  "description": "The lab will focus on hands on experiments related to melt spinning, solution spinning and electrospinning techniques, drawing and heatsetting of spun fibres, demonstration of bicompenent spinning, and effect of parameters on these processes, analysis of structure and properties of manufactured fibres, such as mechanical, birefringence, density, x-ray diffraction, heat shrinkage, etc.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Fibre Manufacturing Lab | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fibre Manufacturing Lab"
+  ],
+  "department": "Polymer to Fiber Engineering Lab",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fibre-manufacturing-lab",
+  "slug": "fibre-manufacturing-lab"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MEL2011",
+  "name": "Engineering Thermodynamics",
+  "description": "Introduction: microscopic and macroscopic points of view. Basic concepts and definitions \u2013 system, boundary, equilibrium, steady state, zeroth law, temperature scale. Generalised definition of work and heat \u2013 definition and applications; various forms of work - compression, elastic, electric, magnetic, surface tension etc. Thermodynamic properties of a pure substance, use of property tables, ideal and real gases, compressibility chart. The First Law of Thermodynamics for control mass/ volume, Internal Energy, Enthalpy, The SSSF and USUF Processes. Second Law \u2013 corollaries, Carnot cycle. Clausius inequality, entropy. Irreversibility and exergy analysis. Thermodynamic Relations. Vapor power cycles \u2013 Rankine cycle and its modifications. Brayton/ Otto/ Dual cycles. Vapor compression refrigeration cycle.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Engineering Thermodynamics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Engineering Thermodynamics"
+  ],
+  "department": "Thermodynamics",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/engineering-thermodynamics-0",
+  "slug": "engineering-thermodynamics-0"
+}

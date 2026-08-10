@@ -1,0 +1,22 @@
+{
+  "code": "CVL7501",
+  "name": "Pavement Materials and Systems",
+  "description": "Pavement structure: functional and structural requirements; pavement materials: aggregate, portland cement, asphalt, Portland cement concrete, asphalt concrete; aggregates: production, properties, characterization procedures, gradation and blending; Portland cement based materials: mixture design, production, properties, testing, construction; asphalt binder: refining process, properties, characterization procedures, viscosity and performance grading systems; asphalt concrete mixture design: fundamentals of mix design procedure, mixture volumetrics, current mix national and international design procedures; production and construction practices; stresses and strains in pavement system: traffic, environment considerations; design of pavements: new, overlay; drainage issues.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Pavement Materials and Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Pavement Materials and Systems"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/pavement-materials-and-systems",
+  "slug": "pavement-materials-and-systems"
+}

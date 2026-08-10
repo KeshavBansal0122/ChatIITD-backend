@@ -1,0 +1,16 @@
+{
+  "code": "ELL7101",
+  "name": "Linear Systems",
+  "description": "State space representation, similarity transformation, time response, state transition matrix, linear time-varying system, stability: asymptotic and BIBO, controllability, observability, controller and observer canonical forms, Kalman decomposition, minimal realization, stabilizability and detectability, PBH rank test, state feedback, observer design, separation principle, multivariable pole placement, output feedback design.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7101"
+}

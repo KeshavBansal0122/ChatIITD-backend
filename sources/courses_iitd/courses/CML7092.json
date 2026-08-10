@@ -1,0 +1,22 @@
+{
+  "code": "CML7092",
+  "name": "Food Chemistry and Biochemistry",
+  "description": "Carbohydrates: structure and functional properties of mono-oligopolysaccharides including starch, cellulose, pectic substances, and dietary fibers, Essential amino acids, proteins, and lipids in food and their impact on functional properties, vitamins and minerals, Food flavours: terpenes, esters, ketones, and quinines; Food additives, Bioactive constituents in food: isoflavones, phenol, and glycosides; Enzymes: enzymatic and non-enzymatic browning, enzymes in food processing, oxidative enzymes, Food biochemistry: balanced diet, PER, anti-nutrients and toxins, nutrition deficiency diseases.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Food Chemistry and Biochemistry | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Food Chemistry and Biochemistry"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/food-chemistry-and-biochemistry",
+  "slug": "food-chemistry-and-biochemistry"
+}

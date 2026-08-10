@@ -1,0 +1,16 @@
+{
+  "code": "HSP5020",
+  "name": "Cornerstone Project (M.Sc. Economics)",
+  "description": "The students will engage in collaborative research with a group of students under supervision of faculty members. They can identify a research problem and work on the same.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSP5020"
+}

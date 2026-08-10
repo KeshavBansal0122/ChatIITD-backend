@@ -1,0 +1,22 @@
+{
+  "code": "MEL7422",
+  "name": "Dimensional Analysis and Similarity",
+  "description": "Introduction to dimensional analysis; history, motivation, drawbacks of brute force experimentation, drag coefficient example. Dimensional analysis using mathematical models: damped oscillations, transient conduction, viscous flows; importance of dimensionless numbers in fluid mechanics and heat transfer. Techniques: rules of thumb, Ipsen\u2019s method, combining with intuition and experiments; Taylor\u2019s atomic bomb estimate. Buckingham pi theorem: pressure drop in pipe, drag on bodies, surface roughness; comparison with Ipsen\u2019s method. Model studies: geometric, kinematic, dynamic similarity; prototypes of submarines, boats. Riabouchinsky\u2013Rayleigh paradox and rules of relevance. Self-similarity: first and second kind, Falkner\u2013Skan, nonlinear diffusion. Intermediate asymptotics: blast waves, droplet spreading.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Dimensional Analysis and Similarity | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Dimensional Analysis and Similarity"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/dimensional-analysis-and-similarity",
+  "slug": "dimensional-analysis-and-similarity"
+}

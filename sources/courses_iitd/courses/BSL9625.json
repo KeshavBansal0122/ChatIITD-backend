@@ -1,0 +1,22 @@
+{
+  "code": "BSL9625",
+  "name": "Quantum Information Theory",
+  "description": "Introduction to quantum information theory; review of mathematical tools: linear algebra, Hilbert spaces, semi-definite programming; quantum states and measurements; quantum channels; quantum teleportation; Bell inequality and CHSH game; Distinguishability measures for states and channels; quantum entropies and information; quantum data compression; entanglement measures; entanglement-assisted classical communication; entanglement distillation; quantum channel capacity; secret key distillation and private communication.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Quantum Information Theory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Quantum Information Theory"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/quantum-information-theory-0",
+  "slug": "quantum-information-theory-0"
+}

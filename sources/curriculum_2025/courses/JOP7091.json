@@ -1,0 +1,16 @@
+{
+  "code": "JOP7091",
+  "name": "Fiber Optics Lab/Optical Communication Lab",
+  "description": "Experiments on characterization of optical fibers, sources, detectors and modulators, in the physics department and experiments on electronics and communication in the electrical engineering department.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "J",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=J#JOP7091"
+}

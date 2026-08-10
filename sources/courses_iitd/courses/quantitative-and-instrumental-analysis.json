@@ -1,0 +1,22 @@
+{
+  "code": "CML2034",
+  "name": "Quantitative and Instrumental Analysis",
+  "description": "Fundamental theory and techniques in traditional chemical analysis, Emphasizes measurement basics and statistical data analysis, Introduction to spectrometric methods and components of optical instruments, Atomic absorption, fluorescence, emission, mass, and X-ray spectrometry, Introduction to and applications of UV-vis molecular absorption, luminescence, infrared, Raman, nuclear magnetic resonance, and mass spectroscopy/ spectrometry, Introduction to electroanalytical methods: potentiometry, coulometry, and voltammetry, Introduction to chromatographic separation: gas, high- performance liquid, supercritical fluid, and capillary electrophoresis chromatography, Introduction to thermal methods of analysis.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Quantitative and Instrumental Analysis | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Quantitative and Instrumental Analysis"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/quantitative-and-instrumental-analysis",
+  "slug": "quantitative-and-instrumental-analysis"
+}

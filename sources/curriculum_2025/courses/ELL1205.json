@@ -1,0 +1,16 @@
+{
+  "code": "ELL1205",
+  "name": "Signals and Systems",
+  "description": "Classifications of signals and systems and their properties, time-domain representation of LTI system, signal space and geometric concepts, Fourier analysis of continuous-time signals and systems, sampling and reconstruction of band-limited signals, Fourier analysis of discrete-time signals and systems, introduction to DFT, Laplace transform, Z transform, applications of signals and systems in filtering/communications/control/stochastic-processes.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL1205"
+}

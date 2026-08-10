@@ -1,0 +1,16 @@
+{
+  "code": "DDL2111",
+  "name": "Understanding Design and Environment",
+  "description": "This course explores the interplay between design and the environment, examining how human-centered design decisions impact ecological systems. Students will critically analyze environmental consequences of products, services, and systems, and learn to apply sustainable and regenerative design principles through real-world problem contexts.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DD#DDL2111"
+}

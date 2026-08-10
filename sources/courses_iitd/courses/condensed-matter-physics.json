@@ -1,0 +1,22 @@
+{
+  "code": "PYL3015",
+  "name": "Condensed Matter Physics",
+  "description": "Structure of solid matter: concepts of real and reciprocal lattice, point groups and Brillouin zones, diffraction from periodic structure, Lau and Bragg scattering condition, structure factor, defects in crystals, thermal properties of solid: specific heat, Boltzmann, Einstein, and Debye theory, phonons, lattice vibrations and dispersion in monoatomic and diatomic chain. Electrons in metals: Drude and Sommerfeld theory, density of states, Fermi-Dirac distribution, charge carrier density and conductivity in semiconductors, band dispersion, effective mass, Bloch function, Kronig Penny model. Atomic origin of magnetism: diamagnetism, Langevin theory of paramagnetism, spontaneous magnetic order, magnetic domains and anisotropy. Superconductivity: magnetic and thermodynamics of phase transitions, types of superconductors, London theory, coherence length, BCS theory of superconductivity (qualitative), brief introduction to high temperature superconductors.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Condensed Matter Physics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Condensed Matter Physics"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/condensed-matter-physics",
+  "slug": "condensed-matter-physics"
+}

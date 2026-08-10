@@ -1,0 +1,22 @@
+{
+  "code": "MTL7860",
+  "name": "Linear Algebra II",
+  "description": "Review of vector space, linear transformations, dual and double dual of a vector space and transpose of a linear transformation. \nEigenvalue and eigenvector of an operator, characteristic and minimal polynomials.\nDiagonalizability of linear operators, triangulation, simultaneous triangulation and simultaneous diagonalization.\nThe primary decomposition theorem, cyclic decomposition theorem and the rational and Jordan canonical forms, computation of invariant factors.\nInner product spaces, adjoint of an operator, Hermitian, unitary and normal operators, Spectral theorem for normal operators, polar decomposition, Spectral decomposition, singular value decomposition and its applications.\nBilinear and quadratic forms, Symmetric and Skew-symmetric bilinear forms, positive definite matrices.\nNon-negative matrices, Perron-Frobenius theory and applications, generalized inverse of a matrix.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Linear Algebra II | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Linear Algebra II"
+  ],
+  "department": "Mathematics II Linear Algebra and Differential Equations",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/linear-algebra-ii",
+  "slug": "linear-algebra-ii"
+}

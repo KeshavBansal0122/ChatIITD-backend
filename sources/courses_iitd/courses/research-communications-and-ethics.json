@@ -1,0 +1,22 @@
+{
+  "code": "VEQ8000",
+  "name": "Research Communications and Ethics",
+  "description": "Introduction to research communication, poster preparation, oral presentation, and paper writing. Literature review - methodologies and standard tools. Research methodology - problem formulation, design/implementation, evaluation. Research ethics.",
+  "credits": 0.5,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 1.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Research Communications and Ethics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Research Communications and Ethics"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/research-communications-and-ethics",
+  "slug": "research-communications-and-ethics"
+}

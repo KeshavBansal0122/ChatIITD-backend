@@ -1,0 +1,16 @@
+{
+  "code": "CVL7705",
+  "name": "Air-Noise Pollution and Climate",
+  "description": "Definitions, significance, sources, and impacts of air and noise pollution; sound, frequency, hearing, wavelength, velocity, sound pressure, sound power, sound intensity, and loudness, air and noise quality assessment techniques, permissible limits, meteorological factors, historical data and case studies on air and noise pollution, monitoring techniques, methods of sound detection and measurement estimation techniques: dispersion and statistical models, estimation of climate and health effects, estimation of effects on ecosystems, and economies, methods of sound and noise control, design of control technologies, limitations of current mitigation strategies, use of impact of advancements like AI to assess proposed interventions and policies for air quality management at local, regional and global scale.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7705"
+}

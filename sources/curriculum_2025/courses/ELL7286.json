@@ -1,0 +1,16 @@
+{
+  "code": "ELL7286",
+  "name": "Introduction to Machine Learning",
+  "description": "Introduction to machine learning. Unsupervised learning: K-means, Gaussian mixture models, EM. Unsupervised learning: eigen-analysis: PCA, LDA and subspaces. Linear models for regression and classification. SVMs and kernels. Introduction to neural networks: the perceptron, the XOR problem. Backpropagation. Convolutional neural networks. Neural network architectures: characteristics, LeNet-5, AlexNet, VGG, ResNet, inception, U-net, EfficientNet. Recurrent neural networks. Generative AI: generative adversarial networks. Generative AI: diffusion models. XAI: explainable AI: the math, architectures, Bayesian neural networks. Basics of transformers. Foundational models, transformer implementation details. Multi-head attention, encoder, decoder architectures. Prompting, PEFT, LoRA.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7286"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CHL7212",
+  "name": "Membrane Science and Engineering",
+  "description": "Introduction to membrane separation processes, their classification, and applications. General transport theories including theory of irreversible thermodynamics for multicomponent systems. Membrane preparation techniques. Design, analysis, and industrial application of various membrane processes such as reverse osmosis, ultrafiltration, electrodialysis, dialysis, liquid membrane separation, gas permeation, and pervaporation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CH",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CH#CHL7212"
+}

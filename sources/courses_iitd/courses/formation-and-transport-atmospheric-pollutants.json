@@ -1,0 +1,22 @@
+{
+  "code": "MEL3421",
+  "name": "Formation and Transport of Atmospheric Pollutants",
+  "description": "Chemical Kinetics, pollutant formation, Tropospheric pollutant chemistry. Thermodynamics & population dynamics of ambient aerosols. Lab measurements, atmospheric transport modeling & receptor models.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "((MEL2012/AML2020/CHL2003/ESL1020/BBL2103) &(MEL1140/MEL2011/ESL1140/BBL2205/CHL2002/MLL2001)) /MEL2024",
+  "overlap": null,
+  "learning_outcomes": [
+    "Formation and Transport of Atmospheric Pollutants | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Formation and Transport of Atmospheric Pollutants"
+  ],
+  "department": "Air Pollution: Sources and Apportionment",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/formation-and-transport-atmospheric-pollutants",
+  "slug": "formation-and-transport-atmospheric-pollutants"
+}

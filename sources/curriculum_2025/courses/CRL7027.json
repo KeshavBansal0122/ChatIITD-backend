@@ -1,0 +1,16 @@
+{
+  "code": "CRL7027",
+  "name": "Introduction to Quantum Electronic Devices",
+  "description": "The foundation of quantum electronics; nanoscale resistors: quantum resistance, quantum conductance; scattering at quantum levels: quantum contacts, quantum interference, Andrev scattering, spin-dependent scattering. Coulomb blockade, resonant tunnelling, quantum capacitance, single electron and TOM transistors: Coulomb blockade memory and logic devices, single electron inverters; electron transport through single molecule: molecular transistors, memories and switches; spinning of electron: spin valve and transistors, sub-band quantum devices: quantum wells, wires and dots, sub-band infrared and terahertz detectors. Quantum bit: quantum computers, different types of qubit, initialization, quantum manipulation, readout, charge qubit, phase and flux qubit, spin qubit.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CR#CRL7027"
+}

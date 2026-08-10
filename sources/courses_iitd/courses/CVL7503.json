@@ -1,0 +1,22 @@
+{
+  "code": "CVL7503",
+  "name": "Traffic Engineering",
+  "description": "Introductory concepts of traffic engineering, road user and vehicle characteristics road way geometric characteristics, traffic stream characteristics, and traffic flow theory basics. Statistical applications in traffic engineering. Traffic data collection methods - speed, volume, travel time and delay studies. Parking studies. Highway safety and statistics. Capacity analysis of freeway and multilane highways - fundamental concepts, freeway segment analysis, two-way highways. Intersections concepts of intersection control, intersection layout, signalization basics, signal timing. Analysis of signals and coordination under undersaturated and oversaturated conditions.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Traffic Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Traffic Engineering"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/traffic-engineering",
+  "slug": "traffic-engineering"
+}

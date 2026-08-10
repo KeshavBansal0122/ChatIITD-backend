@@ -1,0 +1,16 @@
+{
+  "code": "MED7351",
+  "name": "Major Project Part 1",
+  "description": "This is a project-based assignment where the student is required to meet with the supervisor regularly\u2014at least once a week\u2014to discuss project progress. The scope of the work will vary depending on the specific project and will be determined by the supervisor. The student is expected to dedicate approximately 168 hours to laboratory work, in addition to time spent on background research and project development. By the end of the term, the student should have completed roughly one-third of the work necessary for a master's thesis-level project at IIT Delhi.",
+  "credits": 6.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 12.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MED7351"
+}

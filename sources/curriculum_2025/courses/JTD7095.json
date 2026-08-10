@@ -1,0 +1,16 @@
+{
+  "code": "JTD7095",
+  "name": "Cornerstone Project",
+  "description": "Based on the courses taken by the student, the cornerstone project aims to put thoery into practce by building a solution (hardware/software) that can be implemented and tested in a real system as a team.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "J",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=J#JTD7095"
+}

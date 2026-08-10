@@ -1,0 +1,22 @@
+{
+  "code": "ELL8416",
+  "name": "Wireless Optical Communication",
+  "description": "Introduction to wireless optical communication: motivation, advantages and limitations, and comparison with RF systems. Optical beams: Gaussian, Laguerre\u2013Gaussian and vector beams; beam expanders and collimators; Kolmogorov turbulence model; beam wandering, spreading, and scintillation; statistical turbulence models such as log-normal and gamma-gamma distributions; weather effects including fog, rain, and dust. Optical sources and detectors: LEDs, semiconductor lasers, photodiodes; noise characteristics; optical modulators and filters. Modulation and coding: intensity modulation with direct detection, on\u2013off keying, pulse position modulation; BER, capacity and outage analysis under turbulence. Link budget and system design: eye-safety standards, received power, geometric losses, receiver sensitivity, aperture averaging, spatial diversity, and system design trade-offs. Mitigation techniques: diversity methods, adaptive optics, channel coding, hybrid links, and beam engineering.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Wireless Optical Communication | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Wireless Optical Communication"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/wireless-optical-communication",
+  "slug": "wireless-optical-communication"
+}

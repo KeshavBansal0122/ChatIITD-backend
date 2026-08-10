@@ -1,0 +1,16 @@
+{
+  "code": "ELD8301",
+  "name": "Major Project Part I",
+  "description": "This project-based course provides students with the opportunity to undertake in-depth research or development in integrated electronics, circuits and systems area, applying concepts from integrated circuits and intelligent systems sub-domains mainly. With the help of a faculty mentor, students identify a real-world problem, design a circuit, system or algorithmic solution, and validate it through industry relevant simulation tools and experimentation.",
+  "credits": 6.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 12.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELD8301"
+}

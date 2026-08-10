@@ -1,0 +1,16 @@
+{
+  "code": "CTL7029",
+  "name": "Reliability and Accelerated Life Testing",
+  "description": "Fundamentals of reliability, availability and maintainability, failure distributions, failure analysis: FMEA, FTA. Statistical analysis of failure data, parametric and non parametric methods. System reliability assessment. Reliability of repairable and non-repairable systems. Point, mission and steady state availability. Availability assessment. Maintainability and its assessment. Design for reliability and maintainability, practical applications of RAM engineering to automotive. Reliability testing, accelerated life testing, highly accelerated life testing, highly accelerated stress screening, recent development in life testing. Importance of life testing on automobile components and sub components.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CT#CTL7029"
+}

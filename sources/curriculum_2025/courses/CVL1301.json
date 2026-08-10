@@ -1,0 +1,16 @@
+{
+  "code": "CVL1301",
+  "name": "Surveying and Remote Sensing",
+  "description": "Fundamental of surveying and evolution from chain, compass,theodolite , total station( to digital and UAV-based surveying methods, introduction to modern instrumentation: GNSS, UAVs, LiDAR;\r\nGeodesy and GNSS/GPS Surveying(GPS principles, satellite geometry, datums (WGS84, UTM), and use in surveying);\r\nIntroduction to Remote Sensing;Photogrammetry and UAV Applications;\r\nDrone types (multirotor, fixed-wing), payloads (RGB, LiDAR), flight planning (GSD, overlap), and DGCA regulations in India;\r\nGIS and Spatial Data Integration;Image overlap, structure-from-motion (SfM) concept, generation of orthomosaics and DEMs (conceptual only);\r\nCombining GNSS, RGB, and LiDAR data; case studies \u2013 topographic mapping, construction monitoring, landslide/flood mapping;\r\nApplications of Surveying and Remote Sensing in Civil Engineering Infrastructure Planning and Construction; Emerging Geospatial Technologies;",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL1301"
+}

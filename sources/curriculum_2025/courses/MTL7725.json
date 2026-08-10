@@ -1,0 +1,16 @@
+{
+  "code": "MTL7725",
+  "name": "Stochastic Processes and its Applications",
+  "description": "Stochastic processes and their classifications, stationary, memoryless and martingales properties, simple stochastic processes, discrete and continuous time Markov chains, Poisson process, birth-death process, simple queueing models, solution techniques, point process, renewal process, Monte-Carlo simulation, random number generation, simulation of stochastic processes, modeling on system reliability, block diagram, fault tree and Markov methods, simulation methods.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTL7725"
+}

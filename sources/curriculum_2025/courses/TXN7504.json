@@ -1,0 +1,16 @@
+{
+  "code": "TXN7504",
+  "name": "Research Practicum (M.Tech. in Fibre Engineering and Textile Chemical Processing)",
+  "description": "Preparation of research plan, completion of targeted research work for the semester, submission of research report and presentation on the research carried out.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXN7504"
+}

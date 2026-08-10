@@ -1,0 +1,22 @@
+{
+  "code": "PYL3102",
+  "name": "Nuclear Science and Engineering",
+  "description": "Basics of nuclear physics, nuclear binding energy and stability, liquid drop model, shell model. Interaction of nuclear radiation with matter and nuclear detection engineering. Nuclear reaction, model, fission, fusion, nuclear reactors and their applications. Radioactivity, decay law, radioactive dating method, accelerator mass spectrometry. Nuclear reaction analysis, radioisotope production and applications in nuclear imaging process in biology.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "PYL2013",
+  "overlap": null,
+  "learning_outcomes": [
+    "Nuclear Science and Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Nuclear Science and Engineering"
+  ],
+  "department": "Nuclear and Elementary Particle Physics",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/nuclear-science-and-engineering",
+  "slug": "nuclear-science-and-engineering"
+}

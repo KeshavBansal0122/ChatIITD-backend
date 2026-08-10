@@ -1,0 +1,22 @@
+{
+  "code": "COS7099",
+  "name": "Independent Study",
+  "description": "The student will be tasked with certain reading assignments and related problem solving in an appropriate area of research in computer science under the overall guidance of a CSE faculty member. The work will be evaluated through term paper.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 3.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Independent Study | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Independent Study"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/independent-study-5",
+  "slug": "independent-study-5"
+}

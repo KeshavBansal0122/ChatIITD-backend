@@ -1,0 +1,22 @@
+{
+  "code": "PYL2004",
+  "name": "Optics and Photonics",
+  "description": "Geometrical optics, Fermat\u2019s principle, ray equation and applications. Wave propagation, review of Maxwell\u2019s equations and propagation of waves, plane polarized light. Reflection and refraction, Brewster angle; total internal reflection and evanescent waves. Reflection by a conducting medium. Interference by division of wavefront and amplitude; Stoke\u2019s relations; reflecting and nonreflecting films; colors of thin films. Michelson and Fabry-Perot interferometer and etalon, Fresnel and Fraunhofer diffraction. Single slit, circular aperture; limit of resolution. Double slit, diffraction grating, resolving power. Fresnel half-period zones, zone plate. Diffraction of a Gaussian beam. Fourier optics: spatial-frequency filtering, phase contrast microscope. Holography principles, principles of laser, Einstein coefficients, cavity and stability.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Optics and Photonics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Optics and Photonics"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/optics-and-photonics",
+  "slug": "optics-and-photonics"
+}

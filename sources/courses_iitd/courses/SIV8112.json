@@ -1,0 +1,22 @@
+{
+  "code": "SIV8112",
+  "name": "Special Module in Computer Forensics",
+  "description": "Forensics and digital evidence, disk forensics, memory forensics, network forensics, mobile forensics, cloud forensics, investigating web attacks, investigating email crimes, forensics report writing and presentations.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 1.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Special Module in Computer Forensics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Special Module in Computer Forensics"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/special-module-computer-forensics",
+  "slug": "special-module-computer-forensics"
+}

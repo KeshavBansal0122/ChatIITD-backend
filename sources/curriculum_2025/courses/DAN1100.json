@@ -1,0 +1,16 @@
+{
+  "code": "DAN1100",
+  "name": "Life Skills 1",
+  "description": "Discussions on essential life skills that enable students for success in life, materially, intellectually, as well as emotionally. The topics will be covering institute and campus life awareness, time, health and stress management, goal setting, appreciating diversity, navigating the complex digital landscape, creative learning and thinking, ethical behaviour, substance abuse awareness, leadership, thinking about coexistence on campus and beyond, making sustainable choices, etc.",
+  "credits": 0.75,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 1.5
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DA",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DA#DAN1100"
+}

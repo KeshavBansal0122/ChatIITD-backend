@@ -1,0 +1,21 @@
+{
+  "code": "CMD6041",
+  "name": "Major Project",
+  "description": "Major Project work on a chosen topic conducted under the supervision of a faculty member.",
+  "credits": 9.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 18.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Major Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/major-project-0",
+  "slug": "major-project-0"
+}

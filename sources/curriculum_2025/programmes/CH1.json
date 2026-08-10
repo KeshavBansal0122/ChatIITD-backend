@@ -1,0 +1,1430 @@
+{
+  "code": "CH1",
+  "name": "B.Tech. in Chemical Engineering",
+  "generation": "2025",
+  "degree_type": "btech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=CH1",
+  "credit_requirements": [
+    {
+      "category": "BS",
+      "label": "Basic Sciences",
+      "credits_or_units": 24.0,
+      "kind": "graded"
+    },
+    {
+      "category": "GE",
+      "label": "General Engineering",
+      "credits_or_units": 24.0,
+      "kind": "graded"
+    },
+    {
+      "category": "HS",
+      "label": "Humanities and Social Sciences",
+      "credits_or_units": 15.0,
+      "kind": "graded"
+    },
+    {
+      "category": "DC",
+      "label": "Departmental Core",
+      "credits_or_units": 61.0,
+      "kind": "graded"
+    },
+    {
+      "category": "DE",
+      "label": "Departmental Electives",
+      "credits_or_units": 12.0,
+      "kind": "graded"
+    },
+    {
+      "category": "OC",
+      "label": "Open Category",
+      "credits_or_units": 9.0,
+      "kind": "graded"
+    },
+    {
+      "category": "NGU_LIFE",
+      "label": "Life skills",
+      "credits_or_units": 2.0,
+      "kind": "ngu"
+    },
+    {
+      "category": "NGU_ENGLISH",
+      "label": "English language learning",
+      "credits_or_units": 2.0,
+      "kind": "ngu"
+    },
+    {
+      "category": "NGU_PROJECT",
+      "label": "Departmental project, internship experience",
+      "credits_or_units": 2.0,
+      "kind": "ngu"
+    },
+    {
+      "category": "NGU_NCC",
+      "label": "NCC / NSO / NSS",
+      "credits_or_units": 2.0,
+      "kind": "ngu"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Apply knowledge of basic science and engineering principles to analyze and solve chemical engineering challenges."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Use contemporary engineering tools and methods necessary for safe practices in chemical engineering."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Communicate effectively, embrace teamwork, and demonstrate integrity, leadership and innovation for industrial and societal needs."
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "Identify and analyze challenging problems and solutions that impact industries and society"
+    },
+    {
+      "outcome_id": "PLO5",
+      "text": "Apply chemical engineering principles and analytical skills to provide solutions to multidisciplinary problems, ensuring efficiency and sustainability."
+    }
+  ],
+  "courses_by_category": {
+    "GE": [
+      {
+        "course_code": "ELL1000",
+        "title": "Introduction to Electrical Engineering",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEP1000",
+        "title": "Engineering Visualization",
+        "hours": {
+          "lecture": "0.5",
+          "tutorial": "0",
+          "practical": "3"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "MEP1001",
+        "title": "Manufacturing for Product Innovation",
+        "hours": {
+          "lecture": "0.5",
+          "tutorial": "0",
+          "practical": "3"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "COL1000",
+        "title": "Introduction to Programming",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL2008",
+        "title": "Introduction to Probability and Statistics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL1101",
+        "title": "Programming with Data Structures",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      }
+    ],
+    "BS": [
+      {
+        "course_code": "CMP1000",
+        "title": "Chemistry Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "MTL1001",
+        "title": "Mathematics I Calculus",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "PYL1001",
+        "title": "Introduction to Electrodynamics",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYP1000",
+        "title": "Physics Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "MTL1002",
+        "title": "Mathematics II Linear Algebra and Differential Equations",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SBP1100",
+        "title": "Experimental Biology for Engineers",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "1"
+      }
+    ],
+    "DC": [
+      {
+        "course_code": "CHD4800",
+        "title": "Capstone Project",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CHD4801",
+        "title": "BTech Project",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CHL1000",
+        "title": "Introduction to Chemical Engineering",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "CHL1001",
+        "title": "Transport Phenomena",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CHL1002",
+        "title": "Material and Energy Balances",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL2001",
+        "title": "Numerical Analysis for Chemical Engineers",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CHL2002",
+        "title": "Chemical Engineering Thermodynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CHL2003",
+        "title": "Fluid Mechanics",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CHL2004",
+        "title": "Heat and Mass Transfer",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CHL2005",
+        "title": "Introduction to Chemical Reaction Engineering",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CHL2006",
+        "title": "Biopharmaceutical Technology",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CHL2007",
+        "title": "Electrochemical Technology",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CHL2008",
+        "title": "Chemical Materials Technology",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CHL3001",
+        "title": "Data Analysis and Machine Learning for Process Systems",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CHL3003",
+        "title": "Fluid Particle Mechanics",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CHL3004",
+        "title": "Mass Transfer Operations",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CHL3005",
+        "title": "Reaction Engineering for Environment and Sustainability",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CHL3006",
+        "title": "Process Dynamics and Control",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CHL3007",
+        "title": "Process Technology and Economics",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CHL3008",
+        "title": "Equipment and Plant Design",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CHP3101",
+        "title": "Chemical Engineering Laboratory-I",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CHP3102",
+        "title": "Chemical Engineering Laboratory-II",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CHP3103",
+        "title": "Chemical Engineering Laboratory-III",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CHP3104",
+        "title": "Chemical Engineering Laboratory-IV",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      }
+    ],
+    "HS": [
+      {
+        "course_code": "HSL2100",
+        "title": "Introduction to Economics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL2102",
+        "title": "Macroeconomics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL2510",
+        "title": "Philosophy Through Puzzles and Paradoxes",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL2605",
+        "title": "Sociological Perspectives on Organisations",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL2710",
+        "title": "Words in the World",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL2742",
+        "title": "Fundamentals of Language Sciences",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ],
+    "BS_ELEC": [
+      {
+        "course_code": "CML1001",
+        "title": "Structural Insights into Atoms and Molecules",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML1002",
+        "title": "The Art and Science of Building Molecules and Materials",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL1002",
+        "title": "Waves and Oscillations",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL1003",
+        "title": "Mechanics and Special Theory of Relativity",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SBL1100",
+        "title": "Introduction to Biology",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "SBL1102",
+        "title": "Modern Biology: Principles and Applications",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ],
+    "GE_ELEC": [
+      {
+        "course_code": "AML1000",
+        "title": "Engineering Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CVL2001",
+        "title": "Climate Change and Adaptation",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "ELL1205",
+        "title": "Signals and Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ELL1401",
+        "title": "Digital Electronics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEL1140",
+        "title": "Thermodynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MLL1001",
+        "title": "Introduction to Materials Science and Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL2006",
+        "title": "Introduction to Probability and Stochastic Processes",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      }
+    ],
+    "DE": [
+      {
+        "course_code": "CHL7004",
+        "title": "Quality Management in Process Industries",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7005",
+        "title": "Advanced Chemical Reaction Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7006",
+        "title": "Advanced Transport Phenomena",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7007",
+        "title": "Advanced Chemical Engineering Thermodynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7102",
+        "title": "Drug Delivery for Chemical Engineers",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7104",
+        "title": "Bioprocessing and Bioseparations",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7201",
+        "title": "Advanced Process Data Analytics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7204",
+        "title": "Process Optimization",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7207",
+        "title": "Fundamentals of Computational Fluid Dynamics",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7208",
+        "title": "Applications of Computational Fluid Dynamics",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7212",
+        "title": "Membrane Science and Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7216",
+        "title": "Chemical Engineering Mathematics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7301",
+        "title": "Nanoscale Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7304",
+        "title": "Heterogeneous Catalysis and Catalytic Reactors",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7309",
+        "title": "Chemical Product Development and Commercialization",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7311",
+        "title": "Safety and Hazards in Process Industries",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7314",
+        "title": "Structure and Properties of Polymers in Solutions",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7401",
+        "title": "CCUS for Sustainable Industrial and Energy Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7402",
+        "title": "Engineering and Nature-Based Solutions to Mitigate Climate Change",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7404",
+        "title": "Sustainable Polymer Science and Technology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7405",
+        "title": "Principles of Electrochemical Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7407",
+        "title": "Hydrogen, Electrolyser, and Fuel Cell Technology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7408",
+        "title": "Electrochemical Conversion and Storage Devices",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7416",
+        "title": "Petroleum Refinery Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7417",
+        "title": "Natural Gas Processing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7504",
+        "title": "Transport Phenomena in Complex Fluids",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7505",
+        "title": "Rheology of Complex Fluids",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7506",
+        "title": "Complex Fluids Technology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7507",
+        "title": "Interfacial Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7508",
+        "title": "Fundamentals of Capillarity and Wetting",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7509",
+        "title": "Introduction to Microfluidics and Microfabrication",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7510",
+        "title": "Microhydrodynamics and its Applications in Biological Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7901",
+        "title": "Selected Topics in Chemical Engineering - I",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "CHL7902",
+        "title": "Selected Topics in Chemical Engineering - II",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "CHL7903",
+        "title": "Selected Topics in Chemical Engineering - III",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHV7904",
+        "title": "Recent Advances in Chemical Engineering",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "ELL1000",
+        "title": "Introduction to Electrical Engineering",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 1.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "MEP1000",
+        "title": "Engineering Visualization",
+        "hours": {
+          "lecture": 0.5,
+          "tutorial": 0.0,
+          "practical": 3.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "MEP1001",
+        "title": "Manufacturing for Product Innovation",
+        "hours": {
+          "lecture": 0.5,
+          "tutorial": 0.0,
+          "practical": 3.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "CML1002",
+        "title": "The Art and Science of Building Molecules and Materials",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CMP1000",
+        "title": "Chemistry Laboratory",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "MTL1001",
+        "title": "Mathematics I Calculus",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "DAN1100",
+        "title": "Life Skills 1",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 1.5
+        },
+        "credits": 0.75
+      },
+      {
+        "basket": "L1002 The Art and Science of Building Molecules and Materials",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "basket": "English Language Courses",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 1.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "COL1000",
+        "title": "Introduction to Programming",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "PYL1001",
+        "title": "Introduction to Electrodynamics",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYP1000",
+        "title": "Physics Laboratory",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "MTL1002",
+        "title": "Mathematics II Linear Algebra and Differential Equations",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "CHL1001",
+        "title": "Transport Phenomena",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "Mathematics II Linear Algebra and Differential Equations",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "English Language Courses",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 1.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "CHL1000",
+        "title": "Introduction to Chemical Engineering",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "CHL1002",
+        "title": "Material and Energy Balances",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CHL2001",
+        "title": "Numerical Analysis for Chemical Engineers",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "CHL2002",
+        "title": "Chemical Engineering Thermodynamics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "SBL1100",
+        "title": "Introduction to Biology",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "SBP1100",
+        "title": "Experimental Biology for Engineers",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "MTL2008",
+        "title": "Introduction to Probability and Statistics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "CHL2003",
+        "title": "Fluid Mechanics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CHL2004",
+        "title": "Heat and Mass Transfer",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "CHL2005",
+        "title": "Introduction to Chemical Reaction Engineering",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "COL1101",
+        "title": "Programming with Data Structures",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "DAN2100",
+        "title": "Life Skills 2",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 1.5
+        },
+        "credits": 0.75
+      }
+    ],
+    "5": [
+      {
+        "course_code": "CHL3003",
+        "title": "Fluid Particle Mechanics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CHL3004",
+        "title": "Mass Transfer Operations",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CHL3005",
+        "title": "Reaction Engineering for Environment and Sustainability",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CHL3001",
+        "title": "Data Analysis and Machine Learning for Process Systems",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "CHP3101",
+        "title": "Chemical Engineering Laboratory-I",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 3.0
+        },
+        "credits": 1.5
+      },
+      {
+        "basket": "L3005 Reaction Engineering for Environment and Sustainability",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      }
+    ],
+    "6": [
+      {
+        "course_code": "CHL3006",
+        "title": "Process Dynamics and Control",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "CHL3007",
+        "title": "Process Technology and Economics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CHL3008",
+        "title": "Equipment and Plant Design",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "CHP3102",
+        "title": "Chemical Engineering Laboratory-II",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 3.0
+        },
+        "credits": 1.5
+      },
+      {
+        "course_code": "CHP3103",
+        "title": "Chemical Engineering Laboratory-III",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 3.0
+        },
+        "credits": 1.5
+      }
+    ],
+    "7": [
+      {
+        "course_code": "CHP3104",
+        "title": "Chemical Engineering Laboratory-IV",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 3.0
+        },
+        "credits": 1.5
+      }
+    ]
+  },
+  "raw_text_preview": "CH1 \u2013 B.Tech. in Chemical Engineering\nB.Tech. in Chemical Engineering\nChemical Engineering, Department of\nProgramme Code: CH1\nB. Tech.\nOverall Credit Structure\nCourse Category Credits\nBS (Basic Sciences)\n24\nGE (General Engineering)\n24\nHS (Humanities and Social Sciences)\n15\nDC (Departmental Core)\n61\nDE (Departmental Electives)\n12\nOC (Open Category)\n9\nTotal Graded Credit Requirement\n145\nNon-Graded Units (NGU) Units\nLife skills\n2\nEnglish language learning\n2\nDepartmental project, internship experience\n2\nNCC / NSO / NSS\n2\nTotal Non-Graded Units\n8\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nApply knowledge of basic science and engineering principles to analyze and solve chemical engineering challenges.\nPLO 2\nUse contemporary engineering tools and methods necessary for safe practices in chemical engineering.\nPLO 3\nCommunicate effectively, embrace teamwork, and demonstrate integrity, leadership and innovation for industrial and societal needs.\nPLO 4\nIdentify and analyze challenging problems and solutions that impact industries and society\nPLO 5\nApply chemical engineering principles and analytical skills to provide solutions to multidisciplinary problems, ensuring efficiency and sustainability.\nGeneral Engineering Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nELL1000 Introduction to Electrical Engineering 2 1 2 4\nMEP1000 Engineering Visualization 0.5 0 3 2\nMEP1001 Manufacturing for Product Innovation 0.5 0 3 2\nCOL1000 Introduction to Programming 3 0 2 4\nMTL2008 Introduction to Probability and Statistics 3 1 0 4\nCOL1101 Programming with Data Structures 3 0 2 4\nBasic Science Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCMP1000 Chemistry Laboratory 0 0 4 2\nMTL1001 Mathematics I Calculus 3 1 0 4\nPYL1001 Introduction to Electrodynamics 2 1 0 3\nPYP1000 Physics Laboratory 0 0 4 2\nMTL1002 Mathematics II Linear Algebra and Differential Equations 3 1 0 4\nSBP1100 Experimental Biology for Engineers 0 0 2 1\nDepartmental Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCHD4800 Capstone Project \u2013 \u2013 \u2013 \u2013\nCHD4801 BTech Project \u2013 \u2013 \u2013 \u2013\nCHL1000 Introduction to Chemical Engineering 1 0 0 1"
+}

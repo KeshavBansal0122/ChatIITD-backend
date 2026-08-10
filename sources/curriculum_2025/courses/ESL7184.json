@@ -1,0 +1,16 @@
+{
+  "code": "ESL7184",
+  "name": "Cogeneration and Energy Efficiency",
+  "description": "The cogeneration concept, main design parameters for cogeneration, cogeneration alternatives, cogeneration efficiency, steam turbine plants, gas turbine plants, spark ignition engine and compression ignition engine power plant, combined cycle power plant, sterling engine, industry/utility cogeneration, tri-generation, polygeneration, case studies of cogeneration in different industries (sugar, textile, paper and steel).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ES",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ES#ESL7184"
+}

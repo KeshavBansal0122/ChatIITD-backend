@@ -1,0 +1,16 @@
+{
+  "code": "CHD7800",
+  "name": "Mini Project",
+  "description": "Formulation of the problem. Literature search. Design and fabrication of the experimental setup (for experimental projects). Study of experimental techniques (for experimental projects). Formulation of equations and analytical/numerical solutions (for modeling projects). Analysis of results. Presentation of results and scientific reporting in form of report and presentation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CH",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CH#CHD7800"
+}

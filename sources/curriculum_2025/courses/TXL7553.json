@@ -1,0 +1,16 @@
+{
+  "code": "TXL7553",
+  "name": "Principles of Characterization of Functional and Technical Textiles",
+  "description": "Characterization of low-stress mechanical characteristics: bending, shear, tensile, frictional, and surface roughness characteristics; KESF systems and analysis; FAST system and analysis. Characterization of transmission characteristics: thermal transmission; liquid transmission (wetting and wicking); moisture vapour transmission. Characterization of various technical textile materials: extreme heat, fire, and cold protective clothing; geotextiles; filter fabrics; fibre reinforced composite materials, electromagnetic shielding textiles; compression bandages; ballistic protective textiles; UV protective textiles; hygiene and medical textiles; cut protective textiles, automotive textiles; etc. Analysis of test results, practical numerical in different sections.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL7553"
+}

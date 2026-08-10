@@ -1,0 +1,16 @@
+{
+  "code": "ESL2060",
+  "name": "Circuit Analysis and Control Systems",
+  "description": "This course will deal with circuits, their types, properties, models and different circuit modeling methods. Different types of circuit responses. Steady state analysis of electric networks with dependent and independent dc/ac/mix frequency sources. Power in ac circuit, power factor correction. Time and frequency domain analysis of first (RC and RL) and second order (RLC) circuits with ac and dc sources, Modelling of Inductively coupled circuits, Two-port networks, its parameters, their connections and relations, Application of forward and inverse Laplace to find out network responses to arbitrary input signals, Network functions and their applications, Block-diagram (and Signal-flow-graph) representation of systems and their reduction to get transfer function, stability analysis, Definition and significance of Frequency response, Nyquist and Bode plots, Time domain vs. frequency-domain design approaches, PID controller, Lag-lead compensator, and Pole placement design techniques, Concept of states, State-space modelling of general systems and linearization State-space to transfer function.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ES",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ES#ESL2060"
+}

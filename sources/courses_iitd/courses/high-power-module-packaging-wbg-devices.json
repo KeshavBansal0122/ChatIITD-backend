@@ -1,0 +1,22 @@
+{
+  "code": "ELL7510",
+  "name": "High Power Module Packaging for WBG Devices",
+  "description": "Packaging challenges and design techniques for wide-bandgap (WBG) devices, such as SiC, GaN, and diamond. Comparative analysis with Si devices, advantages in switching performance and efficiency. Interconnection technologies including die-attach, wire bonding, clip bonding, planar, and 3D interconnections. Substrate technologies, e.g., metallized ceramics, DBC, AMB, and IMS. DBC patterning for various topologies - half-bridge, full bridge, T-type, NPC, etc. Power module terminations, routing strategies for minimizing parasitic inductance, kelvin source configurations, and NTC integration. Multi-physics simulations - electrical and thermal FEM simulations, parasitic extraction, layout strategies for multi-chip modules ensuring balanced gate and power loops, and thermal management using heat sinks, cold plates, and thermal interface materials. Electrical, thermal, and mechanical testing, double pulse test. Recent advances in packaging technologies such as PCB-embedded modules and heterogeneous integration with gate drivers.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "High Power Module Packaging for WBG Devices | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "High Power Module Packaging for WBG Devices"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/high-power-module-packaging-wbg-devices",
+  "slug": "high-power-module-packaging-wbg-devices"
+}

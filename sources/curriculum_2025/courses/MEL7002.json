@@ -1,0 +1,16 @@
+{
+  "code": "MEL7002",
+  "name": "Fundamentals of Elastic Metamaterial",
+  "description": "Introduction, fundamentals of vibration, longitudinal waves in 1D monatomic and diatomic lattices, effective material property manipulation in 1D lattice system, effective property realization, longitudinal waves in 1D continuum bars, flexural waves in a beam, fundamentals of elastic waves in 2D elastic media, wave propagation in damped lattice materials, application of metamaterial.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL7002"
+}

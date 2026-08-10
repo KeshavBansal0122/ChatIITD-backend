@@ -1,0 +1,22 @@
+{
+  "code": "ELL2100",
+  "name": "Systems and Control",
+  "description": "Mathematical modeling: Nonlinear and Linear; State space and transfer function representation; Linearization; Block reduction; Time response and state transition matrix; Steady state error; Stability: Asymptotic and BIBO; Stability analysis: Routh-Hurwitz, Nyquist contour and Nyquist stability criterion; Gain and Phase margins; Bode plots; Root locus; Controllers: P, PI, PD, PID, Lead; Lag, Lag-Lead; Controller design using root-locus and Bode plots; Introduction to Controllability and Observability.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL1205",
+  "overlap": null,
+  "learning_outcomes": [
+    "Systems and Control | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Systems and Control"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/systems-and-control",
+  "slug": "systems-and-control"
+}

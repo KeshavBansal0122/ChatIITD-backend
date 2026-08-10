@@ -1,0 +1,22 @@
+{
+  "code": "CRL7051",
+  "name": "Quantum Communications and Information Processing",
+  "description": "Vector spaces and Hilbert spaces; postulates of quantum mechanics; classical and quantum optical communication systems; quantum decision theory and POVM; suboptimization: square root measurements; quantum modulation schemes: OOK, BPSK, PSK, QAM; quantum information theory; quantum key distribution (QKD); continuous variable quantum information.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(MTL1106&ELL2205)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Quantum Communications and Information Processing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Quantum Communications and Information Processing"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/quantum-communications-and-information-processing",
+  "slug": "quantum-communications-and-information-processing"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MTL7146",
+  "name": "Methods of Applied Mathematics",
+  "description": "Sturm-Liouville eigenvalue problems, Expansion in Eigen functions, Fourier series and Fourier Integral,\northogonal expansion, mean square approximation, completeness,\northogonal polynomials and their properties.\nIntegral transform and their applications.\nGeneral variation of a functional, direct variation, variational problems.\nIntegral equations of voltera and Fredhlom type, seperable and\nsymmetric kernels, Hilbert-Schmidth theory, Singular integral\nequations, approximation methods of solving integral equations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Methods of Applied Mathematics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Methods of Applied Mathematics"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/methods-applied-mathematics",
+  "slug": "methods-applied-mathematics"
+}

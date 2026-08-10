@@ -1,0 +1,21 @@
+{
+  "code": "AMD6000",
+  "name": "Major Project",
+  "description": "The major project course offers student officers an opportunity to apply core principles of naval architecture, marine engineering, and ship construction to solve complex, real-world design problems in naval construction. Projects typically involve the concept design of a warship or submarine, or computational/experimental studies related to structural, hydrodynamic, or systems performance. Emphasis is placed on independent learning, systematic application of analytical and numerical tools (such as CFD or FEM), and validation of results. Students work individually or in teams, developing professional project management and technical communication skills. The course culminates in a detailed project report and oral presentation before an academic panel.",
+  "credits": 6.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 12.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Major Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/major-project",
+  "slug": "major-project"
+}

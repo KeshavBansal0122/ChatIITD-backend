@@ -1,0 +1,22 @@
+{
+  "code": "CRL8013",
+  "name": "Electromagnetic Wave Diffraction and Scattering",
+  "description": "The course covers the fundamentals of wave diffraction and scattering, beginning with wave propagation concepts and wave equations. It explores diffraction principles, including Fraunhofer (far-field) and Fresnel (near-field) diffraction, with applications to apertures and obstacles. Scattering phenomena are introduced, covering Rayleigh, Mie, and surface scattering, emphasizing practical implications in optics, acoustics, and electromagnetics. Topics include asymptotic methods such as UGTD and UATD for modeling the diffraction of electromagnetic waves, as well as real-world applications in imaging, communication, and remote sensing. The course concludes with a study of wave interactions in natural and engineered systems, bridging theory, and applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Electromagnetic Wave Diffraction and Scattering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Electromagnetic Wave Diffraction and Scattering"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/electromagnetic-wave-diffraction-and-scattering",
+  "slug": "electromagnetic-wave-diffraction-and-scattering"
+}

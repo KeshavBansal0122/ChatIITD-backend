@@ -1,0 +1,22 @@
+{
+  "code": "PYP1000",
+  "name": "Physics Laboratory",
+  "description": "The course consists of a total of six experiments and a few demonstration experiments, representing hands-on applications of basic electrodynamics, optics, mechanics, waves and oscillations, quantum mechanics, etc. These experiments will explore various properties (reflection, refraction, interference, diffraction, polarisation, dispersion, absorption, etc.) of the electromagnetic waves, such as light, microwave, etc. Analyses of newtonian mechanics in the context of various pendulums, investigation of free, forced and damped oscillations with Pohl&#039;s pendulum, analysing the superposition principle with simple electrical and magnetic circuits, for example, Helmholtz coils.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Physics Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Physics Laboratory"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/physics-laboratory",
+  "slug": "physics-laboratory"
+}

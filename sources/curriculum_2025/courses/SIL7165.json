@@ -1,0 +1,16 @@
+{
+  "code": "SIL7165",
+  "name": "Network and System Security",
+  "description": "Cryptographic hash function, symmetric key and asymmetric key encryption and authentication, key distribution, MITM attacks, replay attacks, DoS attacks, DNSSEC, SSH, TLS, IPSec, BGP security, access control, VPN, firewall, wireless security, software bugs, buffer overflows, unsafe functions, filesystem design issues, code reuse, memory mapping, malware, operating system security, memory safety, address space layout randomization, control flow integrity, penetration testing, static and dynamic analysis, intrusion detection system, bit-flipping, side-channel attacks, trusted execution environment, hardware security, embedded system security, cloud security, blockchain, cryptocurrency, biometric security, adversarial machine learning.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SI",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SI#SIL7165"
+}

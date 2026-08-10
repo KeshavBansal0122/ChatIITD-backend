@@ -1,0 +1,16 @@
+{
+  "code": "TRL8201",
+  "name": "Special Topics in Mobility & Safety",
+  "description": "The course will focus on one or more field/research topics such as logistics, network modelling, safety modelling, surrogate safety, traffic flow, traffic operations, traffic management, mobility and safety in hilly terrains, etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TR#TRL8201"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MED7351",
+  "name": "Major Project Part 1",
+  "description": "This is a project-based assignment where the student is required to meet with the supervisor regularly\u2014at least once a week\u2014to discuss project progress. The scope of the work will vary depending on the specific project and will be determined by the supervisor. The student is expected to dedicate approximately 168 hours to laboratory work, in addition to time spent on background research and project development. By the end of the term, the student should have completed roughly one-third of the work necessary for a master&#039;s thesis-level project at IIT Delhi.",
+  "credits": 6.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 12.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Major Project Part 1 | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Major Project Part 1"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/major-project-part-1-0",
+  "slug": "major-project-part-1-0"
+}

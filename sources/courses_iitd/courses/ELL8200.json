@@ -1,0 +1,22 @@
+{
+  "code": "ELL8200",
+  "name": "Selected Topics in Computing and Intelligent Systems",
+  "description": "Special topics that focus on advances in computer and intelligence systems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Selected Topics in Computing and Intelligent Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Selected Topics in Computing and Intelligent Systems"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/selected-topics-computing-and-intelligent-systems",
+  "slug": "selected-topics-computing-and-intelligent-systems"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "AML7610",
+  "name": "Fluid Structure Interaction",
+  "description": "Introduction, flow separation, vortex shedding, basics of vibration, spring-mass system, free and forced vibration, dimensional analysis, coupled equations of fluid and structure, dimensionless coupled equation, dimensionless numbers in FSI, added mass. Vortex induced vibrations, wake oscillator model, galloping, sloshing, dynamics of continuous solid and fluid systems, vibration induced in pipes by external and internal axial flow, waves and vibrations in FSI, basics of acoustics. Computational techniques for FSI solvers: one-way/explicit versus two-way/implicit coupling, accuracy, and stability criterion.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AML7610"
+}

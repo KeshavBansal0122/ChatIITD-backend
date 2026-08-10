@@ -1,0 +1,22 @@
+{
+  "code": "HSL2742",
+  "name": "Fundamentals of Language Sciences",
+  "description": "This course teaches students the basic concepts in Linguistics concerning sounds, words and sentences, while uncovering the combinatorial rules underlying their generation. Critical aspects of Behaviorism, Information Theory, Turing Machine and Chomsky Hierarchy are covered to explain the origins of modern-day linguistic theories and methods. Particular emphasis is placed on the pertinent contribution of Linguistics in the development of the interdisciplinary field of Cognitive Science. Following this, the construct of language is broken down into its most fundamental elements - sounds, words and sentences. The goal is to teach students to examine any natural language using some universal linguistic primitives and diagnostic tools. Finally, this course informs students about the mechanisms of child language acquisition, and the continuities and differences that one finds between adult human languages, child languages, and other animal communicative systems including bee dances, bird songs and primate calls. With this information in the background, the course dwells into how human language studies help us to critically analyse the features of Large Language Models.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Fundamentals of Language Sciences | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fundamentals of Language Sciences"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fundamentals-language-sciences",
+  "slug": "fundamentals-language-sciences"
+}

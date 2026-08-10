@@ -1,0 +1,16 @@
+{
+  "code": "SIL8123",
+  "name": "Special Topics in Artificial Intelligence for Cyber Security",
+  "description": "The topics covered will be based on current trends and emerging technology in artificial intelligence and cybersecurity. They may include advanced concepts in application security, network security, software security, hardware security, mobile security, reverse engineering, digital forensics, testing, verification, data privacy, machine learning-related security, intrusion detection system, standards, risk management, and compliance.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SI",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SI#SIL8123"
+}

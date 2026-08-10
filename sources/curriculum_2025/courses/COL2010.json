@@ -1,0 +1,16 @@
+{
+  "code": "COL2010",
+  "name": "Data Science",
+  "description": "Introduction to data science; data pre-processing: cleaning, transformation; exploratory data analysis: visualization, statistical analysis; clustering and dimensionality reduction: K-means, PCA; classification: K-NN, logistic regression, decision trees; regression analysis; neural networks basics; data modeling: schema design, ER diagrams; SQL: joins, aggregations, recursive queries; tools: python (pandas, matplotlib, scikit-learn), SQL.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL2010"
+}

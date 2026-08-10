@@ -1,0 +1,22 @@
+{
+  "code": "ELL3307",
+  "name": "Analog Systems IIb",
+  "description": "The course introduces analog signal processing and the characteristics of an ideal operational amplifier. Key topics include negative feedback, virtual ground, inverting and non-inverting amplifiers, integrators, differentiators, and instrumentation amplifiers. Students will also study passive and active filters, comparators, Schmitt triggers with hysteresis, and oscillator circuits, including LC and transconductor-based oscillators, with a focus on design and analysis of complete analog systems.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL3305",
+  "overlap": null,
+  "learning_outcomes": [
+    "Analog Systems IIb | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Analog Systems IIb"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/analog-systems-iib",
+  "slug": "analog-systems-iib"
+}

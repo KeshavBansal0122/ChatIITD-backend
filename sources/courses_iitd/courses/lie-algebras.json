@@ -1,0 +1,21 @@
+{
+  "code": "MTL7356",
+  "name": "Lie Algebras",
+  "description": "Definition of Lie algebras,Lie algebras of derivations, small-dimensional examples, classical Lie algebras (A_n, B_n, C_n, D_n). Ideals, subalgebras, homomorphisms, isomorphism theorems. solvable and nilpotent Lie algebras, the Engel\u2019s theorem, \nBasics of representation theory: Irreducible and indecomposable representations, semisimplicity. Composition series and the Jordan-H(\\&quot;o)\\lder theorem for modules. Operations on representations: subrepresentations, quotients, Homs and tensor products. \nSemisimple Lie algebras: theorems of Lie and Cartan, Killing form, complete reducibility of representations, representations of $sl(2,F)$, root space decomposition.\nRoot system: axiomatic definition, simple roots, Weyl group, irreducible root system, classification of root systems, construction of a root system and automorphism, abstract theory of weights.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "MTL2005/MTL5001",
+  "overlap": null,
+  "learning_outcomes": [
+    "Lie Algebras | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/lie-algebras",
+  "slug": "lie-algebras"
+}

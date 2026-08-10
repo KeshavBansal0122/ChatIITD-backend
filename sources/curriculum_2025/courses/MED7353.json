@@ -1,0 +1,16 @@
+{
+  "code": "MED7353",
+  "name": "Cornerstone Project",
+  "description": "The students will collaborate as a team to tackle real-world engineering challenges using the knowledge they have acquired in their coursework. This collaborative effort aims to foster a productive environment where students can collectively analyze engineering problems with a critical mindset.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MED7353"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "HSL7501",
+  "name": "Indian Logic",
+  "description": "The course will discuss Indian theories of inference (anum\u0101na): inference for oneself (sv\u0101rth\u0101num\u0101na) and inference for the sake of others (par\u0101rth\u0101num\u0101na). Different types of logic such as Ny\u0101ya logic, Buddhist logic (N\u0101g\u0101rjuna-logic and Dign\u0101gaLogic), Jaina logic, Ved\u0101nta logic, and C\u0101rv\u0101ka\u2019s criticism of inference will be studied. A comparative analysis between Indian logic and categorical syllogism will be discussed. The function of Indian logic in symbolic language will be explored and the problems of logic in natural language will also be examined. In addition that, the course also deals with the applications of Indian logic in academic domains as well as in everyday communication.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Indian Logic | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/indian-logic",
+  "slug": "indian-logic"
+}

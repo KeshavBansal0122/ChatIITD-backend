@@ -1,0 +1,22 @@
+{
+  "code": "CVL8520",
+  "name": "Discrete Choice Methods for Travel Demand Analysis",
+  "description": "Introduction to discrete choice modelling \u2013 model specification; Review of model estimation concepts; Random utility maximization and Logit Models; Models for Binary and Multinomial Choice; Nested Logit model; Concepts of heterogeneity and Mixed Multinomial Logit Model; Integrated choice and latent variable model; Models for ordered data; Experimental design for choice modelling; Model estimation by pooling data; Machine learning integrated discrete choice models; Applications of choice models to transportation engineering problems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Discrete Choice Methods for Travel Demand Analysis | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Discrete Choice Methods for Travel Demand Analysis"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/discrete-choice-methods-travel-demand-analysis",
+  "slug": "discrete-choice-methods-travel-demand-analysis"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "DDL7025",
+  "name": "Information Design & Data Visualization",
+  "description": "History of information design; principles of organization of content and data; principles of visual design for data displays; narratives and data storytelling; types of data; types andtools of visual representation of data; preparation of data; chronological representations; geographical representations; visualization of quantitative and abstract data complexity.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DD#DDL7025"
+}

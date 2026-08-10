@@ -1,0 +1,16 @@
+{
+  "code": "CHD8895",
+  "name": "MSR Major Project",
+  "description": "Formulation of the problem. Literature survey. Design and fabrication of experimental setup (for experimental projects). Study of experimental techniques (for experimental projects). Formulation of equations and analytical/numerical solution (for modeling projects). Analysis and interpretation of results. Writing technical report. Presentation of results and scientific reporting in form or thesis and presentation.",
+  "credits": 42.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 84.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CH",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CH#CHD8895"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "COL7378",
+  "name": "Principles of Autonomous Systems",
+  "description": "Introduction (robot as an intelligent agent), discrete Bayes estimation, continuous estimation and localisation, perception and mapping, motion planning, task planning, action and interaction models, robot learning (via reinforcement, imitation learning etc.), POMDPs, human+robot and multi-robot systems, autonomy software/simulation environments, emerging trends, ethical and societal implications.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(COL3333/COL7333/COL7341/AIL7025/COL7375/AIL7021/AIL7022/ELL7286/AML7800/AML7810)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Principles of Autonomous Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Principles of Autonomous Systems"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/principles-autonomous-systems",
+  "slug": "principles-autonomous-systems"
+}

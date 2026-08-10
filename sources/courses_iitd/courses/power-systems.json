@@ -1,0 +1,21 @@
+{
+  "code": "ELL2600",
+  "name": "Power Systems",
+  "description": "Introduction to the basic structure of power systems along with various power generation technologies, modeling of generators, transformers, and transmission lines for power system analysis, per unit system, power flow analysis, fault analysis in power systems, and power system stability studies.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL2500",
+  "overlap": null,
+  "learning_outcomes": [
+    "Power Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/power-systems",
+  "slug": "power-systems"
+}

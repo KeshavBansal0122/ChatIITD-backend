@@ -1,0 +1,22 @@
+{
+  "code": "CHP3102",
+  "name": "Chemical Engineering Laboratory-II",
+  "description": "Demonstrate principles and applications of Mass Transfer and Fluid Particle Mechanics through experiments. Topics covered include: estimation of diffusion coefficient and mass transfer coefficient, vapour-liquid equilibria, separation processes, and humidification operations, flow through packed bed and fluidized bed, Blaine&#039;s apparatus, estimation of drag coefficient, sedimentation analysis, sieve analysis, and particulate separation processes.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "prereq": "CHL3003&CHL3004",
+  "overlap": null,
+  "learning_outcomes": [
+    "Chemical Engineering Laboratory-II | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Chemical Engineering Laboratory-II"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/chemical-engineering-laboratory-ii",
+  "slug": "chemical-engineering-laboratory-ii"
+}

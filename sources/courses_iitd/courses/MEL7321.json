@@ -1,0 +1,22 @@
+{
+  "code": "MEL7321",
+  "name": "Advances in Casting Technology",
+  "description": "The objective of the course is to understand the advances in casting technologies. The solidification behavior of metals, fluidity aspects, grain structure and related mechanical properties are analyzed. Sand casting: sand molding techniques, core sand and core fabrication. Other casting: permanent mold, pressure die casting, squeeze casting, centrifugal casting, continuous casting, stir casting, ultrasonic assisted stir casting. Defects and inspection. Gating system, risering system, casting design: metallurgical consideration, design consideration, economical consideration. Fluidity testing, application of CADCAM in foundry. Casting of complicated shapes: automotive components, casting of light alloys \u2013 aluminum, magnesium and titanium alloys. Aluminum, magnesium based composite casting.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advances in Casting Technology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advances in Casting Technology"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advances-casting-technology",
+  "slug": "advances-casting-technology"
+}

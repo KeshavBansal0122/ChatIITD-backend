@@ -1,0 +1,16 @@
+{
+  "code": "ELD8201",
+  "name": "M.Tech Project Part 2",
+  "description": "This project-based course focuses on research, design, and development within the domain of intelligent and learning-based systems. The work may continue from Major Technical Project Part-1 and can be theoretical, computational, or experimental in nature. Students are expected to integrate foundational knowledge in artificial intelligence, machine learning, and intelligent hardware to formulate and implement innovative, data-driven solutions to real-world problems. The outcomes of the project shall be presented through a detailed technical report (thesis) and a formal presentation demonstrating analytical depth, originality, and impact.",
+  "credits": 12.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 24.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELD8201"
+}

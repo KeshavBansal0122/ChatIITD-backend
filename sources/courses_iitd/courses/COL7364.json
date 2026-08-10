@@ -1,0 +1,22 @@
+{
+  "code": "COL7364",
+  "name": "Information Retrieval and Web Search",
+  "description": "Retrieval models (Boolean, vector-space, probabilistic, language-model, Markov random fields, diversity-aware); design of test collections (TREC, crowd-sourcing) and retrieval effectiveness measures (micro-/macro-f measure, nDCG, BPref); collection models (multinomial repr.; topic mixtures) and topic modeling (LSA/LSI, LDA); search engine architecture (crawling, indexing, and web-page ranking); learning to rank; knowledge graphs; responsible IR, for example, handling bias and fake-news, privacy.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(COL1101&MTL1106)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Information Retrieval and Web Search | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Information Retrieval and Web Search"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/information-retrieval-and-web-search",
+  "slug": "information-retrieval-and-web-search"
+}

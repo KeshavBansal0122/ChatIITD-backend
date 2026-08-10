@@ -1,0 +1,16 @@
+{
+  "code": "HSL2100",
+  "name": "Introduction to Economics",
+  "description": "This course will introduce students to the basics of economics, especially microeconomics, macroeconomics, economics of the public sector, national income accounting and give them some idea of other/new sub-fields in economics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL2100"
+}

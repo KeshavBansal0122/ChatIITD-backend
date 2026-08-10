@@ -1,0 +1,22 @@
+{
+  "code": "SBL7007",
+  "name": "Bacterial Pathogenesis",
+  "description": "Bacterial ultrastructure; pathogens, commensals and opportunistic bacteria; adhesion, invasion and transmission; bacterial virulence factors; biofilms; bacterial protein secretion systems; gene regulation and mobile genetic elements; pathogenicity islands; quorum sensing; interaction with host cells; receptor binding, entry and endosomal escape; cellular survival; immune system and antibacterial defense; bacterial countermeasures; diagnosis and treatment; antibiotics and mechanisms of resistance; vaccination strategies; adaptation and emergence of new pathogens.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "SBL1100/SBL1102",
+  "overlap": null,
+  "learning_outcomes": [
+    "Bacterial Pathogenesis | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Bacterial Pathogenesis"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/bacterial-pathogenesis",
+  "slug": "bacterial-pathogenesis"
+}

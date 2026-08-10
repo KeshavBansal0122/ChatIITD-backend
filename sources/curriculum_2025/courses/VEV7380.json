@@ -1,0 +1,16 @@
+{
+  "code": "VEV7380",
+  "name": "Introduction to Vocal Classical Music",
+  "description": "The course will start with the introduction to a classical concert. A top-down approach will be applied to identify the components in a concert, namely, different types of compositions and fundamental elements. The elements of a composition including the raag (melody), swar (notes), laya (rhythm), taal (meter) and lyrics will be discussed. This will be further dissected to identify the notes and movements involved in a melody. The role of spontaneity and creativity in music and how these are systematically developed will be discussed. The differences between south and north Indian forms of music will be discussed. Discussions on other aspects and genres of music such as folk, regional, and popular music will also form part of the course.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "VE",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=VE#VEV7380"
+}

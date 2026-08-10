@@ -1,0 +1,22 @@
+{
+  "code": "CHL7513",
+  "name": "Powder Processing and Technology",
+  "description": "Powder characterization for size, shape, surface area, flowability, and their relationship. Characterization techniques: light scattering, light extinction, sedimentation, ultrasonic methods. Powder storage: designing of silos, flow of powders, measurement of flow factors, analytical methods for flow problems in chutes, cyclones and silos, funnel, and mass flow. Segregation of powder during flow through chutes and air-induced flows. Segregation during heap formation. Comminution equipment: selection and design. Particle size control in grinding circuit analysis. Gas-solid separation equipment, application for pollution control.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Powder Processing and Technology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Powder Processing and Technology"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/powder-processing-and-technology",
+  "slug": "powder-processing-and-technology"
+}

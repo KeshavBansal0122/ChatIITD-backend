@@ -1,0 +1,16 @@
+{
+  "code": "TXL7551",
+  "name": "Modelling and Simulation of Fibrous Assemblies",
+  "description": "Introduction to textile modelling and simulation, stochastic and stereological methods: random fibrous assemblies, anisotropy characteristics in fibrous structures, two and three-dimensional fibrous networks; machine learning in fibrous assemblies: artificial neural networks (ANN), convolutional neural networks (CNN), support vector machines (SVM), decision trees, reinforcement learning, applications of artificial intelligence (AI) in textiles; fuzzy logic and genetic algorithms: crisp and fuzzy sets, membership functions, fuzzification, defuzzification, optimization using genetic algorithms (GA); molecular dynamics (MD) simulation: fundamentals of MD, fibre-to-fibre interactions at the nanoscale, applications in tensile, bending, and shear behaviour prediction; curve fitting techniques: mechanical property prediction of fibrous assemblies, process-structure-property relationships; computational fluid dynamics (CFD): simulation of fluid flow, heat and mass transfer in porous fibrous materials; multiscale modelling: geometrical modelling of textile structures, integrating MD, CFD, and AI-based predictive approaches.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL7551"
+}

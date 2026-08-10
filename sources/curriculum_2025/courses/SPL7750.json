@@ -1,0 +1,16 @@
+{
+  "code": "SPL7750",
+  "name": "Qualitative Research Methods",
+  "description": "The course is a deep dive in to various qualitative research methodologies and methods, that are useful for examining various policy and social issues. It exposes students to various theories (phenomenology, space, grounded theory etc.), ethical issues, positionality, qualitative data collection methods (including ethnography, participant observation, interviews, focus groups), tools for analysing qualitative data (coding methods, QDAS software (Nvivo or AtlasTi). It also prepares students to write up qualitative findings. Students also learn to use one tool about analysing qualitative data.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SP",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SP#SPL7750"
+}

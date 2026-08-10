@@ -1,0 +1,16 @@
+{
+  "code": "JCD8191",
+  "name": "Minor Project",
+  "description": "Engage in focused, independent research or development work under supervision in the domain of cyber security. Conduct a literature survey, problem formulation, design, implementation, and evaluation of algorithms or systems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "J",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=J#JCD8191"
+}

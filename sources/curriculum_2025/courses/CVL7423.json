@@ -1,0 +1,16 @@
+{
+  "code": "CVL7423",
+  "name": "Earthquake Resistant Design of Structures",
+  "description": "Seismology, seismic risk and hazard; soil dynamics and seismic inputs to structures; single degree of freedom structures (SDOF); multi degree of freedom structures (MDOF); response spectrum analysis (RSA); earthquake resistant design philosophy; elastic static analysis; inelastic static pushover analysis; modal response spectrum analysis; dynamic analysis; dynamic soil-structure interaction; performance based earthquake engineering; code provisions for seismic design of structures; retrofitting and strengthening of structures; concept of base isolation design and structural vibration control; advanced topics in earthquake engineering.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7423"
+}

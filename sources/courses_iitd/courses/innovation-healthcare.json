@@ -1,0 +1,22 @@
+{
+  "code": "MSL7717",
+  "name": "Innovation in Healthcare",
+  "description": "This course contains the following topics:\nHealthcare&#039;s Special Structure: Why Innovation in Health is Hard\nTypes of Innovation\nTechnologies: Promises and Pitfalls\nBusiness Models\nAdoption, Implementation and Ethics\nHealthcare Innovation in Low-Resource Settings",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(MSL7701) &(MSL7702)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Innovation in Healthcare | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Innovation in Healthcare"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/innovation-healthcare",
+  "slug": "innovation-healthcare"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "PYP3005",
+  "name": "Engineering Physics Laboratory - III",
+  "description": "The course consists of a total of 6-8 experiments. The experiments will expose the students to learn the methodologies for understanding properties of quantum materials, plasma and solid-state materials by determination of exact resistance of metals, semiconductors, density of charge carriers in semiconductors, the nature of charges responsible for conduction, learning of AI tools in data analysis and interpretations, etc. Further application towards febrication of solar cell and determination of the behavior at various parameters of cells.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Engineering Physics Laboratory - III | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Engineering Physics Laboratory - III"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/engineering-physics-laboratory-iii",
+  "slug": "engineering-physics-laboratory-iii"
+}

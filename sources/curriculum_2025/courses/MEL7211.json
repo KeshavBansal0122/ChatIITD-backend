@@ -1,0 +1,16 @@
+{
+  "code": "MEL7211",
+  "name": "Robotics",
+  "description": "Type and components of robots; classification of closed- and open-loop kinematic systems; definition of mechanisms and manipulators; kinematic constraints; degrees of freedom and mobility; rotation representation; coordinate transformation; DH parameters; matrix methods for forward and inverse kinematics analyses; Jacobian and singularity; dynamic modeling; Euler-Lagrange and Newton-Euler equations of motion for serial type manipulators; DeNOC-based dynamic formulation; inverse and forward dynamics algorithms; parallel robots; inverse and forward kinematics of parallel robots; gain singularity of parallel robots; introduction to control of robotic systems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL7211"
+}

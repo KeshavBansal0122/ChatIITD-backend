@@ -1,0 +1,16 @@
+{
+  "code": "COL7683",
+  "name": "Digital Image Analysis",
+  "description": "Basic image operations, transformations, resampling. Image enhancement and spatial filtering. Image restoration: denoising and deconvolution. Tomographic reconstruction. Colour and multispectral images. Image transforms, pyramids, and wavelets. Image and video compression. Morphological image processing. Edge detection and image segmentation. Feature extraction from images. Neural networks for image analysis and generation.",
+  "credits": 4.5,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL7683"
+}

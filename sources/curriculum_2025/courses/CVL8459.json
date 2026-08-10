@@ -1,0 +1,16 @@
+{
+  "code": "CVL8459",
+  "name": "Durability and Repair of Concrete Structures",
+  "description": "Chemical composition of concrete, permeability and transport processes, corrosion of reinforcement and prestressing steel in concrete, carbonation, chloride attack, alkali-silica reaction, freeze-thaw attack, sulphate attack, acid attack, effect of fire and high temperatures and seawater attack, cracking, weathering, biological processes, non-destructive testing, repairs, protection and retrofitting, durability-based design of structures.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL8459"
+}

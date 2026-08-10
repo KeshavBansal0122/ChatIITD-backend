@@ -1,0 +1,16 @@
+{
+  "code": "HSD6002",
+  "name": "MA Research Project Part - II",
+  "description": "This part of the research project and dissertation writing will involve developing a research idea; doing a feasibility mapping of the research idea; identifying texts, archives, sources and fields; thinking about questions of methodology; articulating possible methodological and analytical routes for the research study; doing a complete literature review; reviewing a text; identifying possible gaps in the literature; possible analysis of the literature.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSD6002"
+}

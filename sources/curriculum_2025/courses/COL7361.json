@@ -1,0 +1,16 @@
+{
+  "code": "COL7361",
+  "name": "Data Mining",
+  "description": "Association rule mining( Apriori algorithm, FP-growth), frequent subgraph mining (gSpan and FSG), clustering (agglomerative clustering, k-means, k-medoid, DBSCAN, OPTICS, MCL, spectral clustering), data streams (FM sketch, reservoir sampling, bloom filters, top-k counting), anomaly detection (chi-square tests, p-values, T-tests), search (k-NN queries, range queries, metric distance, curse of dimensionality, KD-tree, range tree, R-tree, dest-first search, minhash, locality sensitive hashing), web mining (pagerank, random walks with restarts, ), graph neural networks and embeddings(LipSchitz embeddings, GCN, graphSage, GAT, GIN).",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL7361"
+}

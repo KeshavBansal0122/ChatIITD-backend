@@ -1,0 +1,16 @@
+{
+  "code": "DAN1003",
+  "name": "Writing and Editing [Basic]",
+  "description": "This course introduces students to the fundamentals of writing- understanding the process, planning, developing arguments, drafting, revising, and finalizing. Students will learn how to construct coherent, persuasive, and well-structured writeups suitable for academic purposes. The course emphasizes clarity, logical argumentation, grammar, and proper referencing.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DA",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DA#DAN1003"
+}

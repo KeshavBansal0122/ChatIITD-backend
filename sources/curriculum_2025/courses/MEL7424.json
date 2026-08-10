@@ -1,0 +1,16 @@
+{
+  "code": "MEL7424",
+  "name": "Combustion",
+  "description": "Introduction - importance of combustion. Chemical thermodynamics and chemical kinetics. Important chemical mechanisms. Coupling chemical and thermal analysis of reacting systems. Premixed systems: detonation and deflagration, laminar flames, burning velocity, flammability limits, quenching and ignition. Turbulent premixed flames. Non-premixed systems: laminar diffusion flame jet, droplet burning. Combustion of solids: drying, de-volatilization and char combustion. Practical aspects of coal combustion, woodstove combustion.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL7424"
+}

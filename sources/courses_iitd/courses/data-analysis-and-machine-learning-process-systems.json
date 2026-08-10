@@ -1,0 +1,22 @@
+{
+  "code": "CHL3001",
+  "name": "Data Analysis and Machine Learning for Process Systems",
+  "description": "Preparation of process data for machine learning: data description, outlier detection, over-sampling, under-sampling, basics of databases. Application of supervised learning on process data: regression, decision trees and ensemble methods, support vector machines, neural network, convolutional neural network, recurrent neural network and natural language processing. Application of unsupervised learning on process data: clustering, auto-encoders. Application of reinforced learning on process data. Application of machine learning: fault diagnosis in process plant, surrogate modeling of process systems, batch plant scheduling, control of bioprocesses, and evaluating the polymer recycling technologies.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Data Analysis and Machine Learning for Process Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Data Analysis and Machine Learning for Process Systems"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/data-analysis-and-machine-learning-process-systems",
+  "slug": "data-analysis-and-machine-learning-process-systems"
+}

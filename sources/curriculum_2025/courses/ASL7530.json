@@ -1,0 +1,16 @@
+{
+  "code": "ASL7530",
+  "name": "Atmospheric Aerosols",
+  "description": "Introduction to atmospheric aerosols; characterization of aerosols; physical and optical properties of aerosols, size distribution, refractive indices of aerosols, absorption and scattering of radiation by aerosols; single scattering albedo, aerosol optical depth, aerosol phase function, hygroscopic growth; mixing state, vertical distribution in the atmosphere; aerosol chemical composition; mixing state of aerosols; new particle formation; volatile chemical compounds and gas\u2010to\u2010particle conversion processes; observations and measurements of aerosols; climatology of tropospheric aerosols; stratospheric aerosols; dynamics of single aerosol particle and aerosol population; transport and transformation of aerosols; removal of aerosols; thermodynamics of aerosols; role in nucleation; role in cloud physics; interaction of aerosols with radiation; direct, indirect, and semi\u2010direct effects of aerosols and their influence on climate; aerosol effects on human health and air quality; aerosols in chemistry transport models; aerosols in climate models; latest trends in aerosol research and future directions.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AS#ASL7530"
+}

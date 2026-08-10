@@ -1,0 +1,16 @@
+{
+  "code": "ELL7100",
+  "name": "Mathematical Foundation of Learning and Control",
+  "description": "Vector space, matrix representation, fundamental subspaces, similarity transformation, eigenvalue and eigenvectors, inner product, vector and matrix norms, orthogonality, matrix factorization: LU, QR, singular value decomposition (SVD), projections, pseudo-inverse, solution of linear system of equations, quadratic forms and definiteness of matrices, sequences, sequence convergence, gradient and Hessian, convex sets and functions, optimality conditions, gradient descent algorithm, least square solution, minimum norm solution to linear equations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7100"
+}

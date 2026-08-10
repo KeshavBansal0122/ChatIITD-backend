@@ -1,0 +1,16 @@
+{
+  "code": "MLL7304",
+  "name": "Materials Simulation Methods Using High Performance Computing",
+  "description": "Overview of length and time scales in materials modeling and high performance computing in materials. Molecular simulation methods: interatomic potentials: potential energy surface, molecular dynamics (MD) basics and algorithm. Enhanced sampling methods: free energy landscapes of materials, collective coordinates, phase diagrams, replica exchange molecular dynamics, umbrella sampling, metadynamics, thermodynamic integration, an overview of mesoscale methods: Brownian dynamics, dissipative particle dynamics. High performance computing (HPC) in materials simulations: introduction to HPC architecture and organization: memory hierarchy, shared and distributed memory architectures, multiprocessor architecture, accelerators (GPU), performance prediction and evaluation, running simulations in HPC environment, cluster level load balancing, parallelization in popular software like LAMMPS and GROMACS: domain/spatial decomposition, distribution of nonbonded interactions, dynamic load balancing, multiprocessor communication. Hands-on lab: applications in different materials systems: conformational transitions in polymers, simulations of nanomaterials, biomaterials, modeling and simulation of colloidal dispersion, melting of metal cluster.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ML",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ML#MLL7304"
+}

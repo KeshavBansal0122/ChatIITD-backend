@@ -1,0 +1,22 @@
+{
+  "code": "HSL5012",
+  "name": "Macroeconomics I",
+  "description": "The course provides an understanding of the structure of the macroeconomy. It studies the relationship between macroeconomic variables, such as output and investment, and interest rate and money. It examines labour, commodity, and money markets and their interactions in the context of growing global trade and financial exchanges. It studies the actions of the government and the Central Bank and the impacts of policies on various social classes. The course will cover debates between macroeconomic ideas, mainly the neoclassical and Keynesian-heterodox schools, and some of their modern-day reincarnations. It aims to develop students\u2019 capabilities to analyse macroeconomic data and developments.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Macroeconomics I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Macroeconomics I"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/macroeconomics-i",
+  "slug": "macroeconomics-i"
+}

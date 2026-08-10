@@ -1,0 +1,22 @@
+{
+  "code": "ELL7401",
+  "name": "Digital Communications",
+  "description": "Review of random variables, random process and Markov chains, PSDs of random processes, signal space concepts, common modulated signals and their power spectral densities, results from Landau-Pollak theorem, optimum receivers for Gaussian channels, coherent and non-coherent receivers and their performance (evaluating BER performance through software tools), MLSE and Viterbi decoding and sphere decoding concepts, basics of information theory, source and channel coding, capacity of channels, introduction to coding schemes, band-limited channels and ISI, pulse-shaping techniques, multicarrier and spread-spectrum signaling, multiple access techniques, introduction to OFDM.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Digital Communications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Digital Communications"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/digital-communications",
+  "slug": "digital-communications"
+}

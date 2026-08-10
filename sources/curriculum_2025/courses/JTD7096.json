@@ -1,0 +1,16 @@
+{
+  "code": "JTD7096",
+  "name": "Minor Project",
+  "description": "On successful completion of this course a student should be able to design and develop novel solutions to wireless research and engineering problems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "J",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=J#JTD7096"
+}

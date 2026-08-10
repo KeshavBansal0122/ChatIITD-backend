@@ -1,0 +1,22 @@
+{
+  "code": "DSD8095",
+  "name": "MS(R) Research Project",
+  "description": "Formulation of the research problem related to Sensors, Instrumentation and Cyber-physical systems. Literature survey. Design and setting up of experimental setup. Mathematical formulation and analytical/numerical solutions. Analysis and interpretation of the results. Technical report writing. Presentation of results among peers and a formal scientific thesis writing followed by a defense presentation.",
+  "credits": 42.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 84.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "MS(R) Research Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "MS(R) Research Project"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/msr-research-project-2",
+  "slug": "msr-research-project-2"
+}

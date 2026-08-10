@@ -1,0 +1,22 @@
+{
+  "code": "COL7187",
+  "name": "Online Algorithms and Competitive Analysis",
+  "description": "Introduction to online computation and competitive analysis, design and analysis of online algorithms, impossibility results, randomization in online computation, memoryless algorithms, potential functions, linear programming duality and applications to online algorithms, work functions, online learning, stochastic online problems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(COL2015/MTL2042) &(COL1002/MTL1080) &MTL1106",
+  "overlap": null,
+  "learning_outcomes": [
+    "Online Algorithms and Competitive Analysis | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Online Algorithms and Competitive Analysis"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/online-algorithms-and-competitive-analysis",
+  "slug": "online-algorithms-and-competitive-analysis"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CML5025",
+  "name": "Structure and Function of Cellular Biomolecules",
+  "description": "Amino acids structure and properties, protein structure and function: hemoglobin, myoglobin, collagen, keratin, protein purification. Structures of DNA and RNA. PCR and DNA sequencing. Enzyme kinetics, regulation, and inhibition. Bacterial growth, quorum sensing, and biofilm.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CM#CML5025"
+}

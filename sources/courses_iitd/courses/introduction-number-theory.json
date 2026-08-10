@@ -1,0 +1,22 @@
+{
+  "code": "MTL3145",
+  "name": "Introduction to Number Theory",
+  "description": "Divisibility, Prime numbers, Infinitude of primes, Fundamental theorem of arithmetic, Euclidean algorithm, Euler totient function, M\u00f6bius function, Divisor function, von Mangoldt function, Chebyshev&#039;s functions, Big-O and Little-o notions, M\u00f6bius inversion formula, Abel&#039;s partial summation formula and applications, Estimates of prime numbers (statements only), Complete and reduced residue systems, Euler-Fermat theorem, Wilson&#039;s theorem, Linear congruences and Chinese remainder theorem, Hensel&#039;s lemma and applications, Quadratic residues and non-residues, Legendre symbol, Quadratic reciprocity law and applications, Jacobi symbol, Representation of integers as sum of squares, Existence of primitive roots, Index computation and its applications in solving polynomial congruences, Dirichlet&#039;s theorem, Algebraic and irrational numbers, Liouville&#039;s theorem and applications, Roth&#039;s theorem (statement only), Continued fraction expansions, Properties of convergents and partial quotients, Improvements of Dirichlet&#039;s theorem, Characterisation of quadratic irrationals, Brahmagupta-Pell equation, Pythagorean triples, Fermat equations, Tangent-chord method, p-adic norm, p-adic numbers, Hensel&#039;s lemma revisited, Product formula, Ostrowski&#039;s theorem, Binary quadratic forms, Reduction and equivalence of binary quadratic forms, Class number problem (statements only), General quadratic forms, Statement of Hasse-Minkowski theorem, Partition function, Statements of Ramanujan congruences, Roger-Ramanujan continued fractions, Primality and factorisation.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Number Theory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Number Theory"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-number-theory",
+  "slug": "introduction-number-theory"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CML7011",
+  "name": "Advanced Analytical Instrumentation Techniques",
+  "description": "Fundamentals of chemical analysis. Introduction to instrumental methods (optical methods, spectral methods, chromatographic methods). Basic theory, instrumentation and applications of UV-VIS spectroscopy, IR and Raman spectroscopy and fluorescence spectroscopy. Mass spectrometry (fundamentals, ionization techniques and data interpretation). Fundamentals, instrumentation and applications of various advanced chromatographic methods, such as GC, GCMS, HPLC, LC-MS. Basics and application of thermal analysis methods (TGA and DSC).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Analytical Instrumentation Techniques | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Analytical Instrumentation Techniques"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-analytical-instrumentation-techniques",
+  "slug": "advanced-analytical-instrumentation-techniques"
+}

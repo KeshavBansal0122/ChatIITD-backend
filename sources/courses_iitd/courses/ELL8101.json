@@ -1,0 +1,22 @@
+{
+  "code": "ELL8101",
+  "name": "Learning-Based Control",
+  "description": "Introduction to learning-based control, reinforcement learning (RL) for control, RL-methods - policy iteration, value iteration and actor-critic framework, etc., Q-learning for control, adaptive control, approximate dynamic programming, adaptive optimal control, introduction to model predictive control, iterative learning control, data-driven control and identification, Gaussian processes and Bayesian learning for control and identification, case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL7101",
+  "overlap": null,
+  "learning_outcomes": [
+    "Learning-Based Control | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Learning-Based Control"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/learning-based-control",
+  "slug": "learning-based-control"
+}

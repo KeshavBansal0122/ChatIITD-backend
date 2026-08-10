@@ -1,0 +1,22 @@
+{
+  "code": "CVL8457",
+  "name": "Nonlocal Mechanics and Particle Methods",
+  "description": "Brief review of classical mechanics, introduction to nonlocal mechanics, different nonlocal theories, constitutive modeling, size effect, stress concentration, particle-based methods-continuum and discrete approaches, application in structural and geotechnical engineering.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Nonlocal Mechanics and Particle Methods | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Nonlocal Mechanics and Particle Methods"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/nonlocal-mechanics-and-particle-methods",
+  "slug": "nonlocal-mechanics-and-particle-methods"
+}

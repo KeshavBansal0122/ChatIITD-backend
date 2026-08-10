@@ -1,0 +1,22 @@
+{
+  "code": "DDN7000",
+  "name": "Research/Teaching Practicum",
+  "description": "Students will help with teaching, which involves creating course materials, supervising exams and activities in class, encouraging student participation, and marking assignments. Depending on the course material, they are also expected to assist with practicals, tutorials, class projects, and other administrative duties pertaining to the course and the institution. The student will therefore get to learn and work with professional education systems like MS teams, moodle, google classroom, etc, to maintain tasks and track the progress of each assigned task.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Research/Teaching Practicum | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Research/Teaching Practicum"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/researchteaching-practicum",
+  "slug": "researchteaching-practicum"
+}

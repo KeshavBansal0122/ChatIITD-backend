@@ -1,0 +1,16 @@
+{
+  "code": "VEL7210",
+  "name": "Introduction to Yoga and Neuroscience",
+  "description": "Anatomy and physiology: introduction, human anatomy, neuroanatomy, systems, nervous system, human brain mapping, yogic anatomy, pancha koshas, asanas, impact of asanas on systems. Yogic physiology, prana, pranayama, yogic cleansing. Learning, memory and personality: perception, arousal, attention, emotion, learning, memory, language, thought, cognitive biases, yogic psychology, bahirkarana, antahkarana, samskaras and their formation, yama, niyama, pratyahara, dharana, shadripus, prana shuddhi, chitta shuddhi. Beyond personality: mirror neurons, neuroplasticity, yogic perspectives, dhyana, mindfulness and its effect on psychological well-being, samadhi, research methods, first-person neuroscience.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "VE",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=VE#VEL7210"
+}

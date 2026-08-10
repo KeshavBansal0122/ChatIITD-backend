@@ -1,0 +1,22 @@
+{
+  "code": "AIL8027",
+  "name": "Advanced Reinforcement Learning",
+  "description": "Multi-agent RL, constrained RL, hierarchical RL, RL for LLMs, imitation learning, unsupervised RL, distributional RL, meta RL, goal conditioned RL and other advanced topics in RL.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "AIL7024/AIL7025",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Reinforcement Learning | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Reinforcement Learning"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-reinforcement-learning",
+  "slug": "advanced-reinforcement-learning"
+}

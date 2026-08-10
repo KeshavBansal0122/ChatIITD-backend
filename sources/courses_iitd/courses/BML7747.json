@@ -1,0 +1,22 @@
+{
+  "code": "BML7747",
+  "name": "Animal and Alternative Models for Biomedical Research",
+  "description": "\u2022 Introduction: Role and importance of animal models in biomedical research\n\u2022 Classification of clinical trials and biomedical solutions.\n\u2022 Animal models for human disease.\n\u2022 Selection criteria for choosing an animal model for biomedical device testing\n\u2022 The ethical implications associated with animal use.\n\u2022 Database for biomedical animal resources\n\u2022 Well-established models for different diseases (Yeast, worms, flies, animals, and birds)\n\u2022 3Rs principle to reduce, refine, and replace animal models\n\u2022 Alternative to animal models\n\u2022 ISO guidelines to conduct preclinical trials with animals, Different tests and analysis that one needs to plan\n\u2022 Practice and technicalities of animal research\n\u2022 Preclinical trials: Study design, experimentation and data analysis",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Animal and Alternative Models for Biomedical Research | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Animal and Alternative Models for Biomedical Research"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/animal-and-alternative-models-biomedical-research",
+  "slug": "animal-and-alternative-models-biomedical-research"
+}

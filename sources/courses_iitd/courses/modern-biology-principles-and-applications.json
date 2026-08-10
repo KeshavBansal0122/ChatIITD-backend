@@ -1,0 +1,22 @@
+{
+  "code": "SBL1102",
+  "name": "Modern Biology: Principles and Applications",
+  "description": "Complexity in biological systems; Gene and molecular network; Genome organization; Gene editing; Sequencing technologies; Computational approaches in Biology; Environmental microbiology; Emerging trends in Cancer biology; Metabolic disorders; Neurodegenerative disorders; Introductory Stem cell biology: Stem cell development and differentiation, applications; Emerging diagnostic technologies (challenges in traditional diagnostics, molecular diagnostics, point-of-care diagnostics); Drug design and delivery (computational and screening-based drug design, antiboby-drug conjugates, encapsulation, peptide-based drugs and delivery systems); Engineering designs inspired by biology (molecular motors, DNA origami, molecular mimicry); Sustainability in Bioengineering and Bioethics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": "SBL1100",
+  "overlap": null,
+  "learning_outcomes": [
+    "Modern Biology: Principles and Applications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Modern Biology: Principles and Applications"
+  ],
+  "department": "Introduction to Biology",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/modern-biology-principles-and-applications",
+  "slug": "modern-biology-principles-and-applications"
+}

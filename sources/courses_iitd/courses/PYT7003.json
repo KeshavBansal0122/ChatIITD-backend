@@ -1,0 +1,22 @@
+{
+  "code": "PYT7003",
+  "name": "Summer Internship",
+  "description": "Students will undertake internships within organizations to gain hands-on experience in applying applied optics and quantum photonics principles. The internship aims to enhance their communication skills, teamwork, and collaborative abilities, while providing exposure to real-world, industry-relevant challenges. Each student will be assigned a project by their industry supervisor and will be expected to address such problems using appropriate methodologies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Summer Internship | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Summer Internship"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/summer-internship-8",
+  "slug": "summer-internship-8"
+}

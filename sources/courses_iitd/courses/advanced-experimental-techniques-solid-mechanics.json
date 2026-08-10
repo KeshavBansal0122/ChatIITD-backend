@@ -1,0 +1,22 @@
+{
+  "code": "AML4010",
+  "name": "Advanced Experimental Techniques in Solid Mechanics",
+  "description": "Review of errors in measurements and other statistical concepts related to errors and their combinations, and probability distributions. Applications related to clip gauges, piezoelectric sensors, and ultrasonic sensors. Coherent gradient sensing (CGS), digital image correlation (DIC) for full field measurements. Moire fringe methods. Characterization of solids under compression, tension and shear. Fatigue and creep analysis. Drop tower. Modal analysis and structural vibrations. Structure health monitoring. Sound absorption characterization of the material. Applications of CT scans to understand microstructure. Practical activities (solids): calibration and application of image based measurement techniques, application of CT scanner in understanding microstructure, flaw detection in the material, studying fatigue response of the material (linear and rotational), studying crack development and propagation in the material, applications of structure health monitoring.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "AML2060AML3010AMP2090",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Experimental Techniques in Solid Mechanics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Experimental Techniques in Solid Mechanics"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-experimental-techniques-solid-mechanics",
+  "slug": "advanced-experimental-techniques-solid-mechanics"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CVP3504",
+  "name": "Construction Materials Laboratory",
+  "description": "Tests to evaluate various properties of the following materials: cement, supplementary cementitious material, chemical admixtures, aggregates, concrete, bricks, steel.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(CVL3504)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Construction Materials Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Construction Materials Laboratory"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/construction-materials-laboratory",
+  "slug": "construction-materials-laboratory"
+}

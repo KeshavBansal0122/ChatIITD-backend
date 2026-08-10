@@ -1,0 +1,457 @@
+{
+  "code": "JCS",
+  "name": "M.Tech. in Cyber Security",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=JCS",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 37.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Identify and mitigate cyber threats in computing systems, design and implement robust security architectures, and possess strong hands-on research and problem-solving skills to address emerging security challenges in complex cyber environments."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Conduct comprehensive security and privacy assessments of computing systems and apply ethical principles in cybersecurity practices."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "COL7001",
+        "title": "Systems Concepts",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "COL7159",
+        "title": "Introduction to Cryptography",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "JCD7101",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "JCD8191",
+        "title": "Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "JCD8192",
+        "title": "M.Tech. Project I",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "12"
+        },
+        "credits": "6"
+      },
+      {
+        "course_code": "JCD8193",
+        "title": "M. Tech. Project II",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "24"
+        },
+        "credits": "12"
+      },
+      {
+        "course_code": "JCP7181",
+        "title": "Advanced Data Structure and Algorithms Lab",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "SIL7159",
+        "title": "Cryptography and Cryptanalysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SIL7165",
+        "title": "Network and System Security",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SIL8001",
+        "title": "Professional Ethics in Applied Computing",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "COL7159",
+        "title": "Introduction to Cryptography",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SIL7159",
+        "title": "Cryptography and Cryptanalysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SIN8000",
+        "title": "Teaching Practicum in Information Technology",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SIN8001",
+        "title": "Research Practicum in Information Technology",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL7418",
+        "title": "Architecture of High Performance Computers",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7524",
+        "title": "Advanced Networks",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7540",
+        "title": "Software Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7880",
+        "title": "Introduction to Parallel and Distributed Computing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COV8280",
+        "title": "Special Module in Verification",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "COV8388",
+        "title": "Special Module on Data Management Systems",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "SIL7163",
+        "title": "Introduction to Blockchains, Cryptocurrencies, and Smart Contracts",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SIL7171",
+        "title": "Mobile Security",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SIL7175",
+        "title": "Biometric Security",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SIL8121",
+        "title": "Special Topics in Cyber Security",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SIL8122",
+        "title": "Special Topics in Cryptography and Cryptanalysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SIL8123",
+        "title": "Special Topics in Artificial Intelligence for Cyber Security",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SIN8000",
+        "title": "Teaching Practicum in Information Technology",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SIN8001",
+        "title": "Research Practicum in Information Technology",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SIV8064",
+        "title": "Special Module on Media Processing &amp; Communication",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "SIV8110",
+        "title": "Special Module in Cyber Security",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "1"
+        },
+        "credits": "1.5"
+      },
+      {
+        "course_code": "SIV8112",
+        "title": "Special Module in Computer Forensics",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "1"
+        },
+        "credits": "1.5"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "COL7001",
+        "title": "Systems Concepts",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "JCP7181",
+        "title": "Advanced Data Structure and Algorithms Lab",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 2.0
+      },
+      {
+        "basket": "JCS Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "JCD7101",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "SIL7165",
+        "title": "Network and System Security",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "JCS Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "JCD8192",
+        "title": "M.Tech. Project I",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 12.0
+        },
+        "credits": 6.0
+      },
+      {
+        "course_code": "SIL8001",
+        "title": "Professional Ethics in Applied Computing",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "basket": "JCS Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "JCD8193",
+        "title": "M. Tech. Project II",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      },
+      {
+        "basket": "JCS Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "JCS \u2013 M.Tech. in Cyber Security\nM.Tech. in Cyber Security\nInformation Technology, Amar Nath and Shashi Khosla School of\nProgramme Code: JCS\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n37\nPE (Programme Elective)\n15\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n58\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nIdentify and mitigate cyber threats in computing systems, design and implement robust security architectures, and possess strong hands-on research and problem-solving skills to address emerging security challenges in complex cyber environments.\nPLO 2\nConduct comprehensive security and privacy assessments of computing systems and apply ethical principles in cybersecurity practices.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCOL7001 Systems Concepts 2 0 0 2\nCOL7159 Introduction to Cryptography 3 0 0 3\nJCD7101 Cornerstone Project 1 0 6 4\nJCD8191 Minor Project 0 0 6 3\nJCD8192 M.Tech. Project I 0 0 12 6\nJCD8193 M. Tech. Project II 0 0 24 12\nJCP7181 Advanced Data Structure and Algorithms Lab 0 0 4 2\nSIL7159 Cryptography and Cryptanalysis 3 0 0 3\nSIL7165 Network and System Security 3 0 2 4\nSIL8001 Professional Ethics in Applied Computing 1 0 0 1\nJCS Cryptography (3-0-0) 3\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCOL7159 Introduction to Cryptography 3 0 0 3\nSIL7159 Cryptography and Cryptanalysis 3 0 0 3\nJCS Teaching/Research Practicum (0-0-8) 4 NGU\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nSIN8000 Teaching Practicum in Information Technology 0 0 6 3\nSIN8001 Research Practicum in Information Technology 0 0 6 3\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCOL7418 Architecture of High Performance Computers 3 0 2 4\nCOL7524 Advanced Networks 3 0 2 4\nCOL7540 Software Engineering 3 0 2 4\nCOL7880 Introduction to Parallel and Distributed Computing 3 0 2 4\nCOV8280 Special Module in Verification 1 0 0 1\nCOV8388 Special Module on Data Management Systems 1 0 0 1\nSIL7163 Introduction to Blockchains, Cryptocurrencies, and Smart Contracts 3 0 2 4\nSIL7171 Mobile Security 3 0 0 3\nSIL7175 Biometric Security 3 0 0 3\nSIL8121 Special Topics in Cyber Security 3 0 0 3\nSIL8122 Special Topics in Cryptography and Cryptanalysis 3 0 0 3\nSIL8123 Special Topics in Artificial Intelligence for Cyber Security 3 0 0 3\nSIN8000 Teaching Practicum in Information Technology 0 0 6 3\nSIN8001 Research Practicum in Information Technology 0 0 6 3"
+}

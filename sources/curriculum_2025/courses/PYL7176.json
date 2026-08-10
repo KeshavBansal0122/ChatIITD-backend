@@ -1,0 +1,16 @@
+{
+  "code": "PYL7176",
+  "name": "Cold and Process Plasmas",
+  "description": "Introduction to cold plasmas, weakly ionized gases, understanding dynamic of energetic electrons and heavy species (ions, metastables, and radiative species, free radicals) at low temperature, understanding strongly excited states of heavy species, chemical properties, methods for process plasma generation as continuous, pulsed or alternating electromagnetic fields, applied to very different electrode and reactor geometries, role of plasma-based media ranging from rare gases to liquids, jet plasmas, dielectric barrier discharges. Plasma characteristic space and temporal scales, application in plasma-surface interactions, microelectronics (synthesis of components by deposition or plasma etching) and more generally the engineering of materials where plasmas are studied to functionalize, texturize or even clean surfaces, treatment of gaseous and liquid effluents.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL7176"
+}

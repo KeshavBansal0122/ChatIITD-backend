@@ -1,0 +1,22 @@
+{
+  "code": "BML8000",
+  "name": "Research Techniques in Biomedical Engineering",
+  "description": "This course equips students with foundational and applied knowledge in biomedical engineering, covering physiological systems, sensors, biomedical circuits, and clinical diagnostics. Students gain hands-on skills in PCB design, signal processing, and medical imaging, while also exploring emerging technologies, research methodologies, biostatistics, and ethical practices in biomedical research and healthcare innovation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Research Techniques in Biomedical Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Research Techniques in Biomedical Engineering"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/research-techniques-biomedical-engineering",
+  "slug": "research-techniques-biomedical-engineering"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CVN7601",
+  "name": "Teaching/Research Practicum in Rock Engineering and Underground Structures",
+  "description": "The goal of this course is to develop professional competencies in teaching, research methodology, and academic communication. Participants will gain hands-on experience in delivering lectures, evaluation, writing research proposals, and managing labs.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVN7601"
+}

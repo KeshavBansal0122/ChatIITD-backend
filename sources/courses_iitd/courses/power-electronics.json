@@ -1,0 +1,22 @@
+{
+  "code": "ELL2501",
+  "name": "Power Electronics",
+  "description": "Steady-state operating principles of switching converters\nDC-DC power conversion: operation of buck, boost, and buck-boost converters, switch realization, loss mechanisms in switching converters - conduction and switching loss, continuous and discontinuous conduction mode operation, isolated DC-DC converters.\nDC-AC power conversion: inverter circuit configurations and principle of operation, VSI and CSI, single and three-phase inverters, Square wave and sinusoidal PWM control methods, harmonic analysis and selective harmonic elimination.\nAC-DC power conversion: uncontrolled, semi-controlled, fully controlled and dual converters in single-phase and three-phase configurations, design, phase control, harmonic analysis, firing circuits and their designs, improved power quality AC-DC converters\nAC-AC power conversion: single-phase and three-phase ac voltage controllers, design and control.\nDesign of elements: capacitor selection and calculations, inductor and transformer design.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL1001",
+  "overlap": null,
+  "learning_outcomes": [
+    "Power Electronics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Power Electronics"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/power-electronics",
+  "slug": "power-electronics"
+}

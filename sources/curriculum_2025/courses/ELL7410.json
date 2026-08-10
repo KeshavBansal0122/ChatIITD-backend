@@ -1,0 +1,16 @@
+{
+  "code": "ELL7410",
+  "name": "Statistical Signal Processing",
+  "description": "Properties of autocorrelation and power spectral densities, Wiener-Kintchine theorem, Spectral factorization theorem, Wolds theorem\r\nProperties of autocorrelation matrices of WSS processes, Properties of eigenvalue and eigenvectors of autocorrelation matrices, Cholesky decomposition \r\nParametric and non-parametric spectrum estimation, periodogram, and its bias and variance, the modified periodogram, Minimum variance spectral estimation, Maximum entropy spectral estimate,\r\nParametric spectral estimation, MA, AR and ARMA models, Harmonic process, Subspace techniques, MUSIC, ESPIRIT \r\nOptimum FIR Linear filtering, Properties of the optimum estimator, optimum forward and backward predictors, Optimum IIR linear filters, MMSE, \r\nArray Signal processing, optimum array processing, beam forming, angle estimation\r\nOrder recursive algorithms, Levinson Durbin algorithm, lattice filters, up-down recursions \r\nLeast-squares estimator, properties, square root techniques, Use of QR and SVD, Pseudo-Inverse\r\nAdaptive filters, Steepest descent algorithm, LMS and its performance, variants, approximate analysis of convergence, excess MSE, \r\nRLS and its performance, square-root RLS, Kalman Filters",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7410"
+}

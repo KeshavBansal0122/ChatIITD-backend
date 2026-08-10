@@ -1,0 +1,22 @@
+{
+  "code": "MSL7609",
+  "name": "Advanced Optimization for Business",
+  "description": "The course aims to train advanced and cutting edge optimization techniques which can be applied to business needs. The course content includes: Robust Optimization, Stochastic Optimization, Dynamic Programming, Multi-Objective/Multi-level Optimization, Inverse Optimization and Online Optimization",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(MSL7602)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Optimization for Business | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Optimization for Business"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-optimization-business",
+  "slug": "advanced-optimization-business"
+}

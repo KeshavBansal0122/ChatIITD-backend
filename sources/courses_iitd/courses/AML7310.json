@@ -1,0 +1,22 @@
+{
+  "code": "AML7310",
+  "name": "Mechanics of Cricket",
+  "description": "Structure of cricket bat, ball and pitch, impact of ball on pitch and bat, swing bowling, spin bowling, experiments, simulations",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "AML2010&AML2020",
+  "overlap": null,
+  "learning_outcomes": [
+    "Mechanics of Cricket | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mechanics of Cricket"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mechanics-cricket",
+  "slug": "mechanics-cricket"
+}

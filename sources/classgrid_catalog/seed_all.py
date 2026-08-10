@@ -25,6 +25,7 @@ MIGRATIONS = [
     BACKEND_ROOT / "db" / "migrations" / "001_classgrid_catalog.sql",
     BACKEND_ROOT / "db" / "migrations" / "002_student_enrollments.sql",
     BACKEND_ROOT / "db" / "migrations" / "003_llm_usage_and_credentials.sql",
+    BACKEND_ROOT / "db" / "migrations" / "004_curriculum.sql",
 ]
 DEFAULT_EXPORT_ROOT = HERE / "ldap_exports"
 PY = sys.executable
@@ -134,6 +135,12 @@ def main() -> None:
             "--skip-migration",
         ]
     )
+
+    print("[seed] curriculum programmes + 2025 courses")
+    run([PY, "sources/curriculum_2025/import_curriculum.py"], check=False)
+
+    print("[seed] courses.iitd.ac.in course descriptions")
+    run([PY, "sources/courses_iitd/import_courses_iitd.py"], check=False)
 
     export_root = Path(args.out_dir)
     semesters = discover_local_enrollment_semesters(export_root)

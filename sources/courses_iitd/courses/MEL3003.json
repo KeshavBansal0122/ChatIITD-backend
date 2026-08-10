@@ -1,0 +1,22 @@
+{
+  "code": "MEL3003",
+  "name": "Manufacturing and Service System Design",
+  "description": "Manufacturing strategy, Manufacturing flexibility, Manufacturing complexity, Types of Manufacturing systems\nInvestment decisions using life cycle costing, Service Systems Design, Lot\nsizing and inventory control models, Material Requirement Planning, Aggregate Planning, Performance modelling of manufacturing\nsystems, System reliability and maintenance models, Economic design of quality control plans, Single and\nmixed model assembly line balancing, Shop floor scheduling algorithms, Production control mechanisms like Kanban and CONWIP.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Manufacturing and Service System Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Manufacturing and Service System Design"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/manufacturing-and-service-system-design",
+  "slug": "manufacturing-and-service-system-design"
+}

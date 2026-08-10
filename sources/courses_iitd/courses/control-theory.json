@@ -1,0 +1,21 @@
+{
+  "code": "AML7890",
+  "name": "Control Theory",
+  "description": "Elementary review of dynamical systems. Equations of motion. Numerical solution of ODEs. Linearization. Stability. Laplace transforms and inverse Laplace transforms. Block diagrams. Transfer functions. Feedback loops. Poles and zeros. Transient responses. Stability. The Routh\u2010Hurwitz criterion. Nonminimum phase systems and their transient responses. Steady-state responses. Root locus plots. Nyquist plots. Bode plots. Implications for transient responses. Compensators. Lead and lag compensators. PID controllers. Tuning rules. Stabilization using a stable controller: motivation and sample problems. Discrete-time systems; their stability. State space. Standard form for an LTI system. General solution. Controllability and observability. Pole placement. Connections with classical control. Introduction to optimal control. The linear quadratic regulator. Introduction to time\u2010delayed control. Simulations of nonlinear systems with linearization-based controllers. Case studies from the literature.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(AML2050&AML3080)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Control Theory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/control-theory",
+  "slug": "control-theory"
+}

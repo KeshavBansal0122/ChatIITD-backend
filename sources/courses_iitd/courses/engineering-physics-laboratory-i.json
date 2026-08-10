@@ -1,0 +1,22 @@
+{
+  "code": "PYP2003",
+  "name": "Engineering Physics Laboratory-I",
+  "description": "The course consists of a total of 6 experiments. The experimental setups will consist of light sources of frequencies of different regions (infrared, visible and ultra-violet), power supplies, signal generators, dispersion elements, detectors and digital oscilloscopes. Measurements, data and error analysis, results and discussion will be recorded in the laboratory notebook. Demonstration setups relevant to the theoretical courses in the concurrent semester will also be included in the course.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Engineering Physics Laboratory-I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Engineering Physics Laboratory-I"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/engineering-physics-laboratory-i",
+  "slug": "engineering-physics-laboratory-i"
+}

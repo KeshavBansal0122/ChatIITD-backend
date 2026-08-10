@@ -1,0 +1,22 @@
+{
+  "code": "ELL7435",
+  "name": "Fundamentals of Online Learning",
+  "description": "Online prediction: Majority and weighted majority algorithms, mistake bound; learning with expert advice-exponential weighted average forecaster, convex loss; Non-convex loss, randomization; regret bounds; applications \nOnline convex optimization (OCO): Follow the leader (FTL), regularized FTL (FTRL), Online gradient descent (OGD), stochastic gradient descent (SGD), online mirror descent (OMD), regret bounds; applications \nMulti-armed bandit (MAB): Stochastic MAB, UCB algorithm, asymptotic and minimax optimality, KL-UCB algorithm; Adversarial bandits, Exp3 and Exp3-IX algorithms; Contextual and linear bandits; regret analysis; lower bounds; best arm identification with high probability; Bayesian bandit- Thompson sampling, Gittin\u2019s index; Restless bandits, Whittle\u2019s index; combinatorial and nonstationary bandits; ranking; applications",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL7400MTL2006MTL2008MEL7102",
+  "overlap": null,
+  "learning_outcomes": [
+    "Fundamentals of Online Learning | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fundamentals of Online Learning"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fundamentals-online-learning",
+  "slug": "fundamentals-online-learning"
+}

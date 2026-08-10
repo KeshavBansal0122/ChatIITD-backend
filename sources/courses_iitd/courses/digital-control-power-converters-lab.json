@@ -1,0 +1,22 @@
+{
+  "code": "ELP7504",
+  "name": "Digital Control of Power Converters Lab",
+  "description": "Getting started with digital controller platforms, setting up and connecting with PC, running a sample program. Overview of DSP/FPGA. Getting conversant with the DSP programming/debugging platform and the overall architecture of DSP. Learning different modules in DSP\u2013 GPIO, clock and watchdog timer, interrupts \u2013 different types, their priorities, PIE, vector tables, interrupt service routines (ISR), ADC and DAC, their configuration, SOC, etc., ePWM, its configuration, deadtime, etc., HRPWM. Discrete-time implementation of controller \u2013 different types of transformations (backward Euler, forward Euler, Tustin/Bilinear, etc.), their advantages and disadvantages. Implementation of PLL. Implementation of PI, PID, and PR controllers. Implementation of low-pass, high-pass, and band-pass filters. Different digital realizations \u2013 direct form I, II, etc. Implementation of SPWM, SVPWM, THI SPWM.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Digital Control of Power Converters Lab | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Digital Control of Power Converters Lab"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/digital-control-power-converters-lab",
+  "slug": "digital-control-power-converters-lab"
+}

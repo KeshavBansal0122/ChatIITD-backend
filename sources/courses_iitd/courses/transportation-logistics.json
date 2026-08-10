@@ -1,0 +1,22 @@
+{
+  "code": "CVL7550",
+  "name": "Transportation Logistics",
+  "description": "Evolution of freight and logistics; interrelationships between society, environment and freight transport; survey methodologies to understand freight movement; cost measurement: production, holding, transportation, handling; effect of internal and external variables on cost; demand forecasting; inventory planning and management; transportation and distribution network: design, reverse logistics. Development, management; ware house operations; pricing: perishable, seasonal demand, uncertainty issues; vehicle routing: one-to-one distribution, one-to-many distribution, shortest path algorithm, quickest time algorithm; logistics information system; designing and planning transportation networks; city logistics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CVL7502",
+  "overlap": null,
+  "learning_outcomes": [
+    "Transportation Logistics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Transportation Logistics"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/transportation-logistics",
+  "slug": "transportation-logistics"
+}

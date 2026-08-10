@@ -1,0 +1,16 @@
+{
+  "code": "MTL5006",
+  "name": "Ordinary Differential Equations",
+  "description": "Review of the method of variation of parameter, method of separation of variables, exact equation, integrating factor for 1st order ODE, Bernoulli equation, first order scalar and vector valued ODE, Cauchy-Peano existence theorem, Picard-Lindelof theorem, maximal interval of existence, continuous dependence, Gronwall's inequalities, higher order linear ODE with constant coefficients, Sturm's theory on separation and comparison properties of solutions for second order ODE, two point boundary value problems, Sturm-Liouville problems, Green function, maximum principle and its application, power series method for some special second order ODE, Legendre and Bassel equations, linear system with constant coefficients, fundamental matrix, linear systems with periodic coefficients, Boundedness and asymptotic behaviour of linear systems, critical point for nonlinear systems and their stability, phase plane analysis.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTL5006"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MLL7206",
+  "name": "Tribology and Surface Engineering of Materials",
+  "description": "Surfaces and characterization of surface properties relevant for tribological applications. Mechanics of surfaces in contact. Laws of friction, friction at macroscopic and microscopic length scales. Fundamentals of lubrication: solid and liquid lubrication. Mechanisms and types of wear, strategies for controlling wear. Friction and wear behavior of various classes of materials. Design and selection of materials for tribological applications. Surface modification techniques: surface patterning, surface heat treatment, and surface coatings. Surface and subsurface characterization techniques for tribological applications. Nanomaterials for tribological applications. Recent trends in tribology: Nanotribology, Green tribology, and biomimetics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Tribology and Surface Engineering of Materials | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Tribology and Surface Engineering of Materials"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/tribology-and-surface-engineering-materials",
+  "slug": "tribology-and-surface-engineering-materials"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "HSL7121",
+  "name": "Advanced Probability and Statistical Inference",
+  "description": "This course provides a rigorous treatment of probability theory and statistical inference for graduate students in economics, finance, and other areas of management. It develops the theoretical foundations required for modern quantitative analysis, econometrics, and data-driven decision-making. The course covers probability spaces, random variables, probability distributions, expectations, multivariate distributions, and key limit theorems, followed by statistical inference including properties of estimators, confidence intervals, hypothesis testing, and estimation methods such as method of moments and maximum likelihood. It also introduces the statistical foundations of regression analysis. Emphasis is placed on mathematical reasoning, analytical rigor, and interpretation of statistical results in applied research and managerial contexts. The course equips students with the tools needed for advanced empirical analysis in economics, finance, and management.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL7121"
+}

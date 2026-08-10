@@ -1,0 +1,380 @@
+{
+  "code": "ESR",
+  "name": "M.Tech. in Renewable Energy Technologies and Management",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=ESR",
+  "credit_requirements": [
+    {
+      "category": "GE",
+      "label": "General Engineering",
+      "credits_or_units": 3.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Model and analyze energy systems to assess strategies for the efficient use, storage, and management of energy resources."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Analyze the technical and economic feasibility of renewable energy systems, assess project viability, and evaluate the project development and financing approaches"
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Design and operate renewable energy devices and integrated systems."
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "Develop expertise in carrying out independent research and conveying findings through oral and written communication methods"
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "ESD7952",
+        "title": "Cornerstone Project (Winter)",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "10"
+        },
+        "credits": "5"
+      },
+      {
+        "course_code": "ESD7995",
+        "title": "Minor Project Part-I (ESR)",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESD7996",
+        "title": "Summer Internship",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "ESD7998",
+        "title": "Minor Project Part-II (ESR)",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESD8951",
+        "title": "Major Project Part-I (ESR)",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "12"
+        },
+        "credits": "6"
+      },
+      {
+        "course_code": "ESL7002",
+        "title": "Introduction to the Project Management",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESL7339",
+        "title": "Bioenergy: Resources, Technologies and Applications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESL7365",
+        "title": "Solar Thermal and Photovoltaic Technologies",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESL7368",
+        "title": "Wind and Small Hydro Energy Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESL7742",
+        "title": "Economics and Financing of Renewable Energy Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESN7001",
+        "title": "Ethics in Science and Engineering",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "ESN7003",
+        "title": "Technical Writing",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "ESN7004",
+        "title": "Basic Thermal Engineering",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "ESN7412",
+        "title": "Basic Electrical Engineering",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "ESN7891",
+        "title": "Applied Mathematics and Computational Methods",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "ESP7305",
+        "title": "Renewable Energy Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESD8952",
+        "title": "Major Project Part-II (ESR)",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "24"
+        },
+        "credits": "12"
+      },
+      {
+        "course_code": "ESL7134",
+        "title": "Nuclear Energy",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESL7176",
+        "title": "Industrial Energy &amp; Environment Analysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESL7275",
+        "title": "Liquid Sprays for Energy Sector and Industrial Applications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESL7329",
+        "title": "Renewable Energy and Environment",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESL7340",
+        "title": "Non-Conventional Sources of Energy",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESL7346",
+        "title": "Hydrogen Energy",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESL7352",
+        "title": "Emerging Materials for Next Generation Photovoltaic Applications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESL7355",
+        "title": "Solar Photovoltaic Devices and Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESL7390",
+        "title": "Atomistic Simulations for Energy Applications",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESL7421",
+        "title": "Pulse Width Modulation Techniques and AC Motor Drives",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESL7497",
+        "title": "Operation of Renewable Integrated Electrical Energy Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ESL7537",
+        "title": "Plasma Based Materials Processing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESL7544",
+        "title": "Plasmas for Energy and Environment",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESL7673",
+        "title": "Battery Storage",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESL7756",
+        "title": "Energy Policy and Planning",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESL7774",
+        "title": "Quantitative Methods for Energy Management and Planning",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ESL8455",
+        "title": "Solar Photovoltaic Power Generation",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {},
+  "raw_text_preview": "ESR \u2013 M.Tech. in Renewable Energy Technologies and Management\nM.Tech. in Renewable Energy Technologies and Management\nEnergy Science and Engineering, Department of\nProgramme Code: ESR\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nTotal Graded Credit Requirement\n0\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nModel and analyze energy systems to assess strategies for the efficient use, storage, and management of energy resources.\nPLO 2\nAnalyze the technical and economic feasibility of renewable energy systems, assess project viability, and evaluate the project development and financing approaches\nPLO 3\nDesign and operate renewable energy devices and integrated systems.\nPLO 4\nDevelop expertise in carrying out independent research and conveying findings through oral and written communication methods\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nESD7952 Cornerstone Project (Winter) 0 0 10 5\nESD7995 Minor Project Part\u2013I (ESR) 0 0 6 3\nESD7996 Summer Internship \u2013 \u2013 \u2013 \u2013\nESD7998 Minor Project Part-II (ESR) 0 0 6 3\nESD8951 Major Project Part-I (ESR) 0 0 12 6\nESL7002 Introduction to the Project Management 3 0 0 3\nESL7339 Bioenergy: Resources, Technologies and Applications 3 0 0 3\nESL7365 Solar Thermal and Photovoltaic Technologies 3 0 0 3\nESL7368 Wind and Small Hydro Energy Systems 3 0 0 3\nESL7742 Economics and Financing of Renewable Energy Systems 3 0 0 3\nESN7001 Ethics in Science and Engineering 1 0 0 1\nESN7003 Technical Writing 1 0 0 1\nESN7004 Basic Thermal Engineering 1 0 0 1\nESN7412 Basic Electrical Engineering 1 0 0 1\nESN7891 Applied Mathematics and Computational Methods 1 0 0 1\nESP7305 Renewable Energy Laboratory 0 0 6 3\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nESD8952 Major Project Part-II (ESR) 0 0 24 12\nESL7134 Nuclear Energy 3 0 0 3\nESL7176 Industrial Energy &amp; Environment Analysis 3 0 0 3\nESL7275 Liquid Sprays for Energy Sector and Industrial Applications 3 0 0 3\nESL7329 Renewable Energy and Environment 3 0 0 3\nESL7340 Non-Conventional Sources of Energy 3 0 0 3\nESL7346 Hydrogen Energy 3 0 0 3\nESL7352 Emerging Materials for Next Generation Photovoltaic Applications 3 0 0 3\nESL7355 Solar Photovoltaic Devices and Systems 3 0 0 3\nESL7390 Atomistic Simulations for Energy Applications 2 0 2 3\nESL7421 Pulse Width Modulation Techniques and AC Motor Drives 3 0 0 3\nESL7497 Operation of Renewable Integrated Electrical Energy Systems 3 0 2 4\nESL7537 Plasma Based Materials Processing 3 0 0 3\nESL7544 Plasmas for Energy and Environment 3 0 0 3\nESL7673 Battery Storage 3 0 0 3\nESL7756 Energy Policy and Planning 3 0 0 3\nESL7774 Quantitative Methods for Energy Management and Planning 3 0 0 3\nESL8455 Solar Photovoltaic Power Generation 3 0 0 3\nSemester-wise Schedule\nSem\nCourses &amp; Baskets\nHrs /\nweek\nNGU\nCredits\nTotal\n0\n0"
+}

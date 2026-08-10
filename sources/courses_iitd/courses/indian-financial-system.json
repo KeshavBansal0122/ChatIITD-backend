@@ -1,0 +1,22 @@
+{
+  "code": "MSL7121",
+  "name": "Indian Financial System",
+  "description": "\u2022 Components of the financial system, functions and integration of its sub-components with each other.\n\u2022 Methods of raising capital in the primary markets and their functioning\n\u2022 Dynamics of secondary markets \n\u2022 Financial market instruments and their valuation\n\u2022 Financial Institutions and functioning\n\u2022 Financial services\n\u2022 Financial market regulations and governance",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(MSL7101&(MSL7102)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Indian Financial System | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Indian Financial System"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/indian-financial-system",
+  "slug": "indian-financial-system"
+}

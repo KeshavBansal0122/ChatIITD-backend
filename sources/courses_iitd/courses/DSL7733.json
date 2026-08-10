@@ -1,0 +1,22 @@
+{
+  "code": "DSL7733",
+  "name": "Optical Materials and Optical Techniques in Instrumentation",
+  "description": "Optical materials: Optical and mechanical characteristics of optical glass, metal optics, plastic optics and optical crystals. Manufacturing of optics on optical glass and plastics, Injection molding of plastic optics, Single point diamond turning and CNC milling and micromachining. Crystal optics, anisotropy and its use in non-linear optics. Thermal detectors, photon detectors and Imaging detectors. Optical materials and instrumentation for defense applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Optical Materials and Optical Techniques in Instrumentation | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Optical Materials and Optical Techniques in Instrumentation"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/optical-materials-and-optical-techniques-instrumentation",
+  "slug": "optical-materials-and-optical-techniques-instrumentation"
+}

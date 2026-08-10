@@ -1,0 +1,22 @@
+{
+  "code": "ELL2400",
+  "name": "Electromagnetic Fields and Waves",
+  "description": "Review of Maxwell\u2019s equations, wave propagations in unbounded medium. Boundary conditions, polarization, reflection and refraction of plane waves. Waveguides: parallel-plate guide, TE, TM and TEM waves, rectangular and cylindrical waveguides, resonators. Dielectric guides and optical fibres. Transmission Lines: distributed parameter circuits, traveling and standing waves, impedance matching, Smith chart, analogy with plane waves. Planar transmission lines: stripline, micro stripline. Radiation: retarded potentials, Hertzian dipole, short loop, antenna parameters.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "PYL1001",
+  "overlap": null,
+  "learning_outcomes": [
+    "Electromagnetic Fields and Waves | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Electromagnetic Fields and Waves"
+  ],
+  "department": "Microwave Theory and Techniques",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/electromagnetic-fields-and-waves",
+  "slug": "electromagnetic-fields-and-waves"
+}

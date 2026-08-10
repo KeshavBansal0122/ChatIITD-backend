@@ -1,0 +1,16 @@
+{
+  "code": "TXT7505",
+  "name": "Summer Internship (Fibre Engineering and Textile Chemical Processing)",
+  "description": "The students will be required to undergo summer internship in a textile industry to be aware of the technological status of the industry and also to gain a hands-on-experience and present the experience of internship. They will also be required, if possible, to undertake some projects. The projects related to the current needs of the industry will be preferred. If required, the major projects will be based on the needs/problems of the industry, which can be identified during the summer internship. The involvement of the industry will be ensured by having an industry co-supervisor/mentor in the project.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXT7505"
+}

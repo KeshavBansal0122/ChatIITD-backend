@@ -1,0 +1,16 @@
+{
+  "code": "DDL8000",
+  "name": "DRM, a Methodology for Research into Design",
+  "description": "Introduction (design, design research, major facets, current issues with research into design, need for a methodology for research into design, DRM and its stages); research clarification (goal, types of research, success criteria, initial reference model, initial impact model); descriptive study 1 (reference model, success criteria, measurable criteria); prescriptive study (support development, impact model, support evaluation); descriptive study 2 (application evaluation, success evaluation, impact model evaluation, reference model evaluation); types and examples of research into design.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DD#DDL8000"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ELL7508",
+  "name": "Advanced Topics in Electrical Machines",
+  "description": "Introduction to advancement in area of electrical machines. One part of the course covers understanding of electromagnetic analysis required for understanding electrical machines. This will include analytical solutions of Maxwell&#039;s equations to understands electric and magnetic quasistatic systems, conduction, energy and power flow. Other part of the course covers special machines like linear motors and superconducting machines. Applications of these analytical methods and motors in field of robotics, automation, electric vehicles, pumping etc. Other advanced machines, case studies, simulation of electrical machines are added for enhanced understanding of the topic.",
+  "credits": 0.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Topics in Electrical Machines | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Topics in Electrical Machines"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-topics-electrical-machines",
+  "slug": "advanced-topics-electrical-machines"
+}

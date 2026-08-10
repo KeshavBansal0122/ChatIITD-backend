@@ -1,0 +1,16 @@
+{
+  "code": "PYL1001",
+  "name": "Introduction to Electrodynamics",
+  "description": "Electrostatics: electric field, scalar potential, fundamental theorem of gradients, divergence/curl and divergence/curl theorem. Introduction to Dirac delta function. Energy stored in an electrostatic configuration. Capacitors, conductors. Dielectrics, polarization. Electric susceptibility. Magnetostatics. Biot-Savarts law, vector potential. Magnetic materials, magnetization. Energy stored in a magnetic field. Induced EMF due to changing magnetic field. Development of the differential form of the Maxwell's equations and Poynting vector. Reflection and refraction of EM waves.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL1001"
+}

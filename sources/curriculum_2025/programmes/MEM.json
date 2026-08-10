@@ -1,0 +1,423 @@
+{
+  "code": "MEM",
+  "name": "M.Tech. in Mechanical Design",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=MEM",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 43.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Advanced skills in the field of Mechanical Engineering related to Design, Optimization, Finite element analysis, Vibrations, Dynamics and controls and Solid Mechanics"
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Ability to analyse and design a mechanical component and system to meet desired needs"
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Ability to use modern numerical and experimental tools necessary for mechanical design"
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "Ability to understand the available literature, identify the research needs, devise a methodology and execute it"
+    },
+    {
+      "outcome_id": "PLO5",
+      "text": "Ability to present and communicate the research in a technical report and presentation and develop the necessary professional and research ethics"
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "MED7251",
+        "title": "Major Project Part-1 (Project Intensive Track)",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "MED7252",
+        "title": "Major Project Part-2 (Project Intensive Track)",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "24"
+        },
+        "credits": "12"
+      },
+      {
+        "course_code": "MED7253",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MED7254",
+        "title": "Summer Internship/Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MED7255",
+        "title": "Major Project Part-1 (Industry Oriented Track)",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "MED7256",
+        "title": "Major Project Part-2 (Industry Oriented Track)",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "MEL7001",
+        "title": "Professional Ethics for Mechanical Engineers",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "MEL7201",
+        "title": "Advanced Solid Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7202",
+        "title": "Mechanical System Design",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7203",
+        "title": "Optimum Design",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7204",
+        "title": "Vibration Engineering",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7205",
+        "title": "Dynamics and Control",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7206",
+        "title": "Finite Element Method",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEN7002",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEL7002",
+        "title": "Fundamentals of Elastic Metamaterial",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7211",
+        "title": "Robotics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7213",
+        "title": "Automotive Structural Design",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7215",
+        "title": "Acoustics and Noise Control",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7216",
+        "title": "Machine Learning for Computational Design",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7225",
+        "title": "Design Principles for Precision",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL7232",
+        "title": "Orthopedic Biomechanics and Implant Design",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL8262",
+        "title": "Rotor Dynamics",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MEL8263",
+        "title": "Experimental Modal Analysis",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "MEL7201",
+        "title": "Advanced Solid Mechanics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MEL7203",
+        "title": "Optimum Design",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MEL7202",
+        "title": "Mechanical System Design",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MEL7204",
+        "title": "Vibration Engineering",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MEL7205",
+        "title": "Dynamics and Control",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MEN7002",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "MED7253",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MEL7206",
+        "title": "Finite Element Method",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MEL7001",
+        "title": "Professional Ethics for Mechanical Engineers",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "MEN7002",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "MED7251",
+        "title": "Major Project Part-1 (Project Intensive Track)",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 12.0
+        },
+        "credits": 6.0
+      },
+      {
+        "course_code": "MEN7002",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "MED7252",
+        "title": "Major Project Part-2 (Project Intensive Track)",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      },
+      {
+        "course_code": "MEN7002",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "MEM \u2013 M.Tech. in Mechanical Design\nM.Tech. in Mechanical Design\nMechanical Engineering, Department of\nProgramme Code: MEM\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n43\nPE (Programme Elective)\n12\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n61\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nAdvanced skills in the field of Mechanical Engineering related to Design, Optimization, Finite element analysis, Vibrations, Dynamics and controls and Solid Mechanics\nPLO 2\nAbility to analyse and design a mechanical component and system to meet desired needs\nPLO 3\nAbility to use modern numerical and experimental tools necessary for mechanical design\nPLO 4\nAbility to understand the available literature, identify the research needs, devise a methodology and execute it\nPLO 5\nAbility to present and communicate the research in a technical report and presentation and develop the necessary professional and research ethics\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nMED7251 Major Project Part-1 (Project Intensive Track) \u2013 \u2013 \u2013 \u2013\nMED7252 Major Project Part-2 (Project Intensive Track) 0 0 24 12\nMED7253 Cornerstone Project 0 0 6 3\nMED7254 Summer Internship/Minor Project 0 0 6 3\nMED7255 Major Project Part-1 (Industry Oriented Track) \u2013 \u2013 \u2013 \u2013\nMED7256 Major Project Part-2 (Industry Oriented Track) \u2013 \u2013 \u2013 \u2013\nMEL7001 Professional Ethics for Mechanical Engineers 1 0 0 1\nMEL7201 Advanced Solid Mechanics 3 0 0 3\nMEL7202 Mechanical System Design 2 0 2 3\nMEL7203 Optimum Design 2 0 2 3\nMEL7204 Vibration Engineering 2 0 2 3\nMEL7205 Dynamics and Control 3 0 0 3\nMEL7206 Finite Element Method 2 0 2 3\nMEN7002 Teaching and Research Practicum 0 0 8 4\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nMEL7002 Fundamentals of Elastic Metamaterial 3 0 0 3\nMEL7211 Robotics 3 0 0 3\nMEL7213 Automotive Structural Design 2 0 2 3\nMEL7215 Acoustics and Noise Control 3 0 0 3\nMEL7216 Machine Learning for Computational Design 2 0 2 3\nMEL7225 Design Principles for Precision 2 0 2 3\nMEL7232 Orthopedic Biomechanics and Implant Design 2 0 2 3\nMEL8262 Rotor Dynamics 2 0 2 3\nMEL8263 Experimental Modal Analysis 2 0 2 3\nSemester-wise Schedule\nSem\nCourses &amp; Baskets\nHrs /\nweek\nNGU\nCredits\n1\nMEL7201 Advanced Solid Mechanics\n(3.0-0.0-0.0) 3.00\nMEL7203 Optimum Design\n(2.0-0.0-2.0) 3.00\nMEL7202 Mechanical System Design"
+}

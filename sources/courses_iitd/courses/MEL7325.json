@@ -1,0 +1,22 @@
+{
+  "code": "MEL7325",
+  "name": "Electric Vehicle Battery Pack Manufacturing and Assembly",
+  "description": "The course covers fundamentals of EV battery systems, including Li-ion and emerging chemistries, cell formats, and performance parameters. It addresses battery pack design (electrical, mechanical, and thermal), manufacturing processes (cell sorting, welding, assembly, sealing), and integration of battery management systems (SOC, SOH estimation, balancing, communication). Safety protocols and quality control methods are included. Practical modules involve cell characterisation, module/pack assembly, battery management system (BMS) integration, and thermal testing. Case studies on two-, three-, and four-wheeler packs, along with industry practices, cost analysis, reuse and recyclability, prepare students for roles in EV manufacturing, research and development, and testing.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Electric Vehicle Battery Pack Manufacturing and Assembly | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Electric Vehicle Battery Pack Manufacturing and Assembly"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/electric-vehicle-battery-pack-manufacturing-and-assembly",
+  "slug": "electric-vehicle-battery-pack-manufacturing-and-assembly"
+}

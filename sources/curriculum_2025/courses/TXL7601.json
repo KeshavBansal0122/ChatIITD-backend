@@ -1,0 +1,16 @@
+{
+  "code": "TXL7601",
+  "name": "Design of Experiments and Statistical Analysis",
+  "description": "Objectives, principles, terminologies, guidelines, and applications of design of experiments; completely randomized design; randomized block design; latin square design; two level and three level full factorial designs; fractional factorial designs; robust parameter design; mixture experiments; central composite and box-Behnken designs; response surface methodology; multi-response optimization; analysis of variance; statistical test of hypothesis; analysis of multiple linear regression; use of statistical software packages.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL7601"
+}

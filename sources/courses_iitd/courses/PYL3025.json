@@ -1,0 +1,22 @@
+{
+  "code": "PYL3025",
+  "name": "Computational Physics",
+  "description": "The course will consist of an introduction to the basic numerical tools, such as locating roots of equations, interpolation, numerical differentiation and integration, solutions of algebraic and differential equations, discrete Fourier transform, etc. Applications of Monte-Carlo simulations, optimization and variational methods etc., to problems of interest in multiple areas of physics will also be studied.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Computational Physics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Computational Physics"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/computational-physics",
+  "slug": "computational-physics"
+}

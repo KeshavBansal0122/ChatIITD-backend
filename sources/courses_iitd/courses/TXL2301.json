@@ -1,0 +1,22 @@
+{
+  "code": "TXL2301",
+  "name": "Fabric Manufacture I",
+  "description": "Introduction to various fabric manufacturing principles, weaving, knitting, nonwoven and braiding; stages of woven fabric manufacturing: winding, warping, sizing and weaving. Winding: precision and random winding, digicone winding, yarn tensioning and clearing. Warping: direct and sectional warping. Sizing: size materials, sizing machines. Basic fabric construction: elementary woven constructions, drafting and lifting plans. Primary motions of looms: cam shedding, cam designs, dobby and jacquared systems, picking systems in shuttle, air-jet, water-jet and rapier looms, beat up; secondary and auxiliary motions.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Fabric Manufacture I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fabric Manufacture I"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fabric-manufacture-i",
+  "slug": "fabric-manufacture-i"
+}

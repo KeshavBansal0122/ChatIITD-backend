@@ -1,0 +1,22 @@
+{
+  "code": "ELL7001",
+  "name": "Research Communication For Electrical Engineers",
+  "description": "Introduction to research communication; Principle of effective communication: Clarity, conciseness, coherence, accuracy; Written communication skill: Technical reports, research articles and project proposal writing (Structure of a research paper/report, research problem, outcomes, timeline/scheduling); Visual communication: Effective figures and tables, data representation; Oral Communication: presentation preparation and delivery skill, poster presentation; speaking to large audience (technical and non-technical)",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Research Communication For Electrical Engineers | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Research Communication For Electrical Engineers"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/research-communication-electrical-engineers",
+  "slug": "research-communication-electrical-engineers"
+}

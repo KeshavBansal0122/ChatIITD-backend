@@ -1,0 +1,16 @@
+{
+  "code": "HSL7702",
+  "name": "Computational Linguistics",
+  "description": "This course is designed as an introduction to the field of computational linguistics with a focus on linguistically motivated models of natural language understanding. Lectures will cover three broad methodologies that have dominated the field, namely symbolic, feature-driven and sub-symbolic (neural) models of language. Accordingly, the course is divided into three parts and will cover representative topics for each of these parts, for example computational grammars in symbolic models, part-of-speech tagging in feature-driven models and word similarity for sub-symbolic models. Group assignments will be used to evaluate understanding of the relevant topics. Projects and exams will be used to test conceptual knowledge and practical implementation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL7702"
+}

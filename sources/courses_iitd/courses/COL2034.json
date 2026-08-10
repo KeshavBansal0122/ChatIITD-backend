@@ -1,0 +1,22 @@
+{
+  "code": "COL2034",
+  "name": "Introduction to Computer Networks",
+  "description": "Fundamentals of the internet, internet protocol stack, link layer, framing, error control, medium access control, data and control plane, IP addressing, intra- and inter-domain routing, SDNs, transport protocols, reliability, congestion control, application design models, name resolution, content distribution, key networked applications, wireless networks (mobility, cellular network architecture), basic network security mechanisms (encryption, authentication, integrity), security protocols. Programming assignments will be designed to test network application design concepts, protocol design towards developing error detection and correction methods, efficient network utilization, and familiarization with basic tools such as ping, traceroute, wireshark.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Computer Networks | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Computer Networks"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-computer-networks",
+  "slug": "introduction-computer-networks"
+}

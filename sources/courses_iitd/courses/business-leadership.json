@@ -1,0 +1,22 @@
+{
+  "code": "MSL7527",
+  "name": "Business Leadership",
+  "description": "Students will engage with real-world case studies and leadership challenges, gaining insights into decision-making processes, ethical leadership, and stakeholder management. The curriculum emphasizes emotional intelligence, communication skills, and conflict resolution strategies, equipping participants to lead diverse teams and navigate cross-cultural dynamics.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Business Leadership | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Business Leadership"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/business-leadership",
+  "slug": "business-leadership"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MSL7311",
+  "name": "Advanced AI/ML Applications for Business",
+  "description": "Advanced applications for Supervised/Unsupervised ML, Enterprise applications and evolution of Artificial Neural Networks, Enterprise applications for Deep Learning, Enterprise applications of Ensemble Learning, Learning through practice using no code tools",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced AI/ML Applications for Business | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced AI/ML Applications for Business"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-aiml-applications-business",
+  "slug": "advanced-aiml-applications-business"
+}

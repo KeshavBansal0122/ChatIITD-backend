@@ -1,0 +1,22 @@
+{
+  "code": "RDL7724",
+  "name": "Rural Sanitation and Decentralized Wastewater Management",
+  "description": "Sustainable rural sanitation: concepts and approaches, sanitation systems and technologies, off-grid sanitation, sanitation technology selection, operation and management of sanitation provision and services, decentralized wastewater treatments (DWWM); advantages and disadvantages, site characterization for DWWM; planning for DWWM, wastewater treatment; factors to be considered while selecting technologies for DWWM; available technologies; tertiary treatment; on-site treatment systems; bioremediation and phytoremediation processes; sludge management; operation and maintenance; village industry effluent management, valorization and resource recovery from wastewater in rural areas, case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Rural Sanitation and Decentralized Wastewater Management | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Rural Sanitation and Decentralized Wastewater Management"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/rural-sanitation-and-decentralized-wastewater-management",
+  "slug": "rural-sanitation-and-decentralized-wastewater-management"
+}

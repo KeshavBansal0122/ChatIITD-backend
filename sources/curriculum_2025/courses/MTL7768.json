@@ -1,0 +1,16 @@
+{
+  "code": "MTL7768",
+  "name": "Graph theory",
+  "description": "Introduction to graphs; Trees and distance: properties, spanning trees and enumeration etc.; Matchings and covers; Connectivity: cuts, vertex/edge connectivity, Menger's theorem, etc.; Network flow; Graph coloring: vertex coloring, Brooks' theorem, color critical graphs etc.; Planar graphs: Embeddings, Euler Formula, Kuratowski's theorem, coloring of planar graphs etc.; Line graphs and edge coloring; Hamiltonian cycles; Special classes of graphs: chordal graphs, interval graphs, perfect graphs etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTL7768"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MTL7743",
+  "name": "Fourier Analysis",
+  "description": "Fourier series - definition, uniqueness, convolution, summability, convergence of Fourier series, Fourier series for square integrable functions, Plancheral theorem, Riesz-Fischer theorem, Dini\u2019s condition, divergence of Fourier series. Fourier transform \u2013 Schwartz space on R^n, Fourier transform on the Schwartz space, Fourier transform of L1 functions, Schwartz class, Fourier transform for L2 functions, Plancherel theorem. Tempered distributions- topology on the Schwartz space, tempered distributions and its properties, Fourier transform of tempered distributions. Hardy-Littlewood maximal function- approximations of the identity, weak-type in-equality, Marcinkiewicz interpolation theorem, Hardy-Littlewood maximal function and its properties, Calderon-Zygmund theorem, Riesz-Thorin interpolation theorem. The Hilbert transform: conjugate Poisson kernel, principal value distribution, Riesz and Kolmogorov theorems, multipliers.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Fourier Analysis | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fourier Analysis"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fourier-analysis",
+  "slug": "fourier-analysis"
+}

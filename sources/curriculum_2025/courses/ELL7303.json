@@ -1,0 +1,16 @@
+{
+  "code": "ELL7303",
+  "name": "Semiconductor Device Technology",
+  "description": "Semiconductor materials, semiconductor growth/purification, crystal structure / defects, doping, diffusion, unit processes in device fabrication, including oxidation, ion implantation, rapid thermal processing, optical lithography, cleanroom basics, vacuum systems, plasma processes, etching - chemical and physical, gas chemistry, physical vapor deposition, chemical vapor deposition (CVD), MOCVD, MBE/ALD, planarization and process integration, device yield, introduction to device and system level packaging.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7303"
+}

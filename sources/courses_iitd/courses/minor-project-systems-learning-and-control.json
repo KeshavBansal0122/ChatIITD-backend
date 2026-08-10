@@ -1,0 +1,22 @@
+{
+  "code": "ELD7101",
+  "name": "Minor Project on Systems, Learning and Control",
+  "description": "This is a project-based work. The project work would be theoretical and/or experimental in nature. The scope of project work would vary from project to project. The student is expected to apply the learned theoretical concepts as well as experimental skills to address control problems and provide innovative solutions. The project work is to be communicated through technical/scientific reports and impactful presentations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Minor Project on Systems, Learning and Control | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Minor Project on Systems, Learning and Control"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/minor-project-systems-learning-and-control",
+  "slug": "minor-project-systems-learning-and-control"
+}

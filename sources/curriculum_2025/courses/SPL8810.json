@@ -1,0 +1,16 @@
+{
+  "code": "SPL8810",
+  "name": "Selected Topics in Policy Studies",
+  "description": "This course will introduce students to advanced topics in policy studies, as decided by the instructor.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SP",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SP#SPL8810"
+}

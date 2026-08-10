@@ -1,0 +1,449 @@
+{
+  "code": "CYS",
+  "name": "M.Sc. in Chemistry",
+  "generation": "2025",
+  "degree_type": "msc",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=CYS",
+  "credit_requirements": [],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Explain fundamental and advanced knowledge concepts in chemical synthesis, characterization, analysis, and modelling."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Apply theoretical knowledge and experimental techniques to solve complex chemical problems, including designing and conducting experiments, analysing the data, and interpreting results."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Develop strong laboratory skills through practical and hands-on sessions in various courses. Apply state-of-the-art experimental and computational techniques in cutting-edge research areas across disciplines."
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "Exhibit professional and ethical responsibility in scientific practice and communication, with an awareness of the environmental and global impacts of chemical research and technology."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "CMD6030",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CMD6031",
+        "title": "Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CML5011",
+        "title": "Quantum Chemistry and Spectroscopy",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML5012",
+        "title": "Stereochemistry and Organic Reaction Mechanisms",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML5013",
+        "title": "Physical Methods of Structure Determination Organic Compounds",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML5014",
+        "title": "Main Group Chemistry",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML5015",
+        "title": "Instrumental and Computational Methods of Analysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML5021",
+        "title": "Molecular Thermodynamics &amp; Reaction Dynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML5022",
+        "title": "Organic Synthesis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML5023",
+        "title": "Transition and Inner Transition Metal Chemistry",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML5024",
+        "title": "Basic Organometallic Chemistry",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML5025",
+        "title": "Structure and Function of Cellular Biomolecules",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML6031",
+        "title": "Molecular Biochemistry",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML6032",
+        "title": "Solid-State Chemistry and Materials Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CMP5011",
+        "title": "Lab I",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "CMP5012",
+        "title": "Lab II",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "CMP5021",
+        "title": "Laboratory 3: Organic Chemistry",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "CMP5022",
+        "title": "Biochemistry Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "CML6065",
+        "title": "Biophysical Chemistry",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML6071",
+        "title": "Supramolecular Chemistry",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML6074",
+        "title": "Pericyclic Reactions and Photochemistry",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML6075",
+        "title": "Chemistry of Heterocyclic Compounds",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML6082",
+        "title": "Inorganic Polymers",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML7011",
+        "title": "Advanced Analytical Instrumentation Techniques",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML7014",
+        "title": "Applied Spectroscopy",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML7234",
+        "title": "Chemistry of Nanostructured Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "CML5011",
+        "title": "Quantum Chemistry and Spectroscopy",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CML5012",
+        "title": "Stereochemistry and Organic Reaction Mechanisms",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CML5013",
+        "title": "Physical Methods of Structure Determination Organic Compounds",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CML5014",
+        "title": "Main Group Chemistry",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CML5015",
+        "title": "Instrumental and Computational Methods of Analysis",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CMP5011",
+        "title": "Lab I",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "CMP5012",
+        "title": "Lab II",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 2.0
+      },
+      {
+        "basket": "Physical Methods of Structure Determination Organic Compounds",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "CML5021",
+        "title": "Molecular Thermodynamics &amp; Reaction Dynamics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CML5023",
+        "title": "Transition and Inner Transition Metal Chemistry",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CML5024",
+        "title": "Basic Organometallic Chemistry",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CML5025",
+        "title": "Structure and Function of Cellular Biomolecules",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CMP5022",
+        "title": "Biochemistry Laboratory",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "CMP5021",
+        "title": "Laboratory 3: Organic Chemistry",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 2.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "CML6031",
+        "title": "Molecular Biochemistry",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      }
+    ]
+  },
+  "raw_text_preview": "CYS \u2013 M.Sc. in Chemistry\nM.Sc. in Chemistry\nChemistry, Department of\nProgramme Code: CYS\nM.Sc.\nOverall Credit Structure\nCourse Category Credits\nTotal Graded Credit Requirement\n75\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nExplain fundamental and advanced knowledge concepts in chemical synthesis, characterization, analysis, and modelling.\nPLO 2\nApply theoretical knowledge and experimental techniques to solve complex chemical problems, including designing and conducting experiments, analysing the data, and interpreting results.\nPLO 3\nDevelop strong laboratory skills through practical and hands-on sessions in various courses. Apply state-of-the-art experimental and computational techniques in cutting-edge research areas across disciplines.\nPLO 4\nExhibit professional and ethical responsibility in scientific practice and communication, with an awareness of the environmental and global impacts of chemical research and technology.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCMD6030 Cornerstone Project \u2013 \u2013 \u2013 \u2013\nCMD6031 Minor Project 0 0 8 4\nCML5011 Quantum Chemistry and Spectroscopy 3 0 0 3\nCML5012 Stereochemistry and Organic Reaction Mechanisms 3 0 0 3\nCML5013 Physical Methods of Structure Determination Organic Compounds 3 0 0 3\nCML5014 Main Group Chemistry 3 0 0 3\nCML5015 Instrumental and Computational Methods of Analysis 3 0 0 3\nCML5021 Molecular Thermodynamics &amp; Reaction Dynamics 3 0 0 3\nCML5022 Organic Synthesis 3 0 0 3\nCML5023 Transition and Inner Transition Metal Chemistry 3 0 0 3\nCML5024 Basic Organometallic Chemistry 3 0 0 3\nCML5025 Structure and Function of Cellular Biomolecules 3 0 0 3\nCML6031 Molecular Biochemistry 3 0 0 3\nCML6032 Solid-State Chemistry and Materials Design 3 0 0 3\nCMP5011 Lab I 0 0 4 2\nCMP5012 Lab II 0 0 4 2\nCMP5021 Laboratory 3: Organic Chemistry 0 0 4 2\nCMP5022 Biochemistry Laboratory 0 0 4 2\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCML6065 Biophysical Chemistry 3 0 0 3\nCML6071 Supramolecular Chemistry 3 0 0 3\nCML6074 Pericyclic Reactions and Photochemistry 3 0 0 3\nCML6075 Chemistry of Heterocyclic Compounds 3 0 0 3\nCML6082 Inorganic Polymers 3 0 0 3\nCML7011 Advanced Analytical Instrumentation Techniques 3 0 0 3\nCML7014 Applied Spectroscopy 3 0 0 3\nCML7234 Chemistry of Nanostructured Materials 3 0 0 3\nSemester-wise Schedule\nSem\nCourses &amp; Baskets\nHrs /\nweek\nNGU\nCredits\n1\nCML5011 Quantum Chemistry and Spectroscopy\n(3.0-0.0-0.0) 3.00\nCML5012 Stereochemistry and Organic Reaction Mechanisms\n(3.0-0.0-0.0) 3.00\nCML5013 Physical Methods of Structure Determination Organic Compounds\n(3.0-0.0-0.0) 3.00\nCML5014 Main Group Chemistry\n(3.0-0.0-0.0) 3.00\nCML5015 Instrumental and Computational Methods of Analysis\n(3.0-0.0-0.0) 3.00"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "SBL5000",
+  "name": "Molecular Cell Biology & Genetics",
+  "description": "Lecture: introduction to tools of cell biology; architecture of prokaryotic and eukaryotic cells; DNA, RNA and genetic code; chromosomes and genome organisation- prokaryotes versus eukaryotes; molecular basis of inheritance including mendelian genetics and non-mendelian genetics. Genetic linkage and mapping in both bacteria and eukaryotes. DNA replication, mutations, DNA repair and genetic recombination; gene expression \u2013 transcription, RNA processing, epigenetics and translation. Control of evolution of genes and population genetics. Gene expression.; protein synthesis, processing, and regulation; proteostasis -protein turnover; cell cycle; non-coding RNA; cell renewal and cell death; molecular biology at the cutting edge; special topics in modern genetics including human genome project. Laboratory: visualization of prokaryotic and eukaryotic cells; understanding the requirements for cellular growth and culture; phases of cellular growth; chromosome staining in onion root tip cells and cell division; isolation of genomic DNA from multiple sources; restriction digestion to identify patterns; PCR; human blood antigen identification.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Molecular Cell Biology & Genetics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Molecular Cell Biology & Genetics"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/molecular-cell-biology-genetics",
+  "slug": "molecular-cell-biology-genetics"
+}

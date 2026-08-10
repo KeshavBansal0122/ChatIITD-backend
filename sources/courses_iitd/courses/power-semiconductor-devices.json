@@ -1,0 +1,22 @@
+{
+  "code": "ELL7309",
+  "name": "Power Semiconductor Devices",
+  "description": "Semiconductor crystal structure and physics, introduction to technology basics, doping, transport, recombination, generation and non-equilibrium effects, impact ionization and avalanche processes. pn junctions. pin diodes. Blocking voltage. Schottky diodes. Bipolar transistors. Thyristors. MOS structures and power MOSFETs. IGBTs. Packaging and reliability of semiconductor power devices.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(ELL2303/ELL7302)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Power Semiconductor Devices | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Power Semiconductor Devices"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/power-semiconductor-devices",
+  "slug": "power-semiconductor-devices"
+}

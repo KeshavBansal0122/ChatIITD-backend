@@ -1,0 +1,21 @@
+{
+  "code": "HSL7117",
+  "name": "Game Theory",
+  "description": "This is a selected topics based course in game theory with a modular design. An indicative list of topics is - theory of supermodular games, global games and applications, Markov perfect equilibria in dynamic games, repeated games of imperfect monitoring, auction games, matching problems and information design.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Game Theory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/game-theory",
+  "slug": "game-theory"
+}

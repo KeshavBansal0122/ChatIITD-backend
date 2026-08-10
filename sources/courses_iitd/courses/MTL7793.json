@@ -1,0 +1,22 @@
+{
+  "code": "MTL7793",
+  "name": "Numerical Methods for Hyperbolic PDEs",
+  "description": "Scalar conservation laws: Method of characteristics, Shocks, Rarefactions, weak and entropy solutions, existence and uniqueness results, Finite volume schemes, Riemann solvers, Convergence of first order schemes.\nHigh-order schemes: Lax-Wendroff, TVD schemes, Limiters, ENO schemes, higher-order Runge-Kutta methods.\nLinear systems: Exact solutions, First- and high-order finite volume schemes. \nNon-linear Systems: Solutions of Riemann problems, First-Order finite volume schemes for systems.\nHigh-order schemes for systems: TVD Limiters. Finite-volume schemes on unstructured meshes. Hyperbolic systems with source term",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Numerical Methods for Hyperbolic PDEs | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Numerical Methods for Hyperbolic PDEs"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/numerical-methods-hyperbolic-pdes",
+  "slug": "numerical-methods-hyperbolic-pdes"
+}

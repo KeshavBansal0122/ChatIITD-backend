@@ -1,0 +1,22 @@
+{
+  "code": "ESL7176",
+  "name": "Industrial Energy & Environment Analysis",
+  "description": "Relation between GDP with energy consumption, aggregate and disaggregate analysis, energy intensity, pinch analysis, thermodynamics analysis, specific electrical and thermal energy analysis, energy audits, energy efficiency improvement for high energy intensive industries (cement, steel, petrochemical, sugar, semiconductor, data centre, etc.), analysis of energy losses in mechanical, electrical, electrochemical systems (friction, wall heat transfer, exergy destruction, irreversibility, power factor, ohmic, activation, concentration losses, resistance, reactance, impedance etc), basic approaches and tools for environment analysis, life cycle assessment for energy impacts on environment, embodied energy, waste recycling, inventory of materials and energy inputs and environmental emissions, emission factors (global warming potential, ozone depletion potential, eutrophication, ionization etc.), emission mitigation measures, circular economy, industrial ecology, energy transition with sustainability, relevant ISO standards (such as ISO 14040 and ISO 14044), potential of energy and materials recovery (waste-to-energy, waste-to-material), energy transition with renewables, non-fossil and new energy sources for achieving economic, environment and social sustainability, case studies for high energy intensive industries.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Industrial Energy & Environment Analysis | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Industrial Energy & Environment Analysis"
+  ],
+  "department": "Energy Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/industrial-energy-environment-analysis",
+  "slug": "industrial-energy-environment-analysis"
+}

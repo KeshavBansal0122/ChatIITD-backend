@@ -1,0 +1,22 @@
+{
+  "code": "AML5000",
+  "name": "Ship Resistance and Propulsion",
+  "description": "Ship resistance: components of resistance, dimensional analysis, scaling laws, frictional and wave-making resistance, appendage and shallow-water effects, hull roughness, initial resistance estimation methods, high-speed craft resistance. Model testing: experimental techniques, correlation allowance, global standards for resistance estimation. Propulsion: propeller geometry, propulsion theories, open water and behind-hull propeller performance, cavitation, propulsive efficiency, unconventional propulsion devices. Propeller design: methodical series, circulation theory, engine-propeller matching, speed trials. Computational and experimental methods: application of CFD, empirical formulations, model testing, and power estimation techniques for optimized ship performance.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Ship Resistance and Propulsion | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Ship Resistance and Propulsion"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/ship-resistance-and-propulsion",
+  "slug": "ship-resistance-and-propulsion"
+}

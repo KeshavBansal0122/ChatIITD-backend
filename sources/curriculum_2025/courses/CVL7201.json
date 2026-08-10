@@ -1,0 +1,16 @@
+{
+  "code": "CVL7201",
+  "name": "Engineering Behaviour of Soils",
+  "description": "Origin, nature, and distribution of soils. Clay mineralogy, clay-water-electrolytes. Soil particles characteristics, fabric, and structure. Effective stress principle. Steady state flows in the soil. Effect of flow on effective stress. Consolidation of soils - one, two, three and radial. Total and effective stress-path. Triaxial, direct shear, direct simple shear tests. Shear behaviour of soils under static and dynamic loads. Shear strength and pore pressure parameters. Factors affecting strength: stress history, rate of testing, structure, and temperature. Anisotropy of strength, thixotropy, creep. Determination of in-situ undrained strength. Stress-strain characteristics of soils. Determination modulus values. Critical state model. Engineering behaviour of soils of India.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7201"
+}

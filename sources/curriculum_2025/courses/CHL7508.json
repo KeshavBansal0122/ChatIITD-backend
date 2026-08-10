@@ -1,0 +1,16 @@
+{
+  "code": "CHL7508",
+  "name": "Fundamentals of Capillarity and Wetting",
+  "description": "Fundamentals of molecular interactions, surface tension, capillary forces, capillary rise, deformable interfaces, capillary waves, lubrication, contact angles and hysteresis, contact line motion, Young-Laplace equation, three phase equilibrium, wetting and long-range forces, wetting on heterogeneous surfaces, wetting at soft interfaces, effective interface potential, hydrodynamics of interfaces, friction and lubrication, surface waves, viscous and inertial dewetting, super-hydrophobicity, gravity and electric field, basics of electrowetting.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CH",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CH#CHL7508"
+}

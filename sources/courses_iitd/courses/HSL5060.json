@@ -1,0 +1,22 @@
+{
+  "code": "HSL5060",
+  "name": "Introduction to Cognitive Science",
+  "description": "The course aims to provide an overview of cognitive science. We will begin with providing a historical context that led to the creation of cognitive science, and the need for inter/multi-disciplinarity to study the mind. In this context we will discuss some of the key proposal by prominent thinkers that have provided us with the foundational questions and perspectives to study the mind. We will then provide an extensive overview of how to approach these questions in a inter/multi-disciplinarity fashion. These session will be supplemented by lab visits to get some hands-on experience with various methodologies. We will end the course with discussing the future outlook of cognitive science and its relevance for the betterment of the society.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Cognitive Science | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Cognitive Science"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-cognitive-science",
+  "slug": "introduction-cognitive-science"
+}

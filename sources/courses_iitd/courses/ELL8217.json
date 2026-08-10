@@ -1,0 +1,21 @@
+{
+  "code": "ELL8217",
+  "name": "Access Networks",
+  "description": "Broadband access networks\u2014from architecture to network technologies; challenges -- network construction, fiber cable efficiency, transmission challenges, network scalability; future new fiber nd wireless access transmission technologies, protocols and architectures",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(ELL8018) /(PYL7091&DSL7731)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Access Networks | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/access-networks",
+  "slug": "access-networks"
+}

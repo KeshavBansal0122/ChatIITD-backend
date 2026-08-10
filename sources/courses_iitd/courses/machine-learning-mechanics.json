@@ -1,0 +1,22 @@
+{
+  "code": "AML3030",
+  "name": "Machine Learning for Mechanics",
+  "description": "Introduction to machine learning, supervised and unsupervised learning, KNN algorithm, decision tree, linear regression, logistic regression, bagging and boosting, bias-variance decomposition, generalization, regularization, support vector machine, kernel trick, support vector regression, K-means clustering, expectation maximization, Gaussian mixture model, PCA, KPCA, neural network.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "COL1101&(AML2050/MTL2008/MTL1106)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Machine Learning for Mechanics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Machine Learning for Mechanics"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/machine-learning-mechanics",
+  "slug": "machine-learning-mechanics"
+}

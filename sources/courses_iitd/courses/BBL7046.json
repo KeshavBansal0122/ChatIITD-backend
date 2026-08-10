@@ -1,0 +1,22 @@
+{
+  "code": "BBL7046",
+  "name": "Current Topics in Biochemical Engineering and Biotechnology",
+  "description": "Introduction to emerging and interdisciplinary areas at the forefront of biochemical engineering and biotechnology. Emphasis on understanding the underlying principles that enable these technologies. Students will engage with contemporary research papers and case studies to critically analyze how modern biochemical engineering and biotechnology concepts are being translated to real-world applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Current Topics in Biochemical Engineering and Biotechnology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Current Topics in Biochemical Engineering and Biotechnology"
+  ],
+  "department": "Biochemical Engineering and Biotechnology, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/current-topics-biochemical-engineering-and-biotechnology",
+  "slug": "current-topics-biochemical-engineering-and-biotechnology"
+}

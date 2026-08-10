@@ -1,0 +1,16 @@
+{
+  "code": "DDP2110",
+  "name": "Aesthetics in Design",
+  "description": "On successfully completing this course, a student should be able to discuss and define aesthetics in design from a broader perspective of form, function and ergonomics. A student will also discuss the beauty and its manifestation in various domains, including science, engineering, technology, and design. A student will be able to understand the psychological foundations of aesthetics through elements and principles of visual design. The course will introduce them to a generic visual design process they can apply in various design specializations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DD#DDP2110"
+}

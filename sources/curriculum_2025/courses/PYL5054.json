@@ -1,0 +1,16 @@
+{
+  "code": "PYL5054",
+  "name": "Statistical Mechanics",
+  "description": "Introduction to statistical methods. Some basic notions of random walks, Poisson distribution, Gaussian distribution. Statistical basis for thermodynamics: macrostates, microstates, Gibb's paradox. Gibb's ensemble theory: phase space perspective, Liouville's theorem. Microcanonical, canonical and grand canonical ensembles. Partition function. Calculations of physical properties of classical systems using ensemble approach. Thermodynamic relations. Applications of ensemble theory. Quantum statistical mechanics: density matrix approach, statistical mechanics of bosons and fermions, Bose-Einstein condensation, Pauli paramagnetism, Landau diamagnetism. Quantum statistics of harmonic oscillators. Brief introduction to phase transitions, critical phenomena. Transfer matrix approach, application to simple classical spin models.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL5054"
+}

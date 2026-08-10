@@ -1,0 +1,22 @@
+{
+  "code": "PYL7039",
+  "name": "Introduction to Solar Astrophysics",
+  "description": "This course introduces the physics of the sun as a laboratory for plasma and astrophysical processes. Topics include solar energy generation, the standard solar model, and plasma behavior through magnetohydrodynamics (MHD). The structure and dynamics of solar magnetic fields are explored, including dynamo theory, sunspots, prominences, and force-free fields. The solar spectrum and principles of radiative transfer are discussed, along with photospheric, chromospheric, and coronal features. Special emphasis is given to magnetic flux tubes, atmospheric heating, and turbulent plasma flows. The course also examines solar activity, explosive phenomena such as flares and CMEs, and their impacts on the heliosphere and space weather.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(PYL2003&PYL2023)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Solar Astrophysics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Solar Astrophysics"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-solar-astrophysics",
+  "slug": "introduction-solar-astrophysics"
+}

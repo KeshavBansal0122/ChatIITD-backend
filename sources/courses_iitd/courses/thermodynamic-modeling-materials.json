@@ -1,0 +1,22 @@
+{
+  "code": "MLL7303",
+  "name": "Thermodynamic Modeling of Materials",
+  "description": "This course covers the fundamental and computational aspects of thermodynamic modeling for materials. It includes classical thermodynamics (laws of thermodynamics, Gibbs free energy, solution thermodynamics, phase equilibria) and computational thermodynamics (CALPHAD method, Gibbs energy minimization, thermodynamic databases). Statistical and atomistic thermodynamics are introduced through Monte Carlo, molecular dynamics, and density functional theory (DFT) simulations. Coarse-grain and phase field modeling. Applications include thermodynamics of electrochemical systems, high-entropy alloys (HEAs), and defect thermodynamics. The course also explores kinetics-thermodynamics coupling for phase transformations. Computational exercises using Thermo-Calc, FactSage, and first-principles methods form an integral part of the course, enabling students to analyze and model real-world material systems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Thermodynamic Modeling of Materials | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Thermodynamic Modeling of Materials"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/thermodynamic-modeling-materials",
+  "slug": "thermodynamic-modeling-materials"
+}

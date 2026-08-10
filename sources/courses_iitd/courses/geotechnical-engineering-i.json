@@ -1,0 +1,22 @@
+{
+  "code": "CVL2402",
+  "name": "Geotechnical Engineering - I",
+  "description": "Origin and Classification of Geomaterials, Soils; Phase Relationships; Effective Stress Principle; effective Stress under Hydrostatic and 1D flow; Permeability; Flow Through Soils\u2013Darcy\u2019s Law, Laplace Equation, Flow nets, Seepage; compaction of Soils; Compressibility; Consolidation; Terzaghi\u2019s 1D Consolidation Theory; settlement Analysis; Shear Strength and failure in geomaterials; drainage Conditions; Pore water pressure; Mohr\u2019s Circle; Failure Envelope and Strength Parameters; Factors Affecting Shear Strength; Introduction to behaviour of soils under cyclic loading, Engineering properties of Natural soils, Compacted soils and modified soils and various types of geomaterials; Introduction to field estimation of soil & geomaterials properties; Basic application of soil mechanics and geotechnical engineering concepts to field problems",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Geotechnical Engineering - I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Geotechnical Engineering - I"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/geotechnical-engineering-i",
+  "slug": "geotechnical-engineering-i"
+}

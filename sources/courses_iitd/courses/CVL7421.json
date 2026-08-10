@@ -1,0 +1,22 @@
+{
+  "code": "CVL7421",
+  "name": "Theory of Concrete Structures",
+  "description": "Introduction-historical developments, material properties, basic design concepts; behavior and design in flexure; behavior and design for shear and torsion; behavior and design for bond; behavior and design of slabs; serviceability limits state- deflection and cracking; behavior and design of compression members \u2013 columns and walls; analysis for design moments in continuous systems; good detailing and construction practices; selected special topics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CVL3504",
+  "overlap": null,
+  "learning_outcomes": [
+    "Theory of Concrete Structures | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Theory of Concrete Structures"
+  ],
+  "department": "Design of Reinforced Concrete Structures",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/theory-concrete-structures",
+  "slug": "theory-concrete-structures"
+}

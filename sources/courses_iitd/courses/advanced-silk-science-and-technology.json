@@ -1,0 +1,22 @@
+{
+  "code": "TXL7567",
+  "name": "Advanced Silk Science and Technology",
+  "description": "Types of silk, Natural spinning process for B. mori silk and spider draglines; self-assembly, nanoconfinement and hierarchical structure of silkworm silk and spider silk proteins; mechanical, optical, acoustic properties, shape memory and viscoelastic behaviour of silks; moisture sorption and thermal properties of silks; recombinant silk and properties; structure and properties of sericin, advanced degumming techniques and recovery of sericin; Dissolving silk fibroin and purification; silk material architectures; physical and chemical crosslinking and modification strategies for silks; recombinant and regenerated silk spinning; biomimicry of silk materials; functionalized silk for advanced materials and technical textile development; Industrial case studies, evaluation of carbon footprint, life cycle assessment, circular economy approaches in silk production and processing.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "TXL1101&TXL2101&TXP3101",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Silk Science and Technology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Silk Science and Technology"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-silk-science-and-technology",
+  "slug": "advanced-silk-science-and-technology"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "ESL7275",
+  "name": "Liquid Sprays for Energy Sector and Industrial Applications",
+  "description": "Introduction to liquid spray systems and their relevance in the energy and other industrial sectors; steady and unsteady sprays; statistical measures used in sprays; internal nozzle flows and interfacial disturbances leading to spray breakup; stability analysis; primary and secondary atomization; experimental spray diagnostics, spray modeling approaches; design of injectors for spray applications; durability of injectors; applications of sprays in heat engines, after-treatment devices, industrial burners, textile industry, carbon capture, photovoltaic cell (fabrication, cooling), gas enrichment, coating and mixing process in the industries, agriculture, hospitals etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ES",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ES#ESL7275"
+}

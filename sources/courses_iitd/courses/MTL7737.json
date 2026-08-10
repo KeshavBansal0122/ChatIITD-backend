@@ -1,0 +1,22 @@
+{
+  "code": "MTL7737",
+  "name": "Algebraic Number Theory",
+  "description": "Algebraic numbers, transcendental numbers, minimal polynomial, conjugates.\nAlgebraic number fields, primitive element, real and complex embeddings, norm, trace and discriminant.\nAlgebraic integers, ring of integers in a number field, integral basis.\nExamples of quadratic fields, cubic fields, cyclotomic fields.\nDedekind domain, ideal factorization, fractional ideal, ideal class group.\nLattices, Minkowski&#039;s theory, finiteness of class group, computation of class group of number fields.\nDirichlet Unit Theorem, fundamental units, units in quadratic fields, solution of Pell&#039;s equation.\nExtensions of Dedekind domains, Galois extensions, decomposition and inertia groups, ramification\nDedekind zeta function and analytic class number formula (proof of the quadratic class number formula).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "MTL2005/MTL5001",
+  "overlap": null,
+  "learning_outcomes": [
+    "Algebraic Number Theory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Algebraic Number Theory"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/algebraic-number-theory",
+  "slug": "algebraic-number-theory"
+}

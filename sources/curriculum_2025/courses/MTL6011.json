@@ -1,0 +1,16 @@
+{
+  "code": "MTL6011",
+  "name": "Discrete Mathematical Structures",
+  "description": "Logic: propositional logic: language of propositional logic, truth table, natural deduction, predicate logic: language of predicate logic, logical inference with quantifiers. Proof techniques: introduction to different standard proof techniques. Review on basic set theory and relation: basic set operations, cardinality of a set, types of relations, operations of relations and applications, posets, topological ordering; congruence arithmetic. Combinatorics: counting techniques: pigeon hole principle, inclusion exclusion principle, recurrence relation and generating function. Graph theory: graph as a discrete structure, modeling applications using graphs, reachability, connectivity, cycles, forests, trees, Euler tours, Hamiltonian graphs, planar graphs, graph coloring, matching.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTL6011"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CVL7463",
+  "name": "Lightweight and Spatial Structures",
+  "description": "Introduction and overview of spatial structures; analysis of tensile membrane structures; cable-nets and pneumatic structures; lattice and grid-shell structures; tensegrity and deployable structures; funicular-shell structures; dynamic and geometric based form-finding analysis: dynamic relaxation methods, force-density method, thrust-network analysis; load analysis and stability check; dynamic analysis; shape and size optimization for grid-shell structures; structural morphology; conceptual design and steering of form; robust design optimization using heuristics; case studies for different spatial structures.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Lightweight and Spatial Structures | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Lightweight and Spatial Structures"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/lightweight-and-spatial-structures",
+  "slug": "lightweight-and-spatial-structures"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "HSL6011",
+  "name": "Microeconomics II",
+  "description": "This course develops notions of equilibrium-in-decisions in canonical modes of multi-agent interactions that economists study. We develop the theory and applications of strategic form games, sequential move games, Bayesian games and dynamic Bayesian games. Optimal contracting in presence of hidden information and hidden actions are discussed. Mechanism design basics are introduced.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL6011"
+}

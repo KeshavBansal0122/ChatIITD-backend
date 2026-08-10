@@ -1,0 +1,22 @@
+{
+  "code": "ESL7679",
+  "name": "Li-Ion Batteries: Technology and Thermal Management",
+  "description": "Lithium metal to graphite electrode - Birth of Lithium-ion batteries; Pre-lithium-ion batteries -realm of Lithium batteries; Transition of Lithium-ion batteries from portable to mobility applications; Transition of Lithium-ion batteries from small scale to large scale storage applications; working of lithium-ion batteries \u2013 positive electrode, negative electrode and electrolyte; Role of cathode in lithium-ion batteries; Ni-rich/Mn-rich and Fe-based Lithium battery cathodes; graphite, alloy and silicon based anodes for Lithium-ion batteries; solid-state Lithium-ion batteries; Lithium-ion batteries characterizations; testing and charging/discharging methods, Strategies to prolong battery life, Second-life, recycling and disposal of Li-ion batteries, Batteries and extreme weather conditions, Lithium-ion batteries manufacturing, pack designing, and safety issues; Battery system heat transfer and thermal management systems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Li-Ion Batteries: Technology and Thermal Management | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Li-Ion Batteries: Technology and Thermal Management"
+  ],
+  "department": "Battery Storage",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/li-ion-batteries-technology-and-thermal-management",
+  "slug": "li-ion-batteries-technology-and-thermal-management"
+}

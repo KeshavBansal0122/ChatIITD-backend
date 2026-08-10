@@ -1,0 +1,22 @@
+{
+  "code": "ELL7504",
+  "name": "Digital Control of Power Electronic Systems",
+  "description": "Basics of digital electronics \u2013 latch, flop-flops, multiplexer, demultiplexer, comparators, state machines, number formats, digital signal processing (DSP) platform. Discrete domain control system \u2013 Z transformation, digital filters (finite impulse response and infinite impulse response), mapping between s-plane and z-plane, numerical methods for integration. Discrete time modelling of DC-DC converters - small signal state space model, discrete time small signal modelling, time-invariant topology equivalence and modified Z-transform. Digital implementation of PWMs \u2013 sine PWM, space vector PWM, level shifted carrier PWM for multilevel converters. Digital control design - voltage and current mode control, sampling, aliasing and quantization effects, loop delay sources, limitations of average models for digital control, digital compensators, system level compensator design, PID compensator realization structures (parallel, direct, cascade). Grid tied converter control in digital platform \u2013 phase locked loop (PLL), active front end rectifier, boost PFC, model predictive control.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Digital Control of Power Electronic Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Digital Control of Power Electronic Systems"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/digital-control-power-electronic-systems",
+  "slug": "digital-control-power-electronic-systems"
+}

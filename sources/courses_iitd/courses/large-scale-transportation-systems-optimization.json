@@ -1,0 +1,22 @@
+{
+  "code": "CVL8555",
+  "name": "Large-Scale Transportation Systems Optimization",
+  "description": "This course is designed to introduce optimization methods that are useful in solving large-scale transportation problems. Topics include mathematical programming formulation of famous optimization models arising in planning of transportation systems, introduction to computational complexity, proving problems as NP-complete, dynamic programming, principle of optimality, the simplex method, polyhedral theory for understanding polyhedral structure of famous transportation related optimization models, large-scale integer programming methods such as subgradient method, column generation, benders decomposition, branch-and-bound, cutting plane method, branch-and-cut, and branch-and-price and introduction to linear bi-level programming problems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(CVL7555)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Large-Scale Transportation Systems Optimization | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Large-Scale Transportation Systems Optimization"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/large-scale-transportation-systems-optimization",
+  "slug": "large-scale-transportation-systems-optimization"
+}

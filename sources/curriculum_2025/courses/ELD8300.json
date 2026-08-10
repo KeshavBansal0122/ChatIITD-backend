@@ -1,0 +1,16 @@
+{
+  "code": "ELD8300",
+  "name": "Summer Internship/Minor Project",
+  "description": "This course requires the students to take up a minor project either in industry or in academic research laboratories in/out of the institution under the mentorship of a faculty from IEC group. The student will be introduced to industry-driven and research-oriented practices. The students carry out their project during the summer after their 1st year and complete the project work with final report submission.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELD8300"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MEL7217",
+  "name": "Design for Noise, Vibration and Harshness",
+  "description": "Review of vibrations fundamentals and their manifestations in real life systems. Anatomy of vibratory system. Strategic implementation of vibration reduction measures. Balancing of rotating machinery. Review of design of a vibration absorber. Unconstrained and constrained layer damping treatment, add on dampers, and stiffeners. Changing the dynamic characteristics of a structure, structural dynamics modification. Predicting the modification (dynamic design) design of isolators in machine foundations. Role of materials damping. Rigid and flexible rotor balancing. Active vibrations control. Introduction of wave analysis of structures and spaces., characteristics of duct and cabin noise. Stationary modes. Random noise. Measures of a sound acoustic design, importance of reverberations time. Various types of acoustic testing chambers. Noise measurement and control instruments. Sound intensity mapping noise isolation design. Noise absorber design. Design of silencers, mufflers. Acoustic design of buildings. Harshness aspects of noise and vibrations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Design for Noise, Vibration and Harshness | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Design for Noise, Vibration and Harshness"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/design-noise-vibration-and-harshness",
+  "slug": "design-noise-vibration-and-harshness"
+}

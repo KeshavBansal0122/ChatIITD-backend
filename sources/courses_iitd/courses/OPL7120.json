@@ -1,0 +1,22 @@
+{
+  "code": "OPL7120",
+  "name": "Photonic Materials and Applications",
+  "description": "Microscopic and macroscopic fields. Optical properties of dielectrics. Optical properties of metals. Wave propagation in isotropic and anisotropic medium. Wave propagation in linear and nonlinear medium. Photonic crystals. Photonic crystal fibers, filters, sensors, lasers. Composite optical materials. Concept of metamaterials. Left and right handedness. Perfect absorbers, antennas, super-lens, invisibility cloaks. Behavior of light in confined geometries. Surface and localized plasmon resonances. Plasmonic waveguides and sensors. Plasmonic therapeutics. Quantum dots and applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "PYL1001",
+  "overlap": null,
+  "learning_outcomes": [
+    "Photonic Materials and Applications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Photonic Materials and Applications"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/photonic-materials-and-applications",
+  "slug": "photonic-materials-and-applications"
+}

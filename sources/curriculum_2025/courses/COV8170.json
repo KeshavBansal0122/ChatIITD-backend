@@ -1,0 +1,16 @@
+{
+  "code": "COV8170",
+  "name": "Special Module in Cryptography",
+  "description": "Special and advanced topics in the area of cryptography.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COV8170"
+}

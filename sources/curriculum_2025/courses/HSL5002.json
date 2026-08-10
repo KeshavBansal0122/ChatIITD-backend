@@ -1,0 +1,16 @@
+{
+  "code": "HSL5002",
+  "name": "Literary Theory",
+  "description": "The following theoretical approaches, topics and themes will be taught in the course: what is theory itself, what is literature; literature and culture; language, meaning, interpretation; rhetoric, poetics, poetry; narrative; performatives; identity, decolonial thought; psychoanalysis and literary theory; hermeneutics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL5002"
+}

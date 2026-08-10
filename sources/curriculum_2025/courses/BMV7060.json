@@ -1,0 +1,16 @@
+{
+  "code": "BMV7060",
+  "name": "Chemistry for Human Health: Principles and Applications",
+  "description": "Introduction to human physiology and pharmacology: historical overview, systems approach to physiology, homeostasis (mass balance approach), membrane transport receptor theory, drug delivery, routes of administration, dose-response relationship (AUC and Cmax), pharmacokinetics (ADME: oral versus systemic). Chemistry of materials for healthcare: introduction to biocompatibility and biodegradability, structure- property relationships in materials, introduction to DDS, controlled-release and polymeric drug delivery. Chemical factories in human body: introduction to human microbiome, dysbiosis; pre and probiotics, gut microbiome and introduction to omics.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BM#BMV7060"
+}

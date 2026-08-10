@@ -1,0 +1,22 @@
+{
+  "code": "MSL7347",
+  "name": "Data Warehousing for Business",
+  "description": "is a foundational course designed to help learners understand how organizations collect, store, and use data to support strategic decision-making. The course introduces the core concepts of data warehousing, including data integration, data modeling, and database design, with a focus on real-world business applications.\nStudents will explore how data from multiple sources, such as, transactional systems, customer databases, and external platforms, is consolidated into a centralized data warehouse. The course covers key processes like ETL (Extract, Transform, Load), data cleaning, and data transformation to ensure accuracy and consistency. Learners will also gain insight into dimensional modeling techniques, including star and snowflake schemas, which are widely used for efficient data analysis.\nIn addition, the course highlights the role of data warehousing in business intelligence (BI) and analytics. Students will learn how to query and analyze warehouse data to generate meaningful insights, create reports, and support decision-making across departments such as marketing, finance, and operations. By the end of the course, learners will have a clear understanding of how data warehousing systems are designed and implemented, and how they contribute to data-driven business strategies.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Data Warehousing for Business | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Data Warehousing for Business"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/data-warehousing-business",
+  "slug": "data-warehousing-business"
+}

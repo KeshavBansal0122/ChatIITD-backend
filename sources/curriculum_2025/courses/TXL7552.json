@@ -1,0 +1,16 @@
+{
+  "code": "TXL7552",
+  "name": "Science of Clothing Comfort",
+  "description": "Clothing comfort: brief introduction to the various processes related to comfort, application of the science of clothing comfort. Psychology and comfort: basic concepts, psychological research techniques, general aspects and measurement of aesthetic properties, changes in aesthetic behaviour; neurophysiological processes of comfort: neurophysiologic basis of sensory perceptions, perceptions of sensations related to mechanical, thermal and moisture stimuli; thermal transmission: thermoregulatory mechanisms of human body, heat transfer theories, thermal conductivity of fibrous materials, steady state measurement techniques for heat transfer, transient heat transfer mechanism, warm-cool feeling; moisture transmission: transfer of liquid moisture and vapour transfer through fibrous materials; dynamic transmission of heat and moisture: relationship of moisture and heat, multiphase flow through porous media, moisture exchange between fibre and air, temperature and moisture sensations, theories and objective measurement techniques, impact of microclimate; tactile aspects of comfort: fabric mechanical properties and tactile-pressure sensations like fabric prickliness, itchiness, stiffness, softness, smoothness, roughness and scratchiness, fabric hand value, clothing comfort aspects in relation to garment size and fit.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL7552"
+}

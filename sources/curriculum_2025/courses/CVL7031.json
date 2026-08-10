@@ -1,0 +1,16 @@
+{
+  "code": "CVL7031",
+  "name": "Quantitative Methods in Construction",
+  "description": "Introduction to concepts of probability and statistics, hypothesis testing and linear regression, linear programming, transportation and assignment problem, decision theory and decision tree, game theory, queuing theory, dynamic programming, simulations applied to construction, modification and improvement on CPM/PERT techniques, exposure to statistical softwares, schedule optimisation algorithms.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7031"
+}

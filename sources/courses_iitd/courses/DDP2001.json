@@ -1,0 +1,22 @@
+{
+  "code": "DDP2001",
+  "name": "Studio I: Industrial Design",
+  "description": "Revisiting analytical drawing using an isometric grid and perspective drawing; drawing solids like cuboids, cylinders, frustums, etc.; boolean operation - union, subtraction and intersection - of solids; and form manipulation using chamfer and filleting operations.\nIntroduction to plastics - type of plastics and manufacturing processes - through videos and component study.\nInjection moulding details like draft angles, ribs, bosses and snaps. Tool details like injection point locations, sprues, runners and ejection pins.\nFormal detailing while iteratively planning component break-up, surface details, assembly techniques for servicing and disassembly for recycling. Linked to this would be internal component mounting, cable routing and movement of components.\nStrengthening and stiffening components through surface geometry, ribbing and fluting.\nModelling, checking fouling of components, preparing 3D print files, assembly and corrections.\nExercises in Orthographic drawing - representing modelled components through technical drawings, including sections, exploded views, component and assembly drawings.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": "(DDP1002&DDP1001&DDP1003&DDP1006)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Studio I: Industrial Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Studio I: Industrial Design"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/studio-i-industrial-design",
+  "slug": "studio-i-industrial-design"
+}

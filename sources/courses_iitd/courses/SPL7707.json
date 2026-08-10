@@ -1,0 +1,22 @@
+{
+  "code": "SPL7707",
+  "name": "Tools for Policy Analysis",
+  "description": "The course enables students to understand and explain policy processes, apply structured qualitative and quantative methods for policy formulation, data collection, analyze policy alternatives, evaluate stakeholder and institutional dynamics, and create persuasive policy arguments. Through hands-on exercises and case studies, students gain practical skills for evidence-based and inclusive policy analysis. By the end of the course, students will be able to design, evaluate, and effectively communicate structured policy arguments.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Tools for Policy Analysis | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Tools for Policy Analysis"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/tools-policy-analysis",
+  "slug": "tools-policy-analysis"
+}

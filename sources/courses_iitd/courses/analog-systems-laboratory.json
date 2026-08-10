@@ -1,0 +1,22 @@
+{
+  "code": "ELP3305",
+  "name": "Analog Systems Laboratory",
+  "description": "I- V characterisation of transistors and their simulation using SPICE, simulation of biasing and current mirror circuits and realizing them using a breadboard, design of a self-tuned filter, design of a function generator and its conversion into VCO/FM generator, design of a PLL, automatic gain control of an amplifier, design of a DC-DC converter and its characterization, design of an LDO, design of a digitally-controlled gain stage amplifier, design of a digitally-programmable square and triangular wave generator",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "prereq": "(ELL1001)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Analog Systems Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Analog Systems Laboratory"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/analog-systems-laboratory",
+  "slug": "analog-systems-laboratory"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CTL7035",
+  "name": "Computer Aided Analysis for Automotive Electronics",
+  "description": "Basic coding and mathematical operations in MATLAB; plotting and handling data; modelling converters and motors; controller design basics, including plant transfer functions; simulation of controlled systems in both continuous and discrete forms; SPICE simulation for converters and signal level analysis; modelling of converters and motors in simulink; study of HEV and EV models; electromagnetic component design focusing on high-frequency transformers and inductors; PCB design principles including routing rules and software features; EMI/EMC simulation fundamentals with LISN devices; and 3D modelling for fabrication using fusion360.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Computer Aided Analysis for Automotive Electronics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Computer Aided Analysis for Automotive Electronics"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/computer-aided-analysis-automotive-electronics",
+  "slug": "computer-aided-analysis-automotive-electronics"
+}

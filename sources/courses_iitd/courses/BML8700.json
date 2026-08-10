@@ -1,0 +1,22 @@
+{
+  "code": "BML8700",
+  "name": "Mechanics of Biological Systems",
+  "description": "Scope of continuum mechanics in biological systems; refresher: statics and dynamics; refresher: mathematical preliminaries (tensor calculus); continuum description of stress, strain and linearized kinematics; equilibrium equations and their application to biological systems; generalized constitutive laws - linear elasticity (LEHI) and nonlinear behaviour; application of solid mechanics principles to biological systems - bones (axial loading), arteries/capillaries (thin walled tubes), aneurysms (thin walled spheres); hydrostatics and fluid kinematics; mass and momentum balance laws; Newtonian and non-Newtonian biological fluids (for example, blood, mucus); Navier\u2013Stokes equations and simplified flow cases; viscoelastic behavior in soft tissues and biological gels; demonstrations of advanced topics - fluid structure interactions, wall wetting.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Mechanics of Biological Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mechanics of Biological Systems"
+  ],
+  "department": "Fundamentals of Biomechanics",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mechanics-biological-systems",
+  "slug": "mechanics-biological-systems"
+}

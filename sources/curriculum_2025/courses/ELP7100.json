@@ -1,0 +1,16 @@
+{
+  "code": "ELP7100",
+  "name": "Autonomous Systems & Control Laboratory",
+  "description": "Introduction to scientific computing tools, active circuit realization of PID controller, arduino based motor speed and position control, inverted pendulum, robotic manipulator control, 3-D prototyping, design project.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELP7100"
+}

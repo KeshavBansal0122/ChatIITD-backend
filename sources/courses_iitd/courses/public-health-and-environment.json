@@ -1,0 +1,22 @@
+{
+  "code": "CVL8717",
+  "name": "Public Health and Environment",
+  "description": "Introduction to public health concepts relevant to environmental engineering. Exposure pathways, dose-response relationships, epidemiological study designs, risk assessment methods, and basic biostatistics. Application of engineering tools to analyze air and water quality data, model health risks, and evaluate environmental interventions. Case studies\u2014drawn from historical events, contemporary issues, and global and Indian contexts\u2014are used illustratively and may vary. Activities include case analysis, op-ed writing, and development of a public health impact assessment.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Public Health and Environment | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Public Health and Environment"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/public-health-and-environment",
+  "slug": "public-health-and-environment"
+}

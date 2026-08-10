@@ -1,0 +1,16 @@
+{
+  "code": "CVL7461",
+  "name": "Fire Engineering and Design",
+  "description": "Fundamentals of fire science, fire dynamics, hazard mitigation, and safety; codes, standards, rules and fire safety regulations; heat and mass transfer; human behaviour in fire and urban planning; fire testing methods for materials; large-scale fire testing; introduction to active and passive fire protection; structural fire engineering: fire behaviour and scenarios, heat transfer to the structure, structural response and stability under thermo-mechanical loads; fire safety design; mechanical properties of structural materials at elevated temperatures; fire response of steel, concrete, composites, etc.; structural fire resistance based on theoretical/empirical relationships, rational approaches, and advanced calculation methods; performance-based fire engineering; strengthening/repair of structures.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7461"
+}

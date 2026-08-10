@@ -1,0 +1,22 @@
+{
+  "code": "CHL7217",
+  "name": "Advanced Computational Techniques in Chemical Engineering",
+  "description": "Introduction to models in chemical engineering. Formulation of problems leading to ODEs of initial value types. Stability and stiffness of matrices. Solution of stiff problems like Rober&#039;s problem in autocatalytic reactions by Gear&#039;s algorithm. Formulation of problems leading to steady state ODEs of boundary value types. Different weighted residual methods to solve BVPs. Orthogonal collocation and Galerkin finite element method. Application to reaction-diffusion in porous catalyst pellets under non-isothermal conditions, calculation of the effectiveness factor. Moving boundary problems. Transient problems leading to PDEs. Examples in heat and mass transfer and their numerical solution: orthogonal collocation. Monte-Carlo method and its applications. Introduction to the lattice Boltzmann method (LBM) to solve fluid flow problems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "CHL2001",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Computational Techniques in Chemical Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Computational Techniques in Chemical Engineering"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-computational-techniques-chemical-engineering",
+  "slug": "advanced-computational-techniques-chemical-engineering"
+}

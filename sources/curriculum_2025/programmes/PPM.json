@@ -1,0 +1,309 @@
+{
+  "code": "PPM",
+  "name": "Master of Public Policy",
+  "generation": "2025",
+  "degree_type": "mpp",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=PPM",
+  "credit_requirements": [
+    {
+      "category": "PL",
+      "label": "Programme-Linked",
+      "credits_or_units": 7703.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Analyse public policy issues related to STI"
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Use interdisciplinary approaches to understand, frame, and address complex public policy problems"
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Think critically"
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "Employ a range of analytical tools for research and policy analysis"
+    },
+    {
+      "outcome_id": "PLO5",
+      "text": "Incorporate ethical and justice considerations in policy research and practice"
+    },
+    {
+      "outcome_id": "PLO6",
+      "text": "Communicate and engage with policy practitioners"
+    }
+  ],
+  "courses_by_category": {
+    "DC": [],
+    "PC": [
+      {
+        "course_code": "SPD8881",
+        "title": "MPP Major Project -I",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "SPL7703",
+        "title": "Research Methods for Public Policy",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SPL7704",
+        "title": "Introduction to Public Policy and STI",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SPL7705",
+        "title": "Public Institutions in India: Theory and Practice",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SPL7706",
+        "title": "Science, Technology, Innovation (STI) and Sustainable Development",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SPL7707",
+        "title": "Tools for Policy Analysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SPL7708",
+        "title": "Statistics for Public Policy",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SPL7709",
+        "title": "Principles of Economics for Public Policy",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "HSL8103",
+        "title": "Research Methods in Economics",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SPL7719",
+        "title": "Public Interest Technologies",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SPL7720",
+        "title": "Energy and Infrastructure Finance: A Public Policy Lens",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SPL7723",
+        "title": "Understanding Public Policy Making Through Case-Studies",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SPL7724",
+        "title": "Electricity Sector Reforms in the Renewables Era",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SPL7725",
+        "title": "Climate Change Adaptation: From Theory to Practice",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SPL7730",
+        "title": "STI Policy and Agriculture",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SPL7750",
+        "title": "Qualitative Research Methods",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SPL7752",
+        "title": "Techs and the City - An Urban Policy Perspective",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SPL7753",
+        "title": "Urban Planning Practicum",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SPL7754",
+        "title": "Geographical Information Systems (GIS) for Public Policy",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SPL7777",
+        "title": "System Dynamics Modeling for Policy Analysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SPL7792",
+        "title": "Inclusive City and Accessibility Audit",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "SPL7793",
+        "title": "Special Module on Public Policy in Management of Natural Resources",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "1"
+        },
+        "credits": "1.5"
+      },
+      {
+        "course_code": "SPL7797",
+        "title": "Scenario Design for Managing Uncertainty",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "1"
+        },
+        "credits": "1.5"
+      },
+      {
+        "course_code": "SPL7888",
+        "title": "Waste Management: Technology, Policy &amp; Practice",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SPL8810",
+        "title": "Selected Topics in Policy Studies",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SPV7799",
+        "title": "Special Module in Policy Studies",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      }
+    ]
+  },
+  "semesters": {},
+  "raw_text_preview": "PPM \u2013 Master of Public Policy\nMaster of Public Policy\nPublic Policy, School of\nProgramme Code: PPM\nM.P.P.\nOverall Credit Structure\nCourse Category Credits\nTotal Graded Credit Requirement\n72\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nAnalyse public policy issues related to STI\nPLO 2\nUse interdisciplinary approaches to understand, frame, and address complex public policy problems\nPLO 3\nThink critically\nPLO 4\nEmploy a range of analytical tools for research and policy analysis\nPLO 5\nIncorporate ethical and justice considerations in policy research and practice\nPLO 6\nCommunicate and engage with policy practitioners\nDepartmental Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\n882 MPP Major Project -II \u2013 \u2013 \u2013 \u2013\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nSPD8881 MPP Major Project -I \u2013 \u2013 \u2013 \u2013\nSPL7703 Research Methods for Public Policy 3 0 2 4\nSPL7704 Introduction to Public Policy and STI 3 0 2 4\nSPL7705 Public Institutions in India: Theory and Practice 3 0 2 4\nSPL7706 Science, Technology, Innovation (STI) and Sustainable Development 3 0 2 4\nSPL7707 Tools for Policy Analysis 3 0 2 4\nSPL7708 Statistics for Public Policy 3 0 2 4\nSPL7709 Principles of Economics for Public Policy 3 0 2 4\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nHSL8103 Research Methods in Economics 1 0 4 3\nSPL7719 Public Interest Technologies 3 0 2 4\nSPL7720 Energy and Infrastructure Finance: A Public Policy Lens 3 0 0 3\nSPL7723 Understanding Public Policy Making Through Case-Studies 3 0 0 3\nSPL7724 Electricity Sector Reforms in the Renewables Era 3 0 0 3\nSPL7725 Climate Change Adaptation: From Theory to Practice 3 0 0 3\nSPL7730 STI Policy and Agriculture 3 0 0 3\nSPL7750 Qualitative Research Methods 3 0 2 4\nSPL7752 Techs and the City - An Urban Policy Perspective 3 0 0 3\nSPL7753 Urban Planning Practicum 2 0 4 4\nSPL7754 Geographical Information Systems (GIS) for Public Policy 3 0 2 4\nSPL7777 System Dynamics Modeling for Policy Analysis 3 0 2 4\nSPL7792 Inclusive City and Accessibility Audit 1 0 2 2\nSPL7793 Special Module on Public Policy in Management of Natural Resources 1 0 1 1.5\nSPL7797 Scenario Design for Managing Uncertainty 1 0 1 1.5\nSPL7888 Waste Management: Technology, Policy &amp; Practice 3 0 0 3\nSPL8810 Selected Topics in Policy Studies 3 0 0 3\nSPV7799 Special Module in Policy Studies 1 0 0 1\nSemester-wise Schedule\nSem\nCourses &amp; Baskets\nHrs /\nweek\nNGU"
+}

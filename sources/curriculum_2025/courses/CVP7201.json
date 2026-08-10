@@ -1,0 +1,16 @@
+{
+  "code": "CVP7201",
+  "name": "Soil Engineering Laboratory",
+  "description": "Laboratory tests: sample preparation (sand, clay); consolidation test; direct shear test; vane shear test; unconfined compression test; unconsolidated undrained triaxial test; consolidated drained triaxial test; consolidated undrained triaxial test with pore water pressure measurement; free swell index test; swelling pressure test. Field investigations: borehole drilling; standard penetration test (SPT); electrical resistivity test.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVP7201"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "SIV8110",
+  "name": "Special Module in Cyber Security",
+  "description": "The topics will cover the current trends and emerging technologies in cybersecurity, such as application security, network security, software security, hardware security, mobile security, reverse engineering, digital forensics, testing, verification, data privacy, machine learning-related security, intrusion detection system, standards, risk management, and compliance.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 1.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SI",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SI#SIV8110"
+}

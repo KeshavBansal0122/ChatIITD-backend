@@ -1,0 +1,21 @@
+{
+  "code": "ESL7672",
+  "name": "Energy Storage",
+  "description": "Need for energy storage technologies, energy storage options to balance renewable energy systems, fundamentals of various energy storage technologies, thermal energy storage: sensible and latent heat storage and their optimizations and management, thermochemical heat storage system, electrochemical energy storage: various types of battery storage and their optimizations techniques, mechanical energy storage: pumped storage and flywheel storage systems, electrical energy storage: supercapacitors and superconducting magnetic coils, chemical energy storage: hydrogen energy storage, integration/sizing of energy storage systems and energy storage system optimization.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Energy Storage | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Energy Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/energy-storage",
+  "slug": "energy-storage"
+}

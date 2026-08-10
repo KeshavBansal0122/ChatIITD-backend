@@ -1,0 +1,22 @@
+{
+  "code": "MEL3012",
+  "name": "Heat and Mass Transfer",
+  "description": "Modes of heat and mass transfer, molecular scale mechanisms in energy transfer and continuum approximation, fundamental conservation principles for analysis. \nConduction and diffusion: Fourier\u2019s Law of heat conduction; material properties; heat diffusion equation; 1-D steady state heat conduction; thermal resistance and resistance networks; insulation and critical thickness; 1-D steady state heat transfer heat generation, heat transfer from extended surfaces - design of heat sinks; 2-D steady state heat conduction; transient conduction, lumped capacitance method, transient heat conduction, spatial effects, semi-infinite solids; diffusion mass transfer \u2013 physical origins and rate equations, conservation of species, mass diffusion without and with homogeneous chemical reactions, transient diffusion.\nConvective heat and mass transfer: Concepts of forced and free convection; convection boundary layers; laminar and turbulent flows; scaling analyses and non-dimensional parameters and their and physical significance; boundary layer analogies; effects of turbulence; heat and mass transfer coefficients; external and internal flows in laminar and turbulent regime; hydrodynamically and thermally developing flows; flow in non-circular channels; natural convection; boiling and condensation (phase-change) \nHeat exchangers: Types and applications; heat exchanger analysis using UA-LMTD and effectiveness-NTU methods. \nRadiation Heat Transfer: Basic concepts and properties; emission from real surfaces, diffuse surface, black and gray body approximation, radiation view factors; Kirchhoff&#039;s law of radiation, radiative heat transfer between diffuse gray surfaces in an enclosure.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Heat and Mass Transfer | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Heat and Mass Transfer"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/heat-and-mass-transfer-0",
+  "slug": "heat-and-mass-transfer-0"
+}

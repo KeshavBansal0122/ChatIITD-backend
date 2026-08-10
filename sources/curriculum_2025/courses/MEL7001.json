@@ -1,0 +1,16 @@
+{
+  "code": "MEL7001",
+  "name": "Professional Ethics for Mechanical Engineers",
+  "description": "Professional ethical guidelines as adopted in most of mechanical and other engineering societies in the world, ethics in publishing, anti-plagiarism, ethical use of technical tools (AI, ChatGPT, internet etc.), examples of unethical behaviour in engineering profession, ethical lessons from Indian, far eastern and western ancient wisdoms.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL7001"
+}

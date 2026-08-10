@@ -1,0 +1,22 @@
+{
+  "code": "ASL7560",
+  "name": "Synoptic Meteorology",
+  "description": "Different scales of atmospheric motion; different types of air masses and tropical weather systems; Western disturbances and monsoonal cyclonic systems, meteorological charts and diagrams, map projections, plotting of synoptic maps; analysis of sea level pressure patterns, pressure tendency, surface temperature and dew point, stream lines and wind patterns, temperature patterns and isotach; analysis of the vertical structure of the atmosphere.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Synoptic Meteorology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Synoptic Meteorology"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/synoptic-meteorology",
+  "slug": "synoptic-meteorology"
+}

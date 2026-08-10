@@ -1,0 +1,21 @@
+{
+  "code": "CRT8001",
+  "name": "Internship",
+  "description": "Students will undergo practical training in the industry or research and development labs for hands-on experience on the topics relevant to the RFDT program during the summer break.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Internship | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/internship",
+  "slug": "internship"
+}

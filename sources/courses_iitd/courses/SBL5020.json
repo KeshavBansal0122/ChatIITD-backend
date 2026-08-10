@@ -1,0 +1,21 @@
+{
+  "code": "SBL5020",
+  "name": "Biochemistry",
+  "description": "Water and its physico-chemical properties that sustain life; structure, stereochemistry, function of biomolecules \u2013 proteins, carbohydrates, fats, nucleic acids and coenzymes; biological membranes; methods in detection and analysis of biomolecules; thermodynamics in biological systems; enzymes \u2013 kinetics, inhibition; glucose metabolism and energy production, electron transport chain, ATP as energy currency; photosynthesis; amino acid metabolism including urea cycle; fatty acid metabolism - beta oxidation; current topics in biochemistry. Separation of biomolecules like carbohydrates, fatty acids, amino acids and nucleic acids; quantification of biomolecules by spectroscopic methods; pH and pKa; enzyme activity under different conditions; Vmax and KM measurement.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Biochemistry | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/biochemistry",
+  "slug": "biochemistry"
+}

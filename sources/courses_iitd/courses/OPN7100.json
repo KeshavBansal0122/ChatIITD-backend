@@ -1,0 +1,22 @@
+{
+  "code": "OPN7100",
+  "name": "Teaching and Research Practicum",
+  "description": "Students are expected to support teaching activities by helping with practical sessions, tutorials, class projects (as applicable to the course), and performing other administrative duties related to the course and the department. Students are expected to attend seminars on the theme of optics and photonics and engage in activities of student chapters of optics and photonics societies.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Teaching and Research Practicum | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Teaching and Research Practicum"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/teaching-and-research-practicum-6",
+  "slug": "teaching-and-research-practicum-6"
+}

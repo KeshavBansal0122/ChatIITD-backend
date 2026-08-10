@@ -1,0 +1,535 @@
+{
+  "code": "CTE",
+  "name": "M.Tech. in Electric Mobility",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=CTE",
+  "credit_requirements": [
+    {
+      "category": "GE",
+      "label": "General Engineering",
+      "credits_or_units": 3.0,
+      "kind": "graded"
+    },
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 35.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Able to apply interdisciplinary engineering concepts in electric vehicle (EVs) design"
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Able to appraise the contribution of EVs towards sustainable and environment-friendly development."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Critically evaluate recent market trends and innovations in the field of electric mobility."
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "Able to demonstrate the learning in terms of computational/physical models of EVs/EV subsystems"
+    },
+    {
+      "outcome_id": "PLO5",
+      "text": "Conversant to work in a team in professional and ethical manner"
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "CTD7005",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CTD7006",
+        "title": "Summer Internship",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CTD8001",
+        "title": "M.Tech Project Part-I",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "18"
+        },
+        "credits": "9"
+      },
+      {
+        "course_code": "CTL7003",
+        "title": "Introduction to Electric Vehicles",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CTL7007",
+        "title": "Batteries for Electric Vehicles: Multidisciplinary Perspectives",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CTL7008",
+        "title": "Design and Control of EV Powertrain",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CTL7010",
+        "title": "Ethical Research Writing in Automotive Engineering",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "CTL7019",
+        "title": "Energy Storage Systems for EVs",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CTL7027",
+        "title": "Materials for Electric Vehicle Applications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CTL7032",
+        "title": "Vehicle Propulsion and Transmissions",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CTL7036",
+        "title": "Design of Motors for Automotive Application",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CTL7043",
+        "title": "Modelling and Simulation for Energy Storage",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CTN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CTP7002",
+        "title": "Electric Vehicle Laboratory 01",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CTP7006",
+        "title": "EV Electrical System Lab.",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CTP7008",
+        "title": "Battery Technology Lab",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CTP7010",
+        "title": "EV Mechanical Systems Lab",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CTL7008",
+        "title": "Design and Control of EV Powertrain",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CTL7027",
+        "title": "Materials for Electric Vehicle Applications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CTL7032",
+        "title": "Vehicle Propulsion and Transmissions",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CTL7036",
+        "title": "Design of Motors for Automotive Application",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CTP7006",
+        "title": "EV Electrical System Lab.",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CTP7010",
+        "title": "EV Mechanical Systems Lab",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CTL7005",
+        "title": "Engineering of Electric Vehicles",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CTL7013",
+        "title": "Connected and Autonomous Vehicles",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CTL7029",
+        "title": "Reliability and Accelerated Life Testing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CTL7031",
+        "title": "Noise and Condition Monitoring",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CTL7035",
+        "title": "Computer Aided Analysis for Automotive Electronics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CTL7041",
+        "title": "Advanced Motors for Electric Mobility",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CTL7045",
+        "title": "Fundamentals of Ev Charger Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CTL7047",
+        "title": "High Power Conversion for Electric Vehicles",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CTL7050",
+        "title": "Applied Machine Learning for EV Diagnostics and Prognostics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CTV8001",
+        "title": "Special Topics in EV Electrical Systems",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "CTV8004",
+        "title": "Special Topics in Connected Automated Vehicles &amp; Sensors",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "CTL7003",
+        "title": "Introduction to Electric Vehicles",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CTL7007",
+        "title": "Batteries for Electric Vehicles: Multidisciplinary Perspectives",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CTP7002",
+        "title": "Electric Vehicle Laboratory 01",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CTL7010",
+        "title": "Ethical Research Writing in Automotive Engineering",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "CTN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "tteries for Electric Vehicles: Multidisciplinary Perspectives",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "CTD7005",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CTN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "CTE Stream Core (3-0-0) or (2-0-2) or",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 3.0
+      },
+      {
+        "basket": "CTE Stream Core (3-0-0) or (2-0-2) or",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 3.0
+      },
+      {
+        "basket": "CTE Stream Core (3-0-0) or (2-0-2) or",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 3.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "CTD8001",
+        "title": "M.Tech Project Part-I",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 18.0
+        },
+        "credits": 9.0
+      },
+      {
+        "course_code": "CTN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "CTN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "CTE \u2013 M.Tech. in Electric Mobility\nM.Tech. in Electric Mobility\nAutomotive Research and Tribology, Centre for\nProgramme Code: CTE\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n35\nPE (Programme Elective)\n22\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n63\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nAble to apply interdisciplinary engineering concepts in electric vehicle (EVs) design\nPLO 2\nAble to appraise the contribution of EVs towards sustainable and environment-friendly development.\nPLO 3\nCritically evaluate recent market trends and innovations in the field of electric mobility.\nPLO 4\nAble to demonstrate the learning in terms of computational/physical models of EVs/EV subsystems\nPLO 5\nConversant to work in a team in professional and ethical manner\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCTD7005 Cornerstone Project 0 0 6 3\nCTD7006 Summer Internship 0 0 6 3\nCTD8001 M.Tech Project Part-I 0 0 18 9\nCTL7003 Introduction to Electric Vehicles 3 0 0 3\nCTL7007 Batteries for Electric Vehicles: Multidisciplinary Perspectives 3 0 0 3\nCTL7008 Design and Control of EV Powertrain 2 0 2 3\nCTL7010 Ethical Research Writing in Automotive Engineering 1 0 2 2\nCTL7019 Energy Storage Systems for EVs \u2013 \u2013 \u2013 \u2013\nCTL7027 Materials for Electric Vehicle Applications 3 0 0 3\nCTL7032 Vehicle Propulsion and Transmissions 3 0 0 3\nCTL7036 Design of Motors for Automotive Application 3 0 0 3\nCTL7043 Modelling and Simulation for Energy Storage \u2013 \u2013 \u2013 \u2013\nCTN7001 Teaching and Research Practicum 0 0 8 4\nCTP7002 Electric Vehicle Laboratory 01 1 0 4 3\nCTP7006 EV Electrical System Lab. 1 0 4 3\nCTP7008 Battery Technology Lab \u2013 \u2013 \u2013 \u2013\nCTP7010 EV Mechanical Systems Lab 1 0 4 3\nCTE Stream Core (3-0-0) or (2-0-2) or (1-0-4) 3 credits\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCTL7008 Design and Control of EV Powertrain 2 0 2 3\nCTL7027 Materials for Electric Vehicle Applications 3 0 0 3\nCTL7032 Vehicle Propulsion and Transmissions 3 0 0 3\nCTL7036 Design of Motors for Automotive Application 3 0 0 3\nCTP7006 EV Electrical System Lab. 1 0 4 3\nCTP7010 EV Mechanical Systems Lab 1 0 4 3\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCTL7005 Engineering of Electric Vehicles 3 0 0 3\nCTL7013 Connected and Autonomous Vehicles 3 0 0 3\nCTL7029 Reliability and Accelerated Life Testing 3 0 0 3\nCTL7031 Noise and Condition Monitoring 3 0 0 3\nCTL7035 Computer Aided Analysis for Automotive Electronics 3 0 0 3\nCTL7041 Advanced Motors for Electric Mobility 3 0 2 4"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "SIV8064",
+  "name": "Special Module on Media Processing & Communication",
+  "description": "Communication today has rich multimedia content. Under the varying bandwidth attention is required for appropriate processing of the media content satisfying desired quality of service. This course will focus on bringing the two broad areas of multimedia processing and communication together. In media processing fundamental concepts of media processing and compression will be introduced with exposure to current techniques and standards. In communication protocols and algorithms for both wired and wireless networks will be discussed in relation to multimedia communication.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Special Module on Media Processing & Communication | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Special Module on Media Processing & Communication"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/special-module-media-processing-communication",
+  "slug": "special-module-media-processing-communication"
+}

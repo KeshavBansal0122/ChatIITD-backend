@@ -1,0 +1,22 @@
+{
+  "code": "CRL7053",
+  "name": "Quantum Machine Learning",
+  "description": "Basics of machine learning, basics of quantum computing, qubits, quantum gates, measurement, quantum algorithms, quantum phase estimation, variational quantum algorithms, data encoding: basis encoding, amplitude encoding; variational quantum models, parameter shift rule, quantum circuits and neural networks, quantum kernels, quantum support vector machines, kernel based approaches to QML, quantum walk based techniques, variational quantum Eigensolver, quantum approximate optimization algorithm.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Quantum Machine Learning | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Quantum Machine Learning"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/quantum-machine-learning",
+  "slug": "quantum-machine-learning"
+}

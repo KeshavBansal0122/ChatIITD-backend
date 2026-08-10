@@ -1,0 +1,22 @@
+{
+  "code": "DAN1006",
+  "name": "Advanced Writing and Editing",
+  "description": "The course focuses on developing clarity, coherence, and correctness in written communication. Students will engage in hands-on writing tasks, peer reviews, and editing exercises to improve their ability to express ideas effectively in an academic context. The module covers the fundamentals of sentence construction, paragraph development, grammar usage, and vocabulary building. In addition, students will be introduced to the principles of academic integrity, including proper citation and referencing practices. The interactive lab-based setting encourages active participation and continuous feedback, helping students build confidence and proficiency in writing.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Writing and Editing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Writing and Editing"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-writing-and-editing",
+  "slug": "advanced-writing-and-editing"
+}

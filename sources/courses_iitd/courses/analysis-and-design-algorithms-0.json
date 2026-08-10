@@ -1,0 +1,22 @@
+{
+  "code": "MTL7742",
+  "name": "Analysis and Design of Algorithms",
+  "description": "Asymptotic notation; DFS, BFS, and some applications; greedy algorithms: interval scheduling, optimal caching, minimum spanning trees (Prim\u2019s and Kruskal\u2019s ), shortest path, etc.; divide and conquer: sorting, matrix multiplication, etc.; dynamic programming: scheduling, subset sum, etc.; branch and bound, backtracking techniques; network flow algorithms and applications; NP-completeness and reductions; introduction to approximation algorithms; recent trends in algorithms.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Analysis and Design of Algorithms | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Analysis and Design of Algorithms"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/analysis-and-design-algorithms-0",
+  "slug": "analysis-and-design-algorithms-0"
+}

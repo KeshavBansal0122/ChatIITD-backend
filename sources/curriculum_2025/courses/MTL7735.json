@@ -1,0 +1,16 @@
+{
+  "code": "MTL7735",
+  "name": "Introduction to Number Theory",
+  "description": "Divisibility, Prime numbers, Infinitude of primes, Fundamental theorem of arithmetic, Euclidean algorithm, Euler totient function, M\u00f6bius function, Divisor function, von Mangoldt function, Chebyshev's functions, Big-O and Little-o notions, M\u00f6bius inversion formula, Abel's partial summation formula and applications, Estimates of prime numbers (statements only), Complete and reduced residue systems, Euler-Fermat theorem, Wilson's theorem, Linear congruences and Chinese remainder theorem, Hensel's lemma and applications, Quadratic residues and non-residues, Legendre symbol, Quadratic reciprocity law and applications, Jacobi symbol, Representation of integers as sum of squares, Existence of primitive roots, Index computation and its applications in solving polynomial congruences, Dirichlet's theorem, Algebraic and irrational numbers, Liouville's theorem and applications, Roth's theorem (statement only), Continued fraction expansions, Properties of convergents and partial quotients, Improvements of Dirichlet's theorem, Characterisation of quadratic irrationals, Brahmagupta-Pell equation, Pythagorean triples, Fermat equations, Tangent-chord method, p-adic norm, p-adic numbers, Hensel's lemma revisited, Product formula, Ostrowski's theorem, Binary quadratic forms, Reduction and equivalence of binary quadratic forms, Class number problem (statements only), General quadratic forms, Statement of Hasse-Minkowski theorem, Partition function, Statements of Ramanujan congruences, Roger-Ramanujan continued fractions, Primality and factorisation.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTL7735"
+}

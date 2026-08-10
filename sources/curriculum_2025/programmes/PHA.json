@@ -1,0 +1,495 @@
+{
+  "code": "PHA",
+  "name": "M.Tech. in Applied Optics and Quantum Photonics",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=PHA",
+  "credit_requirements": [
+    {
+      "category": "PL",
+      "label": "Programme-Linked",
+      "credits_or_units": 7100.0,
+      "kind": "graded"
+    },
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 49.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Explain the fundamental and technical basics of various applied optical processes and instruments"
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Design and develop optical components and instruments from basic to complex optical and photonic systems"
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Devise experiments and measurements in laboratory and through projects independently and as a team on applied nonlinear, ultrafast and quantum devices"
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "Analyse results, simulate outcomes, implement protocols for deterministic outcomes and present them as reports and oral presentations"
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "PYD7002",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYD8051",
+        "title": "Major Project I",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "PYD8052",
+        "title": "Major Project - II",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "PYL7047",
+        "title": "Nonlinear Optics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7051",
+        "title": "Optical Sources, Photometry and Metrology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7052",
+        "title": "Laser Systems and Applications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7053",
+        "title": "Optical System Design",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7055",
+        "title": "Basic Optics and Optical Instrumentation",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7057",
+        "title": "Statistical and Quantum Optics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYN7002",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "PYP7061",
+        "title": "Optical Fabrication and Metrology Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYP7062",
+        "title": "Advanced Optical Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYT7003",
+        "title": "Summer Internship",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DSL7731",
+        "title": "Optical Components and Basic Instruments",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DSL7734",
+        "title": "Advanced Laser Technology and Laser Based Instrumentation",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7437",
+        "title": "Fiber-Optic Communication Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "JOL7093",
+        "title": "Selected Topics - 1",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "OPL7100",
+        "title": "Optics and Photonics for Engineers and Scientists",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "OPL7130",
+        "title": "Information Photonics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "OPL7711",
+        "title": "Laser Science and Technology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7049",
+        "title": "Quantum Information and Computation",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7060",
+        "title": "Biomedical Optics and Biophotonics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7091",
+        "title": "Fiber Optics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7093",
+        "title": "Photonic Devices",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7190",
+        "title": "Integrated Optics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7292",
+        "title": "Optical and Quantum Electronics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7560",
+        "title": "Fourier Optics and Holography",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7590",
+        "title": "Computational Optical Imaging",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYP7064",
+        "title": "Advanced Optical Workshop",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "PYL7047",
+        "title": "Nonlinear Optics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYL7051",
+        "title": "Optical Sources, Photometry and Metrology",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYL7053",
+        "title": "Optical System Design",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYL7055",
+        "title": "Basic Optics and Optical Instrumentation",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYP7061",
+        "title": "Optical Fabrication and Metrology Laboratory",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYN7002",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "PYD7002",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYL7052",
+        "title": "Laser Systems and Applications",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYL7057",
+        "title": "Statistical and Quantum Optics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYP7062",
+        "title": "Advanced Optical Laboratory",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYN7002",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "PYN7002",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "PYD8051",
+        "title": "Major Project I",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 18.0
+        },
+        "credits": 9.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "PYN7002",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "PYD8052",
+        "title": "Major Project - II",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      }
+    ]
+  },
+  "raw_text_preview": "PHA \u2013 M.Tech. in Applied Optics and Quantum Photonics\nM.Tech. in Applied Optics and Quantum Photonics\nPhysics, Department of\nProgramme Code: PHA\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n49\nPE (Programme Elective)\n6\nPE (Programme Elective)\n6\nTotal Graded Credit Requirement\n61\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nExplain the fundamental and technical basics of various applied optical processes and instruments\nPLO 2\nDesign and develop optical components and instruments from basic to complex optical and photonic systems\nPLO 3\nDevise experiments and measurements in laboratory and through projects independently and as a team on applied nonlinear, ultrafast and quantum devices\nPLO 4\nAnalyse results, simulate outcomes, implement protocols for deterministic outcomes and present them as reports and oral presentations\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nPYD7002 Cornerstone Project 0 0 6 3\nPYD8051 Major Project I \u2013 \u2013 \u2013 \u2013\nPYD8052 Major Project - II \u2013 \u2013 \u2013 \u2013\nPYL7047 Nonlinear Optics 3 0 0 3\nPYL7051 Optical Sources, Photometry and Metrology 3 0 0 3\nPYL7052 Laser Systems and Applications 3 0 0 3\nPYL7053 Optical System Design 2 0 2 3\nPYL7055 Basic Optics and Optical Instrumentation 3 0 0 3\nPYL7057 Statistical and Quantum Optics 3 0 0 3\nPYN7002 Teaching/Research Practicum 0 0 8 4\nPYP7061 Optical Fabrication and Metrology Laboratory 0 0 6 3\nPYP7062 Advanced Optical Laboratory 0 0 6 3\nPYT7003 Summer Internship 0 0 6 3\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nDSL7731 Optical Components and Basic Instruments 3 0 0 3\nDSL7734 Advanced Laser Technology and Laser Based Instrumentation 3 0 0 3\nELL7437 Fiber-Optic Communication Systems 3 0 0 3\nJOL7093 Selected Topics - 1 3 0 0 3\nOPL7100 Optics and Photonics for Engineers and Scientists 3 0 0 3\nOPL7130 Information Photonics 3 0 0 3\nOPL7711 Laser Science and Technology 3 0 0 3\nPYL7049 Quantum Information and Computation 3 0 0 3\nPYL7060 Biomedical Optics and Biophotonics 3 0 0 3\nPYL7091 Fiber Optics 3 0 0 3\nPYL7093 Photonic Devices 3 0 0 3\nPYL7190 Integrated Optics 3 0 0 3\nPYL7292 Optical and Quantum Electronics 3 0 0 3\nPYL7560 Fourier Optics and Holography 3 0 0 3\nPYL7590 Computational Optical Imaging 3 0 0 3\nPYP7064 Advanced Optical Workshop 0 0 6 3\nSemester-wise Schedule\nSem\nCourses &amp; Baskets\nHrs /\nweek\nNGU\nCredits\n1\nPYL7047 Nonlinear Optics"
+}

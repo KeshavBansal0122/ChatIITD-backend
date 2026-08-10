@@ -1,0 +1,16 @@
+{
+  "code": "MTL2006",
+  "name": "Introduction to Probability and Stochastic Processes",
+  "description": "Random Experiments, Probability Definition, Properties of Probability Function, Bayes Theorem, Random Variables, Distribution Function, Probability Mass and Density Functions, Moments, Generating Functions, Moment Inequalities, Standard Probability Distributions, Two and Higher Dimensional Random Variables, Independent Random Variables, Covariance and Correlation, Conditional Distribution, Conditional Expectation, Law of Large Numbers, Central Limit Theorem, Stochastic Processes and their Classification, Markov and Stationary properties, Discrete and Continuous Time Markov Chains, Poisson and Birth-Death Processes, Simple Markov Queuing Systems, Applications in Engineering.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTL2006"
+}

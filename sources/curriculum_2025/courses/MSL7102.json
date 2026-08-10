@@ -1,0 +1,16 @@
+{
+  "code": "MSL7102",
+  "name": "Managerial Accounting and Decision Making",
+  "description": "Introduction to cost concepts and cost control\r\nFull Costing and Variable Costing\r\nCost-volume Profit analysis\r\nIncremental analysis (pricing and product)\r\nStandard Costing and Variance Analysis\r\nTime Value of Money\r\nIntroduction to Capital Budgeting Techniques",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MS#MSL7102"
+}

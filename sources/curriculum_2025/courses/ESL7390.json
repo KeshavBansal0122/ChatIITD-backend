@@ -1,0 +1,16 @@
+{
+  "code": "ESL7390",
+  "name": "Atomistic Simulations for Energy Applications",
+  "description": "Overview of multiscale modelling, Introduction to atomistic regime. Atomistic description of matter. Total energy and force methods: first principles, semi-empirical, empirical, machine learned force fields. Molecular dynamics. Software and hardware for atomistic simulation. Predicting observable properties. \r\nPredictive design of energy systems. Application to batteries, fuel cells and electrolysers, semiconductors and other energy related areas.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ES",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ES#ESL7390"
+}

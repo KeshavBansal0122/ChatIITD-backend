@@ -1,0 +1,22 @@
+{
+  "code": "HSL7703",
+  "name": "Data-Driven Analysis and Tools for Linguistic Research",
+  "description": "The course introduces students to empirical and computational methods for analysing linguistic data. It covers data collection, annotation, statistical analysis, and visualisation across different linguistic domains such as phonetics, syntax, and corpus linguistics. Students will gain hands-on experience with tools like Praat, ELAN, R, python (NLTK, pandas), and AntConc for processing and interpreting linguistic data. The course emphasises quantitative reasoning, reproducibility, and practical application of digital tools in linguistic research through guided exercises and a final data analysis project.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Data-Driven Analysis and Tools for Linguistic Research | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Data-Driven Analysis and Tools for Linguistic Research"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/data-driven-analysis-and-tools-linguistic-research",
+  "slug": "data-driven-analysis-and-tools-linguistic-research"
+}

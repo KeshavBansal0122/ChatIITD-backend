@@ -1,0 +1,16 @@
+{
+  "code": "MEL7201",
+  "name": "Advanced Solid Mechanics",
+  "description": "Introduction, indicial notations, tensors. Strain and compatibility, stress, and equilibrium. Constitutive modeling, Hooke\u2019s law, viscous fluid. Field equations, boundary conditions, uniqueness of solution, principle of superposition, Saint-Venant\u2019s principle. Plane problems in rectangular and polar coordinates. Energy methods such as reciprocal theorem, virtual work principle and Castigliano\u2019s theorem. Torsion and flexure of elastic members. Application to thick cylinders, rotating discs, curved beams, beams on elastic foundations, torsion of non-circular cross-sections, stress concentration problems, Hertzian contact stresses.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL7201"
+}

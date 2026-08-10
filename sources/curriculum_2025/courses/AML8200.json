@@ -1,0 +1,16 @@
+{
+  "code": "AML8200",
+  "name": "Plasticity",
+  "description": "Phenomenology of plastic deformation, small deformation plasticity theory, yield criteria, hardening laws, finite element methods in small deformation plasticity, material update, exact Jacobian for incremental formulations, finite deformation plasticity theory, crystal plasticity, elastic theory of dislocations, discrete dislocation dynamics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AML8200"
+}

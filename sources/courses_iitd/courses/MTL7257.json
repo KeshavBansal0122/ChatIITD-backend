@@ -1,0 +1,22 @@
+{
+  "code": "MTL7257",
+  "name": "Introduction to Algebraic Topology",
+  "description": "Paths and homotopy; the fundamental group of the circle; induced homomorphisms; free products of groups; the van Kampen theorem and its applications; applications to cell complexes; lifting properties; the classification of covering spaces; deck transformations and group actions. Delta complexes; simplicial homology; singular homology; homotopy invariance; exact sequences and excision; the equivalence of simplicial and singular homology; degree; cellular homology; Mayer\u2013Vietoris sequence and its applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Algebraic Topology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Algebraic Topology"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-algebraic-topology",
+  "slug": "introduction-algebraic-topology"
+}

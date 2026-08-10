@@ -1,0 +1,16 @@
+{
+  "code": "DDP1002",
+  "name": "Fundamentals of Design",
+  "description": "This course introduces students to the fundamental principles, theories, and applications of design. It covers key elements such as visual composition, color theory, gestalt theory, semiotics and design thinking. Through hands-on assignments and critical analysis, students will develop an understanding of how design shapes communication, aesthetics and meaning.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DD#DDP1002"
+}

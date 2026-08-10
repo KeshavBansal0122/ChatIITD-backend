@@ -1,0 +1,22 @@
+{
+  "code": "ASL7800",
+  "name": "Atmospheric Chemical Transport Modeling",
+  "description": "The concept of model; Atmospheric chemistry model; chemical transport model (CTM); Simple models, one-box model, concept of lifetime, Mass balance equation; multi-box model; Puff model; Basics of atmospheric structure, physics, and dynamics; Chemical processes in the atmosphere; The continuity equation for chemical species; Eulerian form, derivation, discretization; Lagrangian form; Vertical coordinates; Numerical frameworks for Eulerian models; Model grids; Operator splitting; Numerical methods for chemical systems and advection; Surface fluxes, emissions, deposition; Atmospheric observations and model evaluations; Inverse modeling of atmospheric chemistry; Global and regional CTMs; Applications: GEOS-Chem and WRF-Chem CTMs.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Atmospheric Chemical Transport Modeling | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Atmospheric Chemical Transport Modeling"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/atmospheric-chemical-transport-modeling",
+  "slug": "atmospheric-chemical-transport-modeling"
+}

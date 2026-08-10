@@ -1,0 +1,22 @@
+{
+  "code": "DDD8001",
+  "name": "Design Project 2",
+  "description": "This is the second independent design project for the M.Des. students. It offers students the opportunity to apply their learning from foundational courses and applications of appropriate design research methods to a self-directed problem in a design domain of their choice \u2014 such as (but not limited to) industrial design, visual communication design, or interaction design. The emphasis is on understanding the context, framing relevant problems, creating an actionable design brief, conducting contextual inquiry, and applying an iterative design process to develop meaningful and well-resolved design outcomes. Through regular critiques, peer reviews, and faculty mentoring, students will learn to manage a design process from concept to execution, documenting each phase and justifying design decisions. The project will culminate in a final presentation with a demonstration of the design solution and comprehensive documentation of design process and outcomes. The course is structured to build confidence in handling open-ended problems and prepares students for future thematic or capstone design projects of advanced level.",
+  "credits": 6.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 12.0
+  },
+  "prereq": "(DDD7006&DDL7007)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Design Project 2 | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Design Project 2"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/design-project-2-0",
+  "slug": "design-project-2-0"
+}

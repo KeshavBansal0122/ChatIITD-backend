@@ -1,0 +1,22 @@
+{
+  "code": "ELL7602",
+  "name": "Power Systems Dynamics, Operation and Control",
+  "description": "Dynamic models of synchronous machines, excitation system, turbines, governors, loads. Modelling of single-machine-infinite bus system. Mathematical modelling of multimachine system. Dynamic and transient stability analysis of single machine and multi-machine systems. Power system stabilizer design for multimachine systems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "()",
+  "overlap": null,
+  "learning_outcomes": [
+    "Power Systems Dynamics, Operation and Control | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Power Systems Dynamics, Operation and Control"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/power-systems-dynamics-operation-and-control",
+  "slug": "power-systems-dynamics-operation-and-control"
+}

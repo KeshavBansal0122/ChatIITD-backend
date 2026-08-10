@@ -1,0 +1,16 @@
+{
+  "code": "CVL7412",
+  "name": "Structural Dynamics",
+  "description": "Theory of structural dynamics and vibration analysis. Free and forced vibration of single degree of freedom (SDOF) systems, load regimes and response to harmonic, periodic, impulsive, and general dynamic loading. Response of SDOF to earthquake and response spectrum concept. Damping in structures and its evaluation. Free and forced vibration of lumped multi degree of freedom (MDOF) structures. Methods for obtaining natural frequencies and mode shapes. Normal mode theory; mode combination rules; dynamic response evaluation. Force excited and base excited dynamical systems. Time domain analysis using numerical integration scheme. Free and forced vibration of continuous systems. Frequency domain analysis of dynamical systems. Introduction to advanced topics in structural dynamics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7412"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CVL8582",
+  "name": "Special Topics in Transportation Planning",
+  "description": "Transportation planning in a changing era, theoretical developments in transportation planning, discussion of demand estimation approaches, advancements in supply models, concepts of costs and pricing, discussion of equilibrium concepts and policy design, global review of planning models, transferability of transport planning models, case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CVL7051&CVL7502",
+  "overlap": null,
+  "learning_outcomes": [
+    "Special Topics in Transportation Planning | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Special Topics in Transportation Planning"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/special-topics-transportation-planning",
+  "slug": "special-topics-transportation-planning"
+}

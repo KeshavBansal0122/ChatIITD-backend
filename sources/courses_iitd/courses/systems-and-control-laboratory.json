@@ -1,0 +1,22 @@
+{
+  "code": "ELP2100",
+  "name": "Systems and Control Laboratory",
+  "description": "Linear system simulator; process control with transport delay; Analog realization of compensators; DC motor control; Position control of robotic manipulator; Stabilization of inverted pendulum; Design projects.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "ELL2100",
+  "overlap": null,
+  "learning_outcomes": [
+    "Systems and Control Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Systems and Control Laboratory"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/systems-and-control-laboratory",
+  "slug": "systems-and-control-laboratory"
+}

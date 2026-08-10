@@ -1,0 +1,16 @@
+{
+  "code": "ESL8455",
+  "name": "Solar Photovoltaic Power Generation",
+  "description": "Components of Photovoltaic Power Generation. Various kinds of PV modules and their features. IV-Characteristics and Electrical Equivalent Circuits under various conditions. Effect of partial shading, Local and global MPPT. Different types Mounting structures. MPPT algorithms and tuning parameters. Review of basic power electronics and control systems. PV and battery connection. Charge controllers and Inverter configurations. Off-grid power converter configurations and operation (features). Different types of grid connected PV inverter: Configuration, performance and features. Synchronization and other control requirements for grid connected power converters. Transformer-less grid connected PV inverters and Leakage current issue. Power quality and related standards. Solar PV based water pumping. Power Purchase agreements. Life Cycle Costing (LCC) of PV system. Emerging trends for PV power generation: Converter topology, Ancillary support.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ES",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ES#ESL8455"
+}

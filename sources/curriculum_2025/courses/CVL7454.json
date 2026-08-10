@@ -1,0 +1,16 @@
+{
+  "code": "CVL7454",
+  "name": "Analytical and Computational Methods in Civil Engineering",
+  "description": "Introduction: vector spaces, function spaces, norms in discrete and continuous systems, tensors, linear transformations, tensor calculus; linear ordinary differential equation (ODEs); linear partial differential equation (PDEs); Fourier and Laplace transforms; analytical solutions for ODEs and PDEs; nonlinear differential equations; Lagrangian and Hamiltonian, variational calculus, Euler-Lagrange equation, Noether\u2019s theorem, mesh-based and mesh-free numerical methods for solving PDEs; linearization and iterative solvers; eigenvalue problems; Lagrange multiplier and penalty approaches; stability and convergence analysis; LBB condition; large matrices; sparse matrices. Applications to various civil engineering problems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7454"
+}

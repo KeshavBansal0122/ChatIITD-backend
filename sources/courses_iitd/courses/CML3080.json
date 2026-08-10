@@ -1,0 +1,22 @@
+{
+  "code": "CML3080",
+  "name": "Sustainable Chemistry and Chemical Processes",
+  "description": "Definition and overview of the twelve principles of Green Chemistry, Synthetic Efficiency. Green Chemistry Metrics. Individual Reactions Analysis. Atom Economy, E-factor, & Reaction Mass Efficiency (RME), Less Hazardous Materials in Synthesis, Designing Safer Products, Safer Solvents and Auxiliaries, Energy Efficiency. Quantifying and minimising use of utilities and, other inputs, Catalysis, Recovery, recycle, reuse. Heterogeneous, Solid acids. Templated silica. Polymer-supported reagents, Alternative Starting Materials, Waste-free HF acylation chemistry, The concept of atom economy. Nitrogen fixation and green hydrogen.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Sustainable Chemistry and Chemical Processes | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Sustainable Chemistry and Chemical Processes"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/sustainable-chemistry-and-chemical-processes",
+  "slug": "sustainable-chemistry-and-chemical-processes"
+}

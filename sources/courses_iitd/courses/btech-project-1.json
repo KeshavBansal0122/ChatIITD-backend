@@ -1,0 +1,21 @@
+{
+  "code": "ELD4001",
+  "name": "BTech Project",
+  "description": "The project involves identification, analysis and execution of a research or design problem relevant to EE, including literature review, methodology development, implementation and validation. Students are expected to manage the project professionally, document their work, and communicate results through a written thesis and oral presentation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "BTech Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/btech-project-1",
+  "slug": "btech-project-1"
+}

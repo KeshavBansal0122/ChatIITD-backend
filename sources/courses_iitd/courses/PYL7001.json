@@ -1,0 +1,22 @@
+{
+  "code": "PYL7001",
+  "name": "Physical Foundations of Materials Science",
+  "description": "Imperfections in solids: points defects, thermodynamics of point defects. Dislocations: grain boundaries: low and high angle grain boundaries. Phase transformations: kinetics of phase transformations, homogeneous and heterogeneous nucleation, kinetic considerations of solid-state transformations. Diffusion: diffusion mechanisms, steady and non-steady state diffusion, factors influencing diffusion. Phase diagrams: unary phase diagram, Gibbs phase rule, binary isomorphous systems, lever rule, interpretation of phase diagrams, determination of phase amounts, equilibrium and non-equilibrium solidification, binary eutectic systems, equilibrium diagrams having intermediate phases or compounds, congruent phase transformations. Microstructural and property changes in iron-carbon alloys, mechanisms of strengthening in metals and metal alloys, recovery, recrystallization and grain growth, materials selection and design considerations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Physical Foundations of Materials Science | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Physical Foundations of Materials Science"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/physical-foundations-materials-science",
+  "slug": "physical-foundations-materials-science"
+}

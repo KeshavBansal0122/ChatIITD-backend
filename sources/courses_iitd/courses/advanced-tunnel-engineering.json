@@ -1,0 +1,22 @@
+{
+  "code": "CVL8602",
+  "name": "Advanced Tunnel Engineering",
+  "description": "Overview of in-situ stress measurement techniques, design of drill and blast systems selected closed form solutions: cavity expansion theory, bending moment, shear stress and thrust forces in tunnels, analysis of chamber pressure in tunnel boring machines, analysis of ground and building settlements due to tunneling overview of design concepts: convergence confinement method, stress-strain method, capacity plots, 3D effects concepts of tunnelling in mining and hydro-projects, seismic aspects related to tunneling, rock block stability analysis during excavation, contract issues in tunneling, case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CVL7601/CVL7201/CVL7603/",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Tunnel Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Tunnel Engineering"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-tunnel-engineering",
+  "slug": "advanced-tunnel-engineering"
+}

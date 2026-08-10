@@ -1,0 +1,22 @@
+{
+  "code": "MEL7113",
+  "name": "Machine Learning",
+  "description": "Introduction to AI and ML, end-to-end pipeline for ML projects, theory of statistical learning: hypothesis classes, no free lunch theorem, shattering, VC dimension, ML methods: binary classification, linear regression, logistic regression, nonlinear regression, multiclass classification, support vector machines, decision trees, ensemble learning, nearest neighbours, neural networks, clustering, dimensionality reduction, Gaussian mixtures, Markov decision processes, reinforcement learning, Q-learning, interplay of operations research and ML, applications of AI/ML in mechanical engineering.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Machine Learning | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Machine Learning"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/machine-learning-0",
+  "slug": "machine-learning-0"
+}

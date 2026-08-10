@@ -1,0 +1,16 @@
+{
+  "code": "ELL7289",
+  "name": "Graph Machine Learning",
+  "description": "Introduction and Motivations for Machine Learning with Graphs, Graph and its Matrices, Graph Theory, Laplacian Matrix and Smoothness, Graph Learning from Data, Graph Embedding, Label Propagation, Manifold Regularization, semi, (un,) and Supervised Learning with Graphs, Graph Data Mining, Deep Learning with Graphs.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7289"
+}

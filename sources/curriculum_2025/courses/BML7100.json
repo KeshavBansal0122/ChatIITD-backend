@@ -1,0 +1,16 @@
+{
+  "code": "BML7100",
+  "name": "Industrial Biomaterial Technology",
+  "description": "Biomaterials commonly used in biomedical industry. Property requirements, common industrial synthesis methods, structure-activity relationship of the biomedical materials. Good manufacturing practice regulations, quality assurance and quality control, labeling, device failure, synthetic and biopoloymers, bioerodible materials, host reactions to biomaterials, sterilization of medical devices, advances in sterilization technology of clean room, polymeric materials for drug delivery systems, active and passive targeting, intelligent materials. Polymer based healthcare technologies in the market.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BM#BML7100"
+}

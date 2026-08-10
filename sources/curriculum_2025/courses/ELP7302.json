@@ -1,0 +1,16 @@
+{
+  "code": "ELP7302",
+  "name": "VLSI Design Lab - II",
+  "description": "Application of advanced concepts VLSI architecture and design in complex practical designs.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELP7302"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "BBL7058",
+  "name": "Systems Biology",
+  "description": "Empirical models of microbial growth, Elements of mechanistic model buildling, Mechanistic models of protein synthesis, Closed circuit modules and their roles, Mechanistic models of Biomass growth, Mechanistic models of cell division and DNA replication, Large scale networks and limitations of bottom-up models.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Systems Biology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Biochemical Engineering and Biotechnology, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/systems-biology-2",
+  "slug": "systems-biology-2"
+}

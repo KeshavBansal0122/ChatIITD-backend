@@ -1,0 +1,16 @@
+{
+  "code": "COL7203",
+  "name": "Logic for Computer Science",
+  "description": "Logic for specifying systems, propositional logic, proof systems for propositional logic (resolution, DPLL, CDCL, natural deduction), soundness and completeness of propositional logic proof systems, SAT/SMT solvers, predicate logic, proof systems for predicate logic (resolution with unification, natural deduction), soundness and completeness of predicate logic proof systems, compactness, Hoare logic, soundness, relative completeness, alloy/Z3/automated theorem provers.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL7203"
+}

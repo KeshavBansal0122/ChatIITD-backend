@@ -1,0 +1,21 @@
+{
+  "code": "DAN1200",
+  "name": "Life Skills 2",
+  "description": "Choice based workshops on the topics related to overall well-being and development of students beyond academics. Students would be given options to choose the workshops based on thier interests. A suggested list of topics is as following\n1. Professional Ethics (case studies from corporate, govt., etc.)\n2. Understanding Rural India\n3. Introduction to Wellness\n4. India\u2019s grand challenges\n5. Systems thinking\n6. Design thinking\n7. Personal Finance\n8. Social communications\n9. Negotiation skills\n10. Understanding Family in the Context of Self and Society\n11. Environmental Sustainability (how personal choices have an impact)\n12. Workshop on minimalism\n12. Understanding India\n13. Negotiating Skills\n14. Understanding Constitution/Law For Civic Duties\n15. Connecting with nature\n16. Digital wellness\n17. Mental wellbeing\n18. Leadership development",
+  "credits": 0.25,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 0.5
+  },
+  "prereq": "DAN1100",
+  "overlap": null,
+  "learning_outcomes": [
+    "Life Skills 2 | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/life-skills-2-0",
+  "slug": "life-skills-2-0"
+}

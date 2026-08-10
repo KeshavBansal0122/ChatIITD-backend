@@ -1,0 +1,22 @@
+{
+  "code": "BBD8095",
+  "name": "M.S.(R) Thesis Project",
+  "description": "The thesis work for MSR students will be completed under the supervision of a DBEB faculty member.",
+  "credits": 42.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 84.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "M.S.(R) Thesis Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "M.S.(R) Thesis Project"
+  ],
+  "department": "Biochemical Engineering and Biotechnology, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/msr-thesis-project",
+  "slug": "msr-thesis-project"
+}

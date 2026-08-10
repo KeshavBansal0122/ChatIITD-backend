@@ -1,0 +1,22 @@
+{
+  "code": "CML3051",
+  "name": "Carbonyl Chemistry",
+  "description": "Basic carbonyl chemistry and transformations, Aldol and related reactions, Malonic and acetoacetic esters. Directed aldol and alkylation reactions; stereoselective and asymmetric synthesis; Crams, Felkin Anh and Crams dipolar models; stereoselective aldol reactions; Mukiyama aldol reaction; asymmetric versions using chiral auxillaries. Basic organometallic chemistry: Synthesis and reactions of various organometallic reagents.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Carbonyl Chemistry | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Carbonyl Chemistry"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/carbonyl-chemistry",
+  "slug": "carbonyl-chemistry"
+}

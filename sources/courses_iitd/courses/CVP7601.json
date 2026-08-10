@@ -1,0 +1,22 @@
+{
+  "code": "CVP7601",
+  "name": "Rock Mechanics Lab",
+  "description": "Tests and test procedures, rock samples, rock specimen preparation, rock coring, cutting and lapping. Tolerance limits. Physical properties of rocks: water absorption, density, specific gravity, porosity, void index, electrical resistivity and sonic wave velocity of rocks samples. Mechanical properties: uniaxial compression, point load index and Brazilian strength tests of rocks, strain measurements and elastic properties of rocks. Effect of L/D ratio and saturation on rocks. Strength anisotropy in rocks. Shear tests in rocks: single, double, oblique tests, punch shear, triaxial compression tests, direct shear test. Slake durability and permeability tests for rocks. Classification. Codal provisions for rocks.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Rock Mechanics Lab | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Rock Mechanics Lab"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/rock-mechanics-lab",
+  "slug": "rock-mechanics-lab"
+}

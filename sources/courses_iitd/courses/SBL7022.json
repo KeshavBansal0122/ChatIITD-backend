@@ -1,0 +1,22 @@
+{
+  "code": "SBL7022",
+  "name": "Stem Cells Biology",
+  "description": "Fundamentals of stem cells, types of adult cells, embryonic, adult, pluripotent, induced pluripotent stem cells, genomic reprogramming, stem cells in clinic and research, stem cell to use for therapy, application of stem cells in various disorders for example, heart; diabetes, stem cells in cancer, stem cells therapy for parkinson\u2019s disease, stem cells in neurological disorders, approaches for derivation and maintenance of human embryonic stem cells, human cord blood-derived stem cells in transplantation and regenerative medicine, stem cells for discovery of effective and safe new drugs, legal and intellectual property issues associated with stem cells, stem cells perspectives: A vision of the future.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(SBL1100/SBL1102)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Stem Cells Biology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Stem Cells Biology"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/stem-cells-biology",
+  "slug": "stem-cells-biology"
+}

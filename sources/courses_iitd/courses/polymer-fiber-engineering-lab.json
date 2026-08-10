@@ -1,0 +1,22 @@
+{
+  "code": "TXP3101",
+  "name": "Polymer to Fiber Engineering Lab",
+  "description": "Hands-on laboratory exercises covering radical and interfacial polymerization, solution viscosity measurements, melt and solution spinning techniques, electrospinning, fiber drawing and heat-setting, melt flow index (MFI) analysis, moisture determination in PET chips, mechanical testing of drawn and undrawn fibers, microscopic analysis of crystal growth, birefringence evaluation, and crystallinity percentage determination.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "TXL1101&TXL2101",
+  "overlap": null,
+  "learning_outcomes": [
+    "Polymer to Fiber Engineering Lab | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Polymer to Fiber Engineering Lab"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/polymer-fiber-engineering-lab",
+  "slug": "polymer-fiber-engineering-lab"
+}

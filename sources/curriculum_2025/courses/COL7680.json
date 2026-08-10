@@ -1,0 +1,16 @@
+{
+  "code": "COL7680",
+  "name": "Introduction to Computer Vision",
+  "description": "Camera models. Calibration, multi-view projective geometry. 3D structure/motion estimation. Computer vision techniques for object detection and recognition, category discovery, and image segmentation.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL7680"
+}

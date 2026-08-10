@@ -1,0 +1,19 @@
+{
+  "code": "JTD7098",
+  "name": "Major Project Part 2",
+  "description": "On successful completion of this course a student should be able to design and develop novel solutions to wireless research and engineering problems.",
+  "credits": 12.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 24.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/major-project-part-2-3",
+  "slug": "major-project-part-2-3"
+}

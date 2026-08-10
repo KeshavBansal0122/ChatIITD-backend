@@ -1,0 +1,22 @@
+{
+  "code": "MLL7400",
+  "name": "Nanostructures and Nanomaterials",
+  "description": "Scaling laws, dimensionality, hybrid nanomaterials, effect of size, structure, mechanism, and property on material performance, synthesis of nanostructures through bottom-up and top-down approaches, thermodynamics of nanomaterials including configurational entropy and Gibbs free energy of nanocrystals, surface reconstruction and reconfiguration, single electron phenomenon, quantum transport of electrons, electrical conductance through a single atom, nanowires and nanotubes, single electron transistor, molecular electronics, surface plasmon resonance in metals, bandgap variation in semiconductors, optical tweezers, photonic crystals, nanomechanical oscillators using beams and atoms, scanning probe microscopy, magnetic properties of small magnetic clusters and nanoparticles, magnetoresistance, spintronics, and superparamagnetism.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Nanostructures and Nanomaterials | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Nanostructures and Nanomaterials"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/nanostructures-and-nanomaterials",
+  "slug": "nanostructures-and-nanomaterials"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "AML5010",
+  "name": "Warship Design",
+  "description": "Salient features of warships, merchant ships, naval auxiliaries and yard-craft. Principles and morphology of engineering design. Design spiral feasibility studies. Preliminary design. Detailed design warship design and production procedures. Staff requirements. Design activities. Drawing and specifications. General arrangement drawings\u2014weapon layout. Mass and space analysis. Stability aspects, resistance, propulsion. Seakeeping and maneuvering considerations in design. Structural considerations. Survivability cost aspects. Special types of hull forms. Computer aided ship design.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Warship Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/warship-design",
+  "slug": "warship-design"
+}

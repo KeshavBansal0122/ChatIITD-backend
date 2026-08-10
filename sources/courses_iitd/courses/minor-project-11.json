@@ -1,0 +1,21 @@
+{
+  "code": "VED7050",
+  "name": "Minor Project",
+  "description": "To carry out detailed studies (under the guidance of a faculty member) on issues like science, technology and human values, engineering ethics, sustainable development, scientific basis of human values, wellness and flourishing, inner development, Indian classical music and arts etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Minor Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/minor-project-11",
+  "slug": "minor-project-11"
+}

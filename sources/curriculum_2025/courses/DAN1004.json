@@ -1,0 +1,16 @@
+{
+  "code": "DAN1004",
+  "name": "Speaking in English",
+  "description": "This course is designed for students aiming to enhance their public speaking skills. It focuses on building confidence, improving pronunciation, and organizing ideas effectively for diverse audiences. Through interactive exercises, students will learn to manage stage fright, use body language, and deliver structured presentations. The curriculum includes practicing various speech formats, employing visual aids, and engaging in peer evaluations to foster continuous improvement. By the end of the course, participants will be equipped to communicate clearly and persuasively in academic, professional, and social settings. This course targets learners seeking to refine their oral communication abilities/skills.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DA",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DA#DAN1004"
+}

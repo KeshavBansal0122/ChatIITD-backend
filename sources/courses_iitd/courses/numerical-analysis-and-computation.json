@@ -1,0 +1,22 @@
+{
+  "code": "MTL2007",
+  "name": "Numerical Analysis and Computation",
+  "description": "Floating point representation, floating point arithmetic, and roundoff errors. Roots of a nonlinear equation in one variable. Direct and iterative methods for linear system of equations, Condition number and ill-conditioned systems. Solutions of nonlinear system of equations. Interpolation: Lagrange, Newton\u2019s interpolations, and errors in interpolation. Approximation: least square approximations, QR Decomposition, Continuous least square, Legendre, Chebyshev\u2019s polynomials, Fourier Series. Numerical differentiation: Finite difference formulas and errors. Numerical integration: Newton-Cotes formulas, Gauss quadrature rules. Numerical methods for Initial value problem for ODEs",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Numerical Analysis and Computation | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Numerical Analysis and Computation"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/numerical-analysis-and-computation",
+  "slug": "numerical-analysis-and-computation"
+}

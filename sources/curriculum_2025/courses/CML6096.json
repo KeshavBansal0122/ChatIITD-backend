@@ -1,0 +1,16 @@
+{
+  "code": "CML6096",
+  "name": "Physical Organic Chemistry",
+  "description": "Molecular orbital theory and orbital mixing: Introduction to reactive intermediates carbonium, carbanions, radical and carbenes (type and structure), Non-classical carbonium ion, Discussion on potential energy to vibrations connection, the reaction path, what is reaction coordinates, Simple rate laws (unimolecular and bimolecular) Arrhenius equation, Eyring Equation, Transition State theory, Kinetics vs thermodynamic control; Kinetics to thermodynamics: Introduction to Hammond postulate and Curtin- Hammett principle, Investigations on reaction mechanisms and short lived intermediate (Introduction to kinetic isotope effect), Cross-over experiments (Eschenmoser's intra vs intermolecular sN2 reaction), Charaterization of short lived intermediates, Example of reactive species (dioxiranes, tetrahedrane, o,m,p-didehydrobenzene)",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CM#CML6096"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "SIL7261",
+  "name": "Introduction to Information and Communication Technologies for Development",
+  "description": "What is social development, sustainable development, introduction to development initiatives in India and around the world, examples of ICTs applied in development, successes and failures, critical perspectives on the role of technology in development, theories on ICTs leading to development, best practices, case studies, design methods to build ICTs, evaluation methods for ICTD initiatives.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Information and Communication Technologies for Development | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Information and Communication Technologies for Development"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-information-and-communication-technologies-development",
+  "slug": "introduction-information-and-communication-technologies-development"
+}

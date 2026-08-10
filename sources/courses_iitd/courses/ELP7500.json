@@ -1,0 +1,22 @@
+{
+  "code": "ELP7500",
+  "name": "Electrical Machines Laboratory",
+  "description": "Characterization and steady state operations of 3-phase/ 1-phase squirrel cage induction motor and generator, wound rotor synchronous motors, permanent magnet synchronous motor (PMSM), brushless DC (BLDC) motors, switched reluctance motor, and synchronous reluctance motor.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Electrical Machines Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Electrical Machines Laboratory"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/electrical-machines-laboratory",
+  "slug": "electrical-machines-laboratory"
+}

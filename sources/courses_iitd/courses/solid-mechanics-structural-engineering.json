@@ -1,0 +1,22 @@
+{
+  "code": "CVL7414",
+  "name": "Solid Mechanics in Structural Engineering",
+  "description": "Vector spaces, vectors and tensors, divergence and stokes\u2019 theorem; deformation gradient, polar decomposition, strain measures, velocity gradient, rate of change of length, orientation, and volume, transport theorems, conservation of mass, linear and angular momentum, cauchy stress tensor, principal stresses, first and second Piola-Kirchhoff stress tensors; principles of material objectivity and frame invariance, isotropic, orthotropic, and anisotropic materials, plane stress and plane strain formulations; nonlinear and linearized constitutive models, compatibility conditions, exact solutions for shear, bending, and torsion; first and second laws of thermodynamics, thermo-elasticity; constitutive relations for plasticity and damage; application to steel, concrete and composite structures.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Solid Mechanics in Structural Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Solid Mechanics in Structural Engineering"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/solid-mechanics-structural-engineering",
+  "slug": "solid-mechanics-structural-engineering"
+}

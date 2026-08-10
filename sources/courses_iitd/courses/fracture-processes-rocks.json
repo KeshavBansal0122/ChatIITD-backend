@@ -1,0 +1,22 @@
+{
+  "code": "CVL7607",
+  "name": "Fracture Processes in Rocks",
+  "description": "Crack size effect in rocks, elastic rock rheology and structural discontinuities, atomistic estimate of rock strength, modes of rock fracturing, linear elastic fracture processes, elasto-plastic fracture processes, crack closure, cracks and anti-cracks, brittle and ductile fracture in rocks, natural fracture systems and patterns, rock fault mechanics and stress states, fatigue crack growth in rocks, Paris law and time-dependence fracturing in rocks, cracks and anti-cracks in rocks, sub-critical crack growth in rocks, fracture toughness testing rocks, design of subsurface systems through fracture mechanics, case studies. Synthetic models for rock masses fracturing. Reverse size effect.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CVL7602/CVL7601/",
+  "overlap": null,
+  "learning_outcomes": [
+    "Fracture Processes in Rocks | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fracture Processes in Rocks"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fracture-processes-rocks",
+  "slug": "fracture-processes-rocks"
+}

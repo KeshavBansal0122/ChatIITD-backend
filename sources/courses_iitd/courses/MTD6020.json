@@ -1,0 +1,22 @@
+{
+  "code": "MTD6020",
+  "name": "M.Sc. Project Part II",
+  "description": "This is Part II of the M.Sc. Project, serving as a continuation of Part I under specified academic guidelines and evaluation criteria. In this course, students pursue an independent research project within a defined research theme, building upon the work initiated in Part I. The emphasis is on deepening theoretical foundations, conducting experimental and/or computational investigations, performing systematic data analysis, and further developing advanced critical thinking, problem-solving skills, and technical expertise in their specialized domain.",
+  "credits": 6.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 12.0
+  },
+  "prereq": "MTD6010",
+  "overlap": null,
+  "learning_outcomes": [
+    "M.Sc. Project Part II | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "M.Sc. Project Part II"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/msc-project-part-ii",
+  "slug": "msc-project-part-ii"
+}

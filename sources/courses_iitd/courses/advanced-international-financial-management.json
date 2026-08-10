@@ -1,0 +1,22 @@
+{
+  "code": "MSL7113",
+  "name": "Advanced International Financial Management",
+  "description": "This course focuses on managing financial risks and investment decisions in an international environment. It covers techniques for managing exchange rate and interest rate risks using internal and external instruments such as forwards, futures, options, and swaps. The course also examines country risk assessment, international capital budgeting, and portfolio investment across currencies. Additionally, it introduces strategies for short-term international cash management and key international financial instruments such as ADRs, GDRs, and external commercial borrowings.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(MSL7112)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced International Financial Management | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced International Financial Management"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-international-financial-management",
+  "slug": "advanced-international-financial-management"
+}

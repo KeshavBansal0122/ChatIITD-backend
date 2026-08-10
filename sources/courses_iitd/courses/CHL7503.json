@@ -1,0 +1,22 @@
+{
+  "code": "CHL7503",
+  "name": "Colloids and Aerosols",
+  "description": "Creeping flows around a sphere. Drag and lift forces acting on particles in viscous fluids. Brownian motion of small particles. Colloidal interactions like van der Waals forces, electrostatic forces, depletion interactions, and steric hindrance. Introduction to aerosols and colloids. Rheology of dilute, concentrated suspensions of spherical particles. Dynamics of non-spherical particles in viscous fluids. Rheology of non-spherical particles. Coagulation/coalescence due to differential settling, shear flow, and Brownian diffusivity. Methods of preparation of emulsions (high energy and low energy). Microemulsions versus nanoemulsions. Aerosol characterization, transport of particulate matter in air via diffusion, convection, and inertia, and removal of particles via dry and wet deposition. Formation of aerosol (or colloidal) particles via nucleation and growth. Population balance equation. Experimental techniques for aerosol chemical characterization.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL2003&CHL3003",
+  "overlap": null,
+  "learning_outcomes": [
+    "Colloids and Aerosols | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Colloids and Aerosols"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/colloids-and-aerosols",
+  "slug": "colloids-and-aerosols"
+}

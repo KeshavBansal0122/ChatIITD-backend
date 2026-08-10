@@ -1,0 +1,22 @@
+{
+  "code": "CHL7405",
+  "name": "Principles of Electrochemical Engineering",
+  "description": "Volta and Galvani potentials; solvation energy, ionic equilibrium; ion-ion interactions: Debye-Huckel theory, activity coefficient of ions, ion pair, Bjerrum theory and Fuoss theory; ionic transport: migration, electrochemical mobility; Stokes-Einstein equation, extended Nernst-Planck equation, ionic conductivity, transport number, Kohlrausch law. Charged interface: electric double layer and its models, zeta potential, energy of double layer. Electrokinetic phenomena: non-equilibrium formulation, diffusion potential, junction potential, Planck-Henderson equation, electrosmosis, electrophoresis, streaming potential, sedimentation potential. Electrochemical potential, redox reactions at electrode, electrochemical cell, electrochemical equilibrium-Nernst equation, electrode potential, reversible electrodes, pH electrode, Pourbaix diagram electrode kinetics: Butler-Volmer formulation, linearized form, Tafel equation, common electrochemical characterizations: CV, LSV, RDE, EIS. Design of porous electrodes. Design of electrochemical reactors.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Principles of Electrochemical Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Principles of Electrochemical Engineering"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/principles-electrochemical-engineering",
+  "slug": "principles-electrochemical-engineering"
+}

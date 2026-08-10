@@ -1,0 +1,22 @@
+{
+  "code": "HSD8200",
+  "name": "Minor Project in Humanities and Social Sciences",
+  "description": "Students undertake a supervised research project in one of the disciplines - Economics, History, Philosophy, Psychology, Linguistics, Literature, Sociology, or in interdisciplinary areas such as Technology-in-Society, Gender Studies, Development studies, Labour and migration.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Minor Project in Humanities and Social Sciences | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Minor Project in Humanities and Social Sciences"
+  ],
+  "department": "Cornerstone Project (M.Sc. Economics)",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/minor-project-humanities-and-social-sciences",
+  "slug": "minor-project-humanities-and-social-sciences"
+}

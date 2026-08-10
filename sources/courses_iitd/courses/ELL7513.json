@@ -1,0 +1,22 @@
+{
+  "code": "ELL7513",
+  "name": "Resonant Power Conversion",
+  "description": "- Resonant circuits and their behaviour: voltage and current waveshape using time-domain and state plane analysis, \n- Soft Switching in power converters, Types of soft switching (ZVS, ZCS) and their basic mechanisms\n- Soft switching in converters using parasitic resonance, soft switching condition using state plane analysis\n- Topologies and Operation of Resonant Converters: Series and parallel resonant converter, LLC and LCC resonant converters and their applications\n- Soft switching in resonant converters and their benefits in circuit performance\n- Frequency and phase-shift control resonant converters with input voltage and load variations\n- Resonant transition converters: operation and advantages",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Resonant Power Conversion | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Resonant Power Conversion"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/resonant-power-conversion",
+  "slug": "resonant-power-conversion"
+}

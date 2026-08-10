@@ -1,0 +1,16 @@
+{
+  "code": "AIL7022",
+  "name": "Reinforcement Learning",
+  "description": "Markov decision processes, approximate dynamic programming, model-free prediction and control, Q-learning and SARSA, policy gradients, bandits, model-based RL, maximum entropy RL, imitation learning, inverse reinforcement learning, offline RL, multi-agent and hierarchical RL, emerging trends and applications.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AI",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AI#AIL7022"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "HSL5061",
+  "name": "Language in the Mind",
+  "description": "This course begins by tracing parallel developments in language and computation during the cognitive revolution in the 50s. As language is learned from infancy, we begin by introducing two approaches to learning: top-down and bottom-up. Further, we discuss language architectures that are both symbolic and non-symbolic. The course introduces some of the basic formal tools used by linguists to analyze different components of a language, such as sounds, words, sentences, and meaning. Along with examining some language disorders like dyslexia and aphasia, the course also explores the connection between language and the brain. The course also covers the applications and uses of the theoretical knowledge that is taught in the field of natural language processing.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Language in the Mind | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Language in the Mind"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/language-mind",
+  "slug": "language-mind"
+}

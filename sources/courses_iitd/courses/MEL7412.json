@@ -1,0 +1,22 @@
+{
+  "code": "MEL7412",
+  "name": "Thermal Turbomachines",
+  "description": "Types of thermal turbomachines and their applications, energy transfer in turbomachines, dimensional analysis and performance parameters, axial flow turbines, radial flow turbines, steam and gas turbines, axial flow compressors, centrifugal compressors, axial and centrifugal fans, aircraft engines, gas turbines for power generation, supercritical carbon dioxide turbines, wind turbines.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Thermal Turbomachines | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Thermal Turbomachines"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/thermal-turbomachines",
+  "slug": "thermal-turbomachines"
+}

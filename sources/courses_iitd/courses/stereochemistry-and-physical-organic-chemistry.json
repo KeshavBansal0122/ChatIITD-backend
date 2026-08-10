@@ -1,0 +1,22 @@
+{
+  "code": "CML2031",
+  "name": "Stereochemistry and Physical Organic Chemistry",
+  "description": "14. Course contents\nStereochemistry/Stereoisomerism, Types of chirality, Isomerism about single bonds in acyclic systems- Torsional isomerism, rotation about a C-heteroatom and heteroatom-heteroatom bond, Inversion of N atom, Chirality in heteroatoms, Conformations in cyclic systems ( 4-8 membered rings, with or without heteroatom), Bicyclic systems, Reaction Intermediates, Substitution and elimination reactions, Stereoselective approach to E1, E2, E1cb reaction mechanisms. Methods of Determining Reaction Mechanisms: Introduction to kinetic vs thermodynamic processes. Primary kinetic isotopic effect, Crossover experiment, Curtin-Hammett principle, Hammonds postulate, Hammett Equation, Linear Free Energy Relationship (LFER).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Stereochemistry and Physical Organic Chemistry | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Stereochemistry and Physical Organic Chemistry"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/stereochemistry-and-physical-organic-chemistry",
+  "slug": "stereochemistry-and-physical-organic-chemistry"
+}

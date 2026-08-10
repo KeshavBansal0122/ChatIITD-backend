@@ -1,0 +1,16 @@
+{
+  "code": "BML8150",
+  "name": "Selected Topics in Biomedical Engineering - I",
+  "description": "Advanced course on selected topics of biomedical engineering.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BM#BML8150"
+}

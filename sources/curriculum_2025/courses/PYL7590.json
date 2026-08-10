@@ -1,0 +1,16 @@
+{
+  "code": "PYL7590",
+  "name": "Computational Optical Imaging",
+  "description": "Revision of fourier optics and basic concepts in optical imaging, mathematical preliminaries on inverse problems in imaging, compressive imaging, use of deep learning tools for optimization and design problems, point-spread function engineering, phase retrieval, interferometric imaging methods such as digital holography, imaging through turbulent media, super-resolution through structured illumination, correlation/ghost imaging.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL7590"
+}

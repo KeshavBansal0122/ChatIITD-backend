@@ -1,0 +1,22 @@
+{
+  "code": "MEL3013",
+  "name": "Renewable Energy Systems and Sustainability",
+  "description": "Concepts of Energy and Sustainability: The course will start with human development through energy systems and the impact of these systems on Ecology and Environment. The Concept of Sustainablity will be introduced to understand the need for holistic development of energy systems.\nDifferent thematic areas to be covered to get expertise in design, development and evaluation of Sustainable Renewability Energy Systems: \n\u2022 Assessment of Renewable Energy systems: Origin, capacity estimation and basic methods for utilisation.\n\u2022 Solar Energy Systems: Estimation of Solar Energy, Principles of solar thermal and solar photovoltaic systems. Need for storage and sustainability analysis of these systems.\n\u2022 Wind Energy Systems: Estimation of Wind Energy and statistical analysis of wind energy availability. Principles and Classification of Wind Energy Systems. Design of wind power farms and independent wind generators.\n\u2022 Micro-hydel Energy Systems: Estimation of hydro energy systems. Sustainability analysis of Macro vs Micro hydro-energy system. Principles of micro hydro-energy systems and classification. Design and development of micro-hydel energy systems of local utilities. \n\u2022 Bio-energy Systems: Analysis and creation of the Biosphere and energy potential of bio resources. Classification of bio-resources. Concept of inclusive development using bio resources. Utilization Principles of bio resources. Development of energy self-sufficiency in rural areas/ semi-urban communities. Miscellaneous Renewable Energy Resources: Principles of other renewable energy sources and sustainability analysis of these systems. Energy Storage Systems: Need for development of energy systems for the development of a Reliable Energy System. Principles and Classification of Storage Systems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Renewable Energy Systems and Sustainability | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Renewable Energy Systems and Sustainability"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/renewable-energy-systems-and-sustainability",
+  "slug": "renewable-energy-systems-and-sustainability"
+}

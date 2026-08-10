@@ -1,0 +1,22 @@
+{
+  "code": "MEL2015",
+  "name": "Manufacturing Processes - I",
+  "description": "Introduction to sand casting and other casting processes, defects in casting, solidification of metals and alloys. Introduction to welding and other allied joining processes, fusion and solid state welding, defects in welding. Introduction to bulk and sheet deformation processes, forming defects, plastic deformation, mechanism of strengthening of metals. Introduction to powder metallurgy, powder preparation steps. Introduction to various Additive Manufacturing processes. Industrial applications of different manufacturing processes.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Manufacturing Processes - I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Manufacturing Processes - I"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/manufacturing-processes-i",
+  "slug": "manufacturing-processes-i"
+}

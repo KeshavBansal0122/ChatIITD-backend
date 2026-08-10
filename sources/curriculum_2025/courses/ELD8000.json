@@ -1,0 +1,16 @@
+{
+  "code": "ELD8000",
+  "name": "MSR Research Project",
+  "description": "Formulation of the research problem, literature survey, identification of research gap, analytical modeling of the system, development of simulation model, design and fabrication of experimental setup (for experimental projects). Analysis and interpretation of results and verification of results with theory. Writing technical report, presentation and publication of results in form of thesis and presentation.",
+  "credits": 42.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 84.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELD8000"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "COD7001",
+  "name": "Cornerstone Project",
+  "description": "Requirements gathering, computing system design and implementation, user study, professional documentation and ethics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COD7001"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CHL7213",
+  "name": "Simulation Techniques for Complex Fluids",
+  "description": "Introduction to multiscale simulation methods. Description of complex fluid behavior. Simulation methods and their advantages and disadvantages. Multiscale computational modeling of complex fluids. Simulation tools to understand structure-property relationships in colloidal suspensions, polymers, granular materials, multiphase flows, and other classes of complex fluids. Application of machined learning for complex fluids modeling and simulations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL2001",
+  "overlap": null,
+  "learning_outcomes": [
+    "Simulation Techniques for Complex Fluids | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Simulation Techniques for Complex Fluids"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/simulation-techniques-complex-fluids",
+  "slug": "simulation-techniques-complex-fluids"
+}

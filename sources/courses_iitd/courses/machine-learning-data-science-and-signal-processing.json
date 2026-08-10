@@ -1,0 +1,22 @@
+{
+  "code": "CRL7005",
+  "name": "Machine Learning for Data Science and Signal Processing",
+  "description": "Introduction to machine learning \u2013 fundamentals of linear algebra, probability theory and digital signal processing.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Machine Learning for Data Science and Signal Processing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Machine Learning for Data Science and Signal Processing"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/machine-learning-data-science-and-signal-processing",
+  "slug": "machine-learning-data-science-and-signal-processing"
+}

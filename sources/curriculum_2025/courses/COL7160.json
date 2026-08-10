@@ -1,0 +1,16 @@
+{
+  "code": "COL7160",
+  "name": "Quantum Computing",
+  "description": "Quantum circuits, quantum teleportation, quantum parallelism, Deutsch problem, CHSH, Bell\u2019s inequality, postulates of quantum mechanics, quantum money, universal quantum gates, bounded quantum polynomial (BQP), Bernstein-Vazirani, Simon\u2019s problem, quantum Fourier transform (QFT), phase sstimation, order finding, Shor\u2019s algorithm, hidden subgroup problem (HSP), quantum search, quantum counting, quantum search lower bounds, collision finding, element distinctness, amplitude amplification, quantum walk.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL7160"
+}

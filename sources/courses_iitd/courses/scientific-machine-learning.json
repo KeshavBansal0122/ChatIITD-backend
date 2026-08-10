@@ -1,0 +1,22 @@
+{
+  "code": "AML7910",
+  "name": "Scientific Machine Learning",
+  "description": "Quick review of linear algebra and probability & statistics, Machine Learning in Science and Engineering, Linear Regression, Equation discovery using machine learning, Lagrangian and Hamiltonian discovery using machine learning, PCA, PCA is Fluid Mechanics, Introduction to neural network, Koopman Operator for nonlinear dynamical systems, State estimation and virtual sensing using neural network, Physics-informed Gaussian Process, Physics-informed Neural Network, Neural Operators, Data-physics fusion in computational mechanics, Neural ODE, Neural PDE, Neural SDE, Foundation Models for PDE",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(AML7000&AML7030&AML7040) /(AML2010&AML2020&AML3030)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Scientific Machine Learning | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Scientific Machine Learning"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/scientific-machine-learning",
+  "slug": "scientific-machine-learning"
+}

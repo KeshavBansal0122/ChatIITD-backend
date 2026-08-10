@@ -1,0 +1,22 @@
+{
+  "code": "MLL7215",
+  "name": "Creep and Superplasticity of Materials",
+  "description": "Phenomenology of creep, microstructural considerations in metals, alloys, ceramics, and composites, creep mechanisms, deformation mechanism maps, phenomenology of superplasticity in metallic alloys, ceramics, and nanophase materials, commercial applications and considerations, cavitation failure at elevated temperatures by the nucleation, growth, and interlinkage of cavities, Sintering mechanisms.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(MLL1001)(MLL7202)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Creep and Superplasticity of Materials | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Creep and Superplasticity of Materials"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/creep-and-superplasticity-materials",
+  "slug": "creep-and-superplasticity-materials"
+}

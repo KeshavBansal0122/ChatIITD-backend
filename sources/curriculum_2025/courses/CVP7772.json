@@ -1,0 +1,16 @@
+{
+  "code": "CVP7772",
+  "name": "Computational Laboratory: Digital Construction Studio",
+  "description": "Introduction to building information modeling, revit architecture, structure and MEP, application software for project planning, scheduling and control. Programming exercises for estimation, network planning and control, integration of schedule with BIM 5D using Navisworks, introduction to BIM 6D, exposure to a programming language (MATLAB or python) to solve civil engineering problems.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVP7772"
+}

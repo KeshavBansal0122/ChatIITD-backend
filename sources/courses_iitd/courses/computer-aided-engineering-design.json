@@ -1,0 +1,22 @@
+{
+  "code": "AML7010",
+  "name": "Computer Aided Engineering Design",
+  "description": "Overview of traditional engineering design methods and the need for computer-based tools and simulation workflows. Parametric design and solid modeling. Role of simulation in computational design. Optimization in engineering design, with an overview of shape and topology optimization. Application of multi-disciplinary design optimization. Reliability, risk, and uncertainty in design. Life cycle and sustainability considerations in engineering design. Advanced topics in computational design (for example, generative design, digital twin), industry applications, and case studies.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Computer Aided Engineering Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Computer Aided Engineering Design"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/computer-aided-engineering-design",
+  "slug": "computer-aided-engineering-design"
+}

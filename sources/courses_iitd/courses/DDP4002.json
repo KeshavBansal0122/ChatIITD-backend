@@ -1,0 +1,21 @@
+{
+  "code": "DDP4002",
+  "name": "Thesis Project",
+  "description": "The final year thesis project is the capstone of the BDes program, offering students the opportunity to independently conceptualize, develop, and execute a comprehensive design project in their chosen domain of specialization\u2014such as industrial design, communication design, or interaction design. The project emphasizes problem identification, research, ideation, prototyping, testing, and final resolution, culminating in a design outcome that demonstrates creativity, critical thinking, technical competence, and social relevance. Students are expected to frame their project within contemporary design challenges and contexts, supported by rigorous documentation, process journals, and reflective writing. The course concludes with a final presentation and exhibition, preparing students for professional practice or advanced research in design.",
+  "credits": 14.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 28.0
+  },
+  "prereq": "(DDP3001&DDP3002&DDP4001)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Thesis Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/thesis-project",
+  "slug": "thesis-project"
+}

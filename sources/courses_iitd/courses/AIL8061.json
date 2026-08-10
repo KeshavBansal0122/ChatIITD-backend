@@ -1,0 +1,22 @@
+{
+  "code": "AIL8061",
+  "name": "Special Topics in AI Applications",
+  "description": "The course will focus on one or two of the specialized applications of AI such as computational biology, genetics, healthcare, wellness, transportation systems, software development, hardware design, recommendation systems, music, etc. The course will discuss the various AI techniques developed for problems in these domains.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "AIL7024/AIL7025/AIL7021",
+  "overlap": null,
+  "learning_outcomes": [
+    "Special Topics in AI Applications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Special Topics in AI Applications"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/special-topics-ai-applications",
+  "slug": "special-topics-ai-applications"
+}

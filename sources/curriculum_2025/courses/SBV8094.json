@@ -1,0 +1,16 @@
+{
+  "code": "SBV8094",
+  "name": "Current Methods in Mammalian Genetics",
+  "description": "Introduction to mouse genetics \u2013 genotypes, genetic backgrounds and methods; conventional methods of gene targeting and transgenics \u2013 gene delivery into embryonic stem cells or zygotes, gene-traps, breeding strategies; establishment of cell culture models from mice \u2013 fibroblasts and macrophage cultures, rescue strategies using retro/lentiviral transduction; gene targeting in cells using CRISPR/Cas9 - mutations, activation and suppression; in vivo conditional knockout strategies using Cre/lox and flippase/FRT system; bone-marrow chimeras; animal models of human diseases.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBV8094"
+}

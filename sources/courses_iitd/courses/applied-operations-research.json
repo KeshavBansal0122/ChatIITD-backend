@@ -1,0 +1,22 @@
+{
+  "code": "MSL7605",
+  "name": "Applied Operations Research",
+  "description": "Primary objective of the course is to demonstrate students the real application of Operations Research in decision making. The approach of the course would be a case based. Case study either from Ivey or Harvard or some top journals would be considered for discussion at every session. These case study will be related to have some application in industry (manufacturing or services). \nIt is assumed or expected that all students registered in this course have done basic course on Operations Research.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Applied Operations Research | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Applied Operations Research"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/applied-operations-research",
+  "slug": "applied-operations-research"
+}

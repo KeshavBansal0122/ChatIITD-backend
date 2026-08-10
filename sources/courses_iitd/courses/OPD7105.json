@@ -1,0 +1,22 @@
+{
+  "code": "OPD7105",
+  "name": "MS (R) Project Part 1",
+  "description": "Analysis/design/simulation/experimental study on topics in the board area of optics and photonics under supervision of one or more faculty members.",
+  "credits": 6.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 12.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "MS (R) Project Part 1 | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "MS (R) Project Part 1"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/ms-r-project-part-1",
+  "slug": "ms-r-project-part-1"
+}

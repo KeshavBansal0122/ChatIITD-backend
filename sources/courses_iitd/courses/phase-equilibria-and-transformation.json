@@ -1,0 +1,22 @@
+{
+  "code": "MLL2004",
+  "name": "Phase Equilibria and Transformation",
+  "description": "Equilibrium, single component system: Gibbs free energy as a function of temperature, ideal solutions, chemical potential, regular solutions, activity; equilibrium in heterogeneous systems: binary phase diagrams, systems with miscibility gap, ordered alloys, the effect of temperature on solid solubility, the kinetics of phase transformations; TTT diagram of steel, shape memory diagram, phase diagram of ceramic system (Al2O3-SiO2) and MgO-Al2O3. Diffusion: atomistic mechanism, interstitial diffusions, steady state and non steady state (Fick\u2019s law), spinodal decomposition, crystal interfaces and microstructure, interfacial energy, solid/vapor interfaces; solidification: nucleation and growth in pure metals.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": "MLL2001",
+  "overlap": null,
+  "learning_outcomes": [
+    "Phase Equilibria and Transformation | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Phase Equilibria and Transformation"
+  ],
+  "department": "Phase Equilibria and Transformations",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/phase-equilibria-and-transformation",
+  "slug": "phase-equilibria-and-transformation"
+}

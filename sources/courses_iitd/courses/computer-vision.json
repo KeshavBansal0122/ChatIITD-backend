@@ -1,0 +1,21 @@
+{
+  "code": "ELL7293",
+  "name": "Computer Vision",
+  "description": "Link between computer vision, computer graphics, image processing and related fields; feature extraction; camera models; stereopsis and multi-view geometry; neural network architectures for computer vision; applications of computer vision in day-to-day life.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Computer Vision | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/computer-vision",
+  "slug": "computer-vision"
+}

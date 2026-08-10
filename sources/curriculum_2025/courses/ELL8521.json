@@ -1,0 +1,16 @@
+{
+  "code": "ELL8521",
+  "name": "Advanced Topics in Power Electronics",
+  "description": "Newer generation wide band gap power electronic devices like SiC and GaN devices- properties, advantages and uses in power converters, challenges. Introduction to advanced power electronic converters used in dc-dc and ac-dc applications (for example, dual active bridge converters, Vienna rectifiers, partial power converters etc). Zero-current and zero-voltage switching techniques in dc-dc and dc-ac applications. Resonant/quasi-resonant converters. Auxiliary transition networks. Design of power electronic converters- switch selection, passive component design, thermal management, system design. Latest developments and trends in power electronics in traditional and upcoming applications like electric traction, electric ship, electric aircraft, aerospace, etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL8521"
+}

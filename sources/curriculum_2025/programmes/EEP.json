@@ -1,0 +1,489 @@
+{
+  "code": "EEP",
+  "name": "M.Tech. in Power Electronics, Electrical Machines and Drives",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=EEP",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 51.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "To acquire strong theoretical and applied foundation in power electronics, machines, drives, and E-mobility to analyse, optimize, as well as solve industry-driven problems in power engineering."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "To solve the growing challenge of electrification, energy sustainability and e-mobility while working in a team or at individual level, demonstrating integrity, responsibility, and maintaining scientific thought, spirit, and thinking."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "ELD7007",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELD7500",
+        "title": "Summer Internship / Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELD8501",
+        "title": "Major Project Part I",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "12"
+        },
+        "credits": "6"
+      },
+      {
+        "course_code": "ELD8502",
+        "title": "Major Project Part II",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "ELL7000",
+        "title": "Professional Ethics in Electrical Engineering",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "ELL7500",
+        "title": "Modeling and Analysis of Electrical Machines",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7501",
+        "title": "DC-DC Converters and Line Frequency Rectifiers",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ELL7502",
+        "title": "PWM Rectifiers and Inverters",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7503",
+        "title": "Electric Drive Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ELL7504",
+        "title": "Digital Control of Power Electronic Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7505",
+        "title": "Electric Vehicle Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ELP7500",
+        "title": "Electrical Machines Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "3"
+        },
+        "credits": "1.5"
+      },
+      {
+        "course_code": "ELP7501",
+        "title": "Advanced Power Electronics Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "3"
+        },
+        "credits": "1.5"
+      },
+      {
+        "course_code": "ELP7503",
+        "title": "Electric Vehicle and Drives Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "3"
+        },
+        "credits": "1.5"
+      },
+      {
+        "course_code": "ELP7504",
+        "title": "Digital Control of Power Converters Lab",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "3"
+        },
+        "credits": "1.5"
+      },
+      {
+        "course_code": "ELL7315",
+        "title": "Power Management IC Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7328",
+        "title": "Applied VLSI Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7506",
+        "title": "Switched-Mode Power Conversion",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7516",
+        "title": "Computer Aided Design of Electrical Machines",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7521",
+        "title": "Power Quality",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7600",
+        "title": "Advanced Power System Analysis and Optimization",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7601",
+        "title": "Advanced Power System Protection",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7602",
+        "title": "Power Systems Dynamics, Operation and Control",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7604",
+        "title": "Advanced Distribution System Analysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL8521",
+        "title": "Advanced Topics in Power Electronics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELP7600",
+        "title": "Advanced Power System Analysis and Optimization Lab",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "2"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "ELL7501",
+        "title": "DC-DC Converters and Line Frequency Rectifiers",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "ELL7500",
+        "title": "Modeling and Analysis of Electrical Machines",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ELL7502",
+        "title": "PWM Rectifiers and Inverters",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ELP7500",
+        "title": "Electrical Machines Laboratory",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 3.0
+        },
+        "credits": 1.5
+      },
+      {
+        "course_code": "ELP7501",
+        "title": "Advanced Power Electronics Laboratory",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 3.0
+        },
+        "credits": 1.5
+      },
+      {
+        "course_code": "ELN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "ELD7007",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ELL7503",
+        "title": "Electric Drive Systems",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "ELL7504",
+        "title": "Digital Control of Power Electronic Systems",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ELL7505",
+        "title": "Electric Vehicle Systems",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ELP7503",
+        "title": "Electric Vehicle and Drives Laboratory",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 3.0
+        },
+        "credits": 1.5
+      },
+      {
+        "course_code": "ELP7504",
+        "title": "Digital Control of Power Converters Lab",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 3.0
+        },
+        "credits": 1.5
+      },
+      {
+        "course_code": "ELN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "ELL7000",
+        "title": "Professional Ethics in Electrical Engineering",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "ELN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "MTech Project Part 1",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 12.0
+        },
+        "credits": 6.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "ELN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "MTech Project Part 2",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      }
+    ]
+  },
+  "raw_text_preview": "EEP \u2013 M.Tech. in Power Electronics, Electrical Machines and Drives\nM.Tech. in Power Electronics, Electrical Machines and Drives\nElectrical Engineering, Department of\nProgramme Code: EEP\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n51\nPE (Programme Elective)\n6\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n63\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nTo acquire strong theoretical and applied foundation in power electronics, machines, drives, and E-mobility to analyse, optimize, as well as solve industry-driven problems in power engineering.\nPLO 2\nTo solve the growing challenge of electrification, energy sustainability and e-mobility while working in a team or at individual level, demonstrating integrity, responsibility, and maintaining scientific thought, spirit, and thinking.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nELD7007 Cornerstone Project 0 0 6 3\nELD7500 Summer Internship / Minor Project 0 0 6 3\nELD8501 Major Project Part I 0 0 12 6\nELD8502 Major Project Part II \u2013 \u2013 \u2013 \u2013\nELL7000 Professional Ethics in Electrical Engineering 1 0 0 1\nELL7500 Modeling and Analysis of Electrical Machines 3 0 0 3\nELL7501 DC-DC Converters and Line Frequency Rectifiers 3 0 2 4\nELL7502 PWM Rectifiers and Inverters 3 0 0 3\nELL7503 Electric Drive Systems 3 0 2 4\nELL7504 Digital Control of Power Electronic Systems 3 0 0 3\nELL7505 Electric Vehicle Systems 3 0 0 3\nELN7001 Teaching and Research Practicum 0 0 8 4\nELP7500 Electrical Machines Laboratory 0 0 3 1.5\nELP7501 Advanced Power Electronics Laboratory 0 0 3 1.5\nELP7503 Electric Vehicle and Drives Laboratory 0 0 3 1.5\nELP7504 Digital Control of Power Converters Lab 0 0 3 1.5\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nELL7315 Power Management IC Design 3 0 0 3\nELL7328 Applied VLSI Design 3 0 0 3\nELL7506 Switched-Mode Power Conversion 3 0 0 3\nELL7516 Computer Aided Design of Electrical Machines 3 0 0 3\nELL7521 Power Quality 3 0 0 3\nELL7600 Advanced Power System Analysis and Optimization 3 0 0 3\nELL7601 Advanced Power System Protection 3 0 0 3\nELL7602 Power Systems Dynamics, Operation and Control 3 0 0 3\nELL7604 Advanced Distribution System Analysis 3 0 0 3\nELL8521 Advanced Topics in Power Electronics 3 0 0 3\nELP7600 Advanced Power System Analysis and Optimization Lab 0 0 4 2\nSemester-wise Schedule\nSem\nCourses &amp; Baskets\nHrs /\nweek\nNGU\nCredits\n1\nELL7501 DC-DC Converters and Line Frequency Rectifiers\n(3.0-0.0-2.0) 4.00\nELL7500 Modeling and Analysis of Electrical Machines\n(3.0-0.0-0.0) 3.00\nELL7502 PWM Rectifiers and Inverters\n(3.0-0.0-0.0) 3.00\nELP7500 Electrical Machines Laboratory"
+}

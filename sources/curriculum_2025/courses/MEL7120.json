@@ -1,0 +1,16 @@
+{
+  "code": "MEL7120",
+  "name": "Introduction to Stochastic Modeling and Simulation",
+  "description": "Quick review - basic probability, random variables; introduction to discrete time Markov chains - definition and characterization, transient distributions, limiting behavior, first passage times, applications/case studies; Poisson processes, continuous time Markov chains - introduction, transient and limiting behavior, applications/case studies; simulation - basics, discrete event simulation, concept of Markov decision process.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL7120"
+}

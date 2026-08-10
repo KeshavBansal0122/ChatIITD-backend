@@ -1,0 +1,22 @@
+{
+  "code": "SBL7003",
+  "name": "Advanced Cell Biology",
+  "description": "Introduction to cell biology: central dogma, eukaryotic cellular organization, model systems for experimental cell biology, de novo synthesis of organelles versus templated replication, the cytoskeletal system, intracellular trafficking, the nucleus, the cellular movement: motility and contractility, extracellular structures, cell adhesions and cell junctions, optical imaging techniques in cell biology, live cell imaging, cancer biology, developmental biology.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(SBL1100/SBL1102) &SBP1100",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Cell Biology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Cell Biology"
+  ],
+  "department": "Cellular Biology",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-cell-biology",
+  "slug": "advanced-cell-biology"
+}

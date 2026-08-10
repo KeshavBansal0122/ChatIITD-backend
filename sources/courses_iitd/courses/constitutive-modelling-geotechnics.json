@@ -1,0 +1,22 @@
+{
+  "code": "CVL8201",
+  "name": "Constitutive Modelling in Geotechnics",
+  "description": "Fundamental relationships: coordinate system, sign conventions, concept of stresses and strains, stress transformation, equilibrium equations, moment equilibrium, principal stresses, invariants, octahedral stresses, volumetric and deviatoric stresses, stress-strain relationship; elasticity: isotropic, anisotropic, orthotropic, shear and bulk moduli, plane stress, plane strain and axisymmetric cases, Mohr circle, cylindrical coordinates, Airy\u2019s stress function; nonlinear behaviour: importance of testing, stress paths, hyperbolic model; yielding: pi-plane, von Mises, Tresca and Mohr-Coulomb criteria; elastoplastic models: concept of plasticity, plastic hardening, plastic potentials, flow rule; cam-clay model: critical state line, stress dilatancy, prediction, applications; limit state analysis \u2013 lower and upper bound theorems, selected boundary value problems; introduction to viscoelastic models.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CVL7201/CVL7601",
+  "overlap": null,
+  "learning_outcomes": [
+    "Constitutive Modelling in Geotechnics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Constitutive Modelling in Geotechnics"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/constitutive-modelling-geotechnics",
+  "slug": "constitutive-modelling-geotechnics"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CTL7019",
+  "name": "Energy Storage Systems for EVs",
+  "description": "Classification of energy storage systems, role of energy storage in EV, performance metrics, fundamentals of electrochemical energy storage, Li-ion batteries and emerging battery technologies, battery pack design, battery management systems, overview of battery models, charging infrastructure, different types of chargers, charging standards, fast charging, battery thermal management, battery pack safety and associated standards, battery pack lifecycle conditions, battery repurposing and recycling, vehicle to grid, future of electric mobility, case studies from industry.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Energy Storage Systems for EVs | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Energy Storage Systems for EVs"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/energy-storage-systems-evs",
+  "slug": "energy-storage-systems-evs"
+}

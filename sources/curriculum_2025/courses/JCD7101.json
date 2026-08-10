@@ -1,0 +1,16 @@
+{
+  "code": "JCD7101",
+  "name": "Cornerstone Project",
+  "description": "Understand a modern computing system, analyze it for security requirements, and apply fundamental security principles.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "J",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=J#JCD7101"
+}

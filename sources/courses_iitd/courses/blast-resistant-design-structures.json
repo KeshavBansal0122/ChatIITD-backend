@@ -1,0 +1,22 @@
+{
+  "code": "CVL7455",
+  "name": "Blast Resistant Design of Structures",
+  "description": "Blast engineering: explosion phenomena, shock front, fragmentation, waves, ground shock, and interaction with structures; structural analysis for impulsive loading; pressure-impulse (PI) diagrams; material behaviour under high strain-rate of loadings; blast resistant design of structures; performance-based blast design; progressive collapse; anti- terrorism planning and design of facilities; blast retrofitting; Indian/ international standards and codes of practice; numerical analysis tools for blast analysis using finite element (FE) software and hydrocodes.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Blast Resistant Design of Structures | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Blast Resistant Design of Structures"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/blast-resistant-design-structures",
+  "slug": "blast-resistant-design-structures"
+}

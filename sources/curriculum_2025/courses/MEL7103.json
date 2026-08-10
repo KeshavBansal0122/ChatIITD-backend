@@ -1,0 +1,16 @@
+{
+  "code": "MEL7103",
+  "name": "Operations Planning and Control",
+  "description": "Queuing systems. Role of exponential distribution. Pure birth and death models. Relationship between exponential and Poisson distributions. General Poisson queuing model. Specialized Poisson queues. Pollaczek\u2013Khintchine formula. Inventory problem. Static economic-order-quantity models. Deterministic lot size models. Dynamic EOQ models. Reorder point models with stochastic demands. Periodic review models with stochastic demands. The role of demand forecasting in inventory control. Materials requirement planning - bill of materials explosion under multiple lot sizing rules. Multi-period aggregate production planning - single product and product mix planning. Statistical quality control - control charts and process capability. Deterministic scheduling. Single machine scheduling. Parallel machine scheduling. Flow shops and flexible flow shops. Job shops. Open shops. Decision making under risk. Formulation of two-person, zero-sum games. Payoff matrix. Mixed games. Solution concepts. Decision trees. Utility theory. Game theory. Illustrative examples and applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL7103"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "AIL8022",
+  "name": "Special Topics in Machine Learning II",
+  "description": "Will cover some advanced and emerging topics in the area of machine learning, which are likely to evolve with time; examples as of now would include transformer architectures and large language models, deep generative models, advanced optimisation techniques, probabilistic graphical models, graph neural networks, model compression and knowledge distillation, advanced computational learning theory, etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AI",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AI#AIL8022"
+}

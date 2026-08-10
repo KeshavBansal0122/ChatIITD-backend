@@ -1,0 +1,22 @@
+{
+  "code": "MLL7205",
+  "name": "Porous Materials",
+  "description": "Engineering porous materials (metals, polymers and ceramics-based): introduction, types, respective structural features/characteristics and detailed processing/synthesis methods (foaming, powder sintering, electro-spinning/extrusion, 3D-printing etc.); properties of engineering porous materials: morphological/structural (cellular, fibrous, lattice etc.), mechanical (in-plane and out-of-plane), thermal and surface properties and their respective characterization techniques (working principle, experimental procedure/methodology, data analysis/interpretation, property measurement etc.); deformation behaviour of engineering porous solids; mechanics of honeycombs, foams and fibrous structures; microstructure design; lattice materials; application of porous materials.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Porous Materials | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Porous Materials"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/porous-materials",
+  "slug": "porous-materials"
+}

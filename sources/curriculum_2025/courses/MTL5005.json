@@ -1,0 +1,16 @@
+{
+  "code": "MTL5005",
+  "name": "Introduction to Probability",
+  "description": "Random experiments and events, axiomatic definition of probability, properties of probability functions, conditional probability, Bayes\u2019 theorem, discrete and continuous random variables, distribution functions, probability mass and density functions, expectations and moments, moment-generating functions, moment inequalities, standard probability distributions, joint, marginal, and conditional distributions, independence, covariance and correlation, conditional expectation, law of large numbers, and central limit theorem.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTL5005"
+}

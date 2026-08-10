@@ -1,0 +1,22 @@
+{
+  "code": "ASL7980",
+  "name": "Climate Science Communication",
+  "description": "This course covers foundational principles of climate science communication, including how to interpret and summarize peer-reviewed research for broader audiences and effectively visualize scientific data. Students will learn core techniques for presenting complex climate concepts clearly and accurately, with an emphasis on structured scientific writing, oral presentation skills, and basic data representation.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Climate Science Communication | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Climate Science Communication"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/climate-science-communication",
+  "slug": "climate-science-communication"
+}

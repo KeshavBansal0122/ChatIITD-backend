@@ -1,0 +1,16 @@
+{
+  "code": "PYL5055",
+  "name": "Quantum Mechanics-I",
+  "description": "Introduction, quantum mechanical wave function, Born interpretation, basic formalism (Dirac bra-ket formalism), state vectors, operators and their representation, review of one dimensional examples, one dimensional harmonic oscillator, creation and annihilation operators, Landau problem, symmetries in quantum mechanics, hydrogen atom, entanglement.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL5055"
+}

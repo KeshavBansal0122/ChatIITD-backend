@@ -1,0 +1,22 @@
+{
+  "code": "CRL7041",
+  "name": "Acoustic Classification Using Passive Sonar",
+  "description": "Motivation for the topic and applications; radiated noise of marine vessels, underwater channel characteristics; feature extraction; signal enhancement in presence of noise and channel distortion effects; pattern classification methods; passive sonar based marine vessel classification.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Acoustic Classification Using Passive Sonar | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Acoustic Classification Using Passive Sonar"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/acoustic-classification-using-passive-sonar",
+  "slug": "acoustic-classification-using-passive-sonar"
+}

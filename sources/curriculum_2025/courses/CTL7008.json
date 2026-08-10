@@ -1,0 +1,16 @@
+{
+  "code": "CTL7008",
+  "name": "Design and Control of EV Powertrain",
+  "description": "Overview of electrification transportation, EV system architectures, basic vehicle dynamics, context and relevance based on EV powertrain specifications, drive cycle analysis for sizing of electric drivetrain system components, design and analysis of vehicle control unit, introduction to power electronics; opportunities for WBG devices in transportation electrification, battery system- design, analysis and control of interfacing and balancing converters for packs with EV drivetrain, drive system for electric vehicle, dynamic modeling and simulation of synchronous and asynchronous machines, design and control of drives for EV machines \u2013 FOC, DTC schemes, optimization techniques for maximum efficiency, form factors for synchronous, asynchronous, synchronous reluctance drives.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CT#CTL7008"
+}

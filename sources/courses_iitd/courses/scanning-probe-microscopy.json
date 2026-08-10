@@ -1,0 +1,22 @@
+{
+  "code": "MLL7402",
+  "name": "Scanning Probe Microscopy",
+  "description": "Introduction and Background, Different types of molecular forces, F-Z curve, Instrumentation, Basic operation, type of cantilevers, probes, scanning environment, data acquisition, Calibration of AFM Amplitude and Frequency Modulated Techniques, High resolution imaging Sample Preparation for AFM, measuring AFM images in contact, measuring AFM images in various modes in terms of tip dynamics (contact, tapping, non-contact), Topography analyses Mechanical Characterizations (modulus mapping, Phase mapping, viscoelastic characterizations, nano DMA, Friction force microscopy and rheology) using AFM Electrical Characterizations (Kelvin Probe Microscopy, Electrostatic and Magnetic Force Microscopy Conductive AFM, Magnetic Piezo Force Microscopy) using AFM High Speed and Subsurface Imaging, imaging in Liquids Applications of AFM and Case studies",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Scanning Probe Microscopy | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Scanning Probe Microscopy"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/scanning-probe-microscopy",
+  "slug": "scanning-probe-microscopy"
+}

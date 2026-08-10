@@ -1,0 +1,22 @@
+{
+  "code": "COV8389",
+  "name": "Special Module in Artificial Intelligence",
+  "description": "Special module that focuses on special topics and research problems of importance in the area of artificial intelligence.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(COL3333/COL7333)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Special Module in Artificial Intelligence | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Special Module in Artificial Intelligence"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/special-module-artificial-intelligence",
+  "slug": "special-module-artificial-intelligence"
+}

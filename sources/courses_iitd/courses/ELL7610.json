@@ -1,0 +1,22 @@
+{
+  "code": "ELL7610",
+  "name": "Artificial Intelligence for Smart Power Systems",
+  "description": "Smart power system fundamentals, challenges, and opportunities in smart grids; artificial intelligence methods (fuzzy logic, neural networks, machine learning, deep learning, evolutionary algorithms); AI techniques for voltage and frequency control and reactive power management; adaptive protection systems (relay coordination, fault detection, phase identification); machine learning and deep learning for event detection and classification; AI for power system security and stability assessment; optimal device placement (DGs, FACTS, capacitors, PMUs); intelligent systems for load forecasting and renewable energy prediction; and cybersecurity in smart grid with AI-based solutions",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Artificial Intelligence for Smart Power Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Artificial Intelligence for Smart Power Systems"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/artificial-intelligence-smart-power-systems",
+  "slug": "artificial-intelligence-smart-power-systems"
+}

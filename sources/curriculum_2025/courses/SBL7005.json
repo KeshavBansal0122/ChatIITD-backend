@@ -1,0 +1,16 @@
+{
+  "code": "SBL7005",
+  "name": "Biology of Proteins",
+  "description": "Over-view of protein preparation, modification, folding; protein-protein interactions in cells, heat shock proteins and their structure and functions in cells, protein mimicry, assisted protein maturation processes in cells and in tubes, protein trafficking and and dislocation, protein secretion from cell, kinetics and thermodynamics of protein folding/unfolding reactions, biomarker discovery, methods, tools, and techniques for protein characterisation, Ribosome profiling, recombinant therapeutic proteins: applications, preparation, characterisation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBL7005"
+}

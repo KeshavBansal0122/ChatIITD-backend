@@ -1,0 +1,16 @@
+{
+  "code": "AMD5050",
+  "name": "Minor Project",
+  "description": "Planning, executing, documenting, and presenting a practical project on a chosen topic related to naval design and engineering, integrating theoretical knowledge into practice, from experiments undertaken in laboratory, or using computational simulations.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AMD5050"
+}

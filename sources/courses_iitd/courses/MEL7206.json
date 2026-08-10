@@ -1,0 +1,22 @@
+{
+  "code": "MEL7206",
+  "name": "Finite Element Method",
+  "description": "Philosophy of finite element analysis; direct stiffness method; potential energy approach; Galerkin method; formulation for bar and truss; formulation for beam and frame; plane stress and plane strain problems; CST, LST, and isoparametric formulation; quadrilateral elements; 3D finite element analysis; plate and shell element formulation; treatment of constraints; transient problems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Finite Element Method | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Finite Element Method"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/finite-element-method",
+  "slug": "finite-element-method"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "SPL7752",
+  "name": "Techs and the City - An Urban Policy Perspective",
+  "description": "Spatial thinking, the location of urban policy amongst fields related to urban development, technology-policy-markets-development nexus, impact of industrial revolution on cities, globalization and the internet, smart cities, tech giants as real estate developments, tech and the rental market, tech and public participation, city by algorithm (delivery, gig work, ride sharing), digital divide, digitization of governance, transformations of public space.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SP",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SP#SPL7752"
+}

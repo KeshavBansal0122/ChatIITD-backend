@@ -1,0 +1,22 @@
+{
+  "code": "ELL7100",
+  "name": "Mathematical Foundation of Learning and Control",
+  "description": "Vector space, matrix representation, fundamental subspaces, similarity transformation, eigenvalue and eigenvectors, inner product, vector and matrix norms, orthogonality, matrix factorization: LU, QR, singular value decomposition (SVD), projections, pseudo-inverse, solution of linear system of equations, quadratic forms and definiteness of matrices, sequences, sequence convergence, gradient and Hessian, convex sets and functions, optimality conditions, gradient descent algorithm, least square solution, minimum norm solution to linear equations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Mathematical Foundation of Learning and Control | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mathematical Foundation of Learning and Control"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mathematical-foundation-learning-and-control",
+  "slug": "mathematical-foundation-learning-and-control"
+}

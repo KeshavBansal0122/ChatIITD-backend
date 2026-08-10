@@ -1,0 +1,16 @@
+{
+  "code": "CRT8001",
+  "name": "Internship",
+  "description": "Students will undergo practical training in the industry or research and development labs for hands-on experience on the topics relevant to the RFDT program during the summer break.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CR#CRT8001"
+}

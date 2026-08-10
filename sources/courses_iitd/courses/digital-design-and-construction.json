@@ -1,0 +1,22 @@
+{
+  "code": "CVL8301",
+  "name": "Digital Design and Construction",
+  "description": "Introduction to ANNs, AI and ML. Fundamentals of BIM \u2013 terminology, CAD and BIM. BIM-based design process and analysis - design coordination. BIM-based construction process \u2013 4D, 5D, nD BIM. BIM-based operation issues \u2013 facility management. Drivers and barriers in BIM adoption, BIM global practices. Automation in design and construction, virtual experiments \u2013 augmented reality, virtual reality, use of sensors in construction. Robots in construction, autonomous robots, 3D printing technology in construction. Drones for construction monitoring, internet of things, photogrammetry.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Digital Design and Construction | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Digital Design and Construction"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/digital-design-and-construction",
+  "slug": "digital-design-and-construction"
+}

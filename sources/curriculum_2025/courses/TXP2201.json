@@ -1,0 +1,16 @@
+{
+  "code": "TXP2201",
+  "name": "Yarn Manufacture Laboratory-I",
+  "description": "Experiments on fibre testing, that is, length; fineness; fibre bundle and single fibre strength; maturity; trash content; drives and functions of blowroom, carding, drawframe and comber; cleaning efficiency of blowroom and carding machines; draft and machine setting in carding and drawframe; uniformity of card and drawframe sliver; fiber orientation in card and drawframe slivers; effect of draft and doubling on mass variation; drafting wave analysis in drawframe; timing diagram of various motions in comber; short fibre extraction efficiency in comber.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXP2201"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "AML7880",
+  "name": "Computational Geometry",
+  "description": "Geometric Data Structures, Convex Hull Algorithms (Graham\u2019s scan, Quick hull, etc.), Triangulation & Mesh Generation (Delaunay Triangulation, Voronoi diagrams), Discrete Differential Geometry",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(AML7000) /(AML3000&AML2050)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Computational Geometry | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Computational Geometry"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/computational-geometry-0",
+  "slug": "computational-geometry-0"
+}

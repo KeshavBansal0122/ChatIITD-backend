@@ -1,0 +1,16 @@
+{
+  "code": "BML8600",
+  "name": "Nanomedicine",
+  "description": "Introduction to nanoscience: definition and properties of nanoparticles and their dependence on shape, size, charge, aspect ratio, quantum confinement, and their effect on surface plasmon etc. Nanomaterial synthesis, including bottom-up and top-down approaches, customized modification, and its characterization. Interaction of nanoparticles with biological systems (cells, viruses, bacteria, in vivo etc.) and techniques used for characterization of biological interaction, efficacy and nanotoxicology. Functional nanomaterials for biological and medical applications (including biodegradable and bio-stable materials): design criteria and synthetic protocols. Nanomaterials in tissue engineering, drug delivery, biosensors, hyperthermia, photodynamic therapy, bioimaging, diagnostics etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BM#BML8600"
+}

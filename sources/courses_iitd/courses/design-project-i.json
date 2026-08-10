@@ -1,0 +1,22 @@
+{
+  "code": "DDP3001",
+  "name": "Design Project I",
+  "description": "This is the first major independent design project within the BDes program. It offers students the opportunity to apply their learning from foundational and studio courses to a self-directed problem in a design domain of their choice\u2014such as(but not limited to) industrial design, visual communication, or interaction design. The emphasis is on understanding context, framing relevant problems, conducting user research, and applying an iterative design process to develop meaningful and well-resolved outcomes. Through regular critiques, peer reviews, and individual faculty mentoring, students will learn to manage a design process from concept to execution, documenting each phase and justifying design decisions. The project will culminate in a final presentation and a documentation. The course is structured to build confidence in handling open-ended problems and prepares students for future thematic or capstone design projects of advanced level.",
+  "credits": 5.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "prereq": "(DDP1002&DDP1001&DDP1007&DDP1004)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Design Project I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Design Project I"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/design-project-i",
+  "slug": "design-project-i"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "PYL0001",
+  "name": "Preparatory Physics Course - I",
+  "description": "This preparatory course provides a foundation in classical mechanics, properties of matter and thermal physics for incoming students who require additional preparation in physics. Topics include kinematics and Newton&#039;s laws of motion, work, energy and momentum conservation, systems of particles and collisions, gravitation, rotational dynamics of rigid bodies, simple harmonic motion, elasticity and fluid mechanics, wave motion and sound, and thermal physics including kinetic theory of gases and thermodynamics. Emphasis is placed on building conceptual understanding and quantitative problem-solving skills needed for subsequent undergraduate coursework in engineering and science.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Preparatory Physics Course - I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Preparatory Physics Course - I"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/preparatory-physics-course-i",
+  "slug": "preparatory-physics-course-i"
+}

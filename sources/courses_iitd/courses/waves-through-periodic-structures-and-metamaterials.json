@@ -1,0 +1,22 @@
+{
+  "code": "CVL8454",
+  "name": "Waves Through Periodic Structures and Metamaterials",
+  "description": "This course introduces fundamental concepts of wave propagation in discrete and continuous media, with applications in structural dynamics and metamaterials. Topics include wave motion in 1D discrete systems, damping effects, and wave fundamentals such as group and phase velocity. Spectral element methods and transfer matrix approaches are used to analyze wave behavior in continuous media, including band structure computations. The course extends to 2D frame grid structures, exploring wave propagation, damping effects, and novel auxetic structures. Applications in vibration control, metamaterials, and structural health monitoring are discussed through theoretical and computational approaches.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CVL7412",
+  "overlap": null,
+  "learning_outcomes": [
+    "Waves Through Periodic Structures and Metamaterials | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Waves Through Periodic Structures and Metamaterials"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/waves-through-periodic-structures-and-metamaterials",
+  "slug": "waves-through-periodic-structures-and-metamaterials"
+}

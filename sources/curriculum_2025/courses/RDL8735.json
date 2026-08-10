@@ -1,0 +1,16 @@
+{
+  "code": "RDL8735",
+  "name": "Qualitative and Quantitative Approaches for Rural Development",
+  "description": "Qualitative research; ethnographic research techniques; collaborative and participatory approaches; ethics; data generation methods; data processing; sampling methods, elementary concept of probability; test of hypothesis; quantitative data field work; planning empirical research; quantitative techniques, design of experiment.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "RD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=RD#RDL8735"
+}

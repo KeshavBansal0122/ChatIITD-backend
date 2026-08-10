@@ -1,0 +1,16 @@
+{
+  "code": "TRP7001",
+  "name": "Road Safety Audit Methods",
+  "description": "The course will provide the students with basics of data collection needed to understand the travel behavior and safe behavior compliance. The students will learn about specific safety requirements for pedestrians, bicyclists, motorized two wheeler, public transport users and car users; and planning and design requirements for safe urban roads and highways and rural roads.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TR#TRP7001"
+}

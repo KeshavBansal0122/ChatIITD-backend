@@ -1,0 +1,22 @@
+{
+  "code": "CVL7821",
+  "name": "Dam Safety and Maintenance",
+  "description": "Dam safety principles; dam safety issues: hydrological, structural and operational safety; sedimentation issues, environmental and social aspects; extreme weather and climate change aspects; design flood review; dam break analysis; dam seepage and seepage control measures; geochemical interactions between dam body and seeping water; guidelines for dam safety inspection; dam safety bill, risk screening framework, dam safety organizations, stakeholders viewpoints, standard operating procedures (SOPs) and emergency preparedness and action plans; dam maintenance and rehabilitation; drainage gallery maintenance; maintenance of spillway body, stilling basin, energy dissipators, outlets, appurtenances, and downstream riverbanks protection structures; maintenance of hydromechanical equipment and dam gates; lighting in dam galleries and dam complex; dam health monitoring; DHARMA; CS and QA system; instrumentation and monitoring for dam safety, automation in dam operation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Dam Safety and Maintenance | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Dam Safety and Maintenance"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/dam-safety-and-maintenance",
+  "slug": "dam-safety-and-maintenance"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MTL2022",
+  "name": "Introduction to Analysis",
+  "description": "Metric space: Limits in metric spaces, Open sets, Closed sets, Relative metric, Completeness, Compact sets, Connected sets,\nSeparability\nContinuity: Continuous functions on metric spaces, Homeomorphisms, Continuity and compactness, Continuity and connectedness, Uniform continuity\nSequences and series of functions: Pointwise and uniform convergence, The Weierstrass M-test, Uniform convergence and continuity, Uniform convergence and integration, Uniform convergence and differentiation, The Weierstrass theorem, equicontinuity and Ascoli-Arzela theorem.\nLebesgue measure: Outer measure, Lebesgue measure, Measurable sets, A Nonmeasurable set, Measurable functions\nLebesgue Integration: Simple functions, Integration of non-negative measurable functions, Monotone convergence theorem, Fatou\u2019s lemma, Integration of absolutely integrable functions, Lebesgue dominated convergence theorem, Comparison with the Riemann integral",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Analysis | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Analysis"
+  ],
+  "department": "Real Analysis",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-analysis",
+  "slug": "introduction-analysis"
+}

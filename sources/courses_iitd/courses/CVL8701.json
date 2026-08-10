@@ -1,0 +1,22 @@
+{
+  "code": "CVL8701",
+  "name": "Advance Air Pollution Monitoring Techniques",
+  "description": "Monitoring of fine particulate matter using medium-volume speciation samplers, gravimetric analysis, and size-segregated particle collection using a micro-orifice uniform deposit impactor (MOUDI). Includes determination of particle count, geometric mean diameter, personal exposure, and analysis of organic and elemental carbon using thermal-optical reflectance. Water-soluble ions are measured using ion chromatography, and trace elements via inductively coupled plasma optical emission spectrometry (ICP-OES). Demonstration of thermal desorption gas chromatography-mass spectrometry (TD-GCMS). Hands-on training on beta attenuation monitor, scanning mobility particle sizer, optical particle sizer, ambient ion monitor (MERGA-R), trace metal monitor (Xact-625i), aethalometer (AE-33), and nephelometer. Data analysis using R, python, and machine learning tools.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advance Air Pollution Monitoring Techniques | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advance Air Pollution Monitoring Techniques"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advance-air-pollution-monitoring-techniques",
+  "slug": "advance-air-pollution-monitoring-techniques"
+}

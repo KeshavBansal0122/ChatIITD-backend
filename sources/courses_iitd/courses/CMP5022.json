@@ -1,0 +1,22 @@
+{
+  "code": "CMP5022",
+  "name": "Biochemistry Laboratory",
+  "description": "In this lab, different kind of enzymatic reactions and their catalytic mechanisms will be investigated. Purification and detection of different biomolecules like proteins, DNA, carbohydrates, fat etc., will also be carried out. Identification and analysis of the structural properties of different proteins through different spectroscopic techniques have included in the course. Students will learn how to handle different cell cultures and manipulate their growth.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Biochemistry Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Biochemistry Laboratory"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/biochemistry-laboratory",
+  "slug": "biochemistry-laboratory"
+}

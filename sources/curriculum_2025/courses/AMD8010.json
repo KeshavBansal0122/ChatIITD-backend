@@ -1,0 +1,16 @@
+{
+  "code": "AMD8010",
+  "name": "M.Tech. Major Project Part 1",
+  "description": "Formulation of the problem, literature survey, writing technical report, planning and execution of the project work within the stipulated time frame, analysis and interpretation of the obtained data, and presentation of the results.",
+  "credits": 6.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 12.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AMD8010"
+}

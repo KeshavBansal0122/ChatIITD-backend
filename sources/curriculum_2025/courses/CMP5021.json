@@ -1,0 +1,16 @@
+{
+  "code": "CMP5021",
+  "name": "Laboratory 3: Organic Chemistry",
+  "description": "Basic laboratory techniques to synthesize, purify, and characterize small organic molecules by analytical and spectroscopic methods.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CM#CMP5021"
+}

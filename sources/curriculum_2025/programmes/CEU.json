@@ -1,0 +1,517 @@
+{
+  "code": "CEU",
+  "name": "M.Tech. in Rock Engineering and Underground Structures",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=CEU",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 31.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Demonstrate a comprehensive understanding of geomaterial, rock mass, and subsurface behaviour pertinent to tunnelling and field conditions through theoretical, analytical, numerical, and practical approaches."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Apply essential technical and soft skills for professional readiness upon graduation by blending technical knowledge with practical field experience."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "CVD7690",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVD8698",
+        "title": "Major Project Part-I",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "12"
+        },
+        "credits": "6"
+      },
+      {
+        "course_code": "CVL7310",
+        "title": "Professional Ethics in Civil Engineering",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "CVL7601",
+        "title": "Engineering Properties of Rocks and Rock Masses",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CVL7602",
+        "title": "Engineering &amp; Structural Geology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CVL7603",
+        "title": "Analysis and Design of Tunnels",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CVN7601",
+        "title": "Teaching/Research Practicum in Rock Engineering and Underground Structures",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CVP7601",
+        "title": "Rock Mechanics Lab",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVP8601",
+        "title": "Advanced Rock Mechanics Lab",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVT7697",
+        "title": "Internship/Practical Training",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVD7694",
+        "title": "Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7052",
+        "title": "Transportation Cyberphysical Systems",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7202",
+        "title": "Site Investigations and Foundation Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CVL7203",
+        "title": "Ground Improvement and Geosynthetics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7204",
+        "title": "Geoenvironmental Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7205",
+        "title": "Soil Dynamics and Earthquake Geotechnical Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CVL7206",
+        "title": "Finite Element Method in Geotechnical Engg.",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7412",
+        "title": "Structural Dynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7414",
+        "title": "Solid Mechanics in Structural Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7421",
+        "title": "Theory of Concrete Structures",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7423",
+        "title": "Earthquake Resistant Design of Structures",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7454",
+        "title": "Analytical and Computational Methods in Civil Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7604",
+        "title": "Slopes &amp; Foundations in Rocks",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7704",
+        "title": "Solid Waste Engineering and Management",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL8201",
+        "title": "Constitutive Modelling in Geotechnics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL8601",
+        "title": "Numerical and Computer Methods in Geomechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL8681",
+        "title": "Emerging Topics in Rock Engg and Underground Structures",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVP7201",
+        "title": "Soil Engineering Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVP8201",
+        "title": "Geoenvironmental and Geotechnical Engineering Lab",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVR7296",
+        "title": "Geotechnical Engineering Practice and Outreach",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "1"
+        },
+        "credits": "0.5"
+      },
+      {
+        "course_code": "CVR7297",
+        "title": "Geotechnical Engineering Practice and Outreach",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "1"
+        },
+        "credits": "0.5"
+      },
+      {
+        "course_code": "CVR7298",
+        "title": "Geotechnical Engineering Practice and Outreach",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "1"
+        },
+        "credits": "0.5"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "CVL7601",
+        "title": "Engineering Properties of Rocks and Rock Masses",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "CVP7601",
+        "title": "Rock Mechanics Lab",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVL7602",
+        "title": "Engineering &amp; Structural Geology",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "CVL7310",
+        "title": "Professional Ethics in Civil Engineering",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "CVN7201",
+        "title": "Teaching/Research Practicum in Geotechnical and Geoenvironmental Engineering",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "ch Practicum in Geotechnical and Geoenvironmental Engineering",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "CVD7690",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVL7603",
+        "title": "Analysis and Design of Tunnels",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "CVP8601",
+        "title": "Advanced Rock Mechanics Lab",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVN7201",
+        "title": "Teaching/Research Practicum in Geotechnical and Geoenvironmental Engineering",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "ch Practicum in Geotechnical and Geoenvironmental Engineering",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "CVD8698",
+        "title": "Major Project Part-I",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 12.0
+        },
+        "credits": 6.0
+      },
+      {
+        "course_code": "CVN7201",
+        "title": "Teaching/Research Practicum in Geotechnical and Geoenvironmental Engineering",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "ch Practicum in Geotechnical and Geoenvironmental Engineering",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "CVN7201",
+        "title": "Teaching/Research Practicum in Geotechnical and Geoenvironmental Engineering",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "ch Practicum in Geotechnical and Geoenvironmental Engineering",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "CEU \u2013 M.Tech. in Rock Engineering and Underground Structures\nM.Tech. in Rock Engineering and Underground Structures\nCivil Engineering, Department of\nProgramme Code: CEU\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n31\nPE (Programme Elective)\n24\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n61\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nDemonstrate a comprehensive understanding of geomaterial, rock mass, and subsurface behaviour pertinent to tunnelling and field conditions through theoretical, analytical, numerical, and practical approaches.\nPLO 2\nApply essential technical and soft skills for professional readiness upon graduation by blending technical knowledge with practical field experience.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCVD7690 Cornerstone Project 0 0 6 3\nCVD8698 Major Project Part-I 0 0 12 6\nCVL7310 Professional Ethics in Civil Engineering 1 0 0 1\nCVL7601 Engineering Properties of Rocks and Rock Masses 3 0 2 4\nCVL7602 Engineering &amp; Structural Geology 3 0 2 4\nCVL7603 Analysis and Design of Tunnels 3 0 2 4\nCVN7601 Teaching/Research Practicum in Rock Engineering and Underground Structures 0 0 8 4\nCVP7601 Rock Mechanics Lab 0 0 6 3\nCVP8601 Advanced Rock Mechanics Lab 0 0 6 3\nCVT7697 Internship/Practical Training 0 0 6 3\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCVD7694 Minor Project 0 0 6 3\nCVL7052 Transportation Cyberphysical Systems 2 0 2 3\nCVL7202 Site Investigations and Foundation Design 3 0 2 4\nCVL7203 Ground Improvement and Geosynthetics 3 0 0 3\nCVL7204 Geoenvironmental Engineering 3 0 0 3\nCVL7205 Soil Dynamics and Earthquake Geotechnical Engineering 3 0 2 4\nCVL7206 Finite Element Method in Geotechnical Engg. 3 0 0 3\nCVL7412 Structural Dynamics 3 0 0 3\nCVL7414 Solid Mechanics in Structural Engineering 3 0 0 3\nCVL7421 Theory of Concrete Structures 3 0 0 3\nCVL7423 Earthquake Resistant Design of Structures 3 0 0 3\nCVL7454 Analytical and Computational Methods in Civil Engineering 3 0 0 3\nCVL7604 Slopes &amp; Foundations in Rocks 3 0 0 3\nCVL7704 Solid Waste Engineering and Management 3 0 0 3\nCVL8201 Constitutive Modelling in Geotechnics 3 0 0 3\nCVL8601 Numerical and Computer Methods in Geomechanics 3 0 0 3\nCVL8681 Emerging Topics in Rock Engg and Underground Structures 3 0 0 3\nCVP7201 Soil Engineering Laboratory 0 0 6 3\nCVP8201 Geoenvironmental and Geotechnical Engineering Lab 0 0 6 3\nCVR7296 Geotechnical Engineering Practice and Outreach 0 0 1 0.5\nCVR7297 Geotechnical Engineering Practice and Outreach 0 0 1 0.5\nCVR7298 Geotechnical Engineering Practice and Outreach 0 0 1 0.5\nSemester-wise Schedule\nSem\nCourses &amp; Baskets\nHrs /\nweek\nNGU\nCredits\n1\nCVL7601 Engineering Properties of Rocks and Rock Masses\n(3.0-0.0-2.0) 4.00"
+}

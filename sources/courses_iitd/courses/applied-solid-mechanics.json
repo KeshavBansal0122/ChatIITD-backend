@@ -1,0 +1,22 @@
+{
+  "code": "AML5020",
+  "name": "Applied Solid Mechanics",
+  "description": "Stress and strain tensors; governing equations; Hooke\u2019s law; failure criteria. Thin-walled structures; bending without twist; pure twisting in open and closed sections; combined torsion and bending, warping, shear stresses in non-symmetric sections; section property calculations; composite sections; shear lag. Plate bending: governing equations, analytical solutions, isotropic and anisotropic plates, circular plates. Cylindrical shells: governing equations, membrane theory. Buckling and ultimate strength: columns, plates, cylindrical shells, stiffened panels, failure criteria. Tutorial activities: problem-solving on stress and strain tensors, thin-walled structures, plate and shell bending, and buckling with applications in design of marine structures.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Applied Solid Mechanics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Applied Solid Mechanics"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/applied-solid-mechanics",
+  "slug": "applied-solid-mechanics"
+}

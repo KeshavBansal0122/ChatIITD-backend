@@ -1,0 +1,16 @@
+{
+  "code": "BBD8059",
+  "name": "Summer Internship / Minor Project",
+  "description": "The idea is to facilitate interaction of MTech students with external stakeholders such as industry, national laboratories, government agencies, and other academic organizations, in the form of an internship. DRC needs to approve the internship. In case external engagement is not feasible, the project may be carried out in the institute itself (with the approval of the DRC) as a \u201cminor project\u201d.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BB#BBD8059"
+}

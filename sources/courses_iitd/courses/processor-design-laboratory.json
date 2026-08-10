@@ -1,0 +1,22 @@
+{
+  "code": "COP8420",
+  "name": "Processor Design Laboratory",
+  "description": "This is a course covering the design and implementation of modern computing systems, spanning microarchitectural building blocks of high-performance processors and domain-specific accelerators. Topics include branch predictors, instruction fetch logic, decode and rename logic, instruction window and scheduler, select logic, load-store queue, ALUs and bypass paths, instruction commit logic, misprediction and recovery techniques, and selective replay techniques. The course also teaches how to express compute kernels in C++ and synthesise them to RTL using High Level Synthesis, apply optimisation directives for pipeline initiation interval, loop unrolling, and on-chip memory banking, integrate accelerators with a host processor via AXI interfaces, and evaluate throughput, area, and energy tradeoffs using roofline analysis and synthesis reports.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Processor Design Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Processor Design Laboratory"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/processor-design-laboratory",
+  "slug": "processor-design-laboratory"
+}

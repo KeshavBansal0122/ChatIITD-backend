@@ -1,0 +1,22 @@
+{
+  "code": "BMN7001",
+  "name": "Research Communication and Professional Ethics course for Doctoral Candidates",
+  "description": "This course examines the ethical, professional, and societal dimensions of doctoral research in biomedical engineering research. It equips PhD scholars with the knowledge and judgment required to conduct research responsibly, navigate ethical dilemmas, and uphold professional standards in academic and applied research environments. While basic research communication is addressed, the primary emphasis is on ethical reasoning, integrity and researcher responsibility.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Research Communication and Professional Ethics course for Doctoral Candidates | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Research Communication and Professional Ethics course for Doctoral Candidates"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/research-communication-and-professional-ethics-course-doctoral-candidates",
+  "slug": "research-communication-and-professional-ethics-course-doctoral-candidates"
+}

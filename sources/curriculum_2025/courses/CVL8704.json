@@ -1,0 +1,16 @@
+{
+  "code": "CVL8704",
+  "name": "Particle Dynamics for Engineers",
+  "description": "Introduction to aerosol science; sources, properties, and phase changes of particles; aerosol sampling and measurement techniques. Particle formation, growth, and deposition processes including diffusion, sedimentation, and impaction. Light scattering, optical properties, and aerosol-cloud interactions; relevance to climate systems. Modeling of aerosol transport and dynamics in pipes, ducts, and environments using tools such as ANSYS and COMSOL. Applications include air pollution control, combustion systems, indoor air quality, respiratory drug delivery, and nanomaterial synthesis. Aerosol behavior in environmental, industrial, health, and climate-related contexts. Numerical methods and population balance models are also introduced.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL8704"
+}

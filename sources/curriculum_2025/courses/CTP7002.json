@@ -1,0 +1,16 @@
+{
+  "code": "CTP7002",
+  "name": "Electric Vehicle Laboratory 01",
+  "description": "Basic rectifier systems; power supply regulators; magnetic design; basic non-isolated converters; power factor correction circuits; battery module design and development \u2013 cell sorting, cell welding process; battery management system \u2013 basic cell balancing; manufacturing of battery cells; operation of two level inverters; characterization of permanent magnet synchronous machine; basic drive experiments; characterization and experiments on hybrid vehicle.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CT#CTP7002"
+}

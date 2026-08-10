@@ -1,0 +1,22 @@
+{
+  "code": "AML3000",
+  "name": "Numerical Methods for Engineers",
+  "description": "Errors in computation, roots of nonlinear equation in one variable, linear systems of equations, interpolation, approximation, numerical differentiation, numerical integration, numerical solution of ordinary differential equations.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Numerical Methods for Engineers | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Numerical Methods for Engineers"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/numerical-methods-engineers",
+  "slug": "numerical-methods-engineers"
+}

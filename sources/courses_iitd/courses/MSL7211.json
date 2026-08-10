@@ -1,0 +1,22 @@
+{
+  "code": "MSL7211",
+  "name": "Macroeconomic Dynamics",
+  "description": "Dynamic Optimization Methods: Deterministic Models, Dynamic Programming under Certainty with Applications, Deterministic\nDynamics, Stochastic Models, Markov Processes, Stochastic Dynamic Programming with Applications, Competitive Equilibrium\nwith Applications; Simple Aggregate Models: Dynamics in AD-AS Model, Dynamic Models of Output and Inflation, Introduction to Expectations: Adaptive vs. Rational Expectations, Micro-Foundations in Modern Macroeconomics; Open Economy Extensions: Introduction to Dynamics of Small Open Economies, Exchange Rate Dynamics; Optimal Growth Models: the Solow Growth Model, Neo-classical Growth Model, Growth with Overlapping Generations, Endogenous technological Change, Stochastic Growth Models; Introduction to DSGE Models: Stylized facts on Business Cycles, Calibration, Hodrick Prescott Filter, Limitations and Critiques.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Macroeconomic Dynamics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Macroeconomic Dynamics"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/macroeconomic-dynamics",
+  "slug": "macroeconomic-dynamics"
+}

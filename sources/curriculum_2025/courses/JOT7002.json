@@ -1,0 +1,16 @@
+{
+  "code": "JOT7002",
+  "name": "Summer Internship",
+  "description": "Students will undertake internships within organizations to gain hands-on experience in applying OE/OC principles. The internship aims to enhance their communication skills, teamwork, and collaborative abilities, while providing exposure to real-world, industry-relevant challenges. Each student will be assigned a project by their industry supervisor and will be expected to address such problems using appropriate methodologies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "J",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=J#JOT7002"
+}

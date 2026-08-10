@@ -1,0 +1,16 @@
+{
+  "code": "MTL6001",
+  "name": "Complex Analysis",
+  "description": "Field of complex numbers, Complex plane, Polar representation, Stereographic projection, Holomorphic functions, Cauchy-Riemann equation and applications, Harmonic conjugates, Power series, Exponential function, Branch of logarithm, Contour integration, ML-inequality, Rectangle/Triangle theorem, Integral theorem, Cauchy-Goursat theorem, Cauchy integral formula, Power series representation of a holomorphic function, Morera\u2019s theorem, Liouville\u2019s theorem, Fundamental theorem of Algebra, Identity theorem, Maximum modulus principle, Minimum modulus principle, Open mapping theorem, Inverse function theorem, Schwarz\u2019s Lemma, M\u00f6bius transformations, Isolated singularities, Classification of singularities, Casaroti-Weierstrass theorem, Laurent Series expansion, Cauchy residue theorem and application, Meromorphic functions, Argument principle, Rouche\u2019s theorem and applications, Applications of contour integral techniques and residue theorem: Calculating real improper integrals, evaluating infinte series, Introduction to Fourier series, Fourier transform and calculating inverse Fourier transform.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTL6001"
+}

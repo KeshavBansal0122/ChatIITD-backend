@@ -1,0 +1,22 @@
+{
+  "code": "BMV7010",
+  "name": "Basic Electronics",
+  "description": "The course shall introduce students from various disciplines the basics of electronic circuit design, interfacing with computer, LabVIEW based virtual instrumentation in context with biomedical devices and instruments\u2002\u2002\u2002\u2002.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Basic Electronics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Basic Electronics"
+  ],
+  "department": "Point of Care Medical Diagnostic Devices",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/basic-electronics",
+  "slug": "basic-electronics"
+}

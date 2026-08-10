@@ -1,0 +1,22 @@
+{
+  "code": "ELL7315",
+  "name": "Power Management IC Design",
+  "description": "Introduction to power management and voltage regulators: need of power management, power delivery of a VLSI system, discrete versus integrated power management, types of voltage regulators (switching versus linear regulators) and applications, converter\u2019s performance parameters local versus remote feedback, kelvin sensing, point-of-load (POL) regulators, linear regulators: bandgap voltage reference, low drop-out regulator (LDO), switching DC-DC converters: types (buck, boost, buck-boost), power FETs, choosing L and C, PWM modulation, losses in switching converters, CCM and DCM modes, hysteretic control, switched capacitor DC-DC converters, small signal model of DC-DC converter, loop gain analysis of un-compensated DC-DC converter, compensation in DC-DC converter chip level layout and placement guidelines, board level layout guidelines, EMI considerations, power management in energy harvesting applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(ELL3405) &(ELL3406) /(ELL3405) &(ELL3407) /(ELL7304) /(ELL7501)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Power Management IC Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Power Management IC Design"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/power-management-ic-design",
+  "slug": "power-management-ic-design"
+}

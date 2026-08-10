@@ -1,0 +1,22 @@
+{
+  "code": "CHL1000",
+  "name": "Introduction to Chemical Engineering",
+  "description": "This course offers a comprehensive introduction to chemical engineering, historical evolution, and interdisciplinary connections with fields like biotechnology, materials science, environmental engineering, and data science. Students will explore real-world applications in chemical industries, while gaining insights into emerging trends. The course also highlights the ethical responsibilities and societal impacts of chemical engineering, preparing students to address global challenges.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Chemical Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Chemical Engineering"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-chemical-engineering",
+  "slug": "introduction-chemical-engineering"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "SBL6020",
+  "name": "Immunobiology",
+  "description": "Introduction to immunobiology: cells and organs of the immune system; innate immunity and inflammatory responses: pattern recognition receptors - toll like receptors, phagocytic cells such as macrophages and neutrophils, inflammatory cytokines, complement system and innate immunity; antigen- antibody: structure recognition, specificity; the adaptive immune response: B cell and T cell receptor \u2013 structure, gene re-arrangements, antigen presenting cells, major histocompatibility complex and co-stimulatory molecules; lymphocytes development and activation; vaccines and immunity: principles and emerging concepts, safety, herd immunity; hypersensitivity and autoimmunity, acquired immune deficiency syndrome; current topics in immunobiology: viral immune evasion strategy, cancer neo-antigens, techniques and methodologies \u2013 CAR-T cells.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBL6020"
+}

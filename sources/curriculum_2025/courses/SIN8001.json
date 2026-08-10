@@ -1,0 +1,16 @@
+{
+  "code": "SIN8001",
+  "name": "Research Practicum in Information Technology",
+  "description": "Formulating research questions and objectives; conducting a systematic literature survey; generating, analysing, interpreting, and presenting results.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SI",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SI#SIN8001"
+}

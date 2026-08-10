@@ -1,0 +1,22 @@
+{
+  "code": "DSL7750",
+  "name": "Opto-Electronic Detectors and Image Sensors",
+  "description": "Fundamentals of opto-electronic image sensors, Physics, device fabrication, electronic circuits, noise sources and signal processing of: Photo detectors based on PMT, MCP : UV-Visible photo detectors, VIS-NIR Photo detectors, IR-FIR detectors, THz-detectors, Charged coupled Devices (CCD) based image sensors. Complementary Metal Oxide Semiconductor (CMOS) based image sensors. Thermal imaging camera and sensor technology, FLIR, FPA, Single photon detectors and quantum detectors, Ultra-high speed photo-detectors: TCSPC, Ultra-high speed electronic streak camera, Ultra-high speed Framing camera, Electronic circuitry for ultra-high speed camera technology, Signal and image processing tools and techniques.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Opto-Electronic Detectors and Image Sensors | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Opto-Electronic Detectors and Image Sensors"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/opto-electronic-detectors-and-image-sensors",
+  "slug": "opto-electronic-detectors-and-image-sensors"
+}

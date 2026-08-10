@@ -1,0 +1,22 @@
+{
+  "code": "MEL3025",
+  "name": "Stochastic Modeling and Simulation",
+  "description": "Quick review - basic probability, random variables; Introduction to Discrete Time Markov Chains - definition and characterization, Transient Distributions, Limiting Behavior, First passage times, Applications/Case studies; Poisson Processes, Continuous Time Markov Chains - introduction, Transient and limiting behavior, Applications/Case studies; Simulation - basics, discrete event simulation, Concept of Markov Decision Process",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Stochastic Modeling and Simulation | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Stochastic Modeling and Simulation"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/stochastic-modeling-and-simulation",
+  "slug": "stochastic-modeling-and-simulation"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "HSL7721",
+  "name": "The Architecture of Syntax: Theory and Evidence",
+  "description": "This seminar course explores the architecture of natural language syntax from a generative perspective, focusing on how theoretical proposals are motivated by, and constrained by, empirical evidence. Students will engage with foundational and contemporary debates in generative syntax, with an emphasis on Minimalist theory, cross-linguistic variation, and the interfaces between syntax and semantics, phonology, and morphology.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL7721"
+}

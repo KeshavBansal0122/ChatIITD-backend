@@ -1,0 +1,22 @@
+{
+  "code": "CVL7465",
+  "name": "Structural Safety and Reliability",
+  "description": "Probability theory: random variables and distributions, joint random variables, moments and expectation, probabilistic models for loads and resistance parameters. Structural reliability analysis: limit states, probability of failure, reliability index, performance functions, simulation methods, multiple safety factor formats, level II and III reliability methods. System reliability: elements and systems, series and parallel systems, systems with equally and unequally correlated elements. Reliability based structural design: design codes, partial safety factors, load combinations, application to structures, sensitivity analysis.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CVL2503",
+  "overlap": null,
+  "learning_outcomes": [
+    "Structural Safety and Reliability | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Structural Safety and Reliability"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/structural-safety-and-reliability",
+  "slug": "structural-safety-and-reliability"
+}

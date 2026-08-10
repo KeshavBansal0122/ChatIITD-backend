@@ -1,0 +1,16 @@
+{
+  "code": "ESL7742",
+  "name": "Economics and Financing of Renewable Energy Systems",
+  "description": "Overview of renewable energy technologies. Relevance of economic and financial viability evaluation of renewable energy technologies, basics of engineering economics, financial feasibility evaluation of renewable energy technologies, social cost \u2013 benefit analysis of renewable energy technologies. Technology dissemination models, volume and learning effects on costs of renewable energy systems, dynamics of fuel substitution by renewable energy systems and quantification of benefits. Fiscal, financial and other incentives for promotion of renewable energy systems and their effect on financial and economic viability. Financing of renewable energy systems, carbon finance potential of renewable energy technologies and impact of other incentives. Software for financial evaluation of renewable energy systems. Case studies on financial and economic feasibility evaluation of renewable energy projects.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ES",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ES#ESL7742"
+}

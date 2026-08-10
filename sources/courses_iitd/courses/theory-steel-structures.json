@@ -1,0 +1,22 @@
+{
+  "code": "CVL7422",
+  "name": "Theory of Steel Structures",
+  "description": "Structural steel: classifications, grades, behavioural characteristics, plasticity and hardening; material models: simple, rigid, power function, smooth hysteretic; design methodology: allowable, limit state, ultimate; methods of analysis including second-order effects; plastic design: plate instabilities, local buckling, section classifications; structural stability: global buckling, member and frames under axial and combined loading; sway and non-sway frames; design of members under combined bending, shear and torsion; connections: simple, semi-rigid, rigid; plates girders: simple post-critical theory, tension-field theory, section design, stiffener requirements; cold-formed steel design; earthquake-resistant design and detailing; fire-resistant design; fatigue-resistant design.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CVL3505",
+  "overlap": null,
+  "learning_outcomes": [
+    "Theory of Steel Structures | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Theory of Steel Structures"
+  ],
+  "department": "Design of Steel Structures",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/theory-steel-structures",
+  "slug": "theory-steel-structures"
+}

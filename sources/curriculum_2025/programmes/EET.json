@@ -1,0 +1,515 @@
+{
+  "code": "EET",
+  "name": "M.Tech. in Computer Technology",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=EET",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 40.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Design and development of hardware and software for computer and computer-communication systems."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Methods and techniques of intelligent systems, human-machine interactions and cyber-physical systems."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Development of tools for chip design and fabrication, Industry 4.0/5.0, healthcare systems, mobility, and other societal applications."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "ELD7007",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELD7200",
+        "title": "Summer Internship/Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELD8200",
+        "title": "MTech Project Part 1",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "12"
+        },
+        "credits": "6"
+      },
+      {
+        "course_code": "ELD8201",
+        "title": "M.Tech Project Part 2",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "24"
+        },
+        "credits": "12"
+      },
+      {
+        "course_code": "ELL7000",
+        "title": "Professional Ethics in Electrical Engineering",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "ELL7280",
+        "title": "Mathematical Foundations for Systems and Learning",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7281",
+        "title": "Software Fundamentals of Computing and Intelligent Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7282",
+        "title": "Application-Specific Computer Architectures",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7283",
+        "title": "Embedded Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7284",
+        "title": "Machine Learning Systems Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7285",
+        "title": "Machine Learning and Optimization",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7286",
+        "title": "Introduction to Machine Learning",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7301",
+        "title": "Digital CMOS VLSI Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7403",
+        "title": "Computer Communication Networks",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ELN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ELL7280",
+        "title": "Mathematical Foundations for Systems and Learning",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7281",
+        "title": "Software Fundamentals of Computing and Intelligent Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7282",
+        "title": "Application-Specific Computer Architectures",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7283",
+        "title": "Embedded Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7284",
+        "title": "Machine Learning Systems Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7285",
+        "title": "Machine Learning and Optimization",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7286",
+        "title": "Introduction to Machine Learning",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "BSP7010",
+        "title": "Communication and Signal Processing Technologies Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "1",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7289",
+        "title": "Graph Machine Learning",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ELL7293",
+        "title": "Computer Vision",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7349",
+        "title": "Semiconductor Memory Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7401",
+        "title": "Digital Communications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7412",
+        "title": "Multichannel Signal Processing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7420",
+        "title": "Advanced Digital Signal Processing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7450",
+        "title": "Machine Learning for Wireless Communications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ELL8200",
+        "title": "Selected Topics in Computing and Intelligent Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL8224",
+        "title": "Information Visualization",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL8284",
+        "title": "Natural Language Processing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL8287",
+        "title": "Cloud Computing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL8290",
+        "title": "Computational Neuroscience",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL8296",
+        "title": "Mobile Computing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL8299",
+        "title": "Large Language Models",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL8415",
+        "title": "MIMO Wireless Communication",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELP7420",
+        "title": "Telecommunication Networks Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "1",
+          "practical": "4"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "ELN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "ELD7007",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ELN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "ELD8200",
+        "title": "MTech Project Part 1",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 12.0
+        },
+        "credits": 6.0
+      },
+      {
+        "course_code": "ELL7000",
+        "title": "Professional Ethics in Electrical Engineering",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "ELN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "ELD8201",
+        "title": "M.Tech Project Part 2",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      },
+      {
+        "course_code": "ELN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "EET \u2013 M.Tech. in Computing and Intelligent Systems Engineering\nM.Tech. in Computing and Intelligent Systems Engineering\nElectrical Engineering, Department of\nProgramme Code: EET\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n40\nPE (Programme Elective)\n15\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n61\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nDesign and development of hardware and software for computer and computer-communication systems.\nPLO 2\nMethods and techniques of intelligent systems, human-machine interactions and cyber-physical systems.\nPLO 3\nDevelopment of tools for chip design and fabrication, Industry 4.0/5.0, healthcare systems, mobility, and other societal applications.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nELD7007 Cornerstone Project 0 0 6 3\nELD7200 Summer Internship/Minor Project 0 0 6 3\nELD8200 MTech Project Part 1 0 0 12 6\nELD8201 M.Tech Project Part 2 0 0 24 12\nELL7000 Professional Ethics in Electrical Engineering 1 0 0 1\nELL7280 Mathematical Foundations for Systems and Learning 3 0 0 3\nELL7281 Software Fundamentals of Computing and Intelligent Systems 3 0 0 3\nELL7282 Application-Specific Computer Architectures 3 0 0 3\nELL7283 Embedded Systems 3 0 0 3\nELL7284 Machine Learning Systems Engineering 3 0 0 3\nELL7285 Machine Learning and Optimization 3 0 0 3\nELL7286 Introduction to Machine Learning 3 0 0 3\nELL7301 Digital CMOS VLSI Design 3 0 0 3\nELL7403 Computer Communication Networks 3 0 2 4\nELN7001 Teaching and Research Practicum 0 0 8 4\nEET Core Basket (3-0-0) 3\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nELL7280 Mathematical Foundations for Systems and Learning 3 0 0 3\nELL7281 Software Fundamentals of Computing and Intelligent Systems 3 0 0 3\nELL7282 Application-Specific Computer Architectures 3 0 0 3\nELL7283 Embedded Systems 3 0 0 3\nELL7284 Machine Learning Systems Engineering 3 0 0 3\nELL7285 Machine Learning and Optimization 3 0 0 3\nELL7286 Introduction to Machine Learning 3 0 0 3\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nBSP7010 Communication and Signal Processing Technologies Laboratory 0 1 4 3\nELL7289 Graph Machine Learning 3 0 2 4\nELL7293 Computer Vision 3 0 0 3\nELL7349 Semiconductor Memory Design 3 0 0 3\nELL7401 Digital Communications 3 0 0 3\nELL7412 Multichannel Signal Processing 3 0 0 3\nELL7420 Advanced Digital Signal Processing 3 0 0 3\nELL7450 Machine Learning for Wireless Communications 3 0 2 4\nELL8200 Selected Topics in Computing and Intelligent Systems 3 0 0 3\nELL8224 Information Visualization 3 0 0 3\nELL8284 Natural Language Processing 3 0 0 3"
+}

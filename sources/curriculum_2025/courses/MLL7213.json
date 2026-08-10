@@ -1,0 +1,16 @@
+{
+  "code": "MLL7213",
+  "name": "Advanced Crystallography",
+  "description": "Group theory as applied to symmetry, Symmetry operations, Operations of Type I and II, Frieze groups, Matrix-column representation of isometries, Restriction on point symmetries due to presence of translations, Two-dimensional point groups, Plane groups, Three-dimensional point groups, Space groups, Reading of international Table: Hermann-Mauguin naotation, point group of a space group, crystal system, Patterson symmetry, site symmetry, multiplicity, Wyckoff positions, orbits and stabilizers, general and special positions, coordinate triplet representation of space group symmetries",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ML",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ML#MLL7213"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "ELL7608",
+  "name": "HVDC and FACTS",
+  "description": "General aspects of HVDC and comparison with AC transmission system. Thyristor based HVDC Converter and inverter operation. Control of HVDC link. Interaction between AC and DC system. Harmonic generation and their elimination. Protections for HVDC system. Modeling of HVDC link for AC-DC power flow. \nThe phenomenon of voltage collapse; the basic theory of line compensation. Static VAR compensators; static phase shifters; thyristors controlled series capacitors.Coordination of FACTS devices with HVDC links. The FACTS optimization problem. Transient and dynamic stability enhancement using FACTS components.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "HVDC and FACTS | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/hvdc-and-facts",
+  "slug": "hvdc-and-facts"
+}

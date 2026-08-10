@@ -1,0 +1,21 @@
+{
+  "code": "MEL7431",
+  "name": "Gas Dynamics",
+  "description": "Introduction, propagation of infinitesimal waves: speed of sound, mach number, mach cone, review of thermodynamics and von Karman&#039;s rules of supersonic flow; formulating integral and differential laws for compressible flows; adiabatic and isentropic flow relations; one-dimensional compressible flow and normal shocks; second law analysis of shocks and Hugoniot relation, propagating normal shocks, shock tube fundamentals and reflection of normal shockwaves; the critical area ration and quasi-1d isentropic flows with rocket propulsion applications; operating characteristics of convergent-divergent nozzles; flow with friction (Fanno flow) and flow with heat transfer (Rayleigh flow); introduction to shadowgraphy and schlieren; oblique shocks and Prandtl-Meyer expansion fans; shock polar, reflection and interaction of shocks, basic shock expansion theory; special topics set I (advanced gas dynamics); special topics set II including gas dynamics applications.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Gas Dynamics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/gas-dynamics",
+  "slug": "gas-dynamics"
+}

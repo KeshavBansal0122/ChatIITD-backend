@@ -1,0 +1,22 @@
+{
+  "code": "TXL2101",
+  "name": "Chemistry and Physics of Polymers",
+  "description": "Macromolecular structure of polymers, structure property relationship, synthesis and structure of polymeric materials with focus on chain and step-growth polymerization, cross-linked polymers, molecular weight, chain dimensions - configuration and conformations, fibre forming polymers, crystalline and glass states, solution and melt properties, mechanical and rheological properties, important characterization techniques for polymers.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Chemistry and Physics of Polymers | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Chemistry and Physics of Polymers"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/chemistry-and-physics-polymers",
+  "slug": "chemistry-and-physics-polymers"
+}

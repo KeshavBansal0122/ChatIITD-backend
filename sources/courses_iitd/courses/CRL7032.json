@@ -1,0 +1,22 @@
+{
+  "code": "CRL7032",
+  "name": "Selected Topics in RFDT-II",
+  "description": "Advanced course on selected topics of relevance to the RFDT MTech program. The course content will depend on the selected topics taught by the instructor.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Selected Topics in RFDT-II | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Selected Topics in RFDT-II"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/selected-topics-rfdt-ii",
+  "slug": "selected-topics-rfdt-ii"
+}

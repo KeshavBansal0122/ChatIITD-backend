@@ -1,0 +1,1308 @@
+{
+  "code": "AM1",
+  "name": "B.Tech. in Engineering and Computational Mechanics",
+  "generation": "2025",
+  "degree_type": "btech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=AM1",
+  "credit_requirements": [
+    {
+      "category": "BS",
+      "label": "Basic Sciences",
+      "credits_or_units": 24.0,
+      "kind": "graded"
+    },
+    {
+      "category": "GE",
+      "label": "General Engineering",
+      "credits_or_units": 24.0,
+      "kind": "graded"
+    },
+    {
+      "category": "HS",
+      "label": "Humanities and Social Sciences",
+      "credits_or_units": 15.0,
+      "kind": "graded"
+    },
+    {
+      "category": "EAS",
+      "label": "Engineering Arts and Sciences",
+      "credits_or_units": 3.0,
+      "kind": "graded"
+    },
+    {
+      "category": "DC",
+      "label": "Departmental Core",
+      "credits_or_units": 59.0,
+      "kind": "graded"
+    },
+    {
+      "category": "DE",
+      "label": "Departmental Electives",
+      "credits_or_units": 18.0,
+      "kind": "graded"
+    },
+    {
+      "category": "OC",
+      "label": "Open Category",
+      "credits_or_units": 9.0,
+      "kind": "graded"
+    },
+    {
+      "category": "NGU_LIFE",
+      "label": "Life skills",
+      "credits_or_units": 2.0,
+      "kind": "ngu"
+    },
+    {
+      "category": "NGU_ENGLISH",
+      "label": "English language learning",
+      "credits_or_units": 2.0,
+      "kind": "ngu"
+    },
+    {
+      "category": "NGU_PROJECT",
+      "label": "Departmental project, internship experience",
+      "credits_or_units": 2.0,
+      "kind": "ngu"
+    },
+    {
+      "category": "NGU_NCC",
+      "label": "NCC / NSO / NSS",
+      "credits_or_units": 2.0,
+      "kind": "ngu"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "The ability to solve engineering problems using fundamental principles of mechanics through analytical, computational and experimental techniques."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "The ability to solve complex engineering problems and provide design solutions using visualization, computational, experimental tools, data analysis and/or data-driven techniques."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "The ability to effectively formulate and solve problems relevant to industry in a sustainable manner"
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "The ability to communicate and function effectively in a team, collaborate with team-members to establish goals, plan tasks, and meet objectives."
+    },
+    {
+      "outcome_id": "PLO5",
+      "text": "The ability to demonstrate ethical and professional responsibilities as an engineer."
+    }
+  ],
+  "courses_by_category": {
+    "GE": [
+      {
+        "course_code": "AML1000",
+        "title": "Engineering Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEP1000",
+        "title": "Engineering Visualization",
+        "hours": {
+          "lecture": "0.5",
+          "tutorial": "0",
+          "practical": "3"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "MEP1001",
+        "title": "Manufacturing for Product Innovation",
+        "hours": {
+          "lecture": "0.5",
+          "tutorial": "0",
+          "practical": "3"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "COL1000",
+        "title": "Introduction to Programming",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL1101",
+        "title": "Programming with Data Structures",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MLL1001",
+        "title": "Introduction to Materials Science and Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ELL1000",
+        "title": "Introduction to Electrical Engineering",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "2"
+        },
+        "credits": "4"
+      }
+    ],
+    "BS": [
+      {
+        "course_code": "CMP1000",
+        "title": "Chemistry Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "MTL1001",
+        "title": "Mathematics I Calculus",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "PYL1001",
+        "title": "Introduction to Electrodynamics",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYP1000",
+        "title": "Physics Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "MTL1002",
+        "title": "Mathematics II Linear Algebra and Differential Equations",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SBP1100",
+        "title": "Experimental Biology for Engineers",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "1"
+      }
+    ],
+    "DC": [
+      {
+        "course_code": "AMD4000",
+        "title": "BTP (Part - 1)",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "AML1050",
+        "title": "Engineering Thermodynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AML2010",
+        "title": "Solid Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AML2020",
+        "title": "Fluid Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AML2050",
+        "title": "Applied Mathematics for Engineers",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "AML2060",
+        "title": "Experimental Methods",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "AML2070",
+        "title": "Biomechanics",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "AML2080",
+        "title": "Heat Transfer",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "AML3000",
+        "title": "Numerical Methods for Engineers",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "AML3010",
+        "title": "Linear Elasticity",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "AML3020",
+        "title": "Advanced Fluid Dynamics",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "AML3030",
+        "title": "Machine Learning for Mechanics",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "AML3050",
+        "title": "Basics of Product Design",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "AML3060",
+        "title": "Introduction to Finite Element Method",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "AML3070",
+        "title": "Introduction to Computational Fluid Dynamics",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "AML3080",
+        "title": "Dynamics of Mechanical Systems",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "AML4010",
+        "title": "Advanced Experimental Techniques in Solid Mechanics",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "AML4020",
+        "title": "Advanced Experimental Techniques in Fluids",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "AMP2090",
+        "title": "Experiments in Solid and Fluid Mechanics",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      }
+    ],
+    "HS": [
+      {
+        "course_code": "HSL2100",
+        "title": "Introduction to Economics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL2102",
+        "title": "Macroeconomics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL2510",
+        "title": "Philosophy Through Puzzles and Paradoxes",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL2605",
+        "title": "Sociological Perspectives on Organisations",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL2710",
+        "title": "Words in the World",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL2742",
+        "title": "Fundamentals of Language Sciences",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ],
+    "BS_ELEC": [
+      {
+        "course_code": "CML1001",
+        "title": "Structural Insights into Atoms and Molecules",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML1002",
+        "title": "The Art and Science of Building Molecules and Materials",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL1002",
+        "title": "Waves and Oscillations",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL1003",
+        "title": "Mechanics and Special Theory of Relativity",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SBL1100",
+        "title": "Introduction to Biology",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "SBL1102",
+        "title": "Modern Biology: Principles and Applications",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ],
+    "GE_ELEC": [
+      {
+        "course_code": "CVL2001",
+        "title": "Climate Change and Adaptation",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "ELL1205",
+        "title": "Signals and Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ELL1401",
+        "title": "Digital Electronics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEL1140",
+        "title": "Thermodynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL2006",
+        "title": "Introduction to Probability and Stochastic Processes",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL2008",
+        "title": "Introduction to Probability and Statistics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CHL7402",
+        "title": "Engineering and Nature-Based Solutions to Mitigate Climate Change",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL2001",
+        "title": "Climate Change and Adaptation",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "DDR8222",
+        "title": "Design for Sustainability",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "RDL7025",
+        "title": "Ecological Perspective of Growth and Development",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "RDL7700",
+        "title": "Biomass Production",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "RDL7705",
+        "title": "Rural Resources and Livelihoods",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "RDL7710",
+        "title": "Rural India and Planning for Development",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "RDL7724",
+        "title": "Rural Sanitation and Decentralized Wastewater Management",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "RDL7727",
+        "title": "Conservation and Recycling Practices in Rural Areas",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "RDL7740",
+        "title": "Technology for Utilization of Wasteland and Weeds",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "RDL7771",
+        "title": "Nanotechnology for Safe and Sustainable Agriculture",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ],
+    "DE": [
+      {
+        "course_code": "AML7020",
+        "title": "Optimization Methods",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7200",
+        "title": "Multiscale Modelling and Computation",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7210",
+        "title": "Theory of Plates and Shells",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7230",
+        "title": "Smart Materials and Structures",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7260",
+        "title": "Fracture Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7270",
+        "title": "Fatigue Failure and Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7280",
+        "title": "Nonlinear Dynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7400",
+        "title": "Environmental Fluid Dynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7410",
+        "title": "Physics of Turbulent Flows",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7420",
+        "title": "Turbulence and its Modeling",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7430",
+        "title": "Compressible Fluid Flow and Gas Dynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7440",
+        "title": "Hydrodynamic Stability",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7450",
+        "title": "Design of Turbomachinery",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7600",
+        "title": "Continuum Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7610",
+        "title": "Fluid Structure Interaction",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7660",
+        "title": "Meshless and Particle-based Methods",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AML7800",
+        "title": "Deep Learning for Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AML7810",
+        "title": "Probabilistic Machine Learning for Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AML7820",
+        "title": "Uncertainty Quantification and Propagation",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7830",
+        "title": "Digital Twins",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AML7840",
+        "title": "Parallel and High Performance Computing for Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AML7870",
+        "title": "Topology and Shape Optimization",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7890",
+        "title": "Control Theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AML7900",
+        "title": "Reliability Analysis and Reliability-Based Design Optimization",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "AML1000",
+        "title": "Engineering Mechanics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "CML1001",
+        "title": "Structural Insights into Atoms and Molecules",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CMP1000",
+        "title": "Chemistry Laboratory",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "DAN1100",
+        "title": "Life Skills 1",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 1.5
+        },
+        "credits": 0.75
+      },
+      {
+        "course_code": "MEP1000",
+        "title": "Engineering Visualization",
+        "hours": {
+          "lecture": 0.5,
+          "tutorial": 0.0,
+          "practical": 3.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "MEP1001",
+        "title": "Manufacturing for Product Innovation",
+        "hours": {
+          "lecture": 0.5,
+          "tutorial": 0.0,
+          "practical": 3.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "MTL1001",
+        "title": "Mathematics I Calculus",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "English Language Courses",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 1.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "AML1050",
+        "title": "Engineering Thermodynamics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "COL1000",
+        "title": "Introduction to Programming",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "PYL1001",
+        "title": "Introduction to Electrodynamics",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYP1000",
+        "title": "Physics Laboratory",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "MTL1002",
+        "title": "Mathematics II Linear Algebra and Differential Equations",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "Mathematics II Linear Algebra and Differential Equations",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "English Language Courses",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 1.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "AML2010",
+        "title": "Solid Mechanics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "AML2020",
+        "title": "Fluid Mechanics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "COL1101",
+        "title": "Programming with Data Structures",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "MLL1001",
+        "title": "Introduction to Materials Science and Engineering",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "SBL1100",
+        "title": "Introduction to Biology",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "SBP1100",
+        "title": "Experimental Biology for Engineers",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 1.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "AML2050",
+        "title": "Applied Mathematics for Engineers",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "AML2060",
+        "title": "Experimental Methods",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "AML2070",
+        "title": "Biomechanics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "AML2080",
+        "title": "Heat Transfer",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "AMP2090",
+        "title": "Experiments in Solid and Fluid Mechanics",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "DAN2100",
+        "title": "Life Skills 2",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 1.5
+        },
+        "credits": 0.75
+      },
+      {
+        "course_code": "ELL1000",
+        "title": "Introduction to Electrical Engineering",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 1.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "5": [
+      {
+        "course_code": "AML3000",
+        "title": "Numerical Methods for Engineers",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "AML3030",
+        "title": "Machine Learning for Mechanics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "6": [
+      {
+        "course_code": "AML3050",
+        "title": "Basics of Product Design",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "AML3080",
+        "title": "Dynamics of Mechanical Systems",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "7": [
+      {
+        "course_code": "AMD4000",
+        "title": "BTP (Part - 1)",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      }
+    ]
+  },
+  "raw_text_preview": "AM1 \u2013 B.Tech. in Engineering and Computational Mechanics\nB.Tech. in Engineering and Computational Mechanics\nApplied Mechanics, Department of\nProgramme Code: AM1\nB. Tech.\nOverall Credit Structure\nCourse Category Credits\nBS (Basic Sciences)\n24\nGE (General Engineering)\n24\nHS (Humanities and Social Sciences)\n15\nES (Environment and Sustainability)\n2\nDC (Departmental Core)\n59\nDE (Departmental Electives)\n18\nOC (Open Category)\n9\nTotal Graded Credit Requirement\n151\nNon-Graded Units (NGU) Units\nLife skills\n2\nEnglish language learning\n2\nDepartmental project, internship experience\n2\nNCC / NSO / NSS\n2\nTotal Non-Graded Units\n8\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nThe ability to solve engineering problems using fundamental principles of mechanics through analytical, computational and experimental techniques.\nPLO 2\nThe ability to solve complex engineering problems and provide design solutions using visualization, computational, experimental tools, data analysis and/or data-driven techniques.\nPLO 3\nThe ability to effectively formulate and solve problems relevant to industry in a sustainable manner\nPLO 4\nThe ability to communicate and function effectively in a team, collaborate with team-members to establish goals, plan tasks, and meet objectives.\nPLO 5\nThe ability to demonstrate ethical and professional responsibilities as an engineer.\nGeneral Engineering Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nAML1000 Engineering Mechanics 3 1 0 4\nMEP1000 Engineering Visualization 0.5 0 3 2\nMEP1001 Manufacturing for Product Innovation 0.5 0 3 2\nCOL1000 Introduction to Programming 3 0 2 4\nCOL1101 Programming with Data Structures 3 0 2 4\nMLL1001 Introduction to Materials Science and Engineering 3 0 2 4\nELL1000 Introduction to Electrical Engineering 2 1 2 4\nBasic Science Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCMP1000 Chemistry Laboratory 0 0 4 2\nMTL1001 Mathematics I Calculus 3 1 0 4\nPYL1001 Introduction to Electrodynamics 2 1 0 3\nPYP1000 Physics Laboratory 0 0 4 2\nMTL1002 Mathematics II Linear Algebra and Differential Equations 3 1 0 4\nSBP1100 Experimental Biology for Engineers 0 0 2 1\nDepartmental Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits"
+}

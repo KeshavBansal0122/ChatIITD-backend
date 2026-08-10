@@ -1,0 +1,22 @@
+{
+  "code": "MTL8854",
+  "name": "Interpolation and Approximation",
+  "description": "Interpolation: Polynomial Interpolation; The General Problem of Finite Interpolation; Systems Possessing Interpolation Property-Hermite Interpolation, Lagrange Interpolation, Chebyshev Interpolation, Lidstone Interpolation, Trigonometric Interpolation; Representation Theorems-Lagrange and Newton Formulae; Cauchy Reminder for Polynomial Interpolation; Peano theorem and Its Consequence; The inequalities of Markov and Bernstein; Runge Phenomena,; Cubic Splines, Holladay Functional, Energy Minimisation. \nApproximation: Weierstrass Approximation Theorem; Bernstein Polynomials; Approximation by Interpolation (Fejer Proof); Generalizations of Weierstrass Approximation Theorem - Korovkin&#039;s Theorem, The Stone-Weierstrass Theorem, Muntz theorem; Concept of Best Approximation in a Normed linear space, Existence and Uniqueness of the Best Approximation;; Inner Product Spaces and Least Square Approximations; Fourier Expansion;; Gram matrices and Determinants; Orthogonal Polynomials.\nAn Invitation to Fractal Interpolation and Approximation: Iterated Function Systems, Fractal Interpolation, alpha-Fractal Functions and Fractal Approximation.",
+  "credits": null,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Interpolation and Approximation | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Interpolation and Approximation"
+  ],
+  "department": "Numerical Analysis and Computation",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/interpolation-and-approximation",
+  "slug": "interpolation-and-approximation"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "MLL7401",
+  "name": "Micro-Nano Fabrication in Materials Engineering",
+  "description": "Introduction to microfabrication, basic transitor, IC fabrication, resonating devices, clean room design and protocol, crystal growth and defect, diffusion and ion implantation, wafer preparation and specifications, thermal oxidation: Deal-Grove model of oxidation, rapid thermal annealing, pattern transfer by optical and ebeam lithography, photoresist, vacuum science and plasmas, etching, physical (DC and RF sputtering, ebeam evaporation) and chemical vapor deposition, stress measurement in thin film, silicon micromachining. Case studies on micro/nano fabrication.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ML",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ML#MLL7401"
+}

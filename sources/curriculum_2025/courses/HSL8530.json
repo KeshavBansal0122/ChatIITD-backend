@@ -1,0 +1,16 @@
+{
+  "code": "HSL8530",
+  "name": "Minds and Machines",
+  "description": "This course explores foundational issues at the intersection of philosophy, cognitive science, and artificial intelligence. Through leading philosophical perspectives on minds, representation, and computation, it investigates the possibility and limits of artificial minds, and the implications of AI for understanding cognition and agency. Core topics include the debate over the functionalist basis of cognition, epistemological challenges of learning, reasoning and rationality, metaphysical problems concerning intentionality, and the question of embodiment. Focus is given to conceptual questions about explanation, epistemic opacity, model evaluation, error and bias in intelligent systems, the prospects of alignment, and comparative analysis of human and machine cognition.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL8530"
+}

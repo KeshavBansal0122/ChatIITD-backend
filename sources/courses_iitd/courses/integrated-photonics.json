@@ -1,0 +1,22 @@
+{
+  "code": "OPL7014",
+  "name": "Integrated Photonics",
+  "description": "Introduction to photonics integrated circuit technology, basic waveguide theory, passive devices (reflectors, gratings, mode converters, couplers, interferometer), active devices (waveguide amplifiers and lasers and photodetector), photonic integrated circuits, fabrication, materials and different platforms, photonics matrix processor, and application of PICs in meeting growing hardware demand for artificial intelligence.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Integrated Photonics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Integrated Photonics"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/integrated-photonics",
+  "slug": "integrated-photonics"
+}

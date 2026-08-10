@@ -1,0 +1,22 @@
+{
+  "code": "MEL7421",
+  "name": "Aerodynamics of Flight",
+  "description": "Principles of subsonic aircraft aerodynamics, performance, stability, and control, covering both fixed- and rotary-wing configurations. Topics include standard atmosphere, pressure, temperature, and density altitudes; aerodynamics fundamentals: airfoils, wings, lift, drag, moments; incompressible flow over airfoils: vortex sheet, Kutta condition, thin airfoil theory; finite wings: downwash, induced drag, lifting-line theory; subsonic compressible flow: compressibility effects, critical and drag-divergence mach numbers, supercritical airfoils; airplane performance: thrust, power, efficiency, level flight, climb, ceilings; stability and control: static/dynamic stability, trim, control surfaces; rotary-wing basics: blade element and momentum theory, induced velocity, and rotor control.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Aerodynamics of Flight | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Aerodynamics of Flight"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/aerodynamics-flight",
+  "slug": "aerodynamics-flight"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "MEL2014",
+  "name": "Energy Systems",
+  "description": "Fuels and Combustion: Stoichiometry, Exhaust gas composition, Calorific value; IC engines: Spark ignition and Compression ignition engines, ideal and real cycles, performance parameters; Nozzles: critical pressure ratio, supersaturation, Jet propulsion; Power Plant Engineering: Vapour power and gas turbine cycles: reheat, regeneration, economizer, preheater, intercooling, components of power plants, Combined cycle plants; Turbomachinery: Impulse and reaction turbines, Velocity triangles, Pressure and velocity compounding, Losses in turbines, Introduction to compressors and pumps; Psychrometry, Air Conditioning systems, Vapour compression refrigeration systems; Pollutant emissions and environmental impact",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Energy Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/energy-systems",
+  "slug": "energy-systems"
+}

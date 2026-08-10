@@ -1,0 +1,16 @@
+{
+  "code": "SBL6000",
+  "name": "Computational Biology and Data Analyses",
+  "description": "Basics of data: introduction; biological sequence data sources and handling methods; sequence alignment: pairwise, multiple and local alignment, BLAST, pattern search, phylogenetics and evolutionary tree search, machine learning methods in sequence analysis; data retrieval from GEO and other databases- different formats of sequencing data; microarray technologies - differential gene expression analyses by microarrays, modelling DNA microarray data, network analyses; next-generation sequencing; variants of NGS- transcriptome, exome, ChIP-seqmethods and different challenges in data analyses; nanopore sequencing technology; genome sequence assembly- de novo, assembly methods and error correction; microbial genomics; OMICs methods and practices; proteomics technologies; quantitative and qualitative proteomics; label-free and SILAC based quantifications; environmental proteomics- filtering and cleaning of MS data; case-studies with data accessed from MS data servers; omics data analyses pipelines- quality control, omics data analyses pipelines- quality control, logtransformation and normalization of omics data, file formats, algorithms, data visualization, PCA and statistical analyses; biomolecular structure determination methods; long range forces and potentials; structure visualization, coordinate systems; structure data repository and retrieval; structure prediction: ab-initio method, comparative protein structure modelling, ligand-protein interaction, ligand docking; basics of protein structural dynamics; metabolic networks: network model building, flux analyses, systems biology approaches: microscopy data \u2013 fixed and live-cell imaging, time-lapse videos, dyes and resolution, super-resolution microscopy.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBL6000"
+}

@@ -1,0 +1,549 @@
+{
+  "code": "CEV",
+  "name": "M.Tech. in Environmental Engineering and Management",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=CEV",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 48.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Acquire advanced knowledge of current environmental issues, challenges, and sustainable management practices in the field of environmental engineering. Demonstrate the ability to apply this knowledge to real-world scenarios, preparing students for professional practice or further learning in a multidisciplinary environment."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Analyze the concentration, characteristics, and sources of environmental pollutants while incorporating management strategies for pollution control and mitigation. Demonstrate the ability to integrate scientific analysis with effective communication and collaborative problem-solving approaches."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Design optimized technical solutions for contemporary environmental problems, integrating engineering principles and management strategies. Showcase the ability to develop and present sustainable solutions, emphasizing team collaboration and leadership in achieving long-term environmental goals."
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "Evaluate the environmental impact assessment of large-scale projects, incorporating both technical and management frameworks. Demonstrate an understanding of ethical, regulatory, and sustainability considerations in decision-making, while fostering personal and professional responsibility."
+    },
+    {
+      "outcome_id": "PLO5",
+      "text": "Assess both conventional and innovative technical solutions to resolve environmental issues, considering their feasibility and effectiveness in diverse real-world contexts. Emphasize critical thinking, collaboration, and ethical decision-making in applying management principles to implement and monitor solutions."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "CVD7791",
+        "title": "Cornerstone Project in Environmental Engineering",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVD7792",
+        "title": "Major Project Part-I",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "12"
+        },
+        "credits": "6"
+      },
+      {
+        "course_code": "CVD7793",
+        "title": "Major Project Part-II",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CVD7794",
+        "title": "Minor Project in Environmental Engineering",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CVL7071",
+        "title": "Environmental Quality Modeling",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7072",
+        "title": "Environmental Systems Analysis and Decision Making",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7310",
+        "title": "Professional Ethics in Civil Engineering",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "CVL7703",
+        "title": "Water Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7704",
+        "title": "Solid Waste Engineering and Management",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7705",
+        "title": "Air-Noise Pollution and Climate",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7706",
+        "title": "Wastewater Engineering and Management",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL8710",
+        "title": "Thermal Treatment Techniques for Waste Management",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVN7701",
+        "title": "Teaching and Research Practicum for Environmental Engineers",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CVP7701",
+        "title": "Environmental Engineering Laboratory I",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "CVP7702",
+        "title": "Environmental Engineering Laboratory II",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "CVP7707",
+        "title": "Field Visit to Environmental Facilities",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "1"
+        },
+        "credits": "0.5"
+      },
+      {
+        "course_code": "CVQ7708",
+        "title": "Environmental Engineering Seminar",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "1"
+        },
+        "credits": "0.5"
+      },
+      {
+        "course_code": "CVT7790",
+        "title": "Summer Internship in Environmental Engineering",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7052",
+        "title": "Transportation Cyberphysical Systems",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7709",
+        "title": "Emerging Technologies for Environmental Management",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL8204",
+        "title": "Life Cycle Assessment and Circular Economy",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL8703",
+        "title": "Indoor Environmental Quality: Theory and Practice",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL8704",
+        "title": "Particle Dynamics for Engineers",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL8705",
+        "title": "Design of Water and Wastewater Treatment Plants",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL8707",
+        "title": "Environmental Impact Assessment",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL8708",
+        "title": "Fate of Emerging Contaminants in the Environment",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL8711",
+        "title": "Industrial Waste Management",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL8715",
+        "title": "Risk-Based Environmental Project Management",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "CVP7701",
+        "title": "Environmental Engineering Laboratory I",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "CVL7705",
+        "title": "Air-Noise Pollution and Climate",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVL7703",
+        "title": "Water Engineering",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVL7704",
+        "title": "Solid Waste Engineering and Management",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVP7707",
+        "title": "Field Visit to Environmental Facilities",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 1.0
+        },
+        "credits": 0.5
+      },
+      {
+        "course_code": "CVN7701",
+        "title": "Teaching and Research Practicum for Environmental Engineers",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "Teaching and Research Practicum for Environmental Engineers",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "CVD7791",
+        "title": "Cornerstone Project in Environmental Engineering",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVP7702",
+        "title": "Environmental Engineering Laboratory II",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "CVL7072",
+        "title": "Environmental Systems Analysis and Decision Making",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVL7071",
+        "title": "Environmental Quality Modeling",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVL7706",
+        "title": "Wastewater Engineering and Management",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVN7701",
+        "title": "Teaching and Research Practicum for Environmental Engineers",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "Teaching and Research Practicum for Environmental Engineers",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "CVD7792",
+        "title": "Major Project Part-I",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 12.0
+        },
+        "credits": 6.0
+      },
+      {
+        "course_code": "CVL7310",
+        "title": "Professional Ethics in Civil Engineering",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "CVN7701",
+        "title": "Teaching and Research Practicum for Environmental Engineers",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "Teaching and Research Practicum for Environmental Engineers",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "CVD7793",
+        "title": "Major Project Part-II",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      },
+      {
+        "course_code": "CVQ7708",
+        "title": "Environmental Engineering Seminar",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 1.0
+        },
+        "credits": 0.5
+      },
+      {
+        "course_code": "CVN7701",
+        "title": "Teaching and Research Practicum for Environmental Engineers",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "Teaching and Research Practicum for Environmental Engineers",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "CEV \u2013 M.Tech. in Environmental Engineering and Management\nM.Tech. in Environmental Engineering and Management\nCivil Engineering, Department of\nProgramme Code: CEV\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n48\nPE (Programme Elective)\n6\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n60\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nAcquire advanced knowledge of current environmental issues, challenges, and sustainable management practices in the field of environmental engineering. Demonstrate the ability to apply this knowledge to real-world scenarios, preparing students for professional practice or further learning in a multidisciplinary environment.\nPLO 2\nAnalyze the concentration, characteristics, and sources of environmental pollutants while incorporating management strategies for pollution control and mitigation. Demonstrate the ability to integrate scientific analysis with effective communication and collaborative problem-solving approaches.\nPLO 3\nDesign optimized technical solutions for contemporary environmental problems, integrating engineering principles and management strategies. Showcase the ability to develop and present sustainable solutions, emphasizing team collaboration and leadership in achieving long-term environmental goals.\nPLO 4\nEvaluate the environmental impact assessment of large-scale projects, incorporating both technical and management frameworks. Demonstrate an understanding of ethical, regulatory, and sustainability considerations in decision-making, while fostering personal and professional responsibility.\nPLO 5\nAssess both conventional and innovative technical solutions to resolve environmental issues, considering their feasibility and effectiveness in diverse real-world contexts. Emphasize critical thinking, collaboration, and ethical decision-making in applying management principles to implement and monitor solutions.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCVD7791 Cornerstone Project in Environmental Engineering 0 0 6 3\nCVD7792 Major Project Part-I 0 0 12 6\nCVD7793 Major Project Part-II \u2013 \u2013 \u2013 \u2013\nCVD7794 Minor Project in Environmental Engineering \u2013 \u2013 \u2013 \u2013\nCVL7071 Environmental Quality Modeling 2 0 2 3\nCVL7072 Environmental Systems Analysis and Decision Making 3 0 0 3\nCVL7310 Professional Ethics in Civil Engineering 1 0 0 1\nCVL7703 Water Engineering 3 0 0 3\nCVL7704 Solid Waste Engineering and Management 3 0 0 3\nCVL7705 Air-Noise Pollution and Climate 2 0 2 3\nCVL7706 Wastewater Engineering and Management 3 0 0 3\nCVL8710 Thermal Treatment Techniques for Waste Management 3 0 0 3\nCVN7701 Teaching and Research Practicum for Environmental Engineers 0 0 8 4\nCVP7701 Environmental Engineering Laboratory I 0 0 4 2\nCVP7702 Environmental Engineering Laboratory II 0 0 4 2\nCVP7707 Field Visit to Environmental Facilities 0 0 1 0.5\nCVQ7708 Environmental Engineering Seminar 0 0 1 0.5\nCVT7790 Summer Internship in Environmental Engineering 0 0 6 3\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCVL7052 Transportation Cyberphysical Systems 2 0 2 3\nCVL7709 Emerging Technologies for Environmental Management 3 0 0 3\nCVL8204 Life Cycle Assessment and Circular Economy 3 0 0 3\nCVL8703 Indoor Environmental Quality: Theory and Practice 2 0 2 3\nCVL8704 Particle Dynamics for Engineers 3 0 0 3\nCVL8705 Design of Water and Wastewater Treatment Plants 2 0 2 3\nCVL8707 Environmental Impact Assessment 3 0 0 3\nCVL8708 Fate of Emerging Contaminants in the Environment 3 0 0 3\nCVL8711 Industrial Waste Management 3 0 0 3\nCVL8715 Risk-Based Environmental Project Management 2 0 2 3\nSemester-wise Schedule\nSem\nCourses &amp; Baskets\nHrs /\nweek\nNGU\nCredits\n1"
+}

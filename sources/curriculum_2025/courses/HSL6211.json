@@ -1,0 +1,16 @@
+{
+  "code": "HSL6211",
+  "name": "Foundations in Digital Humanities",
+  "description": "This course will introduce students to the fundamental concepts in the digital humanities. This course is designed to be complementary to courses in digital humanities tools and methods and it will help students connect concepts learned in traditional humanities classrooms with new, evolving digital tools and interfaces.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL6211"
+}

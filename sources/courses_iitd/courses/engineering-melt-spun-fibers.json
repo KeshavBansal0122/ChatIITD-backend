@@ -1,0 +1,22 @@
+{
+  "code": "TXL7103",
+  "name": "Engineering of Melt Spun Fibers",
+  "description": "The course will introduce fluid flow and heat flow with specific application to fibre manufacturing, spinnability, thermodynamics of spinning, shear and elongation flow, flow instabilities such as extrudate swell, melt fracture and draw resonance, force balance on spinning line, low speed spinning (LSS), POY and high speed sinning (HSS), stress-induced crystallization and its effect on fibre spinning, specifics of nylon 6, PET and PP melt spinning, need for drawing and effect of parameters on structure and properties of fibres, need for heat-setting and the effect of parameters on structure and properties of fibres. Concepts of processing, structure and properties of emerging fibres.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Engineering of Melt Spun Fibers | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Engineering of Melt Spun Fibers"
+  ],
+  "department": "Polymer to Fibre Engineering",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/engineering-melt-spun-fibers",
+  "slug": "engineering-melt-spun-fibers"
+}

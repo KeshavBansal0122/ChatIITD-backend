@@ -1,0 +1,16 @@
+{
+  "code": "JRD8950",
+  "name": "Major Project Part I",
+  "description": "This project-based course provides students with the opportunity to undertake in-depth research or development in robotics, applying concepts from mechanics, control, perception, planning, and machine learning. With the help of a faculty mentor, students identify a real-world problem, design a robotic system or algorithmic solution, and validate it through simulation and experimentation.",
+  "credits": 6.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 12.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "J",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=J#JRD8950"
+}

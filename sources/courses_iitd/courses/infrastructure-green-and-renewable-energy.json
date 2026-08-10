@@ -1,0 +1,22 @@
+{
+  "code": "CVL7462",
+  "name": "Infrastructure for Green and Renewable Energy",
+  "description": "This course covers the need for renewable energy and its various forms, including hydropower, wind, solar, and ocean energy. It explores hydropower generation, dam design, and structural analysis. Wind energy topics include site selection, types of wind turbines, and detailed analysis and design of horizontal and vertical axis turbines. The course also covers solar energy infrastructure, focusing on the design of module mounting structures. Advanced topics include wave energy harvesting, vibrational energy harvesting, and mechanical energy storage devices. The course integrates theoretical concepts with practical design considerations for sustainable energy applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Infrastructure for Green and Renewable Energy | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Infrastructure for Green and Renewable Energy"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/infrastructure-green-and-renewable-energy",
+  "slug": "infrastructure-green-and-renewable-energy"
+}

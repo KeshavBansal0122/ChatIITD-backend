@@ -1,0 +1,16 @@
+{
+  "code": "MED7153",
+  "name": "Cornerstone Project",
+  "description": "The students as a team try solving a practical industrial engineering and operations research problem by applying the basic principles of IEOR. The course aims to create a productive environment to help students critically analyze an engineering problem together.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MED7153"
+}

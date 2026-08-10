@@ -1,0 +1,22 @@
+{
+  "code": "HSL7701",
+  "name": "Acoustic Phonetics",
+  "description": "The course covers key areas in acoustic phonetics, focusing on the production, transmission, and perception of speech sounds, as well as the acoustic properties of frequency, amplitude, and waveform. It also introduces students to various tools and techniques used in speech analysis, including waveform and spectral analysis. In addition, the course examines the acoustic characteristics of vowels, consonants, and suprasegmental features. A significant component of the course involves practical hands-on training, where students conduct experiments to develop skills in data collection, analysis, and interpretation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Acoustic Phonetics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Acoustic Phonetics"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/acoustic-phonetics",
+  "slug": "acoustic-phonetics"
+}

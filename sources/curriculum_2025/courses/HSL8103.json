@@ -1,0 +1,16 @@
+{
+  "code": "HSL8103",
+  "name": "Research Methods in Economics",
+  "description": "The course will cover theory and practice of doing empirical research in economics, with special emphasis on primary and secondary data uses. The course will familiarize students with sampling techniques, questionnaire design, implementation of field-based studies, including randomized controlled trials. Students will be provided training in software such as STATA, R, etc., for carrying out data analysis, including use of data sets such as the national sample survey, national family health survey, Indian human development survey.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL8103"
+}

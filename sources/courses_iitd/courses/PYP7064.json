@@ -1,0 +1,22 @@
+{
+  "code": "PYP7064",
+  "name": "Advanced Optical Workshop",
+  "description": "This laboratory course provides hands-on training in precision optical fabrication, metrology, and integration of advanced optical components. Students fabricate optical elements such as prisms, beam splitters, and shearing plates, aspheric optics using diamond turning process, diffractive and micro-optics using direct laser writing lithography within specified tolerances. \nThe precision metrology is also a part of the course with emphasis on metrology-driven correction of fabrication errors. It includes surface form and roughness using optical interferometric profilers, wavefront sensors and Fizeau ineterferometer.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Optical Workshop | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Optical Workshop"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-optical-workshop",
+  "slug": "advanced-optical-workshop"
+}

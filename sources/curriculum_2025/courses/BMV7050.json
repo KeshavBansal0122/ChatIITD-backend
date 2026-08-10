@@ -1,0 +1,16 @@
+{
+  "code": "BMV7050",
+  "name": "Mechanics of Biomaterials",
+  "description": "Forces and moments. Free body diagrams. Elastic, plastic, visco-elastic, visco-plastic materials. Bending, torsional and shear strength. Stress-strain relationships of linear and non-linear solids. Fatigue loading with and without corrosion. Fluid mechanics - shear thinning and shear thicknening fluids.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BM#BMV7050"
+}

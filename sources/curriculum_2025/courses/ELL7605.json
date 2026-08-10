@@ -1,0 +1,16 @@
+{
+  "code": "ELL7605",
+  "name": "Immersion Course for Industry Practices",
+  "description": "Overview of the Indian power sector structure; operational practices in generation, transmission, and distribution utilities; grid operation and load dispatch procedures; emerging trends such as renewable integration, digitalization, and smart grids; utility planning and asset management; electricity markets and tariff design; policy and regulatory processes; exposure to consultancy practices and project management; safety and quality standards in utility operations. The course will also include visits to control centres, expert lectures from industry professionals, and a short-term project or case study to consolidate experiential learning and enhance industry readiness.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7605"
+}

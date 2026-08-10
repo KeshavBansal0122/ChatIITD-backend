@@ -1,0 +1,1059 @@
+{
+  "code": "DD2",
+  "name": "B.Tech. in Design",
+  "generation": "2025",
+  "degree_type": "btech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=DD2",
+  "credit_requirements": [
+    {
+      "category": "BS",
+      "label": "Basic Sciences",
+      "credits_or_units": 24.0,
+      "kind": "graded"
+    },
+    {
+      "category": "GE",
+      "label": "General Engineering",
+      "credits_or_units": 24.0,
+      "kind": "graded"
+    },
+    {
+      "category": "HS",
+      "label": "Humanities and Social Sciences",
+      "credits_or_units": 15.0,
+      "kind": "graded"
+    },
+    {
+      "category": "DC",
+      "label": "Departmental Core",
+      "credits_or_units": 60.0,
+      "kind": "graded"
+    },
+    {
+      "category": "DE",
+      "label": "Departmental Electives",
+      "credits_or_units": 15.0,
+      "kind": "graded"
+    },
+    {
+      "category": "OC",
+      "label": "Open Category",
+      "credits_or_units": 9.0,
+      "kind": "graded"
+    },
+    {
+      "category": "NGU_LIFE",
+      "label": "Life skills",
+      "credits_or_units": 2.0,
+      "kind": "ngu"
+    },
+    {
+      "category": "NGU_ENGLISH",
+      "label": "English language learning",
+      "credits_or_units": 2.0,
+      "kind": "ngu"
+    },
+    {
+      "category": "NGU_PROJECT",
+      "label": "Departmental project, internship experience",
+      "credits_or_units": 2.0,
+      "kind": "ngu"
+    },
+    {
+      "category": "NGU_NCC",
+      "label": "NCC / NSO / NSS",
+      "credits_or_units": 2.0,
+      "kind": "ngu"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Develop core design and technical competencies to analyse problems as well as synthesize and communicate solutions"
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Demonstrate scientific temperament, integrity, personal and professional responsibility, and empathy for human beings and other species on this planet"
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Identify, analyse and solve challenging, ill-defined/wicked problems in the socio-technical systems using the design process within and across disciplines"
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "Apply their creative, research and analytical abilities to design sustainable, scalable and ethical solutions to issues of societal concern"
+    }
+  ],
+  "courses_by_category": {
+    "GE": [
+      {
+        "course_code": "ELL1000",
+        "title": "Introduction to Electrical Engineering",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEP1000",
+        "title": "Engineering Visualization",
+        "hours": {
+          "lecture": "0.5",
+          "tutorial": "0",
+          "practical": "3"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "MEP1001",
+        "title": "Manufacturing for Product Innovation",
+        "hours": {
+          "lecture": "0.5",
+          "tutorial": "0",
+          "practical": "3"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "COL1000",
+        "title": "Introduction to Programming",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AML1000",
+        "title": "Engineering Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      }
+    ],
+    "BS": [
+      {
+        "course_code": "CMP1000",
+        "title": "Chemistry Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "MTL1001",
+        "title": "Mathematics I Calculus",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "PYL1002",
+        "title": "Waves and Oscillations",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYP1000",
+        "title": "Physics Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "MTL1002",
+        "title": "Mathematics II Linear Algebra and Differential Equations",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SBP1100",
+        "title": "Experimental Biology for Engineers",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "1"
+      }
+    ],
+    "DC": [
+      {
+        "course_code": "DDL2000",
+        "title": "Ergonomics and Human Factors",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDL2001",
+        "title": "Methods for Design Thinking",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDL2111",
+        "title": "Understanding Design and Environment",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDL2120",
+        "title": "Behavioural Design",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDL3001",
+        "title": "Systems and Lifecycle Perspectives in Design",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDL4004",
+        "title": "Design Management and Entrepreneurship",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDP1010",
+        "title": "Ergonomics in Design",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDP1026",
+        "title": "Introduction to Design",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "DDP2121",
+        "title": "Computer Aided Design",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDP2201",
+        "title": "Materials and Prototyping",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDP2280",
+        "title": "Art and Craft Practicum",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDP3008",
+        "title": "Design Communication and Presentation",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDP3195",
+        "title": "Design Project 1 on Sustainable Development Goals",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDP3295",
+        "title": "Design Project-2",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDP4195",
+        "title": "Design Project-3",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDP4295",
+        "title": "Design Project cum Thesis-4",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDT2900",
+        "title": "Social Immersion",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      }
+    ],
+    "HS": [
+      {
+        "course_code": "HSL2100",
+        "title": "Introduction to Economics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL2102",
+        "title": "Macroeconomics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL2510",
+        "title": "Philosophy Through Puzzles and Paradoxes",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL2605",
+        "title": "Sociological Perspectives on Organisations",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL2710",
+        "title": "Words in the World",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL2742",
+        "title": "Fundamentals of Language Sciences",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ],
+    "BS_ELEC": [
+      {
+        "course_code": "CML1001",
+        "title": "Structural Insights into Atoms and Molecules",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML1002",
+        "title": "The Art and Science of Building Molecules and Materials",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL1001",
+        "title": "Introduction to Electrodynamics",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL1003",
+        "title": "Mechanics and Special Theory of Relativity",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SBL1100",
+        "title": "Introduction to Biology",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "SBL1102",
+        "title": "Modern Biology: Principles and Applications",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ],
+    "GE_ELEC": [
+      {
+        "course_code": "COL1101",
+        "title": "Programming with Data Structures",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CVL2001",
+        "title": "Climate Change and Adaptation",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "ELL1205",
+        "title": "Signals and Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ELL1401",
+        "title": "Digital Electronics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEL1140",
+        "title": "Thermodynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MLL1001",
+        "title": "Introduction to Materials Science and Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL2006",
+        "title": "Introduction to Probability and Stochastic Processes",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL2008",
+        "title": "Introduction to Probability and Statistics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SBL1100",
+        "title": "Introduction to Biology",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "SBL1102",
+        "title": "Modern Biology: Principles and Applications",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ],
+    "DE": [
+      {
+        "course_code": "DDL7000",
+        "title": "Systematic Product Design and Development",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDP2009",
+        "title": "Design Futures",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDP7042",
+        "title": "Universal Design",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDP7123",
+        "title": "Design for Environmental Change",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDR8109",
+        "title": "Strategic UX Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDR8222",
+        "title": "Design for Sustainability",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDR8522",
+        "title": "Strategic Design Management",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "ELL1000",
+        "title": "Introduction to Electrical Engineering",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 1.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "MEP1000",
+        "title": "Engineering Visualization",
+        "hours": {
+          "lecture": 0.5,
+          "tutorial": 0.0,
+          "practical": 3.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "MEP1001",
+        "title": "Manufacturing for Product Innovation",
+        "hours": {
+          "lecture": 0.5,
+          "tutorial": 0.0,
+          "practical": 3.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "CML1002",
+        "title": "The Art and Science of Building Molecules and Materials",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CMP1000",
+        "title": "Chemistry Laboratory",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "MTL1001",
+        "title": "Mathematics I Calculus",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "DAN1100",
+        "title": "Life Skills 1",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 1.5
+        },
+        "credits": 0.75
+      },
+      {
+        "basket": "L1002 The Art and Science of Building Molecules and Materials",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "basket": "English Language Courses",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 1.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "COL1000",
+        "title": "Introduction to Programming",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "PYL1002",
+        "title": "Waves and Oscillations",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYP1000",
+        "title": "Physics Laboratory",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "MTL1002",
+        "title": "Mathematics II Linear Algebra and Differential Equations",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "DDP1026",
+        "title": "Introduction to Design",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "Mathematics II Linear Algebra and Differential Equations",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "English Language Courses",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 1.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "AML1000",
+        "title": "Engineering Mechanics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "SBP1100",
+        "title": "Experimental Biology for Engineers",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "DDL2001",
+        "title": "Methods for Design Thinking",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "DDP2110",
+        "title": "Aesthetics in Design",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "DDL2111",
+        "title": "Understanding Design and Environment",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "DDP2121",
+        "title": "Computer Aided Design",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "DDP2201",
+        "title": "Materials and Prototyping",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "DDL2120",
+        "title": "Behavioural Design",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "DDP2280",
+        "title": "Art and Craft Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "DDT2900",
+        "title": "Social Immersion",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "DAN2100",
+        "title": "Life Skills 2",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 1.5
+        },
+        "credits": 0.75
+      },
+      {
+        "course_code": "DDL2000",
+        "title": "Ergonomics and Human Factors",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      }
+    ],
+    "5": [
+      {
+        "course_code": "DDP3008",
+        "title": "Design Communication and Presentation",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "DDL3001",
+        "title": "Systems and Lifecycle Perspectives in Design",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "DDP3195",
+        "title": "Design Project 1 on Sustainable Development Goals",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      }
+    ],
+    "6": [
+      {
+        "course_code": "DDL3299",
+        "title": "Emerging Trends and Technologies in Design",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "DDP3006",
+        "title": "UX Design for Contemporary Technologies",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "DDP3295",
+        "title": "Design Project-2",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      }
+    ],
+    "7": [
+      {
+        "course_code": "DDL4004",
+        "title": "Design Management and Entrepreneurship",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "DDP4195",
+        "title": "Design Project-3",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      }
+    ],
+    "8": [
+      {
+        "course_code": "DDP4295",
+        "title": "Design Project cum Thesis-4",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 18.0
+        },
+        "credits": 9.0
+      }
+    ]
+  },
+  "raw_text_preview": "DD2 \u2013 B.Tech. in Design\nB.Tech. in Design\nDesign, Department of\nProgramme Code: DD2\nB. Tech.\nOverall Credit Structure\nCourse Category Credits\nBS (Basic Sciences)\n24\nGE (General Engineering)\n24\nHS (Humanities and Social Sciences)\n15\nDC (Departmental Core)\n60\nDE (Departmental Electives)\n15\nOC (Open Category)\n9\nTotal Graded Credit Requirement\n147\nNon-Graded Units (NGU) Units\nLife skills\n2\nEnglish language learning\n2\nDepartmental project, internship experience\n2\nNCC / NSO / NSS\n2\nTotal Non-Graded Units\n8\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nDevelop core design and technical competencies to analyse problems as well as synthesize and communicate solutions\nPLO 2\nDemonstrate scientific temperament, integrity, personal and professional responsibility, and empathy for human beings and other species on this planet\nPLO 3\nIdentify, analyse and solve challenging, ill-defined/wicked problems in the socio-technical systems using the design process within and across disciplines\nPLO 4\nApply their creative, research and analytical abilities to design sustainable, scalable and ethical solutions to issues of societal concern\nGeneral Engineering Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nELL1000 Introduction to Electrical Engineering 2 1 2 4\nMEP1000 Engineering Visualization 0.5 0 3 2\nMEP1001 Manufacturing for Product Innovation 0.5 0 3 2\nCOL1000 Introduction to Programming 3 0 2 4\nAML1000 Engineering Mechanics 3 1 0 4\nBasic Science Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCMP1000 Chemistry Laboratory 0 0 4 2\nMTL1001 Mathematics I Calculus 3 1 0 4\nPYL1002 Waves and Oscillations 2 1 0 3\nPYP1000 Physics Laboratory 0 0 4 2\nMTL1002 Mathematics II Linear Algebra and Differential Equations 3 1 0 4\nSBP1100 Experimental Biology for Engineers 0 0 2 1\nDepartmental Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nDDL2000 Ergonomics and Human Factors \u2013 \u2013 \u2013 \u2013\nDDL2001 Methods for Design Thinking 2 0 2 3\nDDL2111 Understanding Design and Environment 2 0 2 3\nDDL2120 Behavioural Design \u2013 \u2013 \u2013 \u2013\nDDL3001 Systems and Lifecycle Perspectives in Design \u2013 \u2013 \u2013 \u2013\nDDL4004 Design Management and Entrepreneurship \u2013 \u2013 \u2013 \u2013"
+}

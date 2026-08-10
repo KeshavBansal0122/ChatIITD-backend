@@ -1,0 +1,22 @@
+{
+  "code": "CVL7511",
+  "name": "Management of Transportation Infrastructure Systems",
+  "description": "Transportation infrastructure components; deterioration phenomena; effect of external factors like environment, traffic loading, material properties on deterioration mechanisms; evaluation techniques to evaluate damage: destructive, nondestructive; performance models: development, calibration; infrastructure management systems; serviceability of condition and safety; decision making and optimization techniques applied to infrastructure management; life cycle cost analysis techniques.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "CVL7501",
+  "overlap": null,
+  "learning_outcomes": [
+    "Management of Transportation Infrastructure Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Management of Transportation Infrastructure Systems"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/management-transportation-infrastructure-systems",
+  "slug": "management-transportation-infrastructure-systems"
+}

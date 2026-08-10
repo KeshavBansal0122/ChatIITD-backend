@@ -1,0 +1,22 @@
+{
+  "code": "MEL7307",
+  "name": "Smart Manufacturing",
+  "description": "Basics of automation technologies and their applications in manufacturing, industrial revolutions, concept of smart factory, key characteristics and economic potential of smart manufacturing, overview of smart manufacturing technologies, understanding digital transformation, automated versus autonomous manufacturing, cyber physical production systems, fundamentals of industrial IOT, 3-tier architecture and implementation, digital thread, augmented, virtual and mixed reality application in manufacturing, manufacturing data capture and analytics, quality 4.0, smart machines, robotic application in manufacturing, digital twins, sustainable manufacturing, circular economy, industrial revolution 5.0, use cases from discrete manufacturing application.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Smart Manufacturing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Smart Manufacturing"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/smart-manufacturing",
+  "slug": "smart-manufacturing"
+}

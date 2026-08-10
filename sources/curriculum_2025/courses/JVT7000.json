@@ -1,0 +1,16 @@
+{
+  "code": "JVT7000",
+  "name": "Internship",
+  "description": "A hands-on industrial project in the domain of VLSI design or semiconductor devices and system or packaging or in VLSI design tools, in which the student will apply theoretical, computational and experimental knowledge to practical challenges.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "J",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=J#JVT7000"
+}

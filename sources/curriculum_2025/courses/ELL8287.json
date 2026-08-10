@@ -1,0 +1,16 @@
+{
+  "code": "ELL8287",
+  "name": "Cloud Computing",
+  "description": "Cloud computing fundamentals: cloud computing basics, cloud enabling technologies, Virtualization, containerization (including Docker and Kubernetes). Cloud computing mechanisms: cloud infrastructure mechanisms, cloud management mechanisms, cloud security mechanisms. Cloud computing architecture. Working with clouds: cloud delivery models, cloud deployment models (including details of any one public cloud), cost metrics and pricing models, service quality metrics. Cloud-native applications: advantages, challenges and key components.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL8287"
+}

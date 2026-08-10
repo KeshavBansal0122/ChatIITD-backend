@@ -1,0 +1,22 @@
+{
+  "code": "AIL7024",
+  "name": "Machine Learning",
+  "description": "Nature of intelligence and learning; statistical foundations and the frequentist-Bayesian divide; notions of tasks, models, and features; linear regression and classification models; kernels and SVMs; decision trees and random forests; naive Bayes, logistic regression, and neural networks; key advances in modern deep learning; k-means, Gaussian mixture models, EM algorithm; PCA and autoencoders; basics of statistical learning theory.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "MTL1106/MTL2008",
+  "overlap": null,
+  "learning_outcomes": [
+    "Machine Learning | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Machine Learning"
+  ],
+  "department": "Introductory Data Science",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/machine-learning",
+  "slug": "machine-learning"
+}

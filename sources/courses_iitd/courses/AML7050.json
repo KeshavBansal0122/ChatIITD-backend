@@ -1,0 +1,22 @@
+{
+  "code": "AML7050",
+  "name": "Experimental Methods for Solids & Fluids",
+  "description": "Types of measurement and errors, internal and external estimates of errors, relative frequency distribution, histogram, true value, precision of measurement, best estimate of true value and standard deviation, combination of measurements, accuracy of the mean, significant digits. Methods of least squares and its application to the calculation of best estimate of the true value, the curve fitting, general linear regression, comparison and combination of measurements. Extensions of least square method, principle of maximum likelihood, and goodness of fit, chi-square test, dynamic response of a measuring instrument, response to transient and periodic signals, first and second order systems as well as their dynamics response characteristics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Experimental Methods for Solids & Fluids | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Experimental Methods for Solids & Fluids"
+  ],
+  "department": "Experimental Methods",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/experimental-methods-solids-fluids",
+  "slug": "experimental-methods-solids-fluids"
+}

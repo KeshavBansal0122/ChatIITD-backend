@@ -1,0 +1,22 @@
+{
+  "code": "VEN8001",
+  "name": "Research Practicum in Value Education",
+  "description": "Introduction to research communication, poster preparation, oral presentation, and paper writing.\nLiterature review - methodologies and standard tools.\nResearch methodology - problem formulation, design/implementation, evaluation.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Research Practicum in Value Education | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Research Practicum in Value Education"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/research-practicum-value-education",
+  "slug": "research-practicum-value-education"
+}

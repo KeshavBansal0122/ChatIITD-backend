@@ -1,0 +1,16 @@
+{
+  "code": "JCP7181",
+  "name": "Advanced Data Structure and Algorithms Lab",
+  "description": "Basics of algorithm analysis. Elementary data structures. Hashing, analysis of collision resolution techniques. Priority queues. Dynamic programming: rod cutting problem, matrix multiplication, longest common sequence, optimal binary search tree. Greedy algorithms: Huffman coding, activity selection problem, knapsack problem. Sparse matrices manipulation. String matching, matching DNA sequences. Cryptography. System security. Network security.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "J",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=J#JCP7181"
+}

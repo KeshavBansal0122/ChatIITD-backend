@@ -1,0 +1,16 @@
+{
+  "code": "SPL7777",
+  "name": "System Dynamics Modeling for Policy Analysis",
+  "description": "We are confronted with sinking groundwater levels, depleting soils, shrinking forest area, loss of biodiversity and a warming climate. At the same time, we now have unprecedented access to technologies which work with ever greater efficiency. Yet, our problems seem to get worse, and not better. Systems thinking and system dynamics modelling is an interdisciplinary approach that helps us understand counter-intuitive behaviour such as this, and to explain why well-meaning policies and management decisions too often lead to undesirable results. This course is appropriate for students interested in technology, policy, management and planning. Course content will be as follows: introduction to systems thinking and system dynamics modeling; causal representation and feedbacks; introduction to Vensim; qualitative modeling of policy issues using causal loop diagram; system archetypes, leverage point analysis; participatory group model building; building stock and flow representation of models; behaviour over time graphs; one stock and two stock models; exponential growth or decay behaviour of systems; oscillation and S-shaped growth; system overshoot and collapse behaviour; modeling soft variables and human behaviour; building large models and designing scenarios; sensitivity analysis.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SP",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SP#SPL7777"
+}

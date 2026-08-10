@@ -1,0 +1,16 @@
+{
+  "code": "CVL7811",
+  "name": "Stochastic Hydrology",
+  "description": "Introduction to probability and random variables; expectation, moments, joint and conditional distributions; stochastic processes; concepts of stationarity and non-stationarity in hydrologic systems; autocorrelation and partial autocorrelation; autoregressive, moving average, and autoregressive integrated moving average (ARIMA) models; model selection and validation; Markov chains and transition probabilities; weather generators and temporal disaggregation; spectral analysis and frequency domain methods; wavelet analysis for non-stationary signals; uncertainty propagation in hydrologic modeling and risk analysis; reliability, resilience, and vulnerability metrics; fuzzy theory; applications in hydrologic forecasting, climate-informed design, and decision-making under uncertainty.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7811"
+}

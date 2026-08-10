@@ -1,0 +1,22 @@
+{
+  "code": "CVP8601",
+  "name": "Advanced Rock Mechanics Lab",
+  "description": "Project planning for rock slopes and tunnels, DPR and GD for major projects in rocks, field visit, rock sample collection, scanline survey and seismic survey of rock masses, rock characterization at field and laboratory, determination of physical and mechanical properties of rocks. Boundary element method in rock tunnels. Analysis of rock tunnels using both continuum, discontinuum and hybrid rock modelling platforms, ground reaction curve and longitudinal displacement profile, sequential excavation modelling and support design in tunnels. Synthetic rock mass models and case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": "CVP7601",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Rock Mechanics Lab | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Rock Mechanics Lab"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-rock-mechanics-lab",
+  "slug": "advanced-rock-mechanics-lab"
+}

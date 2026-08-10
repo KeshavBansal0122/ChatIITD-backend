@@ -1,0 +1,16 @@
+{
+  "code": "SIL8001",
+  "name": "Professional Ethics in Applied Computing",
+  "description": "Learn and understand the ethical guidelines defined by various professional bodies such as ACM, IEEE computer society, as well as the guidelines of the institute. The course will familiarise the students with the responsible use of various GenAI tools, online resources, content from research / patent documents, and others, in their research and developmental activities.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SI",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SI#SIL8001"
+}

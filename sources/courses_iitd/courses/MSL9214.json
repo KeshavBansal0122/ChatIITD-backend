@@ -1,0 +1,22 @@
+{
+  "code": "MSL9214",
+  "name": "Advanced Data Analysis in Management",
+  "description": "Descriptive vs. Inferential Analysis, Parametric vs. Non-parametric Analysis, Univariate, Bivariate and multivariate analysis, Hypothesis Testing and Estimation, ANCOVA, MANOVA, Logit Regression, Tobit Regression, Panel Regression. Factor Analysis, Cluster Analysis, Discriminant Analysis, Structural Equation Modelling.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Data Analysis in Management | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Data Analysis in Management"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-data-analysis-management",
+  "slug": "advanced-data-analysis-management"
+}

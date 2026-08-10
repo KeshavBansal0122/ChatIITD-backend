@@ -1,0 +1,16 @@
+{
+  "code": "AML7900",
+  "name": "Reliability Analysis and Reliability-Based Design Optimization",
+  "description": "Introduction to Uncertainty in Engineering, Probability and Statistics for Reliability, Limit States and Performance Functions, First-order Second Moment (FOSM) Methods in Reliability, First Order Reliability Methods (FORM), Second Order Reliability Methods (SORM), Simulation-based Approaches in Reliability, Response Surface Method, Design of Experiments, and Surrogate Models for Reliability Analysis, System Reliability (Series, Parallel, Complex Systems), Reliability Sensitivity Analysis, Introduction to RBDO and Problem Formulation, RBDO Solution Methods (Double-Loop, Single-Loop), Case Studies in RBDO, Emerging Topics and Course Wrap-Up.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AML7900"
+}

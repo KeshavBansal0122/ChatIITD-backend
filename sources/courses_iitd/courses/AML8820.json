@@ -1,0 +1,22 @@
+{
+  "code": "AML8820",
+  "name": "Generative Design",
+  "description": "Introduction to Engineering Design and AI, Single and Multi-objective Design Optimization, Recap of fundamentals of deep learning, Similarity, Norms, and Feature Engineering, Introduction to Generative Models, Latent Variable Models, Variational Inference, Variational Autoencoders, Adversarial Learning, Generative Adversarial Networks, Energy Based Models, Diffusion and Score based Models, Flow matching, Computational Design and Constraint Handling, Data Preparation and Engineering Knowledge Encoding, Simulation Integration and Feedback Loops, Automation of Engineering Workflows, Ethical, Legal, and Regulatory Aspects, AI for Sustainable and Resilient Design, Challenges and Limitations in Generative Engineering, Future of Engineering Design with AI",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(AML7010&AML7800/AML7810/AML8800/AIL7024/ELL7286/COL7341) /(AML3050&AML3030/COL3341)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Generative Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Generative Design"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/generative-design",
+  "slug": "generative-design"
+}

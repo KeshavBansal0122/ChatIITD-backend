@@ -1,0 +1,21 @@
+{
+  "code": "ASD8810",
+  "name": "Project I",
+  "description": "MTech major project part I.",
+  "credits": 6.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 12.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Project I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/project-i",
+  "slug": "project-i"
+}

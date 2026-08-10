@@ -1,0 +1,16 @@
+{
+  "code": "MEL7125",
+  "name": "Stochastic Simulation Development and Analysis",
+  "description": "Stochastic simulation definition; types of stochastic simulation: Monte Carlo, discrete-event, and agent-based; simulation development process: conceptual modeling, input modeling, programming, verification and validation, output modeling and analysis; random number and random variate generation; number of replications; output estimators and variance reduction; simulation experiment design; simulation optimization: ranking and selection, locally and globally convergent random search methods.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL7125"
+}

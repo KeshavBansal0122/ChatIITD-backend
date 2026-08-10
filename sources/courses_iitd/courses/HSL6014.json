@@ -1,0 +1,22 @@
+{
+  "code": "HSL6014",
+  "name": "Development Economics",
+  "description": "Measurement of poverty and inequality, aspects of social inequality including caste, gender, religion, the link between social and economic inequality, as well as between those with political inequality are some of the themes that will be discussed. The course will include a short philosophical introduction to social justice. Drawing on a historical international perspective, students will be introduced to ideas of development and welfare. The main focus of the course is on understanding how the welfare state in India aims to make advances on these fronts, the variations across the country, and the gaps in our development strategy. Agriculture, food security, labour, education, health, nutrition, social support and technology.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Development Economics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Development Economics"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/development-economics",
+  "slug": "development-economics"
+}

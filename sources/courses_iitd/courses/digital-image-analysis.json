@@ -1,0 +1,22 @@
+{
+  "code": "COL3683",
+  "name": "Digital Image Analysis",
+  "description": "Basic image operations, transformations, resampling. Image enhancement and spatial filtering. Image restoration: denoising and deconvolution. Tomographic reconstruction. Colour and multispectral images. Image transforms, pyramids, and wavelets. Image and video compression. Morphological image processing. Edge detection and image segmentation. Feature extraction from images. Neural networks for image analysis and generation.",
+  "credits": 4.5,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "prereq": "(COL3655)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Digital Image Analysis | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Digital Image Analysis"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/digital-image-analysis",
+  "slug": "digital-image-analysis"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MEL7121",
+  "name": "Pricing and Revenue Management",
+  "description": "Dynamic pricing and revenue optimization, market segmentation, price differentiation, applications: airlines, e-commerce, railways, automobiles, internet pricing models, demand estimation, forecasting and learning: ARMA, ARIMA, exponential smoothing, dynamic regression models, capacity-based single resource revenue management, Littlewood\u2019s model, computation approaches such as expected marginal seat revenue (EMSR), customer choice behaviour, revenue management systems set-up, capacity-based network revenue management, optimal network controls, optimization models and their limitations in solving network revenue management, approximations, heuristics, network revenue management systems, overbooking, dynamic pricing \u2013 single-product, multi-product, promotions optimization, auctions - types of auctions, independent private-value theory, game-theoretic analysis of auctions, revenue equivalence, optimization, learning and simulation-based techniques for revenue management.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "MEL3025/MTL2008",
+  "overlap": null,
+  "learning_outcomes": [
+    "Pricing and Revenue Management | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Pricing and Revenue Management"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/pricing-and-revenue-management",
+  "slug": "pricing-and-revenue-management"
+}

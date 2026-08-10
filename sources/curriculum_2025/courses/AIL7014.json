@@ -1,0 +1,16 @@
+{
+  "code": "AIL7014",
+  "name": "Introduction to Optimization",
+  "description": "Optimization and loss functions, convergence of gradient descent, sub-gradient and conjugate gradient, aspects of SGD, constrained optimization andduality, non-convex optimization, online optimization, second-order methods, special topics (robust, distributed, federated) optimization.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AI",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AI#AIL7014"
+}

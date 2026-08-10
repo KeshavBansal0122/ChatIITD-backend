@@ -1,0 +1,22 @@
+{
+  "code": "MEL7215",
+  "name": "Acoustics and Noise Control",
+  "description": "Waves in strings, rods, beams, acoustic wave equation, reflection and transmission of waves, sound sources and generation mechanisms, human physiological response to noise, sound measurement and instrumentation, sound in enclosed spaces, sound absorption, acoustic enclosures and barriers, sound propagation in ducts, mufflers, numerical acoustics (modeling using FEM/BEM).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Acoustics and Noise Control | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Acoustics and Noise Control"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/acoustics-and-noise-control",
+  "slug": "acoustics-and-noise-control"
+}

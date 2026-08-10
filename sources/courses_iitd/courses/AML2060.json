@@ -1,0 +1,22 @@
+{
+  "code": "AML2060",
+  "name": "Experimental Methods",
+  "description": "Experimental analysis: types of measurements and errors; propagation of errors; representation of data; measures of central tendency and dispersion; method of least squares; linear regression. Theory of errors; binomial, Poisson and Gaussian distributions; chi-square test. Dynamic behaviour of instruments: modelling of instruments; first and second order instruments and their response to various inputs. Extension to higher order systems; compensation. Measurement devices: basic elements of a measuring device; transducers and intermediate elements; measurement of various quantities of engineering interest such as displacement, force, torque and power, temperature, pressure, flowrate, etc. Laboratory sessions: carefully planned experiments to illustrate and complement the material discussed in the lectures. Special topics: introduction to design of experiments. Analog to digital converters and data acquisition systems.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Experimental Methods | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Experimental Methods"
+  ],
+  "department": "Experimental Methods for Solids & Fluids",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/experimental-methods",
+  "slug": "experimental-methods"
+}

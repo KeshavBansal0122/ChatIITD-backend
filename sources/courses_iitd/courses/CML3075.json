@@ -1,0 +1,22 @@
+{
+  "code": "CML3075",
+  "name": "Synthesis and Reactions of Heterocycles and Biomolecules",
+  "description": "Nomenclature of Heterocyclic ring systems, Structure, reactivity and synthesis of reduced three membered Heterocycles:Oxiranes, Thiirane and Aziridine; reduced four membered Heterocycles: Oxetane, Thietane, Azetine; five-membered Heterocycles with one hetero atom: Pyrrole, Thiophene, Furan; five membered Heterocycles with two hetero atom: Pyrazole, Imidazole, Oxazole, Thiazole; reduced Six membered Heterocycles, Pyridine, heterynes, pyridones, N-oxides; Aromatic heterocyclics Indole, Quinoline and Isoquinoline, Coumarins and Chromones, Introduction to carbohydrates; common protecting groups and protecting group strategies; glycosylation, amino acids, solid phase peptide synthesis, Nucleic acids.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Synthesis and Reactions of Heterocycles and Biomolecules | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Synthesis and Reactions of Heterocycles and Biomolecules"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/synthesis-and-reactions-heterocycles-and-biomolecules",
+  "slug": "synthesis-and-reactions-heterocycles-and-biomolecules"
+}

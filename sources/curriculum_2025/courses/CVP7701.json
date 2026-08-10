@@ -1,0 +1,16 @@
+{
+  "code": "CVP7701",
+  "name": "Environmental Engineering Laboratory I",
+  "description": "Lab safety protocols; water and wastewater quality parameters, pH, turbidity, conductivity, solids, acidity, alkalinity, hardness, dissolved ions, heavy metals, biochemical oxygen demand, chemical oxygen demand, total organic carbon. Sedimentation tests, jar test for coagulation, hardness removal, heavy metal precipitation. Microbiology-multiple tube fermentation technique, membrane filtration and colony counting, gram staining. Solid waste characteristics: proximate and ultimate analyses.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVP7701"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "MTL5004",
+  "name": "Introduction to Computer Programming",
+  "description": "Introduction to python, basic concepts and data organization, data types, data structures, operators, built-in functions, strings, conditional and loop based control structures, if/else statements, for/while loops, iterating, functions, modules, importing, lists and tuples, slicing techniques, dictionaries and classes, mathematical operations, object-oriented programming, recursions, inheritance, files, handling exceptions, operations on arrays, operations on singly and doubly linked structures, searching and sorting algorithms, linking python with data science, NumPy, pandas, data visualization, exploratory data analysis (python will be used for all concepts and modules).",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTL5004"
+}

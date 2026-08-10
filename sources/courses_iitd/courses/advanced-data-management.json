@@ -1,0 +1,22 @@
+{
+  "code": "COL7360",
+  "name": "Advanced Data Management",
+  "description": "Parallel and distributed databases (database design, transparency, parallel algorithms, distributed storage/query processing/optimization), distributed transactions (atomicity, isolation, replication and consistency), NoSQL databases (key-value stores, column stores, NoSQL systems, CAP theorem, eventual consistency), dataflow engines (batch versus dataflow paradigms, programming abstractions), stream data management (stream versus batch, time semantics and watermarks, window semantics and operators, approximate query processing), graph data management (graph data models such as RDF, querying with SPARQL, graph storage/indexing, graph data management systems), data integration and cleaning (schema mapping - GAV/LAV/GLAV models, rule-based and ML-based data cleaning methods), AI/ML for data management (ML pipelines in databases, learned indexes, query optimization), responsible and sustainable data management (sustainability, data governance, ethics).",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "COL3362",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Data Management | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Data Management"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-data-management",
+  "slug": "advanced-data-management"
+}

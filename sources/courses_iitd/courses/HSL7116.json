@@ -1,0 +1,22 @@
+{
+  "code": "HSL7116",
+  "name": "Dynamic Methods in Economics",
+  "description": "Dynamic programming and optimal control techniques are usefully applied in dynamic models of economics, game theory and beyond. This is a course in formal methodology of economics and develops the Bellman equations of optimality and its solution methods - the value iteration and policy iteration algorithms. Optimal stopping problems are discussed as a leading application, in addition to some canonical applications like the search model. Reinforcement learning techniques are introduced. The second half of the course develops the maximum principle for optimal control and discusses many prototypical economic applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Dynamic Methods in Economics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Dynamic Methods in Economics"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/dynamic-methods-economics",
+  "slug": "dynamic-methods-economics"
+}

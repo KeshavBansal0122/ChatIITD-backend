@@ -1,0 +1,22 @@
+{
+  "code": "JGP5007",
+  "name": "Brain and Cognitive Sciences Lab",
+  "description": "This course will provide students with practicum skills that are critical for research in cognitive sciences, the course will train students for Part 1: understanding of neurons and neuronal processes, Part II: recording of eye movement, brain activity during cognitive processes (visual perception, language, cognitive tasks), behavioral studies under controlled conditions, Part III: Brain and neuroimaging focused on MRI and brain signal processing, gait analysis. The lab course will equip a student with an understanding of data collection, analysis, and interpretation of physiological, neuroscientific, behavioral methodologies that contribute to research in brain and cognitive science.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Brain and Cognitive Sciences Lab | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Brain and Cognitive Sciences Lab"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/brain-and-cognitive-sciences-lab",
+  "slug": "brain-and-cognitive-sciences-lab"
+}

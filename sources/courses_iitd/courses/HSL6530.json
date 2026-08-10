@@ -1,0 +1,22 @@
+{
+  "code": "HSL6530",
+  "name": "Introduction to Philosophy of AI",
+  "description": "This course explores two kinds of philosophical issues concerning artificial intelligence. The first involves assessing the status of AI systems as intelligent agents: can machines that perform a breadth of tasks rival the adeptness and flexibility of human thought? What does our understanding of agency and cognition teach us about machines, and vice versa? The second concerns the increasing use of AI in society: in ways do our interactions with AI systems affect how humans think, learn and reason? What is the nature of biases and mistakes in AI decision-making? Is it possible to align machines with desirable values to ensure safe outcomes?",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Philosophy of AI | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Philosophy of AI"
+  ],
+  "department": "History and Philosophy of Artificial Intelligence",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-philosophy-ai",
+  "slug": "introduction-philosophy-ai"
+}

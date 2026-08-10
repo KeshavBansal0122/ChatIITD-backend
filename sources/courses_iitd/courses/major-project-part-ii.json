@@ -1,0 +1,22 @@
+{
+  "code": "CHD7815",
+  "name": "Major Project Part-II",
+  "description": "Formulation of the problem, literature survey, writing technical report, planning and execution of the project work within the stipulated time frame, analysis and interpretation of the obtained data. Presentation of results and scientific reporting in the form of a thesis and presentation.",
+  "credits": 12.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 24.0
+  },
+  "prereq": "CHD7814",
+  "overlap": null,
+  "learning_outcomes": [
+    "Major Project Part-II | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Major Project Part-II"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/major-project-part-ii",
+  "slug": "major-project-part-ii"
+}

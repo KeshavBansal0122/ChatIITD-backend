@@ -1,0 +1,21 @@
+{
+  "code": "MEL7304",
+  "name": "Metrology",
+  "description": "Introduction to dimensional metrology, standardization, interchangeability, selective assembly, Indian standard specifications, application of tolerances, limit gauging\u2014Taylor\u2019s principles of limit gauging, design of gauges, inspection by measurement; interferometers. Geometric dimensioning and tolerancing, applications of dimensional inspection, inspection of surface quality, feature inspection- straightness, flatness, parallelism, squareness, circularity and roundness. Automated dimensional measurements: introduction, automatic gauging, automatic measuring machines for inspecting multiple workpiece dimensions, automatic gauging machine part-matching functions, coordinate measuring machines - types, probes, accessories, measurement, computer-supported coordinate measurements.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Metrology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/metrology",
+  "slug": "metrology"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ELL8502",
+  "name": "High Power Converters",
+  "description": "Introduction to High Power devices \u2013 IGBT, Thyristor, SiC MOSFET. Different topologies of high power converters \u2013 2- level voltage source converters, 3 level NPC converter, Cascaded H-Bridge Multilevel Converters, Modular multilevel converters, IPOS and ISOP connections, Solid state transformer. Pulse width modulation techniques for high power converters \u2013 Level shifted PWM, Phase shifted PWM, 3rd harmonic addition, Space vector PWM for multilevel converters. Design of high power converter components, operational issues, fault tolerant operation, reliability, mechanical and thermal design, loss calculations. Design of closed loop contollers for high power converters. Design of filters for high power converters. Relevant IEEE and IEC standards for high power converters. Application in power transmission, EV charging, traction and motor drives etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "High Power Converters | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "High Power Converters"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/high-power-converters",
+  "slug": "high-power-converters"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "RDL7728",
+  "name": "Rural Energy Assessment and Planning",
+  "description": "Present energy sources; energy conversion, trade and infrastructure; energy inclusion and development; energy access and policy; rural energy database (REDB); rural energy planning; assessing local energy demand; rural energy sources; bioenergy resource assessment; solar energy resource assessment; wind energy resource assessment; small hydro resource assessment; geothermal and other resources and global best practices.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "RD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=RD#RDL7728"
+}

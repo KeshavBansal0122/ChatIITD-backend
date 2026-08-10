@@ -1,0 +1,22 @@
+{
+  "code": "PYL5056",
+  "name": "Quantum Mechanics II",
+  "description": "Time-independent perturbation, time-dependent perturbation, Rayleigh\u2013Schr\u00f6dinger theory, variational methods, identical particles, WKB approximation, Born approximation, Hartree\u2013Fock method, adiabatic and sudden approximations, semiclassical radiation\u2013matter interaction, selection rules, Klein\u2013Gordon equation, Dirac equation, spin, antiparticles.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "PYL5055",
+  "overlap": null,
+  "learning_outcomes": [
+    "Quantum Mechanics II | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Quantum Mechanics II"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/quantum-mechanics-ii-0",
+  "slug": "quantum-mechanics-ii-0"
+}

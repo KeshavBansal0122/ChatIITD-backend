@@ -1,0 +1,22 @@
+{
+  "code": "PYL7049",
+  "name": "Quantum Information and Computation",
+  "description": "Bits and qubits: physical and mathematical descriptions, classical computing and quantum computing overview, entanglement and non-locality in quantum mechanics, quantum gates and quantum circuits and their comparison with classical gates and classical circuits, projective measurements, teleportation, superdense coding, density matrices, quantum cryptography and quantum key distribution protocols, universality of gates in classical and quantum computing, Gottesman-Knill theorem, Solovay-Kitaev theorem, quantum oracles, quantum algorithms and circuit complexity (Deutsch-Jozsa algorithm, Bernstein-Vazirani algorithm, Simon\u2019s problem, quantum Fourier transform, quantum phase estimation, Shor\u2019s algorithm, Grover\u2019s search algorithm and amplitude amplification), quantum error correction, physical and logical qubits, fault tolerant quantum computation, current status of quantum computers.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Quantum Information and Computation | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Quantum Information and Computation"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/quantum-information-and-computation",
+  "slug": "quantum-information-and-computation"
+}

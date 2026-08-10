@@ -1,0 +1,16 @@
+{
+  "code": "MEL7303",
+  "name": "Welding Science and Technology",
+  "description": "This course deals with advanced concepts of joining technology for materials. Introduces various advanced welding processes, equipment and consumables, metallurgy and design aspects involved and to understand the influences of various process parameters and their effects on the joint quality. General survey and classification of welding processes, importance of advanced materials and joining technologies, weld arc physics, power sources and their characteristics, welding technologies related to industries: automotive, aerospace, nuclear, oil and gas industries.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL7303"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "SBL6030",
+  "name": "Cellular Biology",
+  "description": "This Cellular Biology course explores the organization, function, and regulation of eukaryotic cells. Topics include membrane structure, intracellular transport, protein folding, cytoskeleton, bioenergetics, cell signaling, the cell cycle, cell death, cell-environment interactions, and stem cells. Students will learn techniques in cell biology, including microscopy, Western blotting, flow cytometry, and ELISA. The course emphasizes understanding cellular processes at the molecular level and their relevance to disease.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBL6030"
+}

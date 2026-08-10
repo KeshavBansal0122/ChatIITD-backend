@@ -1,0 +1,22 @@
+{
+  "code": "CVL8703",
+  "name": "Indoor Environmental Quality: Theory and Practice",
+  "description": "The course will provide students with a foundational understanding of indoor environmental quality (IEQ). It will cover key factors affecting IEQ, including temperature, humidity, ventilation, lighting, noise, and air quality. Students will learn about methods for measuring, assessing, and controlling these parameters. The course will also explore bioaerosols in indoor environments, relevant standards and guidelines, as well as case studies and best practices in indoor air quality (IAQ) management.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Indoor Environmental Quality: Theory and Practice | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Indoor Environmental Quality: Theory and Practice"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/indoor-environmental-quality-theory-and-practice",
+  "slug": "indoor-environmental-quality-theory-and-practice"
+}

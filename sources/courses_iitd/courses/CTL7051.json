@@ -1,0 +1,22 @@
+{
+  "code": "CTL7051",
+  "name": "Generation Systems in Electric Transportation",
+  "description": "Review of powertrain architectures of hybrid electric vehicles, more-electric aircrafts and ships. Topologies and control of generation systems based on permanent magnet machines. Topologies and control of generation systems based on non-permanent magnet non-salient machines. Topologies and control of generation systems based on non-permanent magnet machines based on reluctance principle. Integrated starter-generator systems, emerging generation systems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Generation Systems in Electric Transportation | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Generation Systems in Electric Transportation"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/generation-systems-electric-transportation",
+  "slug": "generation-systems-electric-transportation"
+}

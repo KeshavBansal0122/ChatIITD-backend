@@ -1,0 +1,22 @@
+{
+  "code": "ELP7275",
+  "name": "Embedded Intelligent Telecommunication Networks Laboratory",
+  "description": "Development of embedded network elements such as routers, SNMP nodes; Use of laboratory and telecom field test instruments such as: oscilloscopes, oscillators, RMS meters, transmission impairment measuring systems, return loss meters, etc; Study of voice and data switching functions; measurement of transmission and traffic characteristics on models of the major business communication systems and carrier transmission facilities (controlled LAN environments, Ethernet, E1, T1/T3 lines). Experimental procedures include the use of frequency and time division multiplex systems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Embedded Intelligent Telecommunication Networks Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Embedded Intelligent Telecommunication Networks Laboratory"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/embedded-intelligent-telecommunication-networks-laboratory",
+  "slug": "embedded-intelligent-telecommunication-networks-laboratory"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ELL7291",
+  "name": "VLSI Design Automation",
+  "description": "Gradient descent, Constrained optimization (Lagrange multipliers, KKT conditions); Algorithms and Complexity; VLSI design flow; Physical design automation; partitioning, floorplanning, placement, routing, and variants; Synthesis; Area-Power-Timing Optimizations and Tradeoffs. Issues in Deep Submicron design.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL7301",
+  "overlap": null,
+  "learning_outcomes": [
+    "VLSI Design Automation | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "VLSI Design Automation"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/vlsi-design-automation",
+  "slug": "vlsi-design-automation"
+}

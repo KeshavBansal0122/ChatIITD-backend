@@ -1,0 +1,22 @@
+{
+  "code": "COV8170",
+  "name": "Special Module in Cryptography",
+  "description": "Special and advanced topics in the area of cryptography.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Special Module in Cryptography | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Special Module in Cryptography"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/special-module-cryptography",
+  "slug": "special-module-cryptography"
+}

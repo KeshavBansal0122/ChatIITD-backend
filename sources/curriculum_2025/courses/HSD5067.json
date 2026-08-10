@@ -1,0 +1,16 @@
+{
+  "code": "HSD5067",
+  "name": "Cornerstone Project",
+  "description": "This course serves as a capstone/cornerstone project for MSc students in cognitive science. Students will identify a substantive research or design problem, develop a project proposal, execute the project (empirical, computational, theoretical or applied), analyse results, and present their findings in a written thesis\u2010style report and an oral defence/presentation. The content will be as per the project assigned.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSD5067"
+}

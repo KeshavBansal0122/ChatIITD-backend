@@ -1,0 +1,1140 @@
+{
+  "code": "PH1",
+  "name": "B.Tech. in Engineering Physics",
+  "generation": "2025",
+  "degree_type": "btech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=PH1",
+  "credit_requirements": [
+    {
+      "category": "BS",
+      "label": "Basic Sciences",
+      "credits_or_units": 24.0,
+      "kind": "graded"
+    },
+    {
+      "category": "GE",
+      "label": "General Engineering",
+      "credits_or_units": 24.0,
+      "kind": "graded"
+    },
+    {
+      "category": "HS",
+      "label": "Humanities and Social Sciences",
+      "credits_or_units": 15.0,
+      "kind": "graded"
+    },
+    {
+      "category": "PL",
+      "label": "Programme-Linked",
+      "credits_or_units": 7777.0,
+      "kind": "graded"
+    },
+    {
+      "category": "DC",
+      "label": "Departmental Core",
+      "credits_or_units": 62.0,
+      "kind": "graded"
+    },
+    {
+      "category": "DE",
+      "label": "Departmental Electives",
+      "credits_or_units": 18.0,
+      "kind": "graded"
+    },
+    {
+      "category": "OC",
+      "label": "Open Category",
+      "credits_or_units": 9.0,
+      "kind": "graded"
+    },
+    {
+      "category": "NGU_LIFE",
+      "label": "Life skills",
+      "credits_or_units": 2.0,
+      "kind": "ngu"
+    },
+    {
+      "category": "NGU_ENGLISH",
+      "label": "English language learning",
+      "credits_or_units": 2.0,
+      "kind": "ngu"
+    },
+    {
+      "category": "NGU_PROJECT",
+      "label": "Departmental project, internship experience",
+      "credits_or_units": 2.0,
+      "kind": "ngu"
+    },
+    {
+      "category": "NGU_NCC",
+      "label": "NCC / NSO / NSS",
+      "credits_or_units": 2.0,
+      "kind": "ngu"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Analyze, synthesize and communicate ideas."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Demonstrate scientific temperament, integrity, personal and professional responsibility, and respect for others."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Identify, analyze and solve challenging problems within and across disciplines."
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "Apply their analytical skills to other areas of knowledge and design sustainable solutions to issues important in our society ethically."
+    }
+  ],
+  "courses_by_category": {
+    "GE": [
+      {
+        "course_code": "ELL1000",
+        "title": "Introduction to Electrical Engineering",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEL1140",
+        "title": "Thermodynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL1000",
+        "title": "Introduction to Programming",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ELL1401",
+        "title": "Digital Electronics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MEP1000",
+        "title": "Engineering Visualization",
+        "hours": {
+          "lecture": "0.5",
+          "tutorial": "0",
+          "practical": "3"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "MEP1001",
+        "title": "Manufacturing for Product Innovation",
+        "hours": {
+          "lecture": "0.5",
+          "tutorial": "0",
+          "practical": "3"
+        },
+        "credits": "2"
+      }
+    ],
+    "BS": [
+      {
+        "course_code": "PYL1002",
+        "title": "Waves and Oscillations",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYP1000",
+        "title": "Physics Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "MTL1001",
+        "title": "Mathematics I Calculus",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CMP1000",
+        "title": "Chemistry Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "MTL1002",
+        "title": "Mathematics II Linear Algebra and Differential Equations",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "SBP1100",
+        "title": "Experimental Biology for Engineers",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "1"
+      }
+    ],
+    "DC": [
+      {
+        "course_code": "PYD3016",
+        "title": "Engineering Physics Project I/Capstones Project",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "PYL1012",
+        "title": "Mathematical Physics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "PYL2003",
+        "title": "Classical Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "PYL2004",
+        "title": "Optics and Photonics",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "PYL2013",
+        "title": "Quantum Mechanics I",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "PYL2014",
+        "title": "Statistical Physics",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "PYL2023",
+        "title": "Electrodynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "PYL2024",
+        "title": "Quantum Mechanics II",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "PYL3006",
+        "title": "Nuclear and Elementary Particle Physics",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "PYL3015",
+        "title": "Condensed Matter Physics",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "PYL3025",
+        "title": "Computational Physics",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "PYL3035",
+        "title": "Experimental Methods in Physics",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "PYP2003",
+        "title": "Engineering Physics Laboratory-I",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYP2004",
+        "title": "Engineering Physics Laboratory - II",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "PYP3005",
+        "title": "Engineering Physics Laboratory - III",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "PYP3006",
+        "title": "Engineering Physics Laboratory - IV",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      }
+    ],
+    "HS": [
+      {
+        "course_code": "HSL2100",
+        "title": "Introduction to Economics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL2102",
+        "title": "Macroeconomics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL2510",
+        "title": "Philosophy Through Puzzles and Paradoxes",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL2605",
+        "title": "Sociological Perspectives on Organisations",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL2710",
+        "title": "Words in the World",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL2742",
+        "title": "Fundamentals of Language Sciences",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ],
+    "BS_ELEC": [
+      {
+        "course_code": "CML1001",
+        "title": "Structural Insights into Atoms and Molecules",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CML1002",
+        "title": "The Art and Science of Building Molecules and Materials",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL1001",
+        "title": "Introduction to Electrodynamics",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL1003",
+        "title": "Mechanics and Special Theory of Relativity",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SBL1100",
+        "title": "Introduction to Biology",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "SBL1102",
+        "title": "Modern Biology: Principles and Applications",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ],
+    "GE_ELEC": [
+      {
+        "course_code": "AML1000",
+        "title": "Engineering Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL1101",
+        "title": "Programming with Data Structures",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CVL2001",
+        "title": "Climate Change and Adaptation",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "ELL1205",
+        "title": "Signals and Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MLL1001",
+        "title": "Introduction to Materials Science and Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL2006",
+        "title": "Introduction to Probability and Stochastic Processes",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL2008",
+        "title": "Introduction to Probability and Statistics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      }
+    ],
+    "DE": [
+      {
+        "course_code": "OPL7777",
+        "title": "Statistical Methods for Science and Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7001",
+        "title": "Physical Foundations of Materials Science",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7049",
+        "title": "Quantum Information and Computation",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7053",
+        "title": "Optical System Design",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7055",
+        "title": "Basic Optics and Optical Instrumentation",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7070",
+        "title": "Ultrafast Optics and Applications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7120",
+        "title": "Applied Superconductivity",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7130",
+        "title": "Plasma Theory and Simulations",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7140",
+        "title": "Advanced Theory of Condensed Matter",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7141",
+        "title": "Quantum Field Theory 1",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7143",
+        "title": "Group Theory in Physics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7144",
+        "title": "The Standard Model of Elementary Particles",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7151",
+        "title": "Astronomy and Astrophysics I",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7167",
+        "title": "Atomic and Molecular Physics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7171",
+        "title": "Relativity and Gravitation",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7545",
+        "title": "Topology in Condensed Matter Physics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7560",
+        "title": "Fourier Optics and Holography",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "PYL7590",
+        "title": "Computational Optical Imaging",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "ELL1000",
+        "title": "Introduction to Electrical Engineering",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 1.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "MEL1140",
+        "title": "Thermodynamics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "PYL1002",
+        "title": "Waves and Oscillations",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYP1000",
+        "title": "Physics Laboratory",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "MTL1001",
+        "title": "Mathematics I Calculus",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "DAN1100",
+        "title": "Life Skills 1",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 1.5
+        },
+        "credits": 0.75
+      },
+      {
+        "basket": "English Language Courses",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 1.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "COL1000",
+        "title": "Introduction to Programming",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "CML1002",
+        "title": "The Art and Science of Building Molecules and Materials",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CMP1000",
+        "title": "Chemistry Laboratory",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "MTL1002",
+        "title": "Mathematics II Linear Algebra and Differential Equations",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "PYL1012",
+        "title": "Mathematical Physics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "L1002 The Art and Science of Building Molecules and Materials",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "basket": "Mathematics II Linear Algebra and Differential Equations",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "English Language Courses",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 1.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "PYL2003",
+        "title": "Classical Mechanics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "ELL1401",
+        "title": "Digital Electronics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "PYL2013",
+        "title": "Quantum Mechanics I",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "PYL2023",
+        "title": "Electrodynamics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "PYP2003",
+        "title": "Engineering Physics Laboratory-I",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "PYL2004",
+        "title": "Optics and Photonics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "PYL2014",
+        "title": "Statistical Physics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "PYL2024",
+        "title": "Quantum Mechanics II",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "MEP1000",
+        "title": "Engineering Visualization",
+        "hours": {
+          "lecture": 0.5,
+          "tutorial": 0.0,
+          "practical": 3.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "PYP2004",
+        "title": "Engineering Physics Laboratory - II",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "SBP1100",
+        "title": "Experimental Biology for Engineers",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "SBL1100",
+        "title": "Introduction to Biology",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "DAN2100",
+        "title": "Life Skills 2",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 1.5
+        },
+        "credits": 0.75
+      }
+    ],
+    "5": [
+      {
+        "course_code": "PYL3005",
+        "title": "Artificial Intelligence and its Applications in Physics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "PYL3015",
+        "title": "Condensed Matter Physics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "PYL3025",
+        "title": "Computational Physics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "PYL3035",
+        "title": "Experimental Methods in Physics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "PYP3005",
+        "title": "Engineering Physics Laboratory - III",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "basket": "L3005 Artificial Intelligence and its Applications in Physics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "6": [
+      {
+        "course_code": "PYL3006",
+        "title": "Nuclear and Elementary Particle Physics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "PYP3006",
+        "title": "Engineering Physics Laboratory - IV",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "MEP1001",
+        "title": "Manufacturing for Product Innovation",
+        "hours": {
+          "lecture": 0.5,
+          "tutorial": 0.0,
+          "practical": 3.0
+        },
+        "credits": 2.0
+      }
+    ]
+  },
+  "raw_text_preview": "PH1 \u2013 B.Tech. in Engineering Physics\nB.Tech. in Engineering Physics\nPhysics, Department of\nProgramme Code: PH1\nB. Tech.\nOverall Credit Structure\nCourse Category Credits\nBS (Basic Sciences)\n24\nGE (General Engineering)\n24\nHS (Humanities and Social Sciences)\n15\nDC (Departmental Core)\n62\nDE (Departmental Electives)\n18\nOC (Open Category)\n9\nTotal Graded Credit Requirement\n152\nNon-Graded Units (NGU) Units\nLife skills\n2\nEnglish language learning\n2\nDepartmental project, internship experience\n2\nNCC / NSO / NSS\n2\nTotal Non-Graded Units\n8\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nAnalyze, synthesize and communicate ideas.\nPLO 2\nDemonstrate scientific temperament, integrity, personal and professional responsibility, and respect for others.\nPLO 3\nIdentify, analyze and solve challenging problems within and across disciplines.\nPLO 4\nApply their analytical skills to other areas of knowledge and design sustainable solutions to issues important in our society ethically.\nGeneral Engineering Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nELL1000 Introduction to Electrical Engineering 2 1 2 4\nMEL1140 Thermodynamics 3 0 2 4\nCOL1000 Introduction to Programming 3 0 2 4\nELL1401 Digital Electronics 3 0 2 4\nMEP1000 Engineering Visualization 0.5 0 3 2\nMEP1001 Manufacturing for Product Innovation 0.5 0 3 2\nBasic Science Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nPYL1002 Waves and Oscillations 2 1 0 3\nPYP1000 Physics Laboratory 0 0 4 2\nMTL1001 Mathematics I Calculus 3 1 0 4\nCMP1000 Chemistry Laboratory 0 0 4 2\nMTL1002 Mathematics II Linear Algebra and Differential Equations 3 1 0 4\nSBP1100 Experimental Biology for Engineers 0 0 2 1\nDepartmental Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nPYD3016 Engineering Physics Project I/Capstones Project \u2013 \u2013 \u2013 \u2013\nPYL1012 Mathematical Physics 3 1 0 4\nPYL2003 Classical Mechanics 3 1 0 4\nPYL2004 Optics and Photonics \u2013 \u2013 \u2013 \u2013\nPYL2013 Quantum Mechanics I 3 1 0 4"
+}

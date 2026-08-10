@@ -1,0 +1,16 @@
+{
+  "code": "ESN7891",
+  "name": "Applied Mathematics and Computational Methods",
+  "description": "Fourier and Laplace transform, Complex and Vector analysis, Matrices, Arithmetic, Geometric and Harmonic Progressions, Numerical and Computational Methods, Finite Difference, Methods of Differentiation and Integration, Least Square Curve Fitting, Introduction to MATLAB and/or Python.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ES",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ES#ESN7891"
+}

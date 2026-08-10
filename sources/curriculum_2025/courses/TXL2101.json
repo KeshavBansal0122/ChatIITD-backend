@@ -1,0 +1,16 @@
+{
+  "code": "TXL2101",
+  "name": "Chemistry and Physics of Polymers",
+  "description": "Macromolecular structure of polymers, structure property relationship, synthesis and structure of polymeric materials with focus on chain and step-growth polymerization, cross-linked polymers, molecular weight, chain dimensions - configuration and conformations, fibre forming polymers, crystalline and glass states, solution and melt properties, mechanical and rheological properties, important characterization techniques for polymers.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL2101"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "DSD8801",
+  "name": "Major Project Part I",
+  "description": "This project-based course provides the students with the opportunity to undertake in-depth research or development in the area of instrumentation technology and allied topics. With the help of a faculty mentor(s), students identify a real-world problem, design a detailed system or algorithmic solution, and validate it through application relevant simulation tools and experimentation.",
+  "credits": 6.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 12.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Major Project Part I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Major Project Part I"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/major-project-part-i-8",
+  "slug": "major-project-part-i-8"
+}

@@ -1,0 +1,725 @@
+{
+  "code": "CHE",
+  "name": "M.Tech. in Chemical Engineering",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=CHE",
+  "credit_requirements": [
+    {
+      "category": "GE",
+      "label": "General Engineering",
+      "credits_or_units": 3.0,
+      "kind": "graded"
+    },
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 42.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Comprehend specialized knowledge in Chemical Engineering and acquire analytical skills for solving advanced engineering problems"
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Apply critical thinking and research skills to develop innovative and sustainable solutions for evolving industrial and societal needs"
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Obtain knowledge of advancements in frontier areas and associated tools, techniques and technologies"
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "Communicate effectively, embrace teamwork, and uphold ethical standards"
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "CHD7801",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHD7802",
+        "title": "Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHD7804",
+        "title": "Major Project Part-I",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "16"
+        },
+        "credits": "8"
+      },
+      {
+        "course_code": "CHD7805",
+        "title": "Major Project Part-II",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CHL7001",
+        "title": "Experimental Techniques for Chemical Engineers",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7002",
+        "title": "Computational Techniques for Chemical Engineers",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7003",
+        "title": "Sustainable Process Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7004",
+        "title": "Quality Management in Process Industries",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7005",
+        "title": "Advanced Chemical Reaction Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7006",
+        "title": "Advanced Transport Phenomena",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7007",
+        "title": "Advanced Chemical Engineering Thermodynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7009",
+        "title": "Professional Ethics in Chemical Engineering",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "CHN7704",
+        "title": "Teaching Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CHT7803",
+        "title": "Summer Internship",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7005",
+        "title": "Advanced Chemical Reaction Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7006",
+        "title": "Advanced Transport Phenomena",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7007",
+        "title": "Advanced Chemical Engineering Thermodynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHD7802",
+        "title": "Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHT7803",
+        "title": "Summer Internship",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHD7800",
+        "title": "Mini Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7005",
+        "title": "Advanced Chemical Reaction Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7006",
+        "title": "Advanced Transport Phenomena",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7007",
+        "title": "Advanced Chemical Engineering Thermodynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7102",
+        "title": "Drug Delivery for Chemical Engineers",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7104",
+        "title": "Bioprocessing and Bioseparations",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7201",
+        "title": "Advanced Process Data Analytics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7204",
+        "title": "Process Optimization",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7207",
+        "title": "Fundamentals of Computational Fluid Dynamics",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7208",
+        "title": "Applications of Computational Fluid Dynamics",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7212",
+        "title": "Membrane Science and Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7216",
+        "title": "Chemical Engineering Mathematics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7301",
+        "title": "Nanoscale Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7304",
+        "title": "Heterogeneous Catalysis and Catalytic Reactors",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7309",
+        "title": "Chemical Product Development and Commercialization",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7311",
+        "title": "Safety and Hazards in Process Industries",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7314",
+        "title": "Structure and Properties of Polymers in Solutions",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7401",
+        "title": "CCUS for Sustainable Industrial and Energy Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7402",
+        "title": "Engineering and Nature-Based Solutions to Mitigate Climate Change",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7404",
+        "title": "Sustainable Polymer Science and Technology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7405",
+        "title": "Principles of Electrochemical Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7407",
+        "title": "Hydrogen, Electrolyser, and Fuel Cell Technology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7408",
+        "title": "Electrochemical Conversion and Storage Devices",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7416",
+        "title": "Petroleum Refinery Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7417",
+        "title": "Natural Gas Processing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7504",
+        "title": "Transport Phenomena in Complex Fluids",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7505",
+        "title": "Rheology of Complex Fluids",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7506",
+        "title": "Complex Fluids Technology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7507",
+        "title": "Interfacial Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7508",
+        "title": "Fundamentals of Capillarity and Wetting",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7509",
+        "title": "Introduction to Microfluidics and Microfabrication",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7510",
+        "title": "Microhydrodynamics and its Applications in Biological Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHL7901",
+        "title": "Selected Topics in Chemical Engineering - I",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "CHL7902",
+        "title": "Selected Topics in Chemical Engineering - II",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "CHL7903",
+        "title": "Selected Topics in Chemical Engineering - III",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CHV7904",
+        "title": "Recent Advances in Chemical Engineering",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "CHL7001",
+        "title": "Experimental Techniques for Chemical Engineers",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CHL7003",
+        "title": "Sustainable Process Engineering",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CHL7004",
+        "title": "Quality Management in Process Industries",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CHL7009",
+        "title": "Professional Ethics in Chemical Engineering",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "CHN7704",
+        "title": "Teaching Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "CHD7801",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CHL7002",
+        "title": "Computational Techniques for Chemical Engineers",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CHN7704",
+        "title": "Teaching Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "CHD7804",
+        "title": "Major Project Part-I",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 16.0
+        },
+        "credits": 8.0
+      },
+      {
+        "course_code": "CHN7704",
+        "title": "Teaching Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "CHD7805",
+        "title": "Major Project Part-II",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      },
+      {
+        "course_code": "CHN7704",
+        "title": "Teaching Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "CHE \u2013 M.Tech. in Chemical Engineering\nM.Tech. in Chemical Engineering\nChemical Engineering, Department of\nProgramme Code: CHE\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n42\nPE (Programme Elective)\n12\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n60\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nComprehend specialized knowledge in Chemical Engineering and acquire analytical skills for solving advanced engineering problems\nPLO 2\nApply critical thinking and research skills to develop innovative and sustainable solutions for evolving industrial and societal needs\nPLO 3\nObtain knowledge of advancements in frontier areas and associated tools, techniques and technologies\nPLO 4\nCommunicate effectively, embrace teamwork, and uphold ethical standards\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCHD7801 Cornerstone Project 0 0 6 3\nCHD7802 Minor Project 0 0 6 3\nCHD7804 Major Project Part-I 0 0 16 8\nCHD7805 Major Project Part-II \u2013 \u2013 \u2013 \u2013\nCHL7001 Experimental Techniques for Chemical Engineers 2 0 2 3\nCHL7002 Computational Techniques for Chemical Engineers 2 0 2 3\nCHL7003 Sustainable Process Engineering 3 0 0 3\nCHL7004 Quality Management in Process Industries 3 0 0 3\nCHL7005 Advanced Chemical Reaction Engineering 3 0 0 3\nCHL7006 Advanced Transport Phenomena 3 0 0 3\nCHL7007 Advanced Chemical Engineering Thermodynamics 3 0 0 3\nCHL7009 Professional Ethics in Chemical Engineering 1 0 0 1\nCHN7704 Teaching Practicum 0 0 8 4\nCHT7803 Summer Internship 0 0 6 3\nCHE Advanced Basket (3-0-0)\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCHL7005 Advanced Chemical Reaction Engineering 3 0 0 3\nCHL7006 Advanced Transport Phenomena 3 0 0 3\nCHL7007 Advanced Chemical Engineering Thermodynamics 3 0 0 3\nCHE summer internship or minor project (0-0-6) 3\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCHD7802 Minor Project 0 0 6 3\nCHT7803 Summer Internship 0 0 6 3\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCHD7800 Mini Project 0 0 6 3\nCHL7005 Advanced Chemical Reaction Engineering 3 0 0 3\nCHL7006 Advanced Transport Phenomena 3 0 0 3\nCHL7007 Advanced Chemical Engineering Thermodynamics 3 0 0 3\nCHL7102 Drug Delivery for Chemical Engineers 3 0 0 3"
+}

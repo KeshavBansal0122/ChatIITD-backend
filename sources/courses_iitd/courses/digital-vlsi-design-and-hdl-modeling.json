@@ -1,0 +1,22 @@
+{
+  "code": "CRL9102",
+  "name": "Digital VLSI Design and HDL Modeling",
+  "description": "Introduction to digital VLSI design flow, CMOS logic, and design abstraction levels\nCombinational logic design, Boolean optimization, and logic minimization techniques\nSequential logic design: latches, flip-flops, registers, and timing behavior\nFinite State Machine (FSM) modeling and design methodologies\nRTL design using Verilog/SystemVerilog for synthesizable hardware\nTestbenches, simulation, and functional verification concepts\nTiming analysis: setup/hold, clocking strategies, and metastability\nSynthesis, technology mapping, and constraints (SDC basics)\nPower, performance, and area (PPA) considerations in digital design\nHands-on labs and mini projects: RTL-to-gate flow and design case studies",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Digital VLSI Design and HDL Modeling | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Digital VLSI Design and HDL Modeling"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/digital-vlsi-design-and-hdl-modeling",
+  "slug": "digital-vlsi-design-and-hdl-modeling"
+}

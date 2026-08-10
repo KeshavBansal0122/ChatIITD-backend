@@ -1,0 +1,16 @@
+{
+  "code": "BSL7005",
+  "name": "Introduction to Quantum Communications and Cryptography",
+  "description": "Review of linear algebra and Hilbert spaces; postulates of quantum mechanics; quantum states and measurement; quantum channels; composite systems and entanglement; bell measurement and CHSH inequality; no-cloning theorem; purification; distance measures; classical information theory: Shannon's entropy, mutual information, source and channel coding; quantum information theory: von-Neumann entropy, Holevo information, quantum channel capacity; QKD protocols; discrete variable QKD (DV-QKD): BB84, BBM92, E91, COW, DPS; continuous variable QKD (CV-QKD): GG02 protocol, security analysis, Gaussian quantum information theory; quantum networks; post quantum cryptography (PQC).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BS#BSL7005"
+}

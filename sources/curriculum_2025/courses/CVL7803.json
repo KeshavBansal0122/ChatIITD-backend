@@ -1,0 +1,16 @@
+{
+  "code": "CVL7803",
+  "name": "Groundwater Hydrology",
+  "description": "Occurrence and assessment of groundwater and aquifers; theory of groundwater flow in porous media and regional groundwater flow; well hydraulics; aquifer characterisation; groundwater prospecting; water wells \u2013 design, construction, development and maintenance; managed aquifer recharge; saltwater intrusion and coastal aquifer hydraulics; groundwater modelling techniques and application of finite difference method to groundwater; groundwater flow solutions by complex analysis; sustainable groundwater management and case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7803"
+}

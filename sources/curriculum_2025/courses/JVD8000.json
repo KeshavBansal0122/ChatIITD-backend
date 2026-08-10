@@ -1,0 +1,16 @@
+{
+  "code": "JVD8000",
+  "name": "MSR Research Project",
+  "description": "Formulation of the research problem, Literature survey, Identification of research gap, analytical modelling of the system, development of simulation model, design and fabrication of experimental setup (for experimental projects). Analysis and interpretation of results. Verification of results with theory. Writing technical report. Presentation and publication of results in form of thesis and presentation.",
+  "credits": 42.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 84.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "J",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=J#JVD8000"
+}

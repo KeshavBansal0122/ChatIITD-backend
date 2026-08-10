@@ -1,0 +1,16 @@
+{
+  "code": "ELL7502",
+  "name": "PWM Rectifiers and Inverters",
+  "description": "Circuit realization of single/three phase voltage/current source inverters from three terminal switching cell, square-wave, quasi square-wave, selective harmonic elimination modulation, total harmonic distortion (THD), sine-PWM, third harmonic injection PWM, discontinuous PWM, space-vector PWM techniques, concept of overmodulation, effect of deadtime, conduction loss and switching loss evaluation, DC-bus capacitor sizing, AC-side filter design. D-Q transformation, phase locked loop, d-q axis current controller design, DC-bus voltage controller design. Single and three-phase active front end rectification. Three-level inverter topologies \u2013 NPC, TNPC, etc. Basics of gate-drivers, high side and low side switching, boot-strap gate-drive, isolated gate-driver. Snubber design.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7502"
+}

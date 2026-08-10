@@ -1,0 +1,22 @@
+{
+  "code": "TXL7565",
+  "name": "Advanced Material Characterization Techniques",
+  "description": "Introduction to the working principles and data interpretation of a range of material characterization techniques\u2014including BET surface area and pore analysis, x-ray diffraction (XRD), goniometry, x-ray photoelectron spectroscopy (XPS), raman spectroscopy, FTIR, NMR, UV-vis spectroscopy, dynamic light scattering (DLS), and microscopy methods such as SEM, TEM, AFM, and confocal microscopy, as well as photoluminescence quantum yield. It also covers thermal techniques like DSC and TGA, and mechanical testing using systems like Instron. The focus is on developing a strong foundation in quantitative analysis for understanding material properties across scales, enabling advancements in both research and industrial applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "TXL1101&TXL2101&TXL2301/TXP3103",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Material Characterization Techniques | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Material Characterization Techniques"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-material-characterization-techniques",
+  "slug": "advanced-material-characterization-techniques"
+}

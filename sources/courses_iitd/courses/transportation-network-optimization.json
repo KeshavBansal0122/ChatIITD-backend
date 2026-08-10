@@ -1,0 +1,22 @@
+{
+  "code": "CVL7555",
+  "name": "Transportation Network Optimization",
+  "description": "Graph theory, transportation network representation; shortest path, label setting and label correcting algorithms; computational complexity; minimum spanning tree, Prim\u2019s and Kruskal\u2019s algorithms; maximum flow problem, augmenting path algorithm, max-flow min-cut theorem; minimum cost network flow problem, network simplex algorithm; linear programming in transportation engineering, properties of linear programs, graphical solution, and simplex algorithm; duality theory, complementary slackness, and sensitivity analysis; integer programming formulations of transportation problems, conditional constraints, branch-and-bound and approximate methods; traveling salesman problem and vehicle routing problem (VRP), heuristic methods for VRP; computer programming and solvers to implement solution method.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CVL7502",
+  "overlap": null,
+  "learning_outcomes": [
+    "Transportation Network Optimization | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Transportation Network Optimization"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/transportation-network-optimization",
+  "slug": "transportation-network-optimization"
+}

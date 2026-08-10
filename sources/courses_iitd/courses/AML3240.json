@@ -1,0 +1,21 @@
+{
+  "code": "AML3240",
+  "name": "Machine Design",
+  "description": "Mechanical engineering design, fatigue failure, shaft, spring, screw, bolt, ball bearing, journal bearing, gear, case studies, codes and standards, design data tables",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "AML2010&AML2020",
+  "overlap": null,
+  "learning_outcomes": [
+    "Machine Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Advanced Design of Machine Elements",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/machine-design",
+  "slug": "machine-design"
+}

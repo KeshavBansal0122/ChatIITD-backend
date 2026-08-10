@@ -1,0 +1,16 @@
+{
+  "code": "ELL7503",
+  "name": "Electric Drive Systems",
+  "description": "Components of electric drive system- electrical machines, power converters and control system. Different types of loads encountered in modern drive applications like electric traction, pumps, fans, compressors, processing industry etc., dynamics of drive systems, starting, braking, speed-control. Steady-state and dynamic operation of motors, load variations emphasizing examples from electric vehicles, blowers, pumps etc. Phase controlled and chopper controlled dc drives, induction motor drives, synchronous motor drives, permanent magnet synchronous motor drives, synchronous reluctance motor drive, brushless DC motor drive, switched reluctance drive, space phasor models, volt per Hertz control, direct and indirect vector control, direct torque control, drive controller design.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7503"
+}

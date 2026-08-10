@@ -1,0 +1,22 @@
+{
+  "code": "BMV7020",
+  "name": "Basic Engineering Mathematics for Biologists",
+  "description": "Calculus, linear algebra, differential equations.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Basic Engineering Mathematics for Biologists | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Basic Engineering Mathematics for Biologists"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/basic-engineering-mathematics-biologists",
+  "slug": "basic-engineering-mathematics-biologists"
+}

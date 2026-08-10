@@ -1,0 +1,22 @@
+{
+  "code": "CVL7706",
+  "name": "Wastewater Engineering and Management",
+  "description": "This course covers wastewater quality parameters, biological treatment processes, and microbial growth kinetics, with a focus on modeling suspended and attached growth systems. Key topics include carbon oxidation, nitrification, denitrification, methanogenesis, and biological nutrient removal. Advanced wastewater treatment concepts such as anaerobic digestion, sludge stabilization, thickening, and drying are explored. Students will learn about decentralized systems, constructed wetlands, and emerging technologies like membrane bioreactors (MBRs) and advanced oxidation processes (AOPs). The course also addresses emerging contaminants, antimicrobial resistance, microplastics, and energy-efficient treatment solutions. Design principles for pretreatment, secondary treatment, and tertiary disposal are covered, emphasizing cost-effectiveness and sustainability.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Wastewater Engineering and Management | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Wastewater Engineering and Management"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/wastewater-engineering-and-management",
+  "slug": "wastewater-engineering-and-management"
+}

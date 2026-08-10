@@ -1,0 +1,22 @@
+{
+  "code": "MTL7763",
+  "name": "Introduction to Game Theory",
+  "description": "Optimal strategies and value of two player zero-sum games, existence of saddle point equilibrium using Brouwer\u2019s fixed point theorem, graphical method and Linear programming formulations for two player zero-sum game, Existence of Nash equilibrium for n-player games using Kakutani fixed point theorem, Pareto efficiency, symmetric games, Algorithm to compute Nash equilibrium: i) Equilibria by support enumeration, ii) Equilibria by labelled polytopes, iii) Equilibria by vertex enumeration, iv) Lemke-Howson algorithm. Bayesian Games, Strategic games with continuous strategy sets, Applications in market competition, Auctions, Electricity Market. Sequential games, sub-game perfect Nash equilibrium. Inefficiency of Equilibria: i) Price of Anarchy, ii) Price of Stability. Selfish routing games, Network Design Games. Network formation games: i) pairwise stability ii) Nash stability iii) strong stability, iv) efficiency. Some famous examples: Co-author example, connection models.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Game Theory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Game Theory"
+  ],
+  "department": "Algorithmic Game Theory",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-game-theory",
+  "slug": "introduction-game-theory"
+}

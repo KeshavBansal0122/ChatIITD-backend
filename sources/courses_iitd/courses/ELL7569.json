@@ -1,0 +1,22 @@
+{
+  "code": "ELL7569",
+  "name": "Electrical Systems for Construction Industries",
+  "description": "Elements of electrical distribution system: distribution transformer, circuit breakers, cables, fuses and protection schemes, introduction to electrical circuits, magnetic circuits, concept of active, reactive power and complex power, power factor, single and three-phase AC supply systems, star and delta connections, power measurement using two-watt meter method, power factor correction, introduction to transformers, principle of operation, EMF equation, equivalent circuit, OC and SC test, regulation. D. C. Motors, 3-phase induction motors and FKW motors starting, speed control and braking. Battery chargers. Introduction to power converters. Fuses and protection schemes. Principles of illumination engineering. Back-up power through UPS and DG sets. Application of electrical systems in air-conditioners, lift, cranes, elevators, pumps etc.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Electrical Systems for Construction Industries | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Electrical Systems for Construction Industries"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/electrical-systems-construction-industries",
+  "slug": "electrical-systems-construction-industries"
+}

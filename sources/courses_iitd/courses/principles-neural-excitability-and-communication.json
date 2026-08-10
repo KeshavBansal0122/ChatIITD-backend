@@ -1,0 +1,22 @@
+{
+  "code": "SBL7023",
+  "name": "Principles of Neural Excitability and Communication",
+  "description": "Neural physiology overview; elements of excitable cell membrane: ion channels, transporters and cytoskeletal elements; physical principles of neuronal excitability: diffusion, Electro-diffusion, Nernst-Planck equation, Donnan equilibrium, Goldman-Hodgkin-Katz equation; concept of resting membrane potential (RMP), maintenance ofRMP-pumps and transporters; exemplar pump: Na+-K+ ATPase-structure and function; pores in the membrane: ion channels; Hodgkin-Huxley model for Na+ and K+ channels; action tpotentials; ion channel structure, function and modulation; synaptic transmission: vesicle Ilransport and recycling, neurotransmitter release; neurotransmitter-receptor structure-function; methods to study ion channels and receptors: patch-clamp, planar-bilayer, crystallography and cryo-EM studies; action potential generation and conduction: mechanism and models; simulation of neural activity.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(SBL1100/SBL1102/BBL1130/CML2033/CML2044/PYL1001/CHL1001/CHL1002/HSL5060/HSL5066)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Principles of Neural Excitability and Communication | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Principles of Neural Excitability and Communication"
+  ],
+  "department": "Elements of Neuroscience",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/principles-neural-excitability-and-communication",
+  "slug": "principles-neural-excitability-and-communication"
+}

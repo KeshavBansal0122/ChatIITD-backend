@@ -1,0 +1,22 @@
+{
+  "code": "CTL7032",
+  "name": "Vehicle Propulsion and Transmissions",
+  "description": "Motivation for using hybrid vehicles, preliminary concepts: thermodynamic processes, engine power cycles, fuel-air and actual cycles, ignition and valve timing, combustion fundamentals in SI and CI engines, mixture preparation: stoichiometric, rich and lean mixtures, combustion stoichiometry and modeling, exhaust formation, emission norms and testing, engine performance testing and turbocharging, vehicle transmission and traction requirements, motivation for HEVs, engine sizing for HEV, hybrid vehicle categories and architectures, electric machines: principles, energy storage technologies: electrical and mechanical, battery modelling and characterization, practical examples of hybrid vehicles, fuel cell technology and classification. Different rotor dynamics models for vehicle transmissions, torsional and out of the plane bending vibrations in drivetrain.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Vehicle Propulsion and Transmissions | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Vehicle Propulsion and Transmissions"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/vehicle-propulsion-and-transmissions",
+  "slug": "vehicle-propulsion-and-transmissions"
+}

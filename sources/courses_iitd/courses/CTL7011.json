@@ -1,0 +1,22 @@
+{
+  "code": "CTL7011",
+  "name": "Embedded Systems for Automotive Sector",
+  "description": "Introduction of automotive embedded systems, and essential embedded system programming, practical data acquisition through ADC configuration, followed by crucial filter implementation techniques for noise control using supporting electronic circuits. Brief controller design principle and pulse width modulation (PWM), including its configuration with various timers, implementation of sinusoidal PWM (SPWM) for precise inverter leg control. Essential system mechanisms such as internal and external interrupts for achieving fixed sampling frequencies, automotive communication protocols like SPI, I2C, and CAN bus. The basics of schematic design and PCB layout. Introduction to the fundamentals of advanced driver-assistance systems (ADAS).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Embedded Systems for Automotive Sector | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Embedded Systems for Automotive Sector"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/embedded-systems-automotive-sector",
+  "slug": "embedded-systems-automotive-sector"
+}

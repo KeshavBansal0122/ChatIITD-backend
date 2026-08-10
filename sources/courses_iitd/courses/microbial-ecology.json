@@ -1,0 +1,22 @@
+{
+  "code": "BBL7152",
+  "name": "Microbial Ecology",
+  "description": "Microbial diversity, interactions, communities; Microbial community structure vs. function; Microbiomes in natural ecosystems: terrestrial and aquatic, extreme environments (including astro microbiology); Interactions of microbiomes with higher organisms (Humans and Plants); Microbial functions in biogeochemical cycles; Methodological advances in Microbial Ecology: Role of microbial ecology and microbiome engineering in addressing crucial environmental issues, viz. climate change, sustainability, pollution",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Microbial Ecology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Microbial Ecology"
+  ],
+  "department": "Biochemical Engineering and Biotechnology, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/microbial-ecology",
+  "slug": "microbial-ecology"
+}

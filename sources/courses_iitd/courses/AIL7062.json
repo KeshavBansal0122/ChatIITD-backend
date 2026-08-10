@@ -1,0 +1,22 @@
+{
+  "code": "AIL7062",
+  "name": "AI for Computational Biology",
+  "description": "The course will be an attempt to look at how ideas and tools from AI and computational modelling can be applied to understand the workings of living organisms: including specific topics such as computational genomics, phylogenetics, evolutionary modelling, gene regulatory networks and systems biology, biological graphs and networks, and structural biology.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "AI for Computational Biology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "AI for Computational Biology"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/ai-computational-biology",
+  "slug": "ai-computational-biology"
+}

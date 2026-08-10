@@ -1,0 +1,22 @@
+{
+  "code": "CHP3104",
+  "name": "Chemical Engineering Laboratory-IV",
+  "description": "Demonstrate principles and applications of Process Dynamics and Control and Instrumentation through experiments.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "prereq": "CLL3006",
+  "overlap": null,
+  "learning_outcomes": [
+    "Chemical Engineering Laboratory-IV | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Chemical Engineering Laboratory-IV"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/chemical-engineering-laboratory-iv",
+  "slug": "chemical-engineering-laboratory-iv"
+}

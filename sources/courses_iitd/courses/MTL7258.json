@@ -1,0 +1,22 @@
+{
+  "code": "MTL7258",
+  "name": "Introduction to Differential Topology",
+  "description": "Smooth manifolds and smooth maps, tangent spaces and derivatives, manifolds with boundary, proof of Sard&#039;s theorem, immersions and submersions, one-manifolds and some consequences, transversality, intersection theory mod 2, winding numbers, the Jordan-Brouwer separation theorem, the Borsuk-Ulam theorem and its applications, orientation, oriented intersection number, Lefschetz fixed-point theory, vector fields, the Poincare-Hopf theorem, the Hopf degree theorem, the Euler characteristic and triangulations, integration on manifolds, differential forms.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Differential Topology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Differential Topology"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-differential-topology",
+  "slug": "introduction-differential-topology"
+}

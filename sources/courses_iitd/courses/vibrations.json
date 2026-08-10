@@ -1,0 +1,21 @@
+{
+  "code": "AML3200",
+  "name": "Vibrations",
+  "description": "Free and forced vibration response of single-degree-of-freedom (SDOF) systems, undamped and damped vibration. Response to periodic excitation, impulse response, response to arbitrary excitation, convolution integral. Two degrees-of-freedom systems, orthogonality of modes, harmonic response, vibration absorbers. Multi-degrees-of freedom (MDOF) systems, modal analysis. Continuous systems, axial vibration of rods, bending vibration of beams, torsional vibration of rods, Rayleigh-Ritz method.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "AML2010",
+  "overlap": null,
+  "learning_outcomes": [
+    "Vibrations | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Advanced Dynamics",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/vibrations",
+  "slug": "vibrations"
+}

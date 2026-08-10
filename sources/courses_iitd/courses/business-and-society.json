@@ -1,0 +1,22 @@
+{
+  "code": "MSL7720",
+  "name": "Business and Society",
+  "description": "This course contains the following topics:\nBusiness\u2013Society Interface and the Role of Firms\nStakeholders, Ethics, and Corporate Responsibility\nSustainability, Environment, and Responsible Growth\nRegulation, Governance, and the Institutional Environment\nGlobalization, Inequality, and Social Impact of Business\nThe Future of Business\u2013Society Relations",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(MSL7701) &(MSL7702)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Business and Society | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Business and Society"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/business-and-society",
+  "slug": "business-and-society"
+}

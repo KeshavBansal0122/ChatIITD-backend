@@ -1,0 +1,16 @@
+{
+  "code": "AML7840",
+  "name": "Parallel and High Performance Computing for Mechanics",
+  "description": "Computer architecture basics, why HPC for mechanics?, parallel computing paradigms, Sotware tools for parallelism, data structures for CFD and FEM, performance analysis and improvements, real world applications.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AML7840"
+}

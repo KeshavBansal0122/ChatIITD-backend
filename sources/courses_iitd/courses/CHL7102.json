@@ -1,0 +1,22 @@
+{
+  "code": "CHL7102",
+  "name": "Drug Delivery for Chemical Engineers",
+  "description": "The course aims to enable the chemical engineering students to apply their knowledge of fundamental chemical engineering subjects such as chemical reactions and kinetics, mass transfer, and polymer materials to the design of drug delivery systems. The course will cover a) overview of drug delivery systems and concepts of pharmacokinetics and pharmacodynamics; b) drug release mechanisms including diffusion and transport phenomena; c) advanced drug delivery systems including nanoparticles, liposome, hydrogels and other polymer based systems; d) target drug delivery and controlled release; e) novel technologies and innovations such as microfluidics in drug delivery and 3D printing and personalized medicine; with a discussion on biopharmaceutical challenges, regulatory landscape and ethical considerations and emerging trends and opportunities.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Drug Delivery for Chemical Engineers | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Drug Delivery for Chemical Engineers"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/drug-delivery-chemical-engineers",
+  "slug": "drug-delivery-chemical-engineers"
+}

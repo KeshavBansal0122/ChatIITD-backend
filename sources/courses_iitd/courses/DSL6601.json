@@ -1,0 +1,22 @@
+{
+  "code": "DSL6601",
+  "name": "Electronic Components and Circuits",
+  "description": "Review of electronic components: passive components, active components including components used in industrial environment. Network theory: KCL, KVL, nodal analysis, network theorems, circuit analysis techniques. Electronic circuits: choppers, clampers, analog circuits, precision and instrumentation amplifiers, signal conditioning circuits, industrial electronic circuits. Nonlinear devices and circuits, computing circuits and waveform generators. Analog-digital circuits: A/D and D/A converters, classification and characteristic parameters of DACs and ADCs. Testing criteria. Digital electronics: logic gates, combinational logic design, sequential logic design, counters. Microprocessors and microcontrollers: 8 bit and 16-bit microprocessor, basic structure and programming. Application of microprocessors in instruments. Introduction to micro-controllers and embedded systems.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Electronic Components and Circuits | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Electronic Components and Circuits"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/electronic-components-and-circuits",
+  "slug": "electronic-components-and-circuits"
+}

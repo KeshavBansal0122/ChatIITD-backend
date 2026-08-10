@@ -1,0 +1,22 @@
+{
+  "code": "ESN7003",
+  "name": "Technical Writing",
+  "description": "Language and communication skills; basic ethics and styles of scientific/technical document writing; proper referencing formats; planning, design, and layout of presentations; and important technical jargon for energy engineers.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Technical Writing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Technical Writing"
+  ],
+  "department": "Energy Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/technical-writing",
+  "slug": "technical-writing"
+}

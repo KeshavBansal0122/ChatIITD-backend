@@ -1,0 +1,22 @@
+{
+  "code": "COL2016",
+  "name": "Computer Architecture",
+  "description": "History of computers, number systems, assembly language programming, ARM assembly language, computer arithmetic, design of a basic processor, pipelining, memory hierarchy, virtual memory, I/O protocols and devices, multiprocessors and accelerators, secure hardware, performance energy relationship.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Computer Architecture | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Computer Architecture"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/computer-architecture",
+  "slug": "computer-architecture"
+}

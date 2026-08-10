@@ -1,0 +1,22 @@
+{
+  "code": "MEL7118",
+  "name": "Reinforcement Learning",
+  "description": "Markov decision processes, sequential decision making in operations research (OR), modeling OR problems as MDPs, dynamic programming and linear programming, value and policy iterations methods for MDPs, value-based reinforcement learning (RL), optimization methods in AI/ML - stochastic gradient methods and mirror descent, policy-based RL, actor-critic and deep RL, multi-agent RL, data-based methods for scheduling, routing, and planning problems, recent applications in OR and advanced topics in the area.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Reinforcement Learning | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Reinforcement Learning"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/reinforcement-learning-0",
+  "slug": "reinforcement-learning-0"
+}

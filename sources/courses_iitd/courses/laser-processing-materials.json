@@ -1,0 +1,22 @@
+{
+  "code": "MEL7322",
+  "name": "Laser Processing of Materials",
+  "description": "Sources and condition for generation of laser beam; main industrial lasers and their characteristics; laser beam interaction with matter- CW, pulsed, ultrashort laser pulse; heat flow theory and metallurgical considerations; laser and laser assisted cutting; laser drilling; laser and laser assisted welding; laser transformation hardening; laser re-melting; laser surface alloying and cladding; laser surface texturing; LCVD and LPVD; laser beam shaping and its application in laser surface modifications; laser forming; laser shock peening; laser based additive manufacturing\u2013 fundamentals, key features, challenges and applications; laser interaction with the metal powder; security challenges in laser based additive manufacturing; theoretical modelling of laser material processing; on-line process monitoring and control of laser-based material processing and its significance on mechanical and metallurgical properties; economics of laser; laser applications in other manufacturing and metrological processes (laser marking, laser cleaning etc.) and physics behind the process; laser safety; laser safety standards and safety procedures. Students will be given hands-on exposure to different laser material processing modalities.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Laser Processing of Materials | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Laser Processing of Materials"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/laser-processing-materials",
+  "slug": "laser-processing-materials"
+}

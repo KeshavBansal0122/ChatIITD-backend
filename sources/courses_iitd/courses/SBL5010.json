@@ -1,0 +1,22 @@
+{
+  "code": "SBL5010",
+  "name": "Mathematical and Statistical Biology",
+  "description": "Numerical aspects of biological data, columnar data presentation in excel, data transformation, concept of number system, data presentation, data distribution, plots, measure of central tendency and dispersion, linear regression, error in data, error propagation, probability, conditional probability, confidence intervals, significance tests, analysis of variance, statistical tests in R, data integrity, variables, functions, trigonometric, polynomial and exponential functions, 2-D and 3-D coordinate geometry, solving linear equations simultaneously by matrices, limits and derivatives of functions, ordinary differential equations, integral calculus, application of differential calculus in biological problems. Laboratory: data presentation in excel; curve fitting; statistical analysis using R; introduction to linux shell and shell scripting; programming with AWK; ASCII data handling and analysis; basics of database management with MySQL; biological columnar data as handling matrices in MATLAB, ODE solver and HMM analysis.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Mathematical and Statistical Biology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mathematical and Statistical Biology"
+  ],
+  "department": "Biometry",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mathematical-and-statistical-biology",
+  "slug": "mathematical-and-statistical-biology"
+}

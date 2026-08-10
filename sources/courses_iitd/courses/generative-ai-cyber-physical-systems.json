@@ -1,0 +1,22 @@
+{
+  "code": "DSL7757",
+  "name": "Generative AI for Cyber-Physical Systems",
+  "description": "This course covers the application of generative AI to cyber-physical systems (CPS). Topics include generative architectures, variational autoencoders, generative adversarial networks, diffusion models, and large language models, applied to CPS tasks: synthetic sensor data generation, anomaly detection, autonomous decision-making via agentic AI, generative design of hardware and sensor networks, and AI-driven digital twins. Students learn to deploy generative models under real-time, resource-constrained, and safety-critical conditions inherent to CPS. Additional topics include edge deployment, hardware-aware optimization, security of generative systems, and ethical considerations for autonomous CPS.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "No formal prerequisites. Recommended: Basic ML/DL knowledge (one introductory course, e.g. COL341/ELL784), Python proficiency, linear algebra and probability. B.Tech 3rd/4th year students may register with instructor approval.",
+  "overlap": null,
+  "learning_outcomes": [
+    "Generative AI for Cyber-Physical Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Generative AI for Cyber-Physical Systems"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/generative-ai-cyber-physical-systems",
+  "slug": "generative-ai-cyber-physical-systems"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MSL7705",
+  "name": "Strategic Thinking and Ambidexterity",
+  "description": "This course contains the following topics:\nFoundations of Strategic Thinking\nStrategic Intent as a Driver of Ambidexterity\nTypes of Ambidexterity\nScanning the Environment: Avenues for Exploration and Exploitation\nAmbidexterity and Strategic Thinking in Action\nAmbidextrous Leadership",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(MSL7701) &(MSL7702)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Strategic Thinking and Ambidexterity | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Strategic Thinking and Ambidexterity"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/strategic-thinking-and-ambidexterity",
+  "slug": "strategic-thinking-and-ambidexterity"
+}

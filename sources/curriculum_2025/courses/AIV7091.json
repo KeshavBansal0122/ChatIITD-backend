@@ -1,0 +1,16 @@
+{
+  "code": "AIV7091",
+  "name": "Research Communication",
+  "description": "Introduction to research communication, poster preparation, oral presentation, and paper writing. Literature review - methodologies and standard tools. Research methodology - problem formulation, design/implementation, evaluation.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AI",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AI#AIV7091"
+}

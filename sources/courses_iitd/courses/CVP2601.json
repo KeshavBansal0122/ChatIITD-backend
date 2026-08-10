@@ -1,0 +1,22 @@
+{
+  "code": "CVP2601",
+  "name": "Traffic Engineering and Transportation Planning Laboratory",
+  "description": "Traffic data collection: spot speed, time headways; Developing traffic flow models: Greenshield\u2019s speed-density relation; Designing traffic signal control, Learning transportation planning: Conducting surveys, Estimating future demand, Perform various steps of four-step travel demand forecasting",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "CVP1301",
+  "overlap": null,
+  "learning_outcomes": [
+    "Traffic Engineering and Transportation Planning Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Traffic Engineering and Transportation Planning Laboratory"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/traffic-engineering-and-transportation-planning-laboratory",
+  "slug": "traffic-engineering-and-transportation-planning-laboratory"
+}

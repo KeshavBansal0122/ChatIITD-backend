@@ -1,0 +1,22 @@
+{
+  "code": "CHL7511",
+  "name": "Introduction to Hydrodynamic Stability",
+  "description": "Overview of methods of stability analysis (linear and nonlinear theories), normal mode analysis. Examples of classical instabilities: Rayleigh-Taylor instability, Rayleigh-B\u00e9nard instability, Rayleigh-plateau instability, and instabilities in Taylor\u2013Couette flow. Instabilities in parallel flows: temporal instability, Orr-Sommerfeld equation and Squire\u2019s transformation; numerical technique for solving the Orr-Sommerfeld equation; spatio-temporal instability: evolution of perturbations in space-time, absolute and convective instabilities. Stability of non-parallel flows: instabilities in weakly nonparallel flows; nonlinear stability theory: weak nonlinearity, Landau equation, nature of bifurcation - supercritical and subcritical; interaction of linear modes, energy methods; transition to turbulence: transient growth, pseudo spectra and nonmodal instabilities.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL2003",
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Hydrodynamic Stability | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Hydrodynamic Stability"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-hydrodynamic-stability",
+  "slug": "introduction-hydrodynamic-stability"
+}

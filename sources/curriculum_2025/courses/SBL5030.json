@@ -1,0 +1,16 @@
+{
+  "code": "SBL5030",
+  "name": "Biology of Microbes",
+  "description": "Lecture: introduction to microbial physiology and structure \u2013 bacteria, viruses, fungi, parasites etc.; introduction to the immune system- cells, factors and mechanisms; molecular mechanisms in pathogen-host interactions\u2013 adherence, virulence, signaling and opportunistic infections; host response, suppression, modulation and evasion; microbial diseases and their societal impact; transmission of microbes - modes and rates of transmission; microbial evolution, antigenic variations, host-switching and molecular epidemiology; antimicrobial agents and resistance; principles of vaccination, herd immunity, implications on public health and biosafety; microbiome in health and disease; microbes in food and dairy industries; bioprocess engineering and technology; fermentation and pharmaceutical microbiology laboratory: preparation of sterile culture media; isolation of microorganisms; bacterial and fungal staining procedures; identification through microscopy methods; identification of immune cells by microscopy.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBL5030"
+}

@@ -1,0 +1,742 @@
+{
+  "code": "TTP",
+  "name": "M.Tech. in Fibre Engineering and Textile Chemical Processing",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=TTP",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 48.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Apply and analyse specialized knowledge in Fiber Engineering and Textile Chemical Processing"
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Create, analyse and evaluate advanced textile materials &amp; processes."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Formulate problems in emerging areas and create sustainable solutions and disseminate generated knowledge."
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "Inculcate &amp; practise ethical and professional values in research &amp; communication"
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "TXD7501",
+        "title": "Major Project Part -1 Fiber Science and Textile Chemistry",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "12"
+        },
+        "credits": "6"
+      },
+      {
+        "course_code": "TXD7502",
+        "title": "Major Project Part-2 Fiber Science and Textile Chemistry",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "24"
+        },
+        "credits": "12"
+      },
+      {
+        "course_code": "TXD7505",
+        "title": "Minor Project (Fibre Science and Textile Chemical Processing)",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXD7507",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7101",
+        "title": "Polymer and Fibre Physics",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7102",
+        "title": "Polymer and Fibre Chemistry",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7103",
+        "title": "Engineering of Melt Spun Fibers",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7104",
+        "title": "Engineering of Solution Spun Fibres",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7401",
+        "title": "Advances in Finishing of Textiles",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7402",
+        "title": "Theory and Practice of Coloration",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7403",
+        "title": "Sustainability in Fibres and Textile Chemical Processing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXN7503",
+        "title": "Teaching Practicum (M.Tech. in Fibre Engineering and Textile Chemical Processing)",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "TXN7504",
+        "title": "Research Practicum (M.Tech. in Fibre Engineering and Textile Chemical Processing)",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "TXP7103",
+        "title": "Fibre Manufacturing Lab",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "TXP7401",
+        "title": "Textile Coloration and Finishing Lab",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "TXP7402",
+        "title": "Analysis of Chemicals and Finished Textiles Lab",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "TXT7505",
+        "title": "Summer Internship (Fibre Engineering and Textile Chemical Processing)",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXN7503",
+        "title": "Teaching Practicum (M.Tech. in Fibre Engineering and Textile Chemical Processing)",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "TXN7504",
+        "title": "Research Practicum (M.Tech. in Fibre Engineering and Textile Chemical Processing)",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "TXD7505",
+        "title": "Minor Project (Fibre Science and Textile Chemical Processing)",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXT7505",
+        "title": "Summer Internship (Fibre Engineering and Textile Chemical Processing)",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7151",
+        "title": "High Performance and Specialty Fibres",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7202",
+        "title": "Mechanics of Yarn Formation",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7302",
+        "title": "Advanced Fabric Manufacturing Technologies",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7351",
+        "title": "Nonwoven Processes and Products",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7352",
+        "title": "Advanced Knitting",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7451",
+        "title": "Technology of Textile Coating and Lamination",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7452",
+        "title": "Colour Science",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7453",
+        "title": "Textile Auxiliaries",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7501",
+        "title": "Technical Textiles",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7552",
+        "title": "Science of Clothing Comfort",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7553",
+        "title": "Principles of Characterization of Functional and Technical Textiles",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7554",
+        "title": "Textile Reinforced Composites",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7555",
+        "title": "Electronics and Controls for Textile Industry",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "TXL7556",
+        "title": "Quality and Process Control in Textiles",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7557",
+        "title": "Machine Learning in Textile and Fibre Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7558",
+        "title": "Heat and Mass Transport in Fibrous Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7559",
+        "title": "Wearable E-Textiles",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7560",
+        "title": "Life Cycle Assessment for Textiles",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7561",
+        "title": "Design Thinking and Product Development",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7562",
+        "title": "Functional and Smart Textiles",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7563",
+        "title": "Science and Applications of Nanotechnology in Textiles",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7565",
+        "title": "Advanced Material Characterization Techniques",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7566",
+        "title": "Design of Functional Clothing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7601",
+        "title": "Design of Experiments and Statistical Analysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7651",
+        "title": "Entrepreneurship and Financial Management",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7652",
+        "title": "Production and Operations Management in Textile Industry",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7653",
+        "title": "Supply Chain Design, Analytics and Management",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXL7654",
+        "title": "Medical Textiles",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "TXP7501",
+        "title": "Evaluation of Textile Materials",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "1"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "TXL7101",
+        "title": "Polymer and Fibre Physics",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "TXL7102",
+        "title": "Polymer and Fibre Chemistry",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "TXL7103",
+        "title": "Engineering of Melt Spun Fibers",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "TXL7402",
+        "title": "Theory and Practice of Coloration",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "TXP7401",
+        "title": "Textile Coloration and Finishing Lab",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 1.0
+      },
+      {
+        "basket": "TTP Teaching or Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "TXD7507",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "TXL7401",
+        "title": "Advances in Finishing of Textiles",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "TXL7403",
+        "title": "Sustainability in Fibres and Textile Chemical Processing",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "TXP7402",
+        "title": "Analysis of Chemicals and Finished Textiles Lab",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "TXL7104",
+        "title": "Engineering of Solution Spun Fibres",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "TXP7103",
+        "title": "Fibre Manufacturing Lab",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 1.0
+      },
+      {
+        "basket": "Sustainability in Fibres and Textile Chemical Processing",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "basket": "TTP Teaching or Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "TXD7501",
+        "title": "Major Project Part -1 Fiber Science and Textile Chemistry",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 12.0
+        },
+        "credits": 6.0
+      },
+      {
+        "basket": "Major Project Part -1 Fiber Science and Textile Chemistry",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 12.0
+        },
+        "credits": 6.0
+      },
+      {
+        "basket": "TTP Teaching or Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "TXD7502",
+        "title": "Major Project Part-2 Fiber Science and Textile Chemistry",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      },
+      {
+        "basket": "Major Project Part-2 Fiber Science and Textile Chemistry",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      },
+      {
+        "basket": "TTP Teaching or Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "TTP \u2013 M. Tech. in Fibre Engineering and Textile Chemical Processing\nM. Tech. in Fibre Engineering and Textile Chemical Processing\nTextile and Fibre Engineering, Department of\nProgramme Code: TTP\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n48\nPE (Programme Elective)\n9\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n63\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nApply and analyse specialized knowledge in Fiber Engineering and Textile Chemical Processing\nPLO 2\nCreate, analyse and evaluate advanced textile materials &amp; processes.\nPLO 3\nFormulate problems in emerging areas and create sustainable solutions and disseminate generated knowledge.\nPLO 4\nInculcate &amp; practise ethical and professional values in research &amp; communication\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nTXD7501 Major Project Part -1 Fiber Science and Textile Chemistry 0 0 12 6\nTXD7502 Major Project Part-2 Fiber Science and Textile Chemistry 0 0 24 12\nTXD7505 Minor Project (Fibre Science and Textile Chemical Processing) 0 0 6 3\nTXD7507 Cornerstone Project 0 0 6 3\nTXL7101 Polymer and Fibre Physics 2 0 2 3\nTXL7102 Polymer and Fibre Chemistry 2 0 2 3\nTXL7103 Engineering of Melt Spun Fibers 3 0 0 3\nTXL7104 Engineering of Solution Spun Fibres 3 0 0 3\nTXL7401 Advances in Finishing of Textiles 3 0 0 3\nTXL7402 Theory and Practice of Coloration 3 0 0 3\nTXL7403 Sustainability in Fibres and Textile Chemical Processing 3 0 0 3\nTXN7503 Teaching Practicum (M.Tech. in Fibre Engineering and Textile Chemical Processing) 0 0 8 4\nTXN7504 Research Practicum (M.Tech. in Fibre Engineering and Textile Chemical Processing) 0 0 8 4\nTXP7103 Fibre Manufacturing Lab 0 0 2 1\nTXP7401 Textile Coloration and Finishing Lab 0 0 2 1\nTXP7402 Analysis of Chemicals and Finished Textiles Lab 0 0 2 1\nTXT7505 Summer Internship (Fibre Engineering and Textile Chemical Processing) 0 0 6 3\nTTP Teaching or Research Practicum (0-0-8) 4 NGU\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nTXN7503 Teaching Practicum (M.Tech. in Fibre Engineering and Textile Chemical Processing) 0 0 8 4\nTXN7504 Research Practicum (M.Tech. in Fibre Engineering and Textile Chemical Processing) 0 0 8 4\nTTP Summer Internship or Minor Project (0-0-6) 3\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nTXD7505 Minor Project (Fibre Science and Textile Chemical Processing) 0 0 6 3\nTXT7505 Summer Internship (Fibre Engineering and Textile Chemical Processing) 0 0 6 3\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nTXL7151 High Performance and Specialty Fibres 3 0 0 3\nTXL7202 Mechanics of Yarn Formation 3 0 0 3\nTXL7302 Advanced Fabric Manufacturing Technologies 3 0 0 3"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CVL3403",
+  "name": "Geotechnical Engineering II",
+  "description": "Site characterization and field tests (SPT, CPT, plate load, pile load); types, selection, and design of foundations. Bearing capacity of shallow foundations using Terzaghi\u2019s and Meyerhof\u2019s theories, and deep foundations through pile analysis, load tests, group efficiency, and lateral response. Settlement analysis covering stress distribution, immediate and consolidation settlements. Slope stability of infinite and finite slopes using Swedish circle and related methods. Earth pressure theories of Rankine and Coulomb, retaining walls, and reinforced soil walls. Earth dams and embankments: design, seepage, and stability. Ground improvement through stabilization, anchorage, grouting, and geosynthetics. Introduction to earthquake geotechnics, liquefaction, seismic stability, machine foundations, geohazards, environmental geotechnics, sustainability, and underground structures.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CVL2402",
+  "overlap": null,
+  "learning_outcomes": [
+    "Geotechnical Engineering II | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Geotechnical Engineering II"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/geotechnical-engineering-ii",
+  "slug": "geotechnical-engineering-ii"
+}

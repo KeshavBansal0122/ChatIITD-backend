@@ -1,0 +1,22 @@
+{
+  "code": "AML8220",
+  "name": "Advanced Finite Element Method",
+  "description": "Revision of basic concepts of FEM, linear finite element formulation of plate elements, introduction to geometric and material nonlinearities, Lagrangian and Eulerian description of motion, strain and stress measures: Green-Lagrange or Green strain tensor, Almansi-Hamel or Eulerian strain tensor, Cauchy stress tensor, first Piola-Kirchhoff stress tensor, second Piola-Kirchhoff stress tensor, energetically-conjugate stresses and strains. Hyperelasticity, linear viscoelasticity, nonlinear finite element formulation: truss, beam, plate and shell elements. Linear/nonlinear dynamics, solution techniques: Newton-Raphson method, path continuation, shooting technique. Finite element formulation involving contact.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "AML3060/AML7070",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Finite Element Method | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Finite Element Method"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-finite-element-method",
+  "slug": "advanced-finite-element-method"
+}

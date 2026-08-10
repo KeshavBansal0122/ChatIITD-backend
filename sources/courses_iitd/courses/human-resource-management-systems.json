@@ -1,0 +1,22 @@
+{
+  "code": "MSL7501",
+  "name": "Human Resource Management Systems",
+  "description": "1. Introduction and Contemporary role of HR & Job analysis, design manpower planning\n2. Recruiting, screening and selecting employees\n3. Performance Management\n4. Compensation & Rewards\n5. Training & Development\n6. Career Management\n7. Managing Exits",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Human Resource Management Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Human Resource Management Systems"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/human-resource-management-systems",
+  "slug": "human-resource-management-systems"
+}

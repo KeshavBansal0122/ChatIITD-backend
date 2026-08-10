@@ -1,0 +1,16 @@
+{
+  "code": "COL7372",
+  "name": "Natural Language Processing",
+  "description": "NLP concepts: tokenization, syntax, information extraction, question answering, semantics, text classification, reasoning and textual inference, language modeling, discourse, machine translation, instruction following, knowledge-based NLP, NLP for low-resource languages, text2code. CS techniques: word2Vec, LSTMs, key-value attention, transformers, LLMs, pre-training, fine-tuning, LoRA, instruction fine-tuning, RLHF, LRMs, RLVR, efficient LLMs, RAG, agentic AI.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL7372"
+}

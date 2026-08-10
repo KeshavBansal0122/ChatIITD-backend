@@ -1,0 +1,22 @@
+{
+  "code": "BML7400",
+  "name": "Biomedical Instrumentation",
+  "description": "Generalized medical instrumentation systems and transducers- digital systems for biomedical instrumentation -introduction to microprocessor, microcontroller, digital signal processors, introduction to control systems- open loop and closed loop system, transfer function, Proportional (P), Proportional-Integral (PI), and Proportional-Integral-Derivative (PID) controllers. Genesis and recording of biosignals, Electrocardiogram (ECG) instrumentation, biomechanical measurements - kinematics, kinetics, anthropometry, ear and ophthalmological measurement- ear hearing loss, sound conduction system, basic and pure tone audiometer, evoked response audiometer, vision- tonometer, ophthalmoscope, perimeter, blood related physical measurements- sound, flow, volume, and pressure. Clinical laboratory instrumentation - introduction to electrochemistry, medical diagnosis with chemical test, spectrophotometer, colorimeter, auto analyzers, clinical flame photometer, selective ion-based electrodes, pathology instrumentation - flow cytometer, haemocytometer, Haemoglobinometer, anaesthesia. Instrumentation - need of anaesthesia, anaesthesia delivery system, breathing circuits. Ventilators, diathermy, introduction to instrumentation in X-ray, Magnetic Resonance Imaging (MRI), Computed Tomography (CT) scan, introduction to Micro-electro-mechanical system (MEMS). Electrical safety in medical environment- shock hazards, leakage current, safety codes, electrical safety analyzer, testing of biomedical equipments.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Biomedical Instrumentation | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Biomedical Instrumentation"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/biomedical-instrumentation",
+  "slug": "biomedical-instrumentation"
+}

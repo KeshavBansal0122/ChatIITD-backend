@@ -1,0 +1,16 @@
+{
+  "code": "AID8095",
+  "name": "MS Research Project",
+  "description": "This is a project/research based work. The student is expected to meet the supervisor regularly and discuss the progress in project. The scope of work would vary from project to project and would be decided by the supervisor.",
+  "credits": 42.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 84.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AI",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AI#AID8095"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MTL5011",
+  "name": "Statistical Inference",
+  "description": "Basic concepts and data visualization: measures of central tendency, dispersion, skewness, kurtosis, data representation using histogram, pie chart, boxplot, biplot; revision of probability distribution: some standard discrete and continuous distributions; some standard probability inequalities; order statistics: different order statistics and their single and joint distribution; mode of convergence, CLT; random number generation: generation of random numbers following certain distributions; sampling distribution of mean, variance; emphasis on normal, chi-square, student&#039;s t, F distributions; theory of estimation: properties of an estimator, sufficient, completeness, minimal sufficient, ancillarity, unbiased estimator, MVUE, BLUE, Fisher information, Cramer-Rao inequality, Rao-Blackwell theorem, Lehmann-Scheff\u00e9 theorem; methods of finding estimators: MoM, MLE; testing of hypothesis: mean and variance, Neyman-Pearson lemma, MLR, Karlin-Rubin theorem, LRT; non-parametric methods run tests, rank tests, signed rank tests, Kolmogorov-Smirnov test, chi-squared goodness of fit test, test of homogeneity, test of independence, etc.; confidence interval estimation: inversion of a test procedure, pivotal approach; methods of evaluating interval estimation.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": "MTL5005",
+  "overlap": null,
+  "learning_outcomes": [
+    "Statistical Inference | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Statistical Inference"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/statistical-inference-0",
+  "slug": "statistical-inference-0"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "AML7450",
+  "name": "Design of Turbomachinery",
+  "description": "Introduction, velocity diagrams, fundamental laws of fluid mechanics, thermodynamics, and compressible flow, and definitions of efficiency. Two-dimensional cascade analysis. Analysis and design of axial-flow turbines and compressors, centrifugal pumps, fans, compressors, and hydraulic turbines. Three-dimensional analysis of axial turbomachines. Combustion systems. Mechanical design of turbomachines.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AML7450"
+}

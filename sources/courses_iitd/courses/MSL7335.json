@@ -1,0 +1,22 @@
+{
+  "code": "MSL7335",
+  "name": "NeuroIS and its Business Applications",
+  "description": "Due to the merging of information systems and neuroscience another field known as NeuroIS has emerged. NeuroIS is a subfield of the information systems (IS) discipline, which relies on neuroscience and neurophysiological knowledge and tools to better understand the development, use, and impact of information and communication technologies. Research evidence supports the idea that human behavior is influenced by individual factors (e.g., genetic predisposition) and environmental factors. These influences affect the brain (e.g., its structure and processing mechanisms) which subsequently impacts the way in which information is processed. By acknowledging this relationship of individual characteristics (e.g., experiences with e-commerce platforms that have led to changes in the brain due to learning processes), environmental influences (e.g., characteristics of an IT artifact such as the usability of an e-commerce platform) and human behavior (e.g., purchasing behavior in an e-commerce context), NeuroIS seeks to understand the internal processes that are involved in the formation of human behavior related to information systems. This course will try to explore applications of NeuroIS and cognitive analytics in different areas, like, neuromarketing, chatbots, emotion/speech detectors, etc.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "NeuroIS and its Business Applications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "NeuroIS and its Business Applications"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/neurois-and-its-business-applications",
+  "slug": "neurois-and-its-business-applications"
+}

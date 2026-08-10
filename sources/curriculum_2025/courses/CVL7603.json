@@ -1,0 +1,16 @@
+{
+  "code": "CVL7603",
+  "name": "Analysis and Design of Tunnels",
+  "description": "Introduction and design concepts; tunnel failures; site investigations; primary supports: steel arches, rock bolts, shotcrete, micropiles, concrete segments; construction methods: in elastic, yielding, intense yielding grounds; tunnel boring machines: open, shield, EPB, hydroshield and hybrid TBMs, selection, RME index; bottom up and top down methods; closed form solutions; overview of design methods: Terzaghi, RMR, Q, ICE, NATM, analytical, numerical, interactive; detailed design with convergence confinement method: GCC, LDP, support curves, interaction plot; stress-strain method: 2-D and 3-D analysis, water effects, seismic effects; rock block stability by stereographic projection; grout characterization; site visit; preparation of geotechnical baseline reports; modelling of sequential excavation, GCC, LDP, supports, interaction plots.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7603"
+}

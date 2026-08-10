@@ -1,0 +1,22 @@
+{
+  "code": "CHL1001",
+  "name": "Transport Phenomena",
+  "description": "Vector and tensor analysis; Euler/Lagrangian viewpoint of momentum transport, stress tensor and Newton&#039;s law of viscosity, shell momentum balances; Newtonian and non-Newtonian fluids; derivation of equations of change for isothermal, non-isothermal, and multicomponent systems; solutions to 1D flow problems involving Newtonian and non-Newtonian fluids; mechanisms of energy transport, energy flux for conduction, convection and viscous dissipation; solutions to 1D energy conduction and convection problems; mechanisms of mass transport, mass and molar diffusion fluxes, derivation and application of continuity equation to mass transfer in binary mixtures; dimensionless numbers in transport phenomena.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Transport Phenomena | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Transport Phenomena"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/transport-phenomena",
+  "slug": "transport-phenomena"
+}

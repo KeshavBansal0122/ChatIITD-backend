@@ -1,0 +1,22 @@
+{
+  "code": "MEL7413",
+  "name": "Radiative Heat Transfer",
+  "description": "Introduction to radiation- recapitulation: radiative properties of opaque surfaces, intensity, emissive power, radiosity, Planck&#039;s law, Wien&#039;s displacement law, black and gray surfaces, view factor. Enclosure with transparent medium- enclosure analysis for diffuse-gray surfaces and non-diffuse, non-gray surfaces, net radiation method. Radiative heat transfer in participating medium- radiation in absorbing, emitting and scattering media. Absorption, scattering and extinction coefficients, radiative transfer equation. Analytical solution of radiative transfer equation. Introduction to different radiation model- discrete transfer method, discrete ordinates method, P-N approximation. Radiation from particulate media, dependent versus independent scattering. Non-gray radiation, modelling of non-gray radiation. Transient radiation and its solution. Radiative transfer in porous media. Combined heat transfer modes- radiation with conduction, combined boundary layer. Physics informed neural network for radiative transfer problems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Radiative Heat Transfer | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Radiative Heat Transfer"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/radiative-heat-transfer",
+  "slug": "radiative-heat-transfer"
+}

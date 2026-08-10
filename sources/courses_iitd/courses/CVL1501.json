@@ -1,0 +1,22 @@
+{
+  "code": "CVL1501",
+  "name": "Mechanics of Solids",
+  "description": "Concept of stress, strain, elasticity and plasticity; Stress-strain relationships; Young\u2019s modulus, shear modulus and Poisson\u2019s ratio; Two-dimensional elasticity; Isotropic and homogeneous materials; Ductile and brittle materials; Statically determinate and indeterminate problems; Compound and composite bars; Thermal stresses; Torsion of shafts; Buckling of struts; Factor of safety; Types of load on beams, axial, shear force and bending moment diagrams; Flexural formula, second moment of area, bending and shear stress for beams; Flitched beams; Transformation equations for plane stress and plane strain; Mohr\u2019s stress circle; Relation between elastic constants, strain measurements, strain rosettes; Governing differential equation for deflection of straight beams, double integration and Macaulay\u2019s methods.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Mechanics of Solids | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mechanics of Solids"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mechanics-solids",
+  "slug": "mechanics-solids"
+}

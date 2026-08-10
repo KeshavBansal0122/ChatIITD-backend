@@ -1,0 +1,16 @@
+{
+  "code": "PYL7003",
+  "name": "Electronic Properties of Materials",
+  "description": "Drude and Sommerfeld theory of metals, the periodic potential, Bloch's theorem, the Kronig-Penny model and origin of bands, example of real band structure, ferromagnetism, molecular field theory, exchange force, band theory of ferromagnetism, ferrimagnetism, ferrites, molecular field theory for ferrimagnets, magnetic domains, type of domain walls, structure of domain walls, soft and hard magnetic materials, spin waves, magnon dispersion relation, dielectric constants of solids and liquids, Claussius-Mossoti relation, dielectric dispersion and losses, piezo, ferro-and pyroelectricity, optical constants, atomistic theory of optical properties, quantum mechanical treatment, band transitions, dispersion, plasma oscillations and excitons.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL7003"
+}

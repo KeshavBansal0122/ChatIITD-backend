@@ -1,0 +1,16 @@
+{
+  "code": "OPV7930",
+  "name": "Photonic Matrix Processors for Artificial Intelligence",
+  "description": "In the era of artificial intelligence (AI), the computational performance of current electronic processors struggles to meet the current requirements for handling massive data flows, energy efficiency, and processing speed. Photonic matrix processors, on the other hand, offer several advantages. The course provides a basic understanding of photonic devices, photonic computing architectures, and matrix processors to meet the growing hardware demand for artificial intelligence.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "OP",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=OP#OPV7930"
+}

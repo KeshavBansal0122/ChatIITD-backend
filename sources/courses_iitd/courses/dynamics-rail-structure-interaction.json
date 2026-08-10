@@ -1,0 +1,22 @@
+{
+  "code": "CVL8455",
+  "name": "Dynamics of Rail-Structure Interaction",
+  "description": "This course covers the fundamental and advanced concepts of railway dynamics, including moving load analysis on beams, elastic and Pasternak foundations, and beam-mass interactions. It explores rail response simulation, vibration control through rail pads, and modeling of viaducts, abutments, and tunnels. Structural response evaluation and field data analysis are also emphasized, incorporating guidelines from research design and standard organization. The practical component includes computer programming for moving load dynamics, finite element modeling of rail components and substructures, application of loads in FEM, vibration monitoring, and signal processing of recorded vibration data to compare with standards for railway infrastructure assessment.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "CVL7412/CVL7413/MCL7206/CVL7206/MCL7204/",
+  "overlap": null,
+  "learning_outcomes": [
+    "Dynamics of Rail-Structure Interaction | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Dynamics of Rail-Structure Interaction"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/dynamics-rail-structure-interaction",
+  "slug": "dynamics-rail-structure-interaction"
+}

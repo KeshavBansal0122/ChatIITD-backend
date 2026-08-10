@@ -1,0 +1,22 @@
+{
+  "code": "BSL9522",
+  "name": "MIMO Wireless Communications",
+  "description": "Introduction to space-time diversity, MIMO channel, MIMO information theory, error probability analysis, transmit diversity and space-time coding, linear STBC design, differential coding for MIMO, precoding, multiuser MIMO, Massive MIMO, recent advancements in MIMO.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "MIMO Wireless Communications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "MIMO Wireless Communications"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mimo-wireless-communications",
+  "slug": "mimo-wireless-communications"
+}

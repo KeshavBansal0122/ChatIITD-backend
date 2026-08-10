@@ -1,0 +1,21 @@
+{
+  "code": "HSN5000",
+  "name": "Research Ethics",
+  "description": "This course discusses the principles that govern responsible research practices, especially those involving human participants including vulnerable populations. It will examine why there is a need to discuss and not just follow a checklist of procedural guidelines.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Research Ethics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/research-ethics",
+  "slug": "research-ethics"
+}

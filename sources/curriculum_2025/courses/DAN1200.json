@@ -1,0 +1,16 @@
+{
+  "code": "DAN1200",
+  "name": "Life Skills 2",
+  "description": "Choice based workshops on the topics related to overall well-being and development of students beyond academics. Students would be given options to choose the workshops based on thier interests. A suggested list of topics is as following\r\n1. Professional Ethics (case studies from corporate, govt., etc.)\r\n2. Understanding Rural India\r\n3. Introduction to Wellness\r\n4. India\u2019s grand challenges\r\n5. Systems thinking\r\n6. Design thinking\r\n7. Personal Finance\r\n8. Social communications\r\n9. Negotiation skills\r\n10. Understanding Family in the Context of Self and Society\r\n11. Environmental Sustainability (how personal choices have an impact)\r\n12. Workshop on minimalism\r\n12. Understanding India\r\n13. Negotiating Skills\r\n14. Understanding Constitution/Law For Civic Duties\r\n15. Connecting with nature\r\n16. Digital wellness\r\n17. Mental wellbeing\r\n18. Leadership development",
+  "credits": 0.25,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 0.5
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DA",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DA#DAN1200"
+}

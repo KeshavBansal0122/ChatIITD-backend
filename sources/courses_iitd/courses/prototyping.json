@@ -1,0 +1,21 @@
+{
+  "code": "DDP1006",
+  "name": "Prototyping",
+  "description": "The students would get hands-on exposure to the CAD tools and digital fabrication based prototyping techniques such as additive manufacturing, computer controlled cutting and machining, molding and casting, microcontroller programming, input devices including sensors, output devices including actuators. The students would also work on a course project assimilating the skills learnt in the class. This course should enable the students to gain the confidence to translate their ideas to build prototypes.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Prototyping | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/prototyping",
+  "slug": "prototyping"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "PYL7047",
+  "name": "Nonlinear Optics",
+  "description": "Polarization theory of light matter interaction, microscopic origin of non-linearities, nonlinear optical susceptibility of centrosymmetric and noncentrosymmetric media, nonlinear EM wave equation: coupled wave equations for three- and four-wave mixing processes; phase matching condition; parametric and nonparametric processes, second order nonlinear optics: second harmonic generation; difference and sum frequency generation; parametric amplification; spontaneous parametric down conversion; quasi phase matching; optical parametric oscillators and amplifiers, third-order nonlinear optics: third harmonic generation; self-phase modulation; cross-phase modulation; degenerate four-wave mixing; two-photon absorption; nonlinear optical Kerr-effect, nonlinear stimulated scattering processes, optical solitons in dielectric media and waveguides, special effects in nonlinear optics and devices: electro-optic effect; magneto-optic effect; acousto-optic effect; photo-refractive effect; impact of nonlinear effects in light wave communication; optical phase conjugation; optical bi-stability and optical switching, extreme nonlinear light matter interaction with ultra-fast optics: supercontinuum generation; multi-photon absorption; nonlinear optics in two-level approximation; rabi oscillations; multiphoton ionization of atoms; high-harmonic generation from atoms; attosecond optics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL7047"
+}

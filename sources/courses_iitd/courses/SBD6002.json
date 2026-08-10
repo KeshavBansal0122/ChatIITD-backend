@@ -1,0 +1,22 @@
+{
+  "code": "SBD6002",
+  "name": "MSc Project/Internship",
+  "description": "This course encompasses the major dissertation work for the MSc biological sciences program undertaken in the third semester. The work may include the following semester-long project work activity based on pre-approved and clear objectives to solve a research problem in the frontier areas of biological sciences. The students can opt between (i) A project work under the supervision of a faculty at IIT Delhi, (ii) A project work in any other research institute or academic institution in India or abroad preapproved by the school research committee (ScRC) and with a KSBS co-supervisor/mentor (iii) an industrial internship on a research problem and external mentor preapproved by the ScRC with a KSBS co-supervisor/mentor. Project evaluation to be performed by a committee including the project mentor(s)/supervisor(s), MSc program coordinator and ScRC nominee(s).",
+  "credits": 17.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 34.0
+  },
+  "prereq": "SBD6001",
+  "overlap": null,
+  "learning_outcomes": [
+    "MSc Project/Internship | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "MSc Project/Internship"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/msc-projectinternship",
+  "slug": "msc-projectinternship"
+}

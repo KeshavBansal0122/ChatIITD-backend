@@ -1,0 +1,16 @@
+{
+  "code": "PYL5052",
+  "name": "Electrodynamics",
+  "description": "Electrostatics, conductors, dielectrics, magnetostatics, boundary conditions, time dependent fields, waves in un-bounded and bounded media, relativistic formulations of maxwell\u2019s equations, radiation from accelerating charges, scattering of electromagnetic waves.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL5052"
+}

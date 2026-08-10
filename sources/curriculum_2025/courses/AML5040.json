@@ -1,0 +1,16 @@
+{
+  "code": "AML5040",
+  "name": "Ship Dynamics",
+  "description": "Dynamics of oceans. Wave characteristics. Probabilistic theory of waves. Ship motions in regular and irregular seaway. Coupled and non-linear ship motions. Ship motion stabilization systems. Seakeeping tests and trials. Seakeeping trials and evaluation. Directional stability and maneuvering of ships. Controls fixed equations of maneuvering. Motion stability criteria. Hydrodynamic derivatives -linear and non-linear. Rudder dynamics. Maneuvering trials and evaluation criteria. Model tests for maneuvering.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AML5040"
+}

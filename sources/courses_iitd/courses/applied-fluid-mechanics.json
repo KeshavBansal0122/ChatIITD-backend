@@ -1,0 +1,22 @@
+{
+  "code": "AML5030",
+  "name": "Applied Fluid Mechanics",
+  "description": "Basic equations: Eulerian and Lagrangian descriptions, flow visualization, stress tensor, conservation laws, newtonian fluids, body forces. Ideal fluid flow: governing equations, circulation, vorticity, vortex structures, potential flow. Bernoulli and Laplace equations. Thin aerofoil theory: lifting surfaces, lift and drag, Kutta-Joukowski theorem, Kutta condition, slender-body approximation. Viscous flow: D&#039;Alembert\u2019s paradox, form drag, laminar boundary layers, drag crisis, Navier-Stokes equations, boundary conditions. Turbulence: Reynolds stress, turbulent boundary layers, roughness effects, RANS equations, turbulence modeling. Water wave mechanics: nonlinear and linear wave theories, wave forces, dispersion relation, diffraction, and radiation forces. Tutorial activities: vector calculus applications, vortex structures, potential flows, boundary layers, wave forces on submerged bodies, lifting surface problems, and dispersion relations.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Applied Fluid Mechanics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Applied Fluid Mechanics"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/applied-fluid-mechanics",
+  "slug": "applied-fluid-mechanics"
+}

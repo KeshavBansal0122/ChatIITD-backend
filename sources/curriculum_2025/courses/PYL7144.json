@@ -1,0 +1,16 @@
+{
+  "code": "PYL7144",
+  "name": "The Standard Model of Elementary Particles",
+  "description": "Fundamental interactions and elementary particles. Symmetries and gauge theories, symmetry breaking and Goldstone theorem, Brout-Englert-Higgs mechanism, Glashow-Weinberg-Salam theory, the standard model of particle physics, success and limitations of the standard model.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL7144"
+}

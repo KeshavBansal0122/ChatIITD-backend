@@ -1,0 +1,22 @@
+{
+  "code": "AML7660",
+  "name": "Meshless and Particle-based Methods",
+  "description": "Introduction to Lagrangian and Hamiltonian Mechanics; conservation of momentum; statistical behaviour of large systems; Boltzmann\u2019s equation; Continuum kinematics; Continuum conservation laws; Viscous stresses through Boltzmann; Smoothed Particle Hydrodynamics and discrete interpolation; Discrete conservation laws; Temporal integration; Advanced topics",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(AML2020/AML2010) &AML3000/AML7000",
+  "overlap": null,
+  "learning_outcomes": [
+    "Meshless and Particle-based Methods | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Meshless and Particle-based Methods"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/meshless-and-particle-based-methods-0",
+  "slug": "meshless-and-particle-based-methods-0"
+}

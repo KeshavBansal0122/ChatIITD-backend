@@ -1,0 +1,22 @@
+{
+  "code": "CVL7815",
+  "name": "Hydroelectric Engineering",
+  "description": "Hydropower development schemes and their various configurations; planning for firm capacities, peak load, and base load configurations; role and regulation of hydropower development in a mixed hydro-steam system; governing of hydropower systems; study of types of hydro turbines (Pelton, Francis, Kaplan and others), selection of turbines based on head and discharge, governing and regulation of turbines; study of hydraulic transients in penstocks; surge analysis and dynamics of surge tanks; micro and small hydropower developments; pumped-storage hydropower plants; tidal hydropower plants; impact of hydropower projects on environment and economic development; risk assessment of hydropower plants.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Hydroelectric Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Hydroelectric Engineering"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/hydroelectric-engineering",
+  "slug": "hydroelectric-engineering"
+}

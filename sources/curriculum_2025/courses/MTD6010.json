@@ -1,0 +1,16 @@
+{
+  "code": "MTD6010",
+  "name": "M.Sc. Project Part I",
+  "description": "It is an independent research project engaging students in systematic research themes, strong foundation and analysis, experimental/computational work, data analysis, developing critical problem-solving skills, and advanced research and technical knowledge in their specialized project domain.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTD6010"
+}

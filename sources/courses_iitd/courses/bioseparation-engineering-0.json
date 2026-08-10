@@ -1,0 +1,22 @@
+{
+  "code": "BBL3214",
+  "name": "Bioseparation Engineering",
+  "description": "Characteristics of bioproducts, mechanical separations, cell disruption, solvent extraction, adsorption, Chromatography, membrane separations, crystallization and process integration. Lab practicals on filtration , centrifugation, settling, column packing, breakthrough curves, solvent extraction. gel filtration, HPLC and SMB",
+  "credits": 4.5,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Bioseparation Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Bioseparation Engineering"
+  ],
+  "department": "Biochemical Engineering and Biotechnology, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/bioseparation-engineering-0",
+  "slug": "bioseparation-engineering-0"
+}

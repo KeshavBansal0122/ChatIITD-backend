@@ -1,0 +1,22 @@
+{
+  "code": "COL3681",
+  "name": "Computer Graphics",
+  "description": "Graphics pipeline; graphics hardware: display devices, input devices; raster graphics: line and circle drawing algorithms; windowing and 2D/3D clipping: cohen and sutherland line clipping, cyrus beck clipping method; 2D and 3D geometrical transformations: scaling, translation, rotation, reflection; viewing transformations: parallel and perspective projection; curves and surfaces: cubic splines, bezier curves, B-splines, parametric surfaces, surface of revolution, sweep surfaces, fractal curves and surfaces; hidden line/surface removal methods; illuminations model; shading: gouraud, phong; introduction to ray-tracing; animation; programming practices with standard graphics libraries like openGL.",
+  "credits": 4.5,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "prereq": "(COL3655)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Computer Graphics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Computer Graphics"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/computer-graphics",
+  "slug": "computer-graphics"
+}

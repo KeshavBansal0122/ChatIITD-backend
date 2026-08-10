@@ -1,0 +1,22 @@
+{
+  "code": "CVL8452",
+  "name": "Atomistic & Multiscale Modelling of Materials",
+  "description": "Introduction to simulation and modelling; interatomic potentials; short and long range forces; atomic definition of pressure and temperature: equation of state; monte carlo methods: precipitation; energy minimization; molecular dynamics simulations; introduction to machine learning for simulations; machine learned interatomic potentials; upscaling results from molecular dynamics; benchmarking and evaluation of potentials; some examples including modeling of fracture, and impact.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Atomistic & Multiscale Modelling of Materials | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Atomistic & Multiscale Modelling of Materials"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/atomistic-multiscale-modelling-materials",
+  "slug": "atomistic-multiscale-modelling-materials"
+}

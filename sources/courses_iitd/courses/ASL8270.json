@@ -1,0 +1,22 @@
+{
+  "code": "ASL8270",
+  "name": "Advanced Dynamical Oceanography",
+  "description": "Conservation laws for moving fluids, Ekman and Sverdrup theories, coastal upwelling and fronts, Western boundary intensification, barotropic currents, baroclinic transport over topography, thermohaline circulation, Mesoscale eddies and variability. Indian ocean circulation, wave theory, ocean wave spectra, wave energy equation, breaking waves, reflection and dissipation, theory of tides, tidal currents, tidal processes in embayment and estuaries, wind and buoyancy driven currents, near\u2010shore circulation, alongshore currents, wave\u2010current interaction, sediment transport, coastal ocean response to extreme wind forcing, storm surges, planetary and equatorial waves, coastally trapped Kelvin waves.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ASL7370/ASL7340",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Dynamical Oceanography | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Dynamical Oceanography"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-dynamical-oceanography",
+  "slug": "advanced-dynamical-oceanography"
+}

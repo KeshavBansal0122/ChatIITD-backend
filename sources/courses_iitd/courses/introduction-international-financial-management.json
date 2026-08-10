@@ -1,0 +1,22 @@
+{
+  "code": "MSL7112",
+  "name": "Introduction to International Financial Management",
+  "description": "This course aims to develop an understanding of international financial markets and foreign exchange mechanisms. It introduces students to global trade and financial flows, the structure and significance of the Balance of Payments, and key exchange rate theories such as PPP and IRP. The course further builds practical skills in analyzing spot and forward currency markets, arbitrage opportunities, and the use of derivatives including currency options and futures for risk management and international transaction pricing.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(MSL7101)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to International Financial Management | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to International Financial Management"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-international-financial-management",
+  "slug": "introduction-international-financial-management"
+}

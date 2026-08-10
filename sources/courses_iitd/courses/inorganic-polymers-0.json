@@ -1,0 +1,22 @@
+{
+  "code": "CML6082",
+  "name": "Inorganic Polymers",
+  "description": "Homo and heterocatenated inorganic polymers \u2013 general introduction. Polyphosphazenes: synthetic routes and bonding features, polymerization of organo/organometallic substituted phosphazenes and their applications. Polysilanes: synthesis and characterization of polysilanes, unique electronic and optical properties and its applications. Polysiloxanes: precursors used in synthesis of polysiloxanes via anionic and cationic polymerization methods, properties and environmental aspects. Polysiloles and their comparison with polythiophenes. Introduction to organometallic polymers: synthesis of poly(ferrocenylsilane)s and their applications. Catalytic methods for homo and hetero-catenated polymers. Characterization methods (spectroscopy, gel permeation chromatography, differential scanning calorimetry).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Inorganic Polymers | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Inorganic Polymers"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/inorganic-polymers-0",
+  "slug": "inorganic-polymers-0"
+}

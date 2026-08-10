@@ -1,0 +1,16 @@
+{
+  "code": "DDP1001",
+  "name": "Drawing and Visualisation",
+  "description": "Introduction to freehand drawing, perspective drawing, light and shadow, composition, and rendering techniques. Exercises in line drawing, gesture sketching, and creative visualization. Proportions, anatomy, form, space, perspective drawing. Object and space rendering, environment drawing. Practical sessions on digital and analog media for visual representation. Introduction to colour theory, primary, secondary and tertiary colours, colour wheel, value - grayscale, tints and shades, colour interaction. Introduction to analytical drawing using an isometric grid; drawing planar elements - shapes like squares, rectangles, ellipses, etc.; solids like cuboids, cylinders and platonic solids. Exercises in drawing out set theory / boolean operations - union, subtraction and intersection - of solids; and form manipulation using chamfer and filleting operations. Understanding geometry of objects through drawing wireframes and HLR - hidden line removal. Introduction to geometric construction; drawing regular polygons, tessellations and patterns, formal intersections; understanding accuracy and precision, as a base for making mock-ups and models. Introduction to orthographic drawing, visualising and representing objects through technical drawings, basic rules of third angle projection.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DD#DDP1001"
+}

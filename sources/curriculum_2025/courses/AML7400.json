@@ -1,0 +1,16 @@
+{
+  "code": "AML7400",
+  "name": "Environmental Fluid Dynamics",
+  "description": "Basic equations of motion in a rotating frame, effect of stratification, Boussinesq and hydrostatic approximations, vorticity equation, geostrophic balance, thermal wind balance, shallow-water equations, surface and internal gravity waves, bifurcations and transition, Kelvin-Helmholtz instability, thermal instability, barotropic and baroclinic instability, gravity currents, thermals and plumes, natural ventilation, fluid dynamics for sustainability and the environment, turbulent dispersion, introduction to numerical ocean and climate modelling.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AML7400"
+}

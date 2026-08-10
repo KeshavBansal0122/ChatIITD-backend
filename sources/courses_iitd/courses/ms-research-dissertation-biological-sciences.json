@@ -1,0 +1,22 @@
+{
+  "code": "SBD8950",
+  "name": "M.S. Research Dissertation in Biological Sciences",
+  "description": "The major dissertation work for MSR students will be performed under the supervision of a KSBS faculty member. The respective supervisors will individually assign the research problem, and the students will undertake the problem early in the program.",
+  "credits": 42.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 84.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "M.S. Research Dissertation in Biological Sciences | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "M.S. Research Dissertation in Biological Sciences"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/ms-research-dissertation-biological-sciences",
+  "slug": "ms-research-dissertation-biological-sciences"
+}

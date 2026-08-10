@@ -1,0 +1,16 @@
+{
+  "code": "TXL7652",
+  "name": "Production and Operations Management in Textile Industry",
+  "description": "Production and operations management functions, investment decisions and evaluation techniques, payback period, ARR, NPV, IRR; facility location and facility layout, job shop, flow shop and cellular layouts, assembly line balancing; forecasting, qualitative and quantitative techniques; inventory management, inventory policies, economic order quantity models with and without shortages; aggregate production planning, strategies, LP model; materials requirement planning, bill of materials; scheduling of operations, algorithms for job shop and flow shop scheduling; project management, AOA and AON, network diagram, CPM and PERT; quality management, control charts, cost of quality, quality; supply chain management.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL7652"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CHL7201",
+  "name": "Advanced Process Data Analytics",
+  "description": "Introduction to traditional machine learning algorithms, advances in regression (recursive regression, Poisson regression, quantile regression), advances in ensemble methods (adaptive boosting, gradient boosting and extreme gradient boosting.), physics informed neural network, forward-forward neural network, graph neural network, neuro-symbolic AI, time series analysis, multi-agent reinforced learning, explainable AI (SHAP, LIME), generative AI, model unlearning, applications to process systems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CH",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CH#CHL7201"
+}

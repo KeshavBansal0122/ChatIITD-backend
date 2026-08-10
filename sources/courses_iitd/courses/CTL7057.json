@@ -1,0 +1,22 @@
+{
+  "code": "CTL7057",
+  "name": "Vehicular Networking and V2X Communications",
+  "description": "Introduction to vehicular communications and V2X requirements (latency, reliability, scalability, awareness range); ITS spectrum and multichannel operation; ETSI ITS architecture and protocol stack (Access, Networking/Transport, Facilities, Applications); wireless propagation for mobility (pathloss, shadowing, multipath, Doppler) and SINR-based performance limits; V2X radio technologies (IEEE 802.11p/ITS-G5, LTE-V2X, and 5G NR-V2X); MAC/resource allocation (CSMA/CA, sensing-based SPS, sidelink scheduling, RAN Slicing); ETSI Decentralized Congestion Control (DCC); GeoNetworking/BTP; Facilities-layer services and V2X messages (CAM, DENM, CPM, MCM) for cooperative awareness, cooperative perception, and maneuver coordination applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Vehicular Networking and V2X Communications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Vehicular Networking and V2X Communications"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/vehicular-networking-and-v2x-communications",
+  "slug": "vehicular-networking-and-v2x-communications"
+}

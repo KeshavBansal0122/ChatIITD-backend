@@ -1,0 +1,22 @@
+{
+  "code": "MSL7123",
+  "name": "Foundations in Financial Technology",
+  "description": "This course introduces the evolution of Financial Technology (FinTech) and the growing interaction between finance and digital technologies. It examines digital money, cryptocurrencies, and blockchain-based systems, along with emerging investment platforms enabled by AI and data analytics. The course also discusses cybersecurity, data protection, and technological risks in financial systems. Through global case studies, students explore real-world FinTech applications, emerging business models, and the evolving regulatory landscape, including the role of RegTech in shaping the future of financial services.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(MSL7101)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Foundations in Financial Technology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Foundations in Financial Technology"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/foundations-financial-technology",
+  "slug": "foundations-financial-technology"
+}

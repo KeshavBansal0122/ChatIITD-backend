@@ -1,0 +1,22 @@
+{
+  "code": "BML7150",
+  "name": "Quantum Biotechnology",
+  "description": "Introducing the quantum advantage to health science researchers, quantum sensing of electric fields, magnetic fields and electromagnetic fields, quantum biophotonics, biomolecular reaction engineering using the quantum advantage, quantum biomaterials for energy harvesting, the future of quantum biotechnology, investigating quantum computing in biological systems, quantum biotechnology in therapeutics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Quantum Biotechnology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Quantum Biotechnology"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/quantum-biotechnology",
+  "slug": "quantum-biotechnology"
+}

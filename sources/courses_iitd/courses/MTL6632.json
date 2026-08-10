@@ -1,0 +1,22 @@
+{
+  "code": "MTL6632",
+  "name": "Nonparametric Statistical Methods",
+  "description": "Order statistics, their distributions, and associated statistical properties; Introduction to nonparametric tests; Comparison of parametric and nonparametric tests; Tests for randomness: run test; Goodness of fit tests: chi-square test, one-sample Kolmogorov-Smirnov test; One-sample and paired-sample tests: sign test, Wilcoxon signed-rank test; Rank-order statistics; Two-sample tests: Wald-Wolfowitz run test, Kolmogorov-Smirnov two-sample test, median test, Mann-Whitney &#039;U&#039; test; Linear rank tests for location and scale problems, k-sample problems; Measures of association; Asymptotic relative efficiency; Bootstrap and Jackknife resampling methods; Nonparametric regression.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "MTL5005&MTL5011",
+  "overlap": null,
+  "learning_outcomes": [
+    "Nonparametric Statistical Methods | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Nonparametric Statistical Methods"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/nonparametric-statistical-methods",
+  "slug": "nonparametric-statistical-methods"
+}

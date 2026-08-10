@@ -1,0 +1,22 @@
+{
+  "code": "MEL8263",
+  "name": "Experimental Modal Analysis",
+  "description": "The theoretical basis of modal analysis; modal analysis of single and multi-degree of freedom undamped and damped systems; characteristics of FRFs; signal processing for modal analysis; FRF measurement using impact testing; impact hammer, accelerometers; LDV; vibration shaker; force transducers; FRF measurement using shaker testing; shaker-structure interaction; measurement with various excitation signals; modal parameter estimation; SDOF methods; MDOF methods; frequency domain and time domain methods; mode indicator functions; phase resonance testing; EMA applications; dynamic design; model updating; structural dynamic modification; force identification; response simulation; practicals on modal testing using an impact hammer, modal testing using a shaker, modal parameter estimation, SDM and model validation and updating.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Experimental Modal Analysis | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Experimental Modal Analysis"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/experimental-modal-analysis",
+  "slug": "experimental-modal-analysis"
+}

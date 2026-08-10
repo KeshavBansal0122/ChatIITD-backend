@@ -1,0 +1,22 @@
+{
+  "code": "PYL7064",
+  "name": "Quantum Communication",
+  "description": "Aspects of quantum information, quantum randomness, photon encoding, quantum communication channels, sources and detectors for quantum communication, basics of cryptography, quantum cryptography. CV and DV QKD, post processing, prepare and measure and entanglement based QKD protocols, hardware aspects of QKD, attacks and countermeasures, quantum teleportation, quantum memory and repeaters, entanglement swapping and dense coding, quantum networks and quantum internet, seminal experiments in quantum communication: fibre, free-space and satellite based QKD, intercity and backbone quantum networks.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Quantum Communication | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Quantum Communication"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/quantum-communication",
+  "slug": "quantum-communication"
+}

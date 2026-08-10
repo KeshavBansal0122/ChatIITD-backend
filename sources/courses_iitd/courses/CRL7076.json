@@ -1,0 +1,22 @@
+{
+  "code": "CRL7076",
+  "name": "ESD and I/O Circuit Design",
+  "description": "Introduction to ESD (electrostatic discharge) in IC design 2. ESD protection design methodologies 3. ESD protection devices and components 4. Latch-up and ESD robustness 5. ESD protection for high-speed and RF circuits 6. Circuit-level ESD design and simulations 7. ESD protection for advanced CMOS and FinFET technologies 8. Introduction to I/O circuit design 9. High-speed and low-power I/O design 10. ESD and reliability considerations in I/O circuits 11. Testing and qualification of ESD and I/O circuits 12. Future trends in ESD and I/O circuit design.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "ESD and I/O Circuit Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "ESD and I/O Circuit Design"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/esd-and-io-circuit-design",
+  "slug": "esd-and-io-circuit-design"
+}

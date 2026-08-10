@@ -1,0 +1,22 @@
+{
+  "code": "COL7711",
+  "name": "Computational Social Choice",
+  "description": "Introduction to computational social choice, practical applications and challenges. Stable matchings: applications, strategic aspects, fairness, many-to-one matchings. One-sided preferences and kidney exchange. Fair division: preference representation, principles of distributive justice, collective welfare criteria, cake cutting, rent division. Applications and deployments of fair division algorithms. Fair allocation of indivisible goods, Pareto optimality, Nash social welfare, chores, randomized allocations. Voting: introduction to voting rules, axioms and practical applications, strategic considerations, Gibbard-Satterthwaite and Arrow\u2019s theorems, rank aggregation, distortion. Modern paradigms: Multiwinner voting, preference models, representation axioms. Participatory budgeting, ballot design, representation axioms and algorithms, deployment, preference elicitation. Apportionment methods and paradoxes, randomized apportionment, roster design and applications in the Indian context.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(COL1002/MTL1080)(COL2051/MTL2042)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Computational Social Choice | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Computational Social Choice"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/computational-social-choice-0",
+  "slug": "computational-social-choice-0"
+}

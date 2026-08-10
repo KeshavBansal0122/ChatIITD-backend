@@ -1,0 +1,22 @@
+{
+  "code": "CML7014",
+  "name": "Applied Spectroscopy",
+  "description": "Applications of advanced 1D-NMR techniques such as nOe, 1D 13C-NMR (including APT and DEPT) techniques, multinuclear NMR spectroscopy, 2D NMR techniques (COSY, HETCOR, HSQC, HMBC, NOESY, ROESY etc.) for the structural and stereochemical determination of organic compounds. Introduction to various types of ionizations (such as EI, CI, MALDI, field ionization/desorption, electrospray ionization) and analyzers (such as quadrupole, time of flight, triple quadrupole, QqTOF, ion-trap) in mass spectrometry for MS, MS/MS and MSn applications. Determination of peptide sequence using mass spectrometric techniques.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Applied Spectroscopy | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Applied Spectroscopy"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/applied-spectroscopy",
+  "slug": "applied-spectroscopy"
+}

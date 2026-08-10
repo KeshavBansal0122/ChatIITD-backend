@@ -1,0 +1,21 @@
+{
+  "code": "SBL7002",
+  "name": "Systems Biology",
+  "description": "Introduction to the genetic code, control of gene expression, operons and regulons; signal transduction, signaling pathways and cascade, information processing and transmission, pathway dynamics; elements of process control, feedback, feed forward and cascade control, dynamics of closed loops, analogies with control of gene expression; basic graph theory, graph representation of metabolic pathways; examples of transcription networks, determination of simple motifs in genetic networks; guidelines for analyzing gene regulatory networks, circuit dynamics; modeling, simulation and prediction of cellular events, micro-macro relations; experimental methods, existing databases; platforms and applications; case studies from literature - circadian clock, metabolic networks, disease networks; new frontiers.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "SBL1100/SBL1102",
+  "overlap": null,
+  "learning_outcomes": [
+    "Systems Biology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/systems-biology",
+  "slug": "systems-biology"
+}

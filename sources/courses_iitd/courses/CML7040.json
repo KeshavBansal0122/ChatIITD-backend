@@ -1,0 +1,22 @@
+{
+  "code": "CML7040",
+  "name": "Chemistry of Heterocyclic Compounds",
+  "description": "Chemistry of heterocyclic compounds containing one, two and three heteroatoms. Total synthesis of representative natural products.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Chemistry of Heterocyclic Compounds | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Chemistry of Heterocyclic Compounds"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/chemistry-heterocyclic-compounds",
+  "slug": "chemistry-heterocyclic-compounds"
+}

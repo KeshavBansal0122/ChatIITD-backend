@@ -1,0 +1,22 @@
+{
+  "code": "ASL3200",
+  "name": "Climate Change: Impacts, Adaptation and Mitigation",
+  "description": "Elements of physical climatology, climate variability; anthropogenic causes of climate change; radiative forcing, climate feedbacks and climate sensitivity; observed climate record and paleo reconstruction; modeling aspects of the climate system; carbon emission pathways, scenario development and climate simulations of the future; socio-economic impacts, quantifying uncertainties, tipping points and irreversible changes; observed and projected changes in weather, monsoons, teleconnections, extreme weather events and sea level in India; climate hot spots, sector-wise vulnerability and adaptation; reducing greenhouse gas emissions, clean energy technologies and geoengineering options. Practical component: analysis of observed and projected climate datasets, trends, extremes, vulnerability and mitigation scenarios.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Climate Change: Impacts, Adaptation and Mitigation | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Climate Change: Impacts, Adaptation and Mitigation"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/climate-change-impacts-adaptation-and-mitigation",
+  "slug": "climate-change-impacts-adaptation-and-mitigation"
+}

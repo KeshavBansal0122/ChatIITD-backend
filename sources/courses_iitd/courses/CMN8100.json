@@ -1,0 +1,22 @@
+{
+  "code": "CMN8100",
+  "name": "Research Communication and Professional Ethics in Chemistry",
+  "description": "1. Foundations of Scientific Method and Reasoning: Inductive vs Deductive Reasoning, Oral research presentations, literature survey (using scientific search engines), research article reading and drafting, Poster presentations.\n2. Research & Academic Integrity: types of plagiarism (direct, self-plagiarism, inadvertent plagiarism), Paraphrasing versus copying, proper attribution, ethical use of AI in academic writing. Literature review - methodologies and standard tools. Research methodology - problem formulation, design/implementation, evaluation. Chemical structure designing. Misconducts: Fabrication, falsification, manipulation of data/images, Selective reporting, salami slicing, Unethical authorship practices (ghost authorship, gift authorship, predatory publishing)\n3. Chemical safety concept - recognize chemical hazards, Assess the risks from the hazards, minimize and manage the risks, and prepare for the unexpected and emergencies.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Research Communication and Professional Ethics in Chemistry | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Research Communication and Professional Ethics in Chemistry"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/research-communication-and-professional-ethics-chemistry",
+  "slug": "research-communication-and-professional-ethics-chemistry"
+}

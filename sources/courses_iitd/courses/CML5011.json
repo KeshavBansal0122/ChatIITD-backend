@@ -1,0 +1,22 @@
+{
+  "code": "CML5011",
+  "name": "Quantum Chemistry and Spectroscopy",
+  "description": "Basic concepts and postulates of quantum mechanics. Simple systems (particle in a box, harmonic oscillator) hydrogen atom. Many electron atoms. Variation theorem. Perturbation theory. Molecular orbital and valence bond theories. Fundamentals of electronic, vibrational and rotational spectroscopy.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Quantum Chemistry and Spectroscopy | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Quantum Chemistry and Spectroscopy"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/quantum-chemistry-and-spectroscopy",
+  "slug": "quantum-chemistry-and-spectroscopy"
+}

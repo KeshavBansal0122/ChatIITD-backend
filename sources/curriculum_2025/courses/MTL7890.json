@@ -1,0 +1,16 @@
+{
+  "code": "MTL7890",
+  "name": "Optimization Algorithms",
+  "description": "Convex function, quasiconvex function, log convex function, strongly convex functions, supporting and separating hyperplanes, separation theorems, convex optimization, first and second order necessary and sufficient conditions, Lagrange dual, duality theorems, algorithm features, how quickly they work, one-dimensional line search and approximate line search methods, Armijo conditions, gradient descent method, stochastic gradient method, batch optimization, gradient method with momentum, accelerated gradient method, splitting methods and ADMM, Newton method, modified Newton method, conjugate gradient method, quasi-Newton method, stochastic quasi-Newton method, constrained optimization, projection method, penalty method, barrier method, sequential quadratic method, solution methods for quadratic problems; descriptions, features, and applications of these methods into practice",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTL7890"
+}

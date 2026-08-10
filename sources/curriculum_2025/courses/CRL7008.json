@@ -1,0 +1,16 @@
+{
+  "code": "CRL7008",
+  "name": "Sonar System Engineering",
+  "description": "Introduction to sonar types and applications; basic acoustics concepts; physical quantities and units; active and passive sonar equations and their limitations; transducers, directionality and arrays; generation of underwater sound \u2013 radiated and self-noise of ships; ambient noise background in the sea; propagation of sound in the sea \u2013 characteristics, types of sound channels, ray and modal theories; reflection and scattering by sonar targets; sound scattering in the sea and reverberation; detection of signals in noise and reverberation using active and passive sonars; sonar system design and performance estimation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CR#CRL7008"
+}

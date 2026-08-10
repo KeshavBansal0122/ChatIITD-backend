@@ -1,0 +1,22 @@
+{
+  "code": "HSL7211",
+  "name": "Economics of the Family",
+  "description": "The economics of the family deals with two questions: who marries whom and how decisions are made within families. Decisions within families include decision to have children and decision over the allocation of time and resources. This course introduces students to the economics of the family starting from Gary Becker\u2019s Treatise of the Family to contemporary literature. The course will include theoretical and empirical literature with a special focus on literature on South Asia. Topics include marriage, divorce, fertility, dowry and bride price, and the role of family friendly policies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "HSL5011",
+  "overlap": null,
+  "learning_outcomes": [
+    "Economics of the Family | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Economics of the Family"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/economics-family",
+  "slug": "economics-family"
+}

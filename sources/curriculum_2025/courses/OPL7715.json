@@ -1,0 +1,16 @@
+{
+  "code": "OPL7715",
+  "name": "Nanophotonics",
+  "description": "Far-field versus near-field optics and imaging, evanescent waves, beyond the diffraction limit, imaginary wavevectors, absorption and emission characteristics of materials with sub-wavelength dimensions; sub-wavelength microscopy, confocal, scanning-probe, near-field, nonlinear etc.; plasmonics, field localisation and enhancement, long-range plasmons, surface-enhanced Raman scattering, extraordinary transmission, chemical and bio-sensing; single-photon emitters and nanophotonic wires, tapered optical fiber characteristics, nanoscale and coherent energy transfer, coherent control using ultrashort pulses; nonlinear nano-photonics, harmonic generation and frequency conversion using nanowire and metallic nanoparticles, self and cross-phase modulation using nanophotonic materials; nanophotonics with 2D-materials, role of electronic bandstructure, impact of doping and high surface-volume ratio in graphene and two-dimensional (2D) materials; nano-photovoltaics, solar cells, hybrid photonic-plasmonic crystal composites for photovoltaic applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "OP",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=OP#OPL7715"
+}

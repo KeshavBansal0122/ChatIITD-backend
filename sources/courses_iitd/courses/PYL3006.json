@@ -1,0 +1,22 @@
+{
+  "code": "PYL3006",
+  "name": "Nuclear and Elementary Particle Physics",
+  "description": "Conceptual description of the standard model of particles and forces, nuclear sizes and masses, nuclear droplet model, nuclear shell model, fission, fusion, astro-nuclear processes, nuclear reactions, solutions to Klein-Gordon and Dirac equations, force as exchange of particles, conceptual idea of Feynman diagrams and applications in QED, particle scattering and annihilation, accelerators and detectors, weak interactions and electro-weak unification at conceptual level, Higgs mechanism of mass and spontaneous symmetry breaking at conceptual level, Yukawa force, deep inelastic scattering, gluon interactions, QCD, confinement, hadronisation, particle detection and measurements, open questions.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Nuclear and Elementary Particle Physics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Nuclear and Elementary Particle Physics"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/nuclear-and-elementary-particle-physics",
+  "slug": "nuclear-and-elementary-particle-physics"
+}

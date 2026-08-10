@@ -1,0 +1,16 @@
+{
+  "code": "MEL7305",
+  "name": "Computational Methods",
+  "description": "Errors in numerical calculations and series approximations, solution of algebraic and transcendental equations, interpolation of data, finite differences, curve fitting, numerical differentiation and integration, matrices and linear system of equations, numerical solution of ordinary differential and partial differential equations, solution of integral equations, numerical solution of important production engineering problems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL7305"
+}

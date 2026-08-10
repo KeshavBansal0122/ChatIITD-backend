@@ -1,0 +1,16 @@
+{
+  "code": "ELL7506",
+  "name": "Switched-Mode Power Conversion",
+  "description": "Review of steady-state operation of switching converters, dynamic modelling of DC-DC converters, analysis of time-domain and frequency-domain responses, controller design - P, PI, PID etc., for non-isolated and isolated DC-DC converters, voltage mode and current mode control, dynamic modeling of DC-DC converters in discontinuous conduction mode, peak current mode control, review of harmonics in AC systems, power factor correction methods in PWM rectifiers - boost PFC, totem-pole PFC etc., controller design for power factor corrected PWM rectifiers, EMI filter design and their effect on converter performance.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7506"
+}

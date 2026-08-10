@@ -1,0 +1,22 @@
+{
+  "code": "MEL7415",
+  "name": "Lattice Boltzmann Method",
+  "description": "Introduction to mesoscopic methods, kinetic theory and statistical mechanics, lattice gas cellular automata, lattice Boltzmann method, thermal lattice Boltzmann method, boundary conditions, body forces, multiple relaxation time model, single component multiphase models, multicomponent single-phase models, applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Lattice Boltzmann Method | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Lattice Boltzmann Method"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/lattice-boltzmann-method",
+  "slug": "lattice-boltzmann-method"
+}

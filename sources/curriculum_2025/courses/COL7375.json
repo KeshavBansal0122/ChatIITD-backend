@@ -1,0 +1,16 @@
+{
+  "code": "COL7375",
+  "name": "Deep Learning",
+  "description": "Basics: introduction, multi-layered perceptron, backpropagation, regularization, early stopping. Dropouts, normalization. Optimization: stochastic gradient descent, first-order and second-order methods, standard/advanced optimization algorithms. Convolutional networks (CNNs), standard vision architectures. Recurrent neural networks, LSTMs. Attention, transformers. Word embeddings, language models: BERT, GPT etc. Large language models. Vision language models, for example, CLIP. Generative models: variational auto-encoders, generative adversarial networks, diffusion models. Graph neural networks: graph convolutional networks, graph attention networks, and variations.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL7375"
+}

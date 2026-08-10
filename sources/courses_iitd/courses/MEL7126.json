@@ -1,0 +1,22 @@
+{
+  "code": "MEL7126",
+  "name": "Special Topics in IEOR",
+  "description": "This course is designed to facilitate a regular faculty or a guest/visiting faculty to offer a course in industrial engineering and operations research (IEOR) covering some specialized topics that are not aligned with any other listed PG program elective in IEOR. The detailed contents will be decided by the faculty who will teach the course, and they will be shared at the time of offering the course.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Special Topics in IEOR | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Special Topics in IEOR"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/special-topics-ieor",
+  "slug": "special-topics-ieor"
+}

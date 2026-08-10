@@ -1,0 +1,16 @@
+{
+  "code": "MLD7006",
+  "name": "M. Tech. Project Part 1",
+  "description": "This course involves an independent research project where students will engage in systematic research, experimental/computational work, data analysis, developing critical problem-solving skills and technical expertise in their specialized materials domain.",
+  "credits": 12.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 24.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ML",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ML#MLD7006"
+}

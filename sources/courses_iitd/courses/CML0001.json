@@ -1,0 +1,22 @@
+{
+  "code": "CML0001",
+  "name": "Fundamentals of Chemistry-I",
+  "description": "This course introduces the fundamental principles of physical, inorganic, and organic chemistry. It covers atomic structure, chemical bonding, periodicity, stoichiometry, states of matter, thermodynamics, chemical kinetics, equilibrium, electrochemistry, and surface chemistry. The course also explores the chemistry of hydrogen, s-block and p-block elements, metallurgy, and the properties of important inorganic compounds. Organic chemistry topics include hydrocarbons, stereochemistry, nomenclature, reaction mechanisms, and the chemistry of alcohols, phenols, and related functional groups. Emphasis is placed on developing a sound understanding of chemical principles, molecular behavior, and their applications in explaining chemical processes and solving scientific problems.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Fundamentals of Chemistry-I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fundamentals of Chemistry-I"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fundamentals-chemistry-i",
+  "slug": "fundamentals-chemistry-i"
+}

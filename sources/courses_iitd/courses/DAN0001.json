@@ -1,0 +1,22 @@
+{
+  "code": "DAN0001",
+  "name": "Preparatory English - I",
+  "description": "The course begins by teaching conceptual components of language relevant to their proficiency level. Through hands-on activities and tasks, the course provides a space for students to practice select sub-skills. The course exposes students to a wide range of reading materials, enabling them to develop reading strategies, interpret different text types, and analyse both explicit and implicit meanings. Grammar and vocabulary foundations are strengthened alongside integrated practice to support accurate comprehension of both written and spoken input.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Preparatory English - I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Preparatory English - I"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/preparatory-english-i",
+  "slug": "preparatory-english-i"
+}

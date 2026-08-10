@@ -1,0 +1,16 @@
+{
+  "code": "DDP2009",
+  "name": "Design Futures",
+  "description": "This course introduces a structured approach to envisioning, constructing and critiquing alternative futures using speculative design and design fiction, with a focus on emerging technologies and societal trends. Through a practice-based approach, students will experience various stages of the speculative design process learning to convert abstract future visions into experiential prototypes culminating into an exhibition. Topics include: speculative design, design fiction, mapping trends, world-building, experiential prototyping, etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DD#DDP2009"
+}

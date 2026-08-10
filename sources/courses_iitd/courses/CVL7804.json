@@ -1,0 +1,22 @@
+{
+  "code": "CVL7804",
+  "name": "Computational Methods in Water Resources Engineering",
+  "description": "Introduction to computational hydraulics, classification of differential equations, system of algebraic equations, numerical solution of ordinary differential equations (ODEs), numerical solution approaches of partial differential equations (PDEs) - finite difference method, finite volume method, weighted residuals method, finite element method, and mesh-free methods, solving problems on groundwater flow and transport, open channel flow, surface flooding, pressurized conduit flows.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Computational Methods in Water Resources Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Computational Methods in Water Resources Engineering"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/computational-methods-water-resources-engineering",
+  "slug": "computational-methods-water-resources-engineering"
+}

@@ -1,0 +1,815 @@
+{
+  "code": "DD1",
+  "name": "Bachelor of Design",
+  "generation": "2025",
+  "degree_type": "bdes",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=DD1",
+  "credit_requirements": [
+    {
+      "category": "GE",
+      "label": "General Engineering",
+      "credits_or_units": 2.0,
+      "kind": "graded"
+    },
+    {
+      "category": "HS",
+      "label": "Humanities and Social Sciences",
+      "credits_or_units": 3.0,
+      "kind": "graded"
+    },
+    {
+      "category": "DC",
+      "label": "Departmental Core",
+      "credits_or_units": 113.0,
+      "kind": "graded"
+    },
+    {
+      "category": "DE",
+      "label": "Departmental Electives",
+      "credits_or_units": 15.0,
+      "kind": "graded"
+    },
+    {
+      "category": "OC",
+      "label": "Open Category",
+      "credits_or_units": 12.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "BDes graduates will effectively design and communicate human-centred and sustainable solutions."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "BDes graduates will be proficient in a variety of hands-on design tools and techniques needed towards solving real-world problems."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "BDes graduates will be prepared to engage and be adept in professional design practice and leadership roles."
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "BDes graduates will demonstrate a strong understanding of research, design principles and design methodologies."
+    }
+  ],
+  "courses_by_category": {
+    "DC": [
+      {
+        "course_code": "DDL2007",
+        "title": "Design Process",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDL2008",
+        "title": "Design Research",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDL2111",
+        "title": "Understanding Design and Environment",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDL3003",
+        "title": "Systems Design",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDL4004",
+        "title": "Design Management and Entrepreneurship",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDN2011",
+        "title": "Social Immersion",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDN3011",
+        "title": "Social Immersion",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDP1001",
+        "title": "Drawing and Visualisation",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "DDP1002",
+        "title": "Fundamentals of Design",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "DDP1003",
+        "title": "Form and Material Exploration",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "DDP1004",
+        "title": "Human Factors in Design - 1",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDP1005",
+        "title": "Image Making",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "DDP1006",
+        "title": "Prototyping",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "DDP1007",
+        "title": "Typography",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "DDP1008",
+        "title": "Design History",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDP1011",
+        "title": "Human Factors in Design - 2",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDP2001",
+        "title": "Studio I: Industrial Design",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "DDP2002",
+        "title": "Studio II: Industrial Design",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDP2003",
+        "title": "Studio-1 Communication Design",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "DDP2004",
+        "title": "Studio-II Communication Design",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDP2005",
+        "title": "Studio I: Interaction Design (IxD)",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "DDP2006",
+        "title": "Studio II: Interaction Design (IxD)",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDP2009",
+        "title": "Design Futures",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDP3001",
+        "title": "Design Project I",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDP3002",
+        "title": "Design Project II",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDP4001",
+        "title": "Design Project III",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDP4002",
+        "title": "Thesis Project",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDR4003",
+        "title": "Design Seminar",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      }
+    ],
+    "HS": [
+      {
+        "course_code": "HSL2100",
+        "title": "Introduction to Economics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL2102",
+        "title": "Macroeconomics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL2510",
+        "title": "Philosophy Through Puzzles and Paradoxes",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL2605",
+        "title": "Sociological Perspectives on Organisations",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL2710",
+        "title": "Words in the World",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL2742",
+        "title": "Fundamentals of Language Sciences",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ],
+    "DE": [
+      {
+        "course_code": "DDL2001",
+        "title": "Methods for Design Thinking",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDL7000",
+        "title": "Systematic Product Design and Development",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDL7025",
+        "title": "Information Design &amp; Data Visualization",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDL7068",
+        "title": "Design Research Methodology",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDL8021",
+        "title": "Design History, Culture and Studies",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDP7011",
+        "title": "Advanced Typography",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDP7042",
+        "title": "Universal Design",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDP7123",
+        "title": "Design for Environmental Change",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDP7740",
+        "title": "CoDesign and Participatory Futures",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDR8109",
+        "title": "Strategic UX Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDR8222",
+        "title": "Design for Sustainability",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDR8522",
+        "title": "Strategic Design Management",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "DDP1001",
+        "title": "Drawing and Visualisation",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "DDP1002",
+        "title": "Fundamentals of Design",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "DDP1003",
+        "title": "Form and Material Exploration",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "DDP1004",
+        "title": "Human Factors in Design - 1",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "DDL2111",
+        "title": "Understanding Design and Environment",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "DDP1005",
+        "title": "Image Making",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "DDP1006",
+        "title": "Prototyping",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "DDP1007",
+        "title": "Typography",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "DDP1011",
+        "title": "Human Factors in Design - 2",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "DDP1008",
+        "title": "Design History",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 3.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "DDP2003",
+        "title": "Studio-1 Communication Design",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "DDL2007",
+        "title": "Design Process",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "DDP2009",
+        "title": "Design Futures",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "DDP2001",
+        "title": "Studio I: Industrial Design",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "DDP2005",
+        "title": "Studio I: Interaction Design (IxD)",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "DDP2004",
+        "title": "Studio-II Communication Design",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "DDL2008",
+        "title": "Design Research",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "DDL2120",
+        "title": "Behavioural Design",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "DDP2002",
+        "title": "Studio II: Industrial Design",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "DDP2006",
+        "title": "Studio II: Interaction Design (IxD)",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "5": [
+      {
+        "course_code": "DDP3001",
+        "title": "Design Project I",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 5.0
+      },
+      {
+        "course_code": "DDL3003",
+        "title": "Systems Design",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      }
+    ],
+    "6": [
+      {
+        "course_code": "DDP3002",
+        "title": "Design Project II",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 5.0
+      }
+    ],
+    "7": [
+      {
+        "course_code": "DDP4001",
+        "title": "Design Project III",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 20.0
+        },
+        "credits": 10.0
+      },
+      {
+        "course_code": "DDL4004",
+        "title": "Design Management and Entrepreneurship",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "DDR4003",
+        "title": "Design Seminar",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      }
+    ],
+    "8": [
+      {
+        "course_code": "DDP4002",
+        "title": "Thesis Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 28.0
+        },
+        "credits": 14.0
+      }
+    ]
+  },
+  "raw_text_preview": "DD1 \u2013 Bachelor of Design\nBachelor of Design\nDesign, Department of\nProgramme Code: DD1\nB. Des.\nOverall Credit Structure\nCourse Category Credits\nDC (Departmental Core)\n113\nDE (Departmental Electives)\n15\nHS (Humanities and Social Sciences)\n3\nOC (Open Category)\n12\nTotal Graded Credit Requirement\n143\nNon-Graded Units (NGU) Units\nSocial immersion\n4\nTotal Non-Graded Units\n4\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nBDes graduates will effectively design and communicate human-centred and sustainable solutions.\nPLO 2\nBDes graduates will be proficient in a variety of hands-on design tools and techniques needed towards solving real-world problems.\nPLO 3\nBDes graduates will be prepared to engage and be adept in professional design practice and leadership roles.\nPLO 4\nBDes graduates will demonstrate a strong understanding of research, design principles and design methodologies.\nDepartmental Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nDDL2007 Design Process 2 0 2 3\nDDL2008 Design Research \u2013 \u2013 \u2013 \u2013\nDDL2111 Understanding Design and Environment 2 0 2 3\nDDL3003 Systems Design 2 0 2 3\nDDL4004 Design Management and Entrepreneurship \u2013 \u2013 \u2013 \u2013\nDDN2011 Social Immersion \u2013 \u2013 \u2013 \u2013\nDDN3011 Social Immersion \u2013 \u2013 \u2013 \u2013\nDDP1001 Drawing and Visualisation 1 0 6 4\nDDP1002 Fundamentals of Design 1 0 6 4\nDDP1003 Form and Material Exploration 1 0 6 4\nDDP1004 Human Factors in Design - 1 2 0 2 3\nDDP1005 Image Making 1 0 6 4\nDDP1006 Prototyping 1 0 6 4\nDDP1007 Typography 1 0 6 4\nDDP1008 Design History 1 0 4 3\nDDP1011 Human Factors in Design - 2 2 0 2 3\nDDP2001 Studio I: Industrial Design 1 0 6 4\nDDP2002 Studio II: Industrial Design \u2013 \u2013 \u2013 \u2013\nDDP2003 Studio-1 Communication Design 1 0 6 4\nDDP2004 Studio-II Communication Design \u2013 \u2013 \u2013 \u2013\nDDP2005 Studio I: Interaction Design (IxD) 1 0 6 4\nDDP2006 Studio II: Interaction Design (IxD) \u2013 \u2013 \u2013 \u2013\nDDP2009 Design Futures 1 0 4 3\nDDP3001 Design Project I \u2013 \u2013 \u2013 \u2013\nDDP3002 Design Project II \u2013 \u2013 \u2013 \u2013\nDDP4001 Design Project III \u2013 \u2013 \u2013 \u2013\nDDP4002 Thesis Project \u2013 \u2013 \u2013 \u2013\nDDR4003 Design Seminar \u2013 \u2013 \u2013 \u2013\nHumanities and Social Sciences Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nHSL2100 Introduction to Economics 3 0 0 3\nHSL2102 Macroeconomics 3 0 0 3\nHSL2510 Philosophy Through Puzzles and Paradoxes 3 0 0 3\nHSL2605 Sociological Perspectives on Organisations 3 0 0 3\nHSL2710 Words in the World 3 0 0 3\nHSL2742 Fundamentals of Language Sciences 3 0 0 3"
+}

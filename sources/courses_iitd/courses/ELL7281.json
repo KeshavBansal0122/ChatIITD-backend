@@ -1,0 +1,22 @@
+{
+  "code": "ELL7281",
+  "name": "Software Fundamentals of Computing and Intelligent Systems",
+  "description": "Introduction, data structures for combinatorial optimization: heaps, union-find, Fibonacci heaps, dynamic trees, dynamic graph structure; asymptotic analysis; divide and conquer and graph algorithms: graph search: breadth first, depth first, topological sorting, fast Fourier transform, matrix multiplication, shortest path algorithms; additional data structures: suffix trees and string matching, splay trees and amortized analysis; advanced algorithmic design techniques: dynamic programming (edit distance, chains of matrix multiplication, etc.); advanced algorithm design techniques: greedy algorithms (Huffman code, minimum spanning trees); network flow and its use for solving problems; linear and integer programming; NP-completeness; randomized algorithms (hashing and global minimum cut); approximation algorithms; object oriented software design; design of dependable software.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Software Fundamentals of Computing and Intelligent Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Software Fundamentals of Computing and Intelligent Systems"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/software-fundamentals-computing-and-intelligent-systems",
+  "slug": "software-fundamentals-computing-and-intelligent-systems"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "DAN1006",
+  "name": "Advanced Writing and Editing",
+  "description": "The course focuses on developing clarity, coherence, and correctness in written communication. Students will engage in hands-on writing tasks, peer reviews, and editing exercises to improve their ability to express ideas effectively in an academic context. The module covers the fundamentals of sentence construction, paragraph development, grammar usage, and vocabulary building. In addition, students will be introduced to the principles of academic integrity, including proper citation and referencing practices. The interactive lab-based setting encourages active participation and continuous feedback, helping students build confidence and proficiency in writing.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DA",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DA#DAN1006"
+}

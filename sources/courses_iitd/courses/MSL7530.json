@@ -1,0 +1,22 @@
+{
+  "code": "MSL7530",
+  "name": "Management Research Communication",
+  "description": "This course will cover the foundations of academic inquiry required to conduct and publish high-quality research. The curriculum begins with research philosophy, logic, and the conceptualization of research ideas. Students will learn the standard structure of an academic article as well as the nuances of research language and effective writing. Additionally, the course addresses the professional aspects of the field, such as referencing and ethical standards. This course is designed to help students master the skills needed to move from a research idea to a published contribution.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Management Research Communication | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Management Research Communication"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/management-research-communication",
+  "slug": "management-research-communication"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "MEL2021",
+  "name": "Near Net Shape Manufacturing",
+  "description": "Metal Casting: Introduction and fundamentals of different casting processes and their applications in near net shape manufacturing of complicated shapes such as automotive components. Powder Metallurgy: Powder fabrication routes, compacting, sintering, cold and hot isostatic pressing, field assisted sintering technologies. Powder injection moulding of metals and plastics. Advanced near-net shape manufacturing techniques: Introduction to Additive Manufacturing (AM), Different AM processes, Reverse engineering, post-processing techniques in AM, special properties of AM parts, challenges and advances in additive manufacturing, AI/ML in additive manufacturing.",
+  "credits": 3.5,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 1.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL2021"
+}

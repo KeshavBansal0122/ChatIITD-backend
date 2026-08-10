@@ -1,0 +1,22 @@
+{
+  "code": "CHL7104",
+  "name": "Bioprocessing and Bioseparations",
+  "description": "Introduction to the different unit operations utilized in production of biotech drugs in the areas of upstream processing, harvest, and downstream processing. Introduction to analytical methods used for characterization of biotech products and processes (high performance liquid chromatography, mass spectrophotometry, capillary electrophoresis, near infrared spectroscopy, UV spectroscopy). Optimization of biotech processes - unit operation specific optimizaion versus process optimization, process intensification, statistical data analysis. Scale-up of different unit operations utilized in bioprocessing: procedures, issues that frequently occur and possible solutions. Good manufacturing practices (GMP): need, principles and key practical issues. Process validation: basics, planning and implementation. Industrial case studies in bioprocessing. Current topics in bioprocessing and bioseparations: quality by design and process analytical technology.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL1001",
+  "overlap": null,
+  "learning_outcomes": [
+    "Bioprocessing and Bioseparations | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Bioprocessing and Bioseparations"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/bioprocessing-and-bioseparations",
+  "slug": "bioprocessing-and-bioseparations"
+}

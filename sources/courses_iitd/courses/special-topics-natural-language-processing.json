@@ -1,0 +1,22 @@
+{
+  "code": "COL8383",
+  "name": "Special Topics in Natural Language Processing",
+  "description": "Recent advances in specific area or areas in Natural Language Processing and/or its applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(COL7372)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Special Topics in Natural Language Processing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Special Topics in Natural Language Processing"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/special-topics-natural-language-processing",
+  "slug": "special-topics-natural-language-processing"
+}

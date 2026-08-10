@@ -1,0 +1,22 @@
+{
+  "code": "CVL8812",
+  "name": "Artificial Intelligence and Machine Learning for Water and Climate",
+  "description": "AI/ML fundamentals, exploratory data analysis, regression and classification problems in hydrology, decision trees and random forests, model interpretability, artificial neural networks, time series forecasting, deep learning \u2013 RNNs, LSTMs, convolutional neural networks, case studies on flood forecasting, climate downscaling, and satellite-based monitoring.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Artificial Intelligence and Machine Learning for Water and Climate | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Artificial Intelligence and Machine Learning for Water and Climate"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/artificial-intelligence-and-machine-learning-water-and-climate",
+  "slug": "artificial-intelligence-and-machine-learning-water-and-climate"
+}

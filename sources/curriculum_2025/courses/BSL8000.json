@@ -1,0 +1,16 @@
+{
+  "code": "BSL8000",
+  "name": "Quantum Information Processing and Machine Learning",
+  "description": "This course introduces core quantum concepts such as superposition, entanglement, and quantum circuits, alongside classical ML fundamentals. Students learn quantum data encoding, quantum algorithms, and hybrid quantum-classical models using frameworks like Qiskit (and/or PennyLane). Emphasis is placed on real-world applications in image analysis. The course includes hands-on projects and explores current limitations and future directions, preparing students for research or development in the emerging field of quantum-enhanced AI.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BS#BSL8000"
+}

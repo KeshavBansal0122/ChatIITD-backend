@@ -1,0 +1,16 @@
+{
+  "code": "PYP5061",
+  "name": "MSc Physics Laboratory - I",
+  "description": "This lab course introduces the students to the experimental method in physics through a selection of hands-on experiments. It includes experiments on analog and digital electronics, certain classic experiments on the foundational aspects of physics, as well as experiments illustrating the working principles behind some advanced material characterization techniques.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYP5061"
+}

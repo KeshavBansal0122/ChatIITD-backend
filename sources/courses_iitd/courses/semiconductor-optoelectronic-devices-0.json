@@ -1,0 +1,22 @@
+{
+  "code": "ELL7306",
+  "name": "Semiconductor Optoelectronic Devices",
+  "description": "Solid state device physics, generation and recombination processes, radiation basics, density of states, gain and absorption, LEDs, OLEDs, heterojunction LEDs, lasers, population inversion, photon confinement structures, photodetectors, CCDs, image sensors, solar cells, efficiency measures, multijunction PVs.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL7302/ELL2403/MLL3001/PYL005/ELL2003",
+  "overlap": null,
+  "learning_outcomes": [
+    "Semiconductor Optoelectronic Devices | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Semiconductor Optoelectronic Devices"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/semiconductor-optoelectronic-devices-0",
+  "slug": "semiconductor-optoelectronic-devices-0"
+}

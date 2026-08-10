@@ -1,0 +1,16 @@
+{
+  "code": "MEL2012",
+  "name": "Fluid Mechanics",
+  "description": "Introduction: scope, methods of analysis (system vs. volume), Fluid as a continuum, Eulerian/Lagrangian description, Newton\u2019s law of viscosity.\r\nFluid Statics: Hydrostatic force on submerged surfaces, Buoyancy and stability, Fluids in rigid-body motion. \r\nFlow kinematics: Flow lines, vorticity and circulation.\r\nIntegral flow analysis: Reynolds transport theorem, conservation of mass, linear and angular momentum for inertial and accelerating control volumes, conservation of energy, Bernoulli\u2019s equation.\r\nDifferential analysis of fluid motion: Conservation of mass, stream function for 2D incompressible flow, fluid translation, rotation and deformation, conservation of momentum, Navier-Stokes equations, incompressible inviscid flows, potential flow.\r\nDimensional analysis and similitude: Dimensionless groups, scaling, non-dimensionalization.\r\nViscous flows: fully developed laminar and turbulent pipe flows, head loss, boundary layer concept, flow separation, comparison of laminar and turbulent velocity profiles, streamlining and implications.\r\nCompressible flow: speed of sound, the Mach cone, stagnation properties, critical conditions, isentropic flows and converging-diverging nozzles.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL2012"
+}

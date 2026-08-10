@@ -1,0 +1,22 @@
+{
+  "code": "ELL3402",
+  "name": "Computer Architecture",
+  "description": "The course provides an in-depth understanding of modern computer architecture using the RISC-V (32-bit) ISA as the foundation. Students will explore processor design, pipelining, memory hierarchies, and parallel computing concepts while gaining hands-on experience with RISC-V assembly programming and simulation tools. The course will equip students with both theoretical knowledge and practical skills in computer architecture, preparing them for careers in CPU design, embedded systems, and hardware-software co-design.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(ELL1001/ELL1000) &ELL1401",
+  "overlap": null,
+  "learning_outcomes": [
+    "Computer Architecture | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Computer Architecture"
+  ],
+  "department": "Application-Specific Computer Architectures",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/computer-architecture-0",
+  "slug": "computer-architecture-0"
+}

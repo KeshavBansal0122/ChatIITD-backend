@@ -1,0 +1,16 @@
+{
+  "code": "HSL5001",
+  "name": "Theory & Methods in Humanities and Social Sciences",
+  "description": "The course will focus on the history and the questions of methodology and epistemology in humanities and social sciences, intersectionality, reflexivity, narrative, ethnography, and standpoint methodologies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL5001"
+}

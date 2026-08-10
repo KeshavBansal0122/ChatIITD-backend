@@ -1,0 +1,22 @@
+{
+  "code": "HSL7011",
+  "name": "Advanced Microeconomics",
+  "description": "This course aims to give students strong foundations in microeconomics and game theory to prepare them for research. The first module covers expected utility theory, prospect theory, and theory of ambiguity aversion. The second module covers models of general equilibrium. The third module covers various equilibrium concepts and selected applications in game theory.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Microeconomics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Microeconomics"
+  ],
+  "department": "Microeconomics II",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-microeconomics",
+  "slug": "advanced-microeconomics"
+}

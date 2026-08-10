@@ -1,0 +1,22 @@
+{
+  "code": "COL8181",
+  "name": "Special Topics in Complexity Theory",
+  "description": "Recent advances in specific area or areas in computational complexity theory and/or its applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "COL1002/COL3152",
+  "overlap": null,
+  "learning_outcomes": [
+    "Special Topics in Complexity Theory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Special Topics in Complexity Theory"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/special-topics-complexity-theory",
+  "slug": "special-topics-complexity-theory"
+}

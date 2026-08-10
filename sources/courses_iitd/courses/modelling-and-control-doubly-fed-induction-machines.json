@@ -1,0 +1,22 @@
+{
+  "code": "ELL7520",
+  "name": "Modelling and Control of Doubly-Fed Induction Machines",
+  "description": "Introduction to variable speed constant frequency systems such as wind energy systems, advanced drives and hybrid systems like wind-diesel and wind-solar. Concept of doubly fed induction machines (DFIM) systems using slip ring induction machine. Modelling of DFIM Systems, Steady state and dynamic behavior analysis, Control Techniques such as Vector Control and Direct Torque Control. Sensorless methods, Control of Stand-alone systems, Control of DFIM-DC systems, Etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Modelling and Control of Doubly-Fed Induction Machines | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Modelling and Control of Doubly-Fed Induction Machines"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/modelling-and-control-doubly-fed-induction-machines",
+  "slug": "modelling-and-control-doubly-fed-induction-machines"
+}

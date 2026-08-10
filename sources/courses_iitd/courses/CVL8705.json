@@ -1,0 +1,22 @@
+{
+  "code": "CVL8705",
+  "name": "Design of Water and Wastewater Treatment Plants",
+  "description": "This course on design of water and wastewater treatment plants offers an intensive, practical-oriented exploration of modern treatment plant design, including water quality assessment, pre-treatment, sedimentation, filtration, disinfection, and advanced treatment methods. Students learn wastewater characterization, primary, secondary, and tertiary treatment processes, and sludge management techniques while emphasizing sustainability and regulatory compliance. Hands-on laboratory sessions, field visits, and case studies complement computational applications and design software training. The content integrates economic analysis, energy recovery concepts, and innovative treatment technologies, ensuring graduates are prepared to design efficient, safe, and environmentally responsible water and wastewater treatment solutions for real-world practice and innovation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Design of Water and Wastewater Treatment Plants | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Design of Water and Wastewater Treatment Plants"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/design-water-and-wastewater-treatment-plants",
+  "slug": "design-water-and-wastewater-treatment-plants"
+}

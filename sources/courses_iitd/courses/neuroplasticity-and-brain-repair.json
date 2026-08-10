@@ -1,0 +1,22 @@
+{
+  "code": "SBL7037",
+  "name": "Neuroplasticity and Brain Repair",
+  "description": "This course explores cellular and molecular mechanisms of neuroplasticity and brain repair across developmental and adult stages. Topics include neural stem cells, fate specification, synaptic and circuit-level plasticity, injury models, neuroinflammation, glial responses, and regeneration in various organisms. Emphasis is placed on comparative models (such as zebrafish, rodents, humans), neurodevelopment-regeneration parallels, and interventions to modulate plasticity. The course also covers modern techniques in transcriptomics, imaging, and genetic manipulation. Students will critically analyze current literature, design experiments, and explore translational strategies for neurological disorders involving trauma, degeneration, and repair.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(SBL1100/SBP1100/SBL1102/SBV8095/SBL7027)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Neuroplasticity and Brain Repair | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Neuroplasticity and Brain Repair"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/neuroplasticity-and-brain-repair",
+  "slug": "neuroplasticity-and-brain-repair"
+}

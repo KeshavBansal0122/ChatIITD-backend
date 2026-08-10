@@ -1,0 +1,22 @@
+{
+  "code": "CVL7055",
+  "name": "Optimization for Civil Engineering",
+  "description": "This course is designed to introduce various common types of optimization models arising in civil engineering. Topics includes linear programming, simplex method, linear duality theory, nonlinear optimization, integer programming, and dynamic programming.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Optimization for Civil Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Optimization for Civil Engineering"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/optimization-civil-engineering",
+  "slug": "optimization-civil-engineering"
+}

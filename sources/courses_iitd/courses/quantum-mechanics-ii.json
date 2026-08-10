@@ -1,0 +1,22 @@
+{
+  "code": "PYL2024",
+  "name": "Quantum Mechanics II",
+  "description": "Identical particles, Pauli exclusion principle WKB approximation, variational methods, analyses, applications and outcomes of perturbation theory in quantum mechanics: harmonic oscillator, atomic spectra, matter-radiation interactions, etc., analyses, applications and outcomes of scattering in quantum mechanics: rutherford\u2019s formalism, brief introduction to relativistic quantum mechanics.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Quantum Mechanics II | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Quantum Mechanics II"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/quantum-mechanics-ii",
+  "slug": "quantum-mechanics-ii"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CVL7071",
+  "name": "Environmental Quality Modeling",
+  "description": "Introduction to environmental quality modelling, mathematical and statistical foundations, ambient air quality modelling, indoor air quality modelling, water quality modelling, sewer network design and modeling, source apportionment in environmental systems, AI-ML applications in environmental quality modelling.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7071"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "TXL7558",
+  "name": "Heat and Mass Transport in Fibrous Materials",
+  "description": "Newtonian and non-newtonian fluid: viscosity, Reynolds number, Bernoulli equation, fluid flow through pipe; thermal conduction through fibrous media. Fourier\u2019s law, thermal conductivity, steady state heat conduction, effective thermal conductivity for fibrous materials; convective heat transfer through fibrous media. The concept of heat transfer coefficient, macroscopic equations governing heat and mass transfer in textile material, generalized Darcy\u2019s law, mass and energy conservation, thermodynamic relations. Surface tension: wetting and wicking in a fibrous material. Moisture diffusion. Estimation of ventilation rate. Heat and moisture transport in clothing by ventilation. Phase change in textile- moisture condensation and evaporation. Air filtration using fibrous media-fibre size effect, SFFE.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Heat and Mass Transport in Fibrous Materials | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Heat and Mass Transport in Fibrous Materials"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/heat-and-mass-transport-fibrous-materials",
+  "slug": "heat-and-mass-transport-fibrous-materials"
+}

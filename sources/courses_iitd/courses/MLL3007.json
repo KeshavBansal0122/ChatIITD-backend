@@ -1,0 +1,22 @@
+{
+  "code": "MLL3007",
+  "name": "Metals Extraction and Urban Mining",
+  "description": "This course introduces the principles and processes of metal extraction from natural ores and urban sources. It begins with the motivation for studying metal extraction, types of metal-bearing minerals, and key extraction routes. Topics include mineral beneficiation, ore sorting, and the role of metallurgical fuels and furnaces. Core extraction methods\u2014pyrometallurgy, hydrometallurgy, and electrometallurgy\u2014are covered with emphasis on thermodynamics, kinetics, and major industrial practices. The course concludes with urban mining, highlighting sustainable alternatives for metal recovery from electronic waste and batteries, along with emerging trends in automation and AI/ML-assisted extraction technologies.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": "MLL2001",
+  "overlap": null,
+  "learning_outcomes": [
+    "Metals Extraction and Urban Mining | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Metals Extraction and Urban Mining"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/metals-extraction-and-urban-mining",
+  "slug": "metals-extraction-and-urban-mining"
+}

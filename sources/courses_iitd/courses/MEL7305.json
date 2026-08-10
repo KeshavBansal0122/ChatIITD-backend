@@ -1,0 +1,22 @@
+{
+  "code": "MEL7305",
+  "name": "Computational Methods",
+  "description": "Errors in numerical calculations and series approximations, solution of algebraic and transcendental equations, interpolation of data, finite differences, curve fitting, numerical differentiation and integration, matrices and linear system of equations, numerical solution of ordinary differential and partial differential equations, solution of integral equations, numerical solution of important production engineering problems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Computational Methods | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Computational Methods"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/computational-methods",
+  "slug": "computational-methods"
+}

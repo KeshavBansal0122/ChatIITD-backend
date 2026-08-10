@@ -1,0 +1,22 @@
+{
+  "code": "CHL7407",
+  "name": "Hydrogen, Electrolyser, and Fuel Cell Technology",
+  "description": "Overview of hydrogen energy and its implementation and economics. Different routes of hydrogen generation: electrolysis versus reforming for hydrogen production, solar hydrogen. Different electrolysers and fuel cell technologies (alkaline, proton exchange membrane, and solid oxide electrolyser and fuel cells): low and high-temperature electrolysers and fuel cells. Electrolysers/fuel cell thermodynamics, reversibility, voltage and current efficiencies. Electrolyser/fuel cell reaction kinetics \u2013 electrode kinetics, overvoltages, exchange currents. Electrocatalysis - design, activation kinetics and electrode design - triple phase boundary, electrolyser/fuel cell charge and mass transport - transport in flow fields \u2013 bipolar plate and current collectors and their designs, different types of electrolytes and Ohmic overpotential. Electrolyser/fuel cell characterization- in-situ and ex-situ characterization techniques, i-V curve, application of voltammetry and frequency response analyses - diagnostics. Modeling and system integration and balance for the plant. Hydrogen storage and transportation, safety issues. Cost and life cycle analysis.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Hydrogen, Electrolyser, and Fuel Cell Technology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Hydrogen, Electrolyser, and Fuel Cell Technology"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/hydrogen-electrolyser-and-fuel-cell-technology",
+  "slug": "hydrogen-electrolyser-and-fuel-cell-technology"
+}

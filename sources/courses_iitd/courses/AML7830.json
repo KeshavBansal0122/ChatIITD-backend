@@ -1,0 +1,21 @@
+{
+  "code": "AML7830",
+  "name": "Digital Twins",
+  "description": "Introduction to digital twins, digital twin foundation, formulating digital twin its representation, inference algorithms, learning and sequential updating, multi-fidelity and hybrid twin model, practical aspects of digital twin, case studies of digital twin for SHM and personalized treatment.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(AML7000/AIL7001/AML2050&COL1101)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Digital Twins | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/digital-twins",
+  "slug": "digital-twins"
+}

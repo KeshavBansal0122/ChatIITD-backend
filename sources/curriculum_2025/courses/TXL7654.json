@@ -1,0 +1,16 @@
+{
+  "code": "TXL7654",
+  "name": "Medical Textiles",
+  "description": "Natural and synthetic polymers and textile-based techniques used for medical application, fibrous extracellular matrix of human body and their characteristic features, cell-polymer interaction, non-implantable materials (wound-dressing, related hydrogel and composite products, bandages, gauges), implantable biomedical devices (vascular grafts, sutures, heart valves), extra-corporeal materials (scaffolds for tissue engineering, rapid prototyping, cartilage, liver, blood vessel, kidney, urinary bladder, tendons, ligaments, cornea), healthcare and hygiene products (surgical gowns, masks, wipes, antibacterial textiles, super absorbent polymers, dialysis, soluble factor release), safety, legal and ethical issues involved in the medical textile materials.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL7654"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "TXL7561",
+  "name": "Design Thinking and Product Development",
+  "description": "Introduction to product development, distinguishing features of textile products, and its classification. Generic product development process, identifying customer need and its analysis, development of specification, need to metric conversion; concept generation methodology, concept selection. Material selection, performance characteristics of apparel, home textile and technical products, criterion for material selection. Role of fibre, yarn and fabric and finishing process on product performance. Industrial design, ergonomics and aesthetics, product architecture, anthropometric principles, fit. Principles of prototyping, 3 D computer modeling, free-form fabrication. Design options for improving properties and functional attributes of different products. Design logic for developing selected products, analysis of few products; calculation of design parameters for a given end use, developing detail specification for each structural element.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL7561"
+}

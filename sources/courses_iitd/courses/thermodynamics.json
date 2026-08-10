@@ -1,0 +1,21 @@
+{
+  "code": "MEL1140",
+  "name": "Thermodynamics",
+  "description": "Properties of substances (pure and mixtures), thermodynamic property relations, energy transfer by heat and work, ideal and real processes, the laws of thermodynamics and their applications to a control volume, and the application of these concepts to understand the functioning of various practical energy systems. Analysis of energy systems from a first-principles basis. Laboratory component: demonstration of classroom concepts through demo experiments and lab exercises.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Thermodynamics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/thermodynamics",
+  "slug": "thermodynamics"
+}

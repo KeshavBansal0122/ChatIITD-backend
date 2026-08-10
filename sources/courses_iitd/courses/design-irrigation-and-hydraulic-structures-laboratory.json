@@ -1,0 +1,22 @@
+{
+  "code": "CVP3704",
+  "name": "Design of Irrigation and Hydraulic Structures Laboratory",
+  "description": "Design of irrigation systems - computation of crop-water requirements and irrigation efficiencies; Design of gravity dams; Design of weirs and barrages; Design of energy dissipation structures and river training works; Design of canals; Design of canal falls; Design of head regulator and cross regulator; Design of cross drainage work",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "CVL3703CVL2702",
+  "overlap": null,
+  "learning_outcomes": [
+    "Design of Irrigation and Hydraulic Structures Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Design of Irrigation and Hydraulic Structures Laboratory"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/design-irrigation-and-hydraulic-structures-laboratory",
+  "slug": "design-irrigation-and-hydraulic-structures-laboratory"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ELL8296",
+  "name": "Mobile Computing",
+  "description": "Mobile computing evolution and philosophy, wide area and local area issues, MAC protocols and standards, mobile routing, wireless transport protocols, disconnected file operations, mobile databases, mobile cloud and edge computing, privacy and security, quality of service, modern developments.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Mobile Computing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mobile Computing"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mobile-computing",
+  "slug": "mobile-computing"
+}

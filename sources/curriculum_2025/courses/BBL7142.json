@@ -1,0 +1,16 @@
+{
+  "code": "BBL7142",
+  "name": "Biological Waste Treatment",
+  "description": "Qualitative and quantitative characterisation of wastes; Waste disposal norms and regulations; Indian regulations; Principles of biological treatment; Aerobic and anaerobic biological wastewater treatment systems; Suspended and attached cell biological wastewater treatment systems; Biological nutrient removal; Treatment plant design calculations; Treatment and disposal of sludges; biological means for stabilisation and disposal of solid wastes; Treatment of hazardous and toxic wastes; Degradation of xenobiotic compounds; bioremediation. \r\nLaboratory: Characterisation of wastes; Design calculations for various types of wastes using various types of biological processes.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BB#BBL7142"
+}

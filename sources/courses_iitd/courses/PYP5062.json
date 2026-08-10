@@ -1,0 +1,22 @@
+{
+  "code": "PYP5062",
+  "name": "MSc Physics Laboratory - II",
+  "description": "In this lab course, the students are exposed to a set of advanced experimental methods in physics. Various techniques based on interferometry and transport measurement that form the basis of modern precision measurement are introduced. A selection of experiments based on atomic physics, plasma physics, optics, and condensed matter physics demonstrate important basic concepts studied in various lecture courses.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "MSc Physics Laboratory - II | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "MSc Physics Laboratory - II"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/msc-physics-laboratory-ii",
+  "slug": "msc-physics-laboratory-ii"
+}

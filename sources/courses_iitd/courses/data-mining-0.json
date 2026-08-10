@@ -1,0 +1,21 @@
+{
+  "code": "COL3361",
+  "name": "Data Mining",
+  "description": "Association rule mining (Apriori algorithm, FP-growth), frequent subgraph mining (gSpan and FSG), clustering (agglomerative clustering, k-means, k-medoid, DBSCAN, OPTICS, MCL, spectral clustering), data streams (FM sketch, reservoir sampling, bloom filters, top-k counting), anomaly detection (chi-square tests, p-values, T-tests), search (k-NN queries, range queries, metric distance, curse of dimensionality, KD-tree, range tree, R-tree, best-first search, Minhash, locality sensitive hashing), web mining (pagerank, random walks with restarts, ), graph neural networks and embeddings(LipSchitz embeddings, GCN, GraphSage, GAT, GIN).",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "COL1101",
+  "overlap": null,
+  "learning_outcomes": [
+    "Data Mining | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/data-mining-0",
+  "slug": "data-mining-0"
+}

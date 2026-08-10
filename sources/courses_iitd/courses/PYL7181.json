@@ -1,0 +1,22 @@
+{
+  "code": "PYL7181",
+  "name": "Introduction to Soft and Biological Matter Physics",
+  "description": "Various types of soft materials and their importance in our daily lives and in industry. Elasticity and fluid dynamics of soft materials. Viscoelasticity and rheology. Surface tension and capillary phenomena. Physics of pattern formation. Review of Brownian motion, thermal fluctuation and diffusion and their applications in soft and biological systems. Active matter physics. Molecular motors and machines. DNA origami. Physics of spreading of diseases.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "()",
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Soft and Biological Matter Physics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Soft and Biological Matter Physics"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-soft-and-biological-matter-physics",
+  "slug": "introduction-soft-and-biological-matter-physics"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "AMD7100",
+  "name": "M.Tech. Cornerstone Project",
+  "description": "A hands-on team design project addressing a problem relevant to engineering analysis and design. Students will engage in an in-depth investigation of a specific topic within applied mechanics, applying theoretical, computational and experimental knowledge to practical challenges.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "M.Tech. Cornerstone Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "M.Tech. Cornerstone Project"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mtech-cornerstone-project",
+  "slug": "mtech-cornerstone-project"
+}

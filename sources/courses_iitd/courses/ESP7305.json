@@ -1,0 +1,22 @@
+{
+  "code": "ESP7305",
+  "name": "Renewable Energy Laboratory",
+  "description": "Hands on training on fundamental experimental laboratory related to renewable energy",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Renewable Energy Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Renewable Energy Laboratory"
+  ],
+  "department": "Teaching/Research Practicum",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/renewable-energy-laboratory",
+  "slug": "renewable-energy-laboratory"
+}

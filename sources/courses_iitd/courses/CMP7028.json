@@ -1,0 +1,22 @@
+{
+  "code": "CMP7028",
+  "name": "Lab on Instrumentation in Material Characterization",
+  "description": "Experiments based on instrumental methods of chemical analysis involving spectroscopy, microscopy, and thermal methods. Materials characterization laboratory course based on a range of instrumental methodologies for material analysis, including absorption spectroscopy, scanning electron microscopy (SEM), X-ray diffraction (XRD), surface area analysis (BET), and transmission electron microscopy (TEM). Studies on electrochemical conversion of energy storage by cyclic voltammetry. The theoretical discussion of each methodology, practical laboratory sessions for instrument operation and data analysis, as well as sample synthesis methodologies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Lab on Instrumentation in Material Characterization | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Lab on Instrumentation in Material Characterization"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/lab-instrumentation-material-characterization",
+  "slug": "lab-instrumentation-material-characterization"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "TRL8203",
+  "name": "Special Topics in Inclusive Transportation",
+  "description": "The course will focus on: (1) transport policies and their impact on underlying inequalities in society resulting from income, gender, disability, or residential location; (2) development patterns and their impact on accessibility, safety, social equity, gender equity, and environmental design; and (3) other considerations that impact transportation equity.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TR#TRL8203"
+}

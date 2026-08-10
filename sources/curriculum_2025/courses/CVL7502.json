@@ -1,0 +1,16 @@
+{
+  "code": "CVL7502",
+  "name": "Urban Transportation Systems Planning",
+  "description": "Introduction to urban transportation systems; urban transportation issues; introduction to transportation planning; concept of demand and supply; transportation costs and basic economic concepts; introduction to travel demand modelling; four-stage travel demand models; data requirements for four-stage modelling; trip generation, trip distribution, and modal split modelling; introduction to transportation networks; shortest path algorithms; traffic assignment methods; free/all-or-nothing method; multi-path assignment method; capacity restrained traffic assignment method; equilibrium traffic assignment; introduction to land use transport models; transportation project evaluation; sustainable transportation planning.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7502"
+}

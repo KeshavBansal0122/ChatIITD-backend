@@ -1,0 +1,22 @@
+{
+  "code": "DDT2900",
+  "name": "Social Immersion",
+  "description": "Documentation of societal issues through photography, recordings, sketches. Identification of locale of working, identification of a potential societal issue. Presenting the societal issues as a report/presentation/video.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Social Immersion | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Social Immersion"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/social-immersion",
+  "slug": "social-immersion"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "AMT5090",
+  "name": "Industrial Attachment",
+  "description": "The industrial attachment offers student officers hands-on exposure to the functioning of naval design bureaus, shipyards, and repair facilities. Conducted during the institute break, this module bridges academic learning with professional practice. Students observe engineering applications in ship design, construction, and maintenance, interact with field experts, and understand the organisational and technical workflows in naval establishments. The experience enhances their practical understanding, sharpens technical insight, and develops essential skills in communication and reporting. Each student is required to submit a structured report and present their key observations and learnings.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AMT5090"
+}

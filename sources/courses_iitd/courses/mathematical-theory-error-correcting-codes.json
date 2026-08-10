@@ -1,0 +1,22 @@
+{
+  "code": "MTL7244",
+  "name": "Mathematical Theory for Error Correcting Codes",
+  "description": "The notion of error detection and correction, communication channels, maximum likelihood and nearest neighborhood decoding principles, Hamming distance, codes and their parameters, ISBN Code. \nStructure of finite fields, Linear codes and their duals, generator and parity-check matrices of linear codes, equivalence of linear codes, encoding and decoding of a linear code, coset and syndrome decoding using coset leader.\nHamming codes. Hadamard matrix codes, Golay codes, Codes and Latin squares. Non-linear codes, Nordstrom-Robinson code, Kerdock codes, Preparata codes. \nBounds in coding theory: Sphere covering bound, Hamming bound and perfect codes, Singleton bound and MDS codes, Gilbert-Varshamov bound, Plotkin bound, Griesmer bound. \nWeight enumerators, MacWilliams Identity. \nConstruction of new codes: Propagation rules, Reed-Muller codes, subfield sub-codes, trace codes. \nThe structure of cyclic codes, encoding and decoding with a cyclic code, minimal codes, burst errors, burst error-correcting codes, decoding of cyclic burst-error-correcting codes. \nSome special cyclic codes including BCH codes and their decoding algorithm, Reed-Solomon codes, quadratic residue codes. Generalized Reed-Solomon codes, Alternant codes, Goppa codes, Sudan decoding for generalized RS codes",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "MTL2005/MTL5001",
+  "overlap": null,
+  "learning_outcomes": [
+    "Mathematical Theory for Error Correcting Codes | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mathematical Theory for Error Correcting Codes"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mathematical-theory-error-correcting-codes",
+  "slug": "mathematical-theory-error-correcting-codes"
+}

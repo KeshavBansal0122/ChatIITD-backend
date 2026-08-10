@@ -1,0 +1,16 @@
+{
+  "code": "PYL2013",
+  "name": "Quantum Mechanics I",
+  "description": "Historical foundations of quantum theory, de Broglie waves, Schr\u00f6dinger equation, wave functions as quantum states, wave-particle duality, probabilistic/statistical interpretation, superposition principle, expectation values, uncertainty relations, postulates of quantum mechanics, quantum measurement, Born rule, one-dimensional examples, potential wells, tunneling, Dirac bra-ket formalism, state vectors, harmonic oscillator, ladder operators, operators and their representations, angular momentum, spherically symmetric potentials, hydrogen atom, spin, addition of angular momenta, many-particle systems, composite systems, entanglement, EPR paradox, Bell's inequality, decoherence, interpretations of quantum mechanics.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL2013"
+}

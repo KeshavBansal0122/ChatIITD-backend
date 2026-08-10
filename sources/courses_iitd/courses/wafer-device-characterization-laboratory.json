@@ -1,0 +1,22 @@
+{
+  "code": "ELP7342",
+  "name": "On-Wafer Device Characterization Laboratory.",
+  "description": "Semiconductor parameter analyzer and SCPI, measurements of on-wafer test structures using wafer prober, measurements of packaged (SMT) devices using packaged IC tester, p-n junction diode DC IV and CV characterization at room temperature and model parameter extraction, p-n junction diode DC IV and CV characterization at higher temperatures, MOS capacitor CV characterization at room temperature, MOSFET DC Id-Vg and Id-Vd characterization at room temperature, MOSFET DC characterization using cryogenic probe station, RF characterization using 2-port S-parameters, MOSFET RF characterization at room temperature, MOSFET large-signal RF characterization using load-pull method, MOSFET flicker noise characterization at room temperature, lab project.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": "ELL7302/ELL7303/CRP7023/ELL2003/PYL7001/ELL7342",
+  "overlap": null,
+  "learning_outcomes": [
+    "On-Wafer Device Characterization Laboratory. | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "On-Wafer Device Characterization Laboratory."
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/wafer-device-characterization-laboratory",
+  "slug": "wafer-device-characterization-laboratory"
+}

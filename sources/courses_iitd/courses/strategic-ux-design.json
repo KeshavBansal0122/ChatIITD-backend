@@ -1,0 +1,22 @@
+{
+  "code": "DDR8109",
+  "name": "Strategic UX Design",
+  "description": "Identify experiential needs of users from observations of their tasks in daily life activities. Learn the use of qualitative unstructured interviews with deep probing techniques to uncover the motivations and beliefs of users that underlie the felt experiences. Create persona, scenario and tasks. Present pain points, pressure points and opportunities for UX improvement in the UX flow map. Identify critical tasks and experiences within each task in the UX flow map with significant ROI. Develop design strategy to cater to the ROI for business and experiential needs of users. Design sequence of UIs for the strategy. Test the UX strategy and iterate till the UX needs are met.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(DDL7108)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Strategic UX Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Strategic UX Design"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/strategic-ux-design",
+  "slug": "strategic-ux-design"
+}

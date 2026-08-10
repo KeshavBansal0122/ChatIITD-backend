@@ -1,0 +1,22 @@
+{
+  "code": "CVL7378",
+  "name": "Building Services and Lifecycle Management",
+  "description": "Concepts of functional design of building for fire protection, design of lift systems for optimum service, building service system design. Intelligent buildings systems and automation, HVAC systems (heating, ventilation, and air conditioning), hot and cold water services, waste water handling system, electrical services and power distribution, building maintenance management strategies, testing protocols and remedial maintenance, repair and retrofitting of buildings strategies, condition assessment and rehabilitation techniques.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Building Services and Lifecycle Management | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Building Services and Lifecycle Management"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/building-services-and-lifecycle-management",
+  "slug": "building-services-and-lifecycle-management"
+}

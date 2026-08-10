@@ -1,0 +1,22 @@
+{
+  "code": "ELD4002",
+  "name": "Capstone Project",
+  "description": "The course is a team\u2011based, interdisciplinary, product\u2011focused engineering project that requires the students to define and implement an engineering design solution to a practical problem relevant to electrical engineering, including requirement analysis, system design, prototyping, and testing. Students are expected to work in teams, apply project management practices, and present outcomes through professional documentation, demonstrations, and oral presentations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Capstone Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Capstone Project"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/capstone-project-2",
+  "slug": "capstone-project-2"
+}

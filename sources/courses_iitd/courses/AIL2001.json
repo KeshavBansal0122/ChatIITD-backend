@@ -1,0 +1,22 @@
+{
+  "code": "AIL2001",
+  "name": "Introductory Data Science",
+  "description": "AI philosophy; data collection and models; data curation; data quality assessment; data infrastructure; data value; statistical training and hypothesis formation; statistical hypothesis testing; state spaces, local search and optimisation for machine learning; supervised and unsupervised machine learning; regression; decision trees and random forests; neural networks; hyperparameter tuning and performance metrics; model debugging; AI agents and sequential decision-making; application areas; AI/data ethics and social implications; overview of latest advances like large language models; practical assignments in python/R for familiarisation with data science and machine learning libraries, and interpretation of outcomes.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "MTL1108/MTL1106",
+  "overlap": null,
+  "learning_outcomes": [
+    "Introductory Data Science | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introductory Data Science"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introductory-data-science",
+  "slug": "introductory-data-science"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "ASD7100",
+  "name": "Cornerstone Project (MTech in Atmospheric-Oceanic Science and Technology)",
+  "description": "As a cornerstone project, the students will develop skills in experimentation, modelling, and data analytics, and will be able to work in teams in association with CAS faculty members.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AS#ASD7100"
+}

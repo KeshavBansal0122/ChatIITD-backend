@@ -1,0 +1,22 @@
+{
+  "code": "MTL6777",
+  "name": "Foundations of Statistical Learning",
+  "description": "Summary measures (mean, variance) and statistical inference (confidence intervals, hypothesis testing). A review of limit theorems (central limit theorem, law of large numbers) and exploratory data analysis, linear regression and least square estimation, generalized linear models and logistic regression, classification problem, Fisher\u2019s discriminant analysis and nearest neighbor methods. Model assessment and cross-validation. Data dimension reduction, principal component analysis (PCA) and t-distributed stochastic neighbor embedding (t-SNE), model selection, ridge and LASSO regressions. Data-depth, multivariate ordering of data and classification based on data-depth.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "MTL5011",
+  "overlap": null,
+  "learning_outcomes": [
+    "Foundations of Statistical Learning | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Foundations of Statistical Learning"
+  ],
+  "department": "Introduction to Statistical Learning",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/foundations-statistical-learning",
+  "slug": "foundations-statistical-learning"
+}

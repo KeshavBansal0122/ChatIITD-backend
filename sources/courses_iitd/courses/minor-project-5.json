@@ -1,0 +1,21 @@
+{
+  "code": "AMD5050",
+  "name": "Minor Project",
+  "description": "Planning, executing, documenting, and presenting a practical project on a chosen topic related to naval design and engineering, integrating theoretical knowledge into practice, from experiments undertaken in laboratory, or using computational simulations.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Minor Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/minor-project-5",
+  "slug": "minor-project-5"
+}

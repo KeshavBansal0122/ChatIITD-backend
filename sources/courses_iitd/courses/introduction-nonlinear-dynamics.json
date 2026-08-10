@@ -1,0 +1,22 @@
+{
+  "code": "PYL7011",
+  "name": "Introduction to Nonlinear Dynamics",
+  "description": "Introduction, phase space, stability analysis, bifurcations, iterative maps. Dissipative systems; noninvertible maps; period-doubling and universality, intermittency. Hamiltonian systems. Fractals; self-similarity; fractal dimensions and multifractals.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Nonlinear Dynamics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Nonlinear Dynamics"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-nonlinear-dynamics",
+  "slug": "introduction-nonlinear-dynamics"
+}

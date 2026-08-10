@@ -1,0 +1,22 @@
+{
+  "code": "MLL7201",
+  "name": "Phase Equilibria and Transformations",
+  "description": "Equilibrium, Gibbs free energy concept for single and binary systems, chemical potential; regular solution model; evolution of phase diagrams; order of phase transformation; ternary equilibrium, ternary isotherms, activity diagrams, introduction and classification of phase transformation. Diffusion in solids: Fick\u2019s 1st and 2nd laws, the Kirkendall effect, Arken\u2019s analysis, various diffusion mechanisms. Thermodynamics of transformation: free energy of solid solutions, order of transformation, driving force for first order transformation with and without composition change, second order transformation, spinodal decomposition. Nucleation kinetics: homogeneous and heterogeneous nucleation, homogeneous nucleation with composition change, heterogeneous nucleation, strain energy effects. Interfacial free energy, grain boundary characteristics, grain growth kinetics; interphase interfaces in solids; interface migration; overall transformation kinetics, Johnson-Mehl-Avarami model. Particle coarsening. Recovery, recrystallization and grain growth. Diffusionless transformation, precipitation process; TTT diagram; cellular precipitation; Eutectoid transformation; Bainite transformation; massive transformation; order-to-disorder transformation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Phase Equilibria and Transformations | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Phase Equilibria and Transformations"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/phase-equilibria-and-transformations",
+  "slug": "phase-equilibria-and-transformations"
+}

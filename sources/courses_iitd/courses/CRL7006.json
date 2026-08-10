@@ -1,0 +1,22 @@
+{
+  "code": "CRL7006",
+  "name": "Pattern Classification",
+  "description": "Introduction to pattern classification, fundamentals of prediction, supervised learning, representation and features, optimization, generalization, deep learning, datasets, causality and reinforcement learning.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Pattern Classification | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Pattern Classification"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/pattern-classification",
+  "slug": "pattern-classification"
+}

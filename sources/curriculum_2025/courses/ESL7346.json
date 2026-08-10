@@ -1,0 +1,16 @@
+{
+  "code": "ESL7346",
+  "name": "Hydrogen Energy",
+  "description": "Hydrogen pathways, hydrogen energy resources, hydrogen with energy efficiency and net zero emissions, general introduction to infrastructure requirement for hydrogen production, storage, dispensing and utilization, hydrogen production: electrolysis and different electrolyzers, design of electrolyzer, optimization of design and operating parameters, current density with power density and efficiency, thermolysis, photolysis, thermo-chemical water splitting: gasification, steam reforming, pyrolysis, partial oxidation, and autothermal reforming, design of biomass gasifier, carbon capture storage and utilization, negative emissions, sulfur-iodine, copper-chlorine cycle, photo electro chemical, biological: anaerobic, photo-biological, and dark fermentation, hydrogen storage: different physical storage systems, gaseous storage, cryogenic storage, metal hydride, chemical hydrides, design of gaseous, liquid, and solid stage hydrogen storage system for given applications, hydrogen transportation and dispensing systems, hydrogen applications: industrial burners, green ammonia production, green steel, green cement, gas turbine, internal combustion engines, fuel cells, spacecrafts, ships, energy efficiency improvement with hydrogen, hydrogen safety sensors and control systems, safety management, hydrogen and net zero emission targets: integration of hydrogen energy with industries (steel, cement, ammonia, etc.), transportation sectors (road, rail, water, and air), integration of renewable energy and fossil energy systems with hydrogen, applications of AI on energy efficiency, preventive maintenance, and safety in hydrogen industries, net zero compliance industries with hydrogen, techno-sustainable assessment, case study.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ES",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ES#ESL7346"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "BML8900",
+  "name": "Micro-Nanodevices for Healthcare Technology",
+  "description": "Introduction and historical prospective of MEMS (micro electromechanical system) and BioMEMS, moors law and Feynman scaling (\u201cthere is plenty of room at the bottom\u201d), why miniaturization? Dimensions and scaling challenges, electronics components and operation principle, processing, and fabrication techniques for various active and passive substrate materials, microfluidics systems, micro- system technology to realize various biologically inspired systems, electrokinetic and molecular manipulation, sensor principle, parameters and electrode design, sensing technologies (electrochemical, electrostatic piezoelectric and thermal), micro actuators system, BioMEMS integrated analytical devices, wearable and implantable BioMEMS device, commercialized biomedical microdevices, regulatory considerations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "BML7030BML7020",
+  "overlap": null,
+  "learning_outcomes": [
+    "Micro-Nanodevices for Healthcare Technology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Micro-Nanodevices for Healthcare Technology"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/micro-nanodevices-healthcare-technology",
+  "slug": "micro-nanodevices-healthcare-technology"
+}

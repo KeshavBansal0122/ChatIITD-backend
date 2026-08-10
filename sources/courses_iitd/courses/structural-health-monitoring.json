@@ -1,0 +1,22 @@
+{
+  "code": "CVL8456",
+  "name": "Structural Health Monitoring",
+  "description": "Concept of structural health monitoring, sensor systems and hardware requirements, global and local techniques, computational aspects of global dynamic techniques, experimental and operational mode shapes, damage localization and quantification, piezo\u2013electric materials and other smart materials, electro\u2013mechanical impedance (EMI) technique, adaptations of EMI technique, vision based SHM, AI-ML in SHM, corrosion and fatigue monitoring, case studies, NDE techniques, mini project. Laboratory: sensor installation and diagnostics, mode shape extraction, location and quantification of damage using global dynamic techniques, damage detection using electro \u2013 mechanical impedance technique, vision-based SHM, field experiment on real-life bridge/ building.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(CVL7412&CVP7412)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Structural Health Monitoring | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Structural Health Monitoring"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/structural-health-monitoring",
+  "slug": "structural-health-monitoring"
+}

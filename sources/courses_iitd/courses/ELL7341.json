@@ -1,0 +1,22 @@
+{
+  "code": "ELL7341",
+  "name": "Quantum Computing Hardware Design and Technology",
+  "description": "Basics of quantum mechanics, concept of a quantum machine and the logical qubit, quantum logic gates and their implementation, physical qubits and their implementation, quantum hardware measurements and models, architecture and system scalability, quantum algorithms and error correction.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL7302/ELL2003/PYL7002/ELL2403/ELL7303",
+  "overlap": null,
+  "learning_outcomes": [
+    "Quantum Computing Hardware Design and Technology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Quantum Computing Hardware Design and Technology"
+  ],
+  "department": "Quantum Electronics",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/quantum-computing-hardware-design-and-technology",
+  "slug": "quantum-computing-hardware-design-and-technology"
+}

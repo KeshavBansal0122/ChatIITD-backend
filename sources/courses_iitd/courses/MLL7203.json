@@ -1,0 +1,22 @@
+{
+  "code": "MLL7203",
+  "name": "Advanced Glass and Ceramics",
+  "description": "Definition and principles of glass formation, determination of glass forming ability; Immiscibility of glass forming. Structure of glasses, network formation. Viscosity of glass forming, density and thermal expansion, glass characterization, rheology of glasses, and glass technology. Introduction to glass-ceramics materials, its properties and application definition of ceramics, elementary crystallography, ceramic microstructure, general characteristics of ceramics, traditional versus advanced ceramics. Bonding in ceramics, ceramic structures: ceramic structures, binary ionic compound, composites crystal structures, effect of chemical forces and structure on physical properties. Thermodynamics and kinetics considerations in ceramic structure, phase equilibria, Sintering and grain growth: solid state sintering, liquid state sintering, sintering kinetics, hot pressing example with ceramic processing, Refractories, Whitewares, mechanical behavior of ceramics, crack growth, fatigue creep, thermal stresses, thermal properties, thermal tempering, spontaneous micro cracking dielectric, magnetic and electronic properties, optical properties.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Glass and Ceramics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Glass and Ceramics"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-glass-and-ceramics",
+  "slug": "advanced-glass-and-ceramics"
+}

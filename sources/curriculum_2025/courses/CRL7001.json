@@ -1,0 +1,16 @@
+{
+  "code": "CRL7001",
+  "name": "Introduction to Data Science and Signal Processing",
+  "description": "Fundamentals of signals and systems, LTI systems, convolution, Fourier transforms, sampling and Nyquist criteria, set and probability theory, random variables, probability density / distribution functions, moments, characteristic and moment generating functions, transformation of a random variable, random process, stationarity, ergodicity, vectors, matrices, subspace, gram-Schmidt orthogonalization, least squares estimation. Laboratory: lab experiments using MATLAB will be given to understand the practical aspects of these concepts.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CR#CRL7001"
+}

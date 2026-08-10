@@ -1,0 +1,22 @@
+{
+  "code": "MLL7204",
+  "name": "Materials for Energy Applications",
+  "description": "This course explores materials used in energy applications, focusing on their fundamental physical and chemical properties, synthesis methods, and performance evaluation. Topics include batteries, fuel cells, catalysts for energy conversion, photovoltaics, nanogenerators (piezoelectric and triboelectric) and thermoelectric materials. By emphasizing both underlying mechanisms and practical applications, the course bridges fundamental science with advancements in sustainable energy technologies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Materials for Energy Applications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Materials for Energy Applications"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/materials-energy-applications",
+  "slug": "materials-energy-applications"
+}

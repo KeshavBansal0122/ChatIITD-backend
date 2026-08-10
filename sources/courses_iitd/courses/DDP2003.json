@@ -1,0 +1,22 @@
+{
+  "code": "DDP2003",
+  "name": "Studio-1 Communication Design",
+  "description": "This course introduces core principles and practices of communication design through focused modules on print and brand identity. It begins with editorial design, exploring layout systems, sequencing, and visual storytelling across print and digital formats. Students then examine packaging as a site of cultural and semantic communication, followed by the development of coherent visual identity systems across media. Emphasis is placed on iterative project development\u2014from research and ideation to prototyping and critique. The course culminates in a final project that integrates conceptual thinking with execution across formats, fostering critical engagement with audience, medium, and context in communication design.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": "(DDP1001) &(DDP1002) &(DDP1005) &(DDP1007)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Studio-1 Communication Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Studio-1 Communication Design"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/studio-1-communication-design",
+  "slug": "studio-1-communication-design"
+}

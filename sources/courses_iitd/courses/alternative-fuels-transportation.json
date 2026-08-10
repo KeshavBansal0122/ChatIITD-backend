@@ -1,0 +1,22 @@
+{
+  "code": "ESL8275",
+  "name": "Alternative Fuels for Transportation",
+  "description": "An introduction to hydrocarbon fuels-their availability and effect on environment, Resources\nsuch as shale gas and petroleum, Gasoline and Diesel self-ignition characteristics of the fuel, octane number, Cetane number, Alternative fuels -liquid and gaseous fuels, Physico-chemical\ncharacteristics, Alternative liquid fuels, Alcohol fuels -ethanol and methanol, fuel composition,\nFuel induction techniques, Fumigation, Emission of oxygenates, Applications to engines and automotive conversions, Biodiesel formulation techniques, Transesterification, Application in diesel engines, Dimethyl ether(DME), properties fuel injection consideration general introduction to Liquefied Petroleum Gas(LPG) and Liquefied Natural Gas(LNG), Compressed natural gas (CNG) components, mixtures and kits, Fuel supply system and emission studies and control, Hydrogen combustion characteristics, Flashback control techniques, Safety aspects and system development, NOx emission control, Biogas, Producer gas and their characteristics, System development for engine application.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Alternative Fuels for Transportation | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Alternative Fuels for Transportation"
+  ],
+  "department": "Energy Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/alternative-fuels-transportation",
+  "slug": "alternative-fuels-transportation"
+}

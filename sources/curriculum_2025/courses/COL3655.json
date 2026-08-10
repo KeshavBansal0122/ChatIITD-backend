@@ -1,0 +1,16 @@
+{
+  "code": "COL3655",
+  "name": "Foundations of Visual Computing",
+  "description": "Introduction to images; image understanding, image processing, and image generation; sampling and representation; visual perception; image reconstruction; image filters and features; 3D space and transformations; camera models; tracking and pose estimation; lighting and shading; introduction to AR/VR; data visualization and communicating with images.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL3655"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "MLL7208",
+  "name": "Advanced Engineering Materials",
+  "description": "Introduction to various engineering materials (high strength steels, light metals and alloys (magnesium and its alloys, aluminum and its alloys and titanium and its alloys etc.), composites, smart materials, porous materials etc.) and their property profiles with their relation to basic structure; structure and properties of steels: high- and ultra-high strength steels, TWIP steels, TRIP steels, dual-phase steels, martensitic steels, Bainitic steels etc.; structure and properties of light metals and alloys: aluminum and its alloys (Al-Li, Al-Si, Al-Mg-Si etc.), magnesium and its alloys (pure Mg and other conventional Mg alloys), titanium and its alloys (pure Ti, \u03b1, \u03b1 + \u03b2 and \u03b2 alloys, transformation induced plasticity Ti alloys, etc.); introduction, structure and properties to composite materials (metal-matrix, particulate, laminated and fibre reinforced etc.); structure and properties of: hybrid materials, porous materials (metal foams, lattice materials etc.), smart materials (shape memory alloys etc.), auxetic materials; case studies of materials applications in automotive, aerospace, power generation sectors etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ML",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ML#MLL7208"
+}

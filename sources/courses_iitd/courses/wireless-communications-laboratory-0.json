@@ -1,0 +1,22 @@
+{
+  "code": "BSP9611",
+  "name": "Wireless Communications Laboratory",
+  "description": "1. Basics of MATLAB/Python programming 2. To plot BER versus SNR plots for BPSK, QPSK, 16-QAM constellations over Rayleigh Fading Channel. 3. To plot average capacity versus SNR plot for M-Ary constellations over Rician Fading channel. 4. To implement OFDM transmitter and receiver. 5. To implement linear regression-based channel estimator for Rayleigh fading channel and BPSK constellation. 6. To implement supervised learning detector for wireless channels. 7. To evaluate the performance of wireless channels using LDPC Codes 8. To implement ISAC system in Matlab 9. To implement QKD Protocols.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 1.0,
+    "practical": 4.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Wireless Communications Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Wireless Communications Laboratory"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/wireless-communications-laboratory-0",
+  "slug": "wireless-communications-laboratory-0"
+}

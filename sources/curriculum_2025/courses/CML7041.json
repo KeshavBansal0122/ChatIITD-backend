@@ -1,0 +1,16 @@
+{
+  "code": "CML7041",
+  "name": "Organo and Organometallic Catalysis",
+  "description": "Introduction. Enamine catalysis. Iminium catalysis. Asymmetric proton catalysis. Ammonium ions as chiral templates. Chiral Lewis bases as catalysts. Asymmetric acyl transfer reactions. Ylide based reactions. Transition metal catalyzed reactions. C-H activation. N-heterocyclic carbenes.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CM#CML7041"
+}

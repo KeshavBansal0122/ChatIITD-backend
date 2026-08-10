@@ -1,0 +1,22 @@
+{
+  "code": "JRD7900",
+  "name": "Cornerstone Project",
+  "description": "This is a hands-on, team-based project course in which students develop practical skills in system integration, debugging, and teamwork while integrating knowledge from fundamental robotics concepts such as mechanics, sensing, control, perception, and computation.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Cornerstone Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Cornerstone Project"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/cornerstone-project-14",
+  "slug": "cornerstone-project-14"
+}

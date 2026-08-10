@@ -1,0 +1,22 @@
+{
+  "code": "ELL8122",
+  "name": "Model Predictive Control",
+  "description": "This course covers the theory and practice of Model Predictive Control (MPC) for constrained dynamical systems. Topics include formulation of MPC as an optimization problem, feasibility and stability guarantees, invariant set theory, robust and stochastic extensions, nonlinear and distributed MPC, and computational methods for real-time implementation. Applications to robotics, automotive, and energy systems illustrate the use of MPC in solving real-world control problems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL7101",
+  "overlap": null,
+  "learning_outcomes": [
+    "Model Predictive Control | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Model Predictive Control"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/model-predictive-control",
+  "slug": "model-predictive-control"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CHL7211",
+  "name": "Design of Multicomponent Separation Processes",
+  "description": "Overview of multi-component separation. Non-ideal solution and properties, equation of state, vapour-liquid equilibrium. Multi-component separation: short cut method, rigorous calculations - sum rate, boiling point, Newton&#039;s methods, inside-out method for designing multi-component distillation, absorption, and extraction column/contacting devices. Choice of the column: tray, random packing, and structured packing. Design of adsorption and ion exchange column. Crystallization. Membrane, affinity, and chromatographic separation and their equipment design. Optimal reflux ratio (recycle stream) \u2013 operating expenditure versus capital expenditure for all types of columns and contacting devices of a multi-component system. Implementation of computational methods for design of multi-component separation processes. Case studies and trouble-shooting related distillation and extraction and adsorption processes.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL3004",
+  "overlap": null,
+  "learning_outcomes": [
+    "Design of Multicomponent Separation Processes | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Design of Multicomponent Separation Processes"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/design-multicomponent-separation-processes",
+  "slug": "design-multicomponent-separation-processes"
+}

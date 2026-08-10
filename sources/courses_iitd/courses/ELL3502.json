@@ -1,0 +1,22 @@
+{
+  "code": "ELL3502",
+  "name": "e-Mobility Systems",
+  "description": "Overview of transportation electrification, architecture of electric vehicles (BEV, HEV, PHEV), key subsystems - traction motor, inverter, battery, controller.\nScalar (V/f) control of induction motors, Vector control (FOC) of PMSM and IM, Trapezoidal control for BLDC, Sensorless control methods.\nDC-DC converters, Voltage source inverters, converter selection for IM, PMSM, BLDC drives, Modulation techniques: SPWM, SVPWM.\nPowertrain configurations: single vs multi-motor systems, Vehicle Dynamics Control (traction, stability, regen), regenerative braking.\nBattery technologies: Li-ion, LiFePO4, Battery modeling and characteristics, State of Charge (SOC) and State of Health (SOH) estimation, Battery Management System (BMS) functions, Battery charging techniques (on-board/off-board)\nEmerging trends - wireless charging, V2G systems, SiC/GaN converters in e-Mobility systems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(ELL2500&ELL2501)",
+  "overlap": null,
+  "learning_outcomes": [
+    "e-Mobility Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "e-Mobility Systems"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/e-mobility-systems",
+  "slug": "e-mobility-systems"
+}

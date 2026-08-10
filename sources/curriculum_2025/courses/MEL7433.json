@@ -1,0 +1,16 @@
+{
+  "code": "MEL7433",
+  "name": "Air Pollution: Sources and Apportionment",
+  "description": "Air pollution \u2013 dominant pollution sources and the relevant emission physics, physico-chemical characteristics and emission control. Application of multivariate statistical methods to air pollutant transport and source apportionment. Application to air pollution in Delhi-NCR.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL7433"
+}

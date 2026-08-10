@@ -1,0 +1,22 @@
+{
+  "code": "CVL3601",
+  "name": "Introduction to Highway Engineering",
+  "description": "Transportation modes and their classification; Road user and vehicle characteristics; Relevant statistical analysis; Pavements: flexible and rigid; Testing and characterization of pavement materials (soil, aggregates, bitumen, concrete), Relevant IRC, IS specifications; Analysis and design of pavement structures; Pavement design specifications \u2013 IRC specification; Geometric design of roads: horizontal alignment, vertical alignment, cross-section elements; Relevant geometric design standards- IRC specification.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CVL2601",
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Highway Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Highway Engineering"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-highway-engineering",
+  "slug": "introduction-highway-engineering"
+}

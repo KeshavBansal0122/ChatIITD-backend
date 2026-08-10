@@ -1,0 +1,22 @@
+{
+  "code": "CVL7818",
+  "name": "Mechanics of Sediment Transport",
+  "description": "Introduction; equations of particle motion particle in a moving fluid, collision with the bed, diffusion of turbulence; macroscopic view of sediment transport \u2013 bedload, suspended load; threshold condition for sediment motion \u2013 critical stress for flow over a granular bed, shields diagram; mechanics of bedload transport: Bagnold hypothesis of bedload transport, bedload transport relations; mechanics of suspended sediment transport; total load transport; descriptive analysis of bedforms \u2013 introduction of bedform mechanics, dunes, antidunes, ripples, bars; stability analysis of bedforms; mechanism of transportation of materials by fluid flow through pipeline; rheology and classification of complex mixtures; fundamentals of two-phase flow; phase separation and settling behaviour; flow of non-Newtonian fluids through pipes: turbulent flows of complex mixtures, slurry pipeline transportation, design methods.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Mechanics of Sediment Transport | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mechanics of Sediment Transport"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mechanics-sediment-transport",
+  "slug": "mechanics-sediment-transport"
+}

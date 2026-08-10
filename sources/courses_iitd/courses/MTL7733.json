@@ -1,0 +1,22 @@
+{
+  "code": "MTL7733",
+  "name": "Stochastic of Finance",
+  "description": "Basic stochastic process involved in the study of mathematics of finance, martingales, Brownian motion, geometric Brownian motion, It\u00f4 calculus, It\u00f4 formula, stochastic differential equations, strong solution, weak solution, derivative security pricing, change of measure, martingale representation theorem, Girsanov\u2019s theorem, option pricing, Feymann-Kac theorem, Black-Scholes model, forward contracts and bond pricing, Vasicek model, CIR model, Hull-White model, Monte-Carlo simulation, random number generation, simulation of Black-Scholes model, simulation of stochastic differential equation, simulation models for option pricing.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(MTL2006) /(MTL2008) /(MTL5005)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Stochastic of Finance | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Stochastic of Finance"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/stochastic-finance",
+  "slug": "stochastic-finance"
+}

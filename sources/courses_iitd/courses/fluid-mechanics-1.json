@@ -1,0 +1,21 @@
+{
+  "code": "MEL2012",
+  "name": "Fluid Mechanics",
+  "description": "Introduction: scope, methods of analysis (system vs. volume), Fluid as a continuum, Eulerian/Lagrangian description, Newton\u2019s law of viscosity.\nFluid Statics: Hydrostatic force on submerged surfaces, Buoyancy and stability, Fluids in rigid-body motion. \nFlow kinematics: Flow lines, vorticity and circulation.\nIntegral flow analysis: Reynolds transport theorem, conservation of mass, linear and angular momentum for inertial and accelerating control volumes, conservation of energy, Bernoulli\u2019s equation.\nDifferential analysis of fluid motion: Conservation of mass, stream function for 2D incompressible flow, fluid translation, rotation and deformation, conservation of momentum, Navier-Stokes equations, incompressible inviscid flows, potential flow.\nDimensional analysis and similitude: Dimensionless groups, scaling, non-dimensionalization.\nViscous flows: fully developed laminar and turbulent pipe flows, head loss, boundary layer concept, flow separation, comparison of laminar and turbulent velocity profiles, streamlining and implications.\nCompressible flow: speed of sound, the Mach cone, stagnation properties, critical conditions, isentropic flows and converging-diverging nozzles.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": "MEL1002",
+  "overlap": null,
+  "learning_outcomes": [
+    "Fluid Mechanics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fluid-mechanics-1",
+  "slug": "fluid-mechanics-1"
+}

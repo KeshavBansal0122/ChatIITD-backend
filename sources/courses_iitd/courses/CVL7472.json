@@ -1,0 +1,22 @@
+{
+  "code": "CVL7472",
+  "name": "Theory of Plates and Shells",
+  "description": "Thin and thick plate theories. Bending of long rectangular plate to a cylindrical surface. Prismatic folded plate systems. Pure and symmetric bending of plates. Small and large deflections of plates. Special and approximate methods in theory of plates. General theory of cylindrical shells. Shell equations. Approximate solutions of plates and shells equations. Analysis and design of cylindrical shells. Approximate design methods for doubly curved shells. Stress analysis methods in spherical shells. Spherical shell of constant thickness. Symmetrical bending of shallow spherical shells. Conical shells.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Theory of Plates and Shells | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Theory of Plates and Shells"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/theory-plates-and-shells",
+  "slug": "theory-plates-and-shells"
+}

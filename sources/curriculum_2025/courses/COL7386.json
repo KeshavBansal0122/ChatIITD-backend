@@ -1,0 +1,16 @@
+{
+  "code": "COL7386",
+  "name": "Advanced Functional Brain Imaging",
+  "description": "Recent advances in functional brain and neuroimaging have come from the application of several advanced machine learning techniques. This course aims to cover these. The course will start with an introduction to the human brain anatomy and function. The students will then learn about various imaging technologies for measuring and modeling brain activities. Finally, recent advances, including functional connectivity and applications of machine learning techniques in analyzing the brain data will be covered. The course involve experimentation where students will be able to apply the knowledge gained in the course for the analysis of neuroimaging data. Introduction to functional neuroanatomy of human brain, overview of brain imaging methods, introduction to magnetic resonance imaging (MRI), detailed coverage of functional magnetic resonance imaging (fMRI), fMRI protocol design, fMRI data analysis methods, general linear model, introduction to statistical estimation theory, estimation of general linear model parameters, functional connectivity analysis, multi-voxel pattern analysis, machine learning based methods of analysis of fMRI data.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL7386"
+}

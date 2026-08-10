@@ -1,0 +1,22 @@
+{
+  "code": "AIL7061",
+  "name": "Computational Cognition",
+  "description": "The course will provide a background about the historical ideas and main presuppositions of AI and computational cognitive science. It will discuss the basics of representation, which is the dominant approach to studying both human and machine cognition. Then, it shall delve into details about computational models, functional architectures, cognitive architectures and also discuss more recent advances linking discrete with analog systems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Computational Cognition | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Computational Cognition"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/computational-cognition-0",
+  "slug": "computational-cognition-0"
+}

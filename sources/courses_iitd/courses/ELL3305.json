@@ -1,0 +1,22 @@
+{
+  "code": "ELL3305",
+  "name": "Analog Systems I",
+  "description": "The course covers the concepts of linearity and passivity in analog circuits, along with techniques for large-signal and small-signal analysis. It introduces the principles and applications of negative feedback and provides a foundation in MOSFET operation and characteristics. Students will study biasing circuits for stable transistor operation, the design and analysis of current mirrors, and the implementation of single-stage amplifiers.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL1001",
+  "overlap": null,
+  "learning_outcomes": [
+    "Analog Systems I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Analog Systems I"
+  ],
+  "department": "Analog Circuit Design",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/analog-systems-i",
+  "slug": "analog-systems-i"
+}

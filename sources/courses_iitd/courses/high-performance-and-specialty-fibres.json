@@ -1,0 +1,22 @@
+{
+  "code": "TXL7151",
+  "name": "High Performance and Specialty Fibres",
+  "description": "Definition, classification and structural requirements of high performance and specialty fibres; concept of gel spinning and spinning of UHMPE fibres; polymerization, spinning and properties of aramids, aromatic polyesters; rigid rod and ladder polymers such as PBZT, PBO, PBI and PIPD; manufacture of carbon fibres from poly(acrylonitrile), viscose and pitch precursors; thermally and chemically resistant polymers and fibres; methods of synthesis and properties of glass and ceramic fibres; specialty fibres: profile fibres, bi-component fibres and hybrid fibres; elastomeric fibres; superabsorbent polymers and fibres; stimuli responsive fibres.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "TXL3101",
+  "overlap": null,
+  "learning_outcomes": [
+    "High Performance and Specialty Fibres | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "High Performance and Specialty Fibres"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/high-performance-and-specialty-fibres",
+  "slug": "high-performance-and-specialty-fibres"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "TXL2401",
+  "name": "Preparation and Colouration of Textiles I",
+  "description": "Natural and added impurities in textiles. Singeing, desizing, scouring, bleaching, mercerisation and optical whitening of cotton. Carbonisation, scouring and bleaching of wool, degumming of silk. Machinery for preparation of textiles. Surfactants and their application in textile preparation. The principles of dyeing of natural fibres. Basic characteristics of dyes, chemical structure of dyes, and classification of dyes for natural fibres. Dye-fibre interactions \u2013 mechanism of dyeing, application of reactive dyes and vat dyes on cellulosic fibres using batchwise and continuous dyeing techniques, acid and metal complex dyeing for protein fibres, dyeing of regenerated fibres, fastness testing \u2013 washing, light, rub and perspiration fastness, wastewater treatment and effluent management, case studies \u2013 industry best practices and innovations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL2401"
+}

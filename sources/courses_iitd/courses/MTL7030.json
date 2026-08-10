@@ -1,0 +1,22 @@
+{
+  "code": "MTL7030",
+  "name": "Fundamentals of Cryptography",
+  "description": "Classical cryptosystems (substitution ciphers, Vigene\u2019re ciphers, matrix ciphers, transposition ciphers, ADFGX cipher, ADFGVX cipher, permutation cipher, playfair cipher and Enigma machine cipher) and their cryptanalysis. Preview from number theory, Congruences and residue class rings, quadratic residue and Legendre symbol. Public Key Cryptosystems of RSA, Rabin, etc. their security and cryptanalysis. Primality tests (Fermat PT, Miller-Rabin PT, AKS PT), factorization and quadratic sieve, efficiency of other factoring algorithms (Fermat\u2019s, Pollard\u2019s (p-1), Monte Carlo factorization, Factor base, quadratic sieve and continued fraction). Finite fields: Construction and examples, polynomials on finite fields and their factorization/ irreducibility. Key-Exchange protocols Diffie-Hellman key exchange, Massey Omura cryptosystems and ElGamal cryptosystem. Discrete logarithm problems in general and on finite fields. Algorithms for finding discrete logarithms (Shank Baby step Giant step algorithm, Pollard\u2019s \u03c1 algorithm, index calculus algorithm in Z_p and Pohlig-Hellman algorithm) and use them for cryptanalysis. Elliptic curves, public key cryptosystems particularly on elliptic curves. Problems of key exchange, discrete logarithms and the elliptic curve logarithm problem. Implementation of elliptic curve cryptosystems. Counting of points on Elliptic Curves over Galois Fields of order 2^m. Cryptographic hash functions. Authentication, Digital Signatures, Identification, certification infrastructure and other applied aspects. DES- security and generalizations.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "MTL2005/MTL5001",
+  "overlap": null,
+  "learning_outcomes": [
+    "Fundamentals of Cryptography | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fundamentals of Cryptography"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fundamentals-cryptography",
+  "slug": "fundamentals-cryptography"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CMP1000",
+  "name": "Chemistry Laboratory",
+  "description": "Quantitative analysis (titrations of various types such as complexometry, potentiometry, conductometry), chemical kinetics, synthesis of organic molecules and their separation using chromatography (TLC, paper, etc), spectroscopy to verify fundamental quantum chemical principles.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CM#CMP1000"
+}

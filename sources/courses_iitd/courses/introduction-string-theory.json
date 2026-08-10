@@ -1,0 +1,22 @@
+{
+  "code": "PYL7146",
+  "name": "An Introduction to String Theory",
+  "description": "Review of scalar, Dirac and gauge field and gravity (GR) actions and propagation in general dimensions. Relativistic point particles and its symmetries, relativistic string actions, their symmetries, EOM, constraints and solutions. Quantization and Hilbert space of Bosonic strings, critical dimensions, open versus closed strings, tachyon and instability. Superstrings: worldsheet fermions, NS and R sectors, quantization, critical dimension for superstrings, different superstring theories and their specturm. D-branes an more general boundary conditions for open strings, quantization and spectrum.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "An Introduction to String Theory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "An Introduction to String Theory"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-string-theory",
+  "slug": "introduction-string-theory"
+}

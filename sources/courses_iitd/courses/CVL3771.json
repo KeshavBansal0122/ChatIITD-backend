@@ -1,0 +1,22 @@
+{
+  "code": "CVL3771",
+  "name": "Concrete Technology",
+  "description": "Ingredients of concrete, including pozzolanic and non-pozzolanic powders. Mix design of concrete and its workability, strength, and durability properties. Practical experience in concrete mix design and durability testing",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.5,
+    "tutorial": 0.0,
+    "practical": 1.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Concrete Technology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Concrete Technology"
+  ],
+  "department": "Advanced Concrete Technology",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/concrete-technology",
+  "slug": "concrete-technology"
+}

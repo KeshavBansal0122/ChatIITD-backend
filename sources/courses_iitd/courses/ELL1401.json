@@ -1,0 +1,22 @@
+{
+  "code": "ELL1401",
+  "name": "Digital Electronics",
+  "description": "Number systems, conversions, Boolean algebra, arithmetic operations, logic gates, SOP, POS, minterms, maxterms, K-maps, design minimization, adders (half/full), ripple carry adder, carry look ahead adder (4-bit, 16-bit, 64-bit), adder-timing analysis, parity circuits, multiplexers, decoders, encoders, switch based implementation of logic circuits and their analysis, latches, flip-flops, registers, asynchronous and synchronous counters, finite state machines, mealy and Moore FSMs, clock, timing analysis, introduction to memories, VHDL or Verilog.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Digital Electronics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Digital Electronics"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/digital-electronics",
+  "slug": "digital-electronics"
+}

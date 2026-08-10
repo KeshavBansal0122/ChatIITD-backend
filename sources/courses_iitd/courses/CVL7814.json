@@ -1,0 +1,22 @@
+{
+  "code": "CVL7814",
+  "name": "Groundwater Flow and Pollution Modelling",
+  "description": "Modelling concepts and constructing various kinds of models for addressing soil water and groundwater quantity and quality problems of real-world settings; subsurface processes in soil, rocks and aquifers; unsaturated zone properties: soil moisture levels, retention curves, and hydraulic parameters; unsaturated and saturated flows through porous media; infiltration and wetting front; agricultural water and groundwater recharge; single and multiple aquifer systems; fracture flows; multiphase flows; groundwater contamination, sources and causes of groundwater pollution; anthropogenic and geogenic pollution; contaminant transport mechanisms: advection, dispersion, diffusion, adsorption, biodegradation, radioactive decay, reactive processes, and geochemical processes; hydrodynamics dispersion, plume evolution and pollution dynamics; multiphase contamination: NAPLs, VOCs; numerical models: finite difference and finite element methods, numerical modelling of steady and transient flows in saturated and unsaturated domains, contaminant transport modelling; regional aquifer simulation; contaminated groundwater systems and their rehabilitation; integrated use of numerical modelling, optimization and geospatial techniques, geostatistics, and fuzzy theory for groundwater vulnerability assessment, environmental impact assessment and groundwater management; applications and case studies; site specific groundwater quality problems in Indian context.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Groundwater Flow and Pollution Modelling | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Groundwater Flow and Pollution Modelling"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/groundwater-flow-and-pollution-modelling",
+  "slug": "groundwater-flow-and-pollution-modelling"
+}

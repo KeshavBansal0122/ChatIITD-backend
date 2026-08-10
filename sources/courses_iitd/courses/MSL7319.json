@@ -1,0 +1,21 @@
+{
+  "code": "MSL7319",
+  "name": "Token Economy",
+  "description": "This course introduces participants to the foundations, design logic, and applications of the token economy, with reference to concepts such as Web3, blockchain networks, smart contracts, and cryptoeconomic coordination. It examines different types of tokens and their roles in representing value, incentives, rights, and access in digital ecosystems, and explores token-based financial arrangements including cryptocurrencies, stablecoins, token exchanges, and decentralized finance. The course further addresses decentralized governance through DAOs and purpose-driven token systems, highlighting issues of coordination, participation, and decision rights. Through discussion of real-world cases and design-oriented analysis, the course enables participants to critically understand how tokenized systems are structured, governed, and applied across business, platform, and societal contexts.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Token Economy | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/token-economy",
+  "slug": "token-economy"
+}

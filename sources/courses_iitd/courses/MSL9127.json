@@ -1,0 +1,22 @@
+{
+  "code": "MSL9127",
+  "name": "Financial Risk Management",
+  "description": "This course examines the identification, measurement, and management of financial risks faced by financial institutions and corporations. It covers risk governance, market risk measurement tools such as Value at Risk and stress testing, and detailed analysis of credit risk. The course also explores operational risk, liquidity risk, and strategic resilience. In addition, it discusses systemic risk and evolving global regulatory frameworks such as Basel standards, emphasizing how institutions build robust risk management systems in an increasingly complex financial environment.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Financial Risk Management | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Financial Risk Management"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/financial-risk-management-0",
+  "slug": "financial-risk-management-0"
+}

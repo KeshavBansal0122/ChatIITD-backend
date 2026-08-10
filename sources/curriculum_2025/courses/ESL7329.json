@@ -1,0 +1,16 @@
+{
+  "code": "ESL7329",
+  "name": "Renewable Energy and Environment",
+  "description": "Recent challenges in terms of environmental pollutions; sources of pollution and global warming; harmful effects of environmental, pollution; preventive measures and protocols to minimize environmental damage; availability and economic aspects of renewable energy, sources; effects of renewable energy sources on the environment; emerging renewable energy resources.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ES",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ES#ESL7329"
+}

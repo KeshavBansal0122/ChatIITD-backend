@@ -1,0 +1,22 @@
+{
+  "code": "ELL7512",
+  "name": "Design of Wide Band-Gap Device Based Power Electronic Converters",
+  "description": "-Comparative study between WBG and Si materials \u2013 bandgap energy, electron mobility, thermal stability etc. Layout of WBG power devices in modules. Dynamic characteristics of WBG devices and its effects on device switching.\u00a0 \n-Understanding the dynamic behavior of gate circuit, effect of stray parameters on gate circuit, and switching behavior. Evaluating the isolation requirement in gate circuit. Mitigation of EMI. Active gate driver \u2013 thermal management, EMI mitigation, and device paralleling \u00a0 \n-Effect of stray inductances and parasitic capacitance on converter performance, generation of EMI, evaluating stray inductance and capacitance (using open-source tools), design of busbars and interconnections in power converters , thermal management of converters, accurate evaluation of switching losses considering circuit stray parameters, device selection to optimize switching and conduction losses, heat dissipation techniques \u2013 natural cooling, forced air and liquid cooling \u00a0 \n-Relevant power circuits with WBG devices Isolated converters Totem pole PFC Single stage AC-DC converters",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Design of Wide Band-Gap Device Based Power Electronic Converters | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Design of Wide Band-Gap Device Based Power Electronic Converters"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/design-wide-band-gap-device-based-power-electronic-converters",
+  "slug": "design-wide-band-gap-device-based-power-electronic-converters"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "AML7030",
+  "name": "Theory of Linear and Nonlinear Elastic Solids",
+  "description": "Introduction to tensor algebra; kinematics of deformation; stress tensor; Cauchy theorem; Cauchy stress and Piola stress tensors; principal stresses; governing equations; constitutive equations; linear elasticity theory; plane stress and plane strain; Airy\u2019s stress function; strain compatibility; finite elasticity; invariance; neo-Hookean and Mooney-Rivlin models; boundary value problems in linear and finite elasticity.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "AML2010",
+  "overlap": null,
+  "learning_outcomes": [
+    "Theory of Linear and Nonlinear Elastic Solids | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Theory of Linear and Nonlinear Elastic Solids"
+  ],
+  "department": "Linear Elasticity",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/theory-linear-and-nonlinear-elastic-solids",
+  "slug": "theory-linear-and-nonlinear-elastic-solids"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "COL8381",
+  "name": "Special Topics in Artificial Intelligence",
+  "description": "The students will learn about topics, which are currently at the forefront of artificial intelligence research. Each semester, the theme of the course may change depending on the instructor. Potential topics or themes which may be covered (one topic per offering) include: information extraction, applications of AI, advanced logic-based AI, Markov decision processes, statistical relational learning, robotics and embodied/physical intelligence, generative AI etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL8381"
+}

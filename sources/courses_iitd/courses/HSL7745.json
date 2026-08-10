@@ -1,0 +1,22 @@
+{
+  "code": "HSL7745",
+  "name": "Introduction to Psycholinguistics",
+  "description": "The course will provide an introduction to the study of language processing, its relevance historically as well as in the modern context. It will introduce language processing at two levels, namely (a) linguistic granularity, and (b) cognitive skill. From a linguistic perspective, we will discuss the processing of words, sentences, discourse, etc. From a cognitive skill perspective we will discuss how processing interacts with reading, language acquisition, bilingualism, language impairment, etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Psycholinguistics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Psycholinguistics"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-psycholinguistics",
+  "slug": "introduction-psycholinguistics"
+}

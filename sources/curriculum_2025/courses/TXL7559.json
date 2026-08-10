@@ -1,0 +1,16 @@
+{
+  "code": "TXL7559",
+  "name": "Wearable E-Textiles",
+  "description": "Introduction to e-textiles -definition, history, and applications; key characteristics and functionalities of e-textiles; classification of e-textiles; materials of e-textiles \u2013 active and passive; active materials - electroactive polymers and translation into textiles; conductive textiles: fundamentals, various strategies for preparation of conducting textiles, various applications of conductive textiles - heating textiles, flexible electrodes, etc. Basics of piezoelectricity, flexible piezoelectric materials for e-textiles; basics of triboelectricity, working mechanism and fundamental modes of TENG, textiles in triboelectricity; e-textile passive elements - passive components (resistors, capacitors, inductors) in e-textiles; wearable energy storage devices - batteries and super capacitors, fibrous and fabric based energy storage systems; wearable solar cells; design and development of e-textile garments and other devices using active and passive elements; testing methods for performance evaluation of various functional characteristics including their durability, washability, comfort, etc. Wearable electronic textiles for wellbeing, healthcare, sports, smart homes and protective applications, its design and integration \u2013 various case studies; current challenges and future perspectives of e-textiles; ethical and societal considerations of e-textiles; IEC standardization for e-textiles; future trends and challenges in e-textiles technologies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL7559"
+}

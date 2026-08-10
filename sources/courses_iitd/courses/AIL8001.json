@@ -1,0 +1,22 @@
+{
+  "code": "AIL8001",
+  "name": "Mathematics of Machine Learning",
+  "description": "Normed linear space, Banach space, Hilbert space, orthonormal basis, projection theorem, dual spaces, Riesz representation theorem, bounded linear operators, compact operators, spectral theorem for self-adjoint compact operators. Reproducing kernel Hilbert space (RKHS), positive definite functions, feature maps, Gaussian probabilistic inequalities, Tikhonov-type regularization, general regularization, representer theorem, convergence analysis of empirical risk minimization, adaptive regularization parameter choice rules. Approximation by trigonometric polynomials, localized kernel approximations, neural networks, RBF neural networks, universal approximation, convergence analysis of neural networks.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Mathematics of Machine Learning | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mathematics of Machine Learning"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mathematics-machine-learning",
+  "slug": "mathematics-machine-learning"
+}

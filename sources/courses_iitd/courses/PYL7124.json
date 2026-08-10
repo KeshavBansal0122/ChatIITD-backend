@@ -1,0 +1,22 @@
+{
+  "code": "PYL7124",
+  "name": "Foundations of Spintronics",
+  "description": "Review of various types of magnetic order in solids, ferromagnetism (Weiss model, susceptibility, molecular field) and band theory of ferromagnetism, magnetic interactions, magnetic anisotropy, anisotropy in thin films, perpendicular magnetic anisotropy, exchange anisotropy, magnetic domains and magnetization, fundamentals of spin transport, spin injection and spin accumulation, magnetoresistivity, aniostropic magnetoresistance (AMR), giant magnetoresistance (GMR), tunnel magnetoresistance (TMR), applications of GMR and TMR as MRAM, and read heads in hard disks, spin transfer torque, current induced switching and domain wall motion, spin torque oscillators, magnetization dynamics, spin-orbit torque (SOT), emerging materials for SOT.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(PYL7003)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Foundations of Spintronics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Foundations of Spintronics"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/foundations-spintronics",
+  "slug": "foundations-spintronics"
+}

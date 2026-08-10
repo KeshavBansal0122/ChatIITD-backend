@@ -1,0 +1,22 @@
+{
+  "code": "ELL8345",
+  "name": "Advanced Semiconductor Optoelectronic Devices - Physics, Design, Growth and & Characterization",
+  "description": "Fundamentals of III\u2013V semiconductors\u2014crystal structures (zincblende, wurtzite), direct/indirect band gaps, lattice constants, strain and band-engineering; epitaxial growth\u2014MBE, MOCVD, layer design, lattice matching, strain relaxation, defects; quantum wells, wires, dots\u2014band offsets, quantum confinement, density of states, k\u00b7p calculation; radiative transitions\u2014spontaneous emission, internal/external quantum efficiency, carrier transport; semiconductor lasers\u2014stimulated emission, optical gain, threshold condition, cavity design, quantum-well, DFB/DBR, QCLs, VCSELs; device design\u2014doping profiles, electrical injection, optical confinement, thermal management; advanced topics\u2014nitride LEDs/lasers, perovskites, reliability, packaging.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL2303/PYL7093/OPL7778/PYL7002/ELL7306",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Semiconductor Optoelectronic Devices - Physics, Design, Growth and & Characterization | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Semiconductor Optoelectronic Devices - Physics, Design, Growth and & Characterization"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-semiconductor-optoelectronic-devices-physics-design-growth-and-characterization",
+  "slug": "advanced-semiconductor-optoelectronic-devices-physics-design-growth-and-characterization"
+}

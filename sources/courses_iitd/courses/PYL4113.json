@@ -1,0 +1,22 @@
+{
+  "code": "PYL4113",
+  "name": "Fiber and Integrated Optics",
+  "description": "Modes in planar optical waveguides: TE and TM modes, modes in channel waveguides: effective index and perturbation method. Directional coupler: coupled mode theory, integrated optical devices: prism coupling, optical switching and wavelength filtering etc. Silicon photonics. Basics of optical communication systems, and recent trends, step index and graded index fibers, attenuation in optical fibers, LP guided modes of a step-index fiber, single-mode fibers, Gaussian approximation and splice loss. Pulse dispersion, dispersion compensation. Fiber fabrication technology and characterization techniques. Fabrication of fiber couplers and its devices, fiber amplifiers, periodic interaction in waveguides: coupled mode theory, fiber Bragg gratings, long period gratings and applications, optical fiber sensors: basic principles and applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Fiber and Integrated Optics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fiber and Integrated Optics"
+  ],
+  "department": "Fiber Optics",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fiber-and-integrated-optics",
+  "slug": "fiber-and-integrated-optics"
+}

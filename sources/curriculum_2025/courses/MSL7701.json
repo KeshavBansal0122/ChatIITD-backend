@@ -1,0 +1,16 @@
+{
+  "code": "MSL7701",
+  "name": "Strategic Management I (Strategic Formulation)",
+  "description": "This course contains the following topics:\r\nProcess and Content of Strategy\r\nIntroduction to Competitive Advantage\r\nStrategic Intent\r\nExternal Analysis, Industry Structure Analysis\r\nInternal Analysis, Core Competencies, Leveraging core competencies and Value Chain Analysis\r\nBusiness-Level Strategies",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MS#MSL7701"
+}

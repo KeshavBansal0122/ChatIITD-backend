@@ -1,0 +1,22 @@
+{
+  "code": "MEL7434",
+  "name": "Multiphysics Modelling",
+  "description": "Vector and tensor calculus, tensor identities, coordinate transformation; description of motion and deformation, deformation gradient tensor, strain tensor; deformation of area and volume, conservation of mass, material derivative, description of the rate of deformation and rotation; description of force, stress, and traction; conservation of linear and angular momentum; conservation of energy: first law of thermodynamics; second law of thermodynamics: Clausius-Duhem inequality; equation of state; constitutive modelling: linear and nonlinear elasticity, linear viscosity, generalized Newtonian fluids, viscoelastic materials; modelling electrohydrodynamic flows; interface modelling: diffuse and sharp interface methods for multi-material systems; discussion on Eulerian, Lagrangian, and arbitrary Lagrangian-Eulerian methods for modelling multi-material systems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Multiphysics Modelling | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Multiphysics Modelling"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/multiphysics-modelling",
+  "slug": "multiphysics-modelling"
+}

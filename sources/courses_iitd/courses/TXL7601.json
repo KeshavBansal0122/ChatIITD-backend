@@ -1,0 +1,22 @@
+{
+  "code": "TXL7601",
+  "name": "Design of Experiments and Statistical Analysis",
+  "description": "Objectives, principles, terminologies, guidelines, and applications of design of experiments; completely randomized design; randomized block design; latin square design; two level and three level full factorial designs; fractional factorial designs; robust parameter design; mixture experiments; central composite and box-Behnken designs; response surface methodology; multi-response optimization; analysis of variance; statistical test of hypothesis; analysis of multiple linear regression; use of statistical software packages.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(MTL2008)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Design of Experiments and Statistical Analysis | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Design of Experiments and Statistical Analysis"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/design-experiments-and-statistical-analysis",
+  "slug": "design-experiments-and-statistical-analysis"
+}

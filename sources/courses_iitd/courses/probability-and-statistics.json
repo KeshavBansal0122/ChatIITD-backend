@@ -1,0 +1,22 @@
+{
+  "code": "MEL7102",
+  "name": "Probability and Statistics",
+  "description": "Basic set theory, axioms of probability, conditional probability and Bayes\u2019 theorem; random variables, moments and moment generating functions, widely used random variables and their properties; multiple random variables, covariance and correlation; random samples, commonly used statistics, sampling distributions of statistics and their properties; types of probabilistic convergence, laws of large numbers and the central limit theorem; hypothesis testing, power function, type I and type II errors, the p-value, common hypothesis tests; introduction to linear regression. Assignments will be computational in nature in part, at minimum.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Probability and Statistics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Probability and Statistics"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/probability-and-statistics",
+  "slug": "probability-and-statistics"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "SIN8000",
+  "name": "Teaching Practicum in Information Technology",
+  "description": "Preparing course materials, managing class activities and examinations, engaging with students, grading assignments, conducting practicals, tutorials, class projects and other course-related administrative tasks.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SI",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SI#SIN8000"
+}

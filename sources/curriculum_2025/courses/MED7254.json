@@ -1,0 +1,16 @@
+{
+  "code": "MED7254",
+  "name": "Summer Internship/Minor Project",
+  "description": "This is a project based work. The students is expected to work in an industry or with a faculty on a mechanical design problem. The student is expected to meet the supervisor at least once a week and discuss the progress in his/her project. The scope of work would vary from project to project and would be decided by the supervisor in industry or faculty. The student is expected to spend about 84 hours of laboratory work in addition to other background/development work related to the project. Project report and presentation with detail calculations, drawings, and contribution should be prepared.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MED7254"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "OPL7100",
+  "name": "Optics and Photonics for Engineers and Scientists",
+  "description": "Basic optics: geometrical optics, EM waves, interference and diffraction; Fourier optics and holography; lasers; polarization and anisotropy; electro-and acousto-optic modulation; fiber and integrated optics, fiber optical communication; nonlinear optics; quantum optics; metamaterials.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "OP",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=OP#OPL7100"
+}

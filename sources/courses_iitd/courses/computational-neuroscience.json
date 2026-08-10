@@ -1,0 +1,22 @@
+{
+  "code": "ELL8290",
+  "name": "Computational Neuroscience",
+  "description": "Fundamentals of brain anatomy and physiology, biophysics of neuron, brain signal recording and imaging techniques, human experimentation study design, processing the x-D neural data, machine learning approaches, graph theory and neural networks, multivariate pattern analysis in 4D. Imaging data, statistical inferences, student projects, and presentations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Computational Neuroscience | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Computational Neuroscience"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/computational-neuroscience",
+  "slug": "computational-neuroscience"
+}

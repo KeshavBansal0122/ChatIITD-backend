@@ -1,0 +1,16 @@
+{
+  "code": "ESL7544",
+  "name": "Plasmas for Energy and Environment",
+  "description": "Introduction to plasmas; thermal and non-thermal plasmas; Plasma chemistry, Plasma sources and diagnostics, Plasma applications: Fusion, space, waste to energy, carbon conversion, material processing, medicine, air and water purification.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ES",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ES#ESL7544"
+}

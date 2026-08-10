@@ -1,0 +1,22 @@
+{
+  "code": "CVL3504",
+  "name": "Design of Reinforced Concrete Structures",
+  "description": "Fresh and hardened properties of concrete; Durability of reinforced concrete; Design philosophy and safety; Working stress design and Limit state design concepts; Design for flexure, shear, torsion, bond and axial actions; Design and detailing of beams, slabs, and footings for serviceability and ultimate limit states as per national design standards.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(CVL2502)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Design of Reinforced Concrete Structures | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Design of Reinforced Concrete Structures"
+  ],
+  "department": "Theory of Concrete Structures",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/design-reinforced-concrete-structures",
+  "slug": "design-reinforced-concrete-structures"
+}

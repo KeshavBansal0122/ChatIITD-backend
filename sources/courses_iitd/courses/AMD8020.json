@@ -1,0 +1,22 @@
+{
+  "code": "AMD8020",
+  "name": "M.Tech. Major Project Part 2",
+  "description": "Formulation of the problem, literature survey, writing technical report, planning and execution of the project work within the stipulated time frame, analysis and interpretation of the obtained data, and presentation of the results. The project should culminate in a MTech thesis.",
+  "credits": 12.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 24.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "M.Tech. Major Project Part 2 | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "M.Tech. Major Project Part 2"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mtech-major-project-part-2",
+  "slug": "mtech-major-project-part-2"
+}

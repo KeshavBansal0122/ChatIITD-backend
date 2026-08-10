@@ -1,0 +1,22 @@
+{
+  "code": "DSL7734",
+  "name": "Advanced Laser Technology and Laser Based Instrumentation",
+  "description": "Light matter interaction with semiclassical and quntum formulations, spontaneous emission, absorption, stimulated emission, emission broadening and line width, basic building blocks of laser, population inversion, rate equations, three-level and four level systems, Laser beam characteristics laser resonators, pumping schemes and cavity dynamics, cavity modes, cavity stability criteria, nonlinear light matter interaction and harmonic generation, Q-switching and mode locking, Different laser types, solid state lasers, diode lasers, gas lasers, fiber lasers and supercontinuum sources, frequency combs, recent advances in new-generation quantum cascade lasers and sub-hertz linewidth, specialized resonator based lasers, laser electronics and mechatronics for laser system development, AI/ML-driven schemes in laser based instrumentation, laser-based applications and metrology, advances in laser-based instrumentation for scientific and industrial applications, laser based instrumentation for biomedical diagnostics/treatment, laser based space and strategic applications, laser-assisted quantum enhanced applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Laser Technology and Laser Based Instrumentation | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Laser Technology and Laser Based Instrumentation"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-laser-technology-and-laser-based-instrumentation",
+  "slug": "advanced-laser-technology-and-laser-based-instrumentation"
+}

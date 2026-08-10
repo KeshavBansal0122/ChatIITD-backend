@@ -1,0 +1,22 @@
+{
+  "code": "MEL8418",
+  "name": "Heating, Ventilating and Air-Conditioning (HVAC) Technologies",
+  "description": "This course will focus on in-depth learning and application of engineering concepts involved in heating, ventilation, and air-conditioning (HVAC) systems with a focus on cooling/heating load and component design calculations, systems-level analysis, equipment selection, and instrumentation and control strategies. The course will enable students to develop deep technical expertise required in developing next-generation thermal energy systems for the built environment.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Heating, Ventilating and Air-Conditioning (HVAC) Technologies | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Heating, Ventilating and Air-Conditioning (HVAC) Technologies"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/heating-ventilating-and-air-conditioning-hvac-technologies",
+  "slug": "heating-ventilating-and-air-conditioning-hvac-technologies"
+}

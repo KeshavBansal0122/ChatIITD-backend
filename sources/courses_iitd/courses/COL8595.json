@@ -1,0 +1,22 @@
+{
+  "code": "COL8595",
+  "name": "Special Topics in Software Systems I",
+  "description": "Special topic that focuses on state of the art and research problems of importance in this area.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(COL2031)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Special Topics in Software Systems I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Special Topics in Software Systems I"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/special-topics-software-systems-i",
+  "slug": "special-topics-software-systems-i"
+}

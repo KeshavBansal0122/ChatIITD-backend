@@ -1,0 +1,22 @@
+{
+  "code": "CRL7026",
+  "name": "MEMS Design and Technology",
+  "description": "Introduction, origin and driving force for MEMS; extension of IC technologies for MEMS fabrication, major technologies for MEMS: bulk and surface micromachining, LIGA process anisotropic etching of silicon, piezoresistive -piezoelectric effect, piezoresistive silicon-based pressure sensor, capacitive pressure sensor, RF switch design, fabrication and characterization, actuation in MEMS, MEMS accelerometer design, fabrication, vibration sensor, energy harvesting devices, piezoelectric materials for MEMS, MEMS-based RF and microwave circuits.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "MEMS Design and Technology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "MEMS Design and Technology"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mems-design-and-technology",
+  "slug": "mems-design-and-technology"
+}

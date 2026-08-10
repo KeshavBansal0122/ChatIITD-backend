@@ -1,0 +1,22 @@
+{
+  "code": "MEL7213",
+  "name": "Automotive Structural Design",
+  "description": "History of automotive design, design cycle for an automobile, styling, loads on the chassis, chassis and structural design for static loads, dynamic and impact loads, energy absorption in the vehicle, computational tools for structural design, vehicel occupant system analysis, biomechanics of the human body and its implications for structural design.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Automotive Structural Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Automotive Structural Design"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/automotive-structural-design",
+  "slug": "automotive-structural-design"
+}

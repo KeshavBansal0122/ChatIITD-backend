@@ -1,0 +1,22 @@
+{
+  "code": "SIN8000",
+  "name": "Teaching Practicum in Information Technology",
+  "description": "Preparing course materials, managing class activities and examinations, engaging with students, grading assignments, conducting practicals, tutorials, class projects and other course-related administrative tasks.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Teaching Practicum in Information Technology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Teaching Practicum in Information Technology"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/teaching-practicum-information-technology",
+  "slug": "teaching-practicum-information-technology"
+}

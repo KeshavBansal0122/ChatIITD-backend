@@ -1,0 +1,22 @@
+{
+  "code": "BSL9411",
+  "name": "Wireless Communications",
+  "description": "The wireless channel (physical modelling, linear time-varying system, discrete-time baseband model, time and frequency coherence), point-to-point communication (detection, diversity, spatial multiplexing), cellular systems (multiple access and interference management), capacity of point-to-point wireless channels (single and multiantenna), capacity of single-antenna multiuser channels.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Wireless Communications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Wireless Communications"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/wireless-communications-0",
+  "slug": "wireless-communications-0"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CVL7301",
+  "name": "Construction Project Management",
+  "description": "Introduction to construction project management, agile project management, scope management, MIS, work breakdown structure and project definition rating index, identification of risk and impact, labour productivity variations, productivity improvements-work study, quality and safety: planning and control, project scheduling techniques-CPM, PERT, PDM, LOB, time and cost management, material related management- purchase and inventory control, time cost resource optimization, measuring project progress and performance-EVA and ES, software based project management.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7301"
+}

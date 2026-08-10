@@ -1,0 +1,19 @@
+{
+  "code": "CML2041",
+  "name": "Organic Synthesis",
+  "description": "On successful completion of this module, the learner will be able to identify and explain the reaction mechanisms in organic chemistry. This course reviews the organic reaction mechanisms at basic and advanced levels",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/organic-synthesis",
+  "slug": "organic-synthesis"
+}

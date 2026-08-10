@@ -1,0 +1,22 @@
+{
+  "code": "PYL7155",
+  "name": "Electronic Transport in Low-Dimensional Systems",
+  "description": "Electron transport, length scales, drift velocity, origin of resistance, ballistic transport, Landauer formula, effect of magnetic field, transmission function, coulomb blockade, quantum Hall effect, localizations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(PYL1004/PYL5055)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Electronic Transport in Low-Dimensional Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Electronic Transport in Low-Dimensional Systems"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/electronic-transport-low-dimensional-systems",
+  "slug": "electronic-transport-low-dimensional-systems"
+}

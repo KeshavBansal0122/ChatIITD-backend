@@ -1,0 +1,21 @@
+{
+  "code": "HSL7723",
+  "name": "Morphology",
+  "description": "This course introduces students to the structure and formation of words across languages. It explores how morphemes combine, how morphology interfaces with phonology, syntax, and semantics, and how morphological processes reveal insights into the human language system. Students will also explore applications of morphological theory in areas such as natural language processing, psycholinguistics, and language typology.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Morphology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/morphology",
+  "slug": "morphology"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "ELL7325",
+  "name": "Introduction to Sensors Technology",
+  "description": "Basics of sensors and transducers, sensor characteristics; materials and processes for sensor development; physical principles of sensing - resistive, capacitive, magnetic, piezoelectric effect, pyroelectric effect, thermoelectric effect, hall effect; static and dynamical models of sensors; pressure, force and strain sensing, tactile sensing; inertial sensing; acoustic sensing; RF and acoustic coherent sensing; powering the sensors - energy harvesting and wireless power transfer; flexible and stretchable sensors - applications in wearable and biomedical systems; sensor and data fusion - neuromorphic sensing; interface electronic circuits - use cases.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7325"
+}

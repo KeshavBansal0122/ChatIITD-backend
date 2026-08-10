@@ -1,0 +1,22 @@
+{
+  "code": "PYS7300",
+  "name": "Independent Study in Physics",
+  "description": "Topics from emerging areas of physics will form the basics, and the faculty offering the course will provide detailed course content according to their research domain and technical knowledge.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 3.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Independent Study in Physics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Independent Study in Physics"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/independent-study-physics",
+  "slug": "independent-study-physics"
+}

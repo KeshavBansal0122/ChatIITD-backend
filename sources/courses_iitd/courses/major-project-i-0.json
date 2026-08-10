@@ -1,0 +1,21 @@
+{
+  "code": "TXD3501",
+  "name": "Major Project-I",
+  "description": "Formation of project team (up to two students and up to two faculty guides); formulation of work plan completing targeted work for the semester and presentation of complete work of progress for award of grade.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": "TXL2101/TXL3301/TXL3201/TXL3402",
+  "overlap": null,
+  "learning_outcomes": [
+    "Major Project-I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/major-project-i-0",
+  "slug": "major-project-i-0"
+}

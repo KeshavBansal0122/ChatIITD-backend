@@ -1,0 +1,22 @@
+{
+  "code": "ELL7349",
+  "name": "Semiconductor Memory Design",
+  "description": "This postgraduate elective course introduces the analysis and design of semiconductor memory systems including SRAM, DRAM, and non-volatile memories. Emphasis is placed on circuit-to-device-to-system understanding, circuit and layout design, timing optimization, integration and familiarity with VLSI backend CAD tools (virtuoso, HSPICE, DRC, LVS).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(ELL7301/ELL7328) /",
+  "overlap": null,
+  "learning_outcomes": [
+    "Semiconductor Memory Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Semiconductor Memory Design"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/semiconductor-memory-design",
+  "slug": "semiconductor-memory-design"
+}

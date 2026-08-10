@@ -1,0 +1,16 @@
+{
+  "code": "DDL2001",
+  "name": "Methods for Design Thinking",
+  "description": "Introduction to design thinking (definition, importance, history and evolution, case-studies), design thinking methodologies (stanford d-school, double-diamond of UK design council, IDEO model, Google design sprint, RIDES), empathise (observation, interaction, identification of pain-/pleasure- points and design opportunities), define (design problem and needs), Ideate (generate, evaluate and select ideas/concepts), prototype (types, physical and virtual prototyping, low- and high- fidelity prototyping), test (utility and usability testing methods, iterate).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DD#DDL2001"
+}

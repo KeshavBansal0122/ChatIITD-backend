@@ -1,0 +1,22 @@
+{
+  "code": "MTD4060",
+  "name": "BTech Honours Project",
+  "description": "The extension of the BTech project involves formulating and analyzing advanced theory and achieving more rigorous and more profound research in the case of a theoretical project. The practical project work could include modeling, design set-up, algorithm development, convergence analysis, larger-scale computing experiments, results analysis, conclusions, limitations, and future potential. Additionally, the project will involve greater rigor in analysis and research, particularly in the context of analytics, statistics, and numerical projects. The project work is to be compiled into a scientific project report and concluded with oral presentations.",
+  "credits": 7.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 14.0
+  },
+  "prereq": "MTD4050",
+  "overlap": null,
+  "learning_outcomes": [
+    "BTech Honours Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "BTech Honours Project"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/btech-honours-project-0",
+  "slug": "btech-honours-project-0"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "TXL7566",
+  "name": "Design of Functional Clothing",
+  "description": "This course introduces students to the principles, technologies, and methodologies involved in designing functional clothing. It covers key characteristics, classification, and user-centred design principles, emphasizing the role of biomechanics and kinematics in mobility and comfort. Topics include anthropometry, garment sizing and fit, material selection, and advanced functional materials. Smart clothing as well as clothing for thermal, biological, and impact protection, as well as augmenting body functions is discussed. The course also explores garment production techniques such as pattern making, stitching, welding, bonding, fastening systems, and accessories, alongside advanced CAD systems for design, simulation, and virtual testing of garments.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL7566"
+}

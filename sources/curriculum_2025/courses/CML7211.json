@@ -1,0 +1,16 @@
+{
+  "code": "CML7211",
+  "name": "Machine Learning for Chemists",
+  "description": "Fundamentals \u2013 probability-statistics and information theory, linear algebra, molecular representations and features, introduction to machine learning (ML) methods - linear regression, kernel methods, supervised and unsupervised learning, classifications and clustering, artificial neural network (ANN), graph neural-network (GNN), autoencoder and deep learning (DL) methods, applications \u2013 dimensionality reduction techniques (linear and NN-based non-linear techniques), ML applications in chemistry, biology, and materials.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CM#CML7211"
+}

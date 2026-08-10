@@ -1,0 +1,21 @@
+{
+  "code": "CMP5012",
+  "name": "Lab II",
+  "description": "Advanced practical aspects of inorganic synthesis, characterization, estimation, purification, and analysis.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Lab II | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/lab-ii",
+  "slug": "lab-ii"
+}

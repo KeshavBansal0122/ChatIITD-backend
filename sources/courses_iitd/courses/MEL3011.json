@@ -1,0 +1,22 @@
+{
+  "code": "MEL3011",
+  "name": "Control Systems Engineering",
+  "description": "Fourier and Laplace transforms; mathematical modeling of simple physical systems; transfer function; block diagrams; transient response analysis; performance specifications in time and frequency domain; steady state error and error constants; proportional, integral, derivative, PD and PID control; realization of standard controllers using hydraulic, pneumatic, electronic circuits; stability, Bode plots, Nyquist stability criterion; control system design using root locus and frequency response; lead and lag compensation; introduction to modern control: state space representation; control with state feedback; digital control using microcontrollers. Practical on first/second order systems, control of various parameters, microcontroller, control system analysis and design using MATLAB and SIMULINK.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Control Systems Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Control Systems Engineering"
+  ],
+  "department": "Dynamics and Control",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/control-systems-engineering",
+  "slug": "control-systems-engineering"
+}

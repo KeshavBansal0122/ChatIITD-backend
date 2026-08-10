@@ -1,0 +1,22 @@
+{
+  "code": "PYL7140",
+  "name": "Advanced Theory of Condensed Matter",
+  "description": "Quantum fields and their roles in describing collective modes. Particle creation and annihilation operators: commutation relations for bosons and fermions. Second quantization. Equivalence with the many body Schr\u00f6dinger equation. Identical conserved particles in equilibrium and thermodynamic properties, simple examples of second quantization, bosonic and fermionic systems. Cooper instability and BCS Hamiltonian, mean-field description of BCS state, quasiparticle excitations and Bogoliubov de-Gennes theory. Phase transitions and broken symmetry, concept of order parameter, Landau theory and Landau-Ginzburg theory and some examples from condensed matter. Spin systems and magnetism, Heitler-London theory and Heisenberg model. Ferromagnets, spin waves, antiferromagnets, spin-chains etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Theory of Condensed Matter | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Theory of Condensed Matter"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-theory-condensed-matter",
+  "slug": "advanced-theory-condensed-matter"
+}

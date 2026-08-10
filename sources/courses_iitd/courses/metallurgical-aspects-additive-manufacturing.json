@@ -1,0 +1,22 @@
+{
+  "code": "MLL7212",
+  "name": "Metallurgical Aspects in Additive Manufacturing",
+  "description": "Classification of AM processes for metals (LPBF, DED, WAAM, binder jetting, etc.), thermodynamics and kinetics of solidification in AM, phase transformations in AM-fabricated metals, microstructural evolution in AM (grain structure, texture, segregation), defects in AM (porosity, lack of fusion, residual stresses, cracking), processing-structure-property relationships in AM alloys, mechanical behavior of AM metals and alloys, residual stresses and distortion in AM components, heat treatment and post-processing strategies (annealing, HIP, surface treatments), alloy design for AM (conventional versus AM-specific alloys), case studies on Ni-based superalloys, Ti alloys, Al alloys, and steels in AM, corrosion and oxidation behavior of AM metals, fatigue and fracture mechanics of AM materials, emerging trends in AM (functionally graded materials, in-situ alloying, hybrid AM), industrial applications and qualification of AM parts.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Metallurgical Aspects in Additive Manufacturing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Metallurgical Aspects in Additive Manufacturing"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/metallurgical-aspects-additive-manufacturing",
+  "slug": "metallurgical-aspects-additive-manufacturing"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ASL3400",
+  "name": "Fundamentals of Weather and Climate",
+  "description": "Composition of atmosphere, observations, Equations of state; solar radiation and seasons, energy balance and temperature; thermodynamic state of atmosphere, clouds and precipitation process; Fundamental forces in the atmosphere and ocean: Pressure gradient, gravitational, Coriolis and frictional forces, Atmospheric chemistry: gas phase chemical reactions, tropospheric and stratospheric chemistry, thermodynamic diagrams, General circulation in the atmosphere, small and large weather systems; weather maps, science of weather forecasting, measures of forecasting using skill scores; air-sea interaction and its role on weather and climate; Climate and controlling factors, The Koeppen system, tropical climate.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Fundamentals of Weather and Climate | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fundamentals of Weather and Climate"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fundamentals-weather-and-climate",
+  "slug": "fundamentals-weather-and-climate"
+}

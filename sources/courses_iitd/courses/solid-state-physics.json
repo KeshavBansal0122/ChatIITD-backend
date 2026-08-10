@@ -1,0 +1,22 @@
+{
+  "code": "PYL5058",
+  "name": "Solid State Physics",
+  "description": "This course provides a comprehensive introduction to solid state physics, covering crystal lattices, reciprocal lattices, Bragg and Laue formulations, Ewald construction, bonding, and packing. It explores free electron theories (Drude and Sommerfeld), electrons in periodic potentials, Bloch theorem, band theory, and the Kronig-Penney model. Students will study metals, insulators, semiconductors, effective mass, and optical properties. The course includes Wannier functions, tight-binding models, Fermi surfaces, and lattice vibrations via classical and quantum harmonic models. Thermal properties, phonons, and specific heat models, along with ferroelectricity, magnetism, and superconductivity.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Solid State Physics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Solid State Physics"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/solid-state-physics",
+  "slug": "solid-state-physics"
+}

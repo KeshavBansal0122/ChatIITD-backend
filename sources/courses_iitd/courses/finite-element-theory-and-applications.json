@@ -1,0 +1,22 @@
+{
+  "code": "MTL7281",
+  "name": "Finite Element Theory and Applications",
+  "description": "Sobolev Spaces, Variational formulation of elliptic boundary value problems; Lax Milgram lemma; existence and uniqueness of weak solutions; equivalence of Galerkin and Ritz variational formulations; triangulation of domains; finite element approximation and discrete formulation; conforming and non-conforming finite element methods, Cea\u2019s lemma, interpolation on simplexes in Rn, different Lagrange and Hermite finite elements, affine, isoparametric finite elements; triangulation using isoparametric mapping; numerical integration; construction of element stiffness matrices and assembly into global stiffness matrix; skyline method of solution of finite element equations; solution of model problems and computer implementation procedures; asymptotic error estimate results; eigenvalue problems of Laplace operator.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(MTL5007&MTL5009) /(MTL2007&MTL3111)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Finite Element Theory and Applications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Finite Element Theory and Applications"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/finite-element-theory-and-applications",
+  "slug": "finite-element-theory-and-applications"
+}

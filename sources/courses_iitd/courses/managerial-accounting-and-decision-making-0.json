@@ -1,0 +1,22 @@
+{
+  "code": "MSL9102",
+  "name": "Managerial Accounting and Decision Making",
+  "description": "Introduction to cost concepts and cost control\nFull Costing and Variable Costing\nCost-volume Profit analysis\nIncremental analysis (pricing and product)\nStandard Costing and Variance Analysis\nTime Value of Money\nIntroduction to Capital Budgeting Techniques",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Managerial Accounting and Decision Making | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Managerial Accounting and Decision Making"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/managerial-accounting-and-decision-making-0",
+  "slug": "managerial-accounting-and-decision-making-0"
+}

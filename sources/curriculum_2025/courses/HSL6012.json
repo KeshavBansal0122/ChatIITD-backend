@@ -1,0 +1,16 @@
+{
+  "code": "HSL6012",
+  "name": "Macroeconomics II",
+  "description": "This is a half-semester graduate-level macroeconomics course designed primarily for students doing MSc in economics. The course blends conceptual, model-building, and data-oriented approaches, with a strong focus on theoretical modeling. Class size is limited to facilitate in-depth discussion and engagement. This course offers a rigorous introduction to the process of economic growth and the long-run sources of cross-country differences in economic performance. Students will develop a theoretical toolkit by engaging with key models and analytical frameworks used in modern macroeconomics. The course is structured to blend foundational theory with empirical insights and historical experiences.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL6012"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "COL7156",
+  "name": "Mathematical Programming",
+  "description": "Linear programming: introduction, geometry, duality, sensitivity analysis. Simplex method, large scale optimization, network simplex. Ellipsoid method, problems with exponentially many constraints, equivalence of optimization and separation. Convex sets and functions \u2013 cones, hyperplanes, norm balls, generalized inequalities and convexity, perspective and conjugate functions. Convex optimization problems \u2013 quasi-convex, linear, quadratic, geometric, vector, semi-definite. Duality \u2013 lagrange, geometric interpretation, optimality conditions, sensitivity analysis. Applications to approximation, fitting, statistical estimation, classification. Unconstrained minimization, equality constrained minimization and interior point methods. Integer programming: formulations, complexity, duality. Lattices, geometry, cutting plane and branch and bound methods. Mixed integer optimization.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Mathematical Programming | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mathematical Programming"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mathematical-programming-0",
+  "slug": "mathematical-programming-0"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "HSD5001",
+  "name": "MA Research Project Part - I",
+  "description": "In the major project, students will write a dissertation on the special topic chosen in consultation with a supervisor. This part of project will train students to: select a substantive topic of study and identify the literature and the debates in the chosen area of study; preparing a broad matrix for the literature of the topic chosen and debates around it; preparing an annotated bibliography; reading to build the research proposal.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSD5001"
+}

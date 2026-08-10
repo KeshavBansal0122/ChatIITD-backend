@@ -1,0 +1,16 @@
+{
+  "code": "SBL6010",
+  "name": "Genetic Engineering and Biotechnology",
+  "description": "Lecture: details of molecular cloning and mutagenesis- gene transfer, isolation, and manipulation; generation of protein variants by various bioengineering methods; gene editing techniques including CRISPR-based methods; GM crops; high throughput tools in genomics and proteomics including microarrays and next-gen sequencing; gene silencing; applications in generation of biotherapeutics, nanotechnology, medicine, forensics etc. Laboratory: step-by-step cloning of a target gene (Green fluorescent protein for expression in different organelles) in an expression plasmid by PCR, restriction digestion of plasmid and gene, ligation, transformation and screening of colonies by colony PCR.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBL6010"
+}

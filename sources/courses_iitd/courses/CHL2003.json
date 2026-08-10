@@ -1,0 +1,21 @@
+{
+  "code": "CHL2003",
+  "name": "Fluid Mechanics",
+  "description": "Introduction to fluids, forces on fluids, fluid statics, and hydrostatic force on submerged bodies. Rigid body motion, kinematics of flow - Eulerian and Lagrangian descriptions, flow visualization. Integral analysis - mass and momentum balances, Bernoulli equation, flow through pipes and ducts. Flow measurement, flow transportation - pumps, blowers, and compressors. Reynolds transport theorem, differential analysis of flow, conservation of mass, linear and angular momentum, Navier-Stokes equation, unidirectional flows. Viscous flows, skin friction, and form friction, lubrication approximation. Potential flows, boundary layer theory, Blasius equation for flow over a flat plate, boundary layer separation. Drag and lift forces on immersed bodies. Similitude analysis. Turbulent flows.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Fluid Mechanics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fluid-mechanics",
+  "slug": "fluid-mechanics"
+}

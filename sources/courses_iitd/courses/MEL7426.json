@@ -1,0 +1,22 @@
+{
+  "code": "MEL7426",
+  "name": "Hydrodynamic Stability",
+  "description": "Theory and applications of hydrodynamic stability, covering examples from nature and engineering. Topics include fundamentals of stability theory, bifurcations, and normal modes. Specific instabilities studied are Kelvin\u2013Helmholtz, Rayleigh\u2013Taylor, capillary instability of jets, Rayleigh\u2013B\u00e9nard convection, and centrifugal instabilities such as Couette, Taylor\u2013Dean, and G\u00f6rtler flows. Electrohydrodynamic and magnetohydrodynamic instabilities are also discussed. Stability of plane parallel flows for both inviscid and viscous fluids, along with Rayleigh\u2019s stability problem. Nonlinear stability: Landau\u2019s theory, routes to chaos and turbulence.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Hydrodynamic Stability | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Hydrodynamic Stability"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/hydrodynamic-stability",
+  "slug": "hydrodynamic-stability"
+}

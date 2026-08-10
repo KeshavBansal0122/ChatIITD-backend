@@ -1,0 +1,16 @@
+{
+  "code": "AMD6000",
+  "name": "Major Project",
+  "description": "The major project course offers student officers an opportunity to apply core principles of naval architecture, marine engineering, and ship construction to solve complex, real-world design problems in naval construction. Projects typically involve the concept design of a warship or submarine, or computational/experimental studies related to structural, hydrodynamic, or systems performance. Emphasis is placed on independent learning, systematic application of analytical and numerical tools (such as CFD or FEM), and validation of results. Students work individually or in teams, developing professional project management and technical communication skills. The course culminates in a detailed project report and oral presentation before an academic panel.",
+  "credits": 6.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 12.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AMD6000"
+}

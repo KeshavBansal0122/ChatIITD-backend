@@ -1,0 +1,22 @@
+{
+  "code": "MLP3004",
+  "name": "Mechanical Behaviour of Materials Laboratory",
+  "description": "Tensile/compression/Flexural testing, viscoelasticity, strain ageing and yield point phenomenon, hardness testing, impact testing, fatigue testing, creep testing, effect of temperature on mechanical properties, dislocation observation by etch pit technique, strengthening mechanism demonstration (grain size or work hardening or precipitation strengthening), plastic anisotropy, dynamic mechanical behaviour.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "prereq": "MLL2005",
+  "overlap": null,
+  "learning_outcomes": [
+    "Mechanical Behaviour of Materials Laboratory\u202f | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mechanical Behaviour of Materials Laboratory"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mechanical-behaviour-materials-laboratory",
+  "slug": "mechanical-behaviour-materials-laboratory"
+}

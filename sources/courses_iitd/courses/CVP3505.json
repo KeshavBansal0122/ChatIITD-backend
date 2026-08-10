@@ -1,0 +1,22 @@
+{
+  "code": "CVP3505",
+  "name": "Concrete and Steel Structural Elements Lboratory",
+  "description": "Hardened concrete tests \u2013 compression, flexure, direct tension; Non-Destructive Testing\u2013 rebound hammer, ultrasonic pulse velocity, core test; Experimental study of reinforced concrete and structural steel members under various loading conditions.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(CVL3504&CVL3505&CVP3504)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Concrete and Steel Structural Elements Lboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Concrete and Steel Structural Elements Lboratory"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/concrete-and-steel-structural-elements-lboratory",
+  "slug": "concrete-and-steel-structural-elements-lboratory"
+}

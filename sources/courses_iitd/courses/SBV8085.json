@@ -1,0 +1,22 @@
+{
+  "code": "SBV8085",
+  "name": "Protein Aggregation and Disease",
+  "description": "Introduction to protein aggregation (amorphous and amyloid), types of aggregates, difference between aggregation and precipitation, external and internal factors for protein aggregation, pH, temperature and protein concentration effects, hydrophobicity, discordant helices, structural and conformational prerequisites of amyloidogenesis, predominance of beta-sheet, alpha-helices or random coils of native protein, generic nature of protein folding and misfolding, cytotoxic intermediates in the fibrillation pathway, oxidative stress and protein deposition disease, cellular effects of protein aggregation, ion channel disruption, and membrane damage, recent trends in detection, prevention of amyloidosis, drugs, antibodies, combination therapy.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(SBL1100/SBL1102)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Protein Aggregation and Disease | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Protein Aggregation and Disease"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/protein-aggregation-and-disease",
+  "slug": "protein-aggregation-and-disease"
+}

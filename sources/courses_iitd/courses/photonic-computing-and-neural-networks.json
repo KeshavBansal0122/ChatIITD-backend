@@ -1,0 +1,22 @@
+{
+  "code": "OPL7481",
+  "name": "Photonic Computing and Neural Networks",
+  "description": "The electronic bottleneck in the current von Neumann architecture demands the development of new computational technologies to achieve faster and more efficient computing platforms. The inherent advantages of photonics, such as low latency, high bandwidth, low propagation loss, and energy efficiency, have the potential to overcome the current electronic bottleneck. The course covers various photonic platforms, applications of AI algorithms, neuromorphic models, traditional ML and deep learning concepts, and photonic implementations of neuromorphic systems. The course also reviews and discusses emerging applications in photonic AI accelerators, deep optics, and neuromorphic processing techniques for optical communications and signal processing. The course outcomes provide students with advanced knowledge to address diverse industrial requirements across optics and photonics, AI, data centres, telecommunications, healthcare, and defence sectors.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Photonic Computing and Neural Networks | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Photonic Computing and Neural Networks"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/photonic-computing-and-neural-networks",
+  "slug": "photonic-computing-and-neural-networks"
+}

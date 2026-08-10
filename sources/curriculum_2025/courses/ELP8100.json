@@ -1,0 +1,16 @@
+{
+  "code": "ELP8100",
+  "name": "Systems Learning & Control Laboratory",
+  "description": "Introduction to advanced software tools for control, coordinated control for multi-robot systems, nonlinear and adaptive control of robotic manipulator, synchronization of multi-motor system, MPC for 3-tank system, data-driven and learning-based identification and control, parameter estimation in biomolecular circuits, design project.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 1.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELP8100"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ELL8298",
+  "name": "Cognitive Architectures for Agentic AI: Building Intelligent Autonomous Systems",
+  "description": "This course delves into the intersection of cognitive architectures and agentic AI, exploring how principles of human cognition can be leveraged to create more sophisticated and autonomous artificial agents. Students will learn about various cognitive architectures (for example, ACT-R, soar, CLARION) and how these architectures can be integrated with agent frameworks and reinforcement learning techniques to build intelligent agents capable of perception, reasoning, planning, learning, and acting in complex environments. The course emphasizes hands-on experience in designing, implementing, and evaluating cognitive agents for real-world tasks.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Cognitive Architectures for Agentic AI: Building Intelligent Autonomous Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Cognitive Architectures for Agentic AI: Building Intelligent Autonomous Systems"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/cognitive-architectures-agentic-ai-building-intelligent-autonomous-systems",
+  "slug": "cognitive-architectures-agentic-ai-building-intelligent-autonomous-systems"
+}

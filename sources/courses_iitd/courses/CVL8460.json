@@ -1,0 +1,22 @@
+{
+  "code": "CVL8460",
+  "name": "Wind-Resistant Design of Structures",
+  "description": "Atmospheric wind characteristics: causes and types of wind, atmospheric boundary layer, turbulence structure, and wind speed measurement and distribution. Bluff body aerodynamics, random vibrations, and spectral-based analysis of random wind loading. Along-wind and across-wind response considering vortex shedding of tall buildings, towers, and slender structures, including vortex induced vibrations of slender structures and lock-in excitation of tall structures. Buffeting response prediction subjected to random load. Aeroelastic phenomena. Turbulence modeling. Gust buffeting and fluttering effect on structures. Vibration of cable supported bridges and power lines due to wind effects. Wind pressure on cooling towers. Design of cladding and wind damping devices. Wind tunnel simulations and extreme events such as tornadoes.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(CVL7412)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Wind-Resistant Design of Structures | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Wind-Resistant Design of Structures"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/wind-resistant-design-structures",
+  "slug": "wind-resistant-design-structures"
+}

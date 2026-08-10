@@ -1,0 +1,22 @@
+{
+  "code": "CHL7418",
+  "name": "Petrochemicals Technology",
+  "description": "Composition of petroleum: laboratory tests, refinery products, characterization of crude oil. Review of the petrochemicals sector and the Indian petrochemical industry. Feedstocks for petrochemical industries and their sources. Overview of refining processes: catalytic cracking, reforming, delayed coking, hydrogenation and Hydrocracking, isomerization, alkylation and polymerization, purification of gases, separation of aromatics by various techniques. Petrochemicals from methane, ethane, ethylene, acetylene, C3/C4, and higher hydrocarbons. Synthesis gas chemicals. Polymers from Olefins. Synthetic fibers, rubber, plastics, and synthetic detergents. Energy conservation in petrochemical industries. Pollution control in petrochemical industries. New trends in the petrochemical industry. Planning and commissioning of a petrochemicals complex.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL2005",
+  "overlap": null,
+  "learning_outcomes": [
+    "Petrochemicals Technology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Petrochemicals Technology"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/petrochemicals-technology",
+  "slug": "petrochemicals-technology"
+}

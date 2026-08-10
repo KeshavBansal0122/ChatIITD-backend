@@ -1,0 +1,22 @@
+{
+  "code": "BML7140",
+  "name": "Advanced Neuromechanics",
+  "description": "Neural control of movement: review of basic membrane physiology, muscle morphology, motor units, sliding filament theory, size principle, reflex arc, motor pathways in the brain, proprioception and exteroception, sensory pathways and receptors. Muscle mechanics: muscle-modelling, basic anthropometry, kinetics, and kinematics, joint torques and moments, muscle power and work. Electrical biosignatures of movement: biophysics of EMG and EEG signals, EMG instrumentation, signal processing and analysis of EMG signals, EEG recording, basic filtering and artifact rejection, event related potentials, time-frequency analysis. Movement pathologies, biomechatronic devices and therapies: selected neuromuscular pathologies. Prosthetic devices, orthotic devices, neuromodulation techniques.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Neuromechanics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Neuromechanics"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-neuromechanics",
+  "slug": "advanced-neuromechanics"
+}

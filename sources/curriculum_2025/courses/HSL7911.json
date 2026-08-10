@@ -1,0 +1,16 @@
+{
+  "code": "HSL7911",
+  "name": "Principles of Cognitive Neuroscience",
+  "description": "The lectures will cover topics that introduce the structure of brain from neurons to systems, neural communication, methods in cognitive neuroscience and their limitations, and the neural basis of cognitive processes (perception, attention, action, learning and memory, emotions and social cognition, language, cognitive control, and consciousness). The practical activities will reading journal articles which informs about the philosophy of the field, and landmark discoveries, making presentations about various disorders and important research. Learners will also conduct simple experiments using cognitive neuroscience methods and analyze data.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL7911"
+}

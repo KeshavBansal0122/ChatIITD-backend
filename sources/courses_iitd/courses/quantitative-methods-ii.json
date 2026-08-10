@@ -1,0 +1,22 @@
+{
+  "code": "MSL7602",
+  "name": "Quantitative Methods - II",
+  "description": "The QM-II curriculum focuses on managing uncertainty and competition. It begins with Network Problem Modeling to optimize flows and paths in physical or logical infrastructures. It then moves to Game Theory, providing a mathematical lens for strategic &quot;moves&quot; against competitors. The course then addresses the variability of demand through Queuing Theory, balancing service costs against customer wait times. It concludes with Decision Analysis, where students learn to use MCDM methods, such as AHP and Decision Trees, to navigate complex, multi-stage business decisions under risk and uncertainty.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Quantitative Methods - II | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Quantitative Methods - II"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/quantitative-methods-ii",
+  "slug": "quantitative-methods-ii"
+}

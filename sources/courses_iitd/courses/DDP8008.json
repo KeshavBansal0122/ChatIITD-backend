@@ -1,0 +1,22 @@
+{
+  "code": "DDP8008",
+  "name": "Speculative Design",
+  "description": "Speculative design versus critical design, design fiction, emerging technologies (AI, AR/VR, climate tech, etc.), systems thinking, inter-disciplinary research, trends-mapping, worldbuilding, narrative design, experiential prototyping, interaction design, exhibition and public engagement, etc. Through a practice-based approach, students will experience various stages of the speculative design process learning to convert abstract future visions into experiential prototypes culminating into an exhibition.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Speculative Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Speculative Design"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/speculative-design",
+  "slug": "speculative-design"
+}

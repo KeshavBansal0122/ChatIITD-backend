@@ -1,0 +1,16 @@
+{
+  "code": "ELL8299",
+  "name": "Large Language Models",
+  "description": "Course introduction, introduction to natural language processing, introduction to language models: statistical language modeling, introduction to language models: advanced smoothing and evaluation, word vectors, neural language models, introduction to transformer (self-attention, multi-head attention positional encoding, layer normalization), pre-training strategies, advanced attention, tokenization strategies, mixture of experts, scaling laws, pre-training of causal LMs and in-context learning, instruction tuning, alignment of language models (PPO, DPO, GRPO, etc.), parameter efficient fine-tuning, quantization, pruning and distillation, efficient LLM decoding, retrieval-based language models, multimodal models, tool augmentation, reasoning in LLMs, long context LLMs, knowledge editing, self-evolving LLMs, an alternate formulation of transformers, bias and interpretability.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL8299"
+}

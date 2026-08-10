@@ -1,0 +1,22 @@
+{
+  "code": "CVL7458",
+  "name": "Design of Bridge Structures",
+  "description": "Introduction, historical/ magnificent bridges; site selection, planning, and type of bridges, loads and forces; code provisions for design of steel and concrete bridges; analysis methods, grillage analogy; theories of lateral load distribution and design of superstructure: slab type, beam-slab, and box type; distribution of externally applied and self-induced horizontal forces among bridge supports in straight, curved, and skewed decks; continuous type and balanced cantilever type superstructure; temperature stresses in concrete bridge deck; different types of foundations: open, pile, and well foundations; choice of foundation for abutments and piers; design of abutments, piers, pile/ pier caps; effect of differential settlement of supports; bridge bearings; expansion joints for bridge decks; vibration of bridge decks; parapet and railings for highway bridges; construction methods; segmental construction of bridges; inspection and maintenance of bridges; health monitoring and evaluation of existing bridges; bridge failure: case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(CVL2503)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Design of Bridge Structures | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Design of Bridge Structures"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/design-bridge-structures",
+  "slug": "design-bridge-structures"
+}

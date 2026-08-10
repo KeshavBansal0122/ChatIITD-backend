@@ -1,0 +1,22 @@
+{
+  "code": "CVL7211",
+  "name": "Transportation Geotechnics",
+  "description": "Soil behavior, transportation loads, subgrade evaluation, soil classification. Field and laboratory testing. Soil mechanics, soil compaction, strength properties, California bearing ratio (CBR), resilient modulus, shear strength, settlement analysis, Mohr Coulomb, stress-strain, field compaction, laboratory compaction. Ground improvement. Soil stabilization using mechanical, chemical, biological, lime, cement, fly ash, and reinforcement techniques. Design of embankments and retaining structures. Use of Geosynthetics, geotextiles, geogrids, geomembranes, geocomposites on subgrade stabilization. Design of drainage, pavement reinforcement, performance monitoring. Pavement geotechnics, railway subgrade, track stability, ballast performance, geotechnical considerations, pavement design, mechanisticempirical design, subgrade improvement, track reinforcement, ballast degradation. Sustainability, environmental impact, recycled materials, road construction, climate change, geotechnical infrastructure, resilient infrastructure, adaptation strategies, sustainable geotechnics, future research, geotechnical innovations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Transportation Geotechnics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Transportation Geotechnics"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/transportation-geotechnics",
+  "slug": "transportation-geotechnics"
+}

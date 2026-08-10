@@ -1,0 +1,22 @@
+{
+  "code": "CRL7004",
+  "name": "Sensor Array Signal Processing",
+  "description": "Representation of space-time signals: coordinate systems; propagating waves; wave number-frequency space; arrays and apertures; space-time random processes and their characterization; signal modeling and spectral estimation: autocorrelation and power spectral density; power spectrum estimation: non-parametric methods: Periodogram and correlogram, Blackman Tukey, Bartlett method. Parametric methods: AR, MA, ARMA models, Yule-Walker, LS method; arrays and spatial filters: frequency-wavenumber response and beam patterns; ULA; performance measures; synthesis of linear arrays and apertures: spectral weighting; array polynomials; pattern sampling in wavenumber space, minimum beamwidth for specified sidelobe levels, DOA estimation methods: NLS, YW-MUSIC, ESPRIT; linear MMSE estimator; optimum filters; optimum beamforming: MVDR beamformers; MMSE beamformers; eigenvector beamformers; adaptive beamforming: least mean squares algorithms; recursive least squares; generalized sidelobe canceler; advanced array signal processing and source localization: array geometries in higher dimensions, virtual arrays, compressive sensing based DoA estimation, methods for source localization: time of arrival (TOA), time-delay of arrival (TDOA), angle of arrival (AoA), received signal strength (RSS)-based methods.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(ELL2205&MTL1106)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Sensor Array Signal Processing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Sensor Array Signal Processing"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/sensor-array-signal-processing",
+  "slug": "sensor-array-signal-processing"
+}

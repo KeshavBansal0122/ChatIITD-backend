@@ -1,0 +1,22 @@
+{
+  "code": "CVL7475",
+  "name": "General Continuum Mechanics",
+  "description": "Field and particle theories in physics. Historical development of continuum mechanics. Stress and strain. Elasticity, viscoelasticity and elastoplasticity; Newtonian fluids. Continuum thermomechanics; Classius-Duhem inequality; thermodynamics with internal variables. Constitutive equations; frame indifference; non- Newtonian fluids. Materials of differential/gradient type; configurational mechanics; biomechanics; nanomechanics. Theories of conduction and diffusion; multi-physics problems: thermoelasticity and electromagnetoelasticity; chemomechanics, current trends.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "General Continuum Mechanics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "General Continuum Mechanics"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/general-continuum-mechanics",
+  "slug": "general-continuum-mechanics"
+}

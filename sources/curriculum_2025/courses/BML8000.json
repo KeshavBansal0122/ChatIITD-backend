@@ -1,0 +1,16 @@
+{
+  "code": "BML8000",
+  "name": "Research Techniques in Biomedical Engineering",
+  "description": "This course equips students with foundational and applied knowledge in biomedical engineering, covering physiological systems, sensors, biomedical circuits, and clinical diagnostics. Students gain hands-on skills in PCB design, signal processing, and medical imaging, while also exploring emerging technologies, research methodologies, biostatistics, and ethical practices in biomedical research and healthcare innovation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BM#BML8000"
+}

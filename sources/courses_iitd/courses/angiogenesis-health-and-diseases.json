@@ -1,0 +1,22 @@
+{
+  "code": "SBV8097",
+  "name": "Angiogenesis in Health and Diseases",
+  "description": "Angiogenesis and vasculogenesis; the lymphatic system; introduction to blood vessels: types, structure, and composition; components of blood vessels \u2013 endothelial cells, pericytes, and vascular smooth muscle cells; vascular endothelial growth factor (VEGF) biology \u2013 its role in angiogenesis and vascular permeability; basic fibroblast growth factor (FGF) biology; VEGF and FGF receptors, tyrosine kinase signaling and activation; the relationship between angiogenesis and the immune system; tumor angiogenesis \u2013 the Judah Folkman hypothesis, significant discoveries, and the evolution of vascular biology in cancer; tumor vasculature and perfusion; current status of anti-angiogenesis as a therapeutic strategy; the differences between blood vessel inhibition and normalization; vessel co-option and vascular mimicry; atherogenesis; anti-angiogenic therapy in age-related macular degeneration; vascular aging; various in vitro, in vivo, and ex vivo models for studying vascular biology.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(SBL1100/SBL1102)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Angiogenesis in Health and Diseases | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Angiogenesis in Health and Diseases"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/angiogenesis-health-and-diseases",
+  "slug": "angiogenesis-health-and-diseases"
+}

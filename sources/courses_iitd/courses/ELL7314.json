@@ -1,0 +1,22 @@
+{
+  "code": "ELL7314",
+  "name": "VLSI Data Conversion Circuit Design",
+  "description": "Switched capacitor circuit principles and applications in filter design, design of switches, track and hold, and sample and hold circuits, non-idealities in switches, data converters: characteristics, static and dynamic, comparators, ADC classification, flash ADCs, pipeline ADCs, successive approximation register type ADCs, introduction to DAC, RZ, NRZ and switched capacitor DAC, current steering DAC, linearizing techniques for DACs, discrete-time and continuous time delta-sigma ADCs, higher order delta-sigma design.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(ELL7304) /(ELL3405) &(ELL3406) /(ELL3405) &(ELL3407)",
+  "overlap": null,
+  "learning_outcomes": [
+    "VLSI Data Conversion Circuit Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "VLSI Data Conversion Circuit Design"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/vlsi-data-conversion-circuit-design",
+  "slug": "vlsi-data-conversion-circuit-design"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CTL7025",
+  "name": "Recycling, Reusability and Remanufacturing",
+  "description": "Introduction: fundamentals of recycling, reusability and remanufacturing in context of EVs, EV components and their second life, EV components and recyclability: recyclability of electronic and electrical materials, vehicle body systems and batteries. Physical components of batteries; sources of the battery materials; recycling methods, current status of recycling both national and abroad, worldwide directives/policies for spent batteries, importance of recycling and its environmental impacts, mechanical recycling processes, grinding, washing, separating, drying, re-granulating and compounding, NMP-dissolving, ultrasonic treatment, alkaline-leaching, second-life batteries, life-cycle assessment of battery recycling, redesign, reuse, and recycling, partial disassembly of the battery, removal of substandard cells, replacement of these cells, and reassembly of the battery, repurposing, dismantling batteries into cells for new application, reassembling cells, re-design of battery packs and its components, remanufacturing Li batteries challenges, remaining useful life estimation in spent packs, artificial intelligence methods applications in RUL estimation, design of disposable systems for batteries, futuristic trends in recycling.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Recycling, Reusability and Remanufacturing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Recycling, Reusability and Remanufacturing"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/recycling-reusability-and-remanufacturing",
+  "slug": "recycling-reusability-and-remanufacturing"
+}

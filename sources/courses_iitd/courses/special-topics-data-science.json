@@ -1,0 +1,22 @@
+{
+  "code": "AIL8041",
+  "name": "Special Topics in Data Science",
+  "description": "Recent advances in big-data management, applications of machine learning to understand structured and unstructured data in large enterprises, human-centric analysis of large-data, spatio-temporal analytics, data cleaning and data integration using machine learning etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Special Topics in Data Science | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Special Topics in Data Science"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/special-topics-data-science",
+  "slug": "special-topics-data-science"
+}

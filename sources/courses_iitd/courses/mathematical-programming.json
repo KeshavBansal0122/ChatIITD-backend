@@ -1,0 +1,22 @@
+{
+  "code": "MEL7101",
+  "name": "Mathematical Programming",
+  "description": "Modeling with linear programming (LP) and applications, polyhedral theory and geometry of LPs, simplex method, revised simplex method, LP duality, domplementary slackness, Farkas&#039; lemma, sensitivity analysis. Nonlinear programming - unconstrained optimization, iterative descent, constrained optimization, KKT conditions, introduction to integer programming, dynamic programming, network optimization.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Mathematical Programming | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mathematical Programming"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mathematical-programming",
+  "slug": "mathematical-programming"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "COD7045",
+  "name": "Minor Project",
+  "description": "Research and development projects based on problems of practical and theoretical interest. Evaluation will be based on periodic presentations, student seminars, written reports, and evaluation of the developed system (if applicable).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Minor Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/minor-project-10",
+  "slug": "minor-project-10"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ESL7368",
+  "name": "Wind and Small Hydro Energy Systems",
+  "description": "Introduction, general theories of wind machines, basic laws and concepts of aerodynamics, micro-siting, wind data analysis, wind resource assessment, wind energy converters, description and performance of the horizontal\u2013axis wind machines, blade design, description and performance of the vertical\u2013axis wind machines. The generation of electricity by wind machines, operational challenges in wind machines, case studies, overview of micro, mini and small hydro, site selection and civil works, penstocks and turbines (Pelton, Francis, Kaplan, Hydrokinetic), design of Pelton and Francis turbine, operational challenges in hydro turbines that is, cavitation and sediment erosion, analysis of economic feasibility of a hydroelectric project, pumped-storage hydropower plants, reversible Francis turbine, variable speed turbine, wind and hydro based stand-alone / hybrid power systems, an overview of CFD analysis in hydro applications, case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Wind and Small Hydro Energy Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Wind and Small Hydro Energy Systems"
+  ],
+  "department": "Energy Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/wind-and-small-hydro-energy-systems",
+  "slug": "wind-and-small-hydro-energy-systems"
+}

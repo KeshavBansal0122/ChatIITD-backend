@@ -1,0 +1,16 @@
+{
+  "code": "OPD7100",
+  "name": "Cornerstone Project for M. Tech. Photonics",
+  "description": "A team-based project focused on solving a real-world design problems in optics and photonics. Students will conduct a detailed study on a specific topic in the field under the supervision of faculty member(s).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "OP",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=OP#OPD7100"
+}

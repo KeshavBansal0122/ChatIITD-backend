@@ -1,0 +1,16 @@
+{
+  "code": "CML6031",
+  "name": "Molecular Biochemistry",
+  "description": "Central Dogma, DNA Replication and Repair, Transcription, Translation, Recombinant DNA Technology, Basic concept of Metabolism: Glycolysis, TCA Cycle, \u03b2-oxidation, Amino acid transamination and urea cycle",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CM#CML6031"
+}

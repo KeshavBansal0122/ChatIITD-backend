@@ -1,0 +1,16 @@
+{
+  "code": "CVP7802",
+  "name": "Hydrological Simulation Laboratory",
+  "description": "Principles of hydrological modelling, components of hydrological models, conceptualization of mathematical hydrological models, distributed, semi-distributed, and lumped hydrological models, and conceptual, data-driven, and processes-based and physically based hydrological models. Hydro-meteorological, biophysical, and GIS data preprocessing. Hydrological model setup (GR4J, HBV, SWAT+, HEC-HMS, SWMM etc.) calibration and performance evaluation, performance evaluation metrics. Parameter sensitivity analysis, estimation, and uncertainty quantification. Modeling complex reservoir operations, land use and climate change.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVP7802"
+}

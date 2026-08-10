@@ -1,0 +1,21 @@
+{
+  "code": "AML2080",
+  "name": "Heat Transfer",
+  "description": "Modes of heat transfer - conduction, convection, radiation; basic conservation equations; conduction: Fourier\u2019s law, heat diffusion equation, 1-D steady state conduction in extended surfaces, heat generation, lumped capacitance and 1-D transient models, semi-infinite wall. Heat transfer coefficients in free and forced convection; convection: forced and free convection - mass, momentum and energy conservation equations, scaling analysis and significance of non-dimensional numbers, thermal boundary-layers, heat transfer in external and internal laminar and turbulent flows and use of correlations. Heat exchanger types and analysis: LMTD and effectiveness-NTU method. Introduction to radiative heat transfer; radiation: properties, laws, view factor, 3-surface network for diffuse-gray surfaces. Gas radiation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(AML1050&AML2020)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Heat Transfer | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Heat and Mass Transfer",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/heat-transfer",
+  "slug": "heat-transfer"
+}

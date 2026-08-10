@@ -1,0 +1,22 @@
+{
+  "code": "HSL2500",
+  "name": "Introduction to Philosophy",
+  "description": "Philosophy raises fundamental questions that underlie every domain of human inquiry: What can we know, and how? What is the nature of reality, persons, and mind? What makes actions right or wrong? Philosophy is distinctive in approaching such questions through rigorous argument and conceptual analysis, rather than empirical investigation alone, making it relevant to students from any disciplinary background. The course surveys these questions across three interconnected areas: epistemology, metaphysics, and ethics. Through engagement with key philosophical texts drawn from the history of philosophy and contemporary debates, students develop the skills to analyze arguments, identify philosophical assumptions, and reason meaningfully about complex ideas.",
+  "credits": 0.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Philosophy | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Philosophy"
+  ],
+  "department": "Philosophical Thinking",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-philosophy",
+  "slug": "introduction-philosophy"
+}

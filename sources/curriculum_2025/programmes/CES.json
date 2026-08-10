@@ -1,0 +1,543 @@
+{
+  "code": "CES",
+  "name": "M.Tech. in Structural Engineering",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=CES",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 39.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Develop advanced expertise in the specialization of structural engineering."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Conceptualize, analyse, and design civil engineering structures, considering technical, environmental, and socio-economic factors."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Extend the concepts of structural engineering to interdisciplinary challenges."
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "Conduct independent research, investigate, and innovate to address complex engineering and scientific problems."
+    },
+    {
+      "outcome_id": "PLO5",
+      "text": "Communicate effectively, embrace teamwork and uphold ethical standards."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "CVD7491",
+        "title": "Cornerstone Project in Structural Engineering",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVD8498",
+        "title": "Major Project in Structural Engineering (Part-I)",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "16"
+        },
+        "credits": "8"
+      },
+      {
+        "course_code": "CVL7310",
+        "title": "Professional Ethics in Civil Engineering",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "CVL7411",
+        "title": "Advanced Structural Analysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7412",
+        "title": "Structural Dynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7413",
+        "title": "Finite Element Methods in Structural Engineering",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7414",
+        "title": "Solid Mechanics in Structural Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7421",
+        "title": "Theory of Concrete Structures",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7422",
+        "title": "Theory of Steel Structures",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7423",
+        "title": "Earthquake Resistant Design of Structures",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVN7401",
+        "title": "Teaching/Research Practicum in Structural Engineering",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "CVP7412",
+        "title": "Structural Dynamics Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "3"
+        },
+        "credits": "1.5"
+      },
+      {
+        "course_code": "CVP7421",
+        "title": "Concrete Structures Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "3"
+        },
+        "credits": "1.5"
+      },
+      {
+        "course_code": "CVT7401",
+        "title": "Summer Internship in Structural Engineering",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "CVL7052",
+        "title": "Transportation Cyberphysical Systems",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7301",
+        "title": "Construction Project Management",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7374",
+        "title": "Construction Contracts and Procurement Methods",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7454",
+        "title": "Analytical and Computational Methods in Civil Engineering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7457",
+        "title": "Concrete Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7460",
+        "title": "Design of Tall Buildings",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7461",
+        "title": "Fire Engineering and Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7465",
+        "title": "Structural Safety and Reliability",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7471",
+        "title": "Advanced Concrete Technology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7474",
+        "title": "Fracture and Failure of Structures",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7704",
+        "title": "Solid Waste Engineering and Management",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7735",
+        "title": "Sustainability Assessment and Green Building Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL7737",
+        "title": "Building Sciences",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL8452",
+        "title": "Atomistic &amp; Multiscale Modelling of Materials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL8454",
+        "title": "Waves Through Periodic Structures and Metamaterials",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL8456",
+        "title": "Structural Health Monitoring",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL8459",
+        "title": "Durability and Repair of Concrete Structures",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVL8460",
+        "title": "Wind-Resistant Design of Structures",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "CVS7495",
+        "title": "Independent Study in Structural Engineering (Part-II)",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "3",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "CVL7411",
+        "title": "Advanced Structural Analysis",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVL7412",
+        "title": "Structural Dynamics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVL7413",
+        "title": "Finite Element Methods in Structural Engineering",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVL7414",
+        "title": "Solid Mechanics in Structural Engineering",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVP7412",
+        "title": "Structural Dynamics Laboratory",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 3.0
+        },
+        "credits": 1.5
+      },
+      {
+        "course_code": "CVN7401",
+        "title": "Teaching/Research Practicum in Structural Engineering",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "CVD7491",
+        "title": "Cornerstone Project in Structural Engineering",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVL7421",
+        "title": "Theory of Concrete Structures",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVL7422",
+        "title": "Theory of Steel Structures",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVL7423",
+        "title": "Earthquake Resistant Design of Structures",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "CVP7421",
+        "title": "Concrete Structures Laboratory",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 3.0
+        },
+        "credits": 1.5
+      },
+      {
+        "course_code": "CVN7401",
+        "title": "Teaching/Research Practicum in Structural Engineering",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "CVD8498",
+        "title": "Major Project in Structural Engineering (Part-I)",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 16.0
+        },
+        "credits": 8.0
+      },
+      {
+        "course_code": "CVL7310",
+        "title": "Professional Ethics in Civil Engineering",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "CVN7401",
+        "title": "Teaching/Research Practicum in Structural Engineering",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "CVN7401",
+        "title": "Teaching/Research Practicum in Structural Engineering",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "CES \u2013 M.Tech. in Structural Engineering\nM.Tech. in Structural Engineering\nCivil Engineering, Department of\nProgramme Code: CES\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n39\nPE (Programme Elective)\n18\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n63\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nDevelop advanced expertise in the specialization of structural engineering.\nPLO 2\nConceptualize, analyse, and design civil engineering structures, considering technical, environmental, and socio-economic factors.\nPLO 3\nExtend the concepts of structural engineering to interdisciplinary challenges.\nPLO 4\nConduct independent research, investigate, and innovate to address complex engineering and scientific problems.\nPLO 5\nCommunicate effectively, embrace teamwork and uphold ethical standards.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCVD7491 Cornerstone Project in Structural Engineering 0 0 6 3\nCVD8498 Major Project in Structural Engineering (Part-I) 0 0 16 8\nCVL7310 Professional Ethics in Civil Engineering 1 0 0 1\nCVL7411 Advanced Structural Analysis 3 0 0 3\nCVL7412 Structural Dynamics 3 0 0 3\nCVL7413 Finite Element Methods in Structural Engineering 2 0 2 3\nCVL7414 Solid Mechanics in Structural Engineering 3 0 0 3\nCVL7421 Theory of Concrete Structures 3 0 0 3\nCVL7422 Theory of Steel Structures 3 0 0 3\nCVL7423 Earthquake Resistant Design of Structures 3 0 0 3\nCVN7401 Teaching/Research Practicum in Structural Engineering 0 0 8 4\nCVP7412 Structural Dynamics Laboratory 0 0 3 1.5\nCVP7421 Concrete Structures Laboratory 0 0 3 1.5\nCVT7401 Summer Internship in Structural Engineering \u2013 \u2013 \u2013 \u2013\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCVL7052 Transportation Cyberphysical Systems 2 0 2 3\nCVL7301 Construction Project Management 3 0 0 3\nCVL7374 Construction Contracts and Procurement Methods 3 0 0 3\nCVL7454 Analytical and Computational Methods in Civil Engineering 3 0 0 3\nCVL7457 Concrete Mechanics 3 0 0 3\nCVL7460 Design of Tall Buildings 3 0 0 3\nCVL7461 Fire Engineering and Design 3 0 0 3\nCVL7465 Structural Safety and Reliability 3 0 0 3\nCVL7471 Advanced Concrete Technology 3 0 0 3\nCVL7474 Fracture and Failure of Structures 3 0 0 3\nCVL7704 Solid Waste Engineering and Management 3 0 0 3\nCVL7735 Sustainability Assessment and Green Building Design 3 0 0 3\nCVL7737 Building Sciences 3 0 0 3\nCVL8452 Atomistic &amp; Multiscale Modelling of Materials 3 0 0 3\nCVL8454 Waves Through Periodic Structures and Metamaterials 3 0 0 3\nCVL8456 Structural Health Monitoring 2 0 2 3\nCVL8459 Durability and Repair of Concrete Structures 3 0 0 3\nCVL8460 Wind-Resistant Design of Structures 3 0 0 3\nCVS7495 Independent Study in Structural Engineering (Part-II) 0 3 0 3\nSemester-wise Schedule\nSem\nCourses &amp; Baskets"
+}

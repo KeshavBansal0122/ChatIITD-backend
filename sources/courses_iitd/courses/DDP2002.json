@@ -1,0 +1,22 @@
+{
+  "code": "DDP2002",
+  "name": "Studio II: Industrial Design",
+  "description": "Introduction to sheet metal and manufacturing processes - through videos, visits and component study.\nStudy of sheet metal details - understanding K factor, laser cutting considerations, bending sequence, etc.\nFormal detailing while iteratively planning component break-up, assembly techniques for servicing and disassembly for recycling. \nInternal component mounting, cable routing, heat dissipation and movement of components.\nStrengthening and stiffening components through geometry, use of stiffeners, cleats, etc.\nModelling, preparing drawings and files for processing and subsequent assembly.\nExercises in Orthographic drawing - representing modelled components through technical drawings, including sections, exploded views, component and assembly drawings.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": "(DDP2001)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Studio II: Industrial Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Studio II: Industrial Design"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/studio-ii-industrial-design",
+  "slug": "studio-ii-industrial-design"
+}

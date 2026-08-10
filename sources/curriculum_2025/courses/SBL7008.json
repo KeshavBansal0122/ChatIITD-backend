@@ -1,0 +1,16 @@
+{
+  "code": "SBL7008",
+  "name": "Epigenetics in Human Health and Disease",
+  "description": "Introduction - overview of epigenetics in human health and disease; epigenetic mechanisms \u2013 basic mechanisms; DNA methylation and genome imprinting \u2013 role of DNA methylation; epigenetics in cancer biology \u2013 global and region specific changes and effects on transcription; DNA methylation and repeat instability diseases; epigenetic reprogramming and role of DNA methylation in mammalian development \u2013 role in embryogenesis; epigenetics in pluripotency and differentiation of embryonic stem cells; microRNA in carcinogenesis, neordegeneration and DNA repair\u2013 mechanisms and potential therapeutic options; epigenetic regulation of viruses by the host \u2013 role in pathogenesis; methods in epigenetics \u2013 methylation patterns and histone modifications; case studies from literature, evolving and emerging areas of interest.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBL7008"
+}

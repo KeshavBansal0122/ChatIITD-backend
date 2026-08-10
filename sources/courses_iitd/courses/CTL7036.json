@@ -1,0 +1,22 @@
+{
+  "code": "CTL7036",
+  "name": "Design of Motors for Automotive Application",
+  "description": "Classification of EV motors, sizing procedures, winding design and analysis, design of radial flux motors, axial flux motors and linear motors used in electric mobility, cogging torque and torque ripple analysis, loss modelling and thermal analysis, magnetic materials, conductor and insulation materials, bearing design and lubrication.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Design of Motors for Automotive Application | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Design of Motors for Automotive Application"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/design-motors-automotive-application",
+  "slug": "design-motors-automotive-application"
+}

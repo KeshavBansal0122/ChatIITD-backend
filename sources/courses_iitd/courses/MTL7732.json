@@ -1,0 +1,22 @@
+{
+  "code": "MTL7732",
+  "name": "Financial Mathematics",
+  "description": "Financial markets, Interest computation, growth and discount factors, present and future values, no arbitrage, forwards and futures, forward rates agreements, derivative products, basic option theory: single- and multi-period binomial pricing models, Cox-Ross-Rubinstein (CRR) model, volatility, Black-Scholes formula for option pricing as a limit of CRR model, Black-Scholes PDE, Greeks and hedging, delta and omega hedging, mean-Variance portfolio theory: Markowitz model, Capital Asset Pricing Model (CAPM), factor models, Fama and French higher factor model for asset pricing, zero coupon and coupon bonds, forward and short interest rates, bond yield, Macaulay duration of bond, interest rate option derivatives, Binomial tree models for interest rates options, Black-Derman Toy model, Cox-Ingersoll-Ross model",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Financial Mathematics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Financial Mathematics"
+  ],
+  "department": "Stochastic of Finance",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/financial-mathematics",
+  "slug": "financial-mathematics"
+}

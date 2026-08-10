@@ -1,0 +1,22 @@
+{
+  "code": "COL2090",
+  "name": "Design Practices",
+  "description": "A system level programming language, concurrent programming, use of different open source software development tools to build, debug, test, and measure performance of software, documentation and report generation.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": "(COL1101)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Design Practices | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Design Practices"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/design-practices",
+  "slug": "design-practices"
+}

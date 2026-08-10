@@ -1,0 +1,22 @@
+{
+  "code": "MLL2005",
+  "name": "Mechanical Behaviour of Materials",
+  "description": "Elasticity: elastic constants and atomistic origin; state of stress, Mohr circle; stress and strain tensor, isotropic versus non-isotropic materials; non-linear elasticity (eg., polymers) and viscoelasticity. Plasticity: yield criteria and work hardening, stress-strain curve; single crystal slip and twins; theoretical shear strength. Defects in solids; dislocations: Burgers vectors, slip systems; dislocation motion: stress field of dislocation; forces on dislocations, dislocation multiplication and interaction with other dislocations. Strengthening mechanisms. Fracture and fatigue; fracture and fatigue mechanisms; linear elastic fracture mechanics, Griffith&#039;s criteria, fracture toughness; fatigue testing, fatigue crack propagation, creep and creep mechanisms, correlation between properties and performance, deformation mechanism maps.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Mechanical Behaviour of Materials\u202f | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mechanical Behaviour of Materials"
+  ],
+  "department": "Mechanical Behaviour of Materials",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mechanical-behaviour-materials",
+  "slug": "mechanical-behaviour-materials"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "TXL7555",
+  "name": "Electronics and Controls for Textile Industry",
+  "description": "Overview of electronics and controls in modern textile equipment and machines. Overview of basic analog electronics: elements (R, L, C, V, I), circuit laws and theorems, and operational amplifiers. Overview of basic digital electronics: logic gates and ICs; fundamentals of diodes, MOSFETs, and BJTs. Sensors and transducers (displacement, position, force, temperature, pressure, flow, humidity); sensors employed in the textile industry. Signal conditioning. Control elements, systems, and examples; applications of control systems in textiles. Data acquisition, analysis, control, and automation using microprocessors and microcontrollers; applications of data acquisition in textiles and case studies. Motors and power drives. Power control devices. Electronic textiles.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL7555"
+}

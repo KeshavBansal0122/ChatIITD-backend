@@ -1,0 +1,22 @@
+{
+  "code": "CVL7467",
+  "name": "Theory of Structural Stability",
+  "description": "Introduction: buckling of steel and concrete structures; conservative and nonconservative loads. Elastic buckling of columns and beam-columns: static, dynamical and energy-based approaches. Viscoelastic and elastoplastic buckling. Torsional buckling. Flexural-torsional and lateral buckling. Plate and frame buckling. Imperfection sensitivity; post-buckling theory. Snap-through. Dynamic stability: divergence, flutter and parametric resonance. Nonlinear dynamical systems theory; bifurcations. Recent trends.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Theory of Structural Stability | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Theory of Structural Stability"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/theory-structural-stability",
+  "slug": "theory-structural-stability"
+}

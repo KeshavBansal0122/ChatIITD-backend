@@ -1,0 +1,22 @@
+{
+  "code": "CTL7007",
+  "name": "Batteries for Electric Vehicles: Multidisciplinary Perspectives",
+  "description": "Introduction to batteries, types of batteries, working principle of an electrochemical cell, history of lithium-ion chemistry development, battery designs and components, materials for Li-ion battery components, battery manufacturing process, electrical characteristics of Li-ion batteries (capacity, OCV-SOC, impedance), testing methods for battery characterization and modelling, equivalent circuit battery models, electrochemical battery models, battery states (SOC, SOP, SOH) estimation methods, battery management system (BMS), overview of favourable and unfavourable storage and cycling conditions, the impact of operating stress factors (temperature, current, SOC range) on batteries, battery degradation mechanisms, non-destructive and destructive battery failure analysis methods, thermal runaway, battery safety mechanisms, battery pack designs, cell balancing methods for packs, overview of battery thermal management strategies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Batteries for Electric Vehicles: Multidisciplinary Perspectives | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Batteries for Electric Vehicles: Multidisciplinary Perspectives"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/batteries-electric-vehicles-multidisciplinary-perspectives",
+  "slug": "batteries-electric-vehicles-multidisciplinary-perspectives"
+}

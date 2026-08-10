@@ -1,0 +1,16 @@
+{
+  "code": "CHL7207",
+  "name": "Fundamentals of Computational Fluid Dynamics",
+  "description": "Review of basic fluid mechanics and the governing (Navier-Stokes) equations. Techniques for solution of PDEs \u2013 finite difference method, finite element method and finite volume method. Finite volume (FV) method in one-dimension. Differencing schemes. Steady and unsteady calculations. Boundary conditions. FV discretization in two and three dimensions. SIMPLE algorithm and flow field calculations, variants of SIMPLE. Illustrative flow computations. Commercial software - grid generation, flow prediction and post processing.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CH",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CH#CHL7207"
+}

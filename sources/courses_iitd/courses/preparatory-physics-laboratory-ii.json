@@ -1,0 +1,22 @@
+{
+  "code": "PYP0002",
+  "name": "Preparatory Physics Laboratory - II",
+  "description": "The course consists of a total of eight experiments \u2014 two Foundational and six Core experiments \u2014 covering electrostatics, magnetostatics, optics, and modern physics. Foundational experiments build instrument-handling technique with a digital multimeter and observation of electrostatic phenomena using a Van de Graaff generator. Core experiments build on this through lab reports and viva, covering data collection, analysis and interpretation \u2014 examining Ohm&#039;s Law and Wheatstone bridge resistance networks, the Biot-Savart Law via magnetic field measurement, refractive index via a travelling microscope and minimum angle of deviation of prism, Planck&#039;s Constant via LED, and atomic spectra via diffraction grating.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(PYP0001)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Preparatory Physics Laboratory - II | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Preparatory Physics Laboratory - II"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/preparatory-physics-laboratory-ii",
+  "slug": "preparatory-physics-laboratory-ii"
+}

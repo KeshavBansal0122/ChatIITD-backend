@@ -1,0 +1,22 @@
+{
+  "code": "SIL7020",
+  "name": "Accessible Computing & Assistive Technologies",
+  "description": "This course will introduce students to the principles, challenges, and opportunities in designing computing systems and assistive technologies that allow persons with special needs to perform day-to-day tasks. Students will learn the nature, role and design process for assistive technologies using a combination of computing and allied tools for system realisation. Overall, students will understand inclusive design methodologies, process of user evaluation and the process of building solutions that are universal from need assessment to realisation.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Accessible Computing & Assistive Technologies | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Accessible Computing & Assistive Technologies"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/accessible-computing-assistive-technologies",
+  "slug": "accessible-computing-assistive-technologies"
+}

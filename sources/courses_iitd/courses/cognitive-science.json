@@ -1,0 +1,22 @@
+{
+  "code": "MSL7348",
+  "name": "Cognitive Science",
+  "description": "Cognitive Science is an interdisciplinary course that examines the nature of the human mind and its processes, including perception, memory, learning, language, and decision-making. Moreover, Cognitive Analytics focus on the integration of data analytics and artificial intelligence to mimic human cognitive functions in analyzing complex information. Drawing from fields such as psychology, neuroscience, linguistics, philosophy, and artificial intelligence, the course provides a comprehensive understanding of how humans think and process information. Students will explore both theoretical foundations and experimental methods used to study cognition, while also considering applications in technology, education, and human behavior. The course emphasizes practical applications, enabling learners to appreciate intelligent systems that can interpret data, generate insights, and support decision-making across domains like business, healthcare, and finance. By the end of the course, learners will gain insights into how cognitive principles can be applied to solve real-world problems.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Cognitive Science | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Cognitive Science"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/cognitive-science",
+  "slug": "cognitive-science"
+}

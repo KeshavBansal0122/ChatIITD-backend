@@ -1,0 +1,22 @@
+{
+  "code": "AIL7003",
+  "name": "History and Philosophy of Artificial Intelligence",
+  "description": "Historical notions of intelligence; formalisation of ideas of computing; intelligence as computing and the birth of AI; relation to philosophical functionalism; early examples, role of symbols and logic; frame problem and its modern avatars; problem of induction and deeper epistemological questions; connectionism, its history and evolution; key debates and critiques -- Chinese room, Dreyfus attack, neural network systematicity, nature and role of representation; the idea of learning, innateness vs. adaptation, relation to rationalism-empiricism debates; hybrid approaches, cognitive architectures; agentic AI, notions of self and agency; nature and building blocks of reasoning, conceptions of rational machines; overview of AI ethics and capacity for moral decision-making; centrality of deep learning in modern AI and its implications for philosophical questions and future directions",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "History and Philosophy of Artificial Intelligence | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "History and Philosophy of Artificial Intelligence"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/history-and-philosophy-artificial-intelligence",
+  "slug": "history-and-philosophy-artificial-intelligence"
+}

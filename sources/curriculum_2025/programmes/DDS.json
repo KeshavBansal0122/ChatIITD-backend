@@ -1,0 +1,406 @@
+{
+  "code": "DDS",
+  "name": "Master of Design in Industrial Design",
+  "generation": "2025",
+  "degree_type": "mdes",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=DDS",
+  "credit_requirements": [
+    {
+      "category": "GE",
+      "label": "General Engineering",
+      "credits_or_units": 1.0,
+      "kind": "graded"
+    },
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 46.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "DDD7006",
+        "title": "Design Project 1",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDL7007",
+        "title": "Research Methods for Design",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDN7000",
+        "title": "Research/Teaching Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "DDP7001",
+        "title": "Design Foundation",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDP7002",
+        "title": "Human Factors in Design - 1",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDP7003",
+        "title": "Form and Structure",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDP7004",
+        "title": "Typography and Visual Language",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDP7005",
+        "title": "Interaction and Interfaces",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDP7017",
+        "title": "Product Detailing",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDT7077",
+        "title": "Winter Immersion",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDT7087",
+        "title": "Summer Internship",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "DDL7025",
+        "title": "Information Design &amp; Data Visualization",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDL7026",
+        "title": "Applied Behavioural Design",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDL7068",
+        "title": "Design Research Methodology",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDL8021",
+        "title": "Design History, Culture and Studies",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDP7011",
+        "title": "Advanced Typography",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDP7012",
+        "title": "Game Design Fundamentals",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDP7042",
+        "title": "Universal Design",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDP7123",
+        "title": "Design for Environmental Change",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDP7740",
+        "title": "CoDesign and Participatory Futures",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDP8008",
+        "title": "Speculative Design",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDR8109",
+        "title": "Strategic UX Design",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDR8222",
+        "title": "Design for Sustainability",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DDR8522",
+        "title": "Strategic Design Management",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "DDP7001",
+        "title": "Design Foundation",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "DDP1004",
+        "title": "Human Factors in Design - 1",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "DDP7003",
+        "title": "Form and Structure",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "DDP7004",
+        "title": "Typography and Visual Language",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "DDP7005",
+        "title": "Interaction and Interfaces",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "DDN7000",
+        "title": "Research/Teaching Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "DDL7007",
+        "title": "Research Methods for Design",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "DDN7000",
+        "title": "Research/Teaching Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "DDD7006",
+        "title": "Design Project 1",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 10.0
+        },
+        "credits": 5.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "DDN7000",
+        "title": "Research/Teaching Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "Design project 2",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 12.0
+        },
+        "credits": 6.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "DDN7000",
+        "title": "Research/Teaching Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "Design thesis",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      }
+    ]
+  },
+  "raw_text_preview": "DDS \u2013 Master of Design in Industrial Design\nMaster of Design in Industrial Design\nDesign, Department of\nProgramme Code: DDS\nM. Des.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n46\nPE (Programme Elective)\n12\nOE (Open Elective)\n3\nTotal Graded Credit Requirement\n61\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nDDD7006 Design Project 1 \u2013 \u2013 \u2013 \u2013\nDDL7007 Research Methods for Design 2 0 2 3\nDDN7000 Research/Teaching Practicum 0 0 8 4\nDDP7001 Design Foundation 1 0 4 3\nDDP7002 Human Factors in Design - 1 2 0 2 3\nDDP7003 Form and Structure 1 0 4 3\nDDP7004 Typography and Visual Language 1 0 4 3\nDDP7005 Interaction and Interfaces 1 0 4 3\nDDP7017 Product Detailing \u2013 \u2013 \u2013 \u2013\nDDT7077 Winter Immersion \u2013 \u2013 \u2013 \u2013\nDDT7087 Summer Internship \u2013 \u2013 \u2013 \u2013\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nDDL7025 Information Design &amp; Data Visualization 2 0 2 3\nDDL7026 Applied Behavioural Design 2 0 2 3\nDDL7068 Design Research Methodology 2 0 2 3\nDDL8021 Design History, Culture and Studies 2 0 2 3\nDDP7011 Advanced Typography 1 0 4 3\nDDP7012 Game Design Fundamentals 1 0 4 3\nDDP7042 Universal Design 2 0 2 3\nDDP7123 Design for Environmental Change 2 0 2 3\nDDP7740 CoDesign and Participatory Futures 1 0 4 3\nDDP8008 Speculative Design 1 0 4 3\nDDR8109 Strategic UX Design 3 0 0 3\nDDR8222 Design for Sustainability 1 0 4 3\nDDR8522 Strategic Design Management 1 0 4 3\nSemester-wise Schedule\nSem\nCourses &amp; Baskets\nHrs /\nweek\nNGU\nCredits\n1\nDDP7001 Design Foundation\n(1.0-0.0-4.0) 3.00\nDDP1004 Human Factors in Design - 1\n(2.0-0.0-2.0) 3.00\nDDP7003 Form and Structure\n(1.0-0.0-4.0) 3.00\nDDP7004 Typography and Visual Language\n(1.0-0.0-4.0) 3.00\nDDP7005 Interaction and Interfaces\n(1.0-0.0-4.0) 3.00\nDDN7000 Research/Teaching Practicum\n(0.0-0.0-8.0) 4.00\n32\n4\n15\nWinter"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "ESN7001",
+  "name": "Ethics in Science and Engineering",
+  "description": "Relevance of ethics for engineers; Responsibility of engineers; Codes of conduct in engineering; Normative ethics; Moral problems and moral judgment; Designing morality; Ethical questions in the design of the technology; Ethical aspects of technological risks; AI and data ethics; Distribution of responsibility",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ES",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ES#ESN7001"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "HSL8101",
+  "name": "Political Economy of Official Statistics",
+  "description": "The course will introduce students to the structure and diversity of sources of statistics in India and will help them understand how policy design and statistics are jointly determined along with social, political, and economic outcomes. It attempts to uncover the channels through which politics and policymaking interfere with various stages of production, dissemination, and consumption of government statistics. It facilitates reflection on the consequences of the deepening relationship between state and statistics, on the one hand, and politics and public policy, on the other.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL8101"
+}

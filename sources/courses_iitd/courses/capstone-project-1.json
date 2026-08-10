@@ -1,0 +1,22 @@
+{
+  "code": "COD4901",
+  "name": "Capstone Project",
+  "description": "Problem identification and requirement analysis. Team work and role assignment. System architecture and technology selection. Implementation and integration. Evaluation, optimization, and final demonstration.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Capstone Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Capstone Project"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/capstone-project-1",
+  "slug": "capstone-project-1"
+}

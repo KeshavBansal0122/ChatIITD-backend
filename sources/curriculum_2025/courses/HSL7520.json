@@ -1,0 +1,16 @@
+{
+  "code": "HSL7520",
+  "name": "Philosophy of Science",
+  "description": "This course aims to deepen our understanding of science as a distinctive and intellectually significant cognitive enterprise. It examines foundational questions concerning the structure and justification of scientific knowledge, the methodology behind forms of scientific reasoning, the nature and scope of scientific explanation, and the conceptual underpinnings of central notions such as theory, evidence, measurement, causality, lawfulness, and objectivity. Attention is also given to debates on scientific realism, the epistemic role of observation and experiment, inferential strategies such as model-based reasoning, and the dynamics of scientific change and progress. Emphasis is placed on careful philosophical examination of the norms, aims, and rational character of scientific inquiry.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL7520"
+}

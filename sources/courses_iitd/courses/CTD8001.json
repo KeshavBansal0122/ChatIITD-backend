@@ -1,0 +1,22 @@
+{
+  "code": "CTD8001",
+  "name": "M.Tech Project Part-I",
+  "description": "On the basis of project.",
+  "credits": 9.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 18.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "M.Tech Project Part-I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "M.Tech Project Part-I"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mtech-project-part-i",
+  "slug": "mtech-project-part-i"
+}

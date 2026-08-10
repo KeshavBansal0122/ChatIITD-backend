@@ -1,0 +1,22 @@
+{
+  "code": "CHL7218",
+  "name": "Advanced Process Control",
+  "description": "State-space models. Distributed parameter models. Feedforward control. Ratio control. Dead-time compensation. Relative gain array. Z-transforms and digital control. Internal model control. State estimation and process identification. Adaptive control. Non-linear control. Model-based control structures. Synthesis of control systems with case studies. Intelligent control, model predictive control. Fuzzy logic control. Fault diagnosis and control using machine learning.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL3006",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Process Control | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Process Control"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-process-control",
+  "slug": "advanced-process-control"
+}

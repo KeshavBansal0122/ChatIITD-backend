@@ -1,0 +1,16 @@
+{
+  "code": "CVD7592",
+  "name": "Cornerstone Project",
+  "description": "Solve a transportation engineering problem by working in groups. Students are expected to conduct experiments/use software/field surveys to complete the tasks.",
+  "credits": 5.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 10.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVD7592"
+}

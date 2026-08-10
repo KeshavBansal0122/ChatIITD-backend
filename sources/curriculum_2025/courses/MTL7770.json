@@ -1,0 +1,16 @@
+{
+  "code": "MTL7770",
+  "name": "Combinatorial Optimization",
+  "description": "Optimization problems, Convex sets and convex functions, Important combinatorial optimization problems, Convex hulls, Polytopes, Facets, Background on Polytope and Linear programming; Integral polytopes, \r\nTotal Unimodularity, Total dual integrality, \r\nMatroids, Greedy algorithm, Properties, Axioms and constructions of matroids, Matroid Intersection problem, Applications of matroid intersection, Weighted matroid intersection, Matroid Union\r\n Approximation algorithms to well-known combinatorial optimization problems: TSP, Knapsack.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTL7770"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "ESN7412",
+  "name": "Basic Electrical Engineering",
+  "description": "Electrical energy and its conservation and basic elements of electrical systems, Comparison of ac dc electrical systems, Single phase and Three phase circuits, Per unit system, Power in single phase and three phase circuits, Power quality and Power Factor Correction, Electrical machines",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ES",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ES#ESN7412"
+}

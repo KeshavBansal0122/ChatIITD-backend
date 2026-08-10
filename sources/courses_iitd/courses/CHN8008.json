@@ -1,0 +1,22 @@
+{
+  "code": "CHN8008",
+  "name": "Technical Communication for Chemical Engineers",
+  "description": "Technical paper and report writing, knowledge of leading chemical engineering journals and conferences, carrying out literature search, research methodology, paper referencing and critiquing, ethics and plagiarism, improving presentation and communication skills.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Technical Communication for Chemical Engineers | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Technical Communication for Chemical Engineers"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/technical-communication-chemical-engineers",
+  "slug": "technical-communication-chemical-engineers"
+}

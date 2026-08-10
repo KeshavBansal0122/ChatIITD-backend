@@ -1,0 +1,16 @@
+{
+  "code": "CVL8710",
+  "name": "Thermal Treatment Techniques for Waste Management",
+  "description": "Thermal treatment techniques: incineration, gasification and pyrolysis. Fundamentals of thermodynamics, heat transfer and combustion as applied to waste incineration. Introduction to fuels, reactor design, fluidization engineering and furnace technology. Combustion of gaseous, liquid and solid fuels. Wastes as fuels. Low, medium and high temperature thermal treatment techniques, energy recovery and waste-to-energy, Rankine cycle, pollution control techniques for thermal facilities, planning and design of thermal treatment facilities protecting the environment.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL8710"
+}

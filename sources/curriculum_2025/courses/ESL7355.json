@@ -1,0 +1,16 @@
+{
+  "code": "ESL7355",
+  "name": "Solar Photovoltaic Devices and Systems",
+  "description": "Photovoltaic materials: fundamentals of semiconductors; physical, optical and electrical characterizations of absorber layers; role of microstructure (single crystal, multicrystalline, polycrystalline, amorphous, and nano-crystalline) in electrical and optical properties of the materials; design and fabrication of various solar cells; analysis of photovoltaic devices; integration of various PV technologies for system development; case studies of PV technologies and environmental impact.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ES",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ES#ESL7355"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ELP7271",
+  "name": "Design and Development of Basic Intelligent Computing Systems 1",
+  "description": "The course is a basic introduction to a purely hands-on project activity based on the end to end development of an intelligent computing appliance, its software (including OS and user level applications), hardware design (enclosure, PCB, ruggedness testing) based on a COTS platform.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Design and Development of Basic Intelligent Computing Systems 1 | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Design and Development of Basic Intelligent Computing Systems 1"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/design-and-development-basic-intelligent-computing-systems-1",
+  "slug": "design-and-development-basic-intelligent-computing-systems-1"
+}

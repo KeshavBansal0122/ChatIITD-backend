@@ -1,0 +1,22 @@
+{
+  "code": "COL3680",
+  "name": "Introduction to Computer Vision",
+  "description": "Camera models. Calibration, multi-view projective geometry. 3D structure/motion estimation. Computer vision techniques for object detection and recognition, category discovery, and image segmentation.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Computer Vision | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Computer Vision"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-computer-vision-0",
+  "slug": "introduction-computer-vision-0"
+}

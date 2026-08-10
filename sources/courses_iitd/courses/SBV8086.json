@@ -1,0 +1,22 @@
+{
+  "code": "SBV8086",
+  "name": "Chaperone and Protein Conformational Disorders",
+  "description": "Molecular mechanism of protein misfolding, fate of agrregated proteins in the cell, various protein misfolding disorders in humans, mechanism of action of molecular chaperones in various cells, chaperone assisted suppression of protein misfolding.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "SBL1100/SBL1102",
+  "overlap": null,
+  "learning_outcomes": [
+    "Chaperone and Protein Conformational Disorders | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Chaperone and Protein Conformational Disorders"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/chaperone-and-protein-conformational-disorders",
+  "slug": "chaperone-and-protein-conformational-disorders"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "AML7040",
+  "name": "Advanced Fluid Mechanics",
+  "description": "Introduction and mathematical preliminaries, kinematics, Navier Stokes equations and some standard solutions, similarity, potential flow, low reynolds number flows, vorticity dynamics, lubrication approximation, boundary layers, hydrodynamic stability, introduction to turbulence, compressible flows.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AML7040"
+}

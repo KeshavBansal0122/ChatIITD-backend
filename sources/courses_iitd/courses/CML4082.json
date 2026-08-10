@@ -1,0 +1,22 @@
+{
+  "code": "CML4082",
+  "name": "Medicinal Chemistry",
+  "description": "Basic principles of chemical biology. Structure, conformation and reactivity; chemical mechanisms of enzyme catalysis; Macromolecule synthesis, Combinatorial chemistry, bioorthogonal reactions; chemical genetics and small-molecule inhibitor screening; Pharmacokinetics, enzyme inhibition, drug design, Chemical methods to synthesize proteins and peptides, Ligand design for a medicinally relevant target, Protein-protein interactions, Ligands for protein surfaces, Small molecule arrays.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Medicinal Chemistry | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Medicinal Chemistry"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/medicinal-chemistry",
+  "slug": "medicinal-chemistry"
+}

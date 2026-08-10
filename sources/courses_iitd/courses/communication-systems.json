@@ -1,0 +1,22 @@
+{
+  "code": "ELL3401",
+  "name": "Communication Systems",
+  "description": "Review of Fourier Series and Transforms, Energy spectral density, Bandwidth. Hilbert Transforms and Bandpass Signal and System Representation. \nRandom Processes, Stationarity, Power Spectral Density, Gaussian Process, Additive white Gaussian Noise. \nAnalog communication techniques - Amplitude modulation, Angle modulation, Superheterodyne receiver, Phase-locked loop. \nAnalog to digital conversion, PCM, DPCM, Delta modulation, Line coding schemes\nDigital modulation - Geometric representation of signals, Signal constellations, PAM, QAM, Design for bandlimited channels \u2013 the Nyquist criterion, Orthogonal modulations.\nOptimal demodulation, ML and MAP decision rules, Error analysis in presence of Gaussian noise.\nIntroduction to Information Theory: concepts of Entropy and Source-Coding",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL1205",
+  "overlap": null,
+  "learning_outcomes": [
+    "Communication Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Communication Systems"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/communication-systems",
+  "slug": "communication-systems"
+}

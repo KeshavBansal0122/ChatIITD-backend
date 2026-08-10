@@ -1,0 +1,22 @@
+{
+  "code": "MSL7103",
+  "name": "Corporate Finance",
+  "description": "Capital budgeting\nRisk analysis in capital budgeting\nWorking capital management\nOperating and financial leverage\nCapital structure \u2013 foundational theories\nDesigning the optimum capital structure\nDividend policy decisions\nBusiness valuation",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Corporate Finance | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Corporate Finance"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/corporate-finance",
+  "slug": "corporate-finance"
+}

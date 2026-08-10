@@ -1,0 +1,22 @@
+{
+  "code": "TXP7401",
+  "name": "Textile Coloration and Finishing Lab",
+  "description": "Dyeing of textile fabrics and determination of time of half dyeing, activation energy, standard affinity and enthalpy, dye uptake from a binary mixture, light absorption/reflectance of dye mixtures, light reflectance from dyed fabrics (Kubelka-Munk analysis) instrumental assessment of color and color difference, functional finishing of textile using conventional and advanced techniques like plasma, layer by layer, sol gel and its evaluation.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Textile Coloration and Finishing Lab | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Textile Coloration and Finishing Lab"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/textile-coloration-and-finishing-lab",
+  "slug": "textile-coloration-and-finishing-lab"
+}

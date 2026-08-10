@@ -1,0 +1,22 @@
+{
+  "code": "BSL9252",
+  "name": "Advanced Machine Learning",
+  "description": "Advanced topics in machine learning, including Nonlinear Dimension Reduction, Maximum Entropy, Exponential Family Models, Graphical Models; Computational Learning Theory, Structured Support Vector Machines, Feature Selection, Kernel Selection, Meta-Learning, Multi-Task Learning, Semi-Supervised Learning, Reinforcement Learning, Approximate Inference, Clustering, and Boosting.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Machine Learning | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Machine Learning"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-machine-learning",
+  "slug": "advanced-machine-learning"
+}

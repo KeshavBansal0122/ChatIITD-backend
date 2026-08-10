@@ -1,0 +1,22 @@
+{
+  "code": "CHL3004",
+  "name": "Mass Transfer Operations",
+  "description": "Review of vapour-liquid equilibrium (VLE). Separation quantification: separation factor, relative volatility, key components. Flash, differential, and continuous distillation processes for binary distillation. McCabe-Thiele method - minimum reflux, minimum number of stages, open steam and efficiencies. Column sizing, sieve tray design, packed column design. Design of tray type absorption towers. Liquid liquid extraction (LLE) - equilibrium diagram, selection of solvent, design calculations for single stage, cascade of stages using Hunter and Nash graphical method. Introduction to multicomponent distillation system. Adsorption equilibrium and breakthrough curve. Drying and leaching.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL2004",
+  "overlap": null,
+  "learning_outcomes": [
+    "Mass Transfer Operations | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mass Transfer Operations"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mass-transfer-operations",
+  "slug": "mass-transfer-operations"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CTL7050",
+  "name": "Applied Machine Learning for EV Diagnostics and Prognostics",
+  "description": "EV introduction, types of failure in EV, fundamentals of EV diagnostics and prognostics, sensors, signal processing, feature engineering, fault diagnosis - classification models, prognostics and health management (PHM), importance of PHM in EVs, machine learning-based prognostic models, remaining useful life (RUL) prediction - regression models, bayesian approaches for RUL prediction, uncertainty management, sensor and model fusion, case studies on EV system and components, future trends in EV diagnostics and prognostics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CT#CTL7050"
+}

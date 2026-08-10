@@ -1,0 +1,22 @@
+{
+  "code": "MTL8251",
+  "name": "Applied Numerical Analysis",
+  "description": "Error analysis and stability of algorithms. Nonlinear equations: Newton\nRaphson method, Muller\u2019s method, criterion for acceptance of a\nroot, system of non-linear equations. Roots of polynomial equations.\nLinear system of algebraic equations : Gauss elimination method,\nLU-decomposition method; matrix inversion, iterative methods,\nill- conditioned systems. Eigenvalue problems : Jacobi, Given\u2019s and for general matrices, Power and inverse power methods. Interpolation and approximation : Newton\u2019s, Lagrange and Hermite interpolating\npolynomials, cubic splines; least square and minimax approximations.\nNumerical differentiation and integration: Newton-Cotes and Gaussian\ntype quadrature methods.\nOrdinary Differential Equations : Initial value problems: single step\nand multistep methods, stability and their convergence. Boundary\nvalue problems: Shooting and difference methods.\nPartial Differential Equations : Difference methods for solution\nof parabolic and hyperbolic equations in one and two-space\ndimensions, stability and their convergence, difference methods for\nelliptic equations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Applied Numerical Analysis | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Applied Numerical Analysis"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/applied-numerical-analysis",
+  "slug": "applied-numerical-analysis"
+}

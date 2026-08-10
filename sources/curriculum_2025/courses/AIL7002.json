@@ -1,0 +1,16 @@
+{
+  "code": "AIL7002",
+  "name": "Data Structures and Algorithms",
+  "description": "Linear (arrays, linked lists, etc.) and non-linear data structures (trees, graphs, DAGs, etc.), hashing, sorting, and searching algorithms, divide-and-conquer approaches, dynamic programming, and greedy algorithms, suffix trees and inverted indices, complexity analysis, NP-completeness, approximation algorithms, linear and integer programming.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AI",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AI#AIL7002"
+}

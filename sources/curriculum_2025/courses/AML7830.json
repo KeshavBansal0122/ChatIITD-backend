@@ -1,0 +1,16 @@
+{
+  "code": "AML7830",
+  "name": "Digital Twins",
+  "description": "Introduction to digital twins, digital twin foundation, formulating digital twin its representation, inference algorithms, learning and sequential updating, multi-fidelity and hybrid twin model, practical aspects of digital twin, case studies of digital twin for SHM and personalized treatment.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AML7830"
+}

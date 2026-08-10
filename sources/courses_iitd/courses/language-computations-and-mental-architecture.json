@@ -1,0 +1,22 @@
+{
+  "code": "HSL5065",
+  "name": "Language Computations and Mental Architecture",
+  "description": "The course starts with a central tenet of human language from the perspective of generative grammar: recursion. We discuss the definition of recursion and its correlates to biological processes. Different linguistic phenomena including reference, nominal and verb morphology etc., will be covered to understand the features of human language. We also discuss how concepts such as numerosity (for example, numerals, number), space (for example, distance, direction) and social norms (for example, politeness) are coded in human language. The course then compares human language with other communicative systems, including those of non-human primates, insects and birds. Some overarching themes that run through the course are: (i) what insights can one draw from language structure for the architecture of the mind, (ii) what are the computational processes underlying human language and (iii) how does the nature-nurture debate play out in human and non-human linguistic systems?",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": "HSL5060&HSL5061",
+  "overlap": null,
+  "learning_outcomes": [
+    "Language Computations and Mental Architecture | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Language Computations and Mental Architecture"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/language-computations-and-mental-architecture",
+  "slug": "language-computations-and-mental-architecture"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "COL2010",
+  "name": "Data Science",
+  "description": "Introduction to data science; data pre-processing: cleaning, transformation; exploratory data analysis: visualization, statistical analysis; clustering and dimensionality reduction: K-means, PCA; classification: K-NN, logistic regression, decision trees; regression analysis; neural networks basics; data modeling: schema design, ER diagrams; SQL: joins, aggregations, recursive queries; tools: python (pandas, matplotlib, scikit-learn), SQL.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Data Science | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/data-science",
+  "slug": "data-science"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "HSL7200",
+  "name": "Programming for Digital Humanities",
+  "description": "The course focuses on the basics of programming, working with textual data, using natural language processing packages for distant reading of texts, and visually representing the results. Students will learn how to mine data from the internet or from other unstructured sources, data wrangling techniques, data analysis, network analysis, spatial analysis, and visualization.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL7200"
+}

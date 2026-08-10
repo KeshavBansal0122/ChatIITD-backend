@@ -1,0 +1,22 @@
+{
+  "code": "MTL1002",
+  "name": "Mathematics II Linear Algebra and Differential Equations",
+  "description": "Systems of linear (homogeneous and non-homogeneous) equations, matrices and Gauss elimination, elementary row operations, row reduced echelon form, row space, column space, null space, and rank of a matrix. Vector spaces over Q, R, and C, subspaces, linear independence, linear span of a set of vectors, basis and dimension of a vector space, sum and direct sum. Introduction to inner product and norm (definitions and examples), linear transformation, rank-nullity theorem and its applications, matrix representation of a linear transformation, change of basis, and similarity. Eigenvalues and eigenvectors, characteristic polynomial, Cayley-Hamilton theorem (without proof) and applications. Review of first-order differential equations, existence and uniqueness of solutions of an initial value problem, Picard\u2019s theorem. Linear independence of solutions of linear differential equations, dimensionality of the space of solutions, and Wronskian. Linear ODE with constant coefficients of second and higher order, Cauchy-Euler equations, method of undetermined coefficients and method of variation of parameters. System of linear differential equations with constant coefficients, fundamental matrix, matrix methods. Taylor series method, Laplace transform and its application to solve ODE.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Mathematics II Linear Algebra and Differential Equations | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mathematics II Linear Algebra and Differential Equations"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mathematics-ii-linear-algebra-and-differential-equations",
+  "slug": "mathematics-ii-linear-algebra-and-differential-equations"
+}

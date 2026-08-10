@@ -1,0 +1,22 @@
+{
+  "code": "CVL7202",
+  "name": "Site Investigations and Foundation Design",
+  "description": "Site investigations: geophysical methods, drilling methods. Boring in soils and rocks, field tests: in-situ tests, SPT, DCPT, SCPT, in-situ vane shear test, pressure meter test, plate load test. Sampling techniques and disturbances. Shallow foundations: design considerations, codal provisions. Bearing capacity theories, layered soils, choice of shear strength parameters. Bearing capacity from field tests. Total and differential settlements. Deep foundations: types of piles. Construction methods. Axial capacity of single piles. Axial capacity of groups. Settlement of single piles and groups. Uplift capacity (including underreamed piles). Negative skin friction. Pile load tests. Pile integrity tests. Codal provisions. Caissons. Laterally loaded piles: analysis and design, foundations in difficult soil conditions.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Site Investigations and Foundation Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Site Investigations and Foundation Design"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/site-investigations-and-foundation-design",
+  "slug": "site-investigations-and-foundation-design"
+}

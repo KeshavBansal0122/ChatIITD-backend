@@ -1,0 +1,16 @@
+{
+  "code": "SPL7740",
+  "name": "Causal Inference and Impact Evaluation",
+  "description": "Correlation versus causation. Introduction to RCTs. Sampling distribution, statistical inference and hypothesis testing in RCT. Covariates in RCTs. Non-compliance in RCTs. Interference in RCTs. Attrition in RCTs. Ethical issues in RCTs. Review RCT. Discussing paper on RCT. Instrumental variables (IV). Discussing paper on IV. Difference in difference estimators (DID). Discussing paper on DID. Logistic regression. Propensity score methods (PSM). Discussing paper on PSM. Regression discontinuity design (RDD). Discussing paper on RDD. Quantile regression.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SP",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SP#SPL7740"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "AML7600",
+  "name": "Continuum Mechanics",
+  "description": "Concept of continuum, kinematics of deformation, concept of stress and strain tensor \u2013 their transformation and decomposition, finite strain tensor and its linearization with examples, rate of deformation tensor \u2013 velocity gradient and spin tensor, derivation of conservation laws \u2013 mass continuity, linear and angular momentum conservation, derivation of linear equations of elasticity and Navier Stokes equations in both cartesian and polar co-ordinates, principle of minimum potential energy, virtual work theorem, uniqueness and reciprocal theorem, constitutive laws for linearly elastic solids and newtonian viscous fluids, incompressible case, applications in solid and fluid mechanics problems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AML7600"
+}

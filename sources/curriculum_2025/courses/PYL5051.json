@@ -1,0 +1,16 @@
+{
+  "code": "PYL5051",
+  "name": "Classical Mechanics",
+  "description": "Variational principles, Fermat's principle of least time, calculus of variations, Lagrangian mechanics, constraints and generalized, coordinates, symmetries, Noether's theorem, Legendre transformation and Hamilton's equations, phase space, canonical transformations, Poisson brackets, Liouville's theorem, Hamilton-Jacobi equation,. Central forces, two-body problem. Rotating frames, oscillations and coupled oscillators, introduction to relativity.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL5051"
+}

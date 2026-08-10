@@ -1,0 +1,22 @@
+{
+  "code": "CHL2002",
+  "name": "Chemical Engineering Thermodynamics",
+  "description": "Review of conservation of energy, mass and introduction to work-energy conversions, and the concept of entropy. Application of laws of thermodynamics for estimation of pure species properties and process calculations for open and closed systems. Use of equations of states, graphs, correlations and tables to estimate fluid properties. Phase behaviour of pure fluids and its connection to molecular interactions. Thermodynamic analysis of fluids in standard fixtures and equipment and application to design of cyclic processes (power plants, engines, refrigerators). Application of fundamental property relationships of solution thermodynamics to diverse problems, including, property calculation of mixtures, phase and reaction equilibria, and process calculations. Case studies involving thermodynamics-based design problems, with a particular focus on material selection and process/system design with explicit consideration for energy, exergy, environment, and economic analysis.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Chemical Engineering Thermodynamics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Chemical Engineering Thermodynamics"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/chemical-engineering-thermodynamics",
+  "slug": "chemical-engineering-thermodynamics"
+}

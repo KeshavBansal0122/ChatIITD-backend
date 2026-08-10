@@ -1,0 +1,22 @@
+{
+  "code": "ELL2201",
+  "name": "Optimization and Machine Learning",
+  "description": "This course introduces optimization techniques and their applications in machine learning. Topics include convex analysis, gradient-based methods, constrained optimization, duality, and regularization. The course covers foundational learning theory such as bias-variance tradeoff, VC dimension, generalization bounds, and PAC learning, alongside practical methods including neural networks, deep architectures, kernel methods, and dimensionality reduction. Students gain both theoretical insights and hands-on exposure to modern machine learning models and current trends.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Optimization and Machine Learning | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Optimization and Machine Learning"
+  ],
+  "department": "Machine Learning and Optimization",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/optimization-and-machine-learning",
+  "slug": "optimization-and-machine-learning"
+}

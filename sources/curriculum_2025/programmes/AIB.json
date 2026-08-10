@@ -1,0 +1,611 @@
+{
+  "code": "AIB",
+  "name": "M.Tech. in Machine Intelligence and Data Science",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=AIB",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 28.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Apply advanced knowledge in Artificial Intelligence (AI), Machine Learning (ML), and Data Science (DS) in their professional careers or pursue further academic research and learning opportunities."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Effectively synthesize and communicate ideas related to AI/ML/DS and apply them in different practical and industrial applications."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "AID7098",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AID7099",
+        "title": "Summer Internship or Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AID8091",
+        "title": "MTech Project Part I",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "12"
+        },
+        "credits": "6"
+      },
+      {
+        "course_code": "AIL7001",
+        "title": "Mathematical Foundations of MINDS",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AIL7024",
+        "title": "Machine Learning",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AIL7025",
+        "title": "Introduction to Artificial Intelligence",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AIL7026",
+        "title": "Data Mining",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AIN7091",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AIV7090",
+        "title": "Ethical Considerations in MINDS",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "COL7333",
+        "title": "Introduction to Artificial Intelligence",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7341",
+        "title": "Fundamentals of Machine Learning",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7361",
+        "title": "Data Mining",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AIL7002",
+        "title": "Data Structures and Algorithms",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AIL7014",
+        "title": "Introduction to Optimization",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AIL7021",
+        "title": "Deep Learning",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AIL7022",
+        "title": "Reinforcement Learning",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AIL7023",
+        "title": "Graph Machine Learning",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AIL7031",
+        "title": "Deep Learning for Computer Vision",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AIL7061",
+        "title": "Computational Cognition",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AIL8022",
+        "title": "Special Topics in Machine Learning II",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AIL8027",
+        "title": "Advanced Reinforcement Learning",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AML7800",
+        "title": "Deep Learning for Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AML7810",
+        "title": "Probabilistic Machine Learning for Mechanics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7333",
+        "title": "Introduction to Artificial Intelligence",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7364",
+        "title": "Information Retrieval and Web Search",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7372",
+        "title": "Natural Language Processing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7375",
+        "title": "Deep Learning",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7386",
+        "title": "Advanced Functional Brain Imaging",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7680",
+        "title": "Introduction to Computer Vision",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL8381",
+        "title": "Special Topics in Artificial Intelligence",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8383",
+        "title": "Special Topics in Natural Language Processing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8385",
+        "title": "Special Topics in Machine Learning I",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8386",
+        "title": "Special Topics in Machine Learning II",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8387",
+        "title": "Special Topics in Machine Learning III",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8395",
+        "title": "Special Topics in Data Management I",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL8628",
+        "title": "Advanced Computer Vision",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ELL7281",
+        "title": "Software Fundamentals of Computing and Intelligent Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7285",
+        "title": "Machine Learning and Optimization",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7293",
+        "title": "Computer Vision",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7400",
+        "title": "Signal Theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7402",
+        "title": "Detection and Estimation Theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL8284",
+        "title": "Natural Language Processing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL8290",
+        "title": "Computational Neuroscience",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL8299",
+        "title": "Large Language Models",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "MTL7717",
+        "title": "Fuzzy Sets and Applications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "MTL7763",
+        "title": "Introduction to Game Theory",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "AIL7001",
+        "title": "Mathematical Foundations of MINDS",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "AIL7024",
+        "title": "Machine Learning",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "AIL7025",
+        "title": "Introduction to Artificial Intelligence",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "AIN7091",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "AID7098",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "AIL7026",
+        "title": "Data Mining",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "AIV7090",
+        "title": "Ethical Considerations in MINDS",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "AIN7091",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "AID8091",
+        "title": "MTech Project Part I",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 12.0
+        },
+        "credits": 6.0
+      },
+      {
+        "course_code": "AIN7091",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "AIN7091",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "AIB \u2013 M.Tech. in Machine Intelligence and Data Science\nM.Tech. in Machine Intelligence and Data Science\nArtificial Intelligence, Yardi School of\nProgramme Code: AIB\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n28\nPE (Programme Elective)\n27\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n61\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nApply advanced knowledge in Artificial Intelligence (AI), Machine Learning (ML), and Data Science (DS) in their professional careers or pursue further academic research and learning opportunities.\nPLO 2\nEffectively synthesize and communicate ideas related to AI/ML/DS and apply them in different practical and industrial applications.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nAID7098 Cornerstone Project 0 0 6 3\nAID7099 Summer Internship or Minor Project 0 0 6 3\nAID8091 MTech Project Part I 0 0 12 6\nAIL7001 Mathematical Foundations of MINDS 3 0 0 3\nAIL7024 Machine Learning 3 0 2 4\nAIL7025 Introduction to Artificial Intelligence 3 0 2 4\nAIL7026 Data Mining 3 0 2 4\nAIN7091 Teaching/Research Practicum 0 0 8 4\nAIV7090 Ethical Considerations in MINDS 1 0 0 1\nCOL7333 Introduction to Artificial Intelligence 3 0 2 4\nCOL7341 Fundamentals of Machine Learning 3 0 2 4\nCOL7361 Data Mining 3 0 2 4\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nAIL7002 Data Structures and Algorithms 3 0 2 4\nAIL7014 Introduction to Optimization 3 0 0 3\nAIL7021 Deep Learning 3 0 2 4\nAIL7022 Reinforcement Learning 3 0 2 4\nAIL7023 Graph Machine Learning 3 0 2 4\nAIL7031 Deep Learning for Computer Vision 3 0 2 4\nAIL7061 Computational Cognition 3 0 0 3\nAIL8022 Special Topics in Machine Learning II 3 0 0 3\nAIL8027 Advanced Reinforcement Learning 3 0 2 4\nAML7800 Deep Learning for Mechanics 3 0 2 4\nAML7810 Probabilistic Machine Learning for Mechanics 3 0 2 4\nCOL7333 Introduction to Artificial Intelligence 3 0 2 4\nCOL7364 Information Retrieval and Web Search 3 0 2 4\nCOL7372 Natural Language Processing 3 0 2 4\nCOL7375 Deep Learning 3 0 2 4\nCOL7386 Advanced Functional Brain Imaging 3 0 2 4\nCOL7680 Introduction to Computer Vision 3 0 2 4\nCOL8381 Special Topics in Artificial Intelligence 3 0 0 3\nCOL8383 Special Topics in Natural Language Processing 3 0 0 3\nCOL8385 Special Topics in Machine Learning I 3 0 0 3\nCOL8386 Special Topics in Machine Learning II 3 0 0 3\nCOL8387 Special Topics in Machine Learning III 3 0 0 3\nCOL8395 Special Topics in Data Management I 3 0 0 3\nCOL8628 Advanced Computer Vision 3 0 2 4\nELL7281 Software Fundamentals of Computing and Intelligent Systems 3 0 0 3\nELL7285 Machine Learning and Optimization 3 0 0 3\nELL7293 Computer Vision 3 0 0 3\nELL7400 Signal Theory 3 0 0 3\nELL7402 Detection and Estimation Theory 3 0 0 3\nELL8284 Natural Language Processing 3 0 0 3"
+}

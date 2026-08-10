@@ -1,0 +1,16 @@
+{
+  "code": "MEL7428",
+  "name": "Combustion Kinetics",
+  "description": "Molecular composition of fuels, processes to make bio-fuels, thermodynamics of combustion, intermolecular potentials, chemical kinetics, third body reactions, pressure and temperature dependence of reaction rates, collision theory, reaction mechanisms, radical chain reactions, rate limiting reactions, steady state and partial equilibrium assumptions; mechanism reduction using sensitivity and reaction flow analysis, combustion chemistry of hydrogen, explosion diagram, combustion chemistry of carbon monoxide, methane and ethane, cool flames, reaction classes for hydrocarbon combustion, basics of unsaturated hydrocarbon combustion, resonance stabilized radicals, benzene formation, polycyclic aromatic hydrocarbon chemistry; soot formation, NOx formation, thermal/prompt/fuel NOx mechanisms, introduction to surrogate formulation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL7428"
+}

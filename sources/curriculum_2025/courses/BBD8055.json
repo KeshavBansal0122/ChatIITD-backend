@@ -1,0 +1,16 @@
+{
+  "code": "BBD8055",
+  "name": "M.Tech Project Part-I",
+  "description": "Literature survey, formulation of the problem, planning and execution of the project work within the stipulated time frame, analysis and interpretation of the obtained data, writing technical report, and presentation of the results.",
+  "credits": 6.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 12.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BB#BBD8055"
+}

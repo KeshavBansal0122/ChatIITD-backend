@@ -1,0 +1,22 @@
+{
+  "code": "OPP7010",
+  "name": "Photonics Laboratory - 1",
+  "description": "Experiments in wave-optics, polarisation, device characterisation, optical coherence measurement, lasers and spectrometers, optical cavity design and alignment and optical waveguides.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Photonics Laboratory - 1 | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Photonics Laboratory - 1"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/photonics-laboratory-1",
+  "slug": "photonics-laboratory-1"
+}

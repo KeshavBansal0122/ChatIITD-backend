@@ -1,0 +1,22 @@
+{
+  "code": "MEL2003",
+  "name": "Mechanical Engineering Design and Drawing",
+  "description": "Introduction to generation of drawings as a design process for machine assembly. Use of datum planes to locate features and machine elements uniquely in assemblies. \nSectioning, dimensioning, notes and version control in drawings. Standardized representation of threads, fasteners, welds, bearings, springs and related components. \nIntroduction to limits, fits and tolerances, dimensional and geometric tolerances, surface finish symbols. \nGeneration of assembly drawings including sectioning and bill of materials. \nEvolving details of components from assembly considerations. Detailing of components involving shafts, bearing, pulleys, gears, belts, brackets for assembly. \nSolid modeling of above assembly and incorporating assembly constraints for animation of motion of machine assemblies.\nIntroduction to design processes and methodologies. Component design using constraints, degree of freedom;\nConcept of design based on strength, factor of safety, allowable stresses; Design of simple elements like bar, beam and shaft, considering uniaxial stresses due to axial loading, torsion and, bending and their application to simple machine components like cotter joint, knuckle joint, flange coupling, keys, etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Mechanical Engineering Design and Drawing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mechanical Engineering Design and Drawing"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mechanical-engineering-design-and-drawing",
+  "slug": "mechanical-engineering-design-and-drawing"
+}

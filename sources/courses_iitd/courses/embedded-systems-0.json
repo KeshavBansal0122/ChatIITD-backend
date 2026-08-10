@@ -1,0 +1,22 @@
+{
+  "code": "ELL3403",
+  "name": "Embedded Systems",
+  "description": "The course covers the fundamentals of embedded systems, including microcontrollers, ARM architectures, hardware\u2013software co-design, and firmware development. Topics include system architecture (processors, memory, I/O, power), debugging tools, and interfacing with sensors, actuators, and communication protocols such as UART, SPI, I2C, CAN, Bluetooth, and Wi-Fi. Students also learn digital signal processing on embedded platforms, real-time operating systems (RTOS), and emerging trends in edge intelligence, IoT analytics, and security for edge devices.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL1401",
+  "overlap": null,
+  "learning_outcomes": [
+    "Embedded Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Embedded Systems"
+  ],
+  "department": "Embedded Systems",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/embedded-systems-0",
+  "slug": "embedded-systems-0"
+}

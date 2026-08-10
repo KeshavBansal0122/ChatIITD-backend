@@ -1,0 +1,22 @@
+{
+  "code": "ELL7604",
+  "name": "Advanced Distribution System Analysis",
+  "description": "Introduction to distribution systems - typical components and topology, differences and similarity with transmission system, operational role in larger power grid; electric loads - load allocation across a feeder and related metrics, static ZIP load modeling, three-phase inductor machine load modeling; unbalanced distribution line segment modeling - series impedance of lines, shunt admittance of lines, effect of ground, ABCD modeling of line segment; voltage regulation - 3-phase voltage regulators modeling, feeder voltage regulation; 3-phase transformers modeling, load tap changers; Unabalcned 3-phase distribution system power flow - forward-backward sweep and other advanced power flow methods; introduction of software tools to simulate and solve distribution system; special topics relevant to modern distribution systems such as renewable integration, microgrids, protection and cyber-security, planning aspects of distribution systems, basic reliability metrics, introduction and impact of distributed energy resources (DERs) as solar rooftop PV, electric vehicles etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(ELL7600/ELL2600)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Distribution System Analysis | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Distribution System Analysis"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-distribution-system-analysis",
+  "slug": "advanced-distribution-system-analysis"
+}

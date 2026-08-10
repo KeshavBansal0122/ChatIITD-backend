@@ -1,0 +1,22 @@
+{
+  "code": "MEL2024",
+  "name": "Thermal Science for Manufacturing",
+  "description": "Overview and the importance of the knowledge of thermal science in manufacturing processes. Basics of thermodynamics: closed and open systems, work and heat. First law of thermodynamics for control mass and control volume. Second law of thermodynamics. Irreversibility and its examples in manufacturing. Importance of heat transfer and various modes. Heat diffusion: one-dimensional steady and unsteady. Convective heat and mass transfer: concept of momentum, thermal and concentration boundary layers; analogy of momentum, energy and mass diffusion; relevant correlations. Radiation heat transfer. Blackbody radiation. Gray and diffuse surfaces. Surface radiation. Case studies of manufacturing processes involving application of the above concepts.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Thermal Science for Manufacturing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Thermal Science for Manufacturing"
+  ],
+  "department": "Thermodynamics",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/thermal-science-manufacturing",
+  "slug": "thermal-science-manufacturing"
+}

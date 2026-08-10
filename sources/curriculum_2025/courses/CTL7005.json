@@ -1,0 +1,16 @@
+{
+  "code": "CTL7005",
+  "name": "Engineering of Electric Vehicles",
+  "description": "Introduction to types and working mechanisms of electric vehicles, components of electric vehicles, chassis /battery/charger/etc., standard materials and its properties for components used in electric vehicles, frame and chassis of electric vehicles, battery components and its design parameters, battery manufacturing methods, applications and operation of batteries in electric vehicles, hybrid vehicles: their design principles, types and architectures, suspension systems, braking systems in EVs, planetary gears, clutches, differentials, all-wheel drive regenerative braking mechanisms, brake strategies (series and parallel), braking torque distribution principle, electro-mechanical hybrid braking system, braking force mathematical model, fuel cell vehicles and automated drive assist systems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CT#CTL7005"
+}

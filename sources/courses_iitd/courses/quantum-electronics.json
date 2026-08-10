@@ -1,0 +1,22 @@
+{
+  "code": "ELL7345",
+  "name": "Quantum Electronics",
+  "description": "Blackbody radiation, photoelectric effect, wave-particle duality, basic postulates of QM, wavefunctions, probability interpretation; Schr\u00f6dinger equation (time-independent), linear operators, eigenvalues, eigenfunctions, expectation values, uncertainty principle, density matrix formalism; two-level systems as qubits, superposition and measurement, Bloch sphere, pure and mixed states, density matrix representation of qubits; quantum logic gates (X, Y, Z, H, CNOT), quantum circuit models, gate operations (single and two-qubit), universal gate sets, introduction to quantum algorithms; Qubit platforms (photonic, superconducting, trapped ions, semiconductor quantum dots), emission of quantum light, indistinguishability, photon entanglement, telecom-wavelength sources; BB84 and BBM92 protocols, quantum teleportation, entanglement swapping, basic introduction to QKD hardware; Rabi oscillations, Ramsey fringes, pulse sequences (\u03c0, \u03c0/2), state readout techniques, decoherence and noise in qubit systems (T1, T2 times); Coulomb blockade, single electron transistors (SETs), quantum dots for qubit control, charge sensing, spin qubits, readout and gating; fault-tolerant quantum computing, error correction basics, current quantum processor architectures, emerging semiconductor quantum systems, Indian and global research landscape.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "()",
+  "overlap": null,
+  "learning_outcomes": [
+    "Quantum Electronics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Quantum Electronics"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/quantum-electronics",
+  "slug": "quantum-electronics"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "PYN7002",
+  "name": "Teaching/Research Practicum",
+  "description": "Students are expected to support teaching activities by preparing course materials, assisting in classroom management and examinations, and facilitating student engagement. Their responsibilities may also include helping with practical sessions, tutorials, class projects (as applicable to the course), and performing other administrative duties related to the course and the department. Students are expected to attend industry seminar and academic seminar on the theme of applied optics and quantum photonics.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYN7002"
+}

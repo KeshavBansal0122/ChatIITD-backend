@@ -1,0 +1,22 @@
+{
+  "code": "OPL7711",
+  "name": "Laser Science and Technology",
+  "description": "This course introduces laser principles, covering spontaneous and stimulated emission, absorption, line broadening, population inversion, and optical cavities. It explores longitudinal and transverse modes, stability, and pumping schemes, including three- and four-level lasers, CW and pulsed lasers, Q-switching, and mode-locking. The quantum theory section covers basic quantum mechanics, ket space, matrix representations, observables, uncertainty relations, wave functions, and the Schrodinger equation. It also addresses the interaction of radiation with matter, field quantization, coherent and squeezed states, transition rates, beam splitters, and laser coherence properties. To connect foundational principles to real-world innovations, the course will include discussions on recent trends in laser technologies such as fiber lasers, ultrafast systems, laser-based sensing in autonomous systems, and applications in quantum technologies and biophotonics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Laser Science and Technology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Laser Science and Technology"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/laser-science-and-technology",
+  "slug": "laser-science-and-technology"
+}

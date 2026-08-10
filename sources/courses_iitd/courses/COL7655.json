@@ -1,0 +1,22 @@
+{
+  "code": "COL7655",
+  "name": "Foundations of Visual Computing",
+  "description": "Introduction to images; image understanding, image processing, and image generation; sampling and representation; visual perception; image reconstruction; image filters and features; 3D space and transformations; camera models; tracking and pose estimation; lighting and shading; introduction to AR/VR; data visualization and communicating with images.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Foundations of Visual Computing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Foundations of Visual Computing"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/foundations-visual-computing-0",
+  "slug": "foundations-visual-computing-0"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CRL7021",
+  "name": "CMOS Analog Circuit Design",
+  "description": "Introduction to CMOS Analog design 2. CMOS device physics and models 3. Fundamental Analog building blocks 4. Operational amplifiers (op-amps) 5. Feedback and stability 6. Noise in CMOS Analog circuits 7. Voltage references and biasing techniques 8. Analog filters and frequency response 9. Data conversion circuits 10. Layout design and practical considerations 11. Tools and applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "CMOS Analog Circuit Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "CMOS Analog Circuit Design"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/cmos-analog-circuit-design",
+  "slug": "cmos-analog-circuit-design"
+}

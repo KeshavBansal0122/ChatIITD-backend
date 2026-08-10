@@ -1,0 +1,22 @@
+{
+  "code": "PYL7172",
+  "name": "Extragalactic Astronomy and Cosmology",
+  "description": "Olbers\u2019 paradox, Hubble law, FLRW metric, cosmological parameters, age of universe, baryogenesis, primordial nucleosynthesis, recombination, cosmic microwave background, inflation, reheating, primordial density power spectrum, CMB power spectrum, dark energy, dark matter, Hubble tuning fork, spiral/elliptical galaxies, clusters, SZ effect, cosmological distance ladder, large-scale structure, BAO, source counts, cold dark matter, population synthesis, redshifts, luminosity functions, Submm galaxies, star formation rates, cosmic star formation history, feedback, active galactic nuclei, quasars, synchrotron radiation, Eddington limit, black hole demographics, merging black holes, gravitational waves, gravitational lensing, time delays, microlensing, cosmic shear, Lyman alpha forest, damped Lyman-alpha systems, reionization, Gunn\u2013Peterson test, fast radio bursts.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "PYL7171",
+  "overlap": null,
+  "learning_outcomes": [
+    "Extragalactic Astronomy and Cosmology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Extragalactic Astronomy and Cosmology"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/extragalactic-astronomy-and-cosmology",
+  "slug": "extragalactic-astronomy-and-cosmology"
+}

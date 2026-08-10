@@ -1,0 +1,22 @@
+{
+  "code": "CVP3601",
+  "name": "Highway Materials Laboratory",
+  "description": "Introduction to material behavior; characterization of materials used in pavement construction: soil, aggregate, bitumen, asphalt concrete",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "CVP2601",
+  "overlap": null,
+  "learning_outcomes": [
+    "Highway Materials Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Highway Materials Laboratory"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/highway-materials-laboratory",
+  "slug": "highway-materials-laboratory"
+}

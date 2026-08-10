@@ -1,0 +1,22 @@
+{
+  "code": "BBL7037",
+  "name": "Instrumentation and Analytical Methods in Bioengineering",
+  "description": "Advanced microscopy techniques (fluorescence microscopy), spectrofluorimeter, real-time PCR, 2-D gel electrophoresis, genomic analyses, gas chromatography with FID and TCD, Dionex HPLC with ECD and CD, HPLC and FPLC, protein chromatography, elemental analyzer, microfluidic chip fabrication, microfluidic programming and set-up.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Instrumentation and Analytical Methods in Bioengineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Instrumentation and Analytical Methods in Bioengineering"
+  ],
+  "department": "Biochemical Engineering and Biotechnology, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/instrumentation-and-analytical-methods-bioengineering",
+  "slug": "instrumentation-and-analytical-methods-bioengineering"
+}

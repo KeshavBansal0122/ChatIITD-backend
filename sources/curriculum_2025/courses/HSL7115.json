@@ -1,0 +1,16 @@
+{
+  "code": "HSL7115",
+  "name": "Time Series Econometrics and Forecasting",
+  "description": "This course will cover time series econometrics and forecasting, with focus on applications in macroeconomics and international finance. It introduces students to time series regression models, its estimation, inference and forecasting. The objective of the course is for students to get hands-on experience with analyzing economic time series data. Accordingly, the emphasis of the course is on empirical applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL7115"
+}

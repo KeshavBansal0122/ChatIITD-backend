@@ -1,0 +1,16 @@
+{
+  "code": "CVN7591",
+  "name": "Teaching/Research Practicum for M.Tech. in Transportation Engineering",
+  "description": "The students are expected to assist in research and teaching-related activities, including the preparation of course materials, conducting practicals in laboratories, conducting tutorials and class projects, managing class activities, invigilating in examinations, and grading assignments.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVN7591"
+}

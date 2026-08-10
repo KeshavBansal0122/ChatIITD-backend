@@ -1,0 +1,16 @@
+{
+  "code": "CVP8201",
+  "name": "Geoenvironmental and Geotechnical Engineering Lab",
+  "description": "Engineering properties and compaction characteristics of waste materials such as coal ash and mine tailings. Permeability testing of clays and bentonite-amended soils. Physical, mechanical, and hydraulic testing of geosynthetics. Landfill liner and cover: evaluation of shear strength parameters of various interfaces and design considerations. Project-based evaluation of engineering properties of soils for embankment design. Demonstration of direct push technology for geoenvironmental subsurface sampling and characterization.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVP8201"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ESL7352",
+  "name": "Emerging Materials for Next Generation Photovoltaic Applications",
+  "description": "Wide range of non-conventional emerging materials for next generation photovoltaic b applications will be discussed in details. In the first part, fundamental photo-physics of different materials such as organic, inorganic and hydride semiconductors, comparison of their specific optical and electrical properties and basic characterisations for solar cells will be introduced. The second part will be dedicated for new emerging materials such as, Organic semiconductors, hybrid perovskite, metal chalcogenides and ferroelectrics for PV application. Their fundamental properties, technologies and device applications will be discussed in details. In the next part, carbon based nano-materials and quantum dot based highly efficient devices will be discussed. In the last part various technologies and material processing for the production of low-cost Si cell and their recycling processes will be emphasized.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Emerging Materials for Next Generation Photovoltaic Applications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Emerging Materials for Next Generation Photovoltaic Applications"
+  ],
+  "department": "Solar Photovoltaic Devices and Systems",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/emerging-materials-next-generation-photovoltaic-applications",
+  "slug": "emerging-materials-next-generation-photovoltaic-applications"
+}

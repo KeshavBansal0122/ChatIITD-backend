@@ -1,0 +1,22 @@
+{
+  "code": "CRD9001",
+  "name": "Cornerstone Project",
+  "description": "Introduction to engineering problem-solving and design thinking\nOverview of VLSI, AI/ML, and semiconductor system workflows\nBasics of digital design, signal processing, and ML concepts used in the program\nHands-on exposure to essential tools (HDL simulators, Python/ML frameworks, EDA basics)\nProblem definition, requirement analysis, and constraint identification\nStructured mini-project selection and scope planning\nStep-by-step system design and implementation guidance\nBasics of testing, validation, and performance evaluation\nTechnical documentation, version control, and reporting practices\nProject presentation, peer review, and reflective learning outcomes",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Cornerstone Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Cornerstone Project"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/cornerstone-project-27",
+  "slug": "cornerstone-project-27"
+}

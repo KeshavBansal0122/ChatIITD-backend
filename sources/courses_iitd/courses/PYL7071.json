@@ -1,0 +1,21 @@
+{
+  "code": "PYL7071",
+  "name": "Green Photonics",
+  "description": "Need for green photonics, overview of solid-state lighting technologies and their advantages. Inorganic and organic LEDs: fundamentals, device physics, diode structures and operating principles. Materials for LEDs, OLEDs and PLEDs: phosphor materials and their characterisation. LEDs and OLED fabrication, encapsulation and packaging techniques. Electro-optical properties of LEDs and OLEDs; photometry and colorimetry of LEDs and OLEDs. Free-form optics and design of LEDs and OLEDs based illumination systems: general lighting, traffic lights, automotive, streat and flood lighting, and backlights for displays. Laser based solid state lighting devices, methods of generating sun like full spectrum white light using lasers and phosphor combinations. Light emiting quantum dots and their synthesis and properties. Sunlight harvesting technologies, non-imaging solar concentrators and illuminators: parabolic and Fresnel lens, diffractive, microoptics and free-form optics for lighting and illumination engineering of day light saving, light guiding devices and diffuse lighting materials and devices. Solar photovoltaics: inorganic, organic and polymeric solar cells: principles, technology and applications. Role of solar concentrators.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Green Photonics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/green-photonics",
+  "slug": "green-photonics"
+}

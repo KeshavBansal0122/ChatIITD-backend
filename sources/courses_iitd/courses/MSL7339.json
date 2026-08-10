@@ -1,0 +1,22 @@
+{
+  "code": "MSL7339",
+  "name": "Healthcare Analytics and its Business Applications",
+  "description": "Healthcare is one of the fastest-growing industries worldwide and is one of the biggest industries in India in terms of revenue and employment generation. In India, healthcare systems face challenges like, availability, accessibility, affordability, quality, and adoption. The last decade has also witnessed an increase in digitalization in the healthcare segment. Various healthcare centres are using emerging technologies like Internet of Things (IoT), Robotics, and Artificial Intelligence (AI) to solve issues like, managing demand and supply, resource allocation, detecting frauds, enhancing security, and detecting counterfeit drugs.\nBecause of this digitalization, a large amount of data is getting generated from the various healthcare devices and if analysed properly can help in improving detection and treatment of several diseases. AI and machine learning (ML) techniques will thus help to transform evidence-based care to precision care. In addition to this, proper analysis of healthcare data can also help in resource management, and can improve overall operations. This course will help in developing skills in the healthcare analytics area using no-code tools. The students will also benefit from the sessions by healthcare/industry professionals who have a lot of experience in the Healthcare Analytics domain.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Healthcare Analytics and its Business Applications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Healthcare Analytics and its Business Applications"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/healthcare-analytics-and-its-business-applications",
+  "slug": "healthcare-analytics-and-its-business-applications"
+}

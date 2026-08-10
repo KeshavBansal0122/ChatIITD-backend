@@ -1,0 +1,22 @@
+{
+  "code": "ELP7411",
+  "name": "Wireless Communications Laboratory",
+  "description": "Path loss exponent (PLE) and Fraunhofer distance\na. Obtain PLE values corresponding to different frequencies\nb. Obtain Fraunhofer distance value corresponding to different frequencies\nc. Observe the trend of PLE before and after Fraunhofer distance\nd. Study shadowing effect\nChannel fading countermeasures by diversity schemes\na. Realize transmit and receive space diversity using 2x1 configuration on SDR\nb. Realize frequency diversity: Selection combining, switch and stay combining\nImplementation of Adaptive Modulation and Coding (AMC) using SDR\na. Estimate the channel quality\nb. Assign the modulation (QAM) depending on the location of the receiver from the transmitter to satisfy quality-of-service in terms of bit error rate\nc. Compare the performance of adaptive modulation scheme with non-adaptive modulation scheme (demonstrate the benefits of adaptive over non-adaptive)\nOFDM implementation using SDR\na. Design the OFDM transmitter and receiver module on SDR\nb. Vary FFT size and observe its effect on \n i. Peak-to-Average-Power Ratio (PAPR)\n ii. Frequency selectivity of the channel\nc. Study the effect of cyclic prefix on intersymbol interference mitigation\nInterference mitigation with Spread Spectrum techniques using SDR\na. Design SDR transmitter and receiver module for different Spread Spectrum techniques (DSSS, FHSS)\nb. Use one SDR as a jammer and use spreading techniques at the transmitter and the receiver to overcome interference created by the jammer\nMini-project (compulsory):\nExperimenting with open (ORAN equivalent) end-to-end communication systems for cross-disciplinary use-cases to do with eMBB, URLLC, and mMTC",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 1.0,
+    "practical": 4.0
+  },
+  "prereq": "ELL7401",
+  "overlap": null,
+  "learning_outcomes": [
+    "Wireless Communications Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Wireless Communications Laboratory"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/wireless-communications-laboratory",
+  "slug": "wireless-communications-laboratory"
+}

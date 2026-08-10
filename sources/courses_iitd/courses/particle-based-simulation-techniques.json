@@ -1,0 +1,22 @@
+{
+  "code": "CHL7209",
+  "name": "Particle Based Simulation Techniques",
+  "description": "Introduction to particle-based simulations in chemical engineering. Fundamentals of molecular dynamics simulations (MD). Coarse-graining, soft matter systems, and hydrodynamic interactions. Mesoscale methods with hydrodynamic interactions. Dissipative particle dynamics. Discrete element method (DEM) for granular systems. Fluid-particle coupling (CFD-DEM). Monte Carlo methods for statistical mechanics, smoothed particle hydrodynamics (SPH). Emerging techniques for fluid-particle simulations. Case study as an application to particle-based simulations in process and chemical industries.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL3003&CHL2001",
+  "overlap": null,
+  "learning_outcomes": [
+    "Particle Based Simulation Techniques | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Particle Based Simulation Techniques"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/particle-based-simulation-techniques",
+  "slug": "particle-based-simulation-techniques"
+}

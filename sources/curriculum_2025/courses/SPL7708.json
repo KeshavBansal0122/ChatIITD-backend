@@ -1,0 +1,16 @@
+{
+  "code": "SPL7708",
+  "name": "Statistics for Public Policy",
+  "description": "Ordinary least squares; bivariate linear regression model; multivariate regression model (Gauss Markov theorem, inference and prediction, irrelevant variables); interpretation of coefficients and hypotheses testing; real world issues (multicollinearity, heteroskedasticity, endogeneity bias, measurement error); correlation versus causation; panel data.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SP",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SP#SPL7708"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MTL7778",
+  "name": "Bayesian Statistics and Modelling",
+  "description": "Bayes\u2019 theorem, prior and posterior distributions, conjugate priors, Bayesian decision theory, loss functions, posterior predictive distributions, maximum a posteriori estimation, Markov Chain Monte Carlo (MCMC), Gibbs sampling, Metropolis-Hastings algorithm, Bayesian model comparison (Bayes factors, DIC, WAIC), generalized linear models in Bayesian framework, hierarchical Bayesian models, empirical Bayes methods, nonparametric Bayesian methods (e.g., Dirichlet process), Bayesian regression, Bayesian classification, model diagnostics and convergence, prior sensitivity analysis, real-world applications in science and engineering, and case studies using Bayesian data analysis tools in R.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "MTL3190/AIL7051/HSL5013/MEL7102/MTL5011/ESL3172",
+  "overlap": null,
+  "learning_outcomes": [
+    "Bayesian Statistics and Modelling | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Bayesian Statistics and Modelling"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/bayesian-statistics-and-modelling",
+  "slug": "bayesian-statistics-and-modelling"
+}

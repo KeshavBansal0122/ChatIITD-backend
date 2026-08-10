@@ -1,0 +1,22 @@
+{
+  "code": "BMV7030",
+  "name": "Basic Biology and Physiology",
+  "description": "Course contents cover the basics of biology, molecular and cellular biology, prokaryotic structures, human anatomy and physiology.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Basic Biology and Physiology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Basic Biology and Physiology"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/basic-biology-and-physiology",
+  "slug": "basic-biology-and-physiology"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "AML7300",
+  "name": "Contact Mechanics",
+  "description": "Kinematics and forces at a point contact, Line loading of elastic half-space, Point loading of elastic half-space, Hertzian contact, Non-Hertzian contact, Tangential loading, Frictional contact, Rolling contact of elastic bodies, Contact of rough surfaces, Indentation, Numerical Methods",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "AML3010/AML7030/MEL7201",
+  "overlap": null,
+  "learning_outcomes": [
+    "Contact Mechanics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Contact Mechanics"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/contact-mechanics",
+  "slug": "contact-mechanics"
+}

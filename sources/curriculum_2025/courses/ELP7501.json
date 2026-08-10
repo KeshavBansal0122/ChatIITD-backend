@@ -1,0 +1,16 @@
+{
+  "code": "ELP7501",
+  "name": "Advanced Power Electronics Laboratory",
+  "description": "Single phase uncontrolled rectifier implementation with capacitive load, PWM signal generation using analogue circuits, implementation of low-side and high-side gate driver, implementation of half bridges in a buck/boost converter, switching loss characterization using double pulse test, design and implementation of inductor and its testing, implementation of buck/boost converter and testing of performance in buck and boost mode in CCM, testing of buck/boost converter in DCM, comparison of efficiencies in CCM and DCM, modification of buck/boost converters into single-phase full-bridge inverter and testing of its operation with RL load.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELP7501"
+}

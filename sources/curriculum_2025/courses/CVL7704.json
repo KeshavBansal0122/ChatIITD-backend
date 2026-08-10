@@ -1,0 +1,16 @@
+{
+  "code": "CVL7704",
+  "name": "Solid Waste Engineering and Management",
+  "description": "Different types of solid waste: origin, analysis, composition and characterization. Integrated solid waste management system. Municipal solid wWaste (MSW): collection, storage, segregation, reuse and recycling possibilities, transportation, treatment and processing techniques and final disposal. Management of: biomedical, radioactive, electronic, plastic, construction and demolition and industrial solid wastes, rules and regulations, case studies of different cities.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7704"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ESL7544",
+  "name": "Plasmas for Energy and Environment",
+  "description": "Introduction to plasmas; thermal and non-thermal plasmas; Plasma chemistry, Plasma sources and diagnostics, Plasma applications: Fusion, space, waste to energy, carbon conversion, material processing, medicine, air and water purification.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Plasmas for Energy and Environment | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Plasmas for Energy and Environment"
+  ],
+  "department": "Plasmas Concepts for Energy Applications",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/plasmas-energy-and-environment",
+  "slug": "plasmas-energy-and-environment"
+}

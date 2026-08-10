@@ -1,0 +1,22 @@
+{
+  "code": "ELN7002",
+  "name": "Technical and Research Practicum",
+  "description": "Students are expected to assist in the running of advanced scientific equipment / facility, which may involve all, or any of: a) understanding and following protocols in running of the equipment, b) assisting users in using the equipment / facility, or to do their tasks for them (needed where usage requires significant expertise and experience) and to communicate any relevant generated data (as needed), c) undergo a rigorous checkout procedure that certifies their training, d) supporting the logistics involve in running that facility (such as supplies, as well as monitoring utilities), e) helping carry out periodic preventative maintenance needed to keep the facility running, in concert with the vendor(s).",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Technical and Research Practicum | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Technical and Research Practicum"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/technical-and-research-practicum",
+  "slug": "technical-and-research-practicum"
+}

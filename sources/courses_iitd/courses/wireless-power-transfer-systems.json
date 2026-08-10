@@ -1,0 +1,22 @@
+{
+  "code": "ELL7514",
+  "name": "Wireless Power Transfer Systems",
+  "description": "Introduction to wireless power transfer (WPT), far-field and near-field, and its applications\nClassification of WPT systems\nInductive WPT: \nArchitecture and operating principle, coupled coil modelling and design of inductive coupler, compensation networks: S-S, LCC-LCC and others, design of high-frequency inverter and rectifiers, effect of misalignment and load variation, control\nCapacitive WPT:\nArchitecture and operating principle, capacitive coupler and compensation network design, soft switching inverters and rectifier, effect of misalignments and load variations",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Wireless Power Transfer Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Wireless Power Transfer Systems"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/wireless-power-transfer-systems",
+  "slug": "wireless-power-transfer-systems"
+}

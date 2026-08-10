@@ -1,0 +1,16 @@
+{
+  "code": "CVL7820",
+  "name": "Hydrologic Applications of Remote Sensing",
+  "description": "Principles of remote sensing, remote sensing platforms and data acquisition systems, wavebands, radiometric quantities, spectral reflectance and spectral signature; interaction of electromagnetic radiation with land surface features, hydrosphere and atmosphere, data capture for simulation of land surface processes; photogrammetry and satellite image interpretation; aerial photographs and Multispectral and hyperspectral images; digital image processing of satellite and drone images; image classification; earth surface features inventory, geomorphology, Landuse classification, Landuse planning and landcover mapping, flood plain mapping and flood plain zoning, remote sensing applications in water resources, irrigation, agriculture, geology, environmental monitoring, resources mapping, and urban planning; applications in mountainous regions for snow and glacier studies, snow line, ice cover, snow-pack properties; integrated use of remote sensing and GIS for various applications including climate change impact and environmental impact assessment; earth observations and data assimilation; data fusion, machine learning algorithms for image classification; database preparation and decision support analysis for planning and management, estimation of damages due to hydrologic extremes and preparation of contingency plans for disaster management, case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7820"
+}

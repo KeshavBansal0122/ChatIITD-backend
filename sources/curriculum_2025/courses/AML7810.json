@@ -1,0 +1,16 @@
+{
+  "code": "AML7810",
+  "name": "Probabilistic Machine Learning for Mechanics",
+  "description": "Review of probability and statistics, Different probability distributions, Prior, Posterior, Likelihood, Maximum likelihood estimation, MAP estimate, Prior modelling, Hierarchical prior, Empirical Bayes and evidence approximation, Bayesian linear regression, Sampling methods in ML, Variational methods in ML, Gaussian process, Probabilistic PCA, Factor analysis, Gaussian Process Latent Variable Model (GP-LVM), Introduction to generative modeling and generative AI.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AML7810"
+}

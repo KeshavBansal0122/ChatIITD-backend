@@ -1,0 +1,16 @@
+{
+  "code": "SBV6001",
+  "name": "Intellectual Property Rights in Biosciences",
+  "description": "Introduction to various forms of intellectual property rights, biotechnology inventions- nature and scope, patent drafting and filing, international conventions, treaties and laws related to IPRs and their impact on biotech industry, technology transfer, agreements, role of IPRs as assets for start-ups. The lectures will incorporate case studies.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBV6001"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "SBQ6001",
+  "name": "Seminars in Modern Biology",
+  "description": "Students will be introduced to the latest technical and scientific developments in the field of modern biology and biotechnology. In paper presentation, group discussions and workshop mode, aspects of scientific methodology, plagiarism-free research writing, research ethics and value systems for pursuing a career in academia and industry will be taken up. The course will incorporate external connect components with career development seminars from industry experts as well as sustainability in biology component.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBQ6001"
+}

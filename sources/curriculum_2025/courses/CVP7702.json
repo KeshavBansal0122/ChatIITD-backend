@@ -1,0 +1,16 @@
+{
+  "code": "CVP7702",
+  "name": "Environmental Engineering Laboratory II",
+  "description": "Introduction and safety protocols, particulate matter (PM) monitoring using high and medium-volume samplers for fine and coarse PM, gravimetric analysis, filter conditioning, weighing, and mass estimation. Calibration of instruments and low-cost sensors, comparison with reference monitors, and monitoring of meteorological parameters. Monitoring of gaseous pollutants including nitrogen oxides (NOx), sulfur dioxide (SO2), carbon monoxide (CO), ozone (O3), benzene-toluene-ethylbenzene-xylene (BTEX), and ammonia (NH3). Data validation and analysis, personal exposure and health parameter monitoring. Optical PM monitoring using optical particle sizer (OPS) and beta attenuation monitor (BAM), absorption (aethalometer), scattering (nephelometer), size distribution using scanning mobility particle sizer (SMPS) and mini wide-range aerosol spectrometer (mini WRAS), and emission inventory development.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVP7702"
+}

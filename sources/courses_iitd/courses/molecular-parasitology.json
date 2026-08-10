@@ -1,0 +1,22 @@
+{
+  "code": "SBL7040",
+  "name": "Molecular Parasitology",
+  "description": "Introduction to parasitism. Taxonomy of parasitic protozoa. Diseases caused by unicellular protozoan parasites. Sarcomastigophora (Entamoeba, Leishmania and Trypanosoma), Sporozoa (Plasmodium, Toxoplasma). Specialized organelles in parasites: acidocalcisomes, apicoplast, apical organelles, hydrogenosomes, glycosomes. Cellular and molecular interaction between host and parasite. Host immune response to parasitic infections. Gene expression and regulation in parasites. Antigenic variation in Trypanosoma and Plasmodium. Variant Surface Glycoprotein in Trypanosoma brucei. Role of Shelterin proteins in the Trypansosoma brucei. Therapeutic strategies and prospects for parasitic vaccines. Recent advances in molecular biology of parasites and host/parasite relationships.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "SBL1100SBL1102",
+  "overlap": null,
+  "learning_outcomes": [
+    "Molecular Parasitology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Molecular Parasitology"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/molecular-parasitology",
+  "slug": "molecular-parasitology"
+}

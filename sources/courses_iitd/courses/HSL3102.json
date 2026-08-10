@@ -1,0 +1,22 @@
+{
+  "code": "HSL3102",
+  "name": "Public Economics and Public Finance",
+  "description": "The course is aimed at developing an understanding of the basics in Public Economics and Public Finance. Public economics is the study of government policy from the points of view of economic efficiency and equity. The course deals with the nature of government intervention and its implications for allocation, distribution and stabilization. Inherently, this study involves a formal analysis of government taxation and expenditures. The subject encompasses a host of topics including public goods, market failures and externalities. The course is divided into two sections, one dealing with the theory of public economics and the other with the Indian public finances.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(HSL2101) /(HSL2100)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Public Economics and Public Finance | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Public Economics and Public Finance"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/public-economics-and-public-finance",
+  "slug": "public-economics-and-public-finance"
+}

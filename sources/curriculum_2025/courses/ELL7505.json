@@ -1,0 +1,16 @@
+{
+  "code": "ELL7505",
+  "name": "Electric Vehicle Systems",
+  "description": "This course covers the following in electric vehicles: history and evolution of EVs, benefits of EVs compared to conventional transportation systems, study of different kinds of forces that act on a typical electric vehicle. Study and design of different components/subsystems of a typical EV such as electric motor, drivetrain, powertrain, battery, charging etc., for different type of driving cycle and range.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7505"
+}

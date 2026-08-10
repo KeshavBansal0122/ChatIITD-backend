@@ -1,0 +1,22 @@
+{
+  "code": "ASL7700",
+  "name": "Deep Learning for Weather and Climate",
+  "description": "Overview and scope of deep learning for weather and climate; types of meteorological data; perceptrons; feedforward neural networks; optimization; evaluation matrics; weather classification using CNN; RNNs and sequence models for time series prediction; U-net for spatial data segmentation; GANs for data augmentation; physics informed deep learning; uncertainty quantification in predictions; interpretability of deep learning models; societal applications of weather and climate forecast.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Deep Learning for Weather and Climate | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Deep Learning for Weather and Climate"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/deep-learning-weather-and-climate",
+  "slug": "deep-learning-weather-and-climate"
+}

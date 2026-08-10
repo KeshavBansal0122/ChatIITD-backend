@@ -1,0 +1,16 @@
+{
+  "code": "CVL8715",
+  "name": "Risk-Based Environmental Project Management",
+  "description": "Basic concepts of environmental risk and definitions; human health risk and ecological risk assessment framework; hazard identification procedures and hazard prioritization; environmental risk zonation; consequence analysis and modelling (including discharge models, dispersion models, fire and explosion models, and effect models). Estimation of incident frequencies from historical data and frequency modelling techniques such as fault tree analysis and event tree analysis, as well as reliability block diagrams. Human factors in risk analysis; comprehensive environmental pollution index, air quality index, leachate pollution index, and water quality index. Risk management and communication. Rules, regulations, and conventions; international models for assessing risk to environmental projects including those from the ministry of environment, forest and climate change (India), the European union, the united states environmental protection agency, and the world bank; applications of these fundamentals to real-life environmental projects.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL8715"
+}

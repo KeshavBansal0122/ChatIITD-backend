@@ -1,0 +1,22 @@
+{
+  "code": "PYL5053",
+  "name": "Mathematical Physics",
+  "description": "Vector spaces and matrices; \u00a0complex analysis - analyticity, series representations, contour integration, \u00a0conformal transformations, branch cuts; \u00a0Fourier transforms and their applications; \u00a0series solution to ordinary differential equations - hypergeometric functions and their properties; Sturm-Liouville problem - examples and applications; \u00a0partial differential equations - Laplace, wave and heat conduction equations; \u00a0Green&#039;s function technique and its applications.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Mathematical Physics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mathematical Physics"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mathematical-physics-0",
+  "slug": "mathematical-physics-0"
+}

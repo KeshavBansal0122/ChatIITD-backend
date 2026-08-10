@@ -1,0 +1,16 @@
+{
+  "code": "DAN1010",
+  "name": "Conversational Etiquette",
+  "description": "The teaching plan includes introducing Grice\u2019s maxims. It suggests starting with examples of effective and poor conversations from texts or videos, followed by group analysis. This leads into an explanation of Grice\u2019s maxims, and concludes with a class discussion on real-life conversational habits and potential improvements.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DA",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DA#DAN1010"
+}

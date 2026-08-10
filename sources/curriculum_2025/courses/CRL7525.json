@@ -1,0 +1,16 @@
+{
+  "code": "CRL7525",
+  "name": "Advanced Memory Technologies",
+  "description": "Introduction to memory hierarchy basics. Fundamentals of SRAM and DRAM. Cache memory architecture and design. Virtual memory systems and paging. Challenges in DRAM scaling technologies. Flash memory design. Emerging non-volatile memory technologies. Phase-change memory (PCM) fundamentals. Spin-transfer torque MRAM (STT-MRAM). Spin-orbit torque MRAM (SOT-MRAM). Resistive RAM (ReRAM) operation principles. Ferroelectric memory. 3D-stacked memory integration techniques. Thermal challenges in 3D memory. Circuit design for memory systems. Memory reliability and fault tolerance. Neuromorphic computing memory technologies overview. Quantum memory systems design principles. Security challenges in memory systems. Energy-efficient memory design strategies. Future trends in memory technologies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CR#CRL7525"
+}

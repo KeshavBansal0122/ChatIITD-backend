@@ -1,0 +1,22 @@
+{
+  "code": "CVL7071",
+  "name": "Environmental Quality Modeling",
+  "description": "Introduction to environmental quality modelling, mathematical and statistical foundations, ambient air quality modelling, indoor air quality modelling, water quality modelling, sewer network design and modeling, source apportionment in environmental systems, AI-ML applications in environmental quality modelling.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Environmental Quality Modeling | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Environmental Quality Modeling"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/environmental-quality-modeling",
+  "slug": "environmental-quality-modeling"
+}

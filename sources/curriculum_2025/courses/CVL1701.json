@@ -1,0 +1,16 @@
+{
+  "code": "CVL1701",
+  "name": "Mechanics of Fluids",
+  "description": "Introduction to fluids and the concept of viscosity; Flow visualization; Fluid statics: fluid pressure, forces on solid surfaces, buoyant forces; Reynold Transport Theorem; Lagrangian and Eulerian description of fluid flow; Kinematics of fluid flow: equations for acceleration, continuity equation, irrotational and rotational flow, streamlines, streaklines and pathlines, potential and stream functions, flow net; Physical laws for a control volume including continuity, momentum and energy equations, Euler and Bernoulli\u2019s equations, Navier Stokes equations - laminar flow between parallel plates, Plane Poiseuille flow, Couette flow, Stokes flow; Flow measurement in pipes - mouthpieces, orificemeter, pitot tube, venturimeter; Dimensional analysis and similitude; Boundary layer theory; Drag and lift on immersed bodies; Introduction to pumps and turbines.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL1701"
+}

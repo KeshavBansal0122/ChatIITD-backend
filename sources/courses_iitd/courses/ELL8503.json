@@ -1,0 +1,22 @@
+{
+  "code": "ELL8503",
+  "name": "Selected Topics in Power Electronics",
+  "description": "Recent developments in power electronic converter topologies, modeling and control technique. Analyze and/or develop a new power converter. Any selected and focused content in power electronics for detailed analysis. Exploration of futuristic developments in power electronics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Selected Topics in Power Electronics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Selected Topics in Power Electronics"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/selected-topics-power-electronics",
+  "slug": "selected-topics-power-electronics"
+}

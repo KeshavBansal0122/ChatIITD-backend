@@ -1,0 +1,16 @@
+{
+  "code": "MLL7001",
+  "name": "Introduction to Computational Materials Science",
+  "description": "Review of linear algebra: vectors, matrices, functions, eigen values and eigen vectors; tensors and its applications in materials science. Vector calculus for different geometries \u2013 linear and planes, directional derivative, gradients; partial differentiation \u2013 properties and solution techniques; ordinary differential equations (ODEs): analytical and numerical solution methods of ODEs; introduction to multiscale methods in simulations, modelling at atomistic scale, molecular dynamics, Monte Carlo simulations, molecular thermodynamics, phase-field modelling, finite element methods, density functional theory (DFT) for materials modelling and properties. Data analysis: probability and statistics - computing probability, smoothening and reconciliation of data, concept and parameters of distribution, regression analysis (linear and non-linear), error estimation and analysis, confidence intervals, hypothesis testing and machine learning methods in materials science.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ML",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ML#MLL7001"
+}

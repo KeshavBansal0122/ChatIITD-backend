@@ -1,0 +1,16 @@
+{
+  "code": "MLL7110",
+  "name": "Biodegradable Polymeric Materials",
+  "description": "Concept of biodegradation; mechanism of biodegradation; kinetics of biodegradation; methods to evaluate biodegradation; bioplastics, biodegradable polymers and their synthesis; biodegradable polymer blends and composites; technology and processing of biodegradable polymers; applications of biodegradable polymers.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ML",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ML#MLL7110"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ELL8505",
+  "name": "High Power Industrial Drives",
+  "description": "Applications areas of high power industrial drives like electric pumps, electric traction system, marine drives, steel and rolling mills, conveyors etc at the MW level. MW rated induction and synchronous motors: performance parameters, torque and speed profiles, regeneration. Converters for MW level drives: Voltage Source and Current Source converters, Multilevel converters, low frequency PWM techniques for high power drives. Steady state and transient control of high power drives, designing of controllers. Starting up of high power drives. Power Quality issues. Special considerations like reliability, fault tolerance and protection of high power drives.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "High Power Industrial Drives | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "High Power Industrial Drives"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/high-power-industrial-drives",
+  "slug": "high-power-industrial-drives"
+}

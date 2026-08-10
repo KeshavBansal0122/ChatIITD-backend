@@ -1,0 +1,16 @@
+{
+  "code": "PYL7057",
+  "name": "Statistical and Quantum Optics",
+  "description": "Probability theory, generating function, characteristic function; analytic signal representation, correlation and spectral properties, temporal, spatial and partial coherence, law of interference, spectral interference, propagation of coherence; higher order correlations; photodetection probability, Mandel's photon counting formula; intensity interferometry, speckle statistics and applications, field quantization, number states, coherent states, Glauber- Sudarshan representation, tests for non-classicality, quantum correlations, two photon coherence function and coincidence count rate, quantum treatment of beam-splitter and simple interferometers, generation of quantum states: spontaneous parametric down conversion.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL7057"
+}

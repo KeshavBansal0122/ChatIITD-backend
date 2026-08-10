@@ -1,0 +1,16 @@
+{
+  "code": "CMN9499",
+  "name": "Teaching/Research Practicum",
+  "description": "Students are expected to assist with grading assignments and exams, preparing course materials, managing class activities, and/or supporting student engagement. They are also expected to help with lab sessions and other administrative tasks related to the course.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CM#CMN9499"
+}

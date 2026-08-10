@@ -1,0 +1,22 @@
+{
+  "code": "COL2026",
+  "name": "Foundations of Programming Languages",
+  "description": "Syntax, operational semantics, behavioural equivalence, tokenising, parsing, intermediate representations, abstract data types, types and type inference, scope, closures, stack machines, programming paradigms, code generation, bootstrapping.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Foundations of Programming Languages | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Foundations of Programming Languages"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/foundations-programming-languages",
+  "slug": "foundations-programming-languages"
+}

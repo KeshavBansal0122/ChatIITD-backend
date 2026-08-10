@@ -1,0 +1,22 @@
+{
+  "code": "CHD4800",
+  "name": "Capstone Project",
+  "description": "A hands-on team design project addressing a problem relevant to chemical engineering. The specific topic will be decided by the students in consultation with their assigned advisor.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Capstone Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Capstone Project"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/capstone-project",
+  "slug": "capstone-project"
+}

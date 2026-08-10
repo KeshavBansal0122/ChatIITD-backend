@@ -1,0 +1,22 @@
+{
+  "code": "CML1002",
+  "name": "The Art and Science of Building Molecules and Materials",
+  "description": "Basics of stereochemistry, R/S-nomenclature; projection formulae; MO approaches for the stereochemical outcome of the reactions; determination of reaction mechanism; kinetic versus thermodynamic control of reactions; trapping of reactive intermediates; pharmaceutical molecules: retrosynthesis, forward synthesis and applications. Polymers: classification, synthesis, applications of silicon-based polymers, siloxanes and silanes, polysiloxanes and polysilanes. Industrial catalysis: transition metal-based industrial catalysts, 18-electron rule, types of organometallic reactions, hydrogenation, hydroformylation, Monsanto and Cativa processes, cross-coupling reactions, and Ziegler-Natta catalysis. Chemical synthesis of nanomaterials and applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "The Art and Science of Building Molecules and Materials | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "The Art and Science of Building Molecules and Materials"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/art-and-science-building-molecules-and-materials-0",
+  "slug": "art-and-science-building-molecules-and-materials-0"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "BSV9532",
+  "name": "Special Module in Machine Learning",
+  "description": "Special Module that focuses on special topics, development and research problems of importance in the area of Machine Learning and Deep Learning.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Special Module in Machine Learning | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Special Module in Machine Learning"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/special-module-machine-learning-0",
+  "slug": "special-module-machine-learning-0"
+}

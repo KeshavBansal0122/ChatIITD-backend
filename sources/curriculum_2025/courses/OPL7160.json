@@ -1,0 +1,16 @@
+{
+  "code": "OPL7160",
+  "name": "Introduction to Quantum Photonics",
+  "description": "Basics of quantum mechanics; cavity quantum electrodynamics: quantization of electromagnetic field, spontaneous emission, Purcell effect, Jaynes-Cummings and Tavis-Cummings models; cooperative phenomena and applications: superradiance, subradiance, and applications in quantum memories; nonclassical states of light: coherent, Schrodinger\u2019s cat and squeezed states, EPR paradox, and photonic entanglement; quantum systems and photonic applications: self-assembled quantum dots, optomechanical systems and NV center in diamond, quantum dot-based single and entangled photon generation, applications of nonclassical light in quantum communication and quantum sensing.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "OP",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=OP#OPL7160"
+}

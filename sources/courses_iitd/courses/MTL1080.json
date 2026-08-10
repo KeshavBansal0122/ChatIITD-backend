@@ -1,0 +1,22 @@
+{
+  "code": "MTL1080",
+  "name": "Discrete Mathematical Structures",
+  "description": "Logic: propositional logic: language of propositional logic, truth table, natural deduction, predicate logic: language of predicate logic, logical inference with quantifiers. Proof techniques: introduction to different standard proof techniques. Set theory: review of basic set operations, cardinality of a set. Relations: types of relations, operations of relations and applications, posets, topological ordering; congruence arithmetic. Combinatorics: counting techniques: pigeon hole principle, inclusion exclusion principle, recurrence relation and generating function. Graph theory: graph as a discrete structure, modeling applications using graphs, Hamiltonian graphs, planar graphs, graph coloring, matching.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Discrete Mathematical Structures | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Discrete Mathematical Structures"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/discrete-mathematical-structures-0",
+  "slug": "discrete-mathematical-structures-0"
+}

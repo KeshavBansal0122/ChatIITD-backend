@@ -1,0 +1,22 @@
+{
+  "code": "CRL7013",
+  "name": "Advanced Engineering Electromagnetics",
+  "description": "Review of basic mathematical tools, time-varying and time-harmonic electromagnetic fields: Maxwell\u2019s equations, boundary conditions, circuit field relations, power and energy; categorization of materials from electromagnetic standpoint; wave equations and its solutions; wave propagation in unbounded medium; polarization; reflection and transmission at planar interface(s); auxiliary vector potentials; construction of solutions; radiation and scattering equations; electromagnetic theorems, waveguides; introduction to any other relevant topic(s) (for example surface waves, optical fibers etc.).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Engineering Electromagnetics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Engineering Electromagnetics"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-engineering-electromagnetics",
+  "slug": "advanced-engineering-electromagnetics"
+}

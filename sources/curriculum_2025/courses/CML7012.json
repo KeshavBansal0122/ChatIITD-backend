@@ -1,0 +1,16 @@
+{
+  "code": "CML7012",
+  "name": "Data Analysis and Cheminformatics",
+  "description": "Chemistry and information technology, chemical/biochemical data collation, retrieval, statistics and error analysis, interpretation, hypothesis generation and validation, development of structure activity/property relationships, artificial intelligence (machine learning) techniques in chemistry. Building molecules on a computer, quantum and molecular mechanics methods for geometry optimization, simulation methods for molecules and materials.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CM#CML7012"
+}

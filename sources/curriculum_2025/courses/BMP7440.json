@@ -1,0 +1,16 @@
+{
+  "code": "BMP7440",
+  "name": "Advanced Biomaterials Laboratory",
+  "description": "Basic concepts of biomaterials science and engineering instrumentation, biomarker search and identification, engineering materials for drug design and delivery, harnessing electroceuticals for therapeutics, principles and practical considerations when designing biomedical probes, biomaterials for personalized medicine, point of care biomaterials, biocompatibility and its different forms, practical considerations when designing therapeutic paradigms, utilizing spectroscopy for diagnostics, biomaterials design, biomechanical engineering properties of tissue for healthcare, AI and biomaterials engineering, special laboratory for integrative biomaterials.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BM#BMP7440"
+}

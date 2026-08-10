@@ -1,0 +1,22 @@
+{
+  "code": "ELL7413",
+  "name": "Microwave Theory and Techniques",
+  "description": "Mathematical prerequisites, basics of Electrostatics and Electrodynamics; Reflection, plane waves at the medium boundaries; Transmission lines: theory and applications; wave scattering, inverse scattering theory, applications of inverse scattering to RF and microwave imaging.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL2400",
+  "overlap": null,
+  "learning_outcomes": [
+    "Microwave Theory and Techniques | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Microwave Theory and Techniques"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/microwave-theory-and-techniques-0",
+  "slug": "microwave-theory-and-techniques-0"
+}

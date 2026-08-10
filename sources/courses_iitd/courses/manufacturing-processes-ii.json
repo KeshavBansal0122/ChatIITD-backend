@@ -1,0 +1,22 @@
+{
+  "code": "MEL3015",
+  "name": "Manufacturing Processes II",
+  "description": "Introduction to Metal Cutting and basics of Machine Tools, Nomenclature and stoichiometry associated with various important cutting tools, Estimation of machining forces and cutting temperature through analytical and experimental methods, Tool wear analysis and tool life estimation, Work holding and tool holding devices as used in conventional machine tools, Various types of advanced machining processes and their developments, Introduction to dimensional metrology, understanding of the concepts of Geometric dimensioning and tolerances, basics of limit gauging, assessment of surface quality features of a manufactured component.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Manufacturing Processes II | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Manufacturing Processes II"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/manufacturing-processes-ii",
+  "slug": "manufacturing-processes-ii"
+}

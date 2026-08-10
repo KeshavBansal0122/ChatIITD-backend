@@ -1,0 +1,16 @@
+{
+  "code": "MEL7419",
+  "name": "Computational Heat Transfer",
+  "description": "Mathematical description of the physical phenomena- governing equations\u2014mass, momentum, energy, species, general form of the scalar transport equation, elliptic, parabolic and hyperbolic equations. Discretization methods- introduction to finite difference and finite volume method, consistency, stability and convergence. Diffusion equation- 1D-2D steady diffusion, source terms, non-linearity, boundary conditions, interface diffusion coefficient, under-relaxation, solution of linear equations (preliminary), unsteady diffusion, explicit, implicit and Crank-Nicolson scheme. Convection and diffusion- steady one-dimensional convection and diffusion, upwind, exponential, hybrid, power, QUICK scheme, two-dimensional convection-diffusion. Flow field calculation- incompressibility issues and pressure-velocity coupling, primitive variable versus other methods, vorticity-stream function formulation, staggered grid, SIMPLE family of algorithms. Radiative heat transfer - computation of surface radiation using zone method, solution of radiative transfer equation using discrete transfer, discrete ordinates and finite volume methods.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL7419"
+}

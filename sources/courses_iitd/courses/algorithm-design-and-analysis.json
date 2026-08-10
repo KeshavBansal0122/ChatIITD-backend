@@ -1,0 +1,22 @@
+{
+  "code": "COL2051",
+  "name": "Algorithm Design and Analysis",
+  "description": "Algorithm design techniques \u2013 divide and conquer, dynamic programming, greedy, augmentation; time complexity; efficiency of computation; reductions; non-deterministic computation; NP-completeness.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": "COL1101",
+  "overlap": null,
+  "learning_outcomes": [
+    "Algorithm Design and Analysis | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Algorithm Design and Analysis"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/algorithm-design-and-analysis",
+  "slug": "algorithm-design-and-analysis"
+}

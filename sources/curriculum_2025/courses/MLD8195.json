@@ -1,0 +1,16 @@
+{
+  "code": "MLD8195",
+  "name": "MS RESEARCH PROJECT",
+  "description": "The MSR thesis in the Department of Materials Science and Engineering involves independent, in-depth research under faculty supervision. Students formulate a materials-related research problem, conduct a comprehensive literature review, and design experimental, computational, or theoretical approaches. The work may involve materials synthesis, processing, characterization, modeling, or performance evaluation. Emphasis is placed on understanding structure\u2013property\u2013processing\u2013performance relationships, data analysis, and research ethics. Students present periodic progress reviews and submit a written thesis, culminating in a viva-voce examination to demonstrate originality, critical thinking, and technical competence in materials engineering.",
+  "credits": 42.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 84.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ML",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ML#MLD8195"
+}

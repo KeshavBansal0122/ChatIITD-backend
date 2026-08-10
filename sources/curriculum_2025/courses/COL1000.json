@@ -1,0 +1,16 @@
+{
+  "code": "COL1000",
+  "name": "Introduction to Programming",
+  "description": "Data abstractions and computational abstractions, control structures and basic input/output, problem specification, testing and debugging, basic data structures and encapsulation, inductive reasoning and iteration, functions and recursion, top down design, performance and efficiency.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL1000"
+}

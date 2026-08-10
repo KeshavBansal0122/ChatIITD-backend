@@ -1,0 +1,22 @@
+{
+  "code": "ELL7408",
+  "name": "Network Security",
+  "description": "Background on Math tools, Groups, Rings and Fields, Integers, modular arithmetic, Euclidean algorithm, finite fields, Polynomial arithmetic, Properties of primes, Chinese remainder theorem, Discrete logarithm, Primality testing methods, Classical Encryption Methods, Symmetric model, Substitution and transposition methods, Block Ciphers, DES and properties, AES and properties, Public key cryptography, Principles, RSA algorithm, Proof of RSA algorithm, complexity of the algorithms, Elliptic Curve Cryptography, Key Management, Message authentication and Hash functions, Digital Signatures and Authentication Mechanisms, Network Security use-cases in WiFi, 4G and 5G standards, Introduction to decentralized ledgers and block chains, Introduction to post quantum cryptography.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Network Security | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Network Security"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/network-security",
+  "slug": "network-security"
+}

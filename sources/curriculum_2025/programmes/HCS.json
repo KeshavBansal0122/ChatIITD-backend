@@ -1,0 +1,378 @@
+{
+  "code": "HCS",
+  "name": "M.Sc. in Cognitive Science",
+  "generation": "2025",
+  "degree_type": "msc",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=HCS",
+  "credit_requirements": [],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Critically engage with theories from cognitive science disciplines in preparation for their professional practice, further learning, or solving interdisciplinary cognitive challenges."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Effectively synthesize and communicate cognitive science concepts, work collaboratively with peers from diverse academic backgrounds to foster teamwork, and demonstrate scientific temperament, integrity, personal and professional responsibility."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Apply a range of contemporary research methods and techniques for scientific investigation of cognition, brain, and behaviour."
+    },
+    {
+      "outcome_id": "PLO4",
+      "text": "Enable students to contribute either to fundamental research in cognitive science, or its applications, particularly in the Indian context in line with the UN Sustainable Development Goals (SDGs)."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "HSD5067",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "HSD6060",
+        "title": "Mini Project in Cognitive Science",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "HSD6061",
+        "title": "Cognitive Science Project-I",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "HSL5060",
+        "title": "Introduction to Cognitive Science",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "HSL5061",
+        "title": "Language in the Mind",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "HSL5062",
+        "title": "Cognitive Processes",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "HSL5063",
+        "title": "Research Methods in Cognitive Science",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL5065",
+        "title": "Language Computations and Mental Architecture",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "HSL5066",
+        "title": "Cognitive Neuroscience",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "HSN5000",
+        "title": "Research Ethics",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "1",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "HSP5064",
+        "title": "Scientific Writing",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "2",
+          "practical": "0"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "AIL7061",
+        "title": "Computational Cognition",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL7386",
+        "title": "Advanced Functional Brain Imaging",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "HSL6510",
+        "title": "Philosophy of Mind and Cognition",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL6530",
+        "title": "Introduction to Philosophy of AI",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL7520",
+        "title": "Philosophy of Science",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL7701",
+        "title": "Acoustic Phonetics",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL7702",
+        "title": "Computational Linguistics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL7703",
+        "title": "Data-Driven Analysis and Tools for Linguistic Research",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL7721",
+        "title": "The Architecture of Syntax: Theory and Evidence",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL7723",
+        "title": "Morphology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL7880",
+        "title": "Social and Cultural Construction of Emotions",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL7901",
+        "title": "Computational Cognition",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL7910",
+        "title": "Human Learning",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "HSL8708",
+        "title": "Advanced Topics in Psychology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "SBL7023",
+        "title": "Principles of Neural Excitability and Communication",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "HSL5060",
+        "title": "Introduction to Cognitive Science",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "HSL5061",
+        "title": "Language in the Mind",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "HSL5062",
+        "title": "Cognitive Processes",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "HSL5063",
+        "title": "Research Methods in Cognitive Science",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "HSP5064",
+        "title": "Scientific Writing",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 2.0,
+          "practical": 0.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "HSN5000",
+        "title": "Research Ethics",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "HSL5065",
+        "title": "Language Computations and Mental Architecture",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 1.0,
+          "practical": 0.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "HSL5066",
+        "title": "Cognitive Neuroscience",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "HCS \u2013 M.Sc. in Cognitive Science\nM.Sc. in Cognitive Science\nHumanities and Social Sciences, Department of\nProgramme Code: HCS\nM.Sc.\nOverall Credit Structure\nCourse Category Credits\nTotal Graded Credit Requirement\n72\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nCritically engage with theories from cognitive science disciplines in preparation for their professional practice, further learning, or solving interdisciplinary cognitive challenges.\nPLO 2\nEffectively synthesize and communicate cognitive science concepts, work collaboratively with peers from diverse academic backgrounds to foster teamwork, and demonstrate scientific temperament, integrity, personal and professional responsibility.\nPLO 3\nApply a range of contemporary research methods and techniques for scientific investigation of cognition, brain, and behaviour.\nPLO 4\nEnable students to contribute either to fundamental research in cognitive science, or its applications, particularly in the Indian context in line with the UN Sustainable Development Goals (SDGs).\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nHSD5067 Cornerstone Project 0 0 8 4\nHSD6060 Mini Project in Cognitive Science \u2013 \u2013 \u2013 \u2013\nHSD6061 Cognitive Science Project-I \u2013 \u2013 \u2013 \u2013\nHSL5060 Introduction to Cognitive Science 3 0 2 4\nHSL5061 Language in the Mind 3 1 0 4\nHSL5062 Cognitive Processes 3 0 2 4\nHSL5063 Research Methods in Cognitive Science 1 0 4 3\nHSL5065 Language Computations and Mental Architecture 3 1 0 4\nHSL5066 Cognitive Neuroscience 3 0 2 4\nHSN5000 Research Ethics 0 1 0 1\nHSP5064 Scientific Writing 0 2 0 2\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nAIL7061 Computational Cognition 3 0 0 3\nCOL7386 Advanced Functional Brain Imaging 3 0 2 4\nHSL6510 Philosophy of Mind and Cognition 3 0 0 3\nHSL6530 Introduction to Philosophy of AI 3 0 0 3\nHSL7520 Philosophy of Science 3 0 0 3\nHSL7701 Acoustic Phonetics 2 0 2 3\nHSL7702 Computational Linguistics 3 0 0 3\nHSL7703 Data-Driven Analysis and Tools for Linguistic Research 2 0 2 3\nHSL7721 The Architecture of Syntax: Theory and Evidence 3 0 0 3\nHSL7723 Morphology 3 0 0 3\nHSL7880 Social and Cultural Construction of Emotions 3 0 0 3\nHSL7901 Computational Cognition 3 0 0 3\nHSL7910 Human Learning 3 0 0 3\nHSL8708 Advanced Topics in Psychology 3 0 0 3\nSBL7023 Principles of Neural Excitability and Communication 3 0 0 3\nSemester-wise Schedule\nSem\nCourses &amp; Baskets\nHrs /\nweek\nNGU\nCredits\n1\nHSL5060 Introduction to Cognitive Science\n(3.0-0.0-2.0) 4.00\nHSL5061 Language in the Mind\n(3.0-1.0-0.0) 4.00\nHSL5062 Cognitive Processes\n(3.0-0.0-2.0) 4.00\nHSL5063 Research Methods in Cognitive Science\n(1.0-0.0-4.0) 3.00\nHSP5064 Scientific Writing\n(0.0-2.0-0.0) 2.00"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "PYD8001",
+  "name": "Major Project - I",
+  "description": "Analysis/design/simulation/experimental study on topics in the board area of solid state and quantum materials, offered by the faculty.",
+  "credits": 9.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 18.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYD8001"
+}

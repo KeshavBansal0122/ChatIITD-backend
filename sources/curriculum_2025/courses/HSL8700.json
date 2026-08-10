@@ -1,0 +1,16 @@
+{
+  "code": "HSL8700",
+  "name": "Advanced Topics in Linguistics",
+  "description": "This course offers in-depth engagement with advanced topics in linguistics, with the specific theme varying according to the instructor. It is designed to expose PhD students to specialized areas of linguistic research and contemporary debates within the field. Students will work with primary linguistic data and key scholarly texts to analyze theoretical arguments, study diverse linguistic frameworks, and explore the implications of different analytical positions. The course emphasizes independent critical thinking, methodological awareness, and scholarly rigour. It serves both as a forum for investigating focused linguistic questions and as essential training for the research skills and competencies expected at the doctoral level.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL8700"
+}

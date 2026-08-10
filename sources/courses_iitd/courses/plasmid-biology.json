@@ -1,0 +1,21 @@
+{
+  "code": "BBL7056",
+  "name": "Plasmid Biology",
+  "description": "Plasmid nomenclature, classification, replication, segregation, incompatibility, stability, host range, significance in environment, health and biotechnology",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Plasmid Biology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Biochemical Engineering and Biotechnology, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/plasmid-biology",
+  "slug": "plasmid-biology"
+}

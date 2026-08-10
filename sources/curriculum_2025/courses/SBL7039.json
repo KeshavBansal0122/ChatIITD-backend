@@ -1,0 +1,16 @@
+{
+  "code": "SBL7039",
+  "name": "Artificial Organs and Regenerative Engineering",
+  "description": "Introduction of artificial organs or biodevices; classification of synthetic organs and clinical case studies; artificial assistive devices \u2013 ventricular assist device, implantation procedures and pre- and post-operative measures; tissue repair and regenerative processes, cell fate mechanisms including cell\u2013cell communication and cell\u2013material interactions, role of scaffolds in tissue repair \u2013 composition, mechano-chemical support, and architecture; properties of soft tissues such as skin and hard tissues such as bone \u2013 chemical, mechanical, electrical, and physical; advances in biomanufacturing \u2013 additive manufacturing methods, bioprinting techniques, organ-on-chip systems; socioeconomic issues and ethical considerations in artificial organs; regulatory perspectives and challenges in clinical translation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBL7039"
+}

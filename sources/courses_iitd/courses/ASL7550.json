@@ -1,0 +1,22 @@
+{
+  "code": "ASL7550",
+  "name": "Remote Sensing of Atmosphere and Ocean",
+  "description": "Basics of satellite remote sensing: satellite orbits, sensor characteristics, view angle, passive and active remote sensing; atmospheric radiative transfer application in retrievals of geophysical parameters; aerosol remote sensing using ground\u2010based (passive radiometer and lidar) and satellite platforms, retrieval algorithm, vertical distribution, application of aerosol products in climate studies; cloud remote sensing, cloud detection using multi\u2010spectral technique, issues in cloud\u2010masking, CO2 slice technique; trace gas retrievals; ocean colour remote sensing, SST retrieval, wind scatterometry, altimetry; microwave remote sensing: soil moisture retrieval, passive (brightness temperature) and active (radar) microwave remote sensing for precipitation, sounding, remote sensing of cryosphere; satellite meteorology for extreme weather events (for example cyclone, thunderstorms etc.); land\u2010use/land\u2010cover change; hydrological application using gravity anomaly from satellites.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Remote Sensing of Atmosphere and Ocean | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Remote Sensing of Atmosphere and Ocean"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/remote-sensing-atmosphere-and-ocean",
+  "slug": "remote-sensing-atmosphere-and-ocean"
+}

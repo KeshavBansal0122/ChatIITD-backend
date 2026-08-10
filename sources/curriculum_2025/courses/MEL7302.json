@@ -1,0 +1,16 @@
+{
+  "code": "MEL7302",
+  "name": "Machining Science and Technology",
+  "description": "Need and applications of different machining processes; cutting tool geometry and specifications; advanced materials for tool development; mechanics of machining \u2013 estimation of cutting forces (analytical models); instruments used for cutting force determination; essential features of the dynamometers, chip formation mechanism by single point, drilling and milling tools, estimating cutting tool life, heat transfer during machining processes, experimental methods used for estimating cutting temperature and developing AI algorithms to detect temperatures, sustainable and eco-friendly machining: economics of machining, surface finish, cutting fluids in machining, conventional and advanced grinding processes, micro-grinding tools, estimating forces and specific energy requirement in grinding, wheel conditioning.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL7302"
+}

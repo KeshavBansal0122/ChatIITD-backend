@@ -1,0 +1,16 @@
+{
+  "code": "TXL7651",
+  "name": "Entrepreneurship and Financial Management",
+  "description": "Introduction to entrepreneurship, idea generation, opportunity identification, market research, feasibility analysis, ownership types - sole proprietorship, partnership, limited liability company (llc), corporation, legal and regulatory framework - intellectual property rights, business licenses, introduction to project finance - description of project finance transaction, difference between corporate finance and project finance, indian financial system, structuring the project, limited resource structures, capital investments: importance and difficulties, cpv analysis, financial statements - balance sheet, income statement, cash flow statement, financial statement analysis- ratio analysis (liquidity, solvency, profitability), trend analysis, working capital management, inventory management, project cycle, project formulation, project appraisal, financial appraisal, economic appraisal, social cost benefit analysisshadow prices and economic rate of return, financing projects, sources of funding, valuing projects, npv, irr, mirr, real ptions, decision trees and monte carlo simulations, financial estimates and projections, technical analysis, market and demand analysis, investment criteria, cost of capital, project risk analysis, sensitivity analysis, leverage analysis, environment appraisal of the project and detailed project report, case studies on textile projects.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL7651"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MSL7342",
+  "name": "Emerging Topics in Information Systems",
+  "description": "Emerging topics in Information Systems (IS) reflect the rapid integration of advanced digital technologies into organizational processes and strategies. Some emerging areas in Artificial Intelligence (AI), including generative AI and machine learning, which enhances decision-making, automation, and predictive analytics. Cloud computing and multi-cloud architectures are transforming IT infrastructure by enabling scalable, flexible, and cost-effective solutions. Cybersecurity, particularly Zero-Trust models and AI-driven threat detection, has become central to protecting digital assets in increasingly complex environments. Data governance and real-time analytics are also critical, as organizations rely on high-quality data for strategic insights and regulatory compliance. Additionally, the Internet of Things (IoT) connects physical devices to information systems, enabling smart operations and digital transformation. These emerging areas highlight the shift from traditional data-processing systems to intelligent, secure, and strategically aligned platforms that drive innovation, efficiency, and competitive advantage in the digital economy.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Emerging Topics in Information Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Emerging Topics in Information Systems"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/emerging-topics-information-systems",
+  "slug": "emerging-topics-information-systems"
+}

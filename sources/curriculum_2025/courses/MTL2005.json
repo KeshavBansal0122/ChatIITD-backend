@@ -1,0 +1,16 @@
+{
+  "code": "MTL2005",
+  "name": "Algebra",
+  "description": "Group Theory: Equivalence relations and partitions, maximal elements, minimal elements, least upper bound, greatest lower bound, lattices, with examples. Permutations, cyclic permutation, transpositions, and the sign of a permutation. \r\nBinary operations, formal definition of group, subgroup, basic examples of groups, symmetric group(permutation group), matrix group, group of rigid motions of the plane, and finite group of motions (Dihedral group). \r\nFinite group, cyclic group, generators and relations, cosets and Lagrange's theorem, group homomorphisms, Cayley's theorem, normal subgroup, quotient group and isomorphism theorems. \r\nGroup action, Class equation, Cauchy's theorems, Sylow's theorems, direct products and structure theorem for finite abelian groups (without proof) and their applications. \r\nRing Theory: Definition and examples, ring homomorphism, ideals and quotient rings, Chinese Remainder Theorem, integral domain and quotient field, ring of Gaussian integers, Unique factorisation domain, Principal ideal domain, Euclidean domain, Gauss' lemma (statement only), polynomial ring, irreducibility of polynomials and Eisenstein's criterion.\r\nField Theory: Fields, extension of a field, degree of an extension, finite extension, algebraic extension, Splitting field, Finite field and their structures.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTL2005"
+}

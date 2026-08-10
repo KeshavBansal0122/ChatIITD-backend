@@ -1,0 +1,16 @@
+{
+  "code": "MSL7023",
+  "name": "Telecommunications Systems Management",
+  "description": "Overview of Telecom Management, Telecom Industry Overview, Telecom Industry Mission, Telecom Industry ETOP Appraisal, Spectrum Licensing, Spectrum Auctioning and Allocation, Telecom Marketing, Telecom Industry Players, Telecom Service Provider, Telecom Density, Telecom Value Chain, CMTS, USOF, ARPU, TRAI, MVNO \u2013 Mobile Virtual Network Operator, MNO & MVNO, Over-The-Top Vs Telecom Service Providers, B2B and B2C Marketing in Telecom, Service Distribution Channels of Telecom of India, Telecom Brand Positioning, Telecom Brand Equity",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MS#MSL7023"
+}

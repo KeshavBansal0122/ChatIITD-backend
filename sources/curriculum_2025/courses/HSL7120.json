@@ -1,0 +1,16 @@
+{
+  "code": "HSL7120",
+  "name": "Advanced Econometrics",
+  "description": "The primary objective of this course is to provide an advanced treatment of econometric methods for cross section and panel data, including linear and non-linear models. We plan to cover some selected topics: classical linear regression model, panel data models, instrumental variable, maximum likelihood estimation, and discrete response models. This course will prepare you to undertake empirical analysis exploring causal relationships using economic, financial, and other types of data.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL7120"
+}

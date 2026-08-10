@@ -1,0 +1,16 @@
+{
+  "code": "CVL7474",
+  "name": "Fracture and Failure of Structures",
+  "description": "Introduction to fracture mechanics, energy release rate and fracture toughness; phase-field theory for fracture, brittle fracture; elastic, plastic, and viscoelastic behavior; strain-rate dependent behavior of metals, ceramics, and composites, damage and failure of concrete, JC, JH1 and JH2 models for capturing response under ballistic impact, thermodynamically consistent damage evolution, contact modeling, design of structures subjected to ballistic impact.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7474"
+}

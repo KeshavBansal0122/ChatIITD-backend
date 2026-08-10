@@ -1,0 +1,16 @@
+{
+  "code": "SIL7171",
+  "name": "Mobile Security",
+  "description": "Mobile operating system architecture, mobile application development, mobile security model, application security analysis, OWASP mobile vulnerabilities, mobile security features, mobile malware, hacking, system hardening for enterprise environment, smart card for secure operations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SI",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SI#SIL7171"
+}

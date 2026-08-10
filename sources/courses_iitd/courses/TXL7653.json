@@ -1,0 +1,22 @@
+{
+  "code": "TXL7653",
+  "name": "Supply Chain Design, Analytics and Management",
+  "description": "Supply chain strategy, supply chain network design and optimization, transportation and trans-shipment network design, quantitative models; predictive and prescriptive analytics in supply chain, forecasting, demand management, bull-whip effect, MILP and MINLP models of supply chains, supplier selection and order allocation, MCDM techniques; risk and resilience, risk management strategies; sustainable and circular supply chains, SDGs and supply chain, social sustainability.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Supply Chain Design, Analytics and Management | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Supply Chain Design, Analytics and Management"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/supply-chain-design-analytics-and-management",
+  "slug": "supply-chain-design-analytics-and-management"
+}

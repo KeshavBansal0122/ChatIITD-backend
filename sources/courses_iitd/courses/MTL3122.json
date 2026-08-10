@@ -1,0 +1,22 @@
+{
+  "code": "MTL3122",
+  "name": "Complex Analysis and Applications",
+  "description": "Field of complex numbers, Complex plane, Polar representation, Stereographic projection, Holomorphic functions, Cauchy-Riemann equation and applications, Harmonic conjugates, Power series, Exponential function, Branch of logarithm, Contour integration, ML-inequality, Rectangle/Triangle theorem, Integral theorem, Cauchy-Goursat theorem, Cauchy integral formula, Power series representation of a holomorphic function, Morera\u2019s theorem, Liouville\u2019s theorem, Fundamental theorem of Algebra, Identity theorem, Maximum modulus principle, Minimum modulus principle, Open mapping theorem, Inverse function theorem, Schwarz\u2019s Lemma, M\u00f6bius transformations, Isolated singularities, Classification of singularities, Casaroti-Weierstrass theorem, Laurent Series expansion, Cauchy residue theorem and application, Meromorphic functions, Argument principle, Rouche\u2019s theorem and applications, Applications of contour integral techniques and residue theorem: Calculating real improper integrals, Introduction to Fourier series, Fourier transform and calculating inverse Fourier transform, Introduction of Laplace transform and calculating inverse Laplace transform.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Complex Analysis and Applications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Complex Analysis and Applications"
+  ],
+  "department": "Complex Analysis",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/complex-analysis-and-applications",
+  "slug": "complex-analysis-and-applications"
+}

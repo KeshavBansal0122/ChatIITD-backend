@@ -1,0 +1,16 @@
+{
+  "code": "BBL7149",
+  "name": "Cancer Cell Biology",
+  "description": "This course provides students with a deeper understanding of cancer biology and is heavily focused on experiments: Topics include: Cancer Biology Overview, Hallmarks of Cancer, Types of Cancer, Causes for cancer, Oncogenes and Tumor suppressors, Cell Cycle and Regulation, Cell Differentiation, Cell Death Pathways (Apoptosis, Autophagy), Necrosis, Cell Senescence, Cell Adhesion and Motility, Cancer Epigenetics and sRNAs, Cancer Genome instability, Tumor Immunity, Growth Signaling pathways, Tumor angiogenesis, Cancer Stem Cell, Cancer Diagnosis, Prognosis, Cancer Therapeutics-- Advanced Methods and Clinical Trials\r\nLaboratory: Experiments on Cell Proliferation, Cell cycle analyses, Cell Differentiation, Necrosis and Apoptosis, Cell Migration, DNA damage assay, 3D Spheroid Model, Fluorescence Microscopy, Flow Cytometry. Together, these experiments will strengthen students\u2019 capacity to connect theoretical knowledge with experimental outcomes, preparing them for advanced research and industry applications in cancer biology and therapeutics",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BB#BBL7149"
+}

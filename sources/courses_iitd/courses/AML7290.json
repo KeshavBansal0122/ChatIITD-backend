@@ -1,0 +1,22 @@
+{
+  "code": "AML7290",
+  "name": "Structural Health Monitoring",
+  "description": "Introduction to Structural Health Monitoring (SHM); Types of structural damage and degradation mechanisms; Sensing technologies and sensor networks (strain gauges, accelerometers, fiber optics, piezoelectrics); Data acquisition and signal processing (filtering, sampling, frequency analysis); Vibration-based SHM (modal analysis, frequency response); Wave propagation-based methods (ultrasonics, acoustic emission); Advanced sensing technologies (fiber Bragg gratings, smart materials); Feature extraction and data analytics for SHM; Data-driven and physics-driven techniques for damage detection and localization; SHM system integration and deployment strategies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(AML2010&AML3080)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Structural Health Monitoring | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Structural Health Monitoring"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/structural-health-monitoring-0",
+  "slug": "structural-health-monitoring-0"
+}

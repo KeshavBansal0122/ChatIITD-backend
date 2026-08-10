@@ -1,0 +1,22 @@
+{
+  "code": "CTL7013",
+  "name": "Connected and Autonomous Vehicles",
+  "description": "Introduction to connected, automated, and software-defined vehicles (CAV\u2013SDV); vehicle system architecture and dynamics; perception and sensor fusion for cooperative awareness; V2X communication technologies \u2013 cooperative driving and maneuver coordination; software-defined vehicle architecture \u2013 AUTOSAR adaptive, middleware, OTA updates; functional safety and cybersecurity; artificial intelligence for perception and cooperative decision-making; digital twin and simulation frameworks for testing and validation; Powertrain and energy management integration in SDVs; human\u2013machine interface, system-of-systems reliability, and emerging standards for connected mobility.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Connected and Autonomous Vehicles | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Connected and Autonomous Vehicles"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/connected-and-autonomous-vehicles",
+  "slug": "connected-and-autonomous-vehicles"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CHL7313",
+  "name": "Polymerization Process Modeling",
+  "description": "Modeling of the step-growth, chain-growth, and non-linear polymerization in homogeneous and heterogeneous conditions. Design of CSTR, plug flow, batch, and multistep reactors for different polymerization reactions. Control and optimization of polymer reactors, mathematical modeling, and analysis of polymer processing units.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL2005",
+  "overlap": null,
+  "learning_outcomes": [
+    "Polymerization Process Modeling | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Polymerization Process Modeling"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/polymerization-process-modeling",
+  "slug": "polymerization-process-modeling"
+}

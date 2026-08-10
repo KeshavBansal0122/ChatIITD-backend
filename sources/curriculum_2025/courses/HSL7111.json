@@ -1,0 +1,16 @@
+{
+  "code": "HSL7111",
+  "name": "Macro Development Economics",
+  "description": "This course tries to address issues of development from a macroeconomic perspective. Developing countries are typically characterized by surplus labour and deficiency in capital and technology. Many of them are former colonies, and, with a few exceptions, they have little voice when it comes to setting international economic rules. Internal divisions in these countries, along the lines of class, caste and gender, restrain their growth potential. Given such a context, the course tries to understand economic and employment growth, capital accumulation, inequality, and fiscal and monetary policies. It also addresses questions of agrarian transition, industrialization, poverty, labour, migration, and gender.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL7111"
+}

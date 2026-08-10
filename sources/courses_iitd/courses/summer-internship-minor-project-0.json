@@ -1,0 +1,22 @@
+{
+  "code": "BBD8059",
+  "name": "Summer Internship / Minor Project",
+  "description": "The idea is to facilitate interaction of MTech students with external stakeholders such as industry, national laboratories, government agencies, and other academic organizations, in the form of an internship. DRC needs to approve the internship. In case external engagement is not feasible, the project may be carried out in the institute itself (with the approval of the DRC) as a \u201cminor project\u201d.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Summer Internship / Minor Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Summer Internship / Minor Project"
+  ],
+  "department": "Biochemical Engineering and Biotechnology, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/summer-internship-minor-project-0",
+  "slug": "summer-internship-minor-project-0"
+}

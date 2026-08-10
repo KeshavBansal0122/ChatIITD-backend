@@ -1,0 +1,16 @@
+{
+  "code": "MTL7761",
+  "name": "Basic Ergodic Theory",
+  "description": "Measure spaces, Haar measure, Poincare recurrence theorem, Hopf's maximal ergodic theorem, Birkhoff's ergodic theorem, von Neumann's ergodic theorem, isomorphism, conjugacy and spectral isomorphism, entropy, topological pressure and its relationship with invariant measures.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTL7761"
+}

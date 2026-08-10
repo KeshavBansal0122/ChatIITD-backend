@@ -1,0 +1,22 @@
+{
+  "code": "MTL3176",
+  "name": "Graph Algorithms",
+  "description": "Introduction to Graphs: Definition and basic concepts, efficient representations of Graphs, revision of graph searching and different MST algorithms, Enumeration of all spanning trees of a graph. Graph Connectivity algorithms,\nHamiltonian Graphs: sufficient conditions for Hamiltonian graphs, checking Hamiltonicity: Bellman-Held-Karp Algorithm, Characterization of Eulerian graphs, The Chinese Postman problem, Traveling Salesman Problem,\nPlanar Graphs: properties of planar graphs, a planarity testing algorithms; Graph Coloring: vertex coloring, edge coloring, planar graph coloring; Matching: maximum matching in bipartite graphs, maximum matching in general graphs; Finding Perfect Matchings, NP-completeness of graph problems, Exact Exponential Algorithms for NP-complete graph problems, Approximation algorithms for some NP-Hard graph problems; Algorithms for some NP-Hard graph problems on special graph classes; Treewidth: Definition, Dynamic Programming on Bounded Treewidth Graphs, Approximating Treewidth.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": "MTL2042/COL2051",
+  "overlap": null,
+  "learning_outcomes": [
+    "Graph Algorithms | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Graph Algorithms"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/graph-algorithms",
+  "slug": "graph-algorithms"
+}

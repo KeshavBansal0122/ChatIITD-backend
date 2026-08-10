@@ -1,0 +1,22 @@
+{
+  "code": "MSL9601",
+  "name": "Applied Operations Research",
+  "description": "Primary objective of the course is to demonstrate the real application of Operations Research (OR) in decision making using AI and ML. The pedagogy of the course would be a case based. Case study either from Ivey or Harvard or some of the top leading journals would be considered for discussion at every session. These case study will be related to have some application in industry (manufacturing or services). Initially, few sessions would be delivered to cover basics of OR before entering into the applied OR.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Applied Operations Research | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Applied Operations Research"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/applied-operations-research-0",
+  "slug": "applied-operations-research-0"
+}

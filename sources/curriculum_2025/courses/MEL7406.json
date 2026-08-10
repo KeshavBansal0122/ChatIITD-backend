@@ -1,0 +1,16 @@
+{
+  "code": "MEL7406",
+  "name": "Scientific Computing for Thermofluids",
+  "description": "Role of computation in thermofluids engineering, programming preliminaries, approximation and round-off errors, interpolation methods, least-squares regression, numerical methods for linear systems, methods for finding solutions of algebraic equation in one variable, numerical methods for differentiation, Taylor\u2019s series, truncation errors, numerical methods for integration, numerical methods for solving ODEs, applications to modeling and optimization of thermofluids systems.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL7406"
+}

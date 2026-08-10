@@ -1,0 +1,16 @@
+{
+  "code": "CHL7208",
+  "name": "Applications of Computational Fluid Dynamics",
+  "description": "Introduction to computational fluid dynamics turbulent flows, turbulence modeling, introduction to large eddy simulation and direct numerical simulations, multiphase flows, modeling approaches including continuum models [two-fluid, multi-fluid model (with population balances), mixture model, kinetic theory of granular flows (KTGF)], porous media, discrete particle models (discrete particle/element models, particle tracking in turbulent flows), free surface model (volume-of-fluid, level set methods), heat transport, problems involving conductive and convective heat transport, reactive flows, species transport without and with chemical reactions. Practical activities: flow through pipe, single phase stirred vessels, gas-liquid bubble columns, gas-liquid stirred vessels, gas-solid fluidized beds, gas-liquid-solid slurry reactors, gas-solid fixed beds, gas-liquid-solid trickle bed, liquid-liquid flows, liquid spreading on solid surfaces and micro-fluidic multiphase flows, etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CH",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CH#CHL7208"
+}

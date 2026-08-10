@@ -1,0 +1,22 @@
+{
+  "code": "AML7280",
+  "name": "Nonlinear Dynamics",
+  "description": "Introduction to concept of trajectories, phase space, singular points and limit cycle; linear stability analysis and introduction to bifurcations; analytical methods including perturbation techniques, and heuristic approaches like harmonic balance and equivalent linearization; stability of periodic solutions: Floquet&#039;s theory, Hill&#039;s and Mathieu&#039;s equations; nonlinear free and forced responses of the Duffing&#039;s and van der Pol equation; introduction to chaos and Lyapunov exponents.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(AML1000&AML2050&AML3000&AML3080) /AML7000",
+  "overlap": null,
+  "learning_outcomes": [
+    "Nonlinear Dynamics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Nonlinear Dynamics"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/nonlinear-dynamics",
+  "slug": "nonlinear-dynamics"
+}

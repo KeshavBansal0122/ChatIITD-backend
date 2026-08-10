@@ -1,0 +1,22 @@
+{
+  "code": "CVL7540",
+  "name": "Airport Planning and Operations",
+  "description": "Overview of aviation sector; forecasting demand-passenger, freight, peaking characteristics; aircraft characteristics; airport planning: requirements, site selection, layout plan; geometric design of runway, taxiway and aprons; airport capacity-airside, landside; airport pavement systems: design, maintenance, and overlay; air cargo facilities; airport safety and readiness; terminal operations- passenger, cargo; environmental impact of airports; airline scheduling; airport financing and economic analysis.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Airport Planning and Operations | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Airport Planning and Operations"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/airport-planning-and-operations",
+  "slug": "airport-planning-and-operations"
+}

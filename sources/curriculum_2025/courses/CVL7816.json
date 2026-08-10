@@ -1,0 +1,16 @@
+{
+  "code": "CVL7816",
+  "name": "Water Resources Systems",
+  "description": "Water resources planning purposes and objectives; multi-component, multi-user, multi-objective and multi-purpose attributes of an integrated water resources system; economic principles for evaluating alternative plans including benefit-cost analysis; reservoir sizing and design; environmental and water quality aspects of river basin management; structural flood control alternatives and estimation of storage capacities; multi-objective and multi-criteria decision-making in water resources planning; application of linear, dynamic, and integer programming in capacity expansion and system optimization; deterministic and stochastic models for multi-purpose river basin planning and management; simulation-based multi-goal modeling approaches for water management; irrigation planning and operation models including conjunctive use of surface and groundwater; modern tools and decision support systems for reservoir operation, canal management, hydropower scheduling, flood control, and sediment management; uncertainty in water resources management planning.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7816"
+}

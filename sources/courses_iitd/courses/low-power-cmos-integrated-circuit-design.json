@@ -1,0 +1,22 @@
+{
+  "code": "CRL7028",
+  "name": "Low-Power CMOS Integrated Circuit Design",
+  "description": "CMOS VLSI design flow, basics of MOS physics, wires and interconnects, differential MOS amplifiers, CMOS inverter design, static and dynamic power considerations, CMOS circuit design for Boolean function implementation, combinational CMOS logic gates, timing analysis of CMOS gates, logical effort calculation, critical path delay, pseudo-Nmos circuits, domino logic, CMOS full adder implementations, CMOS multipliers implementations, static timing analysis of circuits, latch versus flipflop, multiplexer (MUX) design using domino logic, introduction to LTSPICE software, DC and transient simulations, AC simulations, LTSPICE: frequency domain simulations, Monte-Carlo simulations, CMOS inverter-design, 6T SRAM cell design, voltage level-shifter design, line-receiver design, Schmitt trigger, description languages: VHDL and Verilog, digital design using HDLs: inverters/logic-gates., digital design using HDLs: adders/multipliers and ALU.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Low-Power CMOS Integrated Circuit Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Low-Power CMOS Integrated Circuit Design"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/low-power-cmos-integrated-circuit-design",
+  "slug": "low-power-cmos-integrated-circuit-design"
+}

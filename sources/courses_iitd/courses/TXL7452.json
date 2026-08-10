@@ -1,0 +1,21 @@
+{
+  "code": "TXL7452",
+  "name": "Colour Science",
+  "description": "Principles of light, light interaction with matter, colour perception. Spectral power distribution, metamerism, chromatic adaptation, spectrophotometry, colorimetry. Colour order systems, CIE standards, applications in textiles, digital imaging, lighting technologies. Colour measurement, recipe prediction, visual color matching in industrial contexts. Theoretical foundations and practical insights in colour. Scientific and engineering perspectives of colour in textiles, advanced material applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Colour Science | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/colour-science",
+  "slug": "colour-science"
+}

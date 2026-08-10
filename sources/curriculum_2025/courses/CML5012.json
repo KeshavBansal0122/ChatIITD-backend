@@ -1,0 +1,16 @@
+{
+  "code": "CML5012",
+  "name": "Stereochemistry and Organic Reaction Mechanisms",
+  "description": "Stereochemistry of acyclic and cyclic compounds, including chiral molecules without a chiral centre. Reaction mechanisms (polar and free radical) with stereochemical considerations. Reactive intermediates: generation, structure, and reactivity.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CM#CML5012"
+}

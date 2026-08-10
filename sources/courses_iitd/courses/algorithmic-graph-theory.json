@@ -1,0 +1,22 @@
+{
+  "code": "COL7151",
+  "name": "Algorithmic Graph Theory",
+  "description": "MSTs: recap of Prim\u2019s/Kruskal\u2019s/Bor\u016fvka\u2019s algorithms, Karger-Klein-Tarjan linear-time randomized algorithm for MSTs, Edmonds\u2019 algorithm for arborescences (aka directed MSTs). Shortest paths: min-sum products, computing shortest paths via min-sum products, Seidel&#039;s algorithm for all-pairs distances via matrix multiplication and shortest path reconstruction, algebraic algorithms for shortest paths, approximate APSP in near-quadratic time. Max-flows: recap of the Ford-Fulkerson algorithm, Edmonds-Karp algorithm, capacity scaling algorithm, min-cost flows and applications, Dinic\u2019s algorithm, push-relabel algorithm, algebraic algorithms for max-flow. Cuts: sub-modularity of cuts, structure of (s, t)-min-cuts and global min-cuts, Karger-Stein\u2019s near-quadratic time algorithm for global min-cuts, Gomory-Hu trees and their applications, tree packings, and the Tutte-Nash-Williams theorem. Matchings: Hopcroft-Karp algorithm for bipartite matching, K\u0151nig-Egerv\u00e1ry theorem, Hall\u2019s theorem, Edmonds\u2019 blossom algorithm for maximum matching, Tutte-Berge formula, Gallai-Edmonds decomposition, algebraic algorithms for perfect matching. Planar graphs: properties of planar graphs, Kuratowski\u2019s theorem, algorithms for checking planarity, planar separator theorem and its applications. Graph parameterisation: tree-width and algorithm for computing tree-width, algorithms for graphs with bounded tree-width.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(COL2051/MTL2042)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Algorithmic Graph Theory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Algorithmic Graph Theory"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/algorithmic-graph-theory",
+  "slug": "algorithmic-graph-theory"
+}

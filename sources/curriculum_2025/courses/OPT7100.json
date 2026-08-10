@@ -1,0 +1,16 @@
+{
+  "code": "OPT7100",
+  "name": "Summer Internship",
+  "description": "Specific project work assigned to the student during summer semester. The student will make a plan of action in consultation with the supervisor, execute the work and prepare a technical report.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "OP",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=OP#OPT7100"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "COD8092",
+  "name": "M.Tech. Project I",
+  "description": "Identify a research or development problem, conduct a literature review, and formulate a clear plan of action. Define objectives, design an initial approach or system architecture, and document progress through presentations and a written report.",
+  "credits": 6.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 12.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "M.Tech. Project I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "M.Tech. Project I"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mtech-project-i",
+  "slug": "mtech-project-i"
+}

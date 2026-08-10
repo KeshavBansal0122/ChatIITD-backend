@@ -1,0 +1,16 @@
+{
+  "code": "PYL7126",
+  "name": "Semiconductor Device Technology",
+  "description": "Introduction to semiconductor device technology, silicon crystal growth: Czochralski process and dopant distribution, silicon wafer fabrication, GaAs crystal growth techniques, thermal oxidation, oxidation kinetics, and oxide characterization methods, chemical vapor deposition (CVD) for silicon dioxide, silicon nitride, and polysilicon; MOCVD of compound semiconductors; diffusion in semiconductors; diffusion profiles; ion implantation: principles, components, and annealing techniques, silicon on insulator (SOI) technology, lithography: methods, photoresist types, and pattern transfer steps, etching: wet and plasma etching, isotropic versus anisotropic etching, physical vapor deposition (PVD): evaporation, sputtering, and molecular beam epitaxy (MBE).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL7126"
+}

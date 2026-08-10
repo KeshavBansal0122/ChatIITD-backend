@@ -1,0 +1,16 @@
+{
+  "code": "MED7151",
+  "name": "Major Project Part-1",
+  "description": "In this project, the student must meet with the supervisor at least once a week to discuss the progress. The supervisor will suggest the project's scope, methodology, tools, and techniques per the project's requirements. By the end of major project part-1, the student should have completed a significant part of the work required for producing a high-quality master's thesis in industrial engineering and operations research.",
+  "credits": 12.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 24.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MED7151"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "BBL7070",
+  "name": "Bioethics and Communication",
+  "description": "The goal of this course is to provide a foundational understanding of ethical principles in biochemical and biotechnology research and to develop communication skills. Students will gain an understanding of best laboratory practices applicable to both academic and industrial settings. Additionally, the course will provide a basic understanding of the use of biosafety equipment, personal protective equipment (PPE), biological containment, sterilization, decontamination, and spill management.\r\nContent: Fundamental principles of biosafety, Lab design and safe working practices, Infectious agents, Biosafety levels (BSL1-4), Biological risk identification, Risk containment, and management, Relationship between biosafety levels (BSL) and risk groups, Sterilization, Decontamination, Disinfection, Containment facilities and equipment, Biological waste management, lab inspection guidelines, Guidelines for storage of lab consumable, and chemicals (hazardous chemicals, inflammable chemicals, refrigerated chemicals, compressed gases), Spill management.\r\nPrinciples of bioethics, Importance of bioethics in research, Need and justification of research, cost vs. resource utilization, Environmental impact and sustainability, Biomanufacturing and environmental ethics, Clinical ethics, Bioethics in research involving microbials, animals and humans, Bioethics in genetics engineering, Informed consent, Bioethical challenges, Ethics in research integrity.\r\nNational and International regulatory affairs in biomanufacturing and drug development (CDSCO, CTRI, cGMP and CFR21, Commercialization of devices and drugs.\r\nIdentifying key findings in research articles, Detail of methodology, Writing summaries and critical analysis, Identifying research gaps, Basics of IMRaD format (Introduction, Methods, Results, Discussion), Figure legends, Academic writing (Research article writing, Reports and theses, Grant proposals), Basic elements of a research proposal.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BB#BBL7070"
+}

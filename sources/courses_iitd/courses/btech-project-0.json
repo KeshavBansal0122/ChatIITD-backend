@@ -1,0 +1,21 @@
+{
+  "code": "MTD4050",
+  "name": "BTech Project",
+  "description": "Identify the problem; literature search; formulate and analyze the theory and results in the case of a theoretical project; design set-up, algorithm, data experiments, and results analysis in the case of analytics, statistical, and numerical projects. The work is then compiled into scientific project reports and concluded with oral presentations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "BTech Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/btech-project-0",
+  "slug": "btech-project-0"
+}

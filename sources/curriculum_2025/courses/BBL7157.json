@@ -1,0 +1,16 @@
+{
+  "code": "BBL7157",
+  "name": "Electromicrobiology and Bioelectrochemical Systems",
+  "description": "Common electroactive microorganisms (Shewanella, Geobacter, weak electricigens); Microbial extracellular electron transfer (direct electron transfer, mediated electron transfer using soluble electron shuttles, microbial nanowires); Electrolytes in bioelectrochemical experiments (electrolytes as microbial growth medium, ion transport in electrolytes); Bio-electrodes (biofilm formation, role of planktonic electroactive community members, electrochemical features of the interface); Basics of electrochemical cells (electrode potential, thermodynamics, kinetics, overpotential, half-cell reactions, combining two half-cells, three-electrode set-ups); Characterisation of live electroactive microbial cultures using voltammetry, chronoamperometry, chronocoulometry and electrochemical impedance spectroscopy; Microbial fuel cells (power production, wastewater treatment, scale-up issues, common calculations, configurations and materials); microbial electrolysis cells (hydrogen and commodity chemical production); electrofermentation; bioelectrochemical sensors.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BB#BBL7157"
+}

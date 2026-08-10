@@ -1,0 +1,22 @@
+{
+  "code": "MSL7710",
+  "name": "Strategy Simulations",
+  "description": "This course contains the following topics:\nCapsimCore simulation\nFoundation simulation\nCapsimOps\nCapstone Business Simulation\nCapsimGlobal\nGlobalDNA\nCase Modules",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(MSL7701) &(MSL7702)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Strategy Simulations | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Strategy Simulations"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/strategy-simulations",
+  "slug": "strategy-simulations"
+}

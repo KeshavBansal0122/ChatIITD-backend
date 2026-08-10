@@ -1,0 +1,22 @@
+{
+  "code": "CVL8999",
+  "name": "AI and ML in Construction Project Management",
+  "description": "Introduction to AI, role of AI & ML in construction, data collection, Big Data analytics, machine learning algorithms, neural networks, and deep learning applications, AI driven scheduling, resource allocation, BIM integration, IoT-based real-time monitoring, NLP for contract administration, and predictive modeling for construction projects. Creating dashboards with Power BI, developing neural network prototypes using PyTorch and TensorFlow, and building AI agents for automating project records, develop AI models to optimize project performance",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "AI and ML in Construction Project Management | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "AI and ML in Construction Project Management"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/ai-and-ml-construction-project-management",
+  "slug": "ai-and-ml-construction-project-management"
+}

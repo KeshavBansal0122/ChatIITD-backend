@@ -1,0 +1,22 @@
+{
+  "code": "ELL8504",
+  "name": "Electric Traction",
+  "description": "Applications of electric traction system for road, rail, water and air transport. Classification of different parts of electric drives: converter, machines, control strategies, and energy sources. Control of induction machines: Modeling and rotor flux oriented vector control, DTC, Sensorless control. Control of synchronous machines: Modeling and vector control, Sensorless control. EV drivetrain: Vehicle dynamics and velocity profile. Hybrid EV. Railway traction system: system architecture, speed profile analysis, energy saving through regenerative braking. Time table and energy optimization. Ship propulsion system and variable speed drive, Medium voltage drives for energy saving. More electric aircraft: use of high speed motors and compact WBG power converters. Fast chargers for EV, Vehicle Controllers and Communication, Autonomous vehicle.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Electric Traction | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Electric Traction"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/electric-traction",
+  "slug": "electric-traction"
+}

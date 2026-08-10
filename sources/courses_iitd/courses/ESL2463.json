@@ -1,0 +1,22 @@
+{
+  "code": "ESL2463",
+  "name": "Power Electronics and Motor Drives",
+  "description": "Basics of power electronics, different types of converters, various factors for selecting Power Electronic devices for different applications, various Types of Fully Controlled switches, analysis and applications of rectifiers and inverters, analysis of DC-DC converters, control and modulation techniques, Overview of various types of electrical drives, types of loads, DC drives. Mathematical modeling and analysis of steady state characteristics as well as choice and dimensioning of current- and speed-controllers, most commonly used AC drives; Induction motor drives, Converter topologies and control principles used in modern electrical drives",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL1000",
+  "overlap": null,
+  "learning_outcomes": [
+    "Power Electronics and Motor Drives | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Power Electronics and Motor Drives"
+  ],
+  "department": "Pulse Width Modulation Techniques and AC Motor Drives",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/power-electronics-and-motor-drives",
+  "slug": "power-electronics-and-motor-drives"
+}

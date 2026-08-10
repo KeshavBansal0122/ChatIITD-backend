@@ -1,0 +1,22 @@
+{
+  "code": "MEL3024",
+  "name": "Sustainable Manufacturing",
+  "description": "Basic understanding of the concept of Sustainability and its relevance to modern manufacturing processes. Drivers for sustainable manufacturing- Environmental, economic and social issues involved with sustainable practice. Role of manufacturing in achieving the sustainability development goals (SDGs). Relation between green, lean and sustainable manufacturing. Life cycle assessment \u2013 concepts, methodology and tools used in LCA. Estimating carbon footprint and other environmental performance indicators, Sustainable Manufacturing Systems (closed loop production systems). Value recovery -manufacturing recycling, reuse and scrap. Enabling role of smart manufacturing and digitalization in sustainability, Energy and resource optimization using IoT, AI and data analytics,. ISO standards for sustainable manufacturing. Concept of Smart factories, future directions in sustainable manufacturing practices and best global practice",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Sustainable Manufacturing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Sustainable Manufacturing"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/sustainable-manufacturing",
+  "slug": "sustainable-manufacturing"
+}

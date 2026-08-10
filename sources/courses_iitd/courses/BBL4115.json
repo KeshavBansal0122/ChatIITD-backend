@@ -1,0 +1,22 @@
+{
+  "code": "BBL4115",
+  "name": "Biotech Product Development",
+  "description": "Design optimization and scaleup of biotech processes for metabolites, proteins (including recombinant proteins) and bio-transformations. Purification strategies for different categories of products with specific examples like amino acids, penicillin, insulin, steroids etc., Online monitoring of processes for quality control. Introduction to quality by design (QBD). Quality assurance and quality control (QA/QC) procedures for different products with different end uses. Regulatory issues governing product development and manufacturing. GMP requirements and CFR21 compliance. Freedom to operate (FTO) and other IP issues in biomanufacturing",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(BBL3213) &BBL3214",
+  "overlap": null,
+  "learning_outcomes": [
+    "Biotech Product Development | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Biotech Product Development"
+  ],
+  "department": "Biochemical Engineering and Biotechnology, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/biotech-product-development",
+  "slug": "biotech-product-development"
+}

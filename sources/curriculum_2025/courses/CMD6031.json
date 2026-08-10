@@ -1,0 +1,16 @@
+{
+  "code": "CMD6031",
+  "name": "Minor Project",
+  "description": "Minor Project work on a chosen topic conducted under the supervision of a faculty member.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CM#CMD6031"
+}

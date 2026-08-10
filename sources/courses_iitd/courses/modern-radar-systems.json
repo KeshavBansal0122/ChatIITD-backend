@@ -1,0 +1,22 @@
+{
+  "code": "CRL7039",
+  "name": "Modern Radar Systems",
+  "description": "Radar principles, radar range equation and implications, range and velocity estimation and ambiguity, CW radar, FM radar, pulse radar, radar cross section, radar clutter, pulse compression, MTI radar, pulse doppler radar, tracking, phased arrays, SAR, microwave imaging, radar waveforms and signal processing. Localization and beamforming of radar signal, detection and estimation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Modern Radar Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Modern Radar Systems"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/modern-radar-systems",
+  "slug": "modern-radar-systems"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "DDP1005",
+  "name": "Image Making",
+  "description": "This course explores the fundamentals of image-making through visuals and graphic representation, focusing on visual communication techniques essential for branding, advertising, and digital media. Students will experiment with illustration, digital concept art, photography, and composition to develop a strong visual language. Practical sessions include sketching exercises, digital rendering, image manipulation, and mixed-media explorations. Students will create advertising visuals, editorial illustrations, and conceptual storytelling pieces to enhance their design communication skills. The course also covers the role of visual metaphors in effective messaging. Hands-on mini-projects will help develop a professional body of work.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": "(DDP1001&DDP1002&DDP1003&DDP1004)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Image Making | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/image-making",
+  "slug": "image-making"
+}

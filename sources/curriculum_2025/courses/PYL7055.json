@@ -1,0 +1,16 @@
+{
+  "code": "PYL7055",
+  "name": "Basic Optics and Optical Instrumentation",
+  "description": "Ray optics, scalar wave optics, EM wave optics and optical coherence, beam optics and properties of gaussian and higher order beams, basics of light polarization and polarizing optical components, reflection and refraction of plane waves by planner and spherical surfaces, thin film science and technology: antireflection coatings, multilayer coatings and interference filters, step-height and thin film thickness measurement, basics of diffraction: near field and far field diffraction, diffraction by single and multiple slits and circular apertures, interference: two beam and multiple beam interference and systems, interferometers: shearing and scanning interferometers, interferometric instrumentation for optical testing and interference microscopy. Precision optical system development: concepts, system design, component, assembly and testing, spectroscopic instrumentation and fourier transform spectroscopy, polarization based instrumentation; ellipsometers, polarizing microscopes, and polarization camera, optical telescopes and instrumentation, adaptive optics; wavefront sensing and correction, reconstruction, infrared instrumentation; IR telescopes, focal plane arrays; light field camera, space optics, metrology and surface characterisation: contact and non-contact testing of precision optics, optical metrology; contact and non-contact profilometry instrumentation and methodologies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL7055"
+}

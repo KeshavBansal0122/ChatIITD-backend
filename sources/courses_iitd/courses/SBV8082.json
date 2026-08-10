@@ -1,0 +1,22 @@
+{
+  "code": "SBV8082",
+  "name": "Biological Membranes",
+  "description": "Introduction to hydrophobic interactions and the hydrophobic effect, phospholipid model systems, cellular membrane asymmetry, membrane dynamics, membrane trafficking, membrane fusion, membrane proteins (form and function), small molecule permeability, pores channels and transporters, lipid systems for drug delivery.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(SBL1100/SBL1102) &SBP1100",
+  "overlap": null,
+  "learning_outcomes": [
+    "Biological Membranes | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Biological Membranes"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/biological-membranes",
+  "slug": "biological-membranes"
+}

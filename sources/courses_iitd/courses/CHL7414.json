@@ -1,0 +1,22 @@
+{
+  "code": "CHL7414",
+  "name": "Petroleum Reservoir Engineering",
+  "description": "Introduction of static model including porosity, permeability, compressibility and saturations. Crude oil phase behaviour and its measurement techniques for reservoir and laboratory settings. Meaning and calculation of &#039;oil in place&#039; numbers with respect to different recovery mechanisms. Material balance for hydrocarbon reservoirs. Pressure transient analysis. Primary, secondary and tertiary recovery mechanisms, Buckley-Leverett theory (fractional flow curves) for immiscible and miscible displacement. Production forecasting and introduction to reservoir simulation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL1001&CHL2002",
+  "overlap": null,
+  "learning_outcomes": [
+    "Petroleum Reservoir Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Petroleum Reservoir Engineering"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/petroleum-reservoir-engineering",
+  "slug": "petroleum-reservoir-engineering"
+}

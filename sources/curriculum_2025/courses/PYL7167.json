@@ -1,0 +1,16 @@
+{
+  "code": "PYL7167",
+  "name": "Atomic and Molecular Physics",
+  "description": "Hydrogen and alkali metals, double fine structure of atoms, magnetic moments of one to multi electron atoms, spin-orbit coupling, selection rules, Zeeman and Paschen-back effect, X-ray spectra, Fermi golden rule relating to experimental quantities of absorption spectra, transition probability, line intensities (spectral line broadening mechanisms, population of states, Beer-Lambert law), molecular symmetry, irreducible representations, rotational and vibrational spectra of diatomic molecules, FTIR and Raman spectroscopy, electronic spectroscopy, spectroscopic instrumentations, Franck-Condon principle, bond dissociation energies, photoluminescence spectroscopy, molecular orbital and models.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL7167"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "ELL7121",
+  "name": "Robust Control",
+  "description": "Mathematical Preliminaries: vector, matrix, signals and systems, SVD; Feedback interconnection, Well-posedness and Internal stability; Coprime factorization and stabilizing controllers; Uncertainty representations: Parametric, non-parametric, Structured and Unstructured; Uncertain polynomials , Kharitonov&#039;s result; Stability of polytope of polynomials; Sensitivity and complementary sensitivity, Linear fractional transformation (LFT) and Robust Stability; LMI and Algebraic Riccati Equation and Solution; H-2 and H-{infinity} control problems ; mu-Synthesis",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Robust Control | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/robust-control",
+  "slug": "robust-control"
+}

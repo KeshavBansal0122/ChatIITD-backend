@@ -1,0 +1,16 @@
+{
+  "code": "BBL7054",
+  "name": "Optics Within Life Science",
+  "description": "This course introduces the fundamental principles of light\u2013matter interaction and explores key optical phenomena such as absorbance, fluorescence, and scattering in biological systems. It covers essential components of optical instrumentation\u2014from light sources to detectors\u2014and a range of spectroscopic and imaging techniques, including confocal, TIRF, non-linear, super-resolution, and single-molecule microscopy. Practical modules include hands-on training in microscope handling, fluorescence staining, advanced imaging methods, and light sheet microscopy. Students will also engage in digital image acquisition, large dataset analysis, and automation workflows.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BB#BBL7054"
+}

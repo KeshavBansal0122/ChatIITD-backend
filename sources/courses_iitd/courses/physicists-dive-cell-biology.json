@@ -1,0 +1,22 @@
+{
+  "code": "CHL7101",
+  "name": "A Physicist\u2019s Dive into Cell Biology",
+  "description": "Materials and typical length- and timescales in cell and organisms; structure and function of various cellular components; phenomenological growth laws; random walks and two-state systems; ligand-receptor binding (cooperativity, competitive binding); modeling of role of noise in biological systems (chemical reactions, chemotaxis, regulation of gene expression), thermodynamics of biological macromolecules; biomembrane structure, elasticity, and fluidity; modeling and simulations of interaction of biological macromolecules with biomembranes.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(CHL2002/CML2033/MCL1140) &MTL1001",
+  "overlap": null,
+  "learning_outcomes": [
+    "A Physicist\u2019s Dive into Cell Biology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "A Physicist\u2019s Dive into Cell Biology"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/physicists-dive-cell-biology",
+  "slug": "physicists-dive-cell-biology"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "SRN7001",
+  "name": "Teaching and Research Practicum",
+  "description": "To perform teaching/research assistantship for 8 hours per week assigned by the TA/RA supervisor.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Teaching and Research Practicum | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Teaching and Research Practicum"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/teaching-and-research-practicum-4",
+  "slug": "teaching-and-research-practicum-4"
+}

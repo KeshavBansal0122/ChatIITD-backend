@@ -1,0 +1,22 @@
+{
+  "code": "SBV8089",
+  "name": "Diagnostic Virology",
+  "description": "Introduction to diagnostic virology \u2013 direct and indirect methods, specimens and window period; microscopy \u2013 light microscopy, electron microscopy, and fluorescence microscopy in virus identification; methods of virus isolation \u2013 cell culture, embryonated egg inoculation and animal inoculation; viral antigen detection - methods, assay characteristics, rapid antigen identification techniques; detection of viral antibodies \u2013 methods, role of quantitative measurements, class-specific immunoglobulin detection; viral nucleic acids \u2013 amplification, detection and quantitation methods; molecular epidemiology of viral infections \u2013 high throughput methods; identifying antiviral resistance \u2013 genotypic and phenotypic approaches; quality control in diagnostic virology \u2013internal and external quality control, international standards, and Shewhart control charts.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "SBL1100/SBL1102",
+  "overlap": null,
+  "learning_outcomes": [
+    "Diagnostic Virology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Diagnostic Virology"
+  ],
+  "department": "Human Virology",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/diagnostic-virology",
+  "slug": "diagnostic-virology"
+}

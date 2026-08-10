@@ -1,0 +1,22 @@
+{
+  "code": "CRL7003",
+  "name": "Optimization for Data Science and Signal Processing",
+  "description": "Review of linear algebra, convex sets and functions; convex optimization problems: linear programming (LP), quadratic programming (QP), quadratically constrained quadratic program (QCQP), second-order cone programming (SOCP), and semidefinite programming (SDP); usage of disciplined convex programming tools in MATLAB/python; Lagrange duality, Karush\u2013Kuhn\u2013Tucker (KKT) conditions and their applications, gradient descent, Newton\u2019s method, ADMM, and coordinate descent, among others; applications-signal processing, communications and radar: compressed sensing, phase retrieval, and radar sequence design, among others. Data science, machine learning and statistics: covariance estimation, logistic regression, and matrix completion, among others.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(MTL1106/CRL7001)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Optimization for Data Science and Signal Processing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Optimization for Data Science and Signal Processing"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/optimization-data-science-and-signal-processing",
+  "slug": "optimization-data-science-and-signal-processing"
+}

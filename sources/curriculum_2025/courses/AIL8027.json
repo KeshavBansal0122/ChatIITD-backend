@@ -1,0 +1,16 @@
+{
+  "code": "AIL8027",
+  "name": "Advanced Reinforcement Learning",
+  "description": "Multi-agent RL, constrained RL, hierarchical RL, RL for LLMs, imitation learning, unsupervised RL, distributional RL, meta RL, goal conditioned RL and other advanced topics in RL.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AI",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AI#AIL8027"
+}

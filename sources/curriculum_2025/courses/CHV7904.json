@@ -1,0 +1,16 @@
+{
+  "code": "CHV7904",
+  "name": "Recent Advances in Chemical Engineering",
+  "description": "The course content will be declared by the instructor.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CH",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CH#CHV7904"
+}

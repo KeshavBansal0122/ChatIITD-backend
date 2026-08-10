@@ -1,0 +1,16 @@
+{
+  "code": "RDL7705",
+  "name": "Rural Resources and Livelihoods",
+  "description": "Holistic understanding of concepts, processes and relationships among agro- climatic and natural resources, production systems and livelihoods of rural people. The rural resources include land, soil, water and forests and people's knowledge, synergy between farm and non-farm sectors for generating sustainable livelihoods and poverty alleviation, sustainable wealth generation in rural areas, participatory systems approach.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "RD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=RD#RDL7705"
+}

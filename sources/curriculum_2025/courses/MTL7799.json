@@ -1,0 +1,16 @@
+{
+  "code": "MTL7799",
+  "name": "Mathematical Analysis in Learning Theory",
+  "description": "Review: Hilbert space, orthonormal basis, projection theorem, Riesz representation theorem, compact operators, spectral theorem for self-adjoint compact operators. Reproducing kernel Hilbert space (RKHS), positive definite functions, feature maps, Gaussian kernel and their RKHSs, Mercer\u2019s theorem, the elements of statistical learning theory, probabilistic inequalities, Tikhonov-type regularization, general regularization in Hilbert space, representer theorem, convergence analysis of empirical risk minimization, optimal convergence rates for kernel methods, adaptive regularization parameter choice rules. Approximation by trigonometric polynomials, neural networks, universal approximation, ReLU neural networks, convergence rates for holder continuous functions, analysis of deep versus shallow, universal approximation of deep convolution neural networks.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTL7799"
+}

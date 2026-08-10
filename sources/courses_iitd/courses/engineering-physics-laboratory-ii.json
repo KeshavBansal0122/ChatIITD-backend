@@ -1,0 +1,22 @@
+{
+  "code": "PYP2004",
+  "name": "Engineering Physics Laboratory - II",
+  "description": "The course consists of a total of seven optics-based experiments. The experimental setups will consist of multiple parts including the light sources in the form of lasers, lamps, etc., optical components such as lenses, mirrors, filters, slits, fibers, optomechanics, optical rails, photodetectors, power meters, spectrometers, digital oscilloscopes, data loggers and so on. Students would use the appropriate components for developing the setups for the measurements in the experiment given. A variety of experiments are included such as the open frame helium neon laser, multi-slit diffraction, optical fiber modal analysis, laser beam parameters, acousto-optic and Faraday effects.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Engineering Physics Laboratory - II | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Engineering Physics Laboratory - II"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/engineering-physics-laboratory-ii",
+  "slug": "engineering-physics-laboratory-ii"
+}

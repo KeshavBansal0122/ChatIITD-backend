@@ -1,0 +1,22 @@
+{
+  "code": "COL7372",
+  "name": "Natural Language Processing",
+  "description": "NLP concepts: tokenization, syntax, information extraction, question answering, semantics, text classification, reasoning and textual inference, language modeling, discourse, machine translation, instruction following, knowledge-based NLP, NLP for low-resource languages, text2code. CS techniques: word2Vec, LSTMs, key-value attention, transformers, LLMs, pre-training, fine-tuning, LoRA, instruction fine-tuning, RLHF, LRMs, RLVR, efficient LLMs, RAG, agentic AI.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(COL7341/COL3341/COL7375/COL3333/COL7333/AIL7025/AIL7021/AIL7024)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Natural Language Processing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Natural Language Processing"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/natural-language-processing-0",
+  "slug": "natural-language-processing-0"
+}

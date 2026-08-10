@@ -1,0 +1,22 @@
+{
+  "code": "MLL3005",
+  "name": "Corrosion and Degradation of Materials",
+  "description": "Introduction to corrosion and degradation of materials. Electrochemical thermodynamics and kinetics of corrosion. Passivity. Corrosion related failures and types of corrosion (uniform, galvanic, crevice corrosion, pitting, intergranular, dealloying, erosion, cavitation, fretting, corrosion cracking, corrosion fatigue, and microbiological corrosion). Elevated temperature corrosion (oxidation, creep, thermal fatigue, metallurgical instabilities). Thermodynamics and kinetics of oxidation. Environmental degradation of engineering materials including glass, polymers, ceramics and composites. Corrosion prevention (cathodic protection, coatings and inhibitors).",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Corrosion and Degradation of Materials\u202f | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Corrosion and Degradation of Materials"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/corrosion-and-degradation-materials",
+  "slug": "corrosion-and-degradation-materials"
+}

@@ -1,0 +1,21 @@
+{
+  "code": "MTL7256",
+  "name": "Lie Groups",
+  "description": "Brief introduction to manifolds. Classical Lie groups. Left-invariant vector fields, Lie algebra of a Lie group. One-parameter subgroups, exponential map. Homomorphisms of Lie groups and Lie algebras. Ad and ad. The Campbell-Baker-Hausdorff series. Compact connected abelian Lie groups are tori. Lie subgroups. Definition of embedded submanifolds. A subgroup is an embedded Lie subgroup if and only if it is closed. Continuous homomorphisms of Lie groups are smooth. Correspondence between Lie subalgebras and Lie subgroups (proved assuming the Frobenius theorem). Correspondence between Lie group homomorphisms and Lie algebra homomorphisms. Ado&#039;s theorem (statement only), Lie&#039;s third theorem. Basics of representation theory: sums and tensor products of representations, irreducibility, Schur&#039;s lemma. Compact Lie groups: left-invariant integration, complete reducibility. Representations of the circle and of tori. Characters, orthogonality relations. Peter-Weyl theorem (statement only). Maximal tori. Roots. Conjugates of a maximal torus cover a compact connected Lie group. Weyl group. Reflections. Representation theory of SU(2) and SU(3). Killing form. Remarks about the classification of compact Lie groups.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "MTL2005MTL3107",
+  "overlap": null,
+  "learning_outcomes": [
+    "Lie Groups | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/lie-groups",
+  "slug": "lie-groups"
+}

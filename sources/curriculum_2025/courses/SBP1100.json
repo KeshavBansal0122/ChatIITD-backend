@@ -1,0 +1,16 @@
+{
+  "code": "SBP1100",
+  "name": "Experimental Biology for Engineers",
+  "description": "Biosafety, preparation of standard biological buffers, buffering capacity and pKa of buffers, biomolecules, whole cells and plant tissues in different buffering conditions; observing cell surface and intracellular contents using light and fluorescence microscopy, real-time video microscopy of motile cells; measuring and visualizing intracellular molecular components - proteins and genomic DNA. PCR, ELISA, antigen-antibody interaction.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SB#SBP1100"
+}

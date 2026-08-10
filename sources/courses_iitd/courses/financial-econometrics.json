@@ -1,0 +1,22 @@
+{
+  "code": "MSL7219",
+  "name": "Financial Econometrics",
+  "description": "This course is designed for postgraduate students. It will introduce the students to the contemporary econometric and computational tools used in carrying out financial analysis. The units in this course, with special focus on Bayesian techniques, are oriented towards model building, estimation, inference, and evaluation. In this course, we aim to introduce the econometric model and then complement it with appropriate applications in finance. The course will use MATLAB and R for understanding the application of econometric methods in finance. It will facilitate the students in enhancing their econometric and computational skills.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Financial Econometrics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Financial Econometrics"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/financial-econometrics",
+  "slug": "financial-econometrics"
+}

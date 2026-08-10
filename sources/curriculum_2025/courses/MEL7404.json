@@ -1,0 +1,16 @@
+{
+  "code": "MEL7404",
+  "name": "Experimental Methods for Thermofluids",
+  "description": "Methodology and planning of experimental work in thermofluids engineering and reporting results. Types of errors, uncertainty propagation and statistical basis of uncertainty. Statistics and data interpretation: population and sample, mean and standard deviation, standard deviation of mean, probability distributions and sample size selection. Design of experiments. Instruments: specifications, characteristics, and sources of error. Data acquisition and signal processing: analog to digital conversion, Fourier series and transform, sampling, aliasing, and filtering. Cross-correlation and autocorrelation. Digital image analysis.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL7404"
+}

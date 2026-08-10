@@ -1,0 +1,16 @@
+{
+  "code": "SPL3361",
+  "name": "Information & Communication Technologies and Society",
+  "description": "Introduction to information and communications technologies (ICT) including internet of things (IoT), smart city concept, ICT and urban sensing, ICT use in transportation and applicability, policy for ICT in education and case studies of NMEICT projects, global water crisis and sanitation challenges, ICT for water and sanitation, role of ICT in health, role of ICT towards inclusive society with policy nexus, municipal waste management and ICT, e-governance, limitations and challenges of ICT, digital divide, unanticipated consequences of ICT, social change and the cult of technology, technology and disempowerment, data privacy, data protection bill/regulation (GDPR and DPDPB), conceptualization of ICT-based potential solution.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SP",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SP#SPL3361"
+}

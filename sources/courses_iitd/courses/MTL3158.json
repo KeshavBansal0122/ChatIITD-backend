@@ -1,0 +1,22 @@
+{
+  "code": "MTL3158",
+  "name": "Operating Systems",
+  "description": "Introduction to Operating System;\nProcess Abstraction, Mechanism for Process Execution;\n Scheduling Policy;\nMemory Management: Address Translation Mechanism, Segmentation and Free Space Management;\nPaging: Paging with TLB; Swapping Mechanism and Policy;\n Concurrency using Threads; Locks, Condition Variable and Semaphores; Deadlock Handling\nHandling I/O devices; File Systems Implementation",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Operating Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Operating Systems"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/operating-systems-0",
+  "slug": "operating-systems-0"
+}

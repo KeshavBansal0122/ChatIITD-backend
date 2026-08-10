@@ -1,0 +1,22 @@
+{
+  "code": "CVL8556",
+  "name": "Stochastic Models of Transportation Systems",
+  "description": "This course is designed to introduce stochastic modeling of transportation systems. The main objective is to teach how decision-making in transportation systems under uncertainty is modeled. This includes simple tools such as probability distributions and queuing theory and advanced tools such as Markov chains, Markov decision processes, stochastic programming, and simulation of complex systems. Applications include transit wait time, toll plazas, airport and ticketing queuing, day-to-day route choice, taxi routing, max-pressure signal control, shortest path with recourse, inventory management, transit frequency setting, transportation facility location with uncertain demand, and transit transfer synchronization.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(CVL7051)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Stochastic Models of Transportation Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Stochastic Models of Transportation Systems"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/stochastic-models-transportation-systems",
+  "slug": "stochastic-models-transportation-systems"
+}

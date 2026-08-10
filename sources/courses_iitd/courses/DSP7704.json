@@ -1,0 +1,22 @@
+{
+  "code": "DSP7704",
+  "name": "Instrument Technology Laboratory II",
+  "description": "Study of various techniques used for analog and digital conditioning of signals from various transducers/ detectors; study on modulation/ demodulation techniques, noise generation and measurement, study of testing and calibration methods of instruments. Experiments in control involving speed, position, temperature controls using MATLAB. Data conversion, ADC and DAC, synchronous detectors, multipliers, dividers, instrumentation amplifier. Signal conditioning circuit for resistive, capacitive, and optical sensors. Microprocessor/microcontroller based system design with emphasis on real world interfacing.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Instrument Technology Laboratory II | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Instrument Technology Laboratory II"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/instrument-technology-laboratory-ii",
+  "slug": "instrument-technology-laboratory-ii"
+}

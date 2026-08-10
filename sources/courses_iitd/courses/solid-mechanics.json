@@ -1,0 +1,21 @@
+{
+  "code": "AML2010",
+  "name": "Solid Mechanics",
+  "description": "Stress, strain, stress-strain temperature relations, energy theorems, torsion, stresses due to bending, deflection due to bending, stability of equilibrium.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": "AML1000",
+  "overlap": null,
+  "learning_outcomes": [
+    "Solid Mechanics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Applied Solid Mechanics",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/solid-mechanics",
+  "slug": "solid-mechanics"
+}

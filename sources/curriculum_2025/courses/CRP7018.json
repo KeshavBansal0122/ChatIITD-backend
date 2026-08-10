@@ -1,0 +1,16 @@
+{
+  "code": "CRP7018",
+  "name": "RF and Microwave Measurement Laboratory",
+  "description": "Laboratory experiments including network analyzer, spectrum analyzer, anechoic chamber, analog-to-digital signal conversion \u2013 Nyquist sampling, quantization, uniform and logarithmic quantizer, signal analysis \u2013 time and frequency domain signal characterization, filtering, SNR calculation, audio beamforming, signal stationarity measurement, semiconductor carrier type and mobility measurement, FET DC characterization, sensor and system analysis.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CR#CRP7018"
+}

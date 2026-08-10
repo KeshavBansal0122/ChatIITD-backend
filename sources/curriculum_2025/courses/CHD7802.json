@@ -1,0 +1,16 @@
+{
+  "code": "CHD7802",
+  "name": "Minor Project",
+  "description": "Literature survey, writing technical report, planning and execution of the project work within the stipulated time frame, and the presentation of the results.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CH",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CH#CHD7802"
+}

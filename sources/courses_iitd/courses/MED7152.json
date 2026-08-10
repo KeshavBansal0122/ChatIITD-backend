@@ -1,0 +1,22 @@
+{
+  "code": "MED7152",
+  "name": "Major Project Part-2",
+  "description": "In this project, the student must meet with the supervisor at least once a week to discuss the progress. The supervisor will steer the project&#039;s progress, validate the models, intermediate results, methodology, tools, and techniques per the project&#039;s requirements. The student must also develop mature research writing and presentation skills. By the end of major project part-2, the student should have completed the work worthy of a high-quality master&#039;s thesis in industrial engineering and operations research.",
+  "credits": 14.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 28.0
+  },
+  "prereq": "MCD7151",
+  "overlap": null,
+  "learning_outcomes": [
+    "Major Project Part-2 | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Major Project Part-2"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/major-project-part-2-1",
+  "slug": "major-project-part-2-1"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "DDN7000",
+  "name": "Research/Teaching Practicum",
+  "description": "Students will help with teaching, which involves creating course materials, supervising exams and activities in class, encouraging student participation, and marking assignments. Depending on the course material, they are also expected to assist with practicals, tutorials, class projects, and other administrative duties pertaining to the course and the institution. The student will therefore get to learn and work with professional education systems like MS teams, moodle, google classroom, etc, to maintain tasks and track the progress of each assigned task.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DD#DDN7000"
+}

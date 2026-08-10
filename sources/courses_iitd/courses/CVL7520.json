@@ -1,0 +1,22 @@
+{
+  "code": "CVL7520",
+  "name": "Public Transportation Systems",
+  "description": "This course is designed to teach transit planning concepts and introduce mathemat- ical models for analyzing and designing transit systems. Topics include why transit?, history of transit, transit oriented development (TOD), transit data, quality of service and capacity analysis, transit O-D estimation and ridership prediction, transit networks (static versus dynamic), transit route choice, frequency-based assignment, schedule-based assignment, transit network design frequency setting, timetable development transit reliability and transfer synchronization, vehicle scheduling, crew scheduling (runcutting and rostering), fare pricing, transit accessibility and equity, transit electrification flexible transit service design, shared mobility, multimodal service, advances.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Public Transportation Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Public Transportation Systems"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/public-transportation-systems",
+  "slug": "public-transportation-systems"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "AIV7090",
+  "name": "Ethical Considerations in MINDS",
+  "description": "Introduction to ethical issues in AI: bias, fairness, transparency, reliability, accountability, job loss, privacy, human-aware AI. AI models to debias training data. Explainability in ML. Adversarial robustness. Federated learning.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AI",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AI#AIV7090"
+}

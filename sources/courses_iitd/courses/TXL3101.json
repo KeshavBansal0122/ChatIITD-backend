@@ -1,0 +1,22 @@
+{
+  "code": "TXL3101",
+  "name": "Polymer to Fibre Engineering",
+  "description": "Fundamentals of Spinning. Polymer rheology in shear as well as extensional flow. Polymer entanglements. Viscosity measurements, melt flow index analysis, Stress induced crystallization. Melt, dry and solution spinning techniques. Dry jet wet spinning. Drawing and heat-setting, Polyester, Nylon, Viscose, Polypropylene. Mechanical testing of drawn and undrawn fibres.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(TXL2101)(TXL1101)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Polymer to Fibre Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Polymer to Fibre Engineering"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/polymer-fibre-engineering",
+  "slug": "polymer-fibre-engineering"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "BSL9291",
+  "name": "Selected Topics in Communication Systems and Networking-II",
+  "description": "Key 5G technologies, 5G numerology, 5G frame structure, physical downlink shared channel (PDSCH) and physical downlink control channel (PDCCH) transmit chain, demodulation reference signal (DM-RS) and sounding reference signal (SRS) design, MIMO in 5G.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Selected Topics in Communication Systems and Networking-II | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Selected Topics in Communication Systems and Networking-II"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/selected-topics-communication-systems-and-networking-ii",
+  "slug": "selected-topics-communication-systems-and-networking-ii"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "MTL5001",
+  "name": "Algebra",
+  "description": "Definition and some examples of groups, Subgroups, Lagrange's theorem, Normal subgroups, Quotient groups, Cyclic groups, Permutation and Alternating groups, Direct product of groups, Isomorphism theorems, Class equation and its applications, Automorphism group, Cayley's theorem, Group actions, Sylow theorems and its applications, Simple groups, Simplicity of alternating groups, Structure theorem of finite abelian groups, Free abelian groups, Structure of finitely generated abelian groups (statement only), Semi-direct product of groups, Solvable and nilpotent groups, Composition series, Jordan-Holder theorem.\r\nDefinition of some examples of commutative and non-commutative rings, Zero divisors, Idempotent and nilpotent elements, Subrings, Polynomial rings, Formal power series rings, Matrix rings, Boolean rings, Rings of continuous functions, Ring of Gaussian integers, Product of rings, Ideals, Algebra of ideals, Quotient rings, Isomorphism theorems, Chinese remainder theorem, Prime ideals, Maximal ideals, Local rings, Definition of fields and some examples, Integral domains, Construction of field of fractions, Irreducible and prime elements in a commutative ring with unity, Principal ideal domains, Unique factorisation domains, Primitive polynomials over UFDs, Gauss's lemma and Gauss's theorem on UFDs, Eisenstein's criterion, Euclidean domains.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "MT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=MT#MTL5001"
+}

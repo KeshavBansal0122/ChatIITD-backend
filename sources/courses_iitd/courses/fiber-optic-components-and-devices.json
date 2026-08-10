@@ -1,0 +1,22 @@
+{
+  "code": "PYL8191",
+  "name": "Fiber Optic Components and Devices",
+  "description": "Review of optical fiber properties: step and graded index fibers, multimode, single mode, birefringent, photonic crystal and holey fiber; directional couplers: analysis, fabrication and characterization: fused and polished fiber couplers application in power dividers, wavelength division multiplexing, interleavers and loop mirrors; fiber half-block devices and application in polarizers, and wavelength filters; fiber grating: short and long period gratings, analysis, fabrication and characterization; applications of fiber gratings in add-drop multiplexing, gain flattening, dispersion compensation and wavelength locking and sensing; polarization effects in optical fibers, fiber polarization components: fiber optic wave-plates, polarization controllers and associated micro-optic components like isolators and circulators; optical fiber sensors: intensity, phase, polarization and wavelength-shift based sensors, applications in various disciplines; nonlinear fiber optic devices like self-phase modulation, all optical switching, solitons; modal analysis of planar waveguides: dielectric waveguides, metal-dielectric plasmonic waveguides, fabrication and characterization of waveguides; modal analysis of channel waveguides for silicon photonics, applications of waveguides as switches, splitters, modulators, polarizers, resonators, sensors, etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "PYL7091",
+  "overlap": null,
+  "learning_outcomes": [
+    "Fiber Optic Components and Devices | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fiber Optic Components and Devices"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fiber-optic-components-and-devices",
+  "slug": "fiber-optic-components-and-devices"
+}

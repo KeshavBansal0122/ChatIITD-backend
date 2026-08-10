@@ -1,0 +1,22 @@
+{
+  "code": "ELL7515",
+  "name": "Battery Management System & Active Cell Balancing",
+  "description": "Battery fundamentals, including types, chemistries, and equivalent-circuit and thermal models, battery pack architecture from cells to modules and packs. BMS requirements - voltage, current, and temperature sensing, thermal management, protection, charger control, and communication via CAN. State of Charge (SoC) and State of Health (SoH) estimation and cell balancing methods, passive and active approaches using buck converters, switched capacitors, flyback converters, and transformer-based topologies. Emerging technologies and practical case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Battery Management System & Active Cell Balancing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Battery Management System & Active Cell Balancing"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/battery-management-system-active-cell-balancing",
+  "slug": "battery-management-system-active-cell-balancing"
+}

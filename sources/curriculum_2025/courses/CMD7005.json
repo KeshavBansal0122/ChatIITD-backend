@@ -1,0 +1,16 @@
+{
+  "code": "CMD7005",
+  "name": "Cornerstone Project",
+  "description": "Students collaborate in teams to solve real-world, industry-relevant problems in chemical sciences, engaging with external partners through design, simulation, prototyping, experiments, and data-driven analysis.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CM#CMD7005"
+}

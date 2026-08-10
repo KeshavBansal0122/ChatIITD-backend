@@ -1,0 +1,16 @@
+{
+  "code": "HSL5014",
+  "name": "Mathematics for Economics",
+  "description": "The aims of this course are to: (i) equip students with understanding of the most important mathematical techniques used in modern economics; (ii) illustrate the use of these techniques by applying them to various well-known economic models; (iii) complement the postgraduate microeconomic and macroeconomic theory courses. The content includes topics in linear algebra, calculus, real analysis and optimization that are relevant to economic theory, with economic applications in each module.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL5014"
+}

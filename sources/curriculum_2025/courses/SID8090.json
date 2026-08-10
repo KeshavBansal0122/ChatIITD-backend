@@ -1,0 +1,16 @@
+{
+  "code": "SID8090",
+  "name": "Major Project in Information Technology",
+  "description": "Independent research involving problem identification, literature review, and development of novel solutions. It culminates in a written thesis and oral presentation, with emphasis on depth, originality, and scholarly communication.",
+  "credits": 42.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 84.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "SI",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=SI#SID8090"
+}

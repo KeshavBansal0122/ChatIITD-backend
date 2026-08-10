@@ -1,0 +1,22 @@
+{
+  "code": "CHP3101",
+  "name": "Chemical Engineering Laboratory-I",
+  "description": "Demonstrate principles and applications of heat transfer and fluid mechanics through experiments. Topics covered include: estimation of properties influencing heat transfer, convective heat transfer, radiative heat transfer, flow visualization, pressure drop in pipe flow, Bernoulli&#039;s principle, flow metering devices, and pump characteristics.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "prereq": "CHL2003&CHL2004",
+  "overlap": null,
+  "learning_outcomes": [
+    "Chemical Engineering Laboratory-I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Chemical Engineering Laboratory-I"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/chemical-engineering-laboratory-i",
+  "slug": "chemical-engineering-laboratory-i"
+}

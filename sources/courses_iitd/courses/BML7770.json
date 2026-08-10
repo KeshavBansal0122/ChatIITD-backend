@@ -1,0 +1,22 @@
+{
+  "code": "BML7770",
+  "name": "Electromagnetic Foundations of Health",
+  "description": "Course contents: 1. Intracellular electromagnetism: introduction to electromagnetic fields and their generation inside the cell. Electrical properties of the cell membrane and its role in neurotransmission. Electrogenesis and intracellular electrical events (the nucleus, organelles, cytosol). 2. Electromagnetics and signaling: intracellular electron transport chains and electronic signaling. Ionic signaling and its functions; alteration in diseased states. Electric fields outside the cell. Comparing electronic energy and electron flow in bacteria, plants and humans. 3. Understanding of physiology through electromagnetism: how electrical signals differ with cell type and their function. How electrical expression changes in different physiological states. 4. Emergent phenomena in bio-electromagnetism: emergent electric fields and tissue-level response to electromagnetic fields. Synchrony among cells and integrating electrical information in tissue. Electromagnetic properties of organs in different functional (including neuro-excitability etc.), behavioral states (anger, placid, meditative) and ages (adolescent brain, childhood brain and aging brain). 5. Understanding of pathology through electromagnetics: electrical disturbances in the body at the cell level. Mechanistic understanding of epilepsy, neurodegenerative diseases and cancer using electromagnetics. 6. Diagnostics using electromagnetic signals: advances in MRI, PET, Photoacoustic imaging. Detection of electrical signals (patch clamp, voltage sensing, neuroexcitability). 7. Using electrical signals in therapeutics: Photobiomodulation and electroceuticals, tumor-treating electric fields, baroreflex therapy. Photodynamic and photothermal therapy. 8. Using photonic signals in therapeutics: Electro-stimulation therapies for patient rehabilitation, including gamma knife surgery. Trans-cranial electromagnetic stimulation. VMS (vagus nerve stimulation).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Electromagnetic Foundations of Health | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Electromagnetic Foundations of Health"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/electromagnetic-foundations-health",
+  "slug": "electromagnetic-foundations-health"
+}

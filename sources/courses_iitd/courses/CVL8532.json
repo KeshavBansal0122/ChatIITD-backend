@@ -1,0 +1,22 @@
+{
+  "code": "CVL8532",
+  "name": "Geometric Design of Roads",
+  "description": "Introduction into highway design factors \u2013 human and vehicle factors; functional classification of roads and design requirements; highway drainage; cross sectional elements \u2013 requirements for NMT modes; road furniture, road markings, and signs; traffic calming; horizontal alignment design \u2013 curve setting and transition curves; superelevation and extra widening; gradients and vertical alignment; design of vertical curves; alignment coordination and issues; intersection \u2013 design of at grade and grade separated intersections; channelization design and principles of ramp design; bus bays, truck lay bye, and pedestrian infrastructure design; tool plaza layout and parking layout; introduction to DPR preparation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "CVL7502",
+  "overlap": null,
+  "learning_outcomes": [
+    "Geometric Design of Roads | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Geometric Design of Roads"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/geometric-design-roads",
+  "slug": "geometric-design-roads"
+}

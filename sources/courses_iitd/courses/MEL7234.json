@@ -1,0 +1,22 @@
+{
+  "code": "MEL7234",
+  "name": "Principles of Human Movement",
+  "description": "Introduction to human locomotion; walking; running; muscle biology and force; muscle architecture and dynamics; musculoskeletal geometry; quantifying human movements; muscle force optimization; muscle driven simulation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Principles of Human Movement | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Principles of Human Movement"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/principles-human-movement",
+  "slug": "principles-human-movement"
+}

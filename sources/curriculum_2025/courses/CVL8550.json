@@ -1,0 +1,16 @@
+{
+  "code": "CVL8550",
+  "name": "Traffic Assignment and its Applications",
+  "description": "This course is designed to introduce the theory and applications of static and dynamic traffic assignment. Topics include formulation and solution of traffic equilibrium in static transportation networks, traffic paradoxes, system optimal assignment, stochastic user equilibrium, user equilibrium with elastic demand, joint traffic assignment and mode choice, early models of dynamic traffic assignment models, time-dependent shortest path algorithms, traffic flow propagation, and introduction to analytic and simulation-based DTA models.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL8550"
+}

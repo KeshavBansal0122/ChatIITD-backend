@@ -1,0 +1,16 @@
+{
+  "code": "CML1001",
+  "name": "Structural Insights into Atoms and Molecules",
+  "description": "Schrodinger equation and its application to model systems: particle in a box (electronic transition, free electron models), harmonic oscillator and understanding the vibrational transitions in diatomic molecules, rigid rotor and rotational transitions, hydrogen atom, and hydrogenic orbitals; bonding in molecules: variational theorem, LCAO-MO, H2+ molecular ion, concept of bonding and anti-bonding molecular orbitals; electronic and vibrational spectroscopy for structural analysis.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CM#CML1001"
+}

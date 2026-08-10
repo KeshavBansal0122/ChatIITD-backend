@@ -1,0 +1,22 @@
+{
+  "code": "CHL3005",
+  "name": "Reaction Engineering for Environment and Sustainability",
+  "description": "Sustainable catalytic reaction engineering in industrial processes. Environmental impact. Reaction mechanisms. Kinetics of solid-catalyzed reactions. Microkinetic modeling for clean air technology. External and internal mass transfer effects. Packed-bed reactor design. Falsified kinetics and mass transfer limitations. Laboratory reactors: design and transport limitations. Sustainable design of commercial reactors. Environmental catalysis: air pollution control. Case studies: hydrogen generation, CO\u2082 valorization, non-catalytic gas-solid reactions.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL2005",
+  "overlap": null,
+  "learning_outcomes": [
+    "Reaction Engineering for Environment and Sustainability | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Reaction Engineering for Environment and Sustainability"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/reaction-engineering-environment-and-sustainability",
+  "slug": "reaction-engineering-environment-and-sustainability"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MSL9349",
+  "name": "AI for strategic Leaders",
+  "description": "This course is designed to help managers and senior leaders understand how artificial intelligence can be leveraged for strategic advantage. The course goes beyond technical familiarity and focuses on the managerial, organizational, and governance dimensions of AI adoption. It equips participants to evaluate where AI can create value, how AI can support market sensing and strategic decision making, what organizational capabilities and data foundations are required, and how responsible AI practices can be embedded into business strategy.\nThe course also emphasizes decision-oriented thinking: when AI should be deployed, how its outcomes should be evaluated, and how leaders can assess ROI and business impact. By the end of the course, participants should be able to frame AI not merely as a technology initiative, but as a strategic capability that must be aligned with business goals, governance structures, talent, and measurable value creation.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "AI for strategic Leaders | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "AI for strategic Leaders"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/ai-strategic-leaders",
+  "slug": "ai-strategic-leaders"
+}

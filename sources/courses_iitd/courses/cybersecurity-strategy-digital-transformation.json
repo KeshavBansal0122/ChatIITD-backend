@@ -1,0 +1,22 @@
+{
+  "code": "MSL7346",
+  "name": "Cybersecurity Strategy for Digital Transformation",
+  "description": "Cybersecurity strategy is a critical component of successful digital transformation. As organizations adopt cloud computing, artificial intelligence, big data analytics, and Internet of Things (IoT) technologies, their attack surfaces expand significantly. A strong cybersecurity strategy ensures that innovation is supported by robust protection mechanisms rather than hindered by security risks. Key elements include adopting a Zero-Trust security model, implementing multi-factor authentication, encrypting sensitive data, and continuously monitoring networks for threats. Risk assessment and threat intelligence help organizations proactively identify vulnerabilities and mitigate potential breaches. Integrating security into system design through a \u201csecurity-by-design\u201d approach ensures protection is embedded from the outset. Additionally, employee awareness training and governance frameworks strengthen overall resilience. Effective cybersecurity strategy aligns with business objectives, regulatory requirements, and customer trust expectations. By embedding security into digital initiatives, organizations can drive innovation confidently while safeguarding data, systems, and brand reputation in an increasingly interconnected digital environment.",
+  "credits": 0.0,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Cybersecurity Strategy for Digital Transformation | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Cybersecurity Strategy for Digital Transformation"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/cybersecurity-strategy-digital-transformation",
+  "slug": "cybersecurity-strategy-digital-transformation"
+}

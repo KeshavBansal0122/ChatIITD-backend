@@ -1,0 +1,16 @@
+{
+  "code": "HSL5015",
+  "name": "Algorithms, Data Structures and Programming in Economics",
+  "description": "This course introduces MSc economics students to computational thinking, focusing on algorithmic problem-solving and efficient data organization. It covers fundamental data structures and algorithms relevant to economic applications, enabling students to structure and optimize computational tasks. Python, known for its versatility and ease of use, will be the primary programming language. While python offers high-level built-in structures, students will learn how these enhance efficiency. Real-world economic examples will illustrate key concepts, equipping students with essential programming skills to tackle computational challenges in economic analysis and research.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL5015"
+}

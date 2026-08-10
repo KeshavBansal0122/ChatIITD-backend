@@ -1,0 +1,22 @@
+{
+  "code": "CHL2008",
+  "name": "Chemical Materials Technology",
+  "description": "Introduction to the classes of materials (crystalline, amorphous, semi-crystalline), atomic bonds, lattice, and structure with examples of metal oxides, metal carbides, and salts. Physicochemical attributes of particle: size, morphology, orderliness (degree of crystallinity), defects, porosity, mechanical strength. Introduction to philosophy of processing-structure-property-performance relationships. Heterogeneous catalytic materials. Electrical and optical materials: semiconductors and metals. Porous materials: adsorbents. Biomaterials. Soft materials. Materials characterization using spectroscopy and microscopy.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Chemical Materials Technology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Chemical Materials Technology"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/chemical-materials-technology",
+  "slug": "chemical-materials-technology"
+}

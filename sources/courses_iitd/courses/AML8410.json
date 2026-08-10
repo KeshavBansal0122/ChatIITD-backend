@@ -1,0 +1,22 @@
+{
+  "code": "AML8410",
+  "name": "Spectral Methods for Fluid Flow Computations",
+  "description": "Spectral methods and applications to fluid simulations, Sturm Liouville problems, polynomial approximations, discrete and fast Fourier transforms, Chebyshev polynomials, Gibbs phenomena, spectral discretization methods for diffusion and convection diffusion problems, stability and convergence properties, pseudo spectral methods, steady and unsteady Burgers equation, applications in turbulence simulations",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(AML2050) /(AML7000)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Spectral Methods for Fluid Flow Computations | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Spectral Methods for Fluid Flow Computations"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/spectral-methods-fluid-flow-computations",
+  "slug": "spectral-methods-fluid-flow-computations"
+}

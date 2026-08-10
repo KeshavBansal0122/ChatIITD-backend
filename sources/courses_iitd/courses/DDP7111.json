@@ -1,0 +1,22 @@
+{
+  "code": "DDP7111",
+  "name": "Advanced CAD for Creative Design in Automotive Domain",
+  "description": "This course will introduce the creative design process in the automotive industry to design four and two wheelers. This course will introduce one polygonal modelling as well as NURBS modelling to ideate, improve, create, and visualize concepts in 3D to integrate it with the design process. This course will introduce and start students in polygonal modelling software like blender and alias for NURBS. The students will work on a project brief to put the learning in practice.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced CAD for Creative Design in Automotive Domain | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced CAD for Creative Design in Automotive Domain"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-cad-creative-design-automotive-domain",
+  "slug": "advanced-cad-creative-design-automotive-domain"
+}

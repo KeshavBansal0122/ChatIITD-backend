@@ -1,0 +1,22 @@
+{
+  "code": "TXP3301",
+  "name": "Fabric Manufacture Laboratory-II",
+  "description": "Fundamentals of knitting; weft knitting and warp knitting; circular knitting, hank knitting, V-bed machine, loop, tuck and float; knit fabric analysis; knit designs; overlap and underlap; shogging and swingling motion; design software; nonwoven; web bonding techniques; needle punching; thermal bonding; electrospun fabrics; braiding; braid geometry; structure-property relationship.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "TXL2301&TXP2301",
+  "overlap": null,
+  "learning_outcomes": [
+    "Fabric Manufacture Laboratory-II | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fabric Manufacture Laboratory-II"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fabric-manufacture-laboratory-ii",
+  "slug": "fabric-manufacture-laboratory-ii"
+}

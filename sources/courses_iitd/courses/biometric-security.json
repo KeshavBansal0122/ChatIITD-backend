@@ -1,0 +1,22 @@
+{
+  "code": "SIL7175",
+  "name": "Biometric Security",
+  "description": "Biometrics authentication system architecture; biometric parameters, biometric matching methods, and accuracy in biometric systems; image processing for biometric applications; biometric system design challenges; biometric recognition: fingerprint, face, iris, voice, signature (offline and online); speaker verification, speaker identification; biometric modalities like hand geometry, vein recognition, ear recognition, gait recognition, DNA, and DNA sequencing; multi-modal biometric recognition systems; latent fingerprint identification; biometrics security of cryptographic keys; template protection, fuzzy commitment, fuzzy vault, secure template management; generative models for direct synthesis of biometric images.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Biometric Security | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Biometric Security"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/biometric-security",
+  "slug": "biometric-security"
+}

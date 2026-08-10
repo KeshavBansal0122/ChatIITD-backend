@@ -1,0 +1,16 @@
+{
+  "code": "HSL5003",
+  "name": "Philosophical Thinking",
+  "description": "This course will introduce students to definitions of philosophical thinking and practices associated with models such as \u2013 engagement with texts and interpretation; contemplation; argumentation; logic, dialogue; computation; and expose students to problems such as the relation between thinking, mind, consciousness, and body; the material conditions of thinking as a social and political act; thinking, expression and communication; rules of thought; the grounds of differentiating forms of thought (philosophical, theological, literary, scientific) etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL5003"
+}

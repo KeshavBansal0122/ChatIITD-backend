@@ -1,0 +1,22 @@
+{
+  "code": "MTL7273",
+  "name": "Wavelets and Applications",
+  "description": "Basic Fourier Analysis: Fourier Series, convergence of Fourier series,\nRiesz Fischer theorem, Fourier transform of square integrable functions, Plancheral formula. \nTime frequency analysis.\nWavelet analysis: Orthogonal bases of wavelets, multi resolution analysis, smoothness\nof wavelets, compactly supported wavelets, cardinal spline\nwavelets, decomposition and reconstruction algorithms for wavelets, frames,\nRiesz Systems, discrete wavelet transform, numerical algorithms, wavelet packets, continuous\nwavelet transform, inversion formulas , tensor products of wavelets.\nRecent development and applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Wavelets and Applications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Wavelets and Applications"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/wavelets-and-applications",
+  "slug": "wavelets-and-applications"
+}

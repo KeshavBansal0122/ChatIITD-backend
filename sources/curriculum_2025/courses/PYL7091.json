@@ -1,0 +1,16 @@
+{
+  "code": "PYL7091",
+  "name": "Fiber Optics",
+  "description": "Rays and ray paths in optical fibers; numerical aperture; step index and graded index fibers; attenuation in optical fibers; modal analysis of symmetric planar waveguides; TE and TM modes, mode cut off, power flow; linearly polarized (LP) modes in step-index optical fibers; single mode operation; mode field diameter in single mode fibers, LP modes of infinitely extended parabolic medium, Intermodal dispersion in multimode fibers; optimum profile fibers; dispersion and chirping of pulses in single mode fibers, dispersion management; specialty fibers: birefringent fibers, photonic crystal fibers; erbium doped fiber amplifiers and lasers; fiber optic components: directional couplers; filters, nonlinear optical effects: self-phase modulation and all optical switching fiber Bragg gratings, fiber fabrication and material considerations of silica and plastic optical fibers, characterization techniques; fiber connectors, fusion and mechanical splicing; fundamentals of fiber optic sensors.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL7091"
+}

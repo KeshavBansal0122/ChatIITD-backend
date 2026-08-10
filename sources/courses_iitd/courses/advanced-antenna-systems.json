@@ -1,0 +1,22 @@
+{
+  "code": "CRL8014",
+  "name": "Advanced Antenna Systems",
+  "description": "Overview of antenna concepts, antenna arrays and Beamforming, MIMO and diversity antennas, metasurfaces and reflectarrays, transmitarrays, circularly polarized antennas, antennas for emerging technologies (biomedical applications, wearable antennas, implantable antennas, wireless power transfer and energy harvesting antennas etc.).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CRL7015/",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Antenna Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Antenna Systems"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-antenna-systems",
+  "slug": "advanced-antenna-systems"
+}

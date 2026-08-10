@@ -1,0 +1,22 @@
+{
+  "code": "DDT7077",
+  "name": "Winter Immersion",
+  "description": "Students visit field sites to study the societal needs of that place by interacting with the people, observing their practices, and documenting their culture from an ethnographic perspective. The societal needs can be documented through photography, videography, doodles, sketches, measured drawings, interviews, field notes, material samples and artefacts. Using a participatory design approach, students collaborate with the people to - (a) situate latent design opportunities by identifying ergonomic, utilitarian, cultural, physiological, and/or psychological issues in tasks that people perform in the societal context and (b) co-create design solutions based on the societal context. Students present the societal needs of the place and showcase the design solutions through a report/presentation/video etc.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": "(DDP7001&DDP7002&DDP7003&DDP7004&DDP7005)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Winter Immersion | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Winter Immersion"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/winter-immersion",
+  "slug": "winter-immersion"
+}

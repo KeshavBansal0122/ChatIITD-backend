@@ -1,0 +1,22 @@
+{
+  "code": "ELP7600",
+  "name": "Advanced Power System Analysis and Optimization Lab",
+  "description": "Newton Raphson load flow. AGCLF and fast decoupled load flow. Fault analysis (symmetrical and unsymmetrical faults). State estimation. Overload security analysis. Voltage security and CPF. Economic load dispatch. Unit commitment. Optimal power flow. Energy market clearing with nodal pricing.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Power System Analysis and Optimization Lab | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Power System Analysis and Optimization Lab"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-power-system-analysis-and-optimization-lab",
+  "slug": "advanced-power-system-analysis-and-optimization-lab"
+}

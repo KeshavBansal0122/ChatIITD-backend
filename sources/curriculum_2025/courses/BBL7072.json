@@ -1,0 +1,16 @@
+{
+  "code": "BBL7072",
+  "name": "Data Analytics and Informatics for Biotechnology",
+  "description": "Part 1 (statistics for engineers): a. Introduction to data in biotechnological applications and error analysis b. Introduction to statistical programming c. Data visualization; measures of location and dispersion d. Probability and common probability distributions e. Point estimation and central limit theorem f. Confidence interval, hypothesis testing and types of errors g. Regression for engineers, correlation, and calibration h. Design and analysis of experiments. Part 2 (Bioinformatics): a. Bioinformatic data generation technologies b. Bioinformatic databases c. Essential problems in bioinformatics - alignment, assembly, mapping.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BB#BBL7072"
+}

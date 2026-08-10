@@ -1,0 +1,22 @@
+{
+  "code": "ELL7511",
+  "name": "Power Electronic Converters and Control for E-Mobility",
+  "description": "Introduction to Power Electronic Converters for E-Mobility, History of EVs. Storage System \u2013 Battery, BMS, Active Cell Balancing. EV Powertrain \u2013 architecture and control, traction inverter design with HV battery pack. EV Charging \u2013 On Board Chargers (topologies and control), Partial Power Processing. High Power Charging (EVs, Marine Vehicles), MV grid-connected charging, Renewable Assisted Charging. Railway Traction Converters and Auxiliary Power Conversion (Topologies and Control). Architecture of Aerospace and Marine Vehicles, Its Power Distribution, and More Electric Aircraft.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(ELL7501) /(ELL2501)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Power Electronic Converters and Control for E-Mobility | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Power Electronic Converters and Control for E-Mobility"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/power-electronic-converters-and-control-e-mobility",
+  "slug": "power-electronic-converters-and-control-e-mobility"
+}

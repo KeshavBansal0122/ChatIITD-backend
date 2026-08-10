@@ -1,0 +1,22 @@
+{
+  "code": "TRL7206",
+  "name": "Traffic Simulation and Modelling: Theory and Applications",
+  "description": "This course provides a comprehensive understanding of how to model and analyse complex traffic systems. Students will delve into fundamental traffic flow theory, covering macroscopic and microscopic models, and learn critical data collection and preparation techniques for simulation. The curriculum emphasizes hands-on model development, including network building, demand input with detailed traffic assignment principles (user equilibrium, system optimum, stochastic route choice), driver behavior parameterization, and rigorous calibration and validation using industry-standard software. Ultimately, students will apply these simulation tools to analyze transportation system performance, evaluate design alternatives, and inform strategic decision-making for urban mobility challenges.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Traffic Simulation and Modelling: Theory and Applications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Traffic Simulation and Modelling: Theory and Applications"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/traffic-simulation-and-modelling-theory-and-applications",
+  "slug": "traffic-simulation-and-modelling-theory-and-applications"
+}

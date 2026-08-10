@@ -1,0 +1,16 @@
+{
+  "code": "MEP1000",
+  "name": "Engineering Visualization",
+  "description": "Encoding engineering objects in parametric form using commercial CAD packages and/or open-source packages. Methods for generation of drawings as per ISO standards. Free hand sketching for ideation and interpretation of 2D drawings of engineered objects. Assembly of components given CAD representation of parts through theory of constraint, general assembly (GA) drawings and animation of assemblies. Rendering of alternate materials, including soft matter. Use of physics engines for representation of time evolving systems.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.5,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEP1000"
+}

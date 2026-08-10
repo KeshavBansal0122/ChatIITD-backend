@@ -1,0 +1,22 @@
+{
+  "code": "CML6081",
+  "name": "Physical Methods in Inorganic Chemistry",
+  "description": "Use of NMR spectroscopy for structural elucidation of simple inorganic and organometallic compounds using chemical shifts and hetero-nuclear coupling constants, Relaxation phenomena in inorganic compounds, Double resonance technique and its applications, EPR spectroscopy for the identification of inorganic radicals, Introduction to Mossbauer spectroscopy, Factors influencing chemical shifts and quadrupolar splitting, Structural information: X-ray diffraction methods (powder and single crystal), Finger printing of solids from powder data and determination of crystal structures by Rietveld analysis and single crystal studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Physical Methods in Inorganic Chemistry | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Physical Methods in Inorganic Chemistry"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/physical-methods-inorganic-chemistry-0",
+  "slug": "physical-methods-inorganic-chemistry-0"
+}

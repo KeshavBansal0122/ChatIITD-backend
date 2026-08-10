@@ -1,0 +1,22 @@
+{
+  "code": "MLL4002",
+  "name": "Energy Materials",
+  "description": "This course introduces students to materials used in modern energy technologies. It covers the basic physical and chemical properties of these materials and how their performance is evaluated. Key topics include batteries, supercapacitors, fuel cells, catalysts for energy conversion, solar-cells and nanogenerators. By linking core scientific principles to real-world applications, the course highlights how materials contribute to clean and sustainable energy solutions, and how they are shaping the future of energy.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Energy Materials | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Energy Materials"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/energy-materials",
+  "slug": "energy-materials"
+}

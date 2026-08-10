@@ -1,0 +1,16 @@
+{
+  "code": "DSL7712",
+  "name": "Electronic Techniques for Signal Conditioning and Interfacing",
+  "description": "Fundamental of designing electronic conditioning modules for various transducers/sensors. Selection of active electronic components for signal conditioning circuits; effect of component non-idealities on sensor performance. Precision electronic conditioning and interfacing requirements in terms of single ended, differential, and input/output impedances. Signal conditioning circuits for resistive sensors: wheatstone bridge, current excitation based half bridge, lead resistance compensation methods. Signal conditioning circuits for capacitive sensors, phase-sensitive-detection, lock-in amplifier, chopping, and auto-nulling techniques for precision measurement. Signal conditioning and interfacing circuits for optical sensors, thermocouples, strain-gauge circuit, LVDT and bio-potential sensors. Microcontroller applications in smart sensing and instrumentation, dataloggers. Interfacing sensors with microcontroller.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DS#DSL7712"
+}

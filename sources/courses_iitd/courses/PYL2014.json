@@ -1,0 +1,22 @@
+{
+  "code": "PYL2014",
+  "name": "Statistical Physics",
+  "description": "Introduction to probability theory and a recap of classical thermodynamics, ensembles, microcanonical, canonical, and grand canonical ensembles, Boltzmann, Fermi-Dirac, and Bose-Einstein statistics, partition functions, thermodynamic properties, kinetic theory of gases, Boltzmann equation and transport phenomena, H-theorem and irreversibility, ideal and quantum gases, interacting spin systems and Ising model.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Statistical Physics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Statistical Physics"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/statistical-physics",
+  "slug": "statistical-physics"
+}

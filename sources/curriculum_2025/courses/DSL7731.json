@@ -1,0 +1,16 @@
+{
+  "code": "DSL7731",
+  "name": "Optical Components and Basic Instruments",
+  "description": "Properties and propagation of light: ray optics, wave optics, and electromagnetic optics; basics of interference, diffraction and polarization of light. Reflecting optical components: plane, spherical, paraboloidal, total internal reflection. Refracting optical components: converging, diverging and combination of lenses. Optical lenses: design analysis and image formation by lenses, wavefront aberrations; monochromatic (Seidel), and chromatic aberrations. Diffracting components: diffraction by single/multiple/openings, types of gratings and fabrication techniques, diffractive optical elements. Prisms: polarizing prisms: Glan Taylor polarizer, Glan-Thomson prism polarizer, Rochon prism polarizer, S\u00e9narmont prism polarizer, Wollaston prism, phase plates (\u03bb/2, \u03bb/4), Soleil-Babinet compensator. Polarizing components: polarization by reflection, and double refraction, birefringence crystals, and polarization based optical devices, rotatory polarization, polarization rotators. Optical instruments: microscopes, contrast mechanisms in microscopes. Eyepieces: Huygens, Ramsden, and special eyepieces, telescopes, cystoscope; refracting, reflecting, interferometric telescopes. Interferometers; two- beam, multiple-beam, and shearing interferometers. Generation and measurement of light: thermal, non-thermal and semiconductor light sources. Measurement of light and instrumentation, detectors: photodetectors, CCD and CMOS detectors, IR-detectors.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DS#DSL7731"
+}

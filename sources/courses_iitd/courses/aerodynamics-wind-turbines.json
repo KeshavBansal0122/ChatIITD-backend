@@ -1,0 +1,22 @@
+{
+  "code": "AML3420",
+  "name": "Aerodynamics of Wind Turbines",
+  "description": "Classification of wind turbines, aerodynamics of horizontal and vertical axis wind turbines, actuator disc theory, line actuator model, blade-element/momentum theory, unsteady aerodynamics, design of airfoils, aerodynamic loading, structural analysis, control system in wind turbine, conceptual design of wind turbine, wind turbine wakes, power output from wind farms",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "AML2020",
+  "overlap": null,
+  "learning_outcomes": [
+    "Aerodynamics of Wind Turbines | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Aerodynamics of Wind Turbines"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/aerodynamics-wind-turbines",
+  "slug": "aerodynamics-wind-turbines"
+}

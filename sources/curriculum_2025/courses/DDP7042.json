@@ -1,0 +1,16 @@
+{
+  "code": "DDP7042",
+  "name": "Universal Design",
+  "description": "Universal design accommodates and fosters human function, preferences, choice and identity through the design of physical and digital environments and features therein. This course introduces the philosophy, concepts and application of universal design (UD) from a human factors/ergonomics perspective. Students will learn about and apply the UD principles to support design decisions which accommodate individuals who vary by factors such as age, gender, and ability. Universal design concepts are also discussed throughout one\u2019s life course. Through research-informed design projects, students will apply UD principles to create products, environments, and services that are usable by all people, to the greatest extent possible, without the need for adaptation or specialised design.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DD#DDP7042"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CTL7047",
+  "name": "High Power Conversion for Electric Vehicles",
+  "description": "Overview on applications of high-power converters in electric transportation \u2013 fast charging, high power propulsion, basic rectifier systems; multipulse rectifiers; active rectifiers; EMI/EMC issues and need of resonant converter topologies; popular multilevel converter topologies for high power applications, and modular multilevel converter topologies; multilevel space vectors and modulation schemes; polygonal voltage space vectors using multilevel converters- 12-sided, 24-sided space vector structures; high power topologies \u2013 applications for fast charging; renewable integration high-power charging stations; onboard hybrid power generation architectures for propulsion; high power converters for rail and aircraft systems- conventional and modular multilevel powertrain architecture for railway tractions, electric aircraft propulsion, power generation architectures for more electric aircraft system.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CT",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CT#CTL7047"
+}

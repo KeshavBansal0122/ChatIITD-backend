@@ -1,0 +1,22 @@
+{
+  "code": "TXL7301",
+  "name": "Theory of Fabric Structure",
+  "description": "Engineering approach to fabric formation; fibre, yarn and fabric structure- property relationships; crimp interchange in woven fabric; elastica model for fabric parameters and crimp balance; concept of fabric relaxation and set; practical application of geometrical and elastica models; uniaxial and biaxial tensile deformation of woven fabric; bending deformation of woven fabric. Bending behaviour of set and unset fabrics; bending in bias direction; shear and drape properties of woven fabric; buckling and compressional behaviour of woven fabrics; mathematical models and their application in the study of tensile, bending, shear, compressional, and buckling deformation of woven fabrics; structure-property relationship of knitted, nonwoven, and braided fabrics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Theory of Fabric Structure | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Theory of Fabric Structure"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/theory-fabric-structure",
+  "slug": "theory-fabric-structure"
+}

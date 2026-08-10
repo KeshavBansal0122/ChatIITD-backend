@@ -1,0 +1,22 @@
+{
+  "code": "MTL7783",
+  "name": "Theory of Computation",
+  "description": "Introduction to the Theory of Computation: Proof Techniques, Basic concepts of\nlanguage, Grammar and Automata; Chomsky Hierarchy, Regular Languages, Finite\nautomata, Equivalence, DFA and NFA, Minimization, Myhill-Nerode Theorem;\nContext Free Grammar, Pushdown Automata, their equivalence and Application,\nProperties of Context-Free Languages; Turing Machine, Recursive and Recursively\nEnumerable Languages, Undecidability, Rice&#039;s Theorem, Post&#039;s Correspondence\nProblem, Complexity Theory, Intractable Problems.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Theory of Computation | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Theory of Computation"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/theory-computation-1",
+  "slug": "theory-computation-1"
+}

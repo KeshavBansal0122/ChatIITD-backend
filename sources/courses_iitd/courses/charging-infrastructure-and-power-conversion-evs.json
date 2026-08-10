@@ -1,0 +1,22 @@
+{
+  "code": "CTL7006",
+  "name": "Charging Infrastructure and Power Conversion for EVs",
+  "description": "National EV charging station status; Charger types; Charging station\ntypes; connectors; Plug-in Charging technologies; Charging Protocols, & Connectors: CHAdemo, CCS , GB/T , ChaoJi (upcoming); slow\ncharging; fast charging methods; CAN based and PLC based charging\noverview; thermal management; active and passive equalization;\noverview of EVCC (electric vehicle charging controller) and its\ncommunication with allied components; Onboard charging & Off National EV charging station status; Charger types; Charging station\ntypes; connectors; Plug-in Charging technologies; Charging Protocols, & Connectors: CHAdemo, CCS , GB/T , ChaoJi (upcoming); slow\ncharging; fast charging methods; CAN based and PLC based charging\noverview; thermal management; active and passive equalization;\noverview of EVCC (electric vehicle charging controller) and its\ncommunication with allied components; Onboard charging & Off\nboard charging technology , requirements , global standards & Indian\nstandards communication between on board charger, controller, BMS,\nVCU (vehicle control unit) and charging station; Constant current and\nconstant voltage charging during various battery SOC; Sustainable\nCharging systems; Solar Powered Charging stations; V2H, V2X, Vehicle\nto Vehicle, Vehicle to Grid, Vehicle to Home, Building & Dynamic load\nmanagement of chargers.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Charging Infrastructure and Power Conversion for EVs | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Charging Infrastructure and Power Conversion for EVs"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/charging-infrastructure-and-power-conversion-evs",
+  "slug": "charging-infrastructure-and-power-conversion-evs"
+}

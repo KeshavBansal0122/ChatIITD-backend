@@ -1,0 +1,22 @@
+{
+  "code": "HSL2712",
+  "name": "Language Diversity and Structure: Relevance to Technology",
+  "description": "This course introduces students to the study of linguistic diversity and cross-linguistic patterns from a typological perspective. Students will learn how languages vary in their phonology, morphology, syntax, and semantics, and how these patterns reveal universal principles of human language. Emphasis will be placed on understanding structural variation across languages and the implications of these differences for computational applications such as natural language processing (NLP), machine translation, and AI-based language technologies. Through hands-on exercises and projects, students will explore real linguistic data, engage with typological databases, and develop skills to incorporate linguistic insights into computational models.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Language Diversity and Structure: Relevance to Technology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Language Diversity and Structure: Relevance to Technology"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/language-diversity-and-structure-relevance-technology",
+  "slug": "language-diversity-and-structure-relevance-technology"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "BBL7071",
+  "name": "Microbial Biochemistry and Molecular Biology",
+  "description": "Cell, structure of biomolecules - nucleic acids, proteins, carbohydrates and lipids, metabolism, biological membranes, genome, mutagenesis, plasmids and vectors, restriction enzymes and PCR, ligation, transformation, bacteriophages, DNA replication, transcription, translation, gene regulation.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BB#BBL7071"
+}

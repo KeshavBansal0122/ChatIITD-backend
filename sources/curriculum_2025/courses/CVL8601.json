@@ -1,0 +1,16 @@
+{
+  "code": "CVL8601",
+  "name": "Numerical and Computer Methods in Geomechanics",
+  "description": "Introduction to numerical methods, equation solution techniques, root finding techniques, Fourier series and Fourier transform, ODEs, PDEs numerical solution techniques, types of geotechnical boundary value problems, numerical modeling, numerical solution schemes, pros and cons, programming tools- FORTRAN, MATLAB, MATHCAD, python, development of programming flowchart. Simplified and advanced constitutive models and their calibration: elastic models, elasto-plastic models, formulation of elasto-plastic stiffness matrix, governing equations of elastoplasticity, rock and soil constitutive models. Integration of stress strain equations, concepts of verification and validation, selection of model input parameters, integration of load displacement relations, integration of seepage, consolidation and heat conduction equations, Sturm\u2013Liouville problem, solution of seepage, consolidation, heat conduction and SturmLiouville equations using finite difference \u2013 explicit and implicit methods and finite element programming methods, comparison with commercially available software results.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL8601"
+}

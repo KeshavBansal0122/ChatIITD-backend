@@ -1,0 +1,16 @@
+{
+  "code": "ELL7332",
+  "name": "Introduction to MEMS Design",
+  "description": "Scaling Theory.Introduction to Micromachining. Unit Procees: Lithography, Etching, Oxidation,PVD, CVD, Electroplating,Wafer Bonding,Sacrificial Etching. Bulk and Surface Micromachining, Integration with CMOS. Elasticity theory and commonly used MEMS structures. Static and Dynamic analysis of structures. Electrostatic, Piezoelectric and Thermal Actuation. Capacitive, Piezoresistive, piezoelectric sensing. Resonance Phenomena. Case Studies on Acclerometers, Gyroscopes, Resonators and Switches",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7332"
+}

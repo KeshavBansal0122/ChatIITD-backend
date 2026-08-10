@@ -1,0 +1,22 @@
+{
+  "code": "TXN7503",
+  "name": "Teaching Practicum (M.Tech. in Fibre Engineering and Textile Chemical Processing)",
+  "description": "The students are expected to assist with preparing course materials, managing class activities, conducting examinations, supporting student engagements. They are also expected to conduct lab sessions and also administrative tasks related to the course.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Teaching Practicum (M.Tech. in Fibre Engineering and Textile Chemical Processing) | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Teaching Practicum (M.Tech. in Fibre Engineering and Textile Chemical Processing)"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/teaching-practicum-mtech-fibre-engineering-and-textile-chemical-processing",
+  "slug": "teaching-practicum-mtech-fibre-engineering-and-textile-chemical-processing"
+}

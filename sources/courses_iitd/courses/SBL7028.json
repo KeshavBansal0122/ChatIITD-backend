@@ -1,0 +1,22 @@
+{
+  "code": "SBL7028",
+  "name": "Biological Physics",
+  "description": "Biology by numbers; statistical physics and thermodynamics in biology; macromolecules as random walk; nucleic acids structure and mechanics; nucleic acids-protein interactions; dynamics of molecular motors; mechanical and chemical equilibrium in the living cell; cell membrane; dynamics of cell; genome engineering by zinc finger nucleases, TALEN, CRISPR; single molecule versus bulk; single molecule mechanics; magnetic tweezers; optical tweezers; Raman spectroscopy, fluorescence; FRET; combining force spectroscopy with optical spectroscopy; current advances in biophysical research.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "SBL1100/SBL1102",
+  "overlap": null,
+  "learning_outcomes": [
+    "Biological Physics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Biological Physics"
+  ],
+  "department": "Single Molecule Biophysics",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/biological-physics",
+  "slug": "biological-physics"
+}

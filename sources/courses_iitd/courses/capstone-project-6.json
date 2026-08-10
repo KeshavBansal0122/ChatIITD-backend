@@ -1,0 +1,22 @@
+{
+  "code": "MSD9801",
+  "name": "Capstone Project",
+  "description": "The capstone project would focus on a business management problem. The business\nanalytical tools and techniques would be applied to perform the analysis and generate\nuseful insights.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Capstone Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Capstone Project"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/capstone-project-6",
+  "slug": "capstone-project-6"
+}

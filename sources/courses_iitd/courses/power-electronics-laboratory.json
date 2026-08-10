@@ -1,0 +1,22 @@
+{
+  "code": "ELP2501",
+  "name": "Power Electronics Laboratory",
+  "description": "The course introduces the switching characteristics and I\u2013V behavior of power semiconductor devices such as IGBTs and MOSFETs. It covers single-phase and three-phase uncontrolled rectifiers, as well as controlled rectifiers for AC\u2013DC conversion. DC\u2013DC converters are studied with emphasis on boost and flyback topologies. The course also includes single-phase and three-phase inverters, highlighting their operating principles and applications in power conversion.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "prereq": "ELL2501",
+  "overlap": null,
+  "learning_outcomes": [
+    "Power Electronics Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Power Electronics Laboratory"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/power-electronics-laboratory",
+  "slug": "power-electronics-laboratory"
+}

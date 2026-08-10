@@ -1,0 +1,16 @@
+{
+  "code": "ELP7500",
+  "name": "Electrical Machines Laboratory",
+  "description": "Characterization and steady state operations of 3-phase/ 1-phase squirrel cage induction motor and generator, wound rotor synchronous motors, permanent magnet synchronous motor (PMSM), brushless DC (BLDC) motors, switched reluctance motor, and synchronous reluctance motor.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELP7500"
+}

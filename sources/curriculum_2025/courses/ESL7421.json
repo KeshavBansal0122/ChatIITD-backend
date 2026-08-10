@@ -1,0 +1,16 @@
+{
+  "code": "ESL7421",
+  "name": "Pulse Width Modulation Techniques and AC Motor Drives",
+  "description": "Introduction and review of power electronics converters; need for PWM technique; low switching frequency PWM techniques, Fourier analysis and waveform symmetries, current and torque harmonics analyses, SHE and optimal PWM, pulse number and switching energy losses; carrier based PWM techniques, sine-triangle PWM, synchronization, THI and bus-clamping PWM, current ripple analysis; space vector based PWM techniques, CSV PWM, equivalence with carrier based PWM, bus-clamping and advanced-bus-clamping PWM techniques, stator flux, current and torque ripples analyses; synchronized variable pulse number PWM schemes; vector control of IM and PMSM drives",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ES",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ES#ESL7421"
+}

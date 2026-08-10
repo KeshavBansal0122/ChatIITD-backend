@@ -1,0 +1,16 @@
+{
+  "code": "PYL7051",
+  "name": "Optical Sources, Photometry and Metrology",
+  "description": "Eye and vision, visual system, sensitivity, acuity, radiometry and photometry; radiometric quantities, instrumentation and measurements. Photometric quantities, instrumentation and measurement system. Integrating sphere and optical bench method. Colorimetry: fundamentals, trichromatic specifications, colorimeters, CIE system, color temperature, color rendering index. Conventional light sources; point and extended sources, tungsten/deuterium halogen lamps, supercontinuum light sources; xenon lamp, laser-based supercontinuum source. Solid state lighting devices; inorganic LEDs, organic/polymeric LEDs (OLEDs and PLEDs), quantum dot based light emitting devices (QLEDs), sunlight harvesting for day light saving, solar concentrators, light guide and transporting systems. Optical detectors: PMTs, MCPs, semiconductor photo-detectors. Detector characteristics and noise consideration, CCD and CMOS detectors. Optical metrology and standards; length, time and frequency standard. Optical radiation standards. Surface inspection, non-destructive testing techniques. Photogrammetry, optical gauging and profiling, fringe projection profilometry using structured light illumination.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL7051"
+}

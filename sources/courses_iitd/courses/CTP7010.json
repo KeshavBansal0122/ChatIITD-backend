@@ -1,0 +1,22 @@
+{
+  "code": "CTP7010",
+  "name": "EV Mechanical Systems Lab",
+  "description": "Introduction to electric vehicle mechanical systems; hands-on experience for designing, analyzing, and testing the mechanical system/components in electric vehicles (EVs). This includes (but not limited to) chassis, suspension, braking systems, wheels, tires, and drivetrain of electric vehicles. Integrating mechanical systems with electric propulsion systems, battery management, and overall vehicle performance. It will involve experiments, prototyping, and simulations to link theoretical understanding and real applications. NVH instrumentation and testing; sound quality measurement of electric cars, power train architecture. Reliability tests; life cycle testing; failure analysis of mechanical components and battery materials (microscopic and macroscopic analysis).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "EV Mechanical Systems Lab | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "EV Mechanical Systems Lab"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/ev-mechanical-systems-lab",
+  "slug": "ev-mechanical-systems-lab"
+}

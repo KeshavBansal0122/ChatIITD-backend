@@ -1,0 +1,22 @@
+{
+  "code": "MSL9201",
+  "name": "Statistics for Management",
+  "description": "Nature and role of statistics for management. Types of data, data measurement scales, Descriptive Statistics, Random variable and Probability distributions. Sampling Techniques, Hypothesis testing, Z-test, t-test, ANOVA, Chi-square tests, Correlation analysis, Regression analysis: simple and multiple regression. Business Forecasting. Use of softwares such as Excel, SPSS & R for statistical modeling.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Statistics for Management | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Statistics for Management"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/statistics-management-0",
+  "slug": "statistics-management-0"
+}

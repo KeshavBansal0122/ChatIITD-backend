@@ -1,0 +1,425 @@
+{
+  "code": "JRB",
+  "name": "M.Tech. in Robotics",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=JRB",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 37.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "apply knowledge in core robotics disciplines\u2014including mechanics, control systems, perception, and artificial intelligence\u2014to solve complex real-world problems."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "design, develop, and deploy robotic systems by drawing upon knowledge from various disciplines, conducting simulations and experiments, analyzing data, and making conclusions, to improve system performance."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "collaborate effectively in multidisciplinary teams, conduct scientific research, and contribute to the robotics community through technical reports, presentations, and ethical decision-making while addressing the societal implications of robotic technologies."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "ELL7100",
+        "title": "Mathematical Foundation of Learning and Control",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7101",
+        "title": "Linear Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7102",
+        "title": "Stochastic Processes and Filtering",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "JRD7900",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "JRD8900",
+        "title": "Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "JRD8950",
+        "title": "Major Project Part I",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "12"
+        },
+        "credits": "6"
+      },
+      {
+        "course_code": "JRL7000",
+        "title": "Robotics Laboratory",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "JRL7030",
+        "title": "Robot Kinematics and Dynamics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "JRL7680",
+        "title": "Computer Vision for Robotics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "JRN7099",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "JRT8900",
+        "title": "Summer Internship",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7100",
+        "title": "Mathematical Foundation of Learning and Control",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "AIL7024",
+        "title": "Machine Learning",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "AIL7025",
+        "title": "Introduction to Artificial Intelligence",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7341",
+        "title": "Fundamentals of Machine Learning",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "JRD8900",
+        "title": "Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "JRT8900",
+        "title": "Summer Internship",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "COL7372",
+        "title": "Natural Language Processing",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL7378",
+        "title": "Principles of Autonomous Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "COL8628",
+        "title": "Advanced Computer Vision",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ELL7125",
+        "title": "Control of Robotic Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL8100",
+        "title": "Nonlinear Control Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL8101",
+        "title": "Learning-Based Control",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "JRD8990",
+        "title": "Major Project Part II",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "24"
+        },
+        "credits": "12"
+      },
+      {
+        "course_code": "MEL7225",
+        "title": "Design Principles for Precision",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "JRL7000",
+        "title": "Robotics Laboratory",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "ELL7101",
+        "title": "Linear Systems",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ELL7102",
+        "title": "Stochastic Processes and Filtering",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "JRN7099",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "JRL7680",
+        "title": "Computer Vision for Robotics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "JRL7030",
+        "title": "Robot Kinematics and Dynamics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 2.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "JRD7900",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "JRN7099",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "JRD8950",
+        "title": "Major Project Part I",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 12.0
+        },
+        "credits": 6.0
+      },
+      {
+        "course_code": "ELL7000",
+        "title": "Professional Ethics in Electrical Engineering",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "JRN7099",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "JRD8990",
+        "title": "Major Project Part II",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      },
+      {
+        "course_code": "JRN7099",
+        "title": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "JRB \u2013 M.Tech. in Robotics\nM.Tech. in Robotics\nProgramme Code: JRB\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n37\nPE (Programme Elective)\n18\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n61\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\napply knowledge in core robotics disciplines\u2014including mechanics, control systems, perception, and artificial intelligence\u2014to solve complex real-world problems.\nPLO 2\ndesign, develop, and deploy robotic systems by drawing upon knowledge from various disciplines, conducting simulations and experiments, analyzing data, and making conclusions, to improve system performance.\nPLO 3\ncollaborate effectively in multidisciplinary teams, conduct scientific research, and contribute to the robotics community through technical reports, presentations, and ethical decision-making while addressing the societal implications of robotic technologies.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nELL7100 Mathematical Foundation of Learning and Control 3 0 0 3\nELL7101 Linear Systems 3 0 0 3\nELL7102 Stochastic Processes and Filtering 3 0 0 3\nJRD7900 Cornerstone Project 0 0 8 4\nJRD8900 Minor Project 0 0 6 3\nJRD8950 Major Project Part I 0 0 12 6\nJRL7000 Robotics Laboratory 1 0 2 2\nJRL7030 Robot Kinematics and Dynamics 3 0 2 4\nJRL7680 Computer Vision for Robotics 3 0 2 4\nJRN7099 Teaching/Research Practicum 0 0 8 4\nJRT8900 Summer Internship 0 0 6 3\nFC2 JRB (3-0-0) 3\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nELL7100 Mathematical Foundation of Learning and Control 3 0 0 3\nRC1 JRB (3-0-2) 4\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nAIL7024 Machine Learning 3 0 2 4\nAIL7025 Introduction to Artificial Intelligence 3 0 2 4\nCOL7341 Fundamentals of Machine Learning 3 0 2 4\nJRB Summer Internship / Minor Project (0-0-6) 3\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nJRD8900 Minor Project 0 0 6 3\nJRT8900 Summer Internship 0 0 6 3\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nCOL7372 Natural Language Processing 3 0 2 4\nCOL7378 Principles of Autonomous Systems 3 0 2 4\nCOL8628 Advanced Computer Vision 3 0 2 4"
+}

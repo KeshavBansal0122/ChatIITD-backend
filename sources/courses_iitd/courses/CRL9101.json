@@ -1,0 +1,22 @@
+{
+  "code": "CRL9101",
+  "name": "AI/ML for VLSI and Semiconductor Systems",
+  "description": "1. Overview of AI/ML fundamentals with relevance to VLSI, EDA, and semiconductor workflows\n2. Data generation, feature extraction, and labeling from VLSI design, simulation, and silicon data\n3. Supervised, unsupervised, and reinforcement learning techniques for hardware applications\n4. ML models for design space exploration, performance prediction, and optimization\n5. AI-driven VLSI verification, test generation, and functional coverage enhancement\n6. ML techniques for power, timing, and area (PPA) estimation and optimization\n7. Yield, defect, and reliability modeling using AI for semiconductor manufacturing\n8. AI/ML for adaptive and intelligent semiconductor systems (edge and on-chip learning)\n9. Hardware-aware ML: model compression, quantization, and mapping to VLSI architectures\n10. Case studies and hands-on mini projects using AI for real-world VLSI and semiconductor problems",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "AI/ML for VLSI and Semiconductor Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "AI/ML for VLSI and Semiconductor Systems"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/aiml-vlsi-and-semiconductor-systems",
+  "slug": "aiml-vlsi-and-semiconductor-systems"
+}

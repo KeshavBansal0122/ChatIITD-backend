@@ -1,0 +1,22 @@
+{
+  "code": "CHL7307",
+  "name": "Nature-Inspired Chemical Engineering",
+  "description": "Introduction to the fascinating intersection of biology and chemical engineering. Analyze biological systems from a chemical engineering perspective and apply these insights to innovative solutions to complex chemical engineering challenges. Nature-inspired approach to traditional chemical engineering topics, emerging chemical engineering topics, and mathematical problems. Multiscale, hierarchical systems. Applications to fluid mechanics, fluidization, and fluid-particle systems. Applications to catalysis and hierarchically structured catalysts, materials, reactors, fractals, nano-confinement, separations \u2013 membranes.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL3003&CHL3005",
+  "overlap": null,
+  "learning_outcomes": [
+    "Nature-Inspired Chemical Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Nature-Inspired Chemical Engineering"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/nature-inspired-chemical-engineering",
+  "slug": "nature-inspired-chemical-engineering"
+}

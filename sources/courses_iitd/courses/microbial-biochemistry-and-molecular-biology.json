@@ -1,0 +1,22 @@
+{
+  "code": "BBL7071",
+  "name": "Microbial Biochemistry and Molecular Biology",
+  "description": "Cell, structure of biomolecules - nucleic acids, proteins, carbohydrates and lipids, metabolism, biological membranes, genome, mutagenesis, plasmids and vectors, restriction enzymes and PCR, ligation, transformation, bacteriophages, DNA replication, transcription, translation, gene regulation.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "()",
+  "overlap": null,
+  "learning_outcomes": [
+    "Microbial Biochemistry and Molecular Biology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Microbial Biochemistry and Molecular Biology"
+  ],
+  "department": "Biochemical Engineering and Biotechnology, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/microbial-biochemistry-and-molecular-biology",
+  "slug": "microbial-biochemistry-and-molecular-biology"
+}

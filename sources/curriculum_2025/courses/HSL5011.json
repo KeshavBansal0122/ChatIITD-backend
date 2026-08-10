@@ -1,0 +1,16 @@
+{
+  "code": "HSL5011",
+  "name": "Microeconomics I",
+  "description": "This course provides an introduction to microeconomic theory and is the first course in the microeconomic theory series. The course will begin with detailed analysis of consumer's choice behavior and required mathematical tools from optimization theory and real analysis would be reviewed. Producer's behavior is analyzed next where emphasis is put on characterization results under different market structures, especially strategic aspects in an oligopolistic market. The next topic is analysis of decision-making under uncertainty and Anscombe-Aumann framework is introduced. Next non-expected utility theories are covered. Topics of recent and relevant interest will also be covered if time permits.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL5011"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ASL1000",
+  "name": "Introduction to Climate Change",
+  "description": "Introduction to the climate system with particular focus on energy balance and the role of the\nCO2 and other greenhouse gases; introduction to simple climate models; hands-on experiments\nwith online climate models to understand the role of different factors; evidence of changing\nclimate in observations from satellites and meteorological stations; causes of climate change;\nfuture climate projections; impacts of climate change on various sectors; adaptation and\nmitigation of climate change; elements of an effective response to climate change.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Climate Change | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Climate Change"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-climate-change",
+  "slug": "introduction-climate-change"
+}

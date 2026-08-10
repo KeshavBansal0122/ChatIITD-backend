@@ -1,0 +1,22 @@
+{
+  "code": "CHL2001",
+  "name": "Numerical Analysis for Chemical Engineers",
+  "description": "Introduction to vector space. Estimation and round-off error calculations. Existence of solution to linear algebraic equations. Direct and iterative methods to solve system of linear algebraic equations such as Gauss elimination, Gauss Jordan, LU decomposition, Gauss-Seidel method, etc. Solutions to sparse matrix system. Ill-conditioned and well-conditioned systems, matrix conditioning. Solutions to non-linear algebraic equations: root finding methods, Newton method, optimization-based methods. Convergence analysis for iterative methods. Numerical interpolation and curve fitting. Numerical integration and differentiation. Ordinary differential equations initial and boundary value problems (ODE-IVP, ODE-BVP): Basic concepts; Solution of ODE-IVP and ODE-BVP via implicit and explicit methods; Existence and uniqueness of solution. Solution of partial differential equations (PDEs). Application of numerical methods for solving chemical engineering problems.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Numerical Analysis for Chemical Engineers | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Numerical Analysis for Chemical Engineers"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/numerical-analysis-chemical-engineers",
+  "slug": "numerical-analysis-chemical-engineers"
+}

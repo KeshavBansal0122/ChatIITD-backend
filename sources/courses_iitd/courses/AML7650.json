@@ -1,0 +1,22 @@
+{
+  "code": "AML7650",
+  "name": "Special Topics in Engineering Mechanics",
+  "description": "Special and advanced topics in the area of engineering mechanics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Special Topics in Engineering Mechanics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Special Topics in Engineering Mechanics"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/special-topics-engineering-mechanics",
+  "slug": "special-topics-engineering-mechanics"
+}

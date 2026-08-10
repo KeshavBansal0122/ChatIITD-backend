@@ -1,0 +1,22 @@
+{
+  "code": "COL7155",
+  "name": "Algorithmic Game Theory",
+  "description": "Games, strategies, costs, payoff, solution concepts. Pure and mixed nash equilibria. Two player zero-sum games and proof of Nash equilibria using linear programming duality. Nash\u2019s theorem using FPT\u2019s. Complexity of finding Nash equilibrium, Lemke-Howson algorithm, the class PPAD. Hierarchy of equilibria, best-case and strong Nash equilibria, best-response dynamics, and no-regret dynamics. Social choice, Arrow&#039;s and Gibbard-Satherthwaite theorems. Auctions and optimal mechanism design, Myerson&#039;s lemma, VCG mechanisms. Revenue maximizing auctions. Inefficiency of equilibria. Price of anarchy in network routing games, atomic routing games, potential function games. Mechanism design without money: stable matchings. Market equilibria and their computation, Fisher\u2019s and Arrow-Debreu models, Eisenberg-Gale convex program.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "COL2051/MTL2042",
+  "overlap": null,
+  "learning_outcomes": [
+    "Algorithmic Game Theory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Algorithmic Game Theory"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/algorithmic-game-theory",
+  "slug": "algorithmic-game-theory"
+}

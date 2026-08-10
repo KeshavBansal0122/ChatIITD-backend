@@ -1,0 +1,22 @@
+{
+  "code": "TXL3202",
+  "name": "Yarn Structure and Characterization",
+  "description": "Basic characteristics of single fiber, fiber blend and yarn; theoretical and practical determination of fiber packing and fiber directional arrangements in yarns; helical model of fibers in yarns; determination of yarn count and yarn twist; radial migration of fibers in yarns; mass irregularity of yarns; yarn imperfections; theoretical and practical determination of yarn diameter and hairiness; determination of yarn tensile properties; tensile mechanics of fiber bundles and yarns; structures and failure mechanisms of different technological yarns.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Yarn Structure and Characterization | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Yarn Structure and Characterization"
+  ],
+  "department": "Textile and Fibre Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/yarn-structure-and-characterization",
+  "slug": "yarn-structure-and-characterization"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "ELL7606",
+  "name": "Electricity Markets and Power System Operations",
+  "description": "Introduction, Basic concepts of economics, The philosophy of market models, Operational issues in deregulated environment, Congestion management, Transmission pricing and loss allocation techniques, Ancillary Services, Market power and monitoring, Locational Market Prices (LMP) and FTRs, Development of Electricity Markets in India, Impact of Renewables on Market Design",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7606"
+}

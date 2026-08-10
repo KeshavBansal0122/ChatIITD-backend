@@ -1,0 +1,16 @@
+{
+  "code": "MEL7216",
+  "name": "Machine Learning for Computational Design",
+  "description": "This course applies machine learning to mechanical design, covering data preprocessing, surrogate modeling, Bayesian and multi-objective optimization, and uncertainty quantification. Topics include ML-accelerated topology optimization, ML-assistedn digital twins, physics-informed models, generative design, and reverse engineering from CAD/FEA data. Hands-on projects use real mechanical datasets to develop and validate data-driven design workflows for structural, material, and component optimization.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEL7216"
+}

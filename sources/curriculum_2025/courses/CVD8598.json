@@ -1,0 +1,16 @@
+{
+  "code": "CVD8598",
+  "name": "Major Project Part-I",
+  "description": "Project type activity. Students work independently on a transportation engineering problem by reviewing related studies, identifying data requirements, and collecting relevant primary and secondary data. The students are also required to conduct relevant tests/simulation/modelling exercises, and interpret their outcomes with respect to the problem definition. It is also required to write technical reports and make presentations on work progress.",
+  "credits": 6.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 12.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVD8598"
+}

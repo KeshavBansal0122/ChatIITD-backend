@@ -1,0 +1,16 @@
+{
+  "code": "TXL3402",
+  "name": "Technology of Textile Finishing",
+  "description": "Introduction to textile finishing \u2013 importance, classification, and machines. Principles of mechanical finishing \u2013 process fundamentals of calendaring, sanforization, raising and emerizing, shearing and sueding. Principles of chemical finishing- softening and stiffening finishes, wrinkle resistant and durable press finishes, repellent finishes, antimicrobial and antiviral finishes, flame retardant finishes, UV protection finishes, anti-static and conductive finishes, fragrance and aroma finishes. Sustainable finishing agents and techniques- low-water and low-energy finishing techniques. Coating and lamination, case studies on developing technical textiles.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL3402"
+}

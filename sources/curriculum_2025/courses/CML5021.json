@@ -1,0 +1,16 @@
+{
+  "code": "CML5021",
+  "name": "Molecular Thermodynamics & Reaction Dynamics",
+  "description": "Review of first, second, and third law of thermodynamics, free energy, chemical potential, introduction to statistical thermodynamics, microstates, probabilities, ensemble concept - micro-canonical, canonical, and grand-canonical ensembles, ensemble average, partition functions and their connection to thermodynamic properties, ideal monoatomic, diatomic, and polyatomic gases, classical statistical thermodynamics, kinetics of simple and complex reactions, transport properties, theories of reaction rates and dynamics of gas and liquid phase reactions, experimental techniques to study fast reactions, photochemical reactions, surface phenomena and physical methods for studying surfaces, heterogeneous and homogeneous catalysis.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CM#CML5021"
+}

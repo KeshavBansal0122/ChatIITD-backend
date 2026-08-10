@@ -1,0 +1,22 @@
+{
+  "code": "CRL7015",
+  "name": "Radiating Systems for RF Communication",
+  "description": "Antennas, propagation, and wireless communication systems ( link budget, feeding, impedance matching ), vector algebra and spherical coordinates, wire antennas: monopoles, dipoles and loops, antenna parameters, linear arrays, vector potentials, electromagnetic theorems, aperture and printed antennas, scattering, baluns and radome.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Radiating Systems for RF Communication | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Radiating Systems for RF Communication"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/radiating-systems-rf-communication",
+  "slug": "radiating-systems-rf-communication"
+}

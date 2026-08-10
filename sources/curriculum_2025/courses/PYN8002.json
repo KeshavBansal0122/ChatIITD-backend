@@ -1,0 +1,16 @@
+{
+  "code": "PYN8002",
+  "name": "Research Communication and Ethics in Physics",
+  "description": "Foundations of scientific reasoning, literature survey techniques, and effective oral/poster research presentations.\r\nResearch integrity and ethics: plagiarism types, authorship practices, ethical use of AI, and responsible data/reporting methods.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYN8002"
+}

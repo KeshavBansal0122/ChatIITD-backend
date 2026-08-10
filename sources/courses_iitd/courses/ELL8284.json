@@ -1,0 +1,22 @@
+{
+  "code": "ELL8284",
+  "name": "Natural Language Processing",
+  "description": "Introduction to classical NLP, tokenization, N-gram language models and their evaluation, POS tagging (HMM, Viterbi, MEMM), parsing (CKY parser), lexical and distributional semantics, introduction to deep learning (ANN, backpropagation, activation functions, RNNs, CNNs), RNN based language models, sequence-to-sequence models, attention and self-attention, transformer, advanced transformer architectures (BERT, RoBERTa, GPT), prompt-based learning, integrating knowledge in language models, retrieval-augmented models, editing neural networks, multilingual NLP, multimodal NLP, other applications of NLP, ethics in NLP, LLM and creativity.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Natural Language Processing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Natural Language Processing"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/natural-language-processing",
+  "slug": "natural-language-processing"
+}

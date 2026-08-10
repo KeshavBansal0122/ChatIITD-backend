@@ -1,0 +1,16 @@
+{
+  "code": "TXL7563",
+  "name": "Science and Applications of Nanotechnology in Textiles",
+  "description": "Introduction to nanoscience and nanotechnology; size and surface dependence of their physical and chemical properties such as mechanical, thermodynamical, electronic, catalysis etc.; synthesis of nanomaterials used in textiles such as carbon nanotube, fullerenes, metal and metal oxide nanoparticles that is, nano silver, nano silica, nano titania, nano zinc oxide, nano magnesium oxide etc.; surface functionalization and dispersion of nanomaterials; nanotoxicity, characterization techniques that is, XRD, AFM, SEM/TEM, DLS etc.; nanomaterial applications in textiles and polymers; nanocomposites: definition types, synthesis routes; nanocomposite fibres and coatings for example gas barrier, antimicrobial, conducting etc.; nanofibres: preparation, properties and applications that is, filtration, tissue engineering etc.; nanofinishing: self-cleaning, antimicrobial, UV protective etc.; nanocoating on textile substrates: plasma polymerization, layer-by-layer self assembly, sol-gel coating etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL7563"
+}

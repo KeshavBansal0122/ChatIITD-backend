@@ -1,0 +1,22 @@
+{
+  "code": "ELL3306",
+  "name": "Analog Systems IIa",
+  "description": "The course focuses on the design and analysis of advanced analog circuits, with particular emphasis on multistage amplifiers. Topics include the principles of cascading amplifier stages, gain and bandwidth optimization, impedance matching, and the impact of loading effects. Students will also explore techniques for improving linearity, stability, and overall performance in complex amplifier configurations.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL3305",
+  "overlap": null,
+  "learning_outcomes": [
+    "Analog Systems IIa | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Analog Systems IIa"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/analog-systems-iia",
+  "slug": "analog-systems-iia"
+}

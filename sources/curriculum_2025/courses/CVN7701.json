@@ -1,0 +1,16 @@
+{
+  "code": "CVN7701",
+  "name": "Teaching and Research Practicum for Environmental Engineers",
+  "description": "The students are expected to assist in research and teaching related activities, including - preparation of course materials, conducting practicals in laboratories, conducting tutorials and class projects, managing class activities, invigilating in examinations, and grading assignments.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVN7701"
+}

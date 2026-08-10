@@ -1,0 +1,16 @@
+{
+  "code": "COL7524",
+  "name": "Advanced Networks",
+  "description": "Review classical internet architecture, modern internet architecture concepts, link virtualization, high-performance switching, software-defined networking (SDN), network function virtualization and middleboxes, programmable data plane, congestion control, modern applications: video streaming and video conferencing, data center networks (DCN): introduction, virtualization, topology, DCN routing and transport, network measurements, wireless networks, future directions.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COL7524"
+}

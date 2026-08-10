@@ -1,0 +1,16 @@
+{
+  "code": "BSN7010",
+  "name": "Research Practicum",
+  "description": "Research work to be done by the research scholar.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BS#BSN7010"
+}

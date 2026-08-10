@@ -1,0 +1,22 @@
+{
+  "code": "CVL7209",
+  "name": "Geotechnology for Waste Disposal Facilities",
+  "description": "Integrated solid waste management covers municipal solid waste, hazardous waste, coal ash, and other industrial wastes. It includes landfilling practices tailored to waste types, with focus on municipal solid waste landfill planning, design, construction, operation, and closure, including leachate and gas management. Hazardous waste landfill topics include waste compatibility, design criteria, operational practices, closure, and long-term environmental monitoring. Ash pond management addresses slurry versus dry disposal methods, engineering properties of fly ash, bottom ash, and pond ash, and design strategies. Emphasis is placed on height raising techniques (upstream/downstream), closure planning, and site reclamation for sustainable post-closure land use.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CVL7204",
+  "overlap": null,
+  "learning_outcomes": [
+    "Geotechnology for Waste Disposal Facilities | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Geotechnology for Waste Disposal Facilities"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/geotechnology-waste-disposal-facilities",
+  "slug": "geotechnology-waste-disposal-facilities"
+}

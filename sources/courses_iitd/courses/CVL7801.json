@@ -1,0 +1,22 @@
+{
+  "code": "CVL7801",
+  "name": "Hydrologic Processes and Modelling",
+  "description": "Hydrologic cycle and its individual component processes. River basin as a linear hydrologic system. Linear theory of hydrologic systems. Lumped and distributed modelling approaches. Morphological attributes of watersheds and its role in runoff dynamics. Flood routing by lumped hydrologic and distributed hydraulic approaches. Unsaturated zone hydrology and physics of the soil-plant-atmosphere continuum. Calibration and validation of rainfall-runoff models. Land atmospheric interactions. Data assimilation. Impact of climate change on hydrologic cycle.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Hydrologic Processes and Modelling | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Hydrologic Processes and Modelling"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/hydrologic-processes-and-modelling",
+  "slug": "hydrologic-processes-and-modelling"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CHL7309",
+  "name": "Chemical Product Development and Commercialization",
+  "description": "This course introduces students to the principles and practices of chemical product design. Unlike traditional process-oriented chemical engineering, this course emphasizes product innovation and the integration of technical, economic, environmental, and societal factors in developing successful chemical products. Students will use real-world tools and case studies, culminating in a group design project.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Chemical Product Development and Commercialization | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Chemical Product Development and Commercialization"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/chemical-product-development-and-commercialization",
+  "slug": "chemical-product-development-and-commercialization"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MSL7621",
+  "name": "Service Operations Management",
+  "description": "This course introduces students to key concepts and practices of Service Operations Management, focusing on how organizations design, manage, and improve delivery to create customer value. It covers &quot;breakthrough&quot; services and successful firm benchmarks, the &quot;state of the art&quot; in service management thinking, and the application of these principles to improve satisfaction and organizational performance.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Service Operations Management | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Service Operations Management"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/service-operations-management",
+  "slug": "service-operations-management"
+}

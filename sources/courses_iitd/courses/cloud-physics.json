@@ -1,0 +1,21 @@
+{
+  "code": "ASL7540",
+  "name": "Cloud Physics",
+  "description": "The course covers cloud classification and formation, including the types of clouds, thermodynamic and dynamical conditions for their development, and the role of atmospheric stability and lifting mechanisms. It examines cloud dynamics such as entrainment, detrainment, downdraft initiation in cumulus clouds, large-scale convergence, and mesoscale convective systems (MCS). Nucleation processes are discussed through K\u00f6hler theory, cloud condensation nuclei (CCN) and ice nuclei (IN), and both homogeneous and heterogeneous nucleation mechanisms. The course introduces the fundamental thermodynamic and dynamical equations governing cloud formation and evolution, followed by detailed discussions on warm cloud microphysics, including diffusional growth, droplet size distribution evolution, collision\u2013coalescence, and radiative cooling. Cold and ice cloud microphysics are explored in terms of ice nucleation pathways, multiplication mechanisms, growth through deposition, aggregation, and riming, as well as melting and precipitation formation. It also covers hydrometeors, their classification, and the interaction of microphysical processes with cloud dynamics. Additional topics include cloud chemistry, focusing on the composition of cloud water and ice, aqueous-phase reactions, and atmospheric oxidation processes. The course further addresses aerosol\u2013cloud interactions, including direct, indirect, and semi-direct effects on cloud properties, precipitation, and radiation balance, as well as the representation of cloud microphysics in numerical weather prediction and climate models. Finally, it explores cloud\u2013climate interactions, emphasizing the role of clouds in earth\u2019s radiation budget, feedback mechanisms, and climate sensitivity.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Cloud Physics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/cloud-physics",
+  "slug": "cloud-physics"
+}

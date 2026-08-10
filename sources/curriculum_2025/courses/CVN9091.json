@@ -1,0 +1,16 @@
+{
+  "code": "CVN9091",
+  "name": "Teaching Practicum in Civil Engineering (PhD)",
+  "description": "The goal of this course is to develop professional competencies in teaching and academic communication. Participants will gain hands-on experience in delivering lectures, evaluation and managing labs.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVN9091"
+}

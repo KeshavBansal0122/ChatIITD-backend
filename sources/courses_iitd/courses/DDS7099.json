@@ -1,0 +1,22 @@
+{
+  "code": "DDS7099",
+  "name": "Independent Study in Design",
+  "description": "An Independent Study allows students to extend their education beyond the courses that are offered at the Department of Design, IIT Delhi. Independent Study projects are designed to allow students to work one-on-one with faculty members to explore a topic that is of interest that is not regularly taught in a class at the department. Independent Study projects can be based in academic research leading to a research/design project which can draw from field experiences. The student will be tasked with certain design assignments and related problem solving in an appropriate area of design research under the overall guidance of a faculty member. The work will be evaluated through a mid-semester and end-semester project presentations as well as a term paper/project report.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 3.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Independent Study in Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Independent Study in Design"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/independent-study-design",
+  "slug": "independent-study-design"
+}

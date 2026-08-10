@@ -1,0 +1,22 @@
+{
+  "code": "CMP0001",
+  "name": "Fundamentals of Chemistry Laboratory - I",
+  "description": "This preparatory laboratory course introduces students to the fundamentals of chemical experimentation and safe laboratory practices. It covers the proper use of common laboratory apparatus, preparation of solutions, volumetric analysis, filtration, crystallization, distillation, and the determination of melting and boiling points. The course also introduces the systematic qualitative analysis of inorganic cations, anions, and simple inorganic salts. Through guided experiments, students develop essential laboratory skills, careful observation, accurate record keeping, and the ability to interpret experimental results, providing a strong foundation for subsequent chemistry laboratory courses.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Fundamentals of Chemistry Laboratory - I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fundamentals of Chemistry Laboratory - I"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fundamentals-chemistry-laboratory-i",
+  "slug": "fundamentals-chemistry-laboratory-i"
+}

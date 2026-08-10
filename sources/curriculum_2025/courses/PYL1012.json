@@ -1,0 +1,16 @@
+{
+  "code": "PYL1012",
+  "name": "Mathematical Physics",
+  "description": "Complex analysis, Fourier series, Fourier and Laplace transforms and their applications to ODEs, Green\u2019s functions, Frobenius method and their applications to ODEs, special functions. Partial differential equations and methods of solutions.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL1012"
+}

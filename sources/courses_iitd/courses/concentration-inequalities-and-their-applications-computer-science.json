@@ -1,0 +1,22 @@
+{
+  "code": "COL7188",
+  "name": "Concentration Inequalities and Their Applications in Computer Science",
+  "description": "Some examples of finding tail bounds using elementary methods. Markov&#039;s inequality and the first moment method; Chebyshev&#039;s inequality and the second moment method. The Cramer-Chernoff method; a direct application to approximating personalized page rank. The independent Bernuolli variable case; some applications, for example, randomised rounding etc. Hoeffding&#039;s inequality; application to random Fourier approximation in machine learning. Martingales and the Azuma-Hoeffding inequality; application to reachability algorithms for graphs using random walks. McDiarmid&#039;s inequality; application to proving generalization error bounds in machine learning. Bernstein&#039;s inequality; application to proving the Johnson-Lindenstrauss lemma. Matrix concentration inequalities with applications.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Concentration Inequalities and Their Applications in Computer Science | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Concentration Inequalities and Their Applications in Computer Science"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/concentration-inequalities-and-their-applications-computer-science",
+  "slug": "concentration-inequalities-and-their-applications-computer-science"
+}

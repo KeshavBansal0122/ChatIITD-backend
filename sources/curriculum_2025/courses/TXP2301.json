@@ -1,0 +1,16 @@
+{
+  "code": "TXP2301",
+  "name": "Fabric Manufacture Laboratory-I",
+  "description": "Introduction to weaving: warp preparation - winding, warping, sizing; loom setup, primary and secondary motions; Dobby/Jacquard systems, loom components - picker, reed, heald shafts, shuttle; fabric construction\u2014plain, twill and satin; drafting and lifting plan, woven fabric CAD, production calculation - loom efficiency, production rate, fabric GSM; shuttleless looms.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXP2301"
+}

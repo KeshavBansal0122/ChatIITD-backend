@@ -1,0 +1,22 @@
+{
+  "code": "JGL5000",
+  "name": "Foundations of Cognition",
+  "description": "This course offers an interdisciplinary study of how the mind and brain give rise to cognition and behavior. It explores the current understanding of behavioral and neural basis of higher-order cognitive processes.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Foundations of Cognition | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Foundations of Cognition"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/foundations-cognition",
+  "slug": "foundations-cognition"
+}

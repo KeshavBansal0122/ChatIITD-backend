@@ -1,0 +1,22 @@
+{
+  "code": "MTL7350",
+  "name": "Data Structures for Applied Mathematics",
+  "description": "Introduction to some basic concepts of Object Oriented Programming and Review of some basic concepts of Python-programming language such as Class, Objects and some Built in Classes, Lists, Arrays; Growth rate of Functions: Big Oh, small oh, Big Omega, small omega and theta notations; Data structures: Arrays, Linked List, stacks, queues, Binary Search trees, Balanced Binary Trees: AVL trees; Binary Heaps; and their use in implementing some basic Algorithms; Data structures for representing graphs: Adjacency matrix and Adjacency lists; Sorting: Insertion Sort, Bubble Sort, Selection Sort, merge sort, quick sort, radix sort, and bucket sort; lower Bound for Sorting; Binary Search; Graph Algorithms: Breadth first search, Depth first search; Dijkstra\u2019s shortest path algorithm, Prim\u2019s and Kruskal\u2019s MST algorithms; Hash Table Structure, Hash Functions, Linear Open Addressing, Chaining",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "MTL5004",
+  "overlap": null,
+  "learning_outcomes": [
+    "Data Structures for Applied Mathematics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Data Structures for Applied Mathematics"
+  ],
+  "department": "Algorithms, Data Structures and Programming in Economics",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/data-structures-applied-mathematics",
+  "slug": "data-structures-applied-mathematics"
+}

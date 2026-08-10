@@ -1,0 +1,16 @@
+{
+  "code": "BML7730",
+  "name": "Industrial Manufacturing for Healthcare",
+  "description": "Introduction to various manufacturing processes, just-in-time, Kaizen, automation, control systems, industry 4.0, sensing, actuating and communicating technologies: various types of sensors, actuators, wireless communications and PLCs, additive manufacturing: technologies for metal, polymer, ceramic and biological/ organic materials, generative design, haptic devices for patient/subject specific medical device design, IoT based 3D printing, basics of industry 5.0: productivity, robots versus cobots, human-centered design: human factors, design of work spaces, injury prone zones, fatigue reduction, robotics in healthcare, augmented reality/ virtual reality, cobotics in surgery, risk assessment and regulatory affairs.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BM#BML7730"
+}

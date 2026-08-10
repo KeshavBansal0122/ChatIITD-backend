@@ -1,0 +1,22 @@
+{
+  "code": "PYL7080",
+  "name": "Quantum Sensing and Measurement",
+  "description": "Introduction to quantum sensing and metrology; fundamentals of quantum sensor architecture, Bloch sphere representation of quantum states; quantum state measurement; decoherence; applications in engineering, fundamental physics, biology, medicine, aerospace, geoscience; superposition and entanglement, super-resolution and super-sensitivity, detection of quantum states by measuring temporal photon statistics and spatial photon distribution; SPAD, SNSPD, EMCCD, laser cooling; atomic clock, quantum radar, magnetometers, inertial sensors, quantum imaging and metrology, quantum noise, shot noise, squeezed states, LIGO, quantum gravimeter, quantum accelerometer, quantum gyroscope; quantum distributed sensor network.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Quantum Sensing and Measurement | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Quantum Sensing and Measurement"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/quantum-sensing-and-measurement",
+  "slug": "quantum-sensing-and-measurement"
+}

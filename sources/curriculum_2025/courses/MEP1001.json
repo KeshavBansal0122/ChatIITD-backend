@@ -1,0 +1,16 @@
+{
+  "code": "MEP1001",
+  "name": "Manufacturing for Product Innovation",
+  "description": "Machining: turning, milling, grinding, shaping, gear manufacturing. Welding: gas-metal arc welding, gas welding, TIG, MIG, RSW, laser welding, robotic MIG welding. Casting and forging: sand casting, die casting, investment casting, centrifugal casting, and forging. Precision manufacturing: wire-cut EDM, die sinking EDM, abrasive water jet, laser cutting, micromachining and super finishing. Digital manufacturing: 3D printing, CNC turning and milling, collaborative manufacturing through cobot, schematic design, PCB manufacturing and electronics assembly, AR/VR and IoT. Sheet metal, fabrication, woodworking and composite manufacturing: sheet metal bending, shearing, forming, swaging, and seam making; cutting, sawing, filling, and fabrication using power tools; woodworking; composite manufacturing. Design and product realization.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.5,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ME",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ME#MEP1001"
+}

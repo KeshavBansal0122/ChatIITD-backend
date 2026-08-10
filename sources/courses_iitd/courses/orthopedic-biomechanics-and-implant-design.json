@@ -1,0 +1,22 @@
+{
+  "code": "MEL7232",
+  "name": "Orthopedic Biomechanics and Implant Design",
+  "description": "Musculoskeletal system: structure and function; basic biomechanics of human joints and spine; bone tissue mechanics; soft tissue mechanics; bone-implant systems; fracture fixation devices; adaptive bone remodelling; bone fracture healing; failure of implants.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Orthopedic Biomechanics and Implant Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Orthopedic Biomechanics and Implant Design"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/orthopedic-biomechanics-and-implant-design",
+  "slug": "orthopedic-biomechanics-and-implant-design"
+}

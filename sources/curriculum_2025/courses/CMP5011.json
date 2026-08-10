@@ -1,0 +1,16 @@
+{
+  "code": "CMP5011",
+  "name": "Lab I",
+  "description": "Experiments highlighting the principles of thermodynamics and chemical equilibrium, electrochemistry, chemical kinetics, spectroscopy, and computer simulations. Examples include: thermodynamics of micellization, synthesis, stabilization, and spectroscopy of nanoparticles, steady-state and time resolved fluorescence, cyclic and linear sweep voltammetry, electronic structure calculations, etc.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CM#CMP5011"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "PYL7002",
+  "name": "Physics of Semiconductor Devices",
+  "description": "Charge carriers in semiconductors: intrinsic carrier concentration, extrinsic semiconductors, position of fermi energy level. Carrier transport phenomenon: carrier drift and diffusion, hall effect. Carrier generation and recombination. P-N junction: energy band diagram, electrostatics of p-n junction, p-n junction current, ideal current-voltage relationship, junction breakdown mechanisms, heterojunctions. Metal-semiconductor contacts: Schottky barrier diodes, current transport in Schottky diodes, I-V characteristics, ohmic contacts. MOS structure: ideal MOS structure, energy band diagrams under accumulation, depletion and inversion conditions, C-V characteristics, various oxide charges in Si/SiO2 MOS and their effect on C-V graph, MOSFET, basics about the operation of a MOSFET, I-V relationships of a MOSFET, nonideal effects. Optical devices: basics of solar cells and photodetectors.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Physics of Semiconductor Devices | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Physics of Semiconductor Devices"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/physics-semiconductor-devices",
+  "slug": "physics-semiconductor-devices"
+}

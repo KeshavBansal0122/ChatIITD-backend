@@ -1,0 +1,22 @@
+{
+  "code": "DAD8999",
+  "name": "Doctoral Dissertation",
+  "description": "Doctoral research.",
+  "credits": 0.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Doctoral Dissertation | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Doctoral Dissertation"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/doctoral-dissertation",
+  "slug": "doctoral-dissertation"
+}

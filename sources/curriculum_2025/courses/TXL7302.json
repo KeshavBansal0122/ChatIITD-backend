@@ -1,0 +1,16 @@
+{
+  "code": "TXL7302",
+  "name": "Advanced Fabric Manufacturing Technologies",
+  "description": "Advanced fabric manufacturing technologies; yarn preparation for high-speed weaving, advances in winding and warping, sizing materials and related chemistry, rheology of size paste, sizing machine configurations, sizing of filament yarns; shuttleless weaving systems, advancements with respect to productivity, yarn characteristics and resource requirement, air-jet, rapier and water-jet weaving systems, specialty weaving; 3D weaving, multiphase weaving; weft and warp knitting, warp knitted structures with multiple guide bars, spacer fabrics, whole garment knitting; braiding, biaxial and triaxial braids, 3D braiding; nonwoven technologies, advances in web formation and bonding technologies, 3D nonwovens.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL7302"
+}

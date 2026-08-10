@@ -1,0 +1,22 @@
+{
+  "code": "MTL7738",
+  "name": "Commutative Algebra",
+  "description": "Revision of rings and ideals: prime and maximal ideals, chinese remainder theorem, nilradical, Jacobson radical, operations on ideals, extension and contraction. Basics of module: module, submodule, quotient module, sums and products of modules, Nakayama\u2019s lemma, module homomorphism, kernel, cokernel, direct sum, direct product, universal properties, free module, exact sequences, projective and injective modules, tensor product and flat modules. Rings and modules of fractions. Localisation of rings and modules and the functorial properties of localisation. Primary decomposition: primary ideals, primary decomposition, uniqueness theorems and associated primes. Integral dependence: integral dependence and independence, Noether normalisation lemma, going-up and going down theorems, Nullstellensatz (weak form). Chain conditions: Noetherian rings, Artinian rings, discrete valuation rings and Dedekind domains. Krull dimension, and completion.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "MTL2005/MTL5002/MTL2004/MTL5001/",
+  "overlap": null,
+  "learning_outcomes": [
+    "Commutative Algebra | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Commutative Algebra"
+  ],
+  "department": "Algebra",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/commutative-algebra",
+  "slug": "commutative-algebra"
+}

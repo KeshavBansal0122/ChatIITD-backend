@@ -1,0 +1,22 @@
+{
+  "code": "MTL7239",
+  "name": "Representation Theory of Finite Groups",
+  "description": "Revision of basic group theory. Definition and examples of representation. Sub-representation, sum and tensor product of representations, irreducible representations; Character Theory: Character of a representation, Schur\u2019s Lemma, Maschke\u2019s theorem, Orthogonality relations for characters, decomposition of regular representation, number of irreducible representations of a group; \nRepresentation of subgroups and product of groups, induced representations; Group Algebra: Representations and C[G]-modules; Decomposition of complex algebra C[G], Integrability properties of characters, Burnside\u2019s pq theorem. Induced representations, restriction to subgroups, Reciprocity formula, Mackey\u2019s irreducibility criterion; Irreducible representations of symmertric groups (S_n) and alternating groups (A_n).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "MTL2005/MTL5001",
+  "overlap": null,
+  "learning_outcomes": [
+    "Representation Theory of Finite Groups | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Representation Theory of Finite Groups"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/representation-theory-finite-groups",
+  "slug": "representation-theory-finite-groups"
+}

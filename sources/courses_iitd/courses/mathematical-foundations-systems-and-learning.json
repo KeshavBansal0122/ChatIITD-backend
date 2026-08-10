@@ -1,0 +1,22 @@
+{
+  "code": "ELL7280",
+  "name": "Mathematical Foundations for Systems and Learning",
+  "description": "Set theory, open sets, closed sets, functions, metric functions, sequences, convergence, completeness, limits, continuity, differentiability, metric spaces, vector spaces, matrix rank, system of linear equations, fundamental spaces, eigenvalue decomposition, singular value decomposition, positive semi definite matrices, graph matrix, basic probability theory, probability space, random variables, probability distribution and density functions, cumulants, information theory, KL divergence, metric, MLE, MAP.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Mathematical Foundations for Systems and Learning | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Mathematical Foundations for Systems and Learning"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mathematical-foundations-systems-and-learning",
+  "slug": "mathematical-foundations-systems-and-learning"
+}

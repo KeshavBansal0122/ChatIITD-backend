@@ -1,0 +1,22 @@
+{
+  "code": "CML7044",
+  "name": "Advance Physical Organic Chemistry",
+  "description": "Molecular orbital theory and orbital mixing: introduction to reactive intermediates carbonium, carbanions, radical and carbenes (type and structure), non-classical carbonium ion, discussion on potential energy to vibrations connection, the reaction path, what is reaction coordinates, simple rate laws (unimolecular and bimolecular) Arrhenius equation, Eyring equation, transition state theory, kinetics versus thermodynamic control; kinetics to thermodynamics: introduction to Hammond postulate and Curtin-Hammett principle, investigations on reaction mechanisms and short lived intermediate (introduction to kinetic isotope effect), cross-over experiments (Eschenmoser&#039;s intra versus intermolecular sN2 reaction), characterization of short lived intermediates, example of reactive species (dioxiranes, tetrahedrane, o, m, p-didehydrobenzene).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advance Physical Organic Chemistry | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advance Physical Organic Chemistry"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advance-physical-organic-chemistry",
+  "slug": "advance-physical-organic-chemistry"
+}

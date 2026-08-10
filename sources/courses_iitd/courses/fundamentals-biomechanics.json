@@ -1,0 +1,22 @@
+{
+  "code": "BML7700",
+  "name": "Fundamentals of Biomechanics",
+  "description": "Biomechanics of human movement, qualitative analysis, nine fundamentals of biomechanics, musculoskeletal systems, musculoskeletal biomechanics: range-of-motion principle, force-motion principle, force analysis, Hill muscle model, muscle-tendon unit, force-velocity, force-length, force-time relation, force analysis, cardiovascular anatomy and physiology, blood and its components, cardiovascular biomechanics - Poiseuille&#039;s flow, fluid flow - Newtonian and non-Newtonian flows, Navier-Stokes, cardiac parameters, ECG, respiratory biomechanics: anatomy and physiology of human respiratory system, compliance and resistance, RC equivalence of lungs, effects of aging, acoustic biomechanics and hearing: anatomy and physiology of human ear, basics of acoustics, mechanics of hearing, biomechanics of vision: mechanics of visual system, refraction, refractive errors: myopia, hyperopia, and astigmatism. Biomechanics of digestive system: gastro-intestinal tract, enzymes and digestion mechanism, neurobiomechanics: central and peripheral neural system, neuro-muscular physiology, action potential, motor control, EEG, neuro plasticity, neuro-muscular disorders.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Fundamentals of Biomechanics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fundamentals of Biomechanics"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fundamentals-biomechanics",
+  "slug": "fundamentals-biomechanics"
+}

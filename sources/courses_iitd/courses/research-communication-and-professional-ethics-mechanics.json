@@ -1,0 +1,22 @@
+{
+  "code": "AMP7100",
+  "name": "Research Communication and Professional Ethics in Mechanics",
+  "description": "Scientific/technical paper reading and writing, style of leading journals and conferences in mechanics, paper writing and reviewing, ethics and plagiarism, technical presentations.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Research Communication and Professional Ethics in Mechanics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Research Communication and Professional Ethics in Mechanics"
+  ],
+  "department": "Applied Mechanics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/research-communication-and-professional-ethics-mechanics",
+  "slug": "research-communication-and-professional-ethics-mechanics"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MTL7750",
+  "name": "Abstract Harmonic Analysis",
+  "description": "Fourier transform of L1 functions on Rn, Fourier- Stieltjes transform, Plancherel theorem, convolution on L1 on Rn, Fourier series of L1 functions on Tn, Fourier- Stieltjes series, Plancherel theorem, convolution on L1 on Tn. Banach algebras, spectrum of an element and its properties, spectral radius, ideals in a commutative Banach algebra, spectrum of a commutative Banach algebra, Gelfand transform, Gelfand-Naimark theorem. Topological groups and its properties, Haar measure on a locally compact group, existence and uniqueness, modulator function, convolution, homogeneous spaces, existence of an invariant measure, weil\u2019s formula. Unitary representation of locally compact groups, Schur\u2019s lemma, relation between unitary representation of groups and the *-representations of the group algebra, positive definite functions, Gelfand-Raikov theorem. Harmonic analysis of LCA groups: dual group of locally compact abelian group, dual group as a locally compact abelian group, Pontriagin duality theorem, spectrum of the L1 space with respect to the convolution, Fourier analysis on locally compact abelian groups, Plancherel theorem, Bochner\u2019s theorem. Harmonic analysis on compact groups: finite dimensionality of the irreducible unitary representations of a compact group, Schur\u2019s orthogonality relations, Peter-Weyl thereom, Fourier analysis on compact groups, Plancherel theorem, representations of SU(2) and SO(3).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Abstract Harmonic Analysis | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Abstract Harmonic Analysis"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/abstract-harmonic-analysis",
+  "slug": "abstract-harmonic-analysis"
+}

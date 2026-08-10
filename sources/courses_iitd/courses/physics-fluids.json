@@ -1,0 +1,22 @@
+{
+  "code": "PYL7010",
+  "name": "Physics of Fluids",
+  "description": "Structure of liquids. Hydrostatics. Euler and Lagrangian frames of reference. Vorticity. Conservation of mass, momentum, and energy in a fluid flow. Euler equation. Kelvin\u2019s circulation theorem. Boundary layers. Potential flow. Compressible flows and waves. Viscosity. Navier Stokes equation. Low Reynolds number flows. Stokes equation. Hydrodynamic instabilities. Turbulence.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Physics of Fluids | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Physics of Fluids"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/physics-fluids",
+  "slug": "physics-fluids"
+}

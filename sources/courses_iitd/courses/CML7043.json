@@ -1,0 +1,22 @@
+{
+  "code": "CML7043",
+  "name": "Chemical Crystallography",
+  "description": "Introduction to symmetry in the solid-state, basics of X-ray diffraction and crystallography, single crystal X-ray diffraction, powder X-ray diffraction, their applications in pharmaceutical and material science, practical aspects of X-ray data collection, crystal structure solution and refinement, crystallographic disorder, twinning, powder profile fitting versus Rietveld refinement, brief introduction to advanced topics such as total-scattering pair distribution function analysis, and neutron diffraction. Practical training of powder XRD and single crystal XRD data collection procedure, modelling, visualization and analysis of crystal structures.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Chemical Crystallography | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Chemical Crystallography"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/chemical-crystallography",
+  "slug": "chemical-crystallography"
+}

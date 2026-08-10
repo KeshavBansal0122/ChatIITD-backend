@@ -1,0 +1,21 @@
+{
+  "code": "ESL7673",
+  "name": "Battery Storage",
+  "description": "Understanding batteries and their basic components; Historical developments of different types of primary and secondary accumulators/batteries; Secondary-batteries for stationary and mobility applications; Critical parameters of secondary-batteries: C-rate, capacity, energy/power, efficiency, cycle-life and degradation; Fundamentals of various types of battery technologies, Primary batteries: Zinc-carbon, dry-cell, Zinc-copper, etc., Secondary batteries: lead-acid, nickel-cadmium, nickel metal-hydride, lithium-ion, sodium-ion, Solid state batteries, charging protocols of different types of secondary batteries, Performance analysis of batteries, thermal management of batteries, battery management system, manufacturing, safety and policy framework for primary and secondary batteries, recycling of lithium-ion batteries and their impact on the environment",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Battery Storage | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Li-Ion Batteries: Technology and Thermal Management",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/battery-storage",
+  "slug": "battery-storage"
+}

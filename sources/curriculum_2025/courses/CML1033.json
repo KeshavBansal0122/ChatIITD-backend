@@ -1,0 +1,16 @@
+{
+  "code": "CML1033",
+  "name": "Thermodynamics and Chemical Kinetics",
+  "description": "Laws of thermodynamics, concept of work and heat. Understanding of thermodynamic parameters such as internal energy, enthalpy, entropy, Gibb\u2019s free energy and their dependence on variables. Chemical potential, colligative properties, and phase rule. Thermodynamic parameters in the presence of non-PV work such as electrical work and surface work. Rates of reactions, reaction mechanisms, theories of reaction rates, reactions in liquids.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CM#CML1033"
+}

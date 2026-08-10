@@ -1,0 +1,22 @@
+{
+  "code": "MLL3006",
+  "name": "Materials Selection and Design",
+  "description": "Historical evolution of engineering materials, evolution of materials in products, engineering materials and their properties: families of engineering materials, materials information for design, materials properties, materials property chart: exploring materials properties, materials property charts for example the modulus- density chart, the strength-density chart, the fracture toughness-modulus chart, thermal conductivity-electrical resistivity chart, materials selection-the basics: the selection strategy, materials indices, the selection procedure, multiple constraints and conflicting objectives: selection with multiple constraints, conflicting objectives, selection of materials and shape: shape factors, limits to shape efficiency, exploring the materials shape combinations, materials indices that include shape, architectured materials, processes and process selection: classification of processes: shaping, joining and finishing, processing for properties, process selection, ranking process cost, designing hybrid materials: holes in materials property space, composites, sandwich structures, cellular structures, segmented structures, case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Materials Selection and Design\u202f | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Materials Selection and Design"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/materials-selection-and-design",
+  "slug": "materials-selection-and-design"
+}

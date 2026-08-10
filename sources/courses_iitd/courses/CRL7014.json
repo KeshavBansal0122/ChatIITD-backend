@@ -1,0 +1,22 @@
+{
+  "code": "CRL7014",
+  "name": "Introduction to Bioelectromagnetics",
+  "description": "Introduction to basic concepts of electric, magnetic and electromagnetic fields using Maxwell\u2019s equations and boundary conditions; field behavior, interaction, design considerations, measurements, and benefits/limitations across the spectrum; bioelectromagnetic dosimetry; emerging applications; and any other relevant topic(s).",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Bioelectromagnetics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Bioelectromagnetics"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-bioelectromagnetics",
+  "slug": "introduction-bioelectromagnetics"
+}

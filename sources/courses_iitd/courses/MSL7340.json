@@ -1,0 +1,22 @@
+{
+  "code": "MSL7340",
+  "name": "Cybersecurity for Managers",
+  "description": "This course will provide essential knowledge and skills to understand and address the growing threats to digital systems, networks, and data. This course will equip students with cybersecurity best practices to help individuals and organizations implement preventative measures and manage cyber risks. In this present era, where cyber attacks are prevalent and evolving, this course will develop the awareness and skills needed to protect the organizations from potential cyber threats.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Cybersecurity for Managers | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Cybersecurity for Managers"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/cybersecurity-managers",
+  "slug": "cybersecurity-managers"
+}

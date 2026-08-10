@@ -1,0 +1,22 @@
+{
+  "code": "MEL7220",
+  "name": "Fluid-Structure Interactions",
+  "description": "Review of tensor algebra and tensor calculus, kinematics of continuum and conservation laws, variation al principles nonlinear dynamics of single and multi degree freedom systems, A solid in still fluid- vibro-acoustic coupling, interactions in viscous flow, interactions in a compressible flow, stability issues of axial flow models, buckling and flutter, Helmholtz resonator design, Reynolds equations spatial and temporal discretization, dynamics of thin structures, aero-elastic structures, FSI systems with potential flow, radiation and scattering of acoustic waves, computational models for FSI interactions, solution procedures and convergence issues.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Fluid-Structure Interactions | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fluid-Structure Interactions"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fluid-structure-interactions",
+  "slug": "fluid-structure-interactions"
+}

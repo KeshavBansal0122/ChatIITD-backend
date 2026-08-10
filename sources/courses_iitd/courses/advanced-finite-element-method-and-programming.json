@@ -1,0 +1,22 @@
+{
+  "code": "CVL8451",
+  "name": "Advanced Finite Element Method and Programming",
+  "description": "Finite element method (FEM) to solve complex structural engineering problems. Various types of finite elements (FE) considering nonlinear material models; constitutive laws; hybrid elements, strong and weak form representation and solutions. FEM for dynamic problems: consistent mass matrix, vibration of bars, beams, and plate elements. FEM for buckling problems: geometric matrix, buckling of struts, and plate elements. Damage and plastic deformation in complex structures, FE modeling and analysis of complex structures: 3-D frames, shear walls, bridges, cooling towers, continuua etc. Computational aspects: meshing, convergence, singularity, etc. Interpretation of results. Comparison with other methods.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(CVL7413)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Finite Element Method and Programming | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Finite Element Method and Programming"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-finite-element-method-and-programming",
+  "slug": "advanced-finite-element-method-and-programming"
+}

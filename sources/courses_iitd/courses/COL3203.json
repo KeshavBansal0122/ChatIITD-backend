@@ -1,0 +1,22 @@
+{
+  "code": "COL3203",
+  "name": "Logic for Computer Science",
+  "description": "Logic for specifying systems, propositional logic, proof systems for propositional logic (resolution, DPLL, CDCL, natural deduction), soundness and completeness of propositional logic proof systems, SAT/SMT solvers, predicate logic, proof systems for predicate logic (resolution with unification, natural deduction), soundness and completeness of predicate logic proof systems, compactness, Hoare logic, soundness, relative completeness, alloy/Z3/automated theorem provers.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(COL1002)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Logic for Computer Science | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Logic for Computer Science"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/logic-computer-science",
+  "slug": "logic-computer-science"
+}

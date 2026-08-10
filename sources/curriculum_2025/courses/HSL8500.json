@@ -1,0 +1,16 @@
+{
+  "code": "HSL8500",
+  "name": "Advanced Topics in Philosophy",
+  "description": "This course offers in-depth engagement with advanced topics in philosophy, with the specific theme varying according to the instructor. It is intended to expose PhD students to specialized areas of research and contemporary philosophical debates. Students will work with primary and secondary texts to investigate philosophical arguments, study conceptual frameworks, and explore the implications of various positions. The course emphasizes independent thinking, methodological reflection, and scholarly rigour. It serves both as a forum for exploring focused philosophical questions and as a training ground for the research competencies expected at the doctoral level.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL8500"
+}

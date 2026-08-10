@@ -1,0 +1,22 @@
+{
+  "code": "BBL7036",
+  "name": "Dynamics of Microbial Systems",
+  "description": "Introduction to mathematical modeling in biology, The language of Dynamical Systems, Dynamics of microbial populations (Single species), Dynamics of genetic circuits \u2013 Compartmental Models Single cell Dynamics (Models of gene expression and regulation), Dynamics of multiple interacting microbial populations",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Dynamics of Microbial Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Dynamics of Microbial Systems"
+  ],
+  "department": "Biochemical Engineering and Biotechnology, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/dynamics-microbial-systems",
+  "slug": "dynamics-microbial-systems"
+}

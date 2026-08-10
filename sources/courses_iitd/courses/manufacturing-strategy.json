@@ -1,0 +1,22 @@
+{
+  "code": "MSL7606",
+  "name": "Manufacturing Strategy",
+  "description": "Inventory Control Strategy (MRP-I), Buyer and Supplier Procurement Decisions (EOQ, POQ, PPB, MoM), Facility Planning Decisions, Cellular Manufacturing Layout, Capacity Planning Decisions (CPOF, Bill of Material, Resource Profile, Capacity Requirement Planning, Case Study Discussion",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Manufacturing Strategy | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Manufacturing Strategy"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/manufacturing-strategy",
+  "slug": "manufacturing-strategy"
+}

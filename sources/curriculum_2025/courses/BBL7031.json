@@ -1,0 +1,16 @@
+{
+  "code": "BBL7031",
+  "name": "Bioseparation Engineering",
+  "description": "Characteristics of bioproducts, mechanical separations, cell disruption, solvent extraction, adsorption, chromatography, membrane separations, crystallization and process integration. Lab practicals on filtration, centrifugation, settling, column packing, breakthrough curves, solvent extraction. Gel filtration, HPLC and SMB.",
+  "credits": 4.5,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BB#BBL7031"
+}

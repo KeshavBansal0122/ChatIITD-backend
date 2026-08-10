@@ -1,0 +1,22 @@
+{
+  "code": "BMP7450",
+  "name": "Advanced Laboratory in Bioelectronics & Biosensing",
+  "description": "Basic concepts of medical instrumentation \u2013 terminology of medical devices, medical instrumentation systems, operating modes and classification of biomedical instruments, general static and dynamic characteristics. Basic transducers and their principles: resistive sensors, inductive sensors, capacitive sensors, piezoelectric sensors, optical, impedance and surface acoustic wave transducers. Origin and measurement of biopotentials: excitable cells, origins of ECG, EMG, EEG, biopotential electrode and its effect, equivalent circuit model. Operational amplifiers and signal processing: basic amplifier design, differential amplifiers, filters, ADC conversion. Introduction to chemical biosensors and biomolecules: Biosensor classification, main elements in biosensors, DNA, enzyme, antibody, antigen, protein, peptide, aptamer, lateral flow assay based kits. Amplification and detection techniques: amplification techniques (PCR), ELISA (enzyme-linked immunosorbent assay), fluorescence spectroscopy, UV-vis absorption and emission, surface plasmon resonance. Electrochemical cells and measurement techniques: voltammetry and amperometry, immobilized enzyme-electrodes, impedance spectroscopy, fluorescence and colorimetric sensors.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Laboratory in Bioelectronics & Biosensing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Laboratory in Bioelectronics & Biosensing"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-laboratory-bioelectronics-biosensing",
+  "slug": "advanced-laboratory-bioelectronics-biosensing"
+}

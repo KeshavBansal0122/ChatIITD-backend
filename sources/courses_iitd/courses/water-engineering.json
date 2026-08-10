@@ -1,0 +1,22 @@
+{
+  "code": "CVL7703",
+  "name": "Water Engineering",
+  "description": "Characteristics of water-physical, chemical and biological; conventional and emerging pollutants in different sources of water; water chemistry- acid-base equilibrium, solubility and precipitation, complex ions; reaction kinetics and thermodynamics, types of reactors, unit operation and processes, fundamental principles of water treatment- sedimentation, settling theory, Stoke&#039;s law; coagulation, colloidal stability, DLVO theory; filtration-types of filters; disinfection-CT concept; hardness removal, water stabilization; advanced water treatment- adsorption-kinetics and isotherm, breakthrough curve, ion exchange, membrane processes and principles, advanced oxidation processes and mechanisms of pollutant degradation, electrodialysis and capacitive deionization. Selection of treatment scheme-design considerations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Water Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Water Engineering"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/water-engineering",
+  "slug": "water-engineering"
+}

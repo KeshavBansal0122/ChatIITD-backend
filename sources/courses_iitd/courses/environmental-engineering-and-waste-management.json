@@ -1,0 +1,22 @@
+{
+  "code": "CHL7412",
+  "name": "Environmental Engineering and Waste Management",
+  "description": "Ecological balance. Contribution of industrial and human activities in environmental quality. Ecological cycles. Concept of pollutants and regulatory measures for the maintenance of environmental quality. Air pollution sources and its dependence on the atmospheric factors, atmospheric stability and dispersion of pollutants. Control of emission of pollutants using multi-cyclone systems, electrostatic precipitators, bag filters, wet scrubbers for gas cleaning, adsorption by activated carbon, etc. Water pollution, its causes and effects. Pollutants and their dispersion in water bodies to predict water quality through modeling. Concept of inorganic and organic wastes and definition of biochemical oxygen demand (BOD) and chemical oxygen demand (COD). Control of water pollution by primary treatment and biological treatment systems. Solid waste management systems. Hazardous waste treatment, disposal and storage in engineered landfill.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Environmental Engineering and Waste Management | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Environmental Engineering and Waste Management"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/environmental-engineering-and-waste-management",
+  "slug": "environmental-engineering-and-waste-management"
+}

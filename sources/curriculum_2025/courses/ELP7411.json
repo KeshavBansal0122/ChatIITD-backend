@@ -1,0 +1,16 @@
+{
+  "code": "ELP7411",
+  "name": "Wireless Communications Laboratory",
+  "description": "Path loss exponent (PLE) and Fraunhofer distance\r\na. Obtain PLE values corresponding to different frequencies\r\nb. Obtain Fraunhofer distance value corresponding to different frequencies\r\nc. Observe the trend of PLE before and after Fraunhofer distance\r\nd. Study shadowing effect\r\nChannel fading countermeasures by diversity schemes\r\na. Realize transmit and receive space diversity using 2x1 configuration on SDR\r\nb. Realize frequency diversity: Selection combining, switch and stay combining\r\nImplementation of Adaptive Modulation and Coding (AMC) using SDR\r\na. Estimate the channel quality\r\nb. Assign the modulation (QAM) depending on the location of the receiver from the transmitter to satisfy quality-of-service in terms of bit error rate\r\nc. Compare the performance of adaptive modulation scheme with non-adaptive modulation scheme (demonstrate the benefits of adaptive over non-adaptive)\r\nOFDM implementation using SDR\r\na. Design the OFDM transmitter and receiver module on SDR\r\nb. Vary FFT size and observe its effect on \r\n i. Peak-to-Average-Power Ratio (PAPR)\r\n ii. Frequency selectivity of the channel\r\nc. Study the effect of cyclic prefix on intersymbol interference mitigation\r\nInterference mitigation with Spread Spectrum techniques using SDR\r\na. Design SDR transmitter and receiver module for different Spread Spectrum techniques (DSSS, FHSS)\r\nb. Use one SDR as a jammer and use spreading techniques at the transmitter and the receiver to overcome interference created by the jammer\r\nMini-project (compulsory):\r\nExperimenting with open (ORAN equivalent) end-to-end communication systems for cross-disciplinary use-cases to do with eMBB, URLLC, and mMTC",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 1.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELP7411"
+}

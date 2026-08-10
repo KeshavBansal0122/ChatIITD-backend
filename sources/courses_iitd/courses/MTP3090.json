@@ -1,0 +1,22 @@
+{
+  "code": "MTP3090",
+  "name": "Numerical Analysis Computing Laboratory",
+  "description": "Programming concepts, Implementation of matrix operations and complexity in matrix operations, Numerical methods for solving nonlinear equations and system of equations, Polynomial and piecewise polynomial interpolation,\nImplementation of several numerical differentiation and numerical integration algorithms, Solution of systems of linear equations: Direct methods and Iterative methods, Numerical methods for initial value problems and boundary value problems for ODEs.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Numerical Analysis Computing Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Numerical Analysis Computing Laboratory"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/numerical-analysis-computing-laboratory",
+  "slug": "numerical-analysis-computing-laboratory"
+}

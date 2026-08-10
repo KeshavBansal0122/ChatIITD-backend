@@ -1,0 +1,22 @@
+{
+  "code": "ELL7216",
+  "name": "Telecommunication Transmission and Switching",
+  "description": "Advanced introduction to teletraffic engineering, telecommunication switching including routing, self-routing, circuit and fast packet switching for 5G+ / NGN, telecom multiplexing hierarchies, telecom link design, transmission systems and noise/jitter detection and mitigation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "ELL1001",
+  "overlap": null,
+  "learning_outcomes": [
+    "Telecommunication Transmission and Switching | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Telecommunication Transmission and Switching"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/telecommunication-transmission-and-switching",
+  "slug": "telecommunication-transmission-and-switching"
+}

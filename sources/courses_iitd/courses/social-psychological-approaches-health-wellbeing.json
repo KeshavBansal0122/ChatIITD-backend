@@ -1,0 +1,22 @@
+{
+  "code": "HSL2062",
+  "name": "Social Psychological Approaches to Health & Wellbeing",
+  "description": "This course introduces students to the social psychological processes that shape health and wellbeing across individual, interpersonal, group, community, and societal contexts. Moving beyond purely biomedical perspectives, it examines how social relationships, group memberships, cultural norms, social and environmental determinants, and structural inequalities influence physical and mental health. Students engage with major theories and empirical research in social and health psychology, covering models of health, stress and coping, social identity, stigma, discrimination, social support, health inequalities, depression, digital wellbeing, climate-related wellbeing, and collective participation. Through contemporary case studies and real-world applications, the course explores how social psychological principles can inform health behaviour, sustainable behaviour change, environmental-health communication, resilience, and evidence-informed interventions that promote individual and collective wellbeing in diverse communities and organisations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Social Psychological Approaches to Health & Wellbeing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Social Psychological Approaches to Health & Wellbeing"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/social-psychological-approaches-health-wellbeing",
+  "slug": "social-psychological-approaches-health-wellbeing"
+}

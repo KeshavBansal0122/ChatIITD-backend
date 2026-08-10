@@ -1,0 +1,16 @@
+{
+  "code": "RDL7700",
+  "name": "Biomass Production",
+  "description": "This course provides a comprehensive understanding of biomass production with an emphasis on its ecological and agricultural relevance. It covers the fundamentals of primary productivity, nutrient cycling, and methods for measuring biomass across diverse ecosystems. The course explores plant improvement strategies including tissue culture and seed technologies, the role of bio-inputs such as biofertilizers and organic manures, and interactions within soil and plant microbiomes. Students will also study agroforestry models, soil and water conservation techniques, aquatic biomass systems (algae and macrophytes), the contribution of animal biomass to rural economies and understand the role and implications of GMOs.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "RD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=RD#RDL7700"
+}

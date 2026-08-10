@@ -1,0 +1,22 @@
+{
+  "code": "CVL3704",
+  "name": "Design of Irrigation and Hydraulic Structures",
+  "description": "Introduction to irrigation engineering, irrigation techniques, quality of irrigation water; Water requirements for crops, duty, delta; Types of irrigation practices \u2013 surface, basin, border, furrow, sprinkler, drip; Methods of irrigation; Selection of a suitable irrigation method; Irrigation efficiencies; Soil water \u2013 classification, soil water storage, soil moisture constants, soil moisture content. Storage structures: dams and reservoirs; Different types of dams and selection of suitable type and dam site; Gravity dams - load analysis, load combinations, stability analysis, principal stresses, elementary profile. Diversion headworks: layout and components, weirs and barrages; Design concepts for irrigation structures on permeable foundations; Design concepts of weirs and energy dissipation devices. Canals: canal layout and classification; Design concepts of unlined canals \u2013 critical tractive force method, Kennedy\u2019s method, Lacey\u2019s method; Economics of canal lining and design of lined canals; Design concepts of canal falls; Design concepts of head regulator, cross regulator; Design concepts of cross drainage work.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CVL3703CVL2702",
+  "overlap": null,
+  "learning_outcomes": [
+    "Design of Irrigation and Hydraulic Structures | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Design of Irrigation and Hydraulic Structures"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/design-irrigation-and-hydraulic-structures",
+  "slug": "design-irrigation-and-hydraulic-structures"
+}

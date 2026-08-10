@@ -1,0 +1,16 @@
+{
+  "code": "MLN7001",
+  "name": "Research Practicum (M.Tech. Materials Science and Engineering)",
+  "description": "Developing a research plan, executing the assigned research tasks for the semester, submitting a detailed research report, and presenting the research findings.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ML",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ML#MLN7001"
+}

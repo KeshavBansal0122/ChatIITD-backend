@@ -1,0 +1,420 @@
+{
+  "source": "https://curriculum.iitd.ac.in/",
+  "academic_units": [
+    {
+      "code": "AM",
+      "name": "Department of Applied Mechanics"
+    },
+    {
+      "code": "BB",
+      "name": "Department of Biochemical Engineering and Biotechnology"
+    },
+    {
+      "code": "CH",
+      "name": "Department of Chemical Engineering"
+    },
+    {
+      "code": "CM",
+      "name": "Department of Chemistry"
+    },
+    {
+      "code": "CV",
+      "name": "Department of Civil Engineering"
+    },
+    {
+      "code": "CO",
+      "name": "Department of Computer Science and Engineering"
+    },
+    {
+      "code": "DD",
+      "name": "Department of Design"
+    },
+    {
+      "code": "EL",
+      "name": "Department of Electrical Engineering"
+    },
+    {
+      "code": "ES",
+      "name": "Department of Energy Engineering"
+    },
+    {
+      "code": "HS",
+      "name": "Department of Humanities and Social Sciences"
+    },
+    {
+      "code": "MS",
+      "name": "Department of Management Studies"
+    },
+    {
+      "code": "ML",
+      "name": "Department of Materials Science and Engineering"
+    },
+    {
+      "code": "MT",
+      "name": "Department of Mathematics"
+    },
+    {
+      "code": "ME",
+      "name": "Department of Mechanical Engineering"
+    },
+    {
+      "code": "PY",
+      "name": "Department of Physics"
+    },
+    {
+      "code": "TX",
+      "name": "Department of Textile and Fibre Engineering"
+    },
+    {
+      "code": "CR",
+      "name": "Center for Applied Research in Electronics"
+    },
+    {
+      "code": "AS",
+      "name": "Center for Atmospheric Sciences"
+    },
+    {
+      "code": "CT",
+      "name": "Center for Automotive Research and Tribology"
+    },
+    {
+      "code": "BM",
+      "name": "Center for Biomedical Engineering"
+    },
+    {
+      "code": "OP",
+      "name": "Center for Optics and Photonics"
+    },
+    {
+      "code": "RD",
+      "name": "Center for Rural Development and Technology"
+    },
+    {
+      "code": "DS",
+      "name": "Center for Sensors, Instrumentation and Cyber Physical Systems Engineering"
+    },
+    {
+      "code": "TR",
+      "name": "Center for Transportation Research and Injury Prevention"
+    },
+    {
+      "code": "VE",
+      "name": "Center for Value Education in Engineering"
+    },
+    {
+      "code": "AI",
+      "name": "School of Artificial Intelligence"
+    },
+    {
+      "code": "SB",
+      "name": "School of Biology"
+    },
+    {
+      "code": "SI",
+      "name": "School of Information Technology"
+    },
+    {
+      "code": "SP",
+      "name": "School of Public Policy"
+    },
+    {
+      "code": "BS",
+      "name": "School of Telecommunication Technology and Management"
+    },
+    {
+      "code": "J",
+      "name": "Interdisciplinary courses"
+    },
+    {
+      "code": "DA",
+      "name": "Institute courses"
+    }
+  ],
+  "programmes": [
+    {
+      "code": "AM1",
+      "name": "B.Tech. in Engineering and Computational Mechanics"
+    },
+    {
+      "code": "BB1",
+      "name": "B.Tech. in Biochemical Engineering and Biotechnology"
+    },
+    {
+      "code": "CE1",
+      "name": "B.Tech. in Civil Engineering"
+    },
+    {
+      "code": "CH1",
+      "name": "B.Tech. in Chemical Engineering"
+    },
+    {
+      "code": "CS1",
+      "name": "B.Tech. in Computer Science and Engineering"
+    },
+    {
+      "code": "DD2",
+      "name": "B.Tech. in Design"
+    },
+    {
+      "code": "EE1",
+      "name": "B.Tech. in Electrical Engineering"
+    },
+    {
+      "code": "EE3",
+      "name": "B.Tech. in Electrical Engineering (Power and Automation)"
+    },
+    {
+      "code": "ES1",
+      "name": "B.Tech. in Energy Engineering"
+    },
+    {
+      "code": "ME1",
+      "name": "B.Tech. in Mechanical Engineering"
+    },
+    {
+      "code": "ME2",
+      "name": "B.Tech. in Production and Industrial Engineering"
+    },
+    {
+      "code": "MS1",
+      "name": "B.Tech. in Materials Engineering"
+    },
+    {
+      "code": "MT1",
+      "name": "B.Tech. in Mathematics and Computing"
+    },
+    {
+      "code": "PH1",
+      "name": "B.Tech. in Engineering Physics"
+    },
+    {
+      "code": "TT1",
+      "name": "B.Tech. in Textile and Fibre Engineering"
+    },
+    {
+      "code": "CY1",
+      "name": "BS in Chemistry"
+    },
+    {
+      "code": "DD1",
+      "name": "Bachelor of Design"
+    },
+    {
+      "code": "CH7",
+      "name": "B.Tech. and M.Tech. in Chemical Engineering"
+    },
+    {
+      "code": "CS5",
+      "name": "B.Tech. and M.Tech. in Computer Science and Engineering"
+    },
+    {
+      "code": "MT6",
+      "name": "B.Tech. and M.Tech. in Mathematics and Computing"
+    },
+    {
+      "code": "AIB",
+      "name": "M.Tech. in Machine Intelligence and Data Science"
+    },
+    {
+      "code": "AMA",
+      "name": "M.Tech. in Engineering Analysis and Design"
+    },
+    {
+      "code": "AST",
+      "name": "M.Tech. in Atmospheric-Oceanic Science and Technology"
+    },
+    {
+      "code": "BEM",
+      "name": "M.Tech. in Biomolecular and Bioprocess Engineering"
+    },
+    {
+      "code": "BMT",
+      "name": "M.Tech. in Biomedical Engineering"
+    },
+    {
+      "code": "CEC",
+      "name": "M.Tech. in Construction Technology and Management"
+    },
+    {
+      "code": "CEG",
+      "name": "M.Tech. in Geotechnical and Geoenvironmental Engineering"
+    },
+    {
+      "code": "CEP",
+      "name": "M.Tech. in Transportation Engineering"
+    },
+    {
+      "code": "CES",
+      "name": "M.Tech. in Structural Engineering"
+    },
+    {
+      "code": "CET",
+      "name": "M.Tech. in Construction Engineering and Management"
+    },
+    {
+      "code": "CEU",
+      "name": "M.Tech. in Rock Engineering and Underground Structures"
+    },
+    {
+      "code": "CEV",
+      "name": "M.Tech. in Environmental Engineering and Management"
+    },
+    {
+      "code": "CEW",
+      "name": "M.Tech. in Water Resources Engineering"
+    },
+    {
+      "code": "CHE",
+      "name": "M.Tech. in Chemical Engineering"
+    },
+    {
+      "code": "CRF",
+      "name": "M.Tech. in Radio Frequency Design and Technology"
+    },
+    {
+      "code": "CTE",
+      "name": "M.Tech. in Electric Mobility"
+    },
+    {
+      "code": "CYM",
+      "name": "M.Tech. in Molecular Engineering: Chemical Synthesis & Analysis"
+    },
+    {
+      "code": "EEA",
+      "name": "M.Tech. in Control and Automation"
+    },
+    {
+      "code": "EEE",
+      "name": "M.Tech. in Communications Engineering"
+    },
+    {
+      "code": "EEN",
+      "name": "M.Tech. in Integrated Electronics and Circuits"
+    },
+    {
+      "code": "EEP",
+      "name": "M.Tech. in Power Electronics, Electrical Machines and Drives"
+    },
+    {
+      "code": "EES",
+      "name": "M.Tech. in Power Systems"
+    },
+    {
+      "code": "EET",
+      "name": "M.Tech. in Computer Technology"
+    },
+    {
+      "code": "ESN",
+      "name": "M.Tech. in Energy & Environment Technologies and Management"
+    },
+    {
+      "code": "ESR",
+      "name": "M.Tech. in Renewable Energy Technologies and Management"
+    },
+    {
+      "code": "JCS",
+      "name": "M.Tech. in Cyber Security"
+    },
+    {
+      "code": "JID",
+      "name": "M.Tech. in Instrument Technology"
+    },
+    {
+      "code": "JOP",
+      "name": "M.Tech. in Optoelectronics and Optical Communication"
+    },
+    {
+      "code": "JRB",
+      "name": "M.Tech. in Robotics"
+    },
+    {
+      "code": "JTM",
+      "name": "M.Tech. in Telecommunication Technology Management"
+    },
+    {
+      "code": "JVL",
+      "name": "M.Tech. in VLSI Design Tools and Technology"
+    },
+    {
+      "code": "MCS",
+      "name": "M.Tech. in Computer Science and Engineering"
+    },
+    {
+      "code": "MEE",
+      "name": "M.Tech. in Industrial Engineering"
+    },
+    {
+      "code": "MEM",
+      "name": "M.Tech. in Mechanical Design"
+    },
+    {
+      "code": "MEP",
+      "name": "M.Tech. in Production Engineering"
+    },
+    {
+      "code": "MET",
+      "name": "M.Tech. in Thermal Engineering"
+    },
+    {
+      "code": "MSM",
+      "name": "M.Tech. in Materials Science and Engineering"
+    },
+    {
+      "code": "OPP",
+      "name": "M.Tech. in Photonics"
+    },
+    {
+      "code": "PHA",
+      "name": "M.Tech. in Applied Optics and Quantum Photonics"
+    },
+    {
+      "code": "PHM",
+      "name": "M.Tech. in Solid State and Quantum Materials"
+    },
+    {
+      "code": "TTE",
+      "name": "M.Tech. in Textile Engineering"
+    },
+    {
+      "code": "TTP",
+      "name": "M.Tech. in Fibre Engineering and Textile Chemical Processing"
+    },
+    {
+      "code": "DDS",
+      "name": "Master of Design in Industrial Design"
+    },
+    {
+      "code": "PPM",
+      "name": "Master of Public Policy"
+    },
+    {
+      "code": "BLS",
+      "name": "M.Sc. in Biological Sciences"
+    },
+    {
+      "code": "CYS",
+      "name": "M.Sc. in Chemistry"
+    },
+    {
+      "code": "HCS",
+      "name": "M.Sc. in Cognitive Science"
+    },
+    {
+      "code": "HES",
+      "name": "M.Sc. in Economics"
+    },
+    {
+      "code": "MAS",
+      "name": "M.Sc. in Mathematics"
+    },
+    {
+      "code": "PHS",
+      "name": "M.Sc. in Physics"
+    },
+    {
+      "code": "HST",
+      "name": "M.A. in in Culture, Society, and Thought"
+    }
+  ],
+  "course_count": 1489
+}

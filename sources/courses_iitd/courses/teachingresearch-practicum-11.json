@@ -1,0 +1,22 @@
+{
+  "code": "CMN9399",
+  "name": "Teaching/Research Practicum",
+  "description": "Students are expected to assist with grading assignments and exams, preparing course materials, managing class activities, and/or supporting student engagement. They are also expected to help with lab sessions and other administrative tasks related to the course.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Teaching/Research Practicum | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Teaching/Research Practicum"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/teachingresearch-practicum-11",
+  "slug": "teachingresearch-practicum-11"
+}

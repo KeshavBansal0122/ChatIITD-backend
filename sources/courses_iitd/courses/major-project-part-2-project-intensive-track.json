@@ -1,0 +1,22 @@
+{
+  "code": "MED7252",
+  "name": "Major Project Part-2 (Project Intensive Track)",
+  "description": "This is a project-based work. The student is expected to meet the supervisor at least once a week and discuss the progress in his/her project. The scope of work would vary from project to project and would be decided by the supervisor. The student is expected to spend about 336 hours of laboratory work in addition to other background/development work related to the project.",
+  "credits": 12.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 24.0
+  },
+  "prereq": "MCD7251",
+  "overlap": null,
+  "learning_outcomes": [
+    "Major Project Part-2 (Project Intensive Track) | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Major Project Part-2 (Project Intensive Track)"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/major-project-part-2-project-intensive-track",
+  "slug": "major-project-part-2-project-intensive-track"
+}

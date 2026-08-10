@@ -1,0 +1,16 @@
+{
+  "code": "MLL7109",
+  "name": "Polymeric Coatings",
+  "description": "General introduction, basic coating formulations, different material classes-alkyds and polyesters, polyurethanes, epoxy, acrylates etc., additives and particulates, application methods \u2013 conventional deposition techniques, laboratory and industrial methods - doctorblade coating, spin coating and dip coating, powder coating, automotive coatings, surface preparation techniques, mechanism of adhesion of polymeric coatings on various substrates, electrodeposition, physical chemical aspects \u2013 intermolecular and mesoscopic interactions, interfacial aspects, dispersions, emulsions, self-assembly, selection criteria for various substrates. Antifouling coatings, biofoulants, high temperature coatings, self-replenishing and self-healing coatings, superhydrophilic, superhydrophobic and omniphobic coatings, environmental safety and health hazards.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ML",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ML#MLL7109"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "SIL7010",
+  "name": "Energy-Efficient System Design",
+  "description": "Power and energy metrics, power considerations in design automation, power modelling in CPU and memory systems, partitioning and scratch pad memory, power aware compilers and operating systems, case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Energy-Efficient System Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Energy-Efficient System Design"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/energy-efficient-system-design",
+  "slug": "energy-efficient-system-design"
+}

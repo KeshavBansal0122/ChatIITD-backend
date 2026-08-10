@@ -1,0 +1,22 @@
+{
+  "code": "MEL7411",
+  "name": "Boiling and Condensation Heat Transfer",
+  "description": "Introduction to boiling and condensation, interfacial phenomena and phase transitions, nucleation, pool boiling, heat transfer mechanisms and correlations on nucleate boiling, pool boiling crisis, critical heat flux, transition boiling and film boiling, two-phase flow, flow boiling heat transfer, flow boiling crisis and post dryout heat transfer, external condensation, internal convective condensation, condensation of binary vapour mixtures, boiling and condensation in minichannels and microchannels, numerical modelling of boiling and condensation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Boiling and Condensation Heat Transfer | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Boiling and Condensation Heat Transfer"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/boiling-and-condensation-heat-transfer",
+  "slug": "boiling-and-condensation-heat-transfer"
+}

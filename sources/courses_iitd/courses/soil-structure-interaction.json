@@ -1,0 +1,22 @@
+{
+  "code": "CVL7208",
+  "name": "Soil-Structure Interaction",
+  "description": "Soil structure interaction (SSI), significance and their types: shallow/deep foundation, retaining/buried structures interactions. Factors influencing SSI: soil, structure, Embedment, loading, and boundary conditions. Conventional versus SSI-based design. Elastic versus elastic-plastic soil behaviour. Winkler/ Pasternak/ Filonenko-Borodich foundation model. Effect of SSI on: bearing capacity, settlement, foundation, and structure response. Structural dynamics fundamentals, wave propagation in soils, dynamic soil properties. Dynamic SSI modeling approaches, impedance functions, time-domain analysis, earthquake loading, machine-induced vibrations. Radiation damping in soil, kinematic interaction concepts. Numerical modeling of SSI, boundary element techniques, coupled soil-structure analysis. Modeling SSI effects on high-rise buildings, bridges, seismic base isolation, pile-soil interaction, and real-world case studies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Soil-Structure Interaction | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Soil-Structure Interaction"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/soil-structure-interaction",
+  "slug": "soil-structure-interaction"
+}

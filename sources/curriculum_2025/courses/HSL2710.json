@@ -1,0 +1,16 @@
+{
+  "code": "HSL2710",
+  "name": "Words in the World",
+  "description": "This course examines theories of lexical semantics in a chronological manner, starting with word formation and lexical change before moving into lexical fields, distributional semantics, and relational semantics. It shows how these theories laid the foundations of modern computational approaches. It also explores the relationship between words and grammar via frameworks like lexicalized tree-adjoining grammars. Finally, the course investigates cognitive semantics to reveal how language and conceptualization are linked with reference to theories of frame semantics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL2710"
+}

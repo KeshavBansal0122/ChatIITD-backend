@@ -1,0 +1,22 @@
+{
+  "code": "MTL7848",
+  "name": "Pseudodifferential Operators with Application in PDE",
+  "description": "Fourier transform on Rn, Schwartz space and tempered distributions, Convolution and Fourier multipliers, Sobolev spaces, Symbol classes, Definition of pseudodifferential operators, Examples and basic properties , Symbolic calculus, Composition of operators, Adjoints and asymptotic expansions, Pseudolocal property, Boundedness on \ud835\udc3f^p, Action on Sobolev spaces, elliptic operators, Construction of parametrices, Elliptic equations and regularity, Propagation of singularities, Garding&#039;s Inequality , Weyl Law",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Pseudodifferential Operators with Application in PDE | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Pseudodifferential Operators with Application in PDE"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/pseudodifferential-operators-application-pde",
+  "slug": "pseudodifferential-operators-application-pde"
+}

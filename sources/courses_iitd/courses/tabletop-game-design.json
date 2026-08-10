@@ -1,0 +1,22 @@
+{
+  "code": "DDP3012",
+  "name": "Tabletop Game Design",
+  "description": "The scope of this course will cover table-top games, including board games, card games, indoor play activities, educational games, serious games etc. This course will also set a foundation for transition to studying digital game design in future. The lectures will include: game analysis, elements of game design, game design process and tools, games as systems, games and learning, creating rules and mechanics, graphic and visual design, user experience in games, prototyping and playtesting.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Tabletop Game Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Tabletop Game Design"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/tabletop-game-design",
+  "slug": "tabletop-game-design"
+}

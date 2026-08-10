@@ -1,0 +1,22 @@
+{
+  "code": "ELL7320",
+  "name": "Fundamentals of Microelectronic Device and Systems Packaging",
+  "description": "Properties of a Package, Historical Trends in Packaging and ITRS Packaging Roadmap, Wafer Backgrinding, Blade Dicing, Abrasive Machining of Silicon, Yeild and Fracture of Materials, Advanced Blade Dicing: Ductile mode dicing, Scribe and Break, Laser Machining and Dicing, Stealth Dicing, LIDE and other Laser machining processes, Lapping and Chemical Mechanical Polishing. Leadframes and Molding Compounds, Plastic Packages by Transfer Molding, Properties of Ceramics and Ceramic Packaging with HTCC, LTCC, etc. Organic Laminate Packaging materials, Redistribution Layer, Chip on Board and Tape Automated Bonding. Wire Bonding Technology, Flip Chip Technology, IC and Board Assembly, Elements of Thermomechanical Reliability, Glimpses of Chiplets and Interposer Technology",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Fundamentals of Microelectronic Device and Systems Packaging | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fundamentals of Microelectronic Device and Systems Packaging"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fundamentals-microelectronic-device-and-systems-packaging",
+  "slug": "fundamentals-microelectronic-device-and-systems-packaging"
+}

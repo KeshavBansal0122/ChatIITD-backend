@@ -1,0 +1,22 @@
+{
+  "code": "ELD8101",
+  "name": "MTech Project Part 2",
+  "description": "This is a project-based work, and it may be a continuation of Major Technical Project Part-1. The project work would be theoretical and/or experimental in nature. The scope of project work would vary from project to project. The student is expected to apply the learned theoretical concepts as well as experimental skills to perform in-depth research, address control problems and provide innovative solutions. The project work is to be communicated through technical/scientific reports (in the form of thesis) and impactful presentations.",
+  "credits": 12.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 24.0
+  },
+  "prereq": "ELD8100",
+  "overlap": null,
+  "learning_outcomes": [
+    "MTech Project Part 2 | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "MTech Project Part 2"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/mtech-project-part-2",
+  "slug": "mtech-project-part-2"
+}

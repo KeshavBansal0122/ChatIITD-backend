@@ -1,0 +1,22 @@
+{
+  "code": "CHL7509",
+  "name": "Introduction to Microfluidics and Microfabrication",
+  "description": "Microfluidics introduction, basic principles in microfluidics, governing equations, basic flow solutions, surface tension and interfacial energy, Young-Laplace equation, contact angle, capillary length and capillary rise boundary conditions. Pressure-driven micro flows, surface tension driven flows, thin film dynamics, gas and liquid flows, boundary conditions, low Re flows. Couette flow, Poiseuille flow, Stokes drag on a sphere, two-phase flows and thermal transfer. Unsteady flows, electro kinetics, diffusion, time-dependent flow, capillary effects, dispersion. Lab on a chip, introduction to microfabrication, materials, clean room, photolithography, etching, bulk and surface micromachining, wafer bonding, polymer micro fabrication, template assisted fabrication. Application of microfluidics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL2003",
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Microfluidics and Microfabrication | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Microfluidics and Microfabrication"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-microfluidics-and-microfabrication",
+  "slug": "introduction-microfluidics-and-microfabrication"
+}

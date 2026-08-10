@@ -1,0 +1,22 @@
+{
+  "code": "COL3100",
+  "name": "Advanced Techniques for Algorithm Design",
+  "description": "Linear programming: polyhedral geometry, simplex, duality, applications to combinatorial optimization randomized algorithms: applications of probability theory, linearity of expectation, concentration bounds iterative methods: power iteration, gradient descent, multiplicative weights update, and their applications.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": "(COL1002/MTL1080) &(COL2051/MTL2042)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Techniques for Algorithm Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Techniques for Algorithm Design"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-techniques-algorithm-design-0",
+  "slug": "advanced-techniques-algorithm-design-0"
+}

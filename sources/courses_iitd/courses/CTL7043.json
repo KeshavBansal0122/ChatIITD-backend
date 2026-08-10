@@ -1,0 +1,22 @@
+{
+  "code": "CTL7043",
+  "name": "Modelling and Simulation for Energy Storage",
+  "description": "Fundamentals of batteries, electrical characteristics of batteries (capacity, OCV-SOC, impedance), battery transport, kinetics, concentration, and geometric parameters, battery parameter identification, equivalent circuit battery models, electrochemical battery models, model-based battery state estimation algorithms, battery degradation models, thermal modeling of batteries, numerical methods, simulation of battery models, fundamentals of fuel cells and supercapacitors, simulation models for fuel cells and supercapacitors.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CTL7007",
+  "overlap": null,
+  "learning_outcomes": [
+    "Modelling and Simulation for Energy Storage | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Modelling and Simulation for Energy Storage"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/modelling-and-simulation-energy-storage",
+  "slug": "modelling-and-simulation-energy-storage"
+}

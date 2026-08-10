@@ -1,0 +1,22 @@
+{
+  "code": "BBL7035",
+  "name": "Genomics and Proteomics",
+  "description": "Molecular biology review for omics; introduction to genomics and first generation sequencing; the &#039;human genome project&#039;; next (second) generation sequencing; third generation sequencing; application of genomics: genome assembly, metagenomics, and counting molecular events - DNA-DNA, and DNA-protein interactions; introduction to transcriptomics and RNA-sequencing data analysis; sample multiplexing and high-throughput sequencing applications - single cell sequencing and spatial transcriptomics; introduction to proteomics and first generation proteomics; mass-spectrometry and second generation proteomics; application of proteomics. Quantitative proteomics - protein dynamics; studying protein-protein interactions; introduction to metabolomics. Applications of metabolomics - lipidomics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(BBL7773&BBL7071)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Genomics and Proteomics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Genomics and Proteomics"
+  ],
+  "department": "Biochemical Engineering and Biotechnology, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/genomics-and-proteomics",
+  "slug": "genomics-and-proteomics"
+}

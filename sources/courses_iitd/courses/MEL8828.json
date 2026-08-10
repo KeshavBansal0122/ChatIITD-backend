@@ -1,0 +1,22 @@
+{
+  "code": "MEL8828",
+  "name": "Turbulent Combustion: Modelling and Applications",
+  "description": "Combustion in gaseous mixtures: gas phase thermochemistry and conservation equations for reacting flows, premixed and non-premixed combustion, relevant chemical kinetics, laminar premixed flame length, time and velocity scales, pollutant emission formation, chemistry manifolds, tabulation and dimensionality reduction techniques. Turbulent combustion: turbulence energy cascade, Kolmogorov hypothesis, turbulent kinetic energy cascade, length and time scales. Turbulence averaging/filtering approaches (RANS and LES) and closure models for unresolved turbulent scalar transport and filtered reaction rate. Regimes of turbulence-chemistry interaction across the range of length and time scales. Introduction to flamelet and joint PDFs (probability density functions), transported and presumed PDF approach and stochastic differential equations. Role of direct numerical simulations (DNS) in turbulent combustion. Modelling of turbulent combustion: challenges with flame intermittency and multiple scales interaction. Prevalent categories of models with discussion on range of applicability, key assumptions and trade-offs between computational effort and physical resolution for specific study targets. Practical applications, future challenges and technologies: need for turbulent combustion in industrial applications. Emission control technologies such as lean premixed combustion, RQL combustion, EGR, MILD and HiTAC combustion. Technological and modelling challenges for future needs such as operational flexibility (required due to intermittency with renewables), transitioning to low-carbon or carbon-free fuels (such as ammonia, hydrogen etc.) while tackling related challenges of flame stabilization, combustion dynamics, pressure drop, temperature distribution, emissions etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Turbulent Combustion: Modelling and Applications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Turbulent Combustion: Modelling and Applications"
+  ],
+  "department": "Combustion",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/turbulent-combustion-modelling-and-applications",
+  "slug": "turbulent-combustion-modelling-and-applications"
+}

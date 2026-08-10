@@ -1,0 +1,16 @@
+{
+  "code": "BMP7430",
+  "name": "Basic Biomedical Laboratory",
+  "description": "Students shall be introduced to practical training through biomedical engineering experiments. The course will consist of modules studying the role of bioelectronics, biomaterials, biomaging, and biomechanics in biomedical engineering. Bioelectronics: Basic electronic design and interfacing, laboratory exercises on bioinstrumentation. Biomaterials: materials synthesis, characterization and modification of various biomaterials. Bioimaging: The role of medical imaging and signal processing in biomedical engineering. Biomechanics: Biomedical implant design, fabrication and printing, gait, the mechanical properties of tissues.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BM#BMP7430"
+}

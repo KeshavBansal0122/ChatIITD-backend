@@ -1,0 +1,16 @@
+{
+  "code": "TRL7203",
+  "name": "Transport Law & Policy",
+  "description": "Existing rules and regulations relevant to road safety in India; road safety legislation and jurisprudence; history of road safety legislation in India; process and rationale for legislation and policies for road safety; engineers\u2019 role in providing expert input; professional certification and credentialing of engineers \u2013 national and international; drafting a policy brief advocating for road safety.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TR#TRL7203"
+}

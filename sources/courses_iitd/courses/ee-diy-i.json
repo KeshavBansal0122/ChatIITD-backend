@@ -1,0 +1,21 @@
+{
+  "code": "ELP3000",
+  "name": "EE DIY I",
+  "description": "The course is a Do-It-Yourself (DIY) laboratory that provides senior EE students with structured exposure to prototyping, system integration, and project management\u2014enabling them to design and build systems by integrating electrical, electronic, and interdisciplinary engineering principles. The course begins with hands-on training in essential prototyping skills, including PCB design and fabrication, soldering, 3D printing, embedded programming, sensor calibration, and system debugging. Building on these skills, students adopt modern Product Development Life Cycle (PDLC) principles\u2014spanning concept, design, fabrication, testing, and documentation\u2014using both hardware and software development methodologies. Through iterative prototyping, teamwork, and the use of CAD/CAE tools for circuit and/or mechanical design, simulation, and ruggedization, students plan and execute prototyping projects. The course emphasizes project management, technical documentation, and the final demonstration of a functional system.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "prereq": "(ELL1001) &(ELL1401)",
+  "overlap": null,
+  "learning_outcomes": [
+    "EE DIY I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/ee-diy-i",
+  "slug": "ee-diy-i"
+}

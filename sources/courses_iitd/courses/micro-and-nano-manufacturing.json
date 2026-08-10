@@ -1,0 +1,22 @@
+{
+  "code": "MEL3023",
+  "name": "Micro and Nano Manufacturing",
+  "description": "MEMS,NEMS and nanotechnology have already found many applications in Mechanical Engineering and are projected to be of greater relevance to mechanical systems in future. Objective of the course is to provide the knowledge in emerging manufacturing techniques for producing micro and nano level products. \nAn overview of micro and nano mechanical systems and their applications in Mechanical Engineering, MEMS Microfabrication methods, Silicon Micromachining methods, Laser, Electron and Ion beam micromachining methods, Mechanical Micromachining techniques, Nanomanufacturing methods, nanomaterials and nano metrology.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Micro and Nano Manufacturing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Micro and Nano Manufacturing"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/micro-and-nano-manufacturing",
+  "slug": "micro-and-nano-manufacturing"
+}

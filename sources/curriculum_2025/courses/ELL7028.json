@@ -1,0 +1,16 @@
+{
+  "code": "ELL7028",
+  "name": "Optoelectronic Instrumentation and Packaging",
+  "description": "Introduction to test and measuring instruments, analog signal processing: active filter, A/D, D/A converters, integrated, transimpedance and low impedance pre-amplifiers design, sample and hold circuits, multiplexer, peak detector, zero crossing detector etc., digital design: PALs, FPGA, signal analyzer: superheterodyne spectrum analyzer, DFT and FFT analyzer, digital filters and computer interface, microcontrollers, optical post, in-line and pre-amplifiers, performance metrics, noise figure, optoelectronic circuits: transmitter and receiver design, OTDR, optical spectrum analyzer, sensors: fiber optic and radiation types, distributed sensors, design of optoelectronic instruments, packaging.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7028"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "TXL2202",
+  "name": "Yarn Manufacture II",
+  "description": "Roving formation: elements of roving frame. Principles of apron drafting, twisting and winding. Mechanism of builder motion. Yarn formation: elements of ring frame. Principle of apron drafting, twisting and winding. Design aspects of spindles, rings and travellers. Mechanism of builder motion. Spinning geometry. Twist and yarn strength. Principle of long staple spinning. Yarn doubling: principle of doubling and plying of yarns, ring doubling, two-for-one and three for one twisting. New spinning methods: principles of yarn formation in rotors, friction, airjet, and vortex spinning. Yarn structure and property comparison. Manufacturing of technical and specialty yarns: hybrid yarns, core-sheath yarns, high bulk yarns, electroconductive yarns, sewing threads.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL2202"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "TXL7102",
+  "name": "Polymer and Fibre Chemistry",
+  "description": "Polymer\u2019s macromolecular architecture, molecular weight of polymers, chain and step growth polymerization methods, copolymerization, cross-linked polymers, general structure and characteristics of polymers, properties of fiber forming polymers and their applications. Identification of fibres by chemical and burning tests, polymerization of vinyl monomers using bulk, solution, emulsion polymerization. Polymerization of nylon-66, molecular weight measurement. Intrinsic viscosity and end group analysis, preparation of phenolformaldehyde resin. Analysis of chemical structure by IR, UV spectroscopy.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "TX",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=TX#TXL7102"
+}

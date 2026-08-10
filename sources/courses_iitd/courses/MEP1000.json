@@ -1,0 +1,22 @@
+{
+  "code": "MEP1000",
+  "name": "Engineering Visualization",
+  "description": "Encoding engineering objects in parametric form using commercial CAD packages and/or open-source packages. Methods for generation of drawings as per ISO standards. Free hand sketching for ideation and interpretation of 2D drawings of engineered objects. Assembly of components given CAD representation of parts through theory of constraint, general assembly (GA) drawings and animation of assemblies. Rendering of alternate materials, including soft matter. Use of physics engines for representation of time evolving systems.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.5,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Engineering Visualization | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Engineering Visualization"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/engineering-visualization",
+  "slug": "engineering-visualization"
+}

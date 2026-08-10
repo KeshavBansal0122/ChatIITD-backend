@@ -1,0 +1,22 @@
+{
+  "code": "HSN7300",
+  "name": "Introduction to Ethics in Research",
+  "description": "The Institute Ethics Committee (IEC) reviews research proposals to evaluate risks associated with research that involves human participants. The process follows national guidelines for research ethics, and this course is intended to familiarize the students with the process of obtaining ethics approval for their proposed research. As a part of this course, the students will learn about the process of applying for ethics approval for research proposal, and process of evaluation of responsible research that is in aligned with current national guidelines. \nSession 1: Introduction to the Institute Ethics Committee \nSession 2: Objectives and operating principles for ethics involving human research \nSession 3: Committee composition, membership and roles & function\nSession 4: Types of research proposals and guidelines for application to approval\nSession 5: Types of research proposals and guidelines for application to approval\nSession 6: Familiarity with the review process \nSession 7: Guidelines for informed consent, Participant Information Sheet \nSession 8: Guidelines for vulnerable population, inclusion-exclusion criterion\nSession 9: Guidelines for vulnerable population, inclusion-exclusion criterion\nSession 10: Guidelines for conflict of interest, compensation\nSession 11: Guidelines for research involving national, international collaboration\nSession 12: Guidelines for social sciences, non-medical research\nSession 13: Special topics\nSession 14: Special topics",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Ethics in Research | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Ethics in Research"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-ethics-research",
+  "slug": "introduction-ethics-research"
+}

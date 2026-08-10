@@ -1,0 +1,16 @@
+{
+  "code": "ELP1001",
+  "name": "Circuits Laboratory",
+  "description": "To understand the usage of oscilloscope, function generator, power supplies, probes and cables, demonstrate Lissajous figures using basic laboratory equipment , design and simulation of R-C, R-L and RLC circuits and analyze its transient and steady state response, simulation of lowpass, highpass, bandpass and bandstop filters using SPICE simulator, design of lowpass, highpass, bandpass and bandstop filters using breadboard and its characterization, Design, simulation and prototyping of an R-2R ladder DAC, Characterization and modelling of a power source (function generator, solar cell, microphone), Design of a double integrator oscillator using opamps, To perform the two wattmeter power measurement of a three phase circuit, To design PCB using a PCB design tool such as eagle and solder components on a PCB, To demonstrate the working prototype of a real life problem using circuit",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELP1001"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "HSL7114",
+  "name": "International Trade",
+  "description": "This course surveys and studies the various theories of international trade and applies them to the analysis of current trade problems. The topics covered include the theories explaining the trade pattern, gains from trade, trade policies, international economic integration and so on. The target group of students are those who would like to have more in-depth knowledge of international trade theories and current trade problems and policies.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "International Trade | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "International Trade"
+  ],
+  "department": "Humanities and Social Sciences, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/international-trade",
+  "slug": "international-trade"
+}

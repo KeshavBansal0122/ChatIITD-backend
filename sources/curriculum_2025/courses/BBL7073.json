@@ -1,0 +1,16 @@
+{
+  "code": "BBL7073",
+  "name": "Applied Mathematics for Biochemical Engineering",
+  "description": "Concept of functions and their graphs; calculation of ordinary and partial derivatives; derivation of ordinary differential equations arising from mass, momentum and energy conservation; solution of ordinary differential equations using geometric, numerical, and analytical methods.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BB",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BB#BBL7073"
+}

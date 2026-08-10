@@ -1,0 +1,16 @@
+{
+  "code": "ESN7004",
+  "name": "Basic Thermal Engineering",
+  "description": "First and second laws of thermodynamics; thermal fluid systems; standard thermodynamic cycles; mixtures of gases; heat transfer; fluid mechanics; practical applications; and the use of steam tables.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "ES",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=ES#ESN7004"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CML7033",
+  "name": "Chemistry of Industrial Catalysis",
+  "description": "Fundamental aspects of catalysis - homogeneous and heterogeneous catalysis, the role of catalytic processes in modern chemical manufacturing, organometallic catalysts, catalysis in organic polymer chemistry, catalysis in petroleum industry, catalysis in environmental control.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CM#CML7033"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MSL9303",
+  "name": "Data Visualization",
+  "description": "Data visualization approaches for descriptive data analysis, Data visualization approaches for supervised machine learning, Data visualization approaches for unsupervised machine learning, Data visualization approaches for visualizing text and images.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Data Visualization | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Data Visualization"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/data-visualization",
+  "slug": "data-visualization"
+}

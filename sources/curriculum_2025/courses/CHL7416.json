@@ -1,0 +1,16 @@
+{
+  "code": "CHL7416",
+  "name": "Petroleum Refinery Engineering",
+  "description": "Composition of petroleum, laboratory tests, refinery products, characterization of crude oil. Design of crude oil distillation column. Catalytic cracking, catalytic reforming, delayed coking, furnace design, hydrogenation and hydrocracking, isomerization, alkylation, and polymerization. Lube oil manufacturing. Energy conservation in petroleum refineries. New trends in petroleum refinery operations. Pyrolysis of naphtha and light hydrocarbons.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CH",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CH#CHL7416"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ELP7301",
+  "name": "VLSI Design Lab - I",
+  "description": "Use of VLSI design tools with examples.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "VLSI Design Lab - I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "VLSI Design Lab - I"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/vlsi-design-lab-i",
+  "slug": "vlsi-design-lab-i"
+}

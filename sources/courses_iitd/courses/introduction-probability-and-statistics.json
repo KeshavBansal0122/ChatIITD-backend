@@ -1,0 +1,22 @@
+{
+  "code": "MTL2008",
+  "name": "Introduction to Probability and Statistics",
+  "description": "Random experiments, probability definition, properties of probability function, Bayes theorem, discrete and continuous random variables, distribution function, probability mass and density functions, moments, generating functions, moment inequalities, standard probability distributions, two and higher dimensional random variables, independent random variables, joint distributions, marginal and conditional distributions, covariance and correlation, conditional expectation, law of large numbers, central limit theorem, descriptive statistics, graphical representation of data, sampling distributions, point estimation, properties of estimators, methods of estimation, interval estimation, hypothesis testing: one and two-sample tests, goodness of fit.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Introduction to Probability and Statistics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Introduction to Probability and Statistics"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/introduction-probability-and-statistics",
+  "slug": "introduction-probability-and-statistics"
+}

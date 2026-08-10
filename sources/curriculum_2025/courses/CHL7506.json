@@ -1,0 +1,16 @@
+{
+  "code": "CHL7506",
+  "name": "Complex Fluids Technology",
+  "description": "Introduce the students to the unique properties of complex fluids and their evolution into various technological applications such as in the fields of consumer goods, agro and natural products, goods, electronics, and powders. Expose students to the existing entrepreneurial activities in the complex fluids area and give perspective on future opportunities.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CH",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CH#CHL7506"
+}

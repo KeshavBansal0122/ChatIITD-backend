@@ -1,0 +1,16 @@
+{
+  "code": "ELL7342",
+  "name": "SPICE-PDK Compact Device Models for Silicon IC Design Simulations",
+  "description": "Introduction to AMS enablement and PDK elements, basics of semiconductor devices, device modeling tools- TCAD and SPICE, diode modeling, resistor modeling, FEOL capacitor modeling, advanced CMOS technology, MOS transistor modeling, modeling of process variations, mismatch and corners.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELL7342"
+}

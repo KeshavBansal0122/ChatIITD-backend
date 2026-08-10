@@ -1,0 +1,22 @@
+{
+  "code": "SBV8095",
+  "name": "Developmental Biology",
+  "description": "Overview of the principles of animal development: how a single-celled fertilised egg becomes an embryo and then a fully formed adult body; understanding role of gene networks: how does the control of gene regulation contribute to development?; cell fate and differentiation: overview of the mechanisms of developmental commitment and maintenance of cell differentiation; patterning: how are the axes formed?; organogenesis: how do developmental processes affect tissue homeostasis and restoration?; growth and post-embryonic development: aging and senescence; regeneration: how can mechanisms of development be re-employed?; comparative development and evolution: how does comparison between species explain the emergence of new features?; experimental developmental biology: model organisms and the main techniques to study development.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(SBL1100/SBL1102)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Developmental Biology | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Developmental Biology"
+  ],
+  "department": "Advanced Developmental Biology",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/developmental-biology",
+  "slug": "developmental-biology"
+}

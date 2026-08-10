@@ -1,0 +1,22 @@
+{
+  "code": "CVL7510",
+  "name": "Modeling of Pavement Materials",
+  "description": "Role of constitutive modeling; laboratory testing in relation to constitutive modeling: elastic modulus, resilient modulus, complex modulus, creep, rheological tests; introduction to continuum mechanics: strain tensor, stress tensor, isotropy, anisotropy, constitutive relationships; factors affecting material behavior: temperature, rate, time, confining pressure; unbound materials: soil, aggregate; bound materials: binding using asphalt, water, lime, polymer, flyash, cement; rheology: bituminous binder; constitutive models: unbound materials, bound materials; field performance of pavement materials: fatigue, rutting, temperature issues, moisture damage, permeability; transfer functions to relate laboratory performance with field performance.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "CVL7501//",
+  "overlap": null,
+  "learning_outcomes": [
+    "Modeling of Pavement Materials | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Modeling of Pavement Materials"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/modeling-pavement-materials",
+  "slug": "modeling-pavement-materials"
+}

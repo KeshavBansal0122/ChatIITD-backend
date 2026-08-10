@@ -1,0 +1,22 @@
+{
+  "code": "ELP2400",
+  "name": "Electromagnetic Fields and Waves Laboratory",
+  "description": "This lab is structured to provide both experimental and simulation-based exposure to electromagnetics, with the first half focused on hands-on experiments and the second half on computational tools. Experimental topics include comparison of wavelength inside and outside a rectangular waveguide, standing wave and VSWR measurement, impedance determination, dispersion in optical links, and fabrication and testing of a patch antenna to study its radiation pattern. The lab further introduces the analysis of frequency selective surfaces (FSS) and concludes with computational electromagnetics modules, giving students a broader understanding of waveguides, transmission lines, antennas, and related structures.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 3.0
+  },
+  "prereq": "ELL2400",
+  "overlap": null,
+  "learning_outcomes": [
+    "Electromagnetic Fields and Waves Laboratory | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Electromagnetic Fields and Waves Laboratory"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/electromagnetic-fields-and-waves-laboratory",
+  "slug": "electromagnetic-fields-and-waves-laboratory"
+}

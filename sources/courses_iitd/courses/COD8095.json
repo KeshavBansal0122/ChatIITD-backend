@@ -1,0 +1,22 @@
+{
+  "code": "COD8095",
+  "name": "MS Research Project",
+  "description": "Independent research guided by a faculty advisor, involving problem identification, literature review, and development of novel solutions. It culminates in a written thesis and defense, with emphasis on depth, originality, and scholarly communication.",
+  "credits": 42.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 84.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "MS Research Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "MS Research Project"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/ms-research-project-0",
+  "slug": "ms-research-project-0"
+}

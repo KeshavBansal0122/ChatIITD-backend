@@ -1,0 +1,22 @@
+{
+  "code": "CHL3006",
+  "name": "Process Dynamics and Control",
+  "description": "Introduction to automation, block diagrams; recap of Laplace transform. Modeling based on transfer function approach, open-loop systems: dynamic response of first order systems, first order systems in series, second order systems, and transportation lag. Signals and standards (pneumatic, voltage, current). Basics of control loop components: sensors, transmitters, transducers, control valves, and converters. Measurement devices for process variables: temperature, pressure, level, flow, pH, humidity, density, and viscosity. Feedback control: P, PI, PID controllers. Dynamic response of closed loop systems. Linear stability analysis: Routh stability criterion, root locus diagrams. Frequency response: Bode diagrams, Nyquist diagrams, Bode and Nyquist stability criterion. Controller tuning: Zeigler-Nichols and Cohen-Coon methods. Introduction to advanced control: feedforward control, cascade control, dead time compensation, ratio control, internal model control.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": "MTL1002",
+  "overlap": null,
+  "learning_outcomes": [
+    "Process Dynamics and Control | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Process Dynamics and Control"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/process-dynamics-and-control",
+  "slug": "process-dynamics-and-control"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "MSL7601",
+  "name": "Quantitative Methods - I",
+  "description": "Introduction to Operations Research (OR); Linear Programming (LP) Model Formulation for business decisions (Diet, Product Mix, Portfolio); Graphical Method; Simplex Algorithm; Duality Theory and Shadow Pricing; Sensitivity Analysis; Assignment Problems; Transportation Models; Application of optimization software (Excel Solver/Python).",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Quantitative Methods - I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Quantitative Methods - I"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/quantitative-methods-i",
+  "slug": "quantitative-methods-i"
+}

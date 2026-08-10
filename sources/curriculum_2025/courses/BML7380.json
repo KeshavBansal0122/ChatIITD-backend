@@ -1,0 +1,16 @@
+{
+  "code": "BML7380",
+  "name": "Biomedical Data Analysis",
+  "description": "Overview of biomedical data and its analysis. Basics of statistics in relation to biomedical data analysis. This will cover learning about data distributions, continuous and discrete data, data representation (histogram, box and whisker plots, etc.), normality test, descriptive statistics (mean, standard-deviation, mode, kurtosis, etc.), inferential statistics (t-test, F-test, etc.), receiver-operating-characteristic(ROC) curve analysis, correlations, etc. Pre-processing of data, qualitative, and quantitative analysis. Applications of mathematics in biomedical data analysis, including mathematical modeling, simulations, data fitting, and error analysis. Data compression and separation using SVD, PCA and ICA. Applications of Fourier transforms, Laplace transform, wavelet transform. Machine learning and its applications in biomedical data analysis. Basics of machine learning: features, normalization, training, validation and testing, data prediction, regression, data classification, classifiers, logistic regression, support-vector-machine, random forest classifier, feature selection, and optimization of parameters of classifiers. Advanced machine learning approaches (neural network, deep learning, etc.) and their applications in biomedical data analysis.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BM#BML7380"
+}

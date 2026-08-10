@@ -1,0 +1,22 @@
+{
+  "code": "CVL7823",
+  "name": "Statistical Methods in Water Resources",
+  "description": "Introduction to statistical concepts and probability, random variables; expectation, moments, joint and conditional distributions; probability distributions; parameter estimation; properties of estimators, efficiency, and consistency; sampling variability, confidence intervals, and goodness-of-fit tests; graphical analysis of univariate and multivariate hydrologic datasets; extreme value theory and order statistics; return period and risk analysis in hydrologic design; flood and low flow frequency analysis using annual maximum, partial duration, and threshold exceedance series; regional flood frequency analysis; stationarity and non-stationarity statistical models; correlation analysis; simple linear regression; multiple linear regression; trend analysis; change point detection of hydrological variables.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Statistical Methods in Water Resources | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Statistical Methods in Water Resources"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/statistical-methods-water-resources",
+  "slug": "statistical-methods-water-resources"
+}

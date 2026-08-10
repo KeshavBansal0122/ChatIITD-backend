@@ -1,0 +1,22 @@
+{
+  "code": "CHD4802",
+  "name": "BTech Project-II",
+  "description": "Formulation of the problem, literature survey, writing technical report, planning and execution of the project work within the stipulated time frame, analysis and interpretation of the obtained data, and presentation of the results.",
+  "credits": 5.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 10.0
+  },
+  "prereq": "CHD4801/CHD4800",
+  "overlap": null,
+  "learning_outcomes": [
+    "BTech Project-II | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "BTech Project-II"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/btech-project-ii",
+  "slug": "btech-project-ii"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "ASP8200",
+  "name": "Advanced Data Analysis for Weather and Climate",
+  "description": "Review of statistics and statistical inference, correlation and teleconnection, regression based approaches, simple linear and multiple, ridge and lasso, analyzing trends in climate data, and determining if they are statistically significant (Mann\u2010Kendall test etc.). Compositing patterns, standard diagnostics and skill scores to evaluate weather forecast, extreme events analysis, analysis of time series, autocorrelation and spectral analysis, isolating patterns using EOF/PC, applications of EOF/PC analysis, introduction to neural networks and DNN, application of AI/ML in weather and climate data analysis.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Data Analysis for Weather and Climate | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Data Analysis for Weather and Climate"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-data-analysis-weather-and-climate",
+  "slug": "advanced-data-analysis-weather-and-climate"
+}

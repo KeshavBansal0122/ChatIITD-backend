@@ -1,0 +1,22 @@
+{
+  "code": "PYL7058",
+  "name": "Advanced Quantum Optics and Applications",
+  "description": "Review of quantum states of light, generation and detection of quantum light, quantum light by non-linear optical processes, squeezed states of light and their applications, quantum tomography, landmark experiments in quantum optics, light-matter interaction, basics of quantum computing, quantum sensing and quantum imaging, quantum microscopy, quantum memories and repeater, experimental quantum communications: quantum cryptography, quantum teleportation, entanglement swapping.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "PYL7057",
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Quantum Optics and Applications | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Quantum Optics and Applications"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-quantum-optics-and-applications",
+  "slug": "advanced-quantum-optics-and-applications"
+}

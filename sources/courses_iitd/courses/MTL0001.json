@@ -1,0 +1,22 @@
+{
+  "code": "MTL0001",
+  "name": "Preparatory Mathematics Course - I",
+  "description": "Functions: Function as a special type of relation. Domain, co-domain and range of a function. One to one and onto functions. Examples of real-valued functions, Sum, difference, product and quotients of functions. \nTrigonometry: Signs of trigonometric functions. Domain and range of trigonometric functions and their graphs. Trigonometric Identities.\nInverse Trigonometric Functions: Definition, domain, range, principal value branch. Graphs of inverse trigonometric functions. \nDifferential Calculus: Limits, Continuity and Derivatives: Intuitive idea of limit. Limits of various functions. Continuity of functions. Definition of derivative and its relation to slope of tangent of the curve, Derivative introduced as rate of change, derivative of sum, difference, product and quotient of functions, chain rule, derivative of composite functions, derivatives of inverse trigonometric functions, derivative of implicit functions. Logarithmic differentiation, derivative of functions expressed in parametric forms. Second order derivatives, L\u2019Hospital\u2019s rule. Applications of Derivatives: rate of change of quantities, increasing/decreasing functions, maxima and minima (first derivative test motivated geometrically and second derivative test given as a provable tool). Simple problems (that illustrate basic principles and understanding of the subject as well as real- life situations). \nIntegral Calculus: Integration as an inverse process of differentiation. Integration of a variety of functions by substitution, by partial fractions, integration by parts formula and evaluation of simple integrals and problems based on them. Fundamental Theorem of Calculus (without proof). Basic properties of definite integrals and evaluation of definite integrals. Application of Integrals: Applications in finding the area bounded by two curves. \nDifferential Equations: Definition, order and degree, general and particular solutions of a differential equation. Solution of differential equations by method of separation of variables, solutions of homogeneous differential equations of first order and first degree. Solutions of first order linear differential equation.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Preparatory Mathematics Course - I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Preparatory Mathematics Course - I"
+  ],
+  "department": "Mathematics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/preparatory-mathematics-course-i",
+  "slug": "preparatory-mathematics-course-i"
+}

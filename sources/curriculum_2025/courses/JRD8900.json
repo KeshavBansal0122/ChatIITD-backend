@@ -1,0 +1,16 @@
+{
+  "code": "JRD8900",
+  "name": "Minor Project",
+  "description": "This project-based course provides students the opportunity to apply foundational robotics knowledge to address a specific real-world problem. Students will work individually or in small teams to design, implement, and evaluate a robotic system or subsystem using tools from mechanics, control, perception, planning, and learning.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "J",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=J#JRD8900"
+}

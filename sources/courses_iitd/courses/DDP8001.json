@@ -1,0 +1,21 @@
+{
+  "code": "DDP8001",
+  "name": "Research Design",
+  "description": "This course will help PhD students select appropriate research design and field methods for dissertation research. The course provides a comprehensive review of the research design process and will result in each student developing his/her project proposal. The first section of the course focuses on articulating the research objectives, choosing the research paradigm, preparing the literature review, developing a fundraising strategy and being cognizant of research ethics. The second section of the course focuses on managing the research process itself and selecting the appropriate data collection strategy. Students will develop a clearer idea of their project focus during this course as all assignments will be geared toward building a complete project proposal. We will also discuss the writing process, especially how to write journal articles (journal selection, review process) and position your work in your academic field.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Research Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": "Design, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/research-design",
+  "slug": "research-design"
+}

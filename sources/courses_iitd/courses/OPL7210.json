@@ -1,0 +1,22 @@
+{
+  "code": "OPL7210",
+  "name": "Open Quantum Systems",
+  "description": "Introduction to open quantum systems, quantization of electromagnetic field, dissipation in quantum optics: interaction of quantum systems with reservoirs, master equation and quantum Langevin approaches, quantum regression theorem, first and second order correlation functions, quantum theory of degenerate parametric oscillators, squeezed light generation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Open Quantum Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Open Quantum Systems"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/open-quantum-systems",
+  "slug": "open-quantum-systems"
+}

@@ -1,0 +1,351 @@
+{
+  "code": "OPP",
+  "name": "M.Tech. in Photonics",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=OPP",
+  "credit_requirements": [
+    {
+      "category": "PL",
+      "label": "Programme-Linked",
+      "credits_or_units": 7014.0,
+      "kind": "graded"
+    },
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 45.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Apply advanced knowledge in a specialized discipline in preparation for their professional practice or further learning."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Effectively synthesize and communicate ideas, embrace teamwork and demonstrate scientific temperament, integrity, personal and professional responsibility."
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "OPD7100",
+        "title": "Cornerstone Project for M. Tech. Photonics",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "OPD7101",
+        "title": "M. Tech. Project Part 1",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "12"
+        },
+        "credits": "6"
+      },
+      {
+        "course_code": "OPD7102",
+        "title": "M. Tech. Project Part 2",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "OPL7014",
+        "title": "Integrated Photonics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "OPL7100",
+        "title": "Optics and Photonics for Engineers and Scientists",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "OPL7130",
+        "title": "Information Photonics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "OPL7160",
+        "title": "Introduction to Quantum Photonics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "OPN7100",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "OPP7010",
+        "title": "Photonics Laboratory - 1",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "OPP7020",
+        "title": "Photonics Laboratory - 2",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "OPT7100",
+        "title": "Summer Internship",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "DSL7734",
+        "title": "Advanced Laser Technology and Laser Based Instrumentation",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "OPL7120",
+        "title": "Photonic Materials and Applications",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "OPL7711",
+        "title": "Laser Science and Technology",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "OPL7715",
+        "title": "Nanophotonics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "OPL7718",
+        "title": "Quantum Nonlinear Optics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "OPL7720",
+        "title": "Artificial Intelligence for Photonics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "OPL7100",
+        "title": "Optics and Photonics for Engineers and Scientists",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "OPL7120",
+        "title": "Photonic Materials and Applications",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "OPL7160",
+        "title": "Introduction to Quantum Photonics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "OPP7010",
+        "title": "Photonics Laboratory - 1",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "OPD7100",
+        "title": "Cornerstone Project for M. Tech. Photonics",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "OPL7014",
+        "title": "Integrated Photonics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "OPL7130",
+        "title": "Information Photonics",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "OPP7020",
+        "title": "Photonics Laboratory - 2",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "basket": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "basket": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "basket": "MTech Project Part 1",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 12.0
+        },
+        "credits": 6.0
+      },
+      {
+        "basket": "Prof Ethics",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      }
+    ],
+    "4": [
+      {
+        "basket": "MTech Project Part 2",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      },
+      {
+        "basket": "Teaching/Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ]
+  },
+  "raw_text_preview": "OPP \u2013 M. Tech. in Photonics\nM. Tech. in Photonics\nOptics and Photonics, Centre for\nProgramme Code: OPP\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n45\nPE (Programme Elective)\n10\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n61\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nApply advanced knowledge in a specialized discipline in preparation for their professional practice or further learning.\nPLO 2\nEffectively synthesize and communicate ideas, embrace teamwork and demonstrate scientific temperament, integrity, personal and professional responsibility.\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nOPD7100 Cornerstone Project for M. Tech. Photonics 0 0 6 3\nOPD7101 M. Tech. Project Part 1 0 0 12 6\nOPD7102 M. Tech. Project Part 2 \u2013 \u2013 \u2013 \u2013\nOPL7014 Integrated Photonics 3 0 0 3\nOPL7100 Optics and Photonics for Engineers and Scientists 3 0 0 3\nOPL7130 Information Photonics 3 0 0 3\nOPL7160 Introduction to Quantum Photonics 3 0 0 3\nOPN7100 Teaching and Research Practicum 0 0 8 4\nOPP7010 Photonics Laboratory - 1 0 0 6 3\nOPP7020 Photonics Laboratory - 2 0 0 6 3\nOPT7100 Summer Internship 0 0 6 3\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nDSL7734 Advanced Laser Technology and Laser Based Instrumentation 3 0 0 3\nOPL7120 Photonic Materials and Applications 3 0 0 3\nOPL7711 Laser Science and Technology 3 0 0 3\nOPL7715 Nanophotonics 3 0 0 3\nOPL7718 Quantum Nonlinear Optics 3 0 0 3\nOPL7720 Artificial Intelligence for Photonics 3 0 0 3\nSemester-wise Schedule\nSem\nCourses &amp; Baskets\nHrs /\nweek\nNGU\nCredits\n1\nOPL7100 Optics and Photonics for Engineers and Scientists\n(3.0-0.0-0.0) 3.00\nOPL7120 Photonic Materials and Applications\n(3.0-0.0-0.0) 3.00\nOPL7160 Introduction to Quantum Photonics\n(3.0-0.0-0.0) 3.00\nOPP7010 Photonics Laboratory - 1\n(0.0-0.0-6.0) 3.00\nTeaching/Research Practicum\nPE 1\n26\n4\n15\nWinter\nOPD7100 Cornerstone Project for M. Tech. Photonics\n(0.0-0.0-6.0) 3.00\n6"
+}

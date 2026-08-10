@@ -1,0 +1,16 @@
+{
+  "code": "HSL6013",
+  "name": "Econometrics",
+  "description": "Overview; estimation and properties of estimators; econometric methodology; introduction to linear regression; assumptions underlying the linear regression; estimation and inference in bivariate regression; functional forms; multivariate regression - estimation and inference; dummy variables; multicollinearity; heteroscedasticity; autocorrelation; limited dependent variable models.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "HS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=HS#HSL6013"
+}

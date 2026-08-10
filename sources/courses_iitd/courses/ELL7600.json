@@ -1,0 +1,22 @@
+{
+  "code": "ELL7600",
+  "name": "Advanced Power System Analysis and Optimization",
+  "description": "Admittance model of transmission network, power flow solutions (GS, NR, DLF, FDLF, DCLF), symmetrical components and sequence networks, faults - symmetrical and unsymmetrical, Z bus building algorithms, state estimation, power system security (overload, voltage), introduction to power system optimization problems and linkages. Optimization basics and solution techniques for convex optimization problems. Economic load dispatch, unit commitment, optimal power flow (OPF) framework, transmission expansion, reactive power planning, day-ahead and real time market related optimization, resource adequacy, RE and flexibility-related optimization, preventive and corrective control.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advanced Power System Analysis and Optimization | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advanced Power System Analysis and Optimization"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advanced-power-system-analysis-and-optimization",
+  "slug": "advanced-power-system-analysis-and-optimization"
+}

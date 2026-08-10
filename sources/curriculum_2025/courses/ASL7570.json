@@ -1,0 +1,16 @@
+{
+  "code": "ASL7570",
+  "name": "Tropical Weather and Climate",
+  "description": "Overview; structure of the tropical atmosphere; role of the tropics in the global mass, momentum, and energy balance; tropical circulation and mean precipitation distribution; ITCZ (inter\u2010tropical convergence zone); tropical waves and tropical variability (intra\u2010seasonal: MJO (Madden\u2010Julian oscillation), CCEWs (convectively coupled equatorial waves), inter\u2010annual: ENSO (El Ni\u00f1o southern oscillation), QBO (quasi\u2010biennial oscillation), decadal: PDO (pacific decadal oscillation), AMO (atlantic multi\u2010decadal oscillation), NAO (north atlantic oscillation)); monsoons (mean and variability); tropical cyclones; modeling of the tropical climate and weather.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AS",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AS#ASL7570"
+}

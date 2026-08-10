@@ -1,0 +1,22 @@
+{
+  "code": "PYL7142",
+  "name": "Quantum Field Theory 2",
+  "description": "Path integrals: PI formulation of quantum mechanics and equivalence to Hamiltonian formulation, path integral quantization of scalars, fermions and abelian gauge fields. Renormalization: UV and IR divergences, regularization techniques, renormalization and physical couplings, counterterms and renormalised perturbation theory. Wilsonian renormalization group, Callen-Symanzik equation, computation of beta and gamma functions. Zeros of beta function, scale invariance and critical exponents. Non abelian gauge theories: Fadeev-Popov method, BRST invariance, Feynman diagrams for QCD, beta function and asymptotic freedom, confinement and QCD scale generation. Symmetry breaking: global symmetry breaking, Goldstone theorem, effective field theory of Goldstone, Higgs mechanism and mass generation for gauge bosons, 1-loop effects. Chiral anomalies: 1-loop triangle diagram computation and Fuzikawa method.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "PYL7141",
+  "overlap": null,
+  "learning_outcomes": [
+    "Quantum Field Theory 2 | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Quantum Field Theory 2"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/quantum-field-theory-2",
+  "slug": "quantum-field-theory-2"
+}

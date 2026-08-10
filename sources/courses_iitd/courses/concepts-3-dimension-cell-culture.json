@@ -1,0 +1,22 @@
+{
+  "code": "SBL7032",
+  "name": "Concepts in 3-Dimension Cell Culture",
+  "description": "Introduction and historical perspective of 3D cell culture; need for studying biology in 3-dimensions; fundamentals and types of 3D cultures (organoids, spheroids, assembloids etc.); static versus dynamic cultures; requirements and methods for 3D cultures; applications of 3D cultures (organ systems, precision medicine, clinical trials); limitations and parameters for optimization of current 3D culture technologies; ethics and future implications for 3D cultures (bioprinting, organ-on-chip, microphysiological systems); visual guide to 3D cell culture techniques.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(SBL1100/SBL1102)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Concepts in 3-Dimension Cell Culture | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Concepts in 3-Dimension Cell Culture"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/concepts-3-dimension-cell-culture",
+  "slug": "concepts-3-dimension-cell-culture"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CHL3008",
+  "name": "Equipment and Plant Design",
+  "description": "Introduction to plant design; design and operation of heat exchangers including shell and tube heat exchangers, and double pipe heat exchangers; principles of heat exchanger network design; mass transfer equipment; principles of phase equilibrium and their crucial roles in designing separation processes; fractional and catalytic distillation; absorption columns; liquid-liquid extraction columns; study of internals in packed and tray columns and design and operation of sieve trays, valve trays, bubble cap trays; types of packing materials in packed columns and their applications; plant layout design and flowsheeting using an appropriate software; process pipe sizing along with valves, fitting, instrumentation, and process flow diagram; rotating equipment selection (pumps, blowers, compressors, etc.); preparation of equipment specification sheets; development of piping and instrumentation diagrams.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "CHL2004&CHL3004",
+  "overlap": null,
+  "learning_outcomes": [
+    "Equipment and Plant Design | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Equipment and Plant Design"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/equipment-and-plant-design",
+  "slug": "equipment-and-plant-design"
+}

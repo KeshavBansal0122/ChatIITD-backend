@@ -1,0 +1,435 @@
+{
+  "code": "EES",
+  "name": "M.Tech. in Power Systems",
+  "generation": "2025",
+  "degree_type": "mtech",
+  "dual": false,
+  "source_url": "https://curriculum.iitd.ac.in/view_program.php?program_code=EES",
+  "credit_requirements": [
+    {
+      "category": "PC",
+      "label": "Programme Core",
+      "credits_or_units": 48.0,
+      "kind": "graded"
+    }
+  ],
+  "outcomes": [
+    {
+      "outcome_id": "PLO1",
+      "text": "Students will build strong theoretical foundation in order to understand, assess and analyse the complexities involved in power systems and to optimise for efficient operation, and planning of the power system."
+    },
+    {
+      "outcome_id": "PLO2",
+      "text": "Students get well acquainted with the state-of-the-art industrial practices in smart grids and orient themselves with the needs of the industry including sustainability."
+    },
+    {
+      "outcome_id": "PLO3",
+      "text": "Students will be able to effectively communicate their ideas to society in the form of technical/scientific reports and impactful presentations, work independently as well as in multidisciplinary teams, and provide ethical, environmentally sustainable solutions to engineering problems"
+    }
+  ],
+  "courses_by_category": {
+    "PC": [
+      {
+        "course_code": "ELD7007",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELD7600",
+        "title": "MTech Project Part 1",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "12"
+        },
+        "credits": "6"
+      },
+      {
+        "course_code": "ELD7601",
+        "title": "MTech Project Part 2",
+        "hours": {
+          "lecture": "-",
+          "tutorial": "-",
+          "practical": "-"
+        },
+        "credits": "-"
+      },
+      {
+        "course_code": "ELD7602",
+        "title": "Summer Internship/Minor Project",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "6"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7000",
+        "title": "Professional Ethics in Electrical Engineering",
+        "hours": {
+          "lecture": "1",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "1"
+      },
+      {
+        "course_code": "ELL7600",
+        "title": "Advanced Power System Analysis and Optimization",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7601",
+        "title": "Advanced Power System Protection",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7602",
+        "title": "Power Systems Dynamics, Operation and Control",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7603",
+        "title": "Elements of Smart and Sustainable Power Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7604",
+        "title": "Advanced Distribution System Analysis",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7605",
+        "title": "Immersion Course for Industry Practices",
+        "hours": {
+          "lecture": "2",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "ELN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "8"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ELP7600",
+        "title": "Advanced Power System Analysis and Optimization Lab",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "ELP7601",
+        "title": "Power System Dynamics, Operation and Control Lab",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "ELP7602",
+        "title": "Smart Grid Laboratory",
+        "hours": {
+          "lecture": "0",
+          "tutorial": "0",
+          "practical": "4"
+        },
+        "credits": "2"
+      },
+      {
+        "course_code": "ELL7500",
+        "title": "Modeling and Analysis of Electrical Machines",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7501",
+        "title": "DC-DC Converters and Line Frequency Rectifiers",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "2"
+        },
+        "credits": "4"
+      },
+      {
+        "course_code": "ELL7502",
+        "title": "PWM Rectifiers and Inverters",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7521",
+        "title": "Power Quality",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL7606",
+        "title": "Electricity Markets and Power System Operations",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL8521",
+        "title": "Advanced Topics in Power Electronics",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      },
+      {
+        "course_code": "ELL8600",
+        "title": "Selected Topics in Power Systems",
+        "hours": {
+          "lecture": "3",
+          "tutorial": "0",
+          "practical": "0"
+        },
+        "credits": "3"
+      }
+    ]
+  },
+  "semesters": {
+    "1": [
+      {
+        "course_code": "ELL7600",
+        "title": "Advanced Power System Analysis and Optimization",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ELL7602",
+        "title": "Power Systems Dynamics, Operation and Control",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ELL7601",
+        "title": "Advanced Power System Protection",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ELP7600",
+        "title": "Advanced Power System Analysis and Optimization Lab",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "ELN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "2": [
+      {
+        "course_code": "ELD7007",
+        "title": "Cornerstone Project",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 6.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ELL7604",
+        "title": "Advanced Distribution System Analysis",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ELL7603",
+        "title": "Elements of Smart and Sustainable Power Systems",
+        "hours": {
+          "lecture": 3.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 3.0
+      },
+      {
+        "course_code": "ELL7605",
+        "title": "Immersion Course for Industry Practices",
+        "hours": {
+          "lecture": 2.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "ELP7601",
+        "title": "Power System Dynamics, Operation and Control Lab",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "ELP7602",
+        "title": "Smart Grid Laboratory",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 4.0
+        },
+        "credits": 2.0
+      },
+      {
+        "course_code": "ELN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      }
+    ],
+    "3": [
+      {
+        "course_code": "ELL7000",
+        "title": "Professional Ethics in Electrical Engineering",
+        "hours": {
+          "lecture": 1.0,
+          "tutorial": 0.0,
+          "practical": 0.0
+        },
+        "credits": 1.0
+      },
+      {
+        "course_code": "ELN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "ELD7600",
+        "title": "MTech Project Part 1",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 12.0
+        },
+        "credits": 6.0
+      }
+    ],
+    "4": [
+      {
+        "course_code": "ELN7001",
+        "title": "Teaching and Research Practicum",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 8.0
+        },
+        "credits": 4.0
+      },
+      {
+        "course_code": "ELD7601",
+        "title": "MTech Project Part 2",
+        "hours": {
+          "lecture": 0.0,
+          "tutorial": 0.0,
+          "practical": 24.0
+        },
+        "credits": 12.0
+      }
+    ]
+  },
+  "raw_text_preview": "EES \u2013 M.Tech. in Smart and Sustainable Power Systems\nM.Tech. in Smart and Sustainable Power Systems\nElectrical Engineering, Department of\nProgramme Code: EES\nM. Tech.\nOverall Credit Structure\nCourse Category Credits\nPC (Programme Core)\n48\nPE (Programme Elective)\n9\nOE (Open Elective)\n6\nTotal Graded Credit Requirement\n63\nNon-Graded Units (NGU) Units\nTotal Non-Graded Units\n0\nProgramme Learning Outcomes\nPLO Outcome\nPLO 1\nStudents will build strong theoretical foundation in order to understand, assess and analyse the complexities involved in power systems and to optimise for efficient operation, and planning of the power system.\nPLO 2\nStudents get well acquainted with the state-of-the-art industrial practices in smart grids and orient themselves with the needs of the industry including sustainability.\nPLO 3\nStudents will be able to effectively communicate their ideas to society in the form of technical/scientific reports and impactful presentations, work independently as well as in multidisciplinary teams, and provide ethical, environmentally sustainable solutions to engineering problems\nProgramme Core\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nELD7007 Cornerstone Project 0 0 6 3\nELD7600 MTech Project Part 1 0 0 12 6\nELD7601 MTech Project Part 2 \u2013 \u2013 \u2013 \u2013\nELD7602 Summer Internship/Minor Project 0 0 6 3\nELL7000 Professional Ethics in Electrical Engineering 1 0 0 1\nELL7600 Advanced Power System Analysis and Optimization 3 0 0 3\nELL7601 Advanced Power System Protection 3 0 0 3\nELL7602 Power Systems Dynamics, Operation and Control 3 0 0 3\nELL7603 Elements of Smart and Sustainable Power Systems 3 0 0 3\nELL7604 Advanced Distribution System Analysis 3 0 0 3\nELL7605 Immersion Course for Industry Practices 2 0 0 2\nELN7001 Teaching and Research Practicum 0 0 8 4\nELP7600 Advanced Power System Analysis and Optimization Lab 0 0 4 2\nELP7601 Power System Dynamics, Operation and Control Lab 0 0 4 2\nELP7602 Smart Grid Laboratory 0 0 4 2\nProgramme Electives\nCourse No.\nCourse Title\nL\nT\nP\nCredits\nELL7500 Modeling and Analysis of Electrical Machines 3 0 0 3\nELL7501 DC-DC Converters and Line Frequency Rectifiers 3 0 2 4\nELL7502 PWM Rectifiers and Inverters 3 0 0 3\nELL7521 Power Quality 3 0 0 3\nELL7606 Electricity Markets and Power System Operations 3 0 0 3\nELL8521 Advanced Topics in Power Electronics 3 0 0 3\nELL8600 Selected Topics in Power Systems 3 0 0 3\nSemester-wise Schedule\nSem\nCourses &amp; Baskets\nHrs /\nweek\nNGU\nCredits\n1\nELL7600 Advanced Power System Analysis and Optimization\n(3.0-0.0-0.0) 3.00\nELL7602 Power Systems Dynamics, Operation and Control\n(3.0-0.0-0.0) 3.00\nELL7601 Advanced Power System Protection\n(3.0-0.0-0.0) 3.00\nELP7600 Advanced Power System Analysis and Optimization Lab\n(0.0-0.0-4.0) 2.00\nELN7001 Teaching and Research Practicum\n(0.0-0.0-8.0) 4.00"
+}

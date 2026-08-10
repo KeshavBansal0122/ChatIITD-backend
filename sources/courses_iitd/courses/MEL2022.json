@@ -1,0 +1,22 @@
+{
+  "code": "MEL2022",
+  "name": "Metal Forming and Press Tools",
+  "description": "Fundamentals of metal forming processes and their importance in manufacturing, Mechanical behaviour of metals and alloys in plastic deformation, Tensile properties, Flow stress and flow curves, Stress-strain relationships in plastic deformation, Yield criteria, Anisotropy, Strain rate and temperature in metal working, Hot working, Cold working and annealing, Fundamentals and mechanics of deformation in forming processes like forging, rolling, extrusion, wire drawing and sheet metal forming, Estimation of forming load by slab method, Metal forming equipment and types of presses, Press tools used in metal forming operations, Different types of dies and their design aspects, Unconventional and advanced forming processes.",
+  "credits": 3.5,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 1.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Metal Forming and Press Tools | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Metal Forming and Press Tools"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/metal-forming-and-press-tools",
+  "slug": "metal-forming-and-press-tools"
+}

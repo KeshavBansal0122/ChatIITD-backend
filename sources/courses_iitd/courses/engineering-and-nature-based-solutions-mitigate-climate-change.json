@@ -1,0 +1,22 @@
+{
+  "code": "CHL7402",
+  "name": "Engineering and Nature-Based Solutions to Mitigate Climate Change",
+  "description": "The course explores the role of engineering and nature-based solutions in addressing climate change challenges. It integrates technological innovations and ecosystem-based approaches, focusing on their application to mitigate climate change impacts, such as reducing carbon emissions, improving energy efficiency, and enhancing resilience to climate change. Students will learn about the science behind climate change, carbon cycle, CCUS, geoengineering, solar radiation management, circular economy, life cycle analysis, the environmental impact of engineering solutions, and nature-based strategies coupled with engineering methods to create sustainable and scalable solutions. The students will also be introduced to the policy and economics associated with the implementation of climate change mitigation solutions.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "CHL2002&CHL2004",
+  "overlap": null,
+  "learning_outcomes": [
+    "Engineering and Nature-Based Solutions to Mitigate Climate Change | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Engineering and Nature-Based Solutions to Mitigate Climate Change"
+  ],
+  "department": "Chemical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/engineering-and-nature-based-solutions-mitigate-climate-change",
+  "slug": "engineering-and-nature-based-solutions-mitigate-climate-change"
+}

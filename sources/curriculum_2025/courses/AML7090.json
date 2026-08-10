@@ -1,0 +1,16 @@
+{
+  "code": "AML7090",
+  "name": "Systems Engineering and Design",
+  "description": "This course introduces students to the fundamentals of electro-mechanical systems by integrating electrical, mechanical, and electronic components. Students will gain both theoretical knowledge and practical skills in electrical theory, product design, fabrication techniques, control system, prototyping, testing and validation. Capstone project: students will form teams to design and build an electromechanical system. The final project will involve system design and integration of mechanical components such as propellers/ thrusters with microcontrollers (Arduino, ESP32), sensors, actuators, and motors, programming, data collection, and control system behaviour.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AML7090"
+}

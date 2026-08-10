@@ -1,0 +1,22 @@
+{
+  "code": "OPL7792",
+  "name": "Optronics engineering",
+  "description": "Electromagnetic wave propagation in birefringent optical media, concepts of dielectric tensor, phase velocity and energy velocity, Farady rotation and optical activity. Introduction to Jones matrix formalism and light propagation through twisted birefringent media. Electro-optic modulation: Coupled-wave formalism, bandwidth, efficiency and other design considerations, geometric manifestations; Photoacoustic effect: Raman-Nath diffraction and Bragg diffraction, modulator, optical filter and deflector designs. Wave propagation in a optically periodic media, Bragg reflection and coupled-wave formalism, Theory of Bragg reflectors and Bragg filters, Optical surface waves",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Optronics engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Optronics engineering"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/optronics-engineering",
+  "slug": "optronics-engineering"
+}

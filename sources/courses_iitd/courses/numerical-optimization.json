@@ -1,0 +1,22 @@
+{
+  "code": "AIL7011",
+  "name": "Numerical Optimization",
+  "description": "General properties of algorithm, global convergence, rate of convergence, \nunconstrained optimization techniques - one dimensional methods: Fibonacci method, Golden section \nmethod, interpolation. Multi-dimensional methods: pattern search method, Nelder and Meed method, \ngradient based methods: steepest descent method and its variants recall, conjugate direction and \ngradient method, quasi-Newton method. Constrained optimization techniques - penalty method, \nbarrier method, projection gradient method, sequential quadratic programming approach. Semidefinite \nand cone programming",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Numerical Optimization | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Numerical Optimization"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/numerical-optimization",
+  "slug": "numerical-optimization"
+}

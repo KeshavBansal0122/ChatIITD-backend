@@ -1,0 +1,16 @@
+{
+  "code": "PYL7151",
+  "name": "Astronomy and Astrophysics I",
+  "description": "Overview of the universe, multi-wavelength and multi-messenger astronomy, time and distance scales in the universe, positional astronomy, parallax distance measurement, telescopes and instruments, major telescopes and missions, solar system, sizes and distances in the solar system, astronomical photometry, magnitudes of objects, astronomical spectroscopy, solar and stellar spectra, spectroscopic distance estimation, binary stars, stellar structure and evolution, variable stars, stellar clusters, interstellar medium, Milky Way, beyond the Milky Way.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL7151"
+}

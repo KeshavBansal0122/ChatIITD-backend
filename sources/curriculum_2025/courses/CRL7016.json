@@ -1,0 +1,16 @@
+{
+  "code": "CRL7016",
+  "name": "Microwave Filters for Wireless System Design",
+  "description": "Concept of linearity, lumped and distributed systems, analog and digital systems, circuit elements, linear systems in time domain, maximum power transfer in two port networks, transfer function and characteristic polynomials, symmetric lowpass prototype networks, phase response, inequality constraint, conventional filters, non equiripple stopband with equiripple passband.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CR",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CR#CRL7016"
+}

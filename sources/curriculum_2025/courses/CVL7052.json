@@ -1,0 +1,16 @@
+{
+  "code": "CVL7052",
+  "name": "Transportation Cyberphysical Systems",
+  "description": "The course examines different transportation related cyber physical systems (CPS), and provides students with a technical understanding of CPS architecture and methods that can be applied to transportation examples. Introduction to architectures of transportation CPS, sensors and data acquisition, communication and networking, optimal control, machine learning, network optimization, model predictive control and reinforcement learning, security and resilience of transportation CPS, and emerging trends in transportation CPS.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CV",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CV#CVL7052"
+}

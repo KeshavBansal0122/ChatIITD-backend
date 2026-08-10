@@ -1,0 +1,22 @@
+{
+  "code": "SBV8093",
+  "name": "Cellular Differentiation and Therapy",
+  "description": "Introduction to differentiation including concepts of totipotency, pluripotency (stem cell), multipotency. Examples of the fertilized egg, somatic stem cells and plant callus will be included. Differentiation vis-a-vis cellular proliferation. Embryonic differentiation and the formation of the three germ layers. Fate specification by growth factors, concept of microenvironment and mechanotransduction in differentiation. Examples of the haematopoietic system. Nuclear signatures and differentiation. Cellular reprogramming \u2013 concepts and methodologies used including dedifferentiation - induced pluripotent stem cells (iPSC). Differentiation and its association with diseases such as leukemia. How differentiation may be used in therapy. Differentiation in the large-scale production of specific cell types. Future perspectives.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(SBL1100/SBL1102)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Cellular Differentiation and Therapy | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Cellular Differentiation and Therapy"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/cellular-differentiation-and-therapy",
+  "slug": "cellular-differentiation-and-therapy"
+}

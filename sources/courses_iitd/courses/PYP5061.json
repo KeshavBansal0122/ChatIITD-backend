@@ -1,0 +1,22 @@
+{
+  "code": "PYP5061",
+  "name": "MSc Physics Laboratory - I",
+  "description": "This lab course introduces the students to the experimental method in physics through a selection of hands-on experiments. It includes experiments on analog and digital electronics, certain classic experiments on the foundational aspects of physics, as well as experiments illustrating the working principles behind some advanced material characterization techniques.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "MSc Physics Laboratory - I | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "MSc Physics Laboratory - I"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/msc-physics-laboratory-i",
+  "slug": "msc-physics-laboratory-i"
+}

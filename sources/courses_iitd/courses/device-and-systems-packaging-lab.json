@@ -1,0 +1,22 @@
+{
+  "code": "ELP7321",
+  "name": "Device and Systems Packaging Lab",
+  "description": "Die Attach, Wire Bonding, Flip Chip Bonding, Wire Bond characterization using pull and fatigue testing, Flip Chip Bond Characterization by shear testing, Interconnect characterization using Vector Network Analyser, Evaluation of Package thermal resistances using Thermal Test-Beds, IC an Board Assembly, Thermomechanical Reliability using Temperature cycling in environment chambers chamber and metrology, X-ray and Scanning Acoustic Microscopy",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 4.0
+  },
+  "prereq": "ELL7320",
+  "overlap": null,
+  "learning_outcomes": [
+    "Device and Systems Packaging Lab | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Device and Systems Packaging Lab"
+  ],
+  "department": "Electrical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/device-and-systems-packaging-lab",
+  "slug": "device-and-systems-packaging-lab"
+}

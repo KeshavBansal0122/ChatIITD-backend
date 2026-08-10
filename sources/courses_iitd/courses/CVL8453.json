@@ -1,0 +1,22 @@
+{
+  "code": "CVL8453",
+  "name": "Probabilistic Structural Dynamics",
+  "description": "Concepts of set theory and probability, random variables and function of random variables, theory of random process, stationary and non-stationary process, expected values, moments, spectral properties of random process, response of linear systems to random excitations, time and frequency domain analysis, SDOF and MDOF systems, structural failure under random vibrations, crossing rates, distribution of local/extreme peaks, first passage probability, application to earthquake and wind engineering, introduction to nonlinear systems, effect of parameter uncertainty, Monte-Carlo simulation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Probabilistic Structural Dynamics | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Probabilistic Structural Dynamics"
+  ],
+  "department": "Civil Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/probabilistic-structural-dynamics",
+  "slug": "probabilistic-structural-dynamics"
+}

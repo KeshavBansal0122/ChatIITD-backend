@@ -1,0 +1,16 @@
+{
+  "code": "ELN7001",
+  "name": "Teaching and Research Practicum",
+  "description": "Students are expected to assist the course instructor in preparing lecture materials, conducting quizzes etc. They will also be engaged in preparing laboratory manuals and help in conducting experiments in different EE laboratories. They may also be required in assisting the department in organizing seminars, lectures etc.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "EL",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=EL#ELN7001"
+}

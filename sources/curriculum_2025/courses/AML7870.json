@@ -1,0 +1,16 @@
+{
+  "code": "AML7870",
+  "name": "Topology and Shape Optimization",
+  "description": "Overview and historical context, design problems in structural optimization: sizing, shape, and topology, linear elasticity review: stress, strain, constitutive laws, finite element method (FEM) basics for structural analysis, computational fluid dynamics (CFD) basics for flow analysis, general problem statement, design domain, objective functions, constraints: volume, stress, hydrodynamic performance, compliance, manufacturing, SIMP method (solid isotropic material with penalization), gradient-based optimization: MMA, OC method, filtering and regularization techniques, level set methods for topology optimization, phase-field and other implicit methods, topology optimization beyond linear elasticity, parametric and non-parametric shape optimization.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AML7870"
+}

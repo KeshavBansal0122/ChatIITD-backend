@@ -1,0 +1,16 @@
+{
+  "code": "BML7110",
+  "name": "Optical Coherence Tomography: From Technology to Applications",
+  "description": "Introduction to OCT: OCT versus ultrasound, historical development of OCT, basic principles, coherence, low-coherence interferometry, broadband light sources for OCT. Principles and hardware implementation: time-domain OCT, frequency domain OCT, tomographic image reconstruction theory, axial and transverse resolutions of OCT, SNR and sensitivity, dispersion and dispersion correction, noise sources in OCT, wavelength selection, optical coherence microscopy. Functional OCT: doppler OCT, OCT angiography, dynamic OCT, OCT elastography, Jones matrix OCT. Clinical applications: ophthalmology: anterior eye imaging, retinal OCT, intravascular OCT: imaging of coronary arteries, OCT in dermatology, oncology: cancer detection.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BM#BML7110"
+}

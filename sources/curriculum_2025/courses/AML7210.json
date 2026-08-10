@@ -1,0 +1,16 @@
+{
+  "code": "AML7210",
+  "name": "Theory of Plates and Shells",
+  "description": "Basic assumptions of two-dimensional theories, theory of surfaces, strain-displacement relations in shell coordinates, stress-resultants, general governing equations of motion, boundary conditions. Analytical solutions for bending and vibration of rectangular plates and circular plates. Approximate solution techniques. Membrane theory and its applicability, membrane and general bending solutions cylindrical, conical and spherical shells, and pressure vessels. Selected problems on the stability. Design considerations.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "AM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=AM#AML7210"
+}

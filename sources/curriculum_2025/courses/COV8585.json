@@ -1,0 +1,16 @@
+{
+  "code": "COV8585",
+  "name": "Special Module in Computer Networks I",
+  "description": "Special topics focusing on the state-of-the-art developments and active research problems in computer networks.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "CO",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=CO#COV8585"
+}

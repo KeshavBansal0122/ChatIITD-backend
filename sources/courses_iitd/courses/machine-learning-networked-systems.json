@@ -1,0 +1,22 @@
+{
+  "code": "COL7560",
+  "name": "Machine Learning for Networked Systems",
+  "description": "Review of networking and machine learning fundamentals; case studies of network learning tasks such as application classification, performance estimation, intrusion detection, and resource allocation; techniques for scalable network monitoring; task-agnostic data representation for networks; foundation models for networking; robustness and explainability of networked ML models; emerging ML tasks in networking, including synthetic data generation and data imputation.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": "(COL2034) &(AIL2001/AIL7024/COL3341/COL7341/COL2010)",
+  "overlap": null,
+  "learning_outcomes": [
+    "Machine Learning for Networked Systems | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Machine Learning for Networked Systems"
+  ],
+  "department": "Computer Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/machine-learning-networked-systems",
+  "slug": "machine-learning-networked-systems"
+}

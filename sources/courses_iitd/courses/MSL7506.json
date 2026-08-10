@@ -1,0 +1,22 @@
+{
+  "code": "MSL7506",
+  "name": "Organization Management",
+  "description": "This course helps learners understand organizational theory, structure, and design. It also introduces key concepts like change management, decision-making, culture, organizational design, and structure. The primary purpose is to enhance the student&#039;s knowledge of how the structure, systems, and selected issues influence organizational processes and performance. Learners will be able to relate how managers and organizations can build organizational culture to implement planned change, keeping the demands of the organizational environment in mind.",
+  "credits": 1.5,
+  "hours": {
+    "lecture": 1.5,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Organization Management | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Organization Management"
+  ],
+  "department": "Management Studies, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/organization-management",
+  "slug": "organization-management"
+}

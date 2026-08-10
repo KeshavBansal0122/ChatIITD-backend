@@ -1,0 +1,16 @@
+{
+  "code": "BMV7030",
+  "name": "Basic Biology and Physiology",
+  "description": "Course contents cover the basics of biology, molecular and cellular biology, prokaryotic structures, human anatomy and physiology.",
+  "credits": 1.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BM#BMV7030"
+}

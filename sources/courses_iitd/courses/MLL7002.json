@@ -1,0 +1,22 @@
+{
+  "code": "MLL7002",
+  "name": "Materials Processing",
+  "description": "Classification of materials processing that applies to metals, polymers, electronic materials and ceramics; specific processes, such as melt-processing of metals and polymers, deposition technologies (liquid, vapor, and vacuum), colloid and slurry processing, viscous shape forming, powder consolidation and additive manufacturing are considered. Common processes include rolling, forging, extrusion, injection moulding, blow moulding, casting, sintering, sputtering, thermal spraying, CVD, PVD, 3D printing of metals, ceramics and polymers, welding etc.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Materials Processing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Materials Processing"
+  ],
+  "department": "Materials Science and Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/materials-processing",
+  "slug": "materials-processing"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "CML7091",
+  "name": "Microbial Biochemistry",
+  "description": "Microscopic examination of microorganisms, classification, morphology and fine structure of microbial cells, cultivation, reproduction and growth, pure culture techniques, Basic microbial metabolisms, Concepts of their genetics: transformation, transduction, and conjugation, Important microorganisms and enzymes.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Microbial Biochemistry | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Microbial Biochemistry"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/microbial-biochemistry",
+  "slug": "microbial-biochemistry"
+}

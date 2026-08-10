@@ -1,0 +1,21 @@
+{
+  "code": "SBL7001",
+  "name": "Biometry",
+  "description": "Probability and set theory: application to biological data, random variables: individuals versus populations in biological systems, classification of data: &#039;discreteness or continuity&#039; in biological evolution, distributions, descriptive statistics, inferential statistics, analysis of variance (ANOVA), ANOVA-advanced concepts, power analysis of variance, regression and correlation, count/frequency data. MATLAB/MS-excel based assignment activities will be designed for data simulation and analysis corresponding to the covered lecture material.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "(SBL1100/SBL1102) &SBP1100",
+  "overlap": null,
+  "learning_outcomes": [
+    "Biometry | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/biometry",
+  "slug": "biometry"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "BBL2103",
+  "name": "Fluid Mechanics for Biochemical Engineers",
+  "description": "Continuum approximation, Lagrangian and Eulerian description, Fluid statics, Fluid, kinematics, Flow visualization and description, Flow measuring devices, Reynolds transport theorem, Conservation equations, Euler&#039;s equation, Bernoulli&#039;s theorem, Fully developed laminar flows, Navier-Stokes equation, Cuvette flow, Hagen Poiseuille flow, Stokes flows, Dimensional analysis, Losses in pipe flow, Pumps, Potential flows, Boundary layer theory, Drag and lift on solid bodies immersed in fluid, Lubrication approximation, Flow through packed bed, Fluidization, Turbulent flow",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Fluid Mechanics for Biochemical Engineers | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Fluid Mechanics for Biochemical Engineers"
+  ],
+  "department": "Biochemical Engineering and Biotechnology, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/fluid-mechanics-biochemical-engineers",
+  "slug": "fluid-mechanics-biochemical-engineers"
+}

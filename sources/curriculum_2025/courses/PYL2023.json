@@ -1,0 +1,16 @@
+{
+  "code": "PYL2023",
+  "name": "Electrodynamics",
+  "description": "Electrostatics: electric field, scalar potential, multipole expansion, introduction to gradient and fundamental theorem of gradients, introduction to divergence and Gauss\u2019s law, fundamental theorem of divergence, fundamental theorem of curl, introduction to Dirac delta function, method of images, energy stored in an electrostatic configuration, capacitors, electric fields in matter. Special theory of relativity: Michelson-Morley\u2019s experiment, four vectors, Lorentz transformations, length contraction and time dilation, transformation of electromagnetic fields. Magnetostatics: biot-Savarts law, Lorentz force, vector potential, energy stored in a magnetic field, magnetic field in matter. Boundary value problems, Green\u2019s function method. Electrodynamics: electromagnetic induction, Maxwell\u2019s equations, Poynting\u2019s vector, Poynting\u2019s theorem, EM waves, reflection, refraction and absorption of EM waves.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 1.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL2023"
+}

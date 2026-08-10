@@ -1,0 +1,16 @@
+{
+  "code": "OPL7778",
+  "name": "Semiconductor Optoelectronic Devices",
+  "description": "This course provides an advanced theoretical and practical foundation in semiconductor physics and photonic device engineering. It covers the fundamental properties of semiconductors, including band structures, quantum confinement effects, and optical transitions, equipping students with the necessary mathematical and quantum-mechanical tools to analyze and design optoelectronic devices. The course explores the principles of operation for a wide range of photonic components, such as lasers, light-emitting diodes (LEDs), photodetectors, modulators, amplifiers while also introducing various material platform to realize these devices. Additionally, students will gain insights into micro- and nanofabrication techniques, including epitaxial growth, lithography, etching, deposition and top-down/bottom-up nanostructure fabrication, essential for developing next-generation photonic technologies. By the end of the course, students will have a solid understanding of state-of-the-art photonic semiconductor devices and the ability to contribute to future innovations in optoelectronics and integrated photonics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "OP",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=OP#OPL7778"
+}

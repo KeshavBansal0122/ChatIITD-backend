@@ -1,0 +1,22 @@
+{
+  "code": "PYL7105",
+  "name": "Nanostructured Materials",
+  "description": "Introduction and importance of nanostructured materials, scaling theory, differences in the properties of bulk, nanoparticles, quantum dots, cluster approximations. Properties of 0D, 1D, 2D and superlattice structures. Plasmonic and optical properties of metal nanoparticles, properties of magnetic nanoparticles, structure and physical properties of nanomaterials. Chemical and physical methods for low dimensional growth with size control and size selection. Synthesis methods and growth mechanism for nanorods and nanowires. Growth and properties of graphene and other monolayer materials. Single electron transistors, quantum Hall effect. Nanosclale heat transfer, nanofludics, nanomechanical systems. Applications of semiconductor, metal and magnetic nanoparticles. Application of nanostructured materials in catalysis, solar cell, biotechnology and sensor devices.",
+  "credits": 2.4,
+  "hours": {
+    "lecture": 2.4,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Nanostructured Materials | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Nanostructured Materials"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/nanostructured-materials",
+  "slug": "nanostructured-materials"
+}

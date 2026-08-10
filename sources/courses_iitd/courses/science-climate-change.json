@@ -1,0 +1,22 @@
+{
+  "code": "ASL7360",
+  "name": "Science of Climate Change",
+  "description": "Description of the climate system (general circulation, hydrological cycle, carbon cycle). Natural greenhouse effect and the effect of trace gases and aerosols. Forcings (natural and anthropogenic), fast and slow feedbacks, equilibrium climate sensitivity, transient climate response. Climates of the past (ice ages, proxy records, abrupt climate change, instrumental record of climate). Climate variability and time-scales; Madden-Julian Oscillation (MJO), El Ni\u00f1o\u2013Southern Oscillation (ENSO), Pacific Decadal Oscillation ( PDO), Milankovic cycles. Modeling climate: simple Energy Balance Models (EBMs), coupled climate models. Natural and anthropogenic climate change. Future climate projections.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Science of Climate Change | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Science of Climate Change"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/science-climate-change",
+  "slug": "science-climate-change"
+}

@@ -1,0 +1,22 @@
+{
+  "code": "PYN7001",
+  "name": "Teaching and Research Practicum",
+  "description": "Students are expected to support teaching activities by preparing course materials, assisting in classroom management and examinations, and facilitating student engagement. Their responsibilities may also include helping with practical sessions, tutorials, class projects (as applicable to the course), and performing other administrative duties related to the course and the department.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 8.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Teaching and Research Practicum | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Teaching and Research Practicum"
+  ],
+  "department": "Physics, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/teaching-and-research-practicum-5",
+  "slug": "teaching-and-research-practicum-5"
+}

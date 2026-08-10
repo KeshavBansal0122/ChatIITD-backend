@@ -1,0 +1,16 @@
+{
+  "code": "PYL7141",
+  "name": "Quantum Field Theory 1",
+  "description": "Lorentz groups and its representations, scalar field, canonical quantization, time ordered correlations functions, Feynman propagator, wick\u2019s theorem, perturbation theory in interaction picture, Feynman diagrams, K\u00e4ll\u00e9n-Lehmann representation, scattering amplitudes, LSZ reduction, cross sections. Dirac fields, quantisation via anti-commutators, spin-statistics theorem, Yukawa interaction, Feynman rules for Dirac fields. Electromagnetism, U(1) abelian gauge invariance, implications on classical phase space, gauge fixing and constraints. Quantization in Lorentz/Coulomb gauge, physical states of photons, propagator, Feynman rules for photons. Gauging of global symmetries, covariant derivatives, minimal coupling with charged (Dirac, scalar) fields, Feynman rules for QED, tree level scattering in QED (Compton, M\u00f6ll\u00e9r and Bhabha scattering), pair creation and annihilation.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "PY",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=PY#PYL7141"
+}

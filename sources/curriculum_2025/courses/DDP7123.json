@@ -1,0 +1,16 @@
+{
+  "code": "DDP7123",
+  "name": "Design for Environmental Change",
+  "description": "This course would help the students to apply the design process to approach a wicked environmental problem using environmental thinking, systems thinking and behavioural thinking. The students would be expected to understand the problem holistically from economic, cultural, societal lenses as well. The students would work on a project demonstrating a prototype and test it in the real world to show how it can bring about a change for the chosen environmental problem of their interest. The prototype could range from being physical/digital/behavioural/policy/communication campaign.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "DD",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=DD#DDP7123"
+}

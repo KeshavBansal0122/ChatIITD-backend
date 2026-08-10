@@ -1,0 +1,21 @@
+{
+  "code": "BML7720",
+  "name": "Biofabrication",
+  "description": "Bioprinting (tissues, bones, cartilages, self-assembly, directed assembly, enzymatic assembly, laser-assisted bioprinting &#039;LAB&#039;), fabrication of hydrogels (simple/interpenetrating network), and scaffolds (for cell proliferation, biodegradable scaffolds) using electrospinning and other conventional techniques, fabrication of active and passive drug delivery systems, component fabrication (laser machining, fused deposition molding, nanoimprint lithography, printable microfluidics, micro-injection molding, stamping, stereolithography), analytical tools.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 2.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Biofabrication | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/biofabrication",
+  "slug": "biofabrication"
+}

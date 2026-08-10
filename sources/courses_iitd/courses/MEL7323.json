@@ -1,0 +1,22 @@
+{
+  "code": "MEL7323",
+  "name": "Advances in Additive Manufacturing",
+  "description": "Introduction to additive manufacturing (AM); data preparation, different energy sources for AM, feedstocks for AM, process parameters in AM, advances in different AM processes- extrusion, vat-photopolymerization, powder bed fusion, directed energy deposition, sheet lamination, binder jetting, material jetting, wire-arc additive manufacturing, hybrid additive manufacturing, support structures and their classification, reverse engineering, post-processing techniques in AM, special properties of AM parts, process monitoring in AM process and its significance, laser beam shaping and additive manufacturing, AI/ML in additive manufacturing, path planning in AM, generative design and topology optimization in AM, sustainability and security aspects in AM processes. Students will be given hands-on exposure to different additive manufacturing processing modalities.",
+  "credits": 4.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Advances in Additive Manufacturing | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Advances in Additive Manufacturing"
+  ],
+  "department": "Mechanical Engineering, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/advances-additive-manufacturing",
+  "slug": "advances-additive-manufacturing"
+}

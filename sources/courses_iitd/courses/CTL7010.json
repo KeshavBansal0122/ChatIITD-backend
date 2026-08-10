@@ -1,0 +1,22 @@
+{
+  "code": "CTL7010",
+  "name": "Ethical Research Writing in Automotive Engineering",
+  "description": "Engineering ethics: introduction, code of ethics, confidentiality, conflict of interest, intellectual property, approach for ethical problems, role of professional bodies. Safety, responsibility and rights: risk assessment, risk benefit analysis, establishing safeguards, ethical obligations about facts and future risks, safety testing and standards, ethical approach for autonomous vehicle. Environmental issues: emission tests and clean air act, concept of NVH, waste disposal, reuse and second life assessment. Ethical research writing and presentation: scientific/technical writing tools; ethics of publication, plagiarism, attribution, copyrights, technical disclosure; journal paper, patent, research proposal and thesis writing, presenting the scientific data, use of AI/ML tools for ethical writing.",
+  "credits": 2.0,
+  "hours": {
+    "lecture": 1.0,
+    "tutorial": 0.0,
+    "practical": 2.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Ethical Research Writing in Automotive Engineering | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Ethical Research Writing in Automotive Engineering"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/ethical-research-writing-automotive-engineering",
+  "slug": "ethical-research-writing-automotive-engineering"
+}

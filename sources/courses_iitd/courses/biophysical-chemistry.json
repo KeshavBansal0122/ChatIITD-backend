@@ -1,0 +1,22 @@
+{
+  "code": "CML6065",
+  "name": "Biophysical Chemistry",
+  "description": "This course goes into the details of protein structure and forces within protein molecules. An in-depth discussion of the factors affecting the thermodynamic stability of proteins and factors modulating protein stability will be done as a part of this course. Detailed discussion on the protein folding energy landscape along with different protein folding mechanisms are included as a part of this course. An extensively overview of the different ways that the folding-unfolding kinetics of proteins can be followed using techniques like stopped-flow, continuous flow, temperature-jump methods and optical triggering techniques will be covered. The remaining of the course focusses on a vast ensemble of methods used to study proteins such as, absorption, fluorescence, circular dichroism, infrared spectroscopy, electrophoresis, isothermal calorimetry (ITC), differential scanning calorimetry (DSC), chromatography, single molecule methods and atomic force microscopy.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Biophysical Chemistry | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Biophysical Chemistry"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/biophysical-chemistry",
+  "slug": "biophysical-chemistry"
+}

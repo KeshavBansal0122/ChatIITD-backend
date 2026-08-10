@@ -1,0 +1,22 @@
+{
+  "code": "CMD6030",
+  "name": "Cornerstone Project",
+  "description": "Interdisciplinary research projects, experimental design, synthesis, spectroscopy, materials characterization, biophysical studies, data analysis, industry interaction, scientific communication, problem-solving, innovation, teamwork",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 0.0,
+    "tutorial": 0.0,
+    "practical": 6.0
+  },
+  "prereq": null,
+  "overlap": null,
+  "learning_outcomes": [
+    "Cornerstone Project | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Cornerstone Project"
+  ],
+  "department": "Chemistry, Department of",
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/cornerstone-project-29",
+  "slug": "cornerstone-project-29"
+}

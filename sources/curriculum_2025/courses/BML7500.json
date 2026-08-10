@@ -1,0 +1,16 @@
+{
+  "code": "BML7500",
+  "name": "Point of Care Medical Diagnostic Devices",
+  "description": "Brief introductions to analytical chemistry and biochemistry; sensors and biosensors (immobilization, transducers, electronic components, op-amps and general circuits; data processing and presentation -LabVIEW based virtual instrumentation, etc.); medical diagnostic techniques (biochemical, pathological, hematological analysis, DNA/RNA based analysis, etc.; necessity for rapid and in-situ medical analysis; point of care technology (POCT); miniaturization of medical diagnostic devices \u2013 microfabrication (materials, processes, techniques for detection); microfluidics (concept, procedure, applications and challenges); integrated microfluidic devices: lab-on-a-chip, system-on-a-chip, micro-total analysis system (\u03bcTAS); present research scenario and future prospects; case studies on POCT devices; laboratory visit and demonstration of microfabrication processes and lab-on-a-chip devices.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "learning_outcomes": [],
+  "academic_unit": "BM",
+  "generation": "2025",
+  "source": "curriculum_web",
+  "source_url": "https://curriculum.iitd.ac.in/coursesbyau.php?au=BM#BML7500"
+}

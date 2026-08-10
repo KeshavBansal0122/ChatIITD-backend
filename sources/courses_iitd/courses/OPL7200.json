@@ -1,0 +1,22 @@
+{
+  "code": "OPL7200",
+  "name": "Photonic Metamaterials and Metasurfaces",
+  "description": "Generalized optical parameters of photonic systems, optical properties of constitutive materials, meta-atoms as light scatterers and radiators, homogenization techniques for the composite media, detailed description of homogeneous and anisotropic photonic metamaterials, designing and fabrications techniques, applications of metamaterials, generalization of the geometrical optics principles, detailed description of photonic metasurfaces, gradient metasurfaces, applications of metasurfaces for focusing, imaging, sensing, light beam engineering, display, spectral control, nonlinear and quantum photonics.",
+  "credits": 3.0,
+  "hours": {
+    "lecture": 3.0,
+    "tutorial": 0.0,
+    "practical": 0.0
+  },
+  "prereq": "PYL0",
+  "overlap": null,
+  "learning_outcomes": [
+    "Photonic Metamaterials and Metasurfaces | Indian Institute of Technology Delhi \n Skip to main content\n Indian Institute of Technology Delhi \n Courses\n Main navigation\n Home",
+    "Photonic Metamaterials and Metasurfaces"
+  ],
+  "department": null,
+  "generation": "2025",
+  "source": "courses_iitd",
+  "source_url": "https://courses.iitd.ac.in/courses/photonic-metamaterials-and-metasurfaces",
+  "slug": "photonic-metamaterials-and-metasurfaces"
+}
