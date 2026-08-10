@@ -1,0 +1,51 @@
+[
+  {
+    "file": "cos_2024_general_rules.pdf",
+    "generation": "legacy",
+    "doc_type": "rule",
+    "label": "CoS 2024 General Rules",
+    "source_url": "https://home.iitd.ac.in/uploads/General%20Information/CoS%202024__General%20Rules%20(1).pdf"
+  },
+  {
+    "file": "cos_2024_course_descriptions.pdf",
+    "generation": "legacy",
+    "doc_type": "course",
+    "label": "CoS 2024 Course Descriptions",
+    "source_url": "https://home.iitd.ac.in/uploads/Course%20Descriptions/CoS%202024__Course%20Descriptions%20Changed.pdf"
+  },
+  {
+    "file": "cos_2024_pg_rules.pdf",
+    "generation": "legacy",
+    "doc_type": "rule",
+    "label": "CoS 2024 PG Programme Rules",
+    "source_url": "https://home.iitd.ac.in/uploads/PG%20Programme%20Rules/CoS%202024__PG%20Programme%20Rules%20Changed.pdf"
+  },
+  {
+    "file": "cos_2024_ug_rules.pdf",
+    "generation": "legacy",
+    "doc_type": "rule",
+    "label": "CoS 2024 UG Programme Rules",
+    "source_url": "https://home.iitd.ac.in/uploads/UG%20Programme%20Rules/CoS%202024__UG%20Programme%20Rules__changed.pdf"
+  },
+  {
+    "file": "cos_2025_general_rules.pdf",
+    "generation": "2025",
+    "doc_type": "rule",
+    "label": "CoS 2025 General Rules",
+    "source_url": "https://home.iitd.ac.in/uploads/General%20Information/CoS-02025-56__General-Rules__03-02-2026.pdf"
+  },
+  {
+    "file": "cos_2025_pg_rules.pdf",
+    "generation": "2025",
+    "doc_type": "rule",
+    "label": "CoS 2025 PG Programme Rules",
+    "source_url": "https://home.iitd.ac.in/uploads/PG%20Programme%20Rules/CoS-2025-26__PG-Programme-Rules__03-02-2026.pdf"
+  },
+  {
+    "file": "cos_2025_ug_rules.pdf",
+    "generation": "2025",
+    "doc_type": "rule",
+    "label": "CoS 2025 UG Programme Rules",
+    "source_url": "https://home.iitd.ac.in/uploads/UG%20Programme%20Rules/CoS-02025-26__UG-Programme-Rules__03-02-2026.pdf"
+  }
+]

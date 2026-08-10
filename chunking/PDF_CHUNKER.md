@@ -1,30 +1,22 @@
 Run using
 
 ```
-python pdf_chunker.py <pdf_path>
+python pdf_chunker.py <pdf_path> [--source-url URL] [--generation legacy|2025] [--doc-type rule]
 ```
 
-Example:
+## Metadata per chunk
+
+- `page` / `page_start` / `page_end`
+- `section_path`, `section_title`, `section_level`, `headers`, `header_id`
+- `source_file`, `source_name`, `source_url`, `generation`, `doc_type`
+- `type` (`text` | `table_row`), `chunk_index`
+
+Content is prefixed with `[section > path]` for better BM25 matching.
+
+## Knowledge index
 
 ```
-python pdf_chunker.py ../sources/ocs_timeline.pdf
+python chunking/build_knowledge_index.py --recreate
 ```
 
-## Output
-
-Wud print down all the chunks, each having metdata and content
-
-### Metdata
-
-- metadata mentions the src path, the type i.e. table/text, page number, chunk index, headers, table_ids etc.
-
-# TODOs
-
-- overlap debug
-- hindi chunking
-- header footer chunking removal
-- add headers to chunks
-- embed these chunks using apporporatie models and vector size
-- create function for deleting all the embeddings of a given document
-- create a function to list down all documents used in the database
-- create api for all the three functions 
+Indexes CoS PDFs from `sources/cos_sources.json` plus curriculum JSON into Qdrant collection `knowledge`.
