@@ -108,15 +108,91 @@ class MessageHistory(SQLModel, table=True):
 
 class Course(SQLModel, table=True):
     """IITD course catalogue entry."""
-    code: str = Field(primary_key=True)  # e.g. "COL100"
+    code: str = Field(primary_key=True)  # e.g. "COL100" or "COL1000"
     name: Optional[str] = None
     description: Optional[str] = None
-    hours_lecture: Optional[int] = None
-    hours_tutorial: Optional[int] = None
-    hours_practical: Optional[int] = None
-    credits: Optional[int] = None
+    hours_lecture: Optional[float] = None
+    hours_tutorial: Optional[float] = None
+    hours_practical: Optional[float] = None
+    credits: Optional[float] = None
     prereq: Optional[str] = None   # raw text from source
     overlap: Optional[str] = None  # raw text from source
+    # curriculum generation: legacy (entry ≤2024) | 2025 (entry ≥2025)
+    generation: Optional[str] = Field(default="legacy", index=True)
+    academic_unit: Optional[str] = None
+    learning_outcomes: Optional[Any] = Field(default=None, sa_column=Column(JSONB))
+    source: Optional[str] = None  # sqlite | curriculum_web | pdf
+    source_url: Optional[str] = None
+
+
+class Programme(SQLModel, table=True):
+    """Degree programme template for a curriculum generation."""
+    __tablename__ = "programme"
+
+    code: str = Field(primary_key=True)
+    generation: str = Field(primary_key=True)  # legacy | 2025
+    name: Optional[str] = None
+    degree_type: Optional[str] = None
+    department: Optional[str] = None
+    dual: bool = False
+    source_url: Optional[str] = None
+    raw: Optional[Any] = Field(default=None, sa_column=Column(JSONB))
+
+
+class ProgrammeCreditReq(SQLModel, table=True):
+    __tablename__ = "programme_credit_req"
+
+    id: Optional[int] = Field(default=None, primary_key=True)
+    programme_code: str = Field(index=True)
+    generation: str = Field(index=True)
+    category: str
+    label: Optional[str] = None
+    credits_or_units: Optional[float] = None
+    kind: str = "graded"  # graded | ngu
+
+
+class ProgrammeBasket(SQLModel, table=True):
+    __tablename__ = "programme_basket"
+
+    id: Optional[int] = Field(default=None, primary_key=True)
+    programme_code: str = Field(index=True)
+    generation: str = Field(index=True)
+    basket_id: str
+    name: Optional[str] = None
+    min_credits: Optional[float] = None
+    min_tracks: Optional[int] = None
+    rules_text: Optional[str] = None
+
+
+class ProgrammeCourse(SQLModel, table=True):
+    __tablename__ = "programme_course"
+
+    id: Optional[int] = Field(default=None, primary_key=True)
+    programme_code: str = Field(index=True)
+    generation: str = Field(index=True)
+    course_code: str = Field(index=True)
+    category: str
+    basket_id: Optional[str] = None
+    is_core: bool = True
+
+
+class ProgrammeSemester(SQLModel, table=True):
+    __tablename__ = "programme_semester"
+
+    programme_code: str = Field(primary_key=True)
+    generation: str = Field(primary_key=True)
+    semester: int = Field(primary_key=True)
+    entries: Optional[Any] = Field(default=None, sa_column=Column(JSONB))
+
+
+class ProgrammeOutcome(SQLModel, table=True):
+    __tablename__ = "programme_outcome"
+
+    id: Optional[int] = Field(default=None, primary_key=True)
+    programme_code: str = Field(index=True)
+    generation: str = Field(index=True)
+    outcome_id: str
+    text: str
 
 
 class CourseOffering(SQLModel, table=True):
@@ -271,6 +347,8 @@ def _seed_courses_from_sqlite() -> None:
                 credits=row["credits"],
                 prereq=row["prereq"],
                 overlap=row["overlap"],
+                generation="legacy",
+                source="sqlite",
             ))
         sess.commit()
         _log.info("  courses: %d rows inserted", len(rows))

@@ -2,7 +2,7 @@
 
 This document describes every Postgres table used by the ChatIITD backend, where the data comes from, and how to refresh it for a new semester.
 
-Vector search (Qdrant) is intentionally omitted — that stack will be overhauled separately.
+Hybrid retrieval (Qdrant `knowledge` collection: dense MiniLM + BM25) is documented briefly below.
 
 ---
 
@@ -14,14 +14,15 @@ Vector search (Qdrant) is intentionally omitted — that stack will be overhaule
 | User course checklist | `usercourse` | Manual profile edits (+ defaults from programme JSON) |
 | Chat | `chat`, `message`, `message_history` | App runtime |
 | Uploaded PDFs metadata | `document` | Admin uploads |
-| Course descriptions / prereqs | `course`, `courseoverlap` | Seeded from `courses.sqlite` |
+| Course descriptions / prereqs | `course`, `courseoverlap` | Seeded from `courses.sqlite` (legacy) + curriculum.iitd.ac.in (2025) |
+| Programme templates | `programme`, `programme_*` | legacy JSON + scraped `sources/curriculum_2025/` |
 | Legacy offerings | `courseoffering` | Older CSV (`sources/courses_offered.csv`) — prefer catalog |
 | **Semester catalog + instructors** | `semesters`, `catalog_courses` | IITD Courses_Offered CSV / Classgrid API |
 | **Student enrollments** | `student_enrollments`, `course_rosters` | IITD LDAP (`ldapweb.iitd.ac.in`) |
 | Hostel overlay | `students` | `student_hostels.csv` (optional) |
 | **LLM usage / BYOK** | `llm_usage`, `user_llm_credentials` | OpenRouter shared pool + encrypted user keys |
 
-SQL migrations live in `db/migrations/`. Import tools live in `sources/classgrid_catalog/`.
+SQL migrations live in `db/migrations/`. Import tools live in `sources/classgrid_catalog/` and `sources/curriculum_2025/`.
 
 ---
 
@@ -32,6 +33,7 @@ SQL migrations live in `db/migrations/`. Import tools live in `sources/classgrid
 | `db/migrations/001_classgrid_catalog.sql` | `semesters`, `catalog_courses` (+ indexes) |
 | `db/migrations/002_student_enrollments.sql` | `student_enrollments`, `course_rosters`, `students` |
 | `db/migrations/003_llm_usage_and_credentials.sql` | `llm_usage`, `user_llm_credentials` |
+| `db/migrations/004_curriculum.sql` | `programme*` tables + `course.generation` / CLO columns |
 
 App tables (`user`, `chat`, …, `course`, …) are created by SQLModel `init_db()` / `SQLModel.metadata.create_all`.
 
@@ -40,7 +42,31 @@ Apply Classgrid-style migrations via the import scripts (they run the SQL idempo
 ```bash
 psql "$DATABASE_URL" -f db/migrations/001_classgrid_catalog.sql
 psql "$DATABASE_URL" -f db/migrations/002_student_enrollments.sql
+psql "$DATABASE_URL" -f db/migrations/003_llm_usage_and_credentials.sql
+psql "$DATABASE_URL" -f db/migrations/004_curriculum.sql
 ```
+
+---
+
+## Curriculum generations
+
+| Generation | Entry years | Structured data | Rules corpus |
+|---|---|---|---|
+| `legacy` | ≤2024 | `courses.sqlite` + `sources/programme_structures/*.json` | CoS 2024 PDFs in `sources/cos_2024_*.pdf` |
+| `2025` | ≥2025 | scraped `sources/curriculum_2025/` | CoS 2025 PDFs + curriculum.iitd.ac.in |
+
+Official PDF URLs: `sources/cos_sources.json`. Refresh PDFs with `python sources/download_cos_pdfs.py`. Rescrape curriculum site with `python sources/curriculum_2025/scrape_curriculum.py`. Rescrape course descriptions with `python sources/courses_iitd/scrape_courses_iitd.py` then `python sources/courses_iitd/import_courses_iitd.py`. Import via `seed_all.py`.
+
+---
+
+## Hybrid retrieval (Qdrant)
+
+- Collection: `knowledge` (dense `all-MiniLM-L6-v2` + BM25 scored at query time, RRF fusion)
+- Payload includes `generation`, `doc_type`, `source_url`, `page_start`/`page_end`, section path
+- Agent tool: `hybrid_search` — hard-gated by student's `curriculum_generation`
+- Build/refresh: `python chunking/build_knowledge_index.py --recreate`
+- Compose restore: `snapshots/restore.py` loads `knowledge.snapshot` when present
+- Admin uploads still use the separate dense-only `documents` collection
 
 ---
 

@@ -19,3 +19,10 @@ nginx.conf
 sources/classgrid_catalog/ldap_exports/
 
 sources/classgrid_catalog/ldap_import.log
+
+# Local scrape / index run artifacts
+*.pid
+build_knowledge.log
+scrape_courses_iitd.log
+backend.log
+install.log
