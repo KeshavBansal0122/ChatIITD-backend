@@ -19,6 +19,10 @@ import uuid
 import traceback
 import json
 import asyncio
+import base64
+import hashlib
+import secrets
+import time
 
 # Set up logging before anything else
 setup_logging()
@@ -236,6 +240,22 @@ FRONTEND_URL = FRONTEND_ORIGINS[0] if FRONTEND_ORIGINS else "http://localhost:51
 BACKEND_URL = os.environ.get("BACKEND_URL", "http://localhost:8000")
 # Public path prefix when behind nginx (e.g. /backend → strips to app routes)
 ROOT_PATH = os.environ.get("ROOT_PATH", "").rstrip("/")
+
+_OPENROUTER_PKCE: dict[int, tuple[str, float]] = {}
+_OPENROUTER_PKCE_TTL_SECONDS = 600
+
+
+def _pkce_token(length: int = 48) -> str:
+    return base64.urlsafe_b64encode(secrets.token_bytes(length)).decode("ascii").rstrip("=")
+
+
+def _pkce_s256(verifier: str) -> str:
+    digest = hashlib.sha256(verifier.encode("ascii")).digest()
+    return base64.urlsafe_b64encode(digest).decode("ascii").rstrip("=")
+
+
+def _openrouter_callback_url() -> str:
+    return f"{FRONTEND_URL.rstrip('/')}/openrouter/callback"
 
 # Uploads directory for admin-uploaded PDFs
 UPLOADS_DIR = Path(__file__).resolve().parent.parent / "uploads"
@@ -829,12 +849,125 @@ async def put_llm_credentials(
     return {"connected": True, "credentials": saved}
 
 
+@app.patch("/user/llm-credentials/model", tags=["User Profile"])
+def patch_llm_credentials_model(
+    body: schemas.LlmCredentialsModelUpdate,
+    current_user: models.User = Depends(auth.get_current_user),
+):
+    """Update the saved LLM model without replacing the encrypted credential."""
+    from . import llm_clients
+
+    if current_user.id is None:
+        raise HTTPException(status_code=500, detail="Invalid user id")
+    try:
+        updated = llm_clients.update_user_credentials_model(
+            int(current_user.id),
+            body.model,
+        )
+    except ValueError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+    if not updated:
+        raise HTTPException(status_code=404, detail="No active LLM credentials found")
+    return {"connected": True, "credentials": updated}
+
+
+@app.patch("/user/llm-credentials/enabled", tags=["User Profile"])
+def patch_llm_credentials_enabled(
+    body: schemas.LlmCredentialsEnabledUpdate,
+    current_user: models.User = Depends(auth.get_current_user),
+):
+    """Enable or disable saved credentials without deleting them."""
+    from . import llm_clients
+
+    if current_user.id is None:
+        raise HTTPException(status_code=500, detail="Invalid user id")
+    updated = llm_clients.update_user_credentials_enabled(
+        int(current_user.id),
+        body.enabled,
+    )
+    if not updated:
+        raise HTTPException(status_code=404, detail="No active LLM credentials found")
+    return {"connected": True, "credentials": updated}
+
+
 @app.delete("/user/llm-credentials", tags=["User Profile"])
 def delete_llm_credentials(current_user: models.User = Depends(auth.get_current_user)):
     from . import llm_clients
 
     deleted = llm_clients.delete_user_credentials(int(current_user.id))
     return {"connected": False, "deleted": deleted}
+
+
+@app.get(
+    "/user/llm-credentials/openrouter/start",
+    response_model=schemas.OpenRouterOAuthStartResponse,
+    tags=["User Profile"],
+)
+def start_openrouter_oauth(current_user: models.User = Depends(auth.get_current_user)):
+    """Start OpenRouter PKCE OAuth and keep the verifier server-side."""
+    if current_user.id is None:
+        raise HTTPException(status_code=500, detail="Invalid user id")
+    user_id = int(current_user.id)
+    verifier = _pkce_token()
+    challenge = _pkce_s256(verifier)
+    _OPENROUTER_PKCE[user_id] = (verifier, time.time() + _OPENROUTER_PKCE_TTL_SECONDS)
+    callback_url = _openrouter_callback_url()
+    params = {
+        "callback_url": callback_url,
+        "code_challenge": challenge,
+        "code_challenge_method": "S256",
+    }
+    from urllib.parse import urlencode
+
+    return {
+        "auth_url": f"https://openrouter.ai/auth?{urlencode(params)}"
+    }
+
+
+@app.post("/user/llm-credentials/openrouter/callback", tags=["User Profile"])
+async def finish_openrouter_oauth(
+    body: schemas.OpenRouterOAuthCallbackRequest,
+    current_user: models.User = Depends(auth.get_current_user),
+):
+    """Exchange OpenRouter OAuth code for a user-owned API key and store it encrypted."""
+    from . import llm_clients
+    import httpx
+
+    if current_user.id is None:
+        raise HTTPException(status_code=500, detail="Invalid user id")
+    user_id = int(current_user.id)
+    verifier_data = _OPENROUTER_PKCE.pop(user_id, None)
+    if not verifier_data:
+        raise HTTPException(status_code=400, detail="OpenRouter authorization was not started or has expired")
+    verifier, expires_at = verifier_data
+    if time.time() > expires_at:
+        raise HTTPException(status_code=400, detail="OpenRouter authorization code expired. Try connecting again.")
+
+    try:
+        async with httpx.AsyncClient(timeout=20) as client:
+            res = await client.post(
+                "https://openrouter.ai/api/v1/auth/keys",
+                json={
+                    "code": body.code,
+                    "code_verifier": verifier,
+                    "code_challenge_method": "S256",
+                },
+            )
+        res.raise_for_status()
+        payload = res.json()
+        key = payload.get("key")
+        if not key:
+            raise ValueError("OpenRouter did not return an API key")
+    except Exception as e:
+        raise HTTPException(status_code=400, detail=f"OpenRouter authorization failed: {e}")
+
+    saved = llm_clients.save_user_credentials(
+        user_id,
+        provider="openrouter",
+        api_key=key,
+        auth_method="oauth",
+    )
+    return {"connected": True, "credentials": saved}
 
 
 @app.post("/chats", response_model=schemas.ChatRead, tags=["Chat Management"])
@@ -1371,13 +1504,13 @@ async def assistant_chat(
         logger.info("[assistant/chat] guest session_id=%s", session_id)
     else:
         if thread_id is None or str(thread_id).startswith("guest-"):
-            title_text = generate_chat_title(user_message, agent_ctx=gate.agent_ctx)
-            chat = crud.create_chat(user_id=current_user.id, title=title_text)
-            session_id = str(chat.id)
-            thread_id = session_id
-            logger.info("[assistant/chat] created chat_id=%s (no threadId in request)", chat.id)
-            if gate.agent_ctx:
-                gate.agent_ctx.chat_id = chat.id
+            # The frontend must always send a threadId (created via POST /chats first).
+            # Silently creating a chat here would produce a duplicate sidebar entry
+            # whenever the frontend's remoteId hadn't propagated before the first message.
+            raise HTTPException(
+                status_code=400,
+                detail="threadId is required for authenticated users. Create a chat via POST /chats first.",
+            )
         else:
             try:
                 chat_id_int = int(thread_id)

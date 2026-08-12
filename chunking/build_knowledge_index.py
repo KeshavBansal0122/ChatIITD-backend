@@ -13,7 +13,9 @@ import argparse
 import json
 import os
 import sys
+import re
 from pathlib import Path
+from typing import Any
 
 BACKEND_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(BACKEND_ROOT))
@@ -23,6 +25,118 @@ from backend.knowledge_service import (  # noqa: E402
     ensure_knowledge_collection,
     upsert_knowledge_payloads,
 )
+
+
+SECTION_INDEX_PATH = BACKEND_ROOT / "sources" / "cos_section_index.json"
+
+
+def _looks_like_noisy_header(title: str) -> bool:
+    t = " ".join((title or "").split())
+    if not t:
+        return True
+    if len(t) <= 2:
+        return True
+    if re.fullmatch(r"\d+", t):
+        return True
+    if re.fullmatch(r"p(?:age)?\.?\s*\d+", t, flags=re.I):
+        return True
+    lower = t.lower()
+    if lower in {"contents", "table of contents"}:
+        return True
+    if "http://" in lower or "https://" in lower or "link:" in lower:
+        return True
+    if "indian institute of technology delhi" in lower:
+        return True
+    if re.fullmatch(r"[}=®\"'`~|\\/_\-\s]+", t):
+        return True
+    return False
+
+
+def _is_relevant_cos_header(source_name: str, section_path: list[Any], title: str) -> bool:
+    text = " ".join(str(p) for p in [*section_path, title])
+    if "course_descriptions" in source_name:
+        return bool(re.search(r"\b[A-Z]{2}[A-Z]\d{3,4}\b", title or ""))
+    if re.search(r"\b\d+(?:\.\d+)*\s+[A-Za-z]", text):
+        return True
+    if re.search(r"\bTable\s+\d+", text, flags=re.I):
+        return True
+    return False
+
+
+def _build_section_entries(
+    payloads: list[Payload],
+    *,
+    source_name: str,
+    source_url: str | None,
+    generation: str,
+    doc_type: str,
+    label: str | None,
+) -> list[dict[str, Any]]:
+    sections: dict[int, dict[str, Any]] = {}
+    order: list[int] = []
+    for payload in payloads:
+        meta = payload.metadata or {}
+        header_id = meta.get("header_id")
+        if header_id is None:
+            continue
+        try:
+            hid = int(header_id)
+        except (TypeError, ValueError):
+            continue
+        title = meta.get("section_title") or ""
+        section_path = meta.get("section_path") or meta.get("headers") or []
+        if _looks_like_noisy_header(str(title)):
+            continue
+        if not _is_relevant_cos_header(source_name, section_path, str(title)):
+            continue
+        if hid not in sections:
+            order.append(hid)
+            section_ref = f"{source_name}#h{hid}"
+            sections[hid] = {
+                "section_ref": section_ref,
+                "source_name": source_name,
+                "source_url": source_url,
+                "generation": generation,
+                "doc_type": doc_type,
+                "label": label,
+                "header_id": hid,
+                "section_path": section_path,
+                "section_title": title,
+                "section_level": meta.get("section_level"),
+                "page_start": meta.get("page_start") or meta.get("page"),
+                "page_end": meta.get("page_end") or meta.get("page"),
+                "chunk_count": 0,
+            }
+        section = sections[hid]
+        section["chunk_count"] += 1
+        page_start = meta.get("page_start") or meta.get("page")
+        page_end = meta.get("page_end") or meta.get("page")
+        if page_start:
+            section["page_start"] = min(section["page_start"] or page_start, page_start)
+        if page_end:
+            section["page_end"] = max(section["page_end"] or page_end, page_end)
+    return [sections[hid] for hid in order]
+
+
+def _write_cos_section_index(entries: list[dict[str, Any]]) -> None:
+    by_generation: dict[str, dict[str, Any]] = {}
+    for entry in entries:
+        gen = entry["generation"]
+        source_name = entry["source_name"]
+        gen_bucket = by_generation.setdefault(gen, {"documents": {}})
+        doc = gen_bucket["documents"].setdefault(
+            source_name,
+            {
+                "source_name": source_name,
+                "source_url": entry.get("source_url"),
+                "label": entry.get("label"),
+                "doc_type": entry.get("doc_type"),
+                "sections": [],
+            },
+        )
+        doc["sections"].append(entry)
+    SECTION_INDEX_PATH.write_text(json.dumps(by_generation, indent=2), encoding="utf-8")
+    print(f"[cos sections] wrote {SECTION_INDEX_PATH.relative_to(BACKEND_ROOT)}")
 
 
 def load_dotenv() -> None:
@@ -41,6 +155,7 @@ def cos_pdf_payloads() -> list[Payload]:
     manifest = json.loads((BACKEND_ROOT / "sources" / "cos_sources.json").read_text())
     chunker = PDFSectionChunker()
     out: list[Payload] = []
+    section_entries: list[dict[str, Any]] = []
     for entry in manifest:
         path = BACKEND_ROOT / "sources" / entry["file"]
         if not path.exists():
@@ -55,7 +170,18 @@ def cos_pdf_payloads() -> list[Payload]:
             extra_metadata={"label": entry.get("label")},
         )
         print(f"  -> {len(payloads)} chunks")
+        section_entries.extend(
+            _build_section_entries(
+                payloads,
+                source_name=path.name,
+                source_url=entry.get("source_url"),
+                generation=entry["generation"],
+                doc_type=entry.get("doc_type") or "rule",
+                label=entry.get("label"),
+            )
+        )
         out.extend(payloads)
+    _write_cos_section_index(section_entries)
     return out
 
 

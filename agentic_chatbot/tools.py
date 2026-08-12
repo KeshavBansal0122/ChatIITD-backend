@@ -15,11 +15,11 @@ import mwclient
 
 from backend.courses_db import run_select_query, get_courses_by_codes, get_offerings_for_codes
 from backend.curriculum.generation import resolve_generation
+from .skills import load_skill as _load_skill
 
 _THIS_DIR = Path(__file__).parent.resolve()
 _BACKEND_DIR = _THIS_DIR.parent
 _SOURCES_DIR = _BACKEND_DIR / "sources"
-_JSONL_DIR = _SOURCES_DIR / "jsonl"
 _PROGRAMME_DIR = _SOURCES_DIR / "programme_structures"
 
 _user_context_var: ContextVar[Optional[dict]] = ContextVar("agent_user_context", default=None)
@@ -32,17 +32,6 @@ def set_tool_user_context(user_context: dict | None) -> None:
 def get_tool_user_context() -> dict:
     return _user_context_var.get() or {}
 
-
-def read_jsonl(filename):
-    res = []
-    with open(filename, "r") as f:
-        for line in f:
-            res.append(json.loads(line))
-    return res
-
-
-_rules_path = _JSONL_DIR / "all_rules.jsonl"
-rules_sections = read_jsonl(_rules_path) if _rules_path.exists() else []
 
 programme_prompt = ""
 _prompt_path = _PROGRAMME_DIR / "prompt.md"
@@ -63,6 +52,11 @@ def _active_generation(explicit: str | None = None) -> str | None:
 # =====================
 # TOOL IMPLEMENTATIONS
 # =====================
+
+def load_skill(skill_name: str) -> str:
+    """Load dynamic instructions for a named skill."""
+    return _load_skill(skill_name)
+
 
 def get_course_data(course_codes: list[str]) -> str:
     """
@@ -193,36 +187,6 @@ def get_programme_structure(programme_code: str, generation: str | None = None) 
         return "Programme code not found."
 
 
-def get_rules_section(section_name: str) -> str:
-    sections = [
-        sec
-        for sec in rules_sections
-        if sec["section"].lower().strip() == section_name.lower().strip()
-    ]
-    if sections:
-        return json.dumps(sections[0])
-    return "Section not found. Prefer hybrid_search for official CoS PDF rules."
-
-
-def search_rules(query: str) -> str:
-    """Legacy JSONL keyword search — prefer hybrid_search for CoS PDFs."""
-    query_lower = query.lower()
-    matching_sections = []
-    for sec in rules_sections:
-        section_text = sec.get("section", "").lower()
-        content = json.dumps(sec.get("content", "")).lower() if sec.get("content") else ""
-        if query_lower in section_text or query_lower in content:
-            matching_sections.append(
-                {
-                    "section": sec.get("section", ""),
-                    "preview": str(sec.get("content", ""))[:500],
-                }
-            )
-    if matching_sections:
-        return json.dumps(matching_sections[:5])
-    return "No matching sections found. Use hybrid_search instead."
-
-
 def hybrid_search(
     query: str,
     doc_types: list[str] | None = None,
@@ -260,6 +224,93 @@ def hybrid_search(
     return "\n".join(blocks)
 
 
+def search_cos(
+    query: str,
+    generation: str | None = None,
+    limit: int = 6,
+) -> str:
+    """Search official Courses-of-Study PDF chunks, generation-gated."""
+    gen = _active_generation(generation)
+    if not gen:
+        return (
+            "Entry year / curriculum generation unknown. Ask whether the student joined "
+            "in 2024-or-earlier (legacy) or 2025-or-later (new), then call search_cos again."
+        )
+    try:
+        from backend.knowledge_service import format_hit_citation, hybrid_search as _hs
+
+        hits = _hs(query, generation=gen, doc_types=["rule", "course"], limit=max(limit * 3, limit))
+        pdf_hits = []
+        for hit in hits:
+            meta = hit.get("metadata") or {}
+            source_name = meta.get("source_name") or meta.get("source_file") or ""
+            if isinstance(source_name, str):
+                source_name = source_name.rsplit("/", 1)[-1]
+            if str(source_name).startswith("cos_"):
+                section_ref = f"{source_name}#h{meta.get('header_id')}"
+                pdf_hits.append({**hit, "section_ref": section_ref})
+            if len(pdf_hits) >= (limit or 6):
+                break
+    except Exception as e:
+        return f"Error running search_cos: {e}"
+    if not pdf_hits:
+        return f"No CoS PDF results for generation={gen}."
+
+    blocks = [
+        f"curriculum_generation={gen}",
+        f"results={len(pdf_hits)}",
+        "",
+    ]
+    for i, hit in enumerate(pdf_hits, start=1):
+        blocks.append(f"### Hit {i}")
+        blocks.append(f"section_ref: {hit['section_ref']}")
+        blocks.append(format_hit_citation(hit))
+        blocks.append("")
+    blocks.append("Use get_cos_section(section_ref) when the full section text is needed.")
+    return "\n".join(blocks)
+
+
+def list_cos_sections(
+    document: str | None = None,
+    depth: int | None = 2,
+    generation: str | None = None,
+) -> str:
+    """List Courses-of-Study section headers for the active curriculum generation."""
+    gen = _active_generation(generation)
+    if not gen:
+        return (
+            "Entry year / curriculum generation unknown. Ask whether the student joined "
+            "in 2024-or-earlier (legacy) or 2025-or-later (new), then call list_cos_sections again."
+        )
+    try:
+        from backend.knowledge_service import list_cos_sections as _list
+
+        data = _list(generation=gen, document=document, max_depth=depth)
+        return json.dumps(data, indent=2)
+    except Exception as e:
+        return f"Error listing CoS sections: {e}"
+
+
+def get_cos_section(section_ref: str, generation: str | None = None) -> str:
+    """Fetch a full Courses-of-Study section by section_ref (source.pdf#hN)."""
+    gen = _active_generation(generation)
+    if not gen:
+        return (
+            "Entry year / curriculum generation unknown. Ask whether the student joined "
+            "in 2024-or-earlier (legacy) or 2025-or-later (new), then call get_cos_section again."
+        )
+    source_name, sep, header = (section_ref or "").partition("#h")
+    if not sep or not source_name or not header:
+        return "Invalid section_ref. Expected format: cos_2025_ug_rules.pdf#h42"
+    try:
+        from backend.knowledge_service import get_cos_section as _get
+
+        data = _get(generation=gen, source_name=source_name, header_id=int(header))
+        return json.dumps(data, indent=2)
+    except Exception as e:
+        return f"Error fetching CoS section: {e}"
+
+
 def search_courses(query: str, generation: str | None = None) -> str:
     """
     Searches for courses that match the query string in name or description.
@@ -292,6 +343,7 @@ def search_courses(query: str, generation: str | None = None) -> str:
                         "generation": c.generation,
                         "academic_unit": c.academic_unit,
                         "source": c.source,
+                        "source_url": c.source_url,
                         "description": (
                             (c.description or "")[:300] + "..."
                             if len(c.description or "") > 300
@@ -320,6 +372,19 @@ def _clean_wikitext(text: str) -> str:
     return text.strip()
 
 
+def _wiki_full_url(site: mwclient.Site, title: str) -> str:
+    try:
+        data = site.api("query", prop="info", inprop="url", titles=title)
+        pages = (data.get("query") or {}).get("pages") or {}
+        for page in pages.values():
+            full_url = page.get("fullurl")
+            if full_url:
+                return full_url
+    except Exception:
+        pass
+    return f"https://wiki.devclub.in/{title.replace(' ', '_')}"
+
+
 def get_wiki_page(page_title: str, max_chars: int = 3000) -> str:
     """
     Fetches a page from the IITD community wiki (wiki.devclub.in) by its exact title.
@@ -329,10 +394,11 @@ def get_wiki_page(page_title: str, max_chars: int = 3000) -> str:
         page = site.pages[page_title]
         if not page.exists:
             return f"Page '{page_title}' not found on the wiki."
+        url = _wiki_full_url(site, page_title)
         text = _clean_wikitext(page.text())
         if len(text) > max_chars:
-            return text[:max_chars] + f"\n\n[...content truncated at {max_chars} characters. Use a more specific query or request a section if more detail is needed.]"
-        return text
+            text = text[:max_chars] + f"\n\n[...content truncated at {max_chars} characters. Use a more specific query or request a section if more detail is needed.]"
+        return f"[source: DevClub wiki | title: {page_title}]\nURL: {url}\n\n{text}"
     except Exception as e:
         return f"Error fetching wiki page '{page_title}': {str(e)}"
 
@@ -353,7 +419,11 @@ def search_wiki(query: str) -> str:
             snippet = r.get('snippet', '')
             # Strip HTML span tags from snippets (e.g. <span class="searchmatch">)
             snippet = re.sub(r'<[^>]+>', '', snippet).strip()
-            results.append({"title": title, "snippet": snippet})
+            results.append({
+                "title": title,
+                "url": _wiki_full_url(site, title),
+                "snippet": snippet,
+            })
         return json.dumps(results, indent=2)
     except Exception as e:
         return f"Error searching the wiki for '{query}': {str(e)}"
@@ -364,6 +434,26 @@ def search_wiki(query: str) -> str:
 # =====================
 
 TOOLS = [
+    {
+        "type": "function",
+        "function": {
+            "name": "load_skill",
+            "description": """Loads detailed dynamic instructions for a named skill.
+
+WHEN TO USE: Call this before doing work that matches a skill listed in the system prompt's Skills Index.
+The base system prompt intentionally contains only a compact skill index; this tool retrieves the full guidance on demand.""",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "skill_name": {
+                        "type": "string",
+                        "description": "Exact skill name from the Skills Index, e.g. 'tool-playbook'"
+                    }
+                },
+                "required": ["skill_name"]
+            }
+        }
+    },
     {
         "type": "function",
         "function": {
@@ -473,7 +563,7 @@ Dual Degree: CH7 (Chemical), CS5 (CSE), MT6 (Math & Computing)""",
                     },
                     "generation": {
                         "type": "string",
-                        "enum": ["legacy", "2025"],
+                        "enum": ["legacy", "2025", "old", "new"],
                         "description": "Curriculum generation; omit to use entry year"
                     }
                 },
@@ -511,7 +601,7 @@ ALWAYS cite those in your reply.""",
                     },
                     "generation": {
                         "type": "string",
-                        "enum": ["legacy", "2025"],
+                        "enum": ["legacy", "2025", "old", "new"],
                         "description": "Override generation if entry year unknown"
                     },
                     "limit": {
@@ -526,65 +616,81 @@ ALWAYS cite those in your reply.""",
     {
         "type": "function",
         "function": {
-            "name": "get_rules_section",
-            "description": """Fetches the full content of a specific rules section by exact name.
+            "name": "search_cos",
+            "description": """Searches official Courses-of-Study PDFs only, hard-gated by curriculum generation.
 
-WHEN TO USE: When you know the exact section name for a policy/rule query.
+WHEN TO USE: For academic rules, policies, CoS sections, or official PDF-backed curriculum facts.
 
-COMMON SECTIONS (use exact names):
-- Grading: "2.9 Grading System", "2.9.1 Grade points", "2.9.2 Description of grades"
-- Credits: "2.2 Credit System", "2.3 Assignment of Credits to Courses"
-- Registration: "3.1 Registration", "3.7 Add/Drop, Audit and Withdrawal of Courses"
-- Attendance: "3.16 Attendance Rule"
-- Limits: "3.13 Limits on Registration"
-- Semester withdrawal: "3.8 Semester Withdrawal"
-- UG requirements: "1.1.1 Overall Requirements: B.Tech."
-- Dual degree: "1.1.3 Overall Requirements: Dual degree programmes"
-- Probation: "1.6 Conditions for Continuation of Registration, Termination/Re-start, Probation"
-- Branch change: "1.9 Change of Programme at the End of the First Year"
-- Minors/Specializations: "2. CAPABILITY-LINKED OPTIONS FOR UNDERGRADUATE STUDENTS"
-- PG requirements: "1.1 Degree Requirements" (in PG section)
-- Ph.D.: "1.13 Doctor of Philosophy (Ph.D.) Regulations"
-
-If unsure of exact section name, use search_rules first to find it.""",
+Returns snippets with source filename, page range, URL, and section_ref. Use get_cos_section(section_ref) when full section text is needed.""",
             "parameters": {
                 "type": "object",
                 "properties": {
-                    "section_name": {
+                    "query": {
                         "type": "string",
-                        "description": "The exact section name to retrieve (e.g., '2.1 Course Numbering Scheme')"
+                        "description": "Natural-language search query"
+                    },
+                    "generation": {
+                        "type": "string",
+                        "enum": ["legacy", "2025", "old", "new"],
+                        "description": "Optional curriculum generation override"
+                    },
+                    "limit": {
+                        "type": "integer",
+                        "description": "Max CoS PDF hits (default 6)"
                     }
                 },
-                "required": ["section_name"]
+                "required": ["query"]
             }
         }
     },
     {
         "type": "function",
         "function": {
-            "name": "search_rules",
-            "description": """Searches rules/policy sections by keyword matching.
+            "name": "list_cos_sections",
+            "description": """Lists section headers from Courses-of-Study PDFs for the active curriculum generation.
 
-WHEN TO USE:
-- When you don't know the exact section name
-- As a fallback when get_rules_section returns "Section not found"
-- For exploratory queries about policies
-
-Returns top 5 matching sections with previews. After finding relevant sections, call get_rules_section with the exact section name to get full content.
-
-EXAMPLES:
-- search_rules("internship") → finds sections about semester leave, DPE internships
-- search_rules("CGPA") → finds sections about grade calculation, requirements
-- search_rules("minor") → finds minor degree options""",
+WHEN TO USE: When the user asks what sections are available, or when you need a section_ref before fetching full text.""",
             "parameters": {
                 "type": "object",
                 "properties": {
-                    "query": {
+                    "document": {
                         "type": "string",
-                        "description": "The search query to find relevant rules sections"
+                        "description": "Optional filename filter, e.g. cos_2025_ug_rules.pdf or ug"
+                    },
+                    "depth": {
+                        "type": "integer",
+                        "description": "Maximum header depth to list (default 2)"
+                    },
+                    "generation": {
+                        "type": "string",
+                        "enum": ["legacy", "2025", "old", "new"],
+                        "description": "Optional curriculum generation override"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "get_cos_section",
+            "description": """Fetches and reassembles a full Courses-of-Study section by section_ref.
+
+section_ref format: cos_2025_ug_rules.pdf#h42. Returns source filename, page range, source_url, section path, and full text.""",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "section_ref": {
+                        "type": "string",
+                        "description": "Section reference returned by search_cos/list_cos_sections, e.g. cos_2025_ug_rules.pdf#h42"
+                    },
+                    "generation": {
+                        "type": "string",
+                        "enum": ["legacy", "2025", "old", "new"],
+                        "description": "Optional curriculum generation override"
                     }
                 },
-                "required": ["query"]
+                "required": ["section_ref"]
             }
         }
     },
@@ -600,7 +706,7 @@ DO NOT USE when:
 - You have a specific course code → use get_course_data
 - Filtering by slot/credits/department → use query_sqlite_db
 
-Returns top 10 matching courses with code, name, credits, generation, and description preview.
+Returns top 10 matching courses with code, name, credits, generation, source_url, and description preview.
 Covers both legacy CoS courses and courses.iitd.ac.in / curriculum.iitd.ac.in (2025) entries.
 
 EXAMPLES:
@@ -616,7 +722,7 @@ EXAMPLES:
                     },
                     "generation": {
                         "type": "string",
-                        "enum": ["legacy", "2025"],
+                        "enum": ["legacy", "2025", "old", "new"],
                         "description": "Optional curriculum generation filter; omit to use entry year"
                     }
                 },
@@ -634,7 +740,7 @@ WHEN TO USE: For questions about campus life, student resources, clubs, campus f
 
 DO NOT USE for:
 - Course details → use get_course_data / search_courses / query_sqlite_db
-- Academic rules/policies → use get_rules_section / search_rules
+- Academic rules/policies → use search_cos / list_cos_sections / get_cos_section / hybrid_search
 - Programme structures → use get_programme_structure
 
 If you don't know the exact page title, use search_wiki first.
@@ -693,12 +799,14 @@ After finding the relevant title, call get_wiki_page with that title to get the 
 
 # Mapping of tool names to their implementations
 TOOL_MAPPING = {
+    "load_skill": load_skill,
     "get_course_data": get_course_data,
     "query_sqlite_db": query_sqlite_db,
     "get_programme_structure": get_programme_structure,
     "hybrid_search": hybrid_search,
-    "get_rules_section": get_rules_section,
-    "search_rules": search_rules,
+    "search_cos": search_cos,
+    "list_cos_sections": list_cos_sections,
+    "get_cos_section": get_cos_section,
     "search_courses": search_courses,
     "get_wiki_page": get_wiki_page,
     "search_wiki": search_wiki,

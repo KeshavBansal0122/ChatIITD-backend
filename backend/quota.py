@@ -58,16 +58,19 @@ def quota_config(*, is_authenticated: bool) -> tuple[int, float]:
 
 
 def ensure_usage_tables() -> None:
-    mig = (
+    mig_dir = (
         __import__("pathlib").Path(__file__).resolve().parent.parent
         / "db"
         / "migrations"
-        / "003_llm_usage_and_credentials.sql"
     )
-    if not mig.exists():
-        return
     with get_session() as sess:
-        sess.execute(text(mig.read_text(encoding="utf-8")))
+        for mig in (
+            mig_dir / "003_llm_usage_and_credentials.sql",
+            mig_dir / "005_llm_oauth_credentials.sql",
+            mig_dir / "006_llm_credentials_enabled.sql",
+        ):
+            if mig.exists():
+                sess.execute(text(mig.read_text(encoding="utf-8")))
         sess.commit()
 
 

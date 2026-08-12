@@ -20,6 +20,7 @@ from openai import (
 )
 from dotenv import load_dotenv
 
+from .skills import build_skills_index
 from .tools import TOOLS, execute_tool, set_tool_user_context
 from .agent_context import (
     AgentContext,
@@ -107,6 +108,10 @@ def _openrouter_call_kwargs(
 
     session_id / prompt_cache_key keep multi-turn agent loops on the same
     provider endpoint so automatic or explicit caches can hit.
+
+    Reasoning is forced off (effort=none) so chat models do not burn
+    hidden thinking tokens against the shared quota. Override with
+    REASONING_EFFORT=minimal|low|medium|high if needed.
     """
     headers = dict(runtime.extra_headers or {})
     extra_body: dict[str, Any] = {}
@@ -118,6 +123,23 @@ def _openrouter_call_kwargs(
     if _is_anthropic_model(runtime.model):
         # OpenRouter Anthropic: top-level auto cache breakpoint
         extra_body.setdefault("cache_control", {"type": "ephemeral"})
+
+    # Disable (or minimize) reasoning / thinking tokens.
+    # OpenRouter: reasoning.effort; OpenAI-compat also accepts reasoning_effort.
+    # Prefer "none"; GPT-5 family often requires "minimal" (enabled:false → 400).
+    effort = (os.environ.get("REASONING_EFFORT") or "").strip().lower()
+    if not effort:
+        model = (runtime.model or "").lower()
+        # GPT-5 / o-series: "minimal" ≈ disabled (zero reasoning tokens).
+        if model.startswith("openai/gpt-5") or "/o1" in model or "/o3" in model or "/o4" in model:
+            effort = "minimal"
+        else:
+            effort = "none"
+    if effort not in ("none", "minimal", "low", "medium", "high", "xhigh", "max"):
+        effort = "none"
+    extra_body["reasoning"] = {"effort": effort, "exclude": True}
+    extra_body["reasoning_effort"] = effort
+
     out: dict[str, Any] = {}
     if headers:
         out["extra_headers"] = headers
@@ -150,11 +172,68 @@ _EXC_FALLBACKS = (
 )
 
 
-def classify_openrouter_error(e: Exception) -> dict:
-    """Classify an OpenRouter exception into {type, message, error_code} for WebSocket events."""
-    status_code = e.status_code if isinstance(e, APIStatusError) else None
+class ByokProviderError(Exception):
+    """A user-owned provider returned an account-level error."""
+
+
+class ByokAuthError(ByokProviderError):
+    """A user-owned provider credential was rejected and needs reconnecting."""
+
+
+class ByokCreditError(ByokProviderError):
+    """A user-owned provider account has insufficient credits."""
+
+
+_BYOK_AUTH_MESSAGE = (
+    "Your connected AI provider rejected the saved key. Reconnect it in Profile; "
+    "future messages will use the shared pool if available."
+)
+_BYOK_CREDIT_MESSAGE = (
+    "Your connected OpenRouter account does not have enough credits for this request. "
+    "Add credits in OpenRouter, lower the selected model/cost, or disconnect it to use the shared pool if available."
+)
+
+
+def _provider_status_code(e: Exception) -> int | None:
+    status_code = getattr(e, "status_code", None)
     if status_code is None and isinstance(getattr(e, "body", None), dict):
         status_code = e.body.get("error", {}).get("code")
+    return status_code
+
+
+def _is_auth_rejection(e: Exception) -> bool:
+    status_code = _provider_status_code(e)
+    if status_code in (401, 403):
+        return True
+    name = type(e).__name__.lower()
+    return "authentication" in name or "permissiondenied" in name or "forbidden" in name
+
+
+def _is_credit_exhausted(e: Exception) -> bool:
+    return _provider_status_code(e) == 402
+
+
+def _maybe_raise_byok_auth_error(runtime, agent_ctx: AgentContext | None, e: Exception) -> None:
+    if not getattr(runtime, "is_byok", False) or not agent_ctx or agent_ctx.user_id is None:
+        return
+    if _is_credit_exhausted(e):
+        raise ByokCreditError(_BYOK_CREDIT_MESSAGE) from e
+    if not _is_auth_rejection(e):
+        return
+    from backend import llm_clients
+
+    llm_clients.mark_user_credentials_invalid(agent_ctx.user_id)
+    raise ByokAuthError(_BYOK_AUTH_MESSAGE) from e
+
+
+def classify_openrouter_error(e: Exception) -> dict:
+    """Classify an OpenRouter exception into {type, message, error_code} for WebSocket events."""
+    if isinstance(e, ByokAuthError):
+        return {"type": "error", "message": str(e), "error_code": "byok_auth_invalid"}
+    if isinstance(e, ByokCreditError):
+        return {"type": "error", "message": str(e), "error_code": "byok_insufficient_credits"}
+
+    status_code = e.status_code if isinstance(e, APIStatusError) else _provider_status_code(e)
 
     if status_code in _ERROR_MAP:
         code, msg = _ERROR_MAP[status_code]
@@ -174,7 +253,7 @@ def classify_openrouter_error(e: Exception) -> dict:
 
 _AGENT_DIR = Path(__file__).resolve().parent
 with open(_AGENT_DIR / 'system_prompt.txt', 'r') as f:
-    BASE_SYSTEM_PROMPT = f.read()
+    BASE_SYSTEM_PROMPT = f.read().replace("{{SKILLS_INDEX}}", build_skills_index())
 
 _COURSE_CODE_RE = re.compile(r"\b[A-Z]{2}[LPDNVS]\d{3}\b")
 _DEPTH_KEYWORDS = ("full plan", "comprehensive", "all courses", "list all", "everything", "detailed", "step by step")
@@ -484,13 +563,21 @@ def invoke_memory_agent(
             tools = openai_tools_to_anthropic(cache=True)
             for iteration in range(1, MAX_TOOL_ITERATIONS + 1):
                 system, anth_msgs = openai_messages_to_anthropic(messages)
-                response = runtime.sync_client.messages.create(
-                    model=runtime.model,
-                    max_tokens=FINAL_RESPONSE_MAX_TOKENS,
-                    system=system or "You are a helpful assistant.",
-                    tools=tools,
-                    messages=anth_msgs,
-                )
+                try:
+                    response = runtime.sync_client.messages.create(
+                        model=runtime.model,
+                        max_tokens=FINAL_RESPONSE_MAX_TOKENS,
+                        system=system or "You are a helpful assistant.",
+                        tools=tools,
+                        messages=anth_msgs,
+                    )
+                except Exception as e:
+                    try:
+                        _maybe_raise_byok_auth_error(runtime, agent_ctx, e)
+                    except ByokProviderError as byok_e:
+                        logger.warning("[invoke/anthropic] BYOK provider account error for user_id=%s", agent_ctx.user_id if agent_ctx else None)
+                        return {"output": str(byok_e)}
+                    raise
                 _note_anthropic_usage(agent_ctx, response)
                 assistant_msg = anthropic_response_to_openai_assistant(response)
                 messages.append(assistant_msg)
@@ -537,6 +624,11 @@ def invoke_memory_agent(
                     **_openrouter_call_kwargs(runtime, session_id),
                 )
             except Exception as e:
+                try:
+                    _maybe_raise_byok_auth_error(runtime, agent_ctx, e)
+                except ByokProviderError as byok_e:
+                    logger.warning("[invoke] BYOK provider account error for user_id=%s", agent_ctx.user_id if agent_ctx else None)
+                    return {"output": str(byok_e)}
                 logger.error(f"[invoke] API call failed: {e}", exc_info=True)
                 return {"output": f"Sorry, I encountered an error while processing your request: {e}"}
 
@@ -627,6 +719,12 @@ async def stream_memory_agent_with_status(
                     messages=anth_msgs,
                 )
             except Exception as e:
+                try:
+                    _maybe_raise_byok_auth_error(runtime, agent_ctx, e)
+                except ByokProviderError as byok_e:
+                    logger.warning("[stream/anthropic] BYOK provider account error for user_id=%s", agent_ctx.user_id if agent_ctx else None)
+                    yield classify_openrouter_error(byok_e)
+                    return
                 logger.error(f"[stream/anthropic] failed: {e}", exc_info=True)
                 yield classify_openrouter_error(e)
                 return
@@ -688,6 +786,12 @@ async def stream_memory_agent_with_status(
                 **_openrouter_call_kwargs(runtime, session_id),
             )
         except Exception as e:
+            try:
+                _maybe_raise_byok_auth_error(runtime, agent_ctx, e)
+            except ByokProviderError as byok_e:
+                logger.warning("[stream] BYOK provider account error for user_id=%s", agent_ctx.user_id if agent_ctx else None)
+                yield classify_openrouter_error(byok_e)
+                return
             logger.error(f"[stream] API call failed: {e}", exc_info=True)
             yield classify_openrouter_error(e)
             return
@@ -739,6 +843,12 @@ async def stream_memory_agent_with_status(
                 if choice.finish_reason:
                     finish_reason = choice.finish_reason
         except Exception as e:
+            try:
+                _maybe_raise_byok_auth_error(runtime, agent_ctx, e)
+            except ByokProviderError as byok_e:
+                logger.warning("[stream] BYOK provider account error while streaming for user_id=%s", agent_ctx.user_id if agent_ctx else None)
+                yield classify_openrouter_error(byok_e)
+                return
             logger.error(f"[stream] streaming failed: {e}", exc_info=True)
             yield classify_openrouter_error(e)
             return
@@ -883,6 +993,12 @@ async def stream_memory_agent_data_stream(
                     messages=anth_msgs,
                 )
             except Exception as e:
+                try:
+                    _maybe_raise_byok_auth_error(runtime, agent_ctx, e)
+                except ByokProviderError as byok_e:
+                    logger.warning("[data-stream/anthropic] BYOK provider account error for user_id=%s", agent_ctx.user_id if agent_ctx else None)
+                    yield ds.error(str(byok_e))
+                    return
                 logger.error(f"[data-stream/anthropic] failed: {e}", exc_info=True)
                 err = classify_openrouter_error(e)
                 yield ds.error(err["message"])
@@ -962,6 +1078,12 @@ async def stream_memory_agent_data_stream(
                     **_openrouter_call_kwargs(runtime, session_id),
                 )
         except Exception as e:
+            try:
+                _maybe_raise_byok_auth_error(runtime, agent_ctx, e)
+            except ByokProviderError as byok_e:
+                logger.warning("[data-stream] BYOK provider account error for user_id=%s", agent_ctx.user_id if agent_ctx else None)
+                yield ds.error(str(byok_e))
+                return
             logger.error(f"[data-stream] API call failed: {e}", exc_info=True)
             err = classify_openrouter_error(e)
             yield ds.error(err["message"])
@@ -1050,6 +1172,12 @@ async def stream_memory_agent_data_stream(
                 if choice.finish_reason:
                     finish_reason = choice.finish_reason
         except Exception as e:
+            try:
+                _maybe_raise_byok_auth_error(runtime, agent_ctx, e)
+            except ByokProviderError as byok_e:
+                logger.warning("[data-stream] BYOK provider account error while streaming for user_id=%s", agent_ctx.user_id if agent_ctx else None)
+                yield ds.error(str(byok_e))
+                return
             logger.error(f"[data-stream] streaming failed: {e}", exc_info=True)
             err = classify_openrouter_error(e)
             yield ds.error(err["message"])

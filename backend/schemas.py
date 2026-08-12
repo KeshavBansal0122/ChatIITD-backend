@@ -326,13 +326,31 @@ class LlmCredentialsUpsert(BaseModel):
     model: Optional[str] = None
 
 
+class LlmCredentialsModelUpdate(BaseModel):
+    model: str = Field(..., min_length=1, max_length=200)
+
+
+class LlmCredentialsEnabledUpdate(BaseModel):
+    enabled: bool
+
+
 class LlmCredentialsPublic(BaseModel):
     provider: str
     base_url: str
     model: Optional[str] = None
     key_fingerprint: str
+    auth_method: str = "manual"
+    enabled: bool = True
     created_at: Optional[str] = None
     updated_at: Optional[str] = None
+
+
+class OpenRouterOAuthStartResponse(BaseModel):
+    auth_url: str
+
+
+class OpenRouterOAuthCallbackRequest(BaseModel):
+    code: str
 
 
 class UsageStatusResponse(BaseModel):

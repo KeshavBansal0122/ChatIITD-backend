@@ -73,19 +73,26 @@ def shared_openrouter_runtime() -> LlmRuntime:
     )
 
 
-def get_user_credentials(user_id: int) -> Optional[dict]:
+def _get_user_credentials_row(user_id: int, *, require_enabled: bool) -> Optional[dict]:
+    enabled_filter = "AND enabled = TRUE" if require_enabled else ""
     with get_session() as sess:
         row = sess.execute(
             text(
-                """
+                f"""
                 SELECT provider, base_url, model, api_key_ciphertext, api_key_nonce,
-                       key_fingerprint, created_at, updated_at
-                FROM user_llm_credentials WHERE user_id = :uid
+                       key_fingerprint, auth_method, invalidated_at, enabled, created_at, updated_at
+                FROM user_llm_credentials
+                WHERE user_id = :uid AND invalidated_at IS NULL
+                {enabled_filter}
                 """
             ),
             {"uid": user_id},
         ).mappings().first()
         return dict(row) if row else None
+
+
+def get_user_credentials(user_id: int) -> Optional[dict]:
+    return _get_user_credentials_row(user_id, require_enabled=True)
 
 
 def user_has_byok(user_id: int | None) -> bool:
@@ -101,6 +108,7 @@ def save_user_credentials(
     api_key: str,
     base_url: str | None = None,
     model: str | None = None,
+    auth_method: str = "manual",
 ) -> dict:
     provider = (provider or "").strip().lower()
     if provider not in PROVIDER_PRESETS:
@@ -115,15 +123,18 @@ def save_user_credentials(
     enc = encrypt_api_key(api_key.strip())
     resolved_model = (model or preset["default_model"] or DEFAULT_MODEL).strip()
 
+    auth_method = auth_method if auth_method in {"manual", "oauth"} else "manual"
+
     with get_session() as sess:
         sess.execute(
             text(
                 """
                 INSERT INTO user_llm_credentials
                     (user_id, provider, base_url, model, api_key_ciphertext,
-                     api_key_nonce, key_fingerprint, created_at, updated_at)
+                     api_key_nonce, key_fingerprint, auth_method, invalidated_at, enabled,
+                     created_at, updated_at)
                 VALUES
-                    (:uid, :provider, :base_url, :model, :ct, :nonce, :fp, now(), now())
+                    (:uid, :provider, :base_url, :model, :ct, :nonce, :fp, :auth_method, NULL, TRUE, now(), now())
                 ON CONFLICT (user_id) DO UPDATE SET
                     provider = EXCLUDED.provider,
                     base_url = EXCLUDED.base_url,
@@ -131,6 +142,9 @@ def save_user_credentials(
                     api_key_ciphertext = EXCLUDED.api_key_ciphertext,
                     api_key_nonce = EXCLUDED.api_key_nonce,
                     key_fingerprint = EXCLUDED.key_fingerprint,
+                    auth_method = EXCLUDED.auth_method,
+                    invalidated_at = NULL,
+                    enabled = TRUE,
                     updated_at = now()
                 """
             ),
@@ -142,6 +156,7 @@ def save_user_credentials(
                 "ct": enc.ciphertext,
                 "nonce": enc.nonce,
                 "fp": enc.fingerprint,
+                "auth_method": auth_method,
             },
         )
         sess.commit()
@@ -151,6 +166,8 @@ def save_user_credentials(
         "base_url": resolved_base,
         "model": resolved_model,
         "key_fingerprint": enc.fingerprint,
+        "auth_method": auth_method,
+        "enabled": True,
     }
 
 
@@ -165,7 +182,7 @@ def delete_user_credentials(user_id: int) -> bool:
 
 
 def credentials_public_view(user_id: int) -> Optional[dict]:
-    row = get_user_credentials(user_id)
+    row = _get_user_credentials_row(user_id, require_enabled=False)
     if not row:
         return None
     return {
@@ -173,9 +190,67 @@ def credentials_public_view(user_id: int) -> Optional[dict]:
         "base_url": row["base_url"],
         "model": row["model"],
         "key_fingerprint": row["key_fingerprint"],
+        "auth_method": row.get("auth_method") or "manual",
+        "enabled": bool(row.get("enabled", True)),
         "created_at": row["created_at"].isoformat() if row.get("created_at") else None,
         "updated_at": row["updated_at"].isoformat() if row.get("updated_at") else None,
     }
+
+
+def update_user_credentials_model(user_id: int, model: str) -> Optional[dict]:
+    resolved_model = (model or "").strip()
+    if not resolved_model:
+        raise ValueError("model required")
+    with get_session() as sess:
+        result = sess.execute(
+            text(
+                """
+                UPDATE user_llm_credentials
+                SET model = :model, updated_at = now()
+                WHERE user_id = :uid AND invalidated_at IS NULL
+                """
+            ),
+            {"uid": user_id, "model": resolved_model},
+        )
+        sess.commit()
+        if (result.rowcount or 0) <= 0:
+            return None
+    return credentials_public_view(user_id)
+
+
+def update_user_credentials_enabled(user_id: int, enabled: bool) -> Optional[dict]:
+    with get_session() as sess:
+        result = sess.execute(
+            text(
+                """
+                UPDATE user_llm_credentials
+                SET enabled = :enabled, updated_at = now()
+                WHERE user_id = :uid AND invalidated_at IS NULL
+                """
+            ),
+            {"uid": user_id, "enabled": bool(enabled)},
+        )
+        sess.commit()
+        if (result.rowcount or 0) <= 0:
+            return None
+    return credentials_public_view(user_id)
+
+
+def mark_user_credentials_invalid(user_id: int | None) -> None:
+    if user_id is None:
+        return
+    with get_session() as sess:
+        sess.execute(
+            text(
+                """
+                UPDATE user_llm_credentials
+                SET invalidated_at = now(), updated_at = now()
+                WHERE user_id = :uid AND invalidated_at IS NULL
+                """
+            ),
+            {"uid": user_id},
+        )
+        sess.commit()
 
 
 def resolve_runtime(user_id: int | None) -> LlmRuntime:
